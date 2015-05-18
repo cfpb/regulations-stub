@@ -1,0 +1,890 @@
+{
+    "1026-32-b-1-ii": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    205, 
+                    216
+                ], 
+                [
+                    "insert", 
+                    205, 
+                    "set;"
+                ]
+            ]
+        ]
+    }, 
+    "1026-32-b-1-ii-A": {
+        "op": "deleted"
+    }, 
+    "1026-32-b-1-ii-B": {
+        "op": "deleted"
+    }, 
+    "1026-32-b-1-ii-C": {
+        "op": "deleted"
+    }, 
+    "1026-32-b-1-ii-Interp-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    95, 
+                    129
+                ], 
+                [
+                    "insert", 
+                    95, 
+                    "originator is included in the calculation"
+                ]
+            ], 
+            [
+                "insert", 
+                133, 
+                "points and fees for a transaction, provided that such compensation can be attributed to that particular transaction at "
+            ], 
+            [
+                [
+                    "delete", 
+                    137, 
+                    146
+                ], 
+                [
+                    "insert", 
+                    137, 
+                    "time the interest rate"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    150, 
+                    158
+                ], 
+                [
+                    "insert", 
+                    150, 
+                    "set. Loan originator compensation includes amounts the loan originator retains and is not dependent on the label or name of any fee imposed"
+                ]
+            ], 
+            [
+                "insert", 
+                162, 
+                "connection with "
+            ], 
+            [
+                "delete", 
+                166, 
+                576
+            ]
+        ]
+    }, 
+    "1026-32-b-1-ii-Interp-2": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                74, 
+                651
+            ]
+        ]
+    }, 
+    "1026-32-b-1-ii-Interp-2-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1026", 
+                "32", 
+                "b", 
+                "1", 
+                "ii", 
+                "Interp", 
+                "2", 
+                "i"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": null, 
+            "text": "i. Loan originator compensation includes the dollar value of compensation, such as a bonus, commission, or award of merchandise, services, trips, or similar prizes, that is paid by a consumer or creditor to a loan originator and can be attributed to that particular transaction. The amount of compensation that can be attributed to a particular transaction is the dollar value of compensation that the loan originator will receive if the transaction is consummated. As explained in comment 32(b)(1)(ii)-3, the amount of compensation that a loan originator will receive is calculated as of the date the interest rate is set and includes compensation that is paid before, at, or after consummation.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1026-32-b-1-ii-Interp-2-ii": {
+        "node": {
+            "child_labels": [
+                "1026-32-b-1-ii-Interp-2-ii-A", 
+                "1026-32-b-1-ii-Interp-2-ii-B", 
+                "1026-32-b-1-ii-Interp-2-ii-C"
+            ], 
+            "label": [
+                "1026", 
+                "32", 
+                "b", 
+                "1", 
+                "ii", 
+                "Interp", 
+                "2", 
+                "ii"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "ii. Loan originator compensation excludes compensation that cannot be attributed to that transaction, including, for example:", 
+            "text": "ii. Loan originator compensation excludes compensation that cannot be attributed to that transaction, including, for example:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1026-32-b-1-ii-Interp-2-ii-A": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1026", 
+                "32", 
+                "b", 
+                "1", 
+                "ii", 
+                "Interp", 
+                "2", 
+                "ii", 
+                "A"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "A. Compensation based on the long term performance of the loan originator's loans.", 
+            "text": "A. Compensation based on the long term performance of the loan originator's loans.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1026-32-b-1-ii-Interp-2-ii-B": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1026", 
+                "32", 
+                "b", 
+                "1", 
+                "ii", 
+                "Interp", 
+                "2", 
+                "ii", 
+                "B"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "B. Compensation based on the overall quality of a loan originator's loan files.", 
+            "text": "B. Compensation based on the overall quality of a loan originator's loan files.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1026-32-b-1-ii-Interp-2-ii-C": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1026", 
+                "32", 
+                "b", 
+                "1", 
+                "ii", 
+                "Interp", 
+                "2", 
+                "ii", 
+                "C"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "C. The base salary of a loan originator. However, any compensation in addition to the base salary that can be attributed to the transaction at the time the interest rate is set must be included in loan originator compensation for the purpose of calculating points and fees.", 
+            "text": "C. The base salary of a loan originator. However, any compensation in addition to the base salary that can be attributed to the transaction at the time the interest rate is set must be included in loan originator compensation for the purpose of calculating points and fees.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1026-32-b-1-ii-Interp-3": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                467, 
+                "the portion of a bonus, commission, or award of merchandise, services, trips, or similar prizes that can be attributed to that transaction at the time the creditor sets the interest rate for the transaction, even if that bonus, commission, or award of merchandise, services, trips, or similar prizes is not paid until after consummation. For example, assume a $100,000 transaction and that, as of the date the interest rate is set, the loan originator is entitled to receive a commission equal to 1 percent of the loan amount at consummation, i.e., $1,000, payable at the end of the month. In addition, assume that after the date the interest rate is set but before consummation of the transaction, the loan originator originates other transactions that enable the loan originator to meet a loan volume threshold, which increases the loan originator's commission to 1.25 percent of the loan amount, i.e., $1,250. In this case, the creditor need include only $1,000 as loan originator "
+            ], 
+            [
+                [
+                    "delete", 
+                    480, 
+                    556
+                ], 
+                [
+                    "insert", 
+                    480, 
+                    "in points and fees because, as of the date the"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    571, 
+                    655
+                ], 
+                [
+                    "insert", 
+                    571, 
+                    "was set, the loan originator would have been entitled to receive $1,000 upon consummation of the transaction."
+                ]
+            ]
+        ]
+    }, 
+    "1026-32-b-1-ii-Interp-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    19, 
+                    129
+                ], 
+                [
+                    "insert", 
+                    19, 
+                    "compensation\u2014examples. The following examples illustrate"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    134, 
+                    178
+                ], 
+                [
+                    "insert", 
+                    134, 
+                    "rule:"
+                ]
+            ]
+        ]
+    }, 
+    "1026-32-b-1-ii-Interp-4-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    3, 
+                    20
+                ], 
+                [
+                    "insert", 
+                    3, 
+                    "Assume that, according"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    24, 
+                    53
+                ], 
+                [
+                    "insert", 
+                    24, 
+                    "a creditor's compensation policies, the creditor awards its loan officers a bonus every year based on the number of loan applications taken by the loan officer that result"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    57, 
+                    127
+                ], 
+                [
+                    "insert", 
+                    57, 
+                    "consummated transactions during that year, and that each consummated transaction increases the year-end bonus by $100. In this case, $100 of the bonus is loan originator compensation that must be"
+                ]
+            ], 
+            [
+                "insert", 
+                140, 
+                "points and fees for "
+            ], 
+            [
+                "delete", 
+                144, 
+                323
+            ], 
+            [
+                "delete", 
+                335, 
+                577
+            ]
+        ]
+    }, 
+    "1026-32-b-1-ii-Interp-4-ii": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    12
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Assume that, according to a creditor's compensation policies, the creditor awards its loan officers a year-end bonus equal to a flat dollar amount for each of the consummated transactions originated"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    16, 
+                    56
+                ], 
+                [
+                    "insert", 
+                    16, 
+                    "the loan officer during that year. Assume also that the per-transaction dollar amount is finalized at the end of the year, according to a predetermined schedule that provides for a specific per-transaction dollar amount based on the total dollar value of consummated transactions originated by the loan officer. If on the date the interest rate for a transaction is set, the loan officer has originated total volume that qualifies the loan officer to receive a $300 bonus per transaction under the predetermined schedule, then $300 of the year-end bonus can be attributed to that particular transaction and therefore is loan"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    68, 
+                    89
+                ], 
+                [
+                    "insert", 
+                    68, 
+                    "compensation that must be included"
+                ]
+            ], 
+            [
+                "delete", 
+                93, 
+                218
+            ], 
+            [
+                [
+                    "delete", 
+                    234, 
+                    432
+                ], 
+                [
+                    "insert", 
+                    234, 
+                    "for that"
+                ]
+            ], 
+            [
+                "delete", 
+                445, 
+                668
+            ]
+        ]
+    }, 
+    "1026-32-b-1-ii-Interp-4-iii": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    5, 
+                    61
+                ], 
+                [
+                    "insert", 
+                    5, 
+                    "Assume that, according to a creditor's compensation policies, the creditor awards its loan officers a bonus at the end of the year based on the number of consummated transactions originated"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    65, 
+                    92
+                ], 
+                [
+                    "insert", 
+                    65, 
+                    "the loan officer during that year. Assume also that, for the first 10 transactions originated"
+                ]
+            ], 
+            [
+                "insert", 
+                96, 
+                "the loan officer in "
+            ], 
+            [
+                [
+                    "delete", 
+                    98, 
+                    106
+                ], 
+                [
+                    "insert", 
+                    98, 
+                    "given year, no bonus is awarded; for the next 10 transactions originated by the loan officer up to 20, a bonus of $100 per transaction is awarded; and for each transaction originated after the first 20, a bonus of $200 per transaction is awarded. In this case, if, on the date the interest rate for the transaction is set, the loan officer has originated 10"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    110, 
+                    118
+                ], 
+                [
+                    "insert", 
+                    110, 
+                    "fewer transactions that year, then none of the year-end bonus is attributable"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    122, 
+                    178
+                ], 
+                [
+                    "insert", 
+                    122, 
+                    "the transaction and therefore none of the bonus is"
+                ]
+            ], 
+            [
+                "delete", 
+                191, 
+                210
+            ], 
+            [
+                [
+                    "delete", 
+                    226, 
+                    273
+                ], 
+                [
+                    "insert", 
+                    226, 
+                    "for that transaction. If, on the date the interest rate for the transaction is set, the loan officer has originated at more than 10 but no more than 20 transactions, $100 of the bonus is attributable to the transaction and is"
+                ]
+            ], 
+            [
+                "insert", 
+                302, 
+                "for that transaction. If, on the date the interest rate for the transaction is set, the loan officer has originated more than 20 transactions, $200 of the bonus is attributable to the transaction and is included "
+            ], 
+            [
+                [
+                    "delete", 
+                    305, 
+                    332
+                ], 
+                [
+                    "insert", 
+                    305, 
+                    "points and"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    338, 
+                    616
+                ], 
+                [
+                    "insert", 
+                    338, 
+                    "for the"
+                ]
+            ], 
+            [
+                "delete", 
+                629, 
+                1234
+            ]
+        ]
+    }, 
+    "1026-32-b-1-ii-Interp-4-iv": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1026", 
+                "32", 
+                "b", 
+                "1", 
+                "ii", 
+                "Interp", 
+                "4", 
+                "iv"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "iv. Assume that, according to a creditor's compensation policies, the creditor pays its loan officers a base salary of $500 per week and awards its loan officers a bonus of $250 for each consummated transaction. For each transaction, none of the $500 base salary is counted in points and fees as loan originator compensation under \u00a7 1026.32(b)(1)(ii) because no precise portion of the base salary can be attributed to a particular transaction, but the $250 bonus is counted as loan originator compensation that is included in points and fees.", 
+            "text": "iv. Assume that, according to a creditor's compensation policies, the creditor pays its loan officers a base salary of $500 per week and awards its loan officers a bonus of $250 for each consummated transaction. For each transaction, none of the $500 base salary is counted in points and fees as loan originator compensation under \u00a7 1026.32(b)(1)(ii) because no precise portion of the base salary can be attributed to a particular transaction, but the $250 bonus is counted as loan originator compensation that is included in points and fees.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1026-32-b-2-ii": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    205, 
+                    216
+                ], 
+                [
+                    "insert", 
+                    205, 
+                    "set;"
+                ]
+            ]
+        ]
+    }, 
+    "1026-32-b-2-ii-A": {
+        "op": "deleted"
+    }, 
+    "1026-32-b-2-ii-B": {
+        "op": "deleted"
+    }, 
+    "1026-32-b-2-ii-C": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-ii": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                254, 
+                " or"
+            ]
+        ]
+    }, 
+    "1026-43-a-3-iii": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    79, 
+                    84
+                ], 
+                [
+                    "insert", 
+                    79, 
+                    "loan."
+                ]
+            ]
+        ]
+    }, 
+    "1026-43-a-3-iv": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-iv-Interp": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-iv-Interp-1": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-v": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-v-A": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-v-B": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-v-C": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-v-D": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-v-D-1": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-v-D-2": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-v-D-3": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-v-D-4": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-v-D-Interp": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-v-D-Interp-1": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-v-Interp": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-vi": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-vi-Interp": {
+        "op": "deleted"
+    }, 
+    "1026-43-a-3-vi-Interp-1": {
+        "op": "deleted"
+    }, 
+    "1026-43-b-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    279, 
+                    289
+                ], 
+                [
+                    "insert", 
+                    279, 
+                    "or by 3.5 or more percentage points for"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    292, 
+                    416
+                ], 
+                [
+                    "insert", 
+                    292, 
+                    "subordinate-lien"
+                ]
+            ], 
+            [
+                "delete", 
+                425, 
+                589
+            ]
+        ]
+    }, 
+    "1026-43-e-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    35, 
+                    47
+                ], 
+                [
+                    "insert", 
+                    35, 
+                    "compliance\u2014 "
+                ]
+            ]
+        ]
+    }, 
+    "1026-43-e-1-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    20, 
+                    25
+                ], 
+                [
+                    "insert", 
+                    20, 
+                    "transactions"
+                ]
+            ], 
+            [
+                "delete", 
+                164, 
+                180
+            ]
+        ]
+    }, 
+    "1026-43-e-1-ii-A": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                66, 
+                "paragraphs (e)(2), (e)(4), or (f) of this section, that is a higher-priced covered transaction, as defined in "
+            ], 
+            [
+                [
+                    "delete", 
+                    76, 
+                    114
+                ], 
+                [
+                    "insert", 
+                    76, 
+                    "(b)(4)"
+                ]
+            ], 
+            [
+                "delete", 
+                132, 
+                137
+            ], 
+            [
+                [
+                    "delete", 
+                    140, 
+                    190
+                ], 
+                [
+                    "insert", 
+                    140, 
+                    "presumed to comply with the repayment ability requirements of"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    201, 
+                    207
+                ], 
+                [
+                    "insert", 
+                    201, 
+                    "(c)"
+                ]
+            ], 
+            [
+                "delete", 
+                216, 
+                312
+            ]
+        ]
+    }, 
+    "1026-43-e-1-ii-B": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    141, 
+                    167
+                ], 
+                [
+                    "insert", 
+                    141, 
+                    "requirements of paragraphs"
+                ]
+            ], 
+            [
+                "delete", 
+                184, 
+                200
+            ]
+        ]
+    }, 
+    "1026-43-e-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    62, 
+                    95
+                ], 
+                [
+                    "insert", 
+                    62, 
+                    "paragraphs (e)(4)"
+                ]
+            ]
+        ]
+    }, 
+    "1026-43-e-5": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-Interp": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-Interp-1": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-Interp-10": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-Interp-2": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-Interp-3": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-Interp-4": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-Interp-5": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-Interp-6": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-Interp-7": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-Interp-8": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-Interp-9": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-i": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-i-A": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-i-B": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-i-C": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-i-D": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-ii": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-ii-A": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-ii-B": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-ii-C": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-5-ii-D": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-6": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-6-i": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-6-i-A": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-6-i-B": {
+        "op": "deleted"
+    }, 
+    "1026-43-e-6-ii": {
+        "op": "deleted"
+    }, 
+    "1026-43-g-1-ii-B": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                60, 
+                76
+            ]
+        ]
+    }
+}

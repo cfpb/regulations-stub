@@ -1,0 +1,750 @@
+{
+    "abstract": "The Bureau of Consumer Financial Protection (Bureau) is amending Regulation Z to implement amendments to the Truth in Lending Act (TILA) made by the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act). The final rule implements requirements and restrictions imposed by the Dodd-Frank Act concerning loan originator compensation; qualifications of, and registration or licensing of loan originators; compliance procedures for depository institutions; mandatory arbitration; and the financing of single- premium credit insurance. The final rule revises or provides additional commentary on Regulation Z's restrictions on loan originator compensation, including application of these restrictions to prohibitions on dual compensation and compensation based on a term of a transaction or a proxy for a term of a transaction, and to recordkeeping requirements. The final rule also establishes tests for when loan originators can be compensated through certain profits-based compensation arrangements. At this time, the Bureau is not prohibiting payments to and receipt of payments by loan originators when a consumer pays upfront points or fees in the mortgage transaction. Instead the Bureau will first study how points and fees function in the market and the impact of this and other mortgage-related rulemakings on consumers' understanding of and choices with respect to points and fees. This final rule is designed primarily to protect consumers by reducing incentives for loan originators to steer consumers into loans with particular terms and by ensuring that loan originators are adequately qualified.", 
+    "action": "Final rule; official interpretations.", 
+    "agency_names": [
+        "Consumer Financial Protection Bureau"
+    ], 
+    "amendments": [
+        [
+            "POST", 
+            [
+                "1026", 
+                "36", 
+                "g"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1026", 
+                "36", 
+                "i"
+            ]
+        ], 
+        [
+            "DELETE", 
+            [
+                "1026", 
+                "25", 
+                "a", 
+                "Interp", 
+                "5"
+            ]
+        ], 
+        [
+            "PUT", 
+            [
+                "1026", 
+                "36", 
+                "Interp"
+            ]
+        ], 
+        [
+            "DELETE", 
+            [
+                "1026", 
+                "36", 
+                "Interp", 
+                "1"
+            ]
+        ], 
+        [
+            "DELETE", 
+            [
+                "1026", 
+                "36", 
+                "Interp", 
+                "2"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1026", 
+                "36", 
+                "g", 
+                "Interp"
+            ]
+        ]
+    ], 
+    "cfr_parts": [
+        "1026"
+    ], 
+    "cfr_title": 12, 
+    "changes": {
+        "1026-25-a-Interp-5": [
+            {
+                "action": "DELETE"
+            }
+        ], 
+        "1026-36-Interp": [
+            {
+                "action": "PUT", 
+                "field": "[title]", 
+                "node": {
+                    "child_labels": [
+                        "1026-36-g-Interp"
+                    ], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "Interp"
+                    ], 
+                    "node_type": "interp", 
+                    "text": "", 
+                    "title": "\u00a7 1026.36\u2014Prohibited Acts or Practices and Certain Requirements for Credit Secured by a Dwelling"
+                }
+            }
+        ], 
+        "1026-36-Interp-1": [
+            {
+                "action": "DELETE"
+            }
+        ], 
+        "1026-36-Interp-2": [
+            {
+                "action": "DELETE"
+            }
+        ], 
+        "1026-36-g": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [
+                        "1026-36-g-1", 
+                        "1026-36-g-2", 
+                        "1026-36-g-3"
+                    ], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(g)<E T=\"03\">Name and NMLSR ID on loan documents.</E>", 
+                    "text": "(g) Name and NMLSR ID on loan documents. ", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-1": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [
+                        "1026-36-g-1-i", 
+                        "1026-36-g-1-ii"
+                    ], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "1"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(1) For a consumer credit transaction secured by a dwelling, a loan originator organization must include on the loan documents described in paragraph (g)(2) of this section, whenever each such loan document is provided to a consumer or presented to a consumer for signature, as applicable:", 
+                    "text": "(1) For a consumer credit transaction secured by a dwelling, a loan originator organization must include on the loan documents described in paragraph (g)(2) of this section, whenever each such loan document is provided to a consumer or presented to a consumer for signature, as applicable:", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-1-Interp": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [
+                        "1026-36-g-1-Interp-1", 
+                        "1026-36-g-1-Interp-2", 
+                        "1026-36-g-1-Interp-3", 
+                        "1026-36-g-1-ii-Interp"
+                    ], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "1", 
+                        "Interp"
+                    ], 
+                    "node_type": "interp", 
+                    "text": "", 
+                    "title": "Paragraph 36(g)(1)"
+                }
+            }
+        ], 
+        "1026-36-g-1-Interp-1": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "1", 
+                        "Interp", 
+                        "1"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "1.<E T=\"03\">NMLSR ID.</E>Section 1026.36(g) requires a loan originator organization to include its name and NMLSR ID and the name and NMLSR ID of the individual loan originator on certain loan documents. As provided in \u00a7 1026.36(a)(1), the term \u201cloan originator\u201d includes creditors that engage in loan originator activities for purposes of this requirement. Thus, for example, if an individual loan originator employed by a bank originates a loan, the names and NMLSR IDs of the individual and the bank must be included on covered loan documents. The NMLSR ID is a number generally assigned by the NMLSR to individuals registered or licensed through NMLSR to provide loan origination services. For more information, see the SAFE Act sections 1503(3) and (12) and 1504 (12 U.S.C. 5102(3) and (12) and 5103), and its implementing regulations (12 CFR 1007.103(a) and 1008.103(a)(2)). A loan originator organization may also have an NMLSR unique identifier.", 
+                    "text": "1. NMLSR ID. Section 1026.36(g) requires a loan originator organization to include its name and NMLSR ID and the name and NMLSR ID of the individual loan originator on certain loan documents. As provided in \u00a7 1026.36(a)(1), the term \u201cloan originator\u201d includes creditors that engage in loan originator activities for purposes of this requirement. Thus, for example, if an individual loan originator employed by a bank originates a loan, the names and NMLSR IDs of the individual and the bank must be included on covered loan documents. The NMLSR ID is a number generally assigned by the NMLSR to individuals registered or licensed through NMLSR to provide loan origination services. For more information, see the SAFE Act sections 1503(3) and (12) and 1504 (12 U.S.C. 5102(3) and (12) and 5103), and its implementing regulations (12 CFR 1007.103(a) and 1008.103(a)(2)). A loan originator organization may also have an NMLSR unique identifier.", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-1-Interp-2": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "1", 
+                        "Interp", 
+                        "2"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "2.<E T=\"03\">Loan originators without NMLSR IDs.</E>An NMLSR ID is not required by \u00a7 1026.36(g) to be included on loan documents if the loan originator is not required to obtain and has not been issued an NMLSR ID. For example, certain loan originator organizations and individual loan originators who are employees of bona fide nonprofit organizations may not be required to obtain a unique identifier under State law. However, some loan originators may have obtained NMLSR IDs, even if they are not required to have one for their current jobs. If a loan originator organization or an individual loan originator has been provided a unique identifier by the NMLSR, it must be included on the covered loan documents, regardless of whether the loan originator organization or individual loan originator is required to obtain an NMLSR unique identifier. In any event, the name of the loan originator is required by \u00a7 1026.36(g) to be included on the covered loan documents.", 
+                    "text": "2. Loan originators without NMLSR IDs. An NMLSR ID is not required by \u00a7 1026.36(g) to be included on loan documents if the loan originator is not required to obtain and has not been issued an NMLSR ID. For example, certain loan originator organizations and individual loan originators who are employees of bona fide nonprofit organizations may not be required to obtain a unique identifier under State law. However, some loan originators may have obtained NMLSR IDs, even if they are not required to have one for their current jobs. If a loan originator organization or an individual loan originator has been provided a unique identifier by the NMLSR, it must be included on the covered loan documents, regardless of whether the loan originator organization or individual loan originator is required to obtain an NMLSR unique identifier. In any event, the name of the loan originator is required by \u00a7 1026.36(g) to be included on the covered loan documents.", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-1-Interp-3": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "1", 
+                        "Interp", 
+                        "3"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "3.<E T=\"03\">Inclusion of name and NMLSR ID.</E>Section 1026.36(g)(1) requires the inclusion of loan originator names and NMLSR IDs on each loan document. Those items need not be included more than once on each loan document on which loan originator names and NMLSR IDs are required, such as by including them on every page of a document.", 
+                    "text": "3. Inclusion of name and NMLSR ID. Section 1026.36(g)(1) requires the inclusion of loan originator names and NMLSR IDs on each loan document. Those items need not be included more than once on each loan document on which loan originator names and NMLSR IDs are required, such as by including them on every page of a document.", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-1-i": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "1", 
+                        "i"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(i) Its name and NMLSR ID, if the NMLSR has provided it an NMLSR ID; and", 
+                    "text": "(i) Its name and NMLSR ID, if the NMLSR has provided it an NMLSR ID; and", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-1-ii": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "1", 
+                        "ii"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(ii) The name of the individual loan originator (as the name appears in the NMLSR) with primary responsibility for the origination and, if the NMLSR has provided such person an NMLSR ID, that NMLSR ID.", 
+                    "text": "(ii) The name of the individual loan originator (as the name appears in the NMLSR) with primary responsibility for the origination and, if the NMLSR has provided such person an NMLSR ID, that NMLSR ID.", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-1-ii-Interp": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [
+                        "1026-36-g-1-ii-Interp-1"
+                    ], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "1", 
+                        "ii", 
+                        "Interp"
+                    ], 
+                    "node_type": "interp", 
+                    "text": "", 
+                    "title": "Paragraph 36(g)(1)(ii)"
+                }
+            }
+        ], 
+        "1026-36-g-1-ii-Interp-1": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "1", 
+                        "ii", 
+                        "Interp", 
+                        "1"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "1.<E T=\"03\">Multiple individual loan originators.</E>If more than one individual meets the definition of a loan originator for a transaction, the name and NMLSR ID of the individual loan originator with primary responsibility for the transaction at the time the loan document is issued must be included. A loan originator organization that establishes and follows a reasonable, written policy for determining which individual loan originator has primary responsibility for the transaction at the time the document is issued complies with the requirement. If the individual loan originator with primary responsibility for a transaction at the time a document is issued is not the same individual loan originator who had primary responsibility for the transaction at the time that a previously issued document was issued, the previously issued document is not required to be reissued merely to change a loan originator name and NMLSR ID.", 
+                    "text": "1. Multiple individual loan originators. If more than one individual meets the definition of a loan originator for a transaction, the name and NMLSR ID of the individual loan originator with primary responsibility for the transaction at the time the loan document is issued must be included. A loan originator organization that establishes and follows a reasonable, written policy for determining which individual loan originator has primary responsibility for the transaction at the time the document is issued complies with the requirement. If the individual loan originator with primary responsibility for a transaction at the time a document is issued is not the same individual loan originator who had primary responsibility for the transaction at the time that a previously issued document was issued, the previously issued document is not required to be reissued merely to change a loan originator name and NMLSR ID.", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-2": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [
+                        "1026-36-g-2-i", 
+                        "1026-36-g-2-ii", 
+                        "1026-36-g-2-iii", 
+                        "1026-36-g-2-iv"
+                    ], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "2"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(2) The loan documents that must include the names and NMLSR IDs pursuant to paragraph (g)(1) of this section are:", 
+                    "text": "(2) The loan documents that must include the names and NMLSR IDs pursuant to paragraph (g)(1) of this section are:", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-2-i": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "2", 
+                        "i"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(i) The credit application;", 
+                    "text": "(i) The credit application;", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-2-ii": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "2", 
+                        "ii"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(ii) [Reserved]", 
+                    "text": "(ii) [Reserved]", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-2-iii": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "2", 
+                        "iii"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(iii) The note or loan contract; and", 
+                    "text": "(iii) The note or loan contract; and", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-2-iv": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "2", 
+                        "iv"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(iv) The security instrument.", 
+                    "text": "(iv) The security instrument.", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-3": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "3"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(3) For purposes of this section, NMLSR ID means a number assigned by the Nationwide Mortgage Licensing System and Registry to facilitate electronic tracking and uniform identification of loan originators and public access to the employment history of, and the publicly adjudicated disciplinary and enforcement actions against, loan originators.", 
+                    "text": "(3) For purposes of this section, NMLSR ID means a number assigned by the Nationwide Mortgage Licensing System and Registry to facilitate electronic tracking and uniform identification of loan originators and public access to the employment history of, and the publicly adjudicated disciplinary and enforcement actions against, loan originators.", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-g-Interp": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [
+                        "1026-36-g-1-Interp"
+                    ], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "g", 
+                        "Interp"
+                    ], 
+                    "node_type": "interp", 
+                    "text": "", 
+                    "title": "36(g) Name and NMLSR ID on Loan Documents"
+                }
+            }
+        ], 
+        "1026-36-i": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [
+                        "1026-36-i-1", 
+                        "1026-36-i-2"
+                    ], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "i"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(i)<E T=\"03\">Prohibition on financing single-premium credit insurance.</E>", 
+                    "text": "(i) Prohibition on financing single-premium credit insurance. ", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-i-1": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "i", 
+                        "1"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(1) A creditor may not finance, directly or indirectly, any premiums or fees for credit insurance in connection with a consumer credit transaction secured by a dwelling (including a home equity line of credit secured by the consumer's principal dwelling). This prohibition does not apply to credit insurance for which premiums or fees are calculated and paid in full on a monthly basis.", 
+                    "text": "(1) A creditor may not finance, directly or indirectly, any premiums or fees for credit insurance in connection with a consumer credit transaction secured by a dwelling (including a home equity line of credit secured by the consumer's principal dwelling). This prohibition does not apply to credit insurance for which premiums or fees are calculated and paid in full on a monthly basis.", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-i-2": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [
+                        "1026-36-i-2-i", 
+                        "1026-36-i-2-ii"
+                    ], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "i", 
+                        "2"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(2) For purposes of this paragraph (i), \u201ccredit insurance\u201d:", 
+                    "text": "(2) For purposes of this paragraph (i), \u201ccredit insurance\u201d:", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-i-2-i": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "i", 
+                        "2", 
+                        "i"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(i) Means credit life, credit disability, credit unemployment, or credit property insurance, or any other accident, loss-of-income, life, or health insurance, or any payments directly or indirectly for any debt cancellation or suspension agreement or contract, but", 
+                    "text": "(i) Means credit life, credit disability, credit unemployment, or credit property insurance, or any other accident, loss-of-income, life, or health insurance, or any payments directly or indirectly for any debt cancellation or suspension agreement or contract, but", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-36-i-2-ii": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "36", 
+                        "i", 
+                        "2", 
+                        "ii"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(ii) Excludes credit unemployment insurance for which the unemployment insurance premiums are reasonable, the creditor receives no direct or indirect compensation in connection with the unemployment insurance premiums, and the unemployment insurance premiums are paid pursuant to a separate insurance contract and are not paid to an affiliate of the creditor.", 
+                    "text": "(ii) Excludes credit unemployment insurance for which the unemployment insurance premiums are reasonable, the creditor receives no direct or indirect compensation in connection with the unemployment insurance premiums, and the unemployment insurance premiums are paid pursuant to a separate insurance contract and are not paid to an affiliate of the creditor.", 
+                    "title": null
+                }
+            }
+        ]
+    }, 
+    "contact": "Daniel C. Brown, Nora Rigby, and Michael G. Silver, Counsels; Krista P. Ayoub, and R. Colgate Selden, Senior Counsels; Charles Honig, Managing Counsel; Office of Regulations, at (202) 435-7700.", 
+    "document_number": "2013-01503_20140110", 
+    "effective_on": "2014-01-10", 
+    "footnotes": {
+        "1": "Fed. Reserve Sys., <em data-original=\"E-03\">Flow of Funds Accounts of the United States,</em> at 67 tbl.L.10 (2012), <em data-original=\"E-03\">available at</em>\n              <em data-original=\"E-03\">http://www.federalreserve.gov/releases/z1/Current/z1.pdf</em> (as of the end of the third quarter of 2012).", 
+        "10": "<em data-original=\"E-03\">Id.</em>", 
+        "11": "<em data-original=\"E-03\">Id.</em> at 217.", 
+        "12": "<em data-original=\"E-03\">Id.</em> at 124.", 
+        "13": "<em data-original=\"E-03\">The U.S. Housing Market: Current Conditions and Policy Considerations,</em> 3 (Fed. Reserve Bd., White Paper, 2012), <em data-original=\"E-03\">available at</em>\n              <em data-original=\"E-03\">http://www.federalreserve.gov/publications/other-reports/files/housing-white-paper-20120104.pdf</em>.", 
+        "14": "Lender Processing Servs., PowerPoint Presentation, <em data-original=\"E-03\">LPS Mortgage Monitor: December 2012 Mortgage Performance Observations, Data as of November 2012 Month End,</em> 3, 11 (December 2012), <em data-original=\"E-03\">available at</em>\n              <em data-original=\"E-03\">http://www.lpsvcs.com/LPSCorporateInformation/CommunicationCenter/DataReports/Pages/Mortgage-Monitor.aspx</em>.", 
+        "15": "HERA, which created the Federal Housing Finance Agency (FHFA), granted the Director of FHFA discretionary authority to appoint FHFA conservator or receiver of the Enterprises \u201cfor the purpose of reorganizing, rehabilitating, or winding up the affairs of a regulated entity.\u201d Housing and Economic Recovery Act of 2008, section 1367(a)(2), amending the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, 12 U.S.C. 4617(a)(2). On September 6, 2008, FHFA exercised that authority, placing Fannie Mae and Freddie Mac into conservatorships. The two GSEs have since received more than $180 billion in support from the Department of the Treasury. Through the second quarter of 2012, Fannie Mae has drawn $116.1 billion and Freddie Mac has drawn $71.3 billion, for an aggregate draw of $187.5 billion from the Department of the Treasury. Fed. Hous. Fin. Agency, <em data-original=\"E-03\">Conservator's Report on the Enterprises' Financial Performance,</em> at 17 (Second Quarter 2012), <em data-original=\"E-03\">available at</em>\n              <em data-original=\"E-03\">http://www.fhfa.gov/webfiles/24549/ConservatorsReport2Q2012.pdf</em>.", 
+        "158": "<em data-original=\"E-03\">See, e.g.,</em> 2000 Freddie Mac policy, at <em data-original=\"E-03\">http://www.freddiemac.com/sell/guide/bulletins/pdf/421indltr.pdf</em> and 2004 Fannie Mae policy, <em data-original=\"E-03\">https://www.fanniemae.com/content/announcement/04-05.pdf</em>.", 
+        "159": "Specifically, section 1022(b)(2)(A) of the Dodd-Frank Act calls for the Bureau to consider the potential benefits and costs of a regulation to consumers and covered persons, including the potential reduction of access by consumers to consumer financial products or services; the impact on depository institutions and credit unions with $10 billion or less in total assets as described in section 1026 of the Dodd-Frank Act; and the impact on consumers in rural areas.", 
+        "16": "The Making Home Affordable Program (MHA) is the umbrella program for Treasury's homeowner assistance and foreclosure mitigation efforts. The main MHA components are the Home Affordable Modification Program (HAMP), a Treasury program that uses TARP funds to provide incentives for mortgage servicers to modify eligible first-lien mortgages, and two initiatives at the GSEs that use non-TARP funds. Incentive payments for modifications to loans owned or guaranteed by the GSEs are paid by the GSEs, not TARP. Treasury over time expanded MHA to include sub-programs designed to overcome obstacles to sustainable HAMP modifications. Treasury also allocated TARP funds to support two additional housing support efforts: an FHA refinancing program and TARP funding for 19 state housing finance agencies, called the Housing Finance Agency Hardest Hit Fund. In the first half of 2012, Treasury extended the application period for HAMP by a year to December 31, 2013, and opened HAMP to non-owner-occupied rental properties and to consumers with a wider range of debt-to-income ratios under \u201cHAMP Tier 2.\u201d", 
+        "160": "The Bureau noted in the mortgage proposals issued in summer 2012 that it sought to obtain additional data to supplement its consideration of the rulemakings, including additional data from the National Mortgage License System (NMLS) and the NMLS Mortgage Call Report, loan file extracts from various lenders, and data from the pilot phases of the National Mortgage Database. Each of these data sources was not necessarily relevant to each of the rulemakings. The Bureau used the additional data from NMLS and NMLS Mortgage Call Report data to better corroborate its estimate of the contours of the non-depository segment of the mortgage market. The Bureau has received loan file extracts from three lenders, but at this point, the data from one lender is not usable and the data from the other two is not sufficiently standardized nor representative to inform consideration of the final rules. Additionally, the Bureau has thus far not yet received data from the National Mortgage Database pilot phases. The Bureau also requested that commenters submit relevant data. All probative data submitted by commenters are discussed in this document.", 
+        "161": "Sections 129B(b)(2) and 129B(c)(3) of TILA, as added by sections 1402 and 1403 of the Dodd-Frank Act, however, do not impose requirements on mortgage originators until Bureau implementing regulations take effect.", 
+        "162": "Consumers who expect to pay the balance of their loan prior to maturity can purchase from creditors the sole right to choose the date of this payoff. This right is valuable and its price is the market value such a sale creates for creditors in regard to the date of this potential payoff. Creditors exchange rights with consumers but in the opposite direction with \u201ccallable\u201d bonds. This type of bond exhibits an exactly opposite trade, in which the borrower cedes to the creditor the choice of time at which the creditor can require, if it chooses, the borrower to remit the remaining value of the bond.", 
+        "163": "The two options are not mutually exclusive. In some transactions, consumers may pay for the embedded option through more than one of the methods outlined. <em data-original=\"E-03\">See, e.g.,</em> Donald Keenan &amp; James J Kau, <em data-original=\"E-03\">An Overview of the Option-Theoretic Pricing of Mortgages,</em> 6 Journal of Housing Research 217 (1995) (providing an overview of options embedded in residential mortgages); James J Kau, Donald Keenan, Walter Muller &amp; James Epperson, <em data-original=\"E-03\">A Generalized Valuation Model for Fixed-Rate Mortgages with Default and Prepayment,</em> 11 Journal of Real Estate Finance &amp; Economics 5 (1995) (providing a traditional method to value these options numerically); Robert R. Jones and David Nickerson, <em data-original=\"E-03\">Mortgage Contracts, Strategic Options and Stochastic Collateral,</em> 24 Journal of Real Estate Finance &amp; Economics 35 (2002) (generating numerical values, in current dollars, for option-embedded mortgages in a continuous-time environment).", 
+        "164": "Similarly, consumers who expect to pay their loans over a period sufficiently short as to make the purchase of discount loans unattractive may find it better at the end of this expected period to continue to pay their mortgage and, consequently, suffer an unanticipated loss from refraining from the purchase of points. <em data-original=\"E-03\">See</em> Yan Chang &amp; Abdullah Yavas, <em data-original=\"E-03\">Do Borrowers Make Rational Choices on Points and Refinancing?,</em> 37 Real Estate Economics 635 (2009) (offering empirical evidence that consumers in their sample data remain in their current fixed-rate mortgages for too short a time to recover their initial investment in discount points). Other empirical evidence, however, conflicts with these results in regard to both the frequency and magnitude of losses. Simple numerical calculations that take into account taxes, local volatility in property values, and returns on alternative assets highlight the difficulty in drawing conclusions from much of the empirical data.", 
+        "165": "Such a circumstance includes, for example, the case in which the need to understand and decide among loans with different points and fees combinations imposes a burden on some consumers. The existence of increased choice made available by this provision would, in this case, be itself a cost to the consumer. Based on standard economic reasoning, the Bureau believes, however, that the circumstances in which the exercise of its exemption authority has the potential to reduce consumer welfare, relative to the statutory prohibition, are, for the most part, quite rare.", 
+        "166": "The choice over the means by which consumers compensate creditors for the prepayment option is of particular potential benefit to consumers who currently enjoy high liquidity but who either face prospects of diminished liquidity in the future or are more sensitive to the risk posed by a high variance in their future income or wealth. Examples of such consumers include retiring or older individuals wishing to secure their future housing, individuals who are otherwise predisposed to use their wealth for a one-time payment, consumers with relocation funds available, and consumers offered certain rebates by developers or other sellers. In situations where consumers are unaware of their own circumstance or their own relative financial acuity, some creditors may be able to benefit. For example, an unethical creditor may persuade those consumers unaware of their lower relative financial ability to make incorrect decisions regarding purchasing points. The outcome of this type of adverse selection will be reversed when consumers have a more accurate knowledge of their financial abilities than does the creditor.", 
+        "167": "Conversely, the elimination of the option to pay upfront points and fees could, depending on the extant risk in creditors' portfolios and their perceptions of differential risk between neighborhoods, seriously reduce the access to mortgage credit for some consumers.", 
+        "168": "In contrast, the prohibition on payment of upfront points and fees in the Dodd-Frank Act under most circumstances would ensure that the value of the option to share risk through discount points is lost to both the creditor and the consumer in those circumstances. Absent other means of hedging prepayment risk, creditors would either need to reduce the volume of loans they originate or incur greater costs of raising capital to fund such loans, owing to the increased risk to their business and, consequently, to their solvency.", 
+        "169": "Credible signaling in such a situation, from the creditor's perspective, distinguishes two groups of consumers\u2014one with low prepayment risk who purchase discount points, and the second a group not purchasing discount points and, consequently, expect to prepay their loan more rapidly than average\u2014in what would otherwise be a pool of consumers who are perceived by the creditor to exhibit an equivalent measure of prepayment risk.", 
+        "17": "The Home Affordable Refinance Program (HARP) is designed to help eligible homeowners refinance their mortgage. HARP is designed for those homeowners who are current on their mortgage payments but have been unable to get traditional refinancing because the value of their homes has declined. For a mortgage to be considered for a HARP refinance, it <em data-original=\"E-03\">must</em> be owned or guaranteed by the GSEs. HARP ends on December 31, 2013.", 
+        "170": "In this situation where the efficiency of the market is only impaired by adverse selection, this increase in creditor returns is independent of whether the creditor sells loans in the secondary market or chooses to engage in hedging to hold these mortgages in portfolio.", 
+        "171": "Moral hazard, in the current context of mortgage origination, depends fundamentally on the advantage the loan originator has in knowing the least expensive transaction terms acceptable to creditors and greater overall knowledge of the functioning of mortgage markets. <em data-original=\"E-03\">See</em> Holden Lewis, <em data-original=\"E-03\">&#8220;Moral Hazard&#8221; Helps Shape Mortgage Mess,</em> Bankrate (Apr. 18, 2007), <em data-original=\"E-03\">available at</em>\n              <em data-original=\"E-03\">http://www.bankrate.com/brm/news/mortgages/20070418_subprime_mortgage_morality_a1.asp</em> (providing a practitioner description of the costs of such moral hazard on the current mortgage and housing industries).", 
+        "172": "Such compensation includes bonuses paid under profit-sharing plans, and contributions by creditors and loan originator organizations to designated and non-designated benefit and contribution plans.", 
+        "173": "As noted in the section-by-section analysis, the Bureau issued CFPB Bulletin 2012-2 in response to the questions it received regarding the applicability of the current regulation to designated plans and non-designated plans, and this regulation is intended in part to provide further clarity on such issues. Until the final rule goes into effect, the clarifications in CFPB Bulletin 2012-2 will remain in effect.", 
+        "174": "Payments to designated retirement plans include, for example, employer contributions to employee 401(k) plans.", 
+        "175": "Bengt Holmstrom, <em data-original=\"E-03\">Moral Hazard and Observability,</em> Bell Journal of Economics 74 (1979), provides the first careful analysis of the effects such compensation methods have on employee incentives.", 
+        "176": "When multiple originators are working for a given loan originator organization or creditor, the compensation to each individual loan originator will depend upon on the aggregate efforts of all the loan originators working for this entity, rather than directly on the individual loan originator's own performance. Consequently, if we compare the efforts of an individual loan originator working for a smaller entity with those of another individual at a larger entity, the effort by the individual at the larger entity will be less than the effort of the individual at the smaller entity, owing to the smaller influence any individual at the larger entity has on the amount of compensation awarded to the individual. This relationship between individual effort and the total number of peers in a given entity is termed \u201cfree-riding.\u201d Free riding behavior has been extensively analyzed: Surveys of these analyses appear in Martin L. Weitzman, <em data-original=\"E-03\">Incentive Effects of Profit Sharing, in Trends in Business Organization: Do Participation and Cooperation Increase Competitiveness?</em> (Kiel Inst. of World Econs.1995), <em data-original=\"E-03\">available at</em>\n              <em data-original=\"E-03\">http://ws1.ad.economics.harvard.edu/faculty/weitzman/files/IncentiveEffectsProfitSharing.pdf.</em> ;", 
+        "177": "Economic research has established the general principle that the amount of work individuals put into a given task, in response to remuneration based on the sharing of profits, declines as the number of their peers increases (\u201cfree-riding.\u201d). No principle with such generality has been shown, however, in regard to the rate of this decline and the amount of individual work effort for any particular group of employees. Features of the means by which profits are distributed to individuals and the individual's environment within a given firm, such as the individual's ability to observe the performance of his peers and the frequency of managerial monitoring of individual performance, strongly affect these variables, as shown in a number of recent studies, including empirical and experimental research papers: Susan Helper, et al., <em data-original=\"E-03\">Analyzing Compensation Methods in Manufacturing: Piece Rates, Time Rates, or Gain-Sharing?,</em> (NBER Working Paper No. 16540, 2010); R. Mark Isaac &amp; James M. Walker, <em data-original=\"E-03\">Group Size Effects in Public Goods Provision: The Voluntary Contributions Mechanism,</em> Quarterly Journal of Economics, 1988, 103 (1), 179-199; Xavier Gine &amp; Dean Karlan <em data-original=\"E-03\">Peer Monitoring and Enforcement: Long Term Evidence from Microcredit Lending Groups with and without Group Liability,</em> (2008); and in a vast number of theoretical research papers, such as that of Bengt Holmstr&#246;m and Paul Milgrom, 1991, Multitask Principal Agent Analyses: Incentive Contracts, Asset Ownership and Job Design, Journal of Law, Economics and Organizations. Several surveys of this research have been published, including that of Candice Prendergast, <em data-original=\"E-03\">The Provision of Incentives in Firms,</em> J Econ. Literature, 7, 37 (1999), among others.", 
+        "178": "Examples of empirical evidence of the persistence of moral hazard among employees in commercial and retail lending, include originators of residential mortgages, appears in Sumit Agarwal & Itzhak Ben-David, <em data-original=\"E-03\">Do Loan Officers' Incentives Lead to Lax Lending Standards?,</em> (Federal Reserve Bank of Chicago, Working Paper, 2012); Aritje Berndt, et al., <em data-original=\"E-03\">The Role of Mortgage Brokers in the Subprime Crisis,</em> (Carnegie Mellon University, Working Paper, 2010). Shawn Coleet, et al., <em data-original=\"E-03\">Rewarding Calculated Risk-Taking: Evidence from a Series of Experiments with Commercial Bank Loan Officers,</em> (Harvard Business School, Working Paper, 2010).", 
+        "179": "Some firms may choose not to offer such compensation. In certain circumstances, an originating institution (perhaps unable to invest in sufficient management expertise) will see reduced profitability from adopting profits-based compensation plans.", 
+        "18": "Moody's Analytics, <em data-original=\"E-03\">Credit Forecast 2012</em> (2012) (&#8220;Credit Forecast 2012&#8221;), <em data-original=\"E-03\">available at http://www.economy.com/default.asp</em> (reflects first-lien mortgage loans) (data service accessible only through paid subscription).", 
+        "180": "See footnotes 100 and 101 for a number of examples of research in this area.", 
+        "181": "Under Regulation G, depository institutions must already obtain criminal background checks for their individual loan originator employees and review them for compliance under Section 19 of the FDIA.", 
+        "182": "However, to reduce uncertainty, the Bureau is including a statement in \u00a7 1026.36(h) that it is applicable to \u201ca home equity line of credit secured by the consumer's principal dwelling.\u201d", 
+        "183": "Approximately 50 banks with under $10 billion in assets are affiliates of large banks with over $10 billion in assets and subject to Bureau supervisory authority under Section 1025. However, these banks are included in this discussion for convenience.", 
+        "184": "5 U.S.C. 609.", 
+        "185": "The current SBA size standards are found on SBA's Web site at <em data-original=\"E-03\">http://www.sba.gov/content/table-small-business-size-standards</em>.", 
+        "186": "77 FR 55272, 55341-55343 (Sept. 7, 2012).", 
+        "187": "Final Panel Report available in the Proposed Rule Docket: Docket ID No. CFPB-2012-0037, <em data-original=\"E-03\">available at http://www.regulations.gov/#!documentDetail;D=CFPB-2012-0037-0001.</em>", 
+        "188": "77 FR 55272, 55341-55343 (Sept. 7, 2012).", 
+        "189": "A prior description of the details of the origin and nature of the 2010 Loan Originator Final Rule may be found in Background, Part II, appearing above.", 
+        "19": "Inside Mortg. Fin., <em data-original=\"E-03\">New Homes Sold by Financing, in</em> 1 The 2012 Mortgage Market Statistical Annual 12 (2012).", 
+        "190": "The new statutory requirements relating to compensation take effect automatically on January 21, 2013, as written in the statute, unless final rules are issued on or prior to that date that provide for a later effective date.", 
+        "191": "The Bureau previously used the term \u201cqualified,\u201d not \u201cdesignated.\u201d", 
+        "192": "The current SBA size standards are available on the SBA's Web site at <em data-original=\"E-03\">http://www.sba.gov/content/table-small-business-size-standards</em>.", 
+        "193": "Savings institutions include thrifts, savings banks, mutual banks, and similar institutions.", 
+        "194": "Some firms may choose not to offer such compensation. In certain circumstances an originating institution (perhaps unable to invest in sufficient management expertise) will see reduced profitability from adopting profits-based compensation plans.", 
+        "195": "<em data-original=\"E-03\">See</em> 5 U.S.C. 603(d)(2)(A). The Bureau provided this notification as part of the notification and other information provided to the Chief Counsel with respect to the Small Business Review Panel process pursuant to section 609(b)(1) of the RFA.", 
+        "196": "<em data-original=\"E-03\">See</em> 5 U.S.C. 603(d)(2)(B).", 
+        "197": "<em data-original=\"E-03\">See</em> Final Panel Report available in the Proposed Rule Docket: Docket ID No. CFPB-2012-0037, <em data-original=\"E-03\">available at. http://www.regulations.gov/#!documentDetail;D=CFPB-2012-0037-0001</em>.", 
+        "198": "The final rule clarifies, in \u00a7 1026.36(f)(3)(i) and (ii) and in new comments 36(f)(3)(ii)-2 and 36(f)(3)(ii)-3, that these requirements apply for an individual that the loan originator organization hires on or after January 10, 2014, the effective date of these provisions, as well as for individuals hired prior to this date who were not screened under standards in effect at the time of hire.", 
+        "199": "There are 153 depository institutions (and their depository affiliates) that are subject to the Bureau's administrative enforcement authority. In addition there are 146 privately insured credit unions that are subject to the Bureau's administrative enforcement authority. For purposes of this PRA analysis, the Bureau's respondents under Regulation Z are 135 depository institutions that originate closed-end mortgages; 77 privately insured credit unions that originate closed-end mortgages; an estimated 2,787 non-depository institutions that originate closed-end mortgages and that are subject to the Bureau's administrative enforcement authority, an assumed 230 not-for profit originators (which may overlap with the other non-depository creditors), and 8,051 loan originator organizations. Unless otherwise specified, all references to burden hours and costs for the Bureau respondents for the collection under Regulation Z are based on a calculation that includes one half of burden for all respondents except the depository institutions.", 
+        "2": "<em data-original=\"E-03\">See</em> Thomas F. Siems, <em data-original=\"E-03\">Branding the Great Recession,</em> Fin. Insights (Fed. Reserve Bank of Dall.) May 13, 2012, at 3, <em data-original=\"E-03\">available at</em>\n              <em data-original=\"E-03\">http://www.dallasfed.org/assets/documents/banking/firm/fi/fi1201.pdf</em> (stating that the great recession &#8220;was the longest and deepest economic contraction, as measured by the drop in real GDP, since the Great Depression.&#8221;).", 
+        "20": "Credit Forecast 2012.", 
+        "200": "This check, more formally known as an individual's FBI Identification Record, uses the individual's fingerprint submission to collect information about prior arrests and, in some instances, federal employment, naturalization, or military service.", 
+        "201": "The Bureau has not been able to determine how many loan originators organizations qualify as bona fide nonprofit organizations or how many of their employee loan originators are not subject to SAFE Act licensing. Accordingly, the Bureau has estimated these numbers.", 
+        "202": "The organizations are also assumed to pay $50 to get a national criminal background check. Several commercial services offer an inclusive fee, ranging between $48.00 and $50.00, for fingerprinting, transmission, and FBI processing. Based on a sample of three FBI-approved services, accessed on 2012-08-02: Accurate Biometrics, available at: <em data-original=\"E-03\">http://www.accuratebiometrics.com/index.asp</em> ; Daon Trusted Identity Servs., available at: <em data-original=\"E-03\">http://daon.com/prints</em> ; and Fieldprint, <em data-original=\"E-03\">available at http://www.fieldprintfbi.com/FBISubPage_FullWidth.aspx?ChannelID=272</em>.", 
+        "21": "Inside Mortg. Fin., <em data-original=\"E-03\">Mortgage Originations by Product, in</em> 1 The 2012 Mortgage Market Statistical Annual 17 (2012).", 
+        "22": "<em data-original=\"E-03\">Id.</em> These percentages are based on the dollar amount of the loans.", 
+        "23": "Credit Forecast 2012 (reflects open-end and closed-end home equity loans).", 
+        "24": "Fed. Hous. Fin. Agency, <em data-original=\"E-03\">A Strategic Plan for Enterprise Conservatorships: The Next Chapter in a Story that Needs an Ending,</em> at 14 (2012) (&#8220;FHFA Report&#8221;), <em data-original=\"E-03\">available at http://www.fhfa.gov/webfiles/23344/StrategicPlanConservatorshipsFINAL.pdf.</em>", 
+        "25": "FHFA Report at 8-9. Secondary market issuance remains heavily reliant upon the explicitly government guaranteed securities of Fannie Mae, Freddie Mac, and Ginnie Mae. Through the first three quarters of 2012, approximately $1.2 trillion of the $1.33 trillion in mortgage originations have been securitized, less than $10 billion of the $1.2 trillion were non-agency mortgage backed securities. Inside Mortg. Fin. (Nov. 2, 2012) at 4.", 
+        "26": "FICO is a type of credit score that makes up a substantial portion of the credit report that lenders use to assess an applicant's credit risk and whether to extend a loan.", 
+        "27": "CoreLogic, TrueStandings Servicing Database, <em data-original=\"E-03\">available at http://www.truestandings.com</em> (data reflects first-lien mortgage loans) (data service accessible only through paid subscription). According to CoreLogic's TrueStandings Servicing, FICO reports that in 2011, approximately 38 percent of consumers receiving first-lien mortgage credit had a FICO score of 750 or greater.", 
+        "28": "<em data-original=\"E-03\">Id.</em>", 
+        "29": "<em data-original=\"E-03\">Id.</em>", 
+        "3": "<em data-original=\"E-03\">See</em> U.S. Dep't of Hous. &amp; Urban Dev., <em data-original=\"E-03\">An Analysis of Mortgage Refinancing, 2001-2003,</em> at 2 (2004) (&#8220;An Analysis of Mortgage Refinancing, 2001-2003&#8221;), <em data-original=\"E-03\">available at</em>\n              <em data-original=\"E-03\">www.huduser.org/Publications/pdf/MortgageRefinance03.pdf</em> ; Souphala Chomsisengphet &amp; Anthony Pennington-Cross, <em data-original=\"E-03\">The Evolution of the Subprime Mortgage Market,</em> 88 Fed. Res. Bank of St. Louis Rev. 31, 48 (2006), <em data-original=\"E-03\">available at</em>\n              <em data-original=\"E-03\">http://research.stlouisfed.org/publications/review/article/5019</em>.", 
+        "30": "A conforming mortgage is one that is eligible for purchase or credit guarantee by Fannie Mae or Freddie Mac.", 
+        "31": "Fed. Reserve Bd., <em data-original=\"E-03\">Senior Loan Officer Opinion Survey on Bank Lending Practices, available at http://www.federalreserve.gov/boarddocs/SnLoanSurvey/default.htm.</em>", 
+        "32": "Federal Reserve Board staff calculations based on the Federal Reserve Bank of New York Consumer Credit Panel. The 10th percentile of credit scores on mortgage originations rose from 585 in 2006 to 635 at the end of 2011.", 
+        "33": "FHA insures mortgages on single family and multifamily homes including manufactured homes and hospitals. It is the largest insurer of mortgages in the world, insuring over 34 million properties since its inception in 1934.", 
+        "34": "In some cases, mortgage brokers use a process called \u201ctable funding,\u201d in which the transaction is closed using the wholesale creditor's funds at the settlement table, but the loan is closed in the broker's name. The broker simultaneously assigns the closed loan to the creditor. These types of transactions generally require the use of approved title companies or title attorneys of the creditor to assure strict adherence to the creditor's closing instructions. Such transactions are only valid in those states that allow \u201cwet closings.\u201d These types of closings are not as common today.", 
+        "35": "The meaning of loan \u201cproduct\u201d is not firmly established and varies with the person using the term, but it generally refers to various combinations of features such as the type of interest rate and the form of amortization. Feature distinctions often thought of as distinct \u201cloan products\u201d include, for example, fixed rate versus adjustable rate loans and fully amortizing versus interest-only or negatively amortizing loans.", 
+        "36": "As used throughout this document, the term \u201cbanks\u201d also includes \u201csavings associations.\u201d", 
+        "37": "For companies that are affiliated with securitizers, the processing fees involved in creating investment vehicles on the secondary market can itself become a distinct revenue stream. Although the secondary market was originally created by government-sponsored enterprises Fannie Mae and Freddie Mac to provide liquidity for the mortgage market, over time, Wall Street companies began packaging mortgage loans into private-label mortgage-backed securities. Subprime and Alt-A loans, in particular, were often sold into private-label securities. During the boom, a number of large creditors started securitizing the loans themselves in-house, thereby capturing the final piece of the loan's value.", 
+        "38": "For simplicity, this discussion assumes that the secondary market buyer is a person other than the creditor, such as Fannie Mae, Freddie Mac, or a Wall Street investment bank. In practice, during the mortgage boom, some creditors securitized their own loans. In this case, the secondary market price for the loans was effectively determined by the price investors were willing to pay for the subsequent securities.", 
+        "39": "For simplicity, these examples do not take into account the use of various risk mitigation techniques, such as risk-sharing counterparties and loan level mortgage or other security credit enhancements.", 
+        "4": "U.S. Fin. Crisis Inquiry Comm'n, <em data-original=\"E-03\">The Financial Crisis Inquiry Report: Final Report of the National Commission on the Causes of the Financial and Economic Crisis in the United States</em> 156 (Official Gov't ed. 2011) (&#8220;FCIC Report&#8221;), <em data-original=\"E-03\">available athttp://www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf</em>.", 
+        "40": "The creditor's profit is equal to secondary market revenue plus origination fees collected by the creditor (if any) plus value of the mortgage servicing rights (MSRs) less origination expenses.", 
+        "41": "Susan E. Woodward, Urban Inst., <em data-original=\"E-03\">A Study of Closing Costs for FHA Mortgages</em> 10-11 (U.S. Dep't of Hous. &amp; Urban Dev. 2008), <em data-original=\"E-03\">available at: http://www.huduser.org/publications/pdf/FHA_closing_cost.pdf.</em>", 
+        "42": "Some commenters use the term \u201cyield spread premium\u201d to refer to any payment from a creditor to a mortgage broker that is funded by increasing the interest rate that would otherwise be charged to the consumer in the absence of that payment. These commenters generally assume that any payment to the brokerage firm by the creditor is funded out of the interest rate, reasoning that had the consumer paid the brokerage firm directly, the creditor would have had lower expenses and would have been able to charge a lower rate. Other commenters use the term \u201cyield spread premium\u201d more narrowly to refer only to a payment from a creditor to a mortgage broker that is based on the interest rate, i.e., the mortgage broker receives a larger payment if the consumer agrees to a higher interest rate. To avoid confusion, the Bureau is limiting its use of the term and is instead more specifically describing the payment at issue.", 
+        "43": "Mortgage brokers, and some retail loan officers, were compensated in this fashion. Some retail loan officers may have been paid a salary with a bonus for loan volume, rather than yield spread premium-based commissions.", 
+        "44": "James Lacko and Janis Pappalardo, <em data-original=\"E-03\">Improving Consumer Mortgage Disclosures: An Empirical Assessment of Current and Prototype Disclosure Forms,</em> Federal Trade Commission, ES-12 (June 2007), <em data-original=\"E-03\">available at http://www.ftc.gov/os/2007/06/P025505MortgageDisclosureReport.pdf,</em> Brian K. Bucks and Karen M. Pence, <em data-original=\"E-03\">Do Borrowers Know their Mortgage Terms?,</em> J. of Urban Econ. (2008), <em data-original=\"E-03\">available at http://works.bepress.com/karen_pence/5,</em> Hall and Woodward, <em data-original=\"E-03\">Diagnosing Consumer Confusion and Sub-Optimal Shopping Effort: Theory and Mortgage-Market Evidence</em> (2012), <em data-original=\"E-03\">available at http://www.stanford.edu/&#8764;rehall/DiagnosingConsumerConfusionJune2012.</em>", 
+        "45": "The Board's rule remains applicable to certain motor vehicle dealers. <em data-original=\"E-03\">See</em> 12 U.S.C. 5519 (Section 1029 of the Dodd-Frank Act).", 
+        "46": "The Board indicated that it would continue to explore available options to address potential unfairness associated with loan originator compensation practices. 73 FR 44522, 44565 (July 30, 2008).", 
+        "47": "As the Board explained: \u201cThe Board has decided to issue this final rule on loan originator compensation and steering, even though a subsequent rulemaking will be necessary to implement Section 129B(c). The Board believes that Congress was aware of the Board's proposal and that in enacting TILA Section 129B(c), Congress sought to codify the Board's proposed prohibitions while expanding them in some respects and making other adjustments. The Board further believes that it can best effectuate the legislative purpose of the [Dodd-Frank Act] by finalizing its proposal relating to loan origination compensation and steering at this time. Allowing enactment of TILA Section 129B(c) to delay final action on the Board's prior regulatory proposal would have the opposite effect intended by the legislation by allowing the continuation of the practices that Congress sought to prohibit.\u201d 75 FR 58509 (Sept. 24, 2010).", 
+        "48": "The Small Business Regulatory Enforcement Fairness Act of 1996 (SBREFA) requires the Bureau to convene a Small Business Review Panel before proposing a rule that may have a substantial economic impact on a significant number of small entities. <em data-original=\"E-03\">See</em> Public Law 104-121, tit. II, 110 Stat. 847, 857 (1996) (as amended by Pub. L. 110-28, section 8302 (2007)).", 
+        "49": "U.S. Consumer Fin. Prot. Bureau, <em data-original=\"E-03\">Outline of Proposals under Consideration and Alternatives Considered</em> (May 9, 2012), available at: <em data-original=\"E-03\">http://files.consumerfinance.gov/f/201205_cfpb_MLO_SBREFA_Outline_of_Proposals.pdf</em>.", 
+        "5": "An Analysis of Mortgage Refinancing, 2001-2003, at 1.", 
+        "50": "U.S. Consumer Fin. Prot. Bureau, U.S. Small Bus. Admin., and U.S. Office of Mgmt. and Budget, <em data-original=\"E-03\">Final Report of the Small Business Review Panel on CFPB's Proposals Under Consideration for Residential Mortgage Loan Origination Standards Rulemaking</em> (July 11, 2012) (Small Business Review Panel Final Report), <em data-original=\"E-03\">available at</em>\n              <em data-original=\"E-03\">http://files.consumerfinance.gov/f/201208_cfpb_LO_comp_SBREFA.pdf</em>.", 
+        "51": "Specifically, the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration, and the Federal Housing Finance Agency.", 
+        "52": "Of the several final rules being adopted under the Title XIV Rulemakings, six entail amendments to Regulation Z, with the only exceptions being the 2013 RESPA Servicing Final Rule (Regulation X) and the 2013 ECOA Appraisals Final Rule (Regulation B); the 2013 HOEPA Final Rule also amends Regulation X, in addition to Regulation Z. The six Regulation Z final rules involve numerous instances of intersecting provisions, either by cross-references to each other's provisions or by adopting parallel provisions. Thus, adopting some of those amendments without also adopting certain other, closely related provisions would create significant technical issues, <em data-original=\"E-03\">e.g.,</em> new provisions containing cross-references to other provisions that do not yet exist, which could undermine the ability of creditors and other parties subject to the rules to understand their obligations and implement appropriate systems changes in an integrated and efficient manner.", 
+        "53": "These notices extended the comment period on the more inclusive finance charge and corresponding regulatory threshold adjustments under the 2012 TILA-RESPA and HOEPA Proposals. They did not change any other aspect of either proposal.", 
+        "54": "TILA section 129 contains requirements for certain high-cost mortgages, established by HOEPA, which are commonly called HOEPA loans.", 
+        "55": "Section 1403 of the Dodd-Frank Act also added new TILA section 129B(c)(3), which requires the Bureau to prescribe regulations to prohibit certain kinds of steering, abusive or unfair lending practices, mischaracterization of credit histories or appraisals, and discouraging consumers from shopping with other mortgage originators. 15 U.S.C. 1639b(c)(3). This final rule does not address those provisions. Because they are structured as a requirement that the Bureau prescribe regulations establishing the substantive prohibitions, notwithstanding Dodd-Frank Act section 1400(c)(3), 15 U.S.C. 1601 note, the Bureau believes that the substantive prohibitions cannot take effect until the regulations establishing them have been prescribed and taken effect. The Bureau intends to prescribe such regulations in a future rulemaking. Until such time, no obligations are imposed on mortgage originators or other persons under TILA section 129B(c)(3).", 
+        "6": "For example, the Federal Reserve Board on July 20, 2011, issued a consent cease and desist order and assessed an $85 million civil money penalty against Wells Fargo & Company of San Francisco, a registered bank holding company, and Wells Fargo Financial, Inc., of Des Moines. The order addresses allegations that Wells Fargo Financial employees steered potential prime borrowers into more costly subprime loans and separately falsified income information in mortgage applications. In addition to the civil money penalty, the order requires that Wells Fargo compensate affected borrowers. <em data-original=\"E-03\">See</em>\n              <em data-original=\"E-03\">http://www.federalreserve.gov/newsevents/press/enforcement/20110720a.htm</em>.", 
+        "7": "Inside Mortg. Fin., <em data-original=\"E-03\">Mortgage Originations by Product, in</em> 1 The 2011 Mortgage Market Statistical Annual 20 (2011).", 
+        "8": "FCIC Report at 215-217.", 
+        "9": "CoreLogic's TrueStandings Servicing (reflects first-lien mortgage loans) (data service accessible only through paid subscription)."
+    }, 
+    "fr_citation": "78 FR 11279", 
+    "fr_url": "https://www.federalregister.gov/articles/2013/02/15/2013-01503/loan-originator-compensation-requirements-under-the-truth-in-lending-act-regulation-z", 
+    "fr_volume": 78, 
+    "initial_effective_on": "2013-06-01", 
+    "publication_date": "2013-02-15", 
+    "regulation_id_numbers": [
+        "3170-AA13"
+    ], 
+    "section_by_section": [
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "footnote_refs": [], 
+                    "labels": [
+                        "1026-36-g-1"
+                    ], 
+                    "page": 11385, 
+                    "paragraphs": [
+                        "Proposed \u00a7 1026.36(g)(1) provided that loan originators must include both their NMLSR IDs and their names on loan documents because, without the associated names, a consumer may not understand whom or what the NMLSR ID number serves to identify. The proposal explained that having the loan originator's name may help consumers understand that they have the opportunity to assess the risks associated with a particular loan originator in connection with the transaction, which in turn promotes the informed use of credit. The Bureau explained that it believed that this was consistent with TILA section 105(a)'s provision for additional requirements that are necessary or proper to effectuate the purposes of TILA or to facilitate compliance with TILA. These provisions also clarified, consistent with the statutory requirement that mortgage originators include \u201cany\u201d NMLSR ID, that the requirement applies if the organization or individual loan originator has ever been issued an NMLSR ID. For example, an individual loan originator who works for a bona fide nonprofit organization is not required to obtain an NMLSR ID, but if the individual was issued an NMLSR ID for purposes of a previous job, that NMLSR ID must be included. Proposed \u00a7 1026.36(g)(1) also provided that the name and NMLSR IDs must be included each time any of these documents is provided to a consumer or presented to a consumer for signature.", 
+                        "Proposed comment 36(g)(1)-1 clarified that for purposes of \u00a7 1026.36(g), creditors would not be excluded from the definition of \u201cloan originator.\u201d Proposed comment 36(g)(1)-2 clarified that the proposed requirement applied regardless of whether the organization or individual loan originator is required to obtain an NMLSR ID under the SAFE Act or otherwise. Proposed \u00a7 1026.36(g)(1)(ii), recognizing that there may be transactions in which more than one individual meets the definition of a loan originator, provided that the individual loan originator whose NMLSR ID must be included is the individual with primary responsibility for the transaction at the time the loan document is issued.", 
+                        "In its 2012 TILA-RESPA Proposal, the Bureau proposed to integrate TILA and RESPA mortgage disclosure documents as mandated by sections 1032(f), 1098, and 1100A of the Dodd-Frank Act. 12 U.S.C. 5532(f); 12 U.S.C. 2603(a); 15 U.S.C. 1604(b). As discussed below, the loan documents that would be required to include the name and NMLSR IDs include these mortgage disclosure documents. That separate rulemaking also addresses inclusion of the name and NMLSR IDs on the proposed integrated disclosures, as well as the possibility that in some circumstances more than one individual may meet the criteria that require inclusion of the NMLSR ID. To ensure harmonization between the two rules, proposed comment 36(g)(1)(ii)-1 stated that, if more than one individual acts as a loan originator for the transaction, the requirement in \u00a7 1026.36(g)(1)(ii) may be met by complying with the applicable provision governing disclosure of NMLSR IDs in rules issued by the Bureau pursuant to Dodd-Frank Act sections 1032(f), 1098, and 1100A.", 
+                        "Commenters generally supported the proposed provision as a way to increase accountability. One commenter urged the Bureau to change the format of NMLSR IDs to allow consumers to determine whether the loan originator is licensed or registered because the commenter was concerned that a consumer might incorrectly assume that all loan originators are licensed. Several commenters asked for more clarity on how to determine which loan originator has primary responsibility for a transaction and has to include his or her name and NMLSR ID on a document. Commenters stated that the loan originator with primary responsibility should be, variously, the person who took a consumer's application, the person whose name appears on the loan application under Federal Housing Finance Agency requirements, the person who is the consumer's point of contact, or the person reasonably determined by the loan originator organization. One commenter asked for clarification that the names and NMLSR IDs must appear only once on each loan document rather than on every page of the loan document. Another commenter urged the Bureau to standardize exactly where on each loan document the names and NMLSR IDs must appear. Another commenter asked the Bureau to confirm that if the loan originator with primary responsibility for a transaction changes during the course of the transaction, issued loan documents do not have to be reissued merely to change the name and NMLSR on those documents.", 
+                        "In response to commenters' requests for more specificity on how to determine which individual loan originator has primary responsibility, the Bureau is clarifying in comment 36(g)(1)(ii)-1 that a loan originator organization that establishes and follows a reasonable, written policy for determining which individual loan originator has primary responsibility for the transaction at the time the document is issued complies with the requirement. The Bureau notes that, as further discussed below, the final rule requires in \u00a7 1026.36(j) that depository institutions must establish and maintain procedures for complying with \u00a7 1026.36(d), (e), (f), and (g) of this section, including the requirement to include names and NMLSR IDs on loan documents. The Bureau is also clarifying in comment 36(g)(1)-2 that, even if the loan originator does not have an NMLSR ID, the loan originator must still include his or her name on the covered loan documents.", 
+                        "The Bureau agrees with the comment urging that the names and NMLSR IDs should be required to appear only once on each loan document rather than on each page of a loan document. New comment 36(g)(1)-3 includes this clarification. The Bureau does not agree that it should mandate exactly where the names and NMLSR IDs must appear on the credit application, note, and security instrument. Doing so would be impractical because State and local law may specify placement of items on documents that are to be recorded, such as the note and security instrument, and revising the format of the most commonly used credit application forms would implicate other rules beyond the scope of this rulemaking.", 
+                        "Finally, the Bureau agrees that, if the loan originator with primary responsibility for a transaction changes during the course of the transaction, previously issued loan documents do not have to be reissued merely to change the names and NMLSR IDs on those documents. This clarification is included in comment 36(g)(1)(ii)-1."
+                    ], 
+                    "title": "36(g)(1)"
+                }, 
+                {
+                    "children": [], 
+                    "footnote_refs": [], 
+                    "labels": [
+                        "1026-36-g-2"
+                    ], 
+                    "page": 11385, 
+                    "paragraphs": [
+                        "Proposed \u00a7 1026.36(g)(2) identified the documents that must include loan originators' names and NMLSR IDs as the credit application, the disclosure provided under section 5(c) of RESPA, the disclosure provided under TILA section 128, the note or loan contract, the security instrument, and the disclosure provided to comply with section 4 of RESPA. Proposed comment 36(g)(2)-1 clarified that the name and NMLSR ID must be included on any amendment, rider, or addendum to the note or loan contract or security instrument. These clarifications were provided in response to concerns that Small Entity Representatives expressed in the Small Business Review Panel that the statutory reference to \u201call loan documents\u201d would lead to uncertainty as to what is or is not considered a \u201cloan document.\u201d The proposed scope of the requirement's coverage was intended to ensure that loan originators' names and NMLSR IDs are included on documents that include the terms or prospective terms of the transaction or borrower information that the loan originator may use to identify loan terms that are potentially available or appropriate for the consumer. To the extent that any document not listed in \u00a7 1026.36(g)(2) is arguably a \u201cloan document,\u201d the Bureau stated that it was specifying an exhaustive list of loan documents that must include loan originators' names and NMLSR IDs using its authority under TILA section 105(a), which allows the Bureau to make exceptions that are necessary or proper to effectuate the purposes of TILA or to facilitate compliance with TILA.", 
+                        "The proposal explained that this final rule implementing the proposed requirements to include names and NMLSR IDs on loan documents might be issued, and might generally become effective, prior to the effective date of a final rule implementing the Bureau's 2012 TILA-RESPA Integration Proposal. As a result, the requirement to include the name and NMLSR ID would apply to the current RESPA GFE and settlement statement and TILA disclosure until the issuance of the integrated disclosures. The Bureau recognized that such a sequence of events might cause loan originator organizations to have to incur the cost of adjusting their systems and procedures to accommodate the name and NMLSR IDs on the current disclosures even though those disclosures will be replaced in the future by the integrated disclosures. Accordingly, the Bureau solicited public comment on whether the effective date of the provisions regarding inclusion of the NMLSR IDs on the RESPA and TILA disclosures should be delayed until the date that the integrated disclosures are issued.", 
+                        "One commenter opposed what it perceived as a requirement to include the NMLSR ID in the RESPA settlement costs information booklet provided to consumers. Another commenter stated that the NMLSR should be required only on the application, note, and security instrument. One commenter stated that the names and NMLSR IDs should not be required on amendments, riders, or addenda to the note or security instruments because the note and security instrument will already have the names and NMLSR IDs on them. Several commenters urged the Bureau not to require the names and NMLSR IDs on the current RESPA GFE and settlement statement because those forms do not currently have space for the information and will be discontinued soon. For the same reason, several commenters urged the Bureau to delay the effective date of the provision until after the integrated forms and regulations are issued and effective.", 
+                        "The Bureau agrees that the loan originator names and NMLSR IDs should not be required to be included on the current RESPA GFE and HUD-1 (or HUD-1A) forms. The current RESPA GFE form has a designated space for the originator's name but not for the NMLSR ID. The current HUD-1 form (and HUD-1A form) has a designated space for the lender's name, but not for the originator's name and NMLSR ID. While the Bureau has no objection to loan originator names and NMLSR IDs being included on the current forms where not required, the Bureau believes it would be duplicative and unnecessarily expensive for the issuers of these forms to have to revise their systems only to have to revise them again once the Bureau implements its 2012 TILA-RESPA Integration Proposal. For this reason, the Bureau is generally implementing all Title XIV disclosure requirements to take effect at the same time.", 
+                        "Accordingly, the Bureau expects to adopt the requirement to include loan originator names and NMLSR IDs on the integrated disclosures at the same time that the rules implementing the 2012 TILA-RESPA Integration Proposal are adopted. The Bureau is adopting \u00a7 1026.36(g)(2) with \u00a7 1026.36(g)(2)(ii), reserved in this final rule. The Bureau expects to adopt references to the integrated disclosures in \u00a7 1026.36(g)(2)(ii) in the final rule implementing the 2012 TILA-RESPA Integration Proposal. In response to the commenter's concern that the loan originator names and NMLSR IDs should not be required to be included on preprinted booklets, the final rule, like the proposal, does not require inclusion on the booklets. The revisions to \u00a7 1026.36(g)(2) described above are expected to prevent any such misinterpretation.", 
+                        "The Bureau disagrees that the loan originator names and NMLSR IDs should be required only on the application, note, and security instrument. To promote accountability of loan originators throughout the course of the transaction, it is important for the names and NMLSR IDs to appear on the integrated loan estimate and closing disclosure as well, because these loan documents include the loan terms offered or negotiated by loan originators. However, as clarified above, the names and NMLSR IDs will not be required to be included on these additional loan documents until the use of those documents becomes mandatory under the Bureau's upcoming final rule on TILA-RESPA Integration.", 
+                        "The Bureau agrees with the commenter that the loan originator names and NMLSR IDs should not be required on amendments, riders, or addenda to the note or security instruments, as such documents will be attached the note or security instrument, which themselves are required to include the names and NMLSR IDs. Accordingly, the Bureau is not adopting proposed comment 36(g)(2)-1. Removal of this requirement is consistent with the Bureau's clarification in comment 36(g)(1)-3 that for any loan document, the names and NMLSR IDs are required to be included only one time, and not on each page."
+                    ], 
+                    "title": "36(g)(2)"
+                }, 
+                {
+                    "children": [], 
+                    "footnote_refs": [], 
+                    "labels": [
+                        "1026-36-g-3"
+                    ], 
+                    "page": 11386, 
+                    "paragraphs": [
+                        "Proposed \u00a7 1026.36(g)(3) defined \u201cNMLSR identification number\u201d as a number assigned by the NMLSR to facilitate electronic tracking of loan originators and uniform identification of, and public access to, the employment history of, and the publicly adjudicated disciplinary and enforcement actions against, loan originators. The definition is consistent with the definition of \u201cunique identifier\u201d in section 1503(12) of the SAFE Act, 12 U.S.C. 5102(12). The Bureau did not receive any public comments on this definition and is adopting it as proposed."
+                    ], 
+                    "title": "36(g)(3)"
+                }
+            ], 
+            "footnote_refs": [], 
+            "labels": [
+                "1026-36-g"
+            ], 
+            "page": 11293, 
+            "paragraphs": [
+                "TILA section 129B(b)(1)(B), which was added by Dodd-Frank Act section 1402(a), provides that \u201csubject to regulations\u201d issued by the Bureau, a mortgage originator shall include on \u201call loan documents any unique identifier of the mortgage originator\u201d issued by the NMLSR. Individuals who are subject to SAFE Act registration or State licensing are required to obtain an NMLSR ID, and many organizations also obtain NMLSR IDs pursuant to State or other requirements. Proposed \u00a7 1026.36(g), as described further below, would have implemented the statutory requirement that mortgage originators must include their NMLSR ID on loan documents and would have provided several clarifications. The Bureau stated its belief that the purpose of the statutory requirement is not only to permit consumers to look up the loan originator's record on the consumer access Web site of the NMLSR (<em data-original=\"E-03\">www.nmlsconsumeraccess.org</em>) before proceeding further with a mortgage transaction, but also to help ensure accountability of loan originators both before and after a transaction has been originated."
+            ], 
+            "title": "36(g) Name and NMLSR Identification Number on Loan Documents"
+        }, 
+        {
+            "children": [], 
+            "footnote_refs": [
+                {
+                    "offset": 1139, 
+                    "paragraph": 5, 
+                    "reference": "158"
+                }
+            ], 
+            "labels": [
+                "1026-36-i"
+            ], 
+            "page": 11386, 
+            "paragraphs": [
+                "Dodd-Frank Act section 1414 added TILA section 129C(d), which generally prohibits a creditor from financing any premiums or fees for credit insurance in connection with a closed-end consumer credit transaction secured by a dwelling or an extension of open-end consumer credit secured by the consumer's principal dwelling. The prohibition applies to credit life, credit disability, credit unemployment, credit property insurance, and other similar products. The same provision states, however, that the prohibition does not apply to credit insurance for which premiums or fees are calculated and paid in full on a monthly basis or to credit unemployment insurance for which the premiums are reasonable, the creditor receives no compensation, and the premiums are paid pursuant to a separate insurance contract and are not paid to the creditor's affiliate.", 
+                "Proposed \u00a7 1026.36(i) would have implemented these statutory provisions. The authority to implement these statutory provisions by rule is TILA section 105(a) and section 1022(b) of the Dodd-Frank Act. Rather than repeating Dodd-Frank Act section 1414's list of covered credit insurance products, the proposed language cross-referenced the existing description of insurance products in \u00a7 1026.4(d)(1) and (3). The Bureau explained that the proposal was not intended to make any substantive change to the statutory provision's scope of coverage. The proposal stated the Bureau's belief that these provisions are sufficiently straightforward that they require no further clarification. The Bureau requested comment, however, on whether any issues raised by the provision require clarification and, if so, how they should be clarified. The Bureau also solicited comment on when the provision should become effective, for example, 30 days following publication of the final rule, or at a later time.", 
+                "Commenters generally supported the proposed provision. Two commenters asked the Bureau to permit financing of credit insurance when doing so would be beneficial to a consumer. SBA Advocacy stated that some Small Entity Representatives did not understand why the provision was being included and asked the Bureau to consider adopting it at a later date.", 
+                "Several consumer groups stated that the proposal did not make any substantive changes to the statutory provision and stated that there is no reason to delay the effective date of the statutory provision. The same commenters asked the Bureau to clarify that a creditor cannot evade the prohibition by charging a fixed monthly payment that does not decrease as the principal is paid off or by adding the monthly charge to the loan balance. The commenters stated that the cross-reference to credit insurance products described elsewhere in Regulation Z could be read to narrow the scope of the prohibition and asked the Bureau to clarify what a \u201creasonable\u201d credit unemployment insurance premium is.", 
+                "A credit union sought clarification that the prohibition does not apply to mortgage insurance premiums. Finally, one commenter requested that the effective date of the prohibition be delayed for six months so that software programmers could program appropriate warnings and blockages in their loan originating systems.", 
+                "The prohibition of financing of credit insurance is required by the Dodd-Frank Act. Absent action by the Bureau, they would take effect on January 21, 2013. The Bureau agrees with the commenters who stated that the provision is an important consumer protection that should not be delayed without good reason. The fact that the Bureau is implementing the provision by regulation does not require it to delay the provision's effective date for a long period, as the commenters may have assumed. Instead, the Bureau is providing an effective date of June 1, 2013. The Bureau believes this effective date will give consumers the benefit of this important protection within a short timeframe, while also providing industry time to adjust its systems and practices. The Bureau does not believe that industry needs a longer period of time because the prohibition, which is not substantially changed by this final rule, has been known since the Dodd-Frank Act was enacted and the codified regulation will not require extensive calibration of origination systems. Furthermore, Freddie Mac and Fannie Mae have prohibited the same practice for years.\n             The Bureau is not providing that the provision become effective immediately, however, because industry may need to make some adjustments based on the clarifications made in this final rule.", 
+                "The Bureau is adopting the consumer groups' suggestion to incorporate the full list of covered insurance products from TILA section 129C(d) to prevent any perception that the Bureau did not intend for the regulatory provision to cover all of those insurance products. As revised, the final rule provides that the listed types of insurance are what insurance \u201cmeans,\u201d not just what it \u201cincludes,\u201d because the list provided in the statute seems to be exclusive. The Bureau declines to define at this time what insurance premiums are \u201creasonable\u201d for purposes of the exception for certain credit unemployment insurance products because the Bureau does not currently have sufficient data and other information to make this judgment for a rule of general applicability.", 
+                "With regard to the requests for clarification that a creditor cannot evade the prohibition by charging a fixed monthly payment that does not decrease as the principal is paid off or by adding the monthly charge to the loan balance, the Bureau believes that the two practices identified would directly violate the prohibition. Adding a monthly charge for the insurance to the loan balance would amount to financing the premiums for credit insurance rather than paying them in full on a monthly basis. Similarly, charging a fixed monthly charge for the credit insurance that does not decline as the loan balance declines would fail to meet the requirement for the premium to be \u201ccalculated * * * on a monthly basis.\u201d As a result, this practice would fail to satisfy the conditions for the exclusion from what constitutes \u201cfinanc[ing], directly or indirectly\u201d credit insurance premiums.", 
+                "The Bureau agrees with the commenter that the provision does not apply to mortgage insurance. Mortgage insurance is not listed in TILA section 129C(d). Credit insurance generally insures a consumer in the event of a specified event, and the benefit provided is to make the consumer's periodic payments while the consumer is unable to make them. Mortgage insurance is distinguishable in that it insures a creditor (or its assignee) against loss in the event of default by the consumer or in other specified events."
+            ], 
+            "title": "36(i) Prohibition on Financing Single-Premium Credit Insurance"
+        }
+    ]
+}
