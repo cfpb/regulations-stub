@@ -7,8 +7,14 @@ import os
 import argparse
 import json
 import urlparse
+import logging
 import boto
 
+logging.basicConfig(
+        format='%(asctime)s %(levelname)s: %(message)s', 
+        datefmt='%m/%d/%Y %I:%M:%S %p')
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
 
 def find_regulation_files(stub_base, regulation):
     """
@@ -41,18 +47,17 @@ def find_regulation_files(stub_base, regulation):
     notice_names = None
 
     # Get the regulation/ JSON and notice numbers
-    print("getting files for regulation {}...".format(regulation))
+    logger.info("getting files for regulation {}...".format(regulation))
     regulation_base = os.path.join(stub_base, 'regulation', regulation)
     if not os.path.isdir(regulation_base):
-        print("ERROR: Can't find regulation JSON for {} at {}".format(regulation, regulation_base), 
-                file=sys.stderr)
+        logger.error("Can't find regulation JSON for {} at {}".format(regulation, regulation_base))
         return []
     for dirname, subdirs, files in os.walk(regulation_base):
         notice_names = files
         regulation_files.extend([os.path.join(dirname, f) for f in files])
 
     # Get notice JSON
-    print("getting notice files for regulation {}...".format(regulation))
+    logger.info("getting notice files for regulation {}...".format(regulation))
     for dirname, subdirs, files in os.walk(os.path.join(stub_base, 'notice')):
         # Notices are not stored in a regulation-part-number
         # subdirectory. Use notice_names, from above, to just grab the
@@ -61,7 +66,7 @@ def find_regulation_files(stub_base, regulation):
         regulation_files.extend(notice_files)
 
     # Get layer JSON
-    print("getting layer files for regulation {}...".format(regulation))
+    logger.info("getting layer files for regulation {}...".format(regulation))
     for dirname, subdirs, files in os.walk(os.path.join(stub_base, 'layer')):
         # For layers, dig into each subdirectory of the layer path until
         # we find one with our regulation part number.
@@ -70,7 +75,7 @@ def find_regulation_files(stub_base, regulation):
             regulation_files.extend(layer_files)
 
     # Get diff JSON
-    print("getting diff files for regulation {}...".format(regulation))
+    logger.info("getting diff files for regulation {}...".format(regulation))
     for dirname, subdirs, files in os.walk(os.path.join(stub_base, 'diff', regulation)):
         # For diffs, each regulation directory has a notice directory
         # with json files corrosponding to each other notice. 
@@ -87,13 +92,16 @@ def send_to_s3(bucket, stub_base, path):
     path beneith `stub_base`.
     """
     relative_path = os.path.relpath(path, stub_base)
-    print('sending {} to s3://{}/{}'.format(path, bucket.name, relative_path))
+    logger.info('sending {} to s3://{}/{}'.format(path, bucket.name, relative_path))
 
     data = json.dumps(json.load(open(path, 'r')))
 
-    k = boto.s3.key.Key(bucket)
-    k.key = relative_path
-    k.set_contents_from_string(data)
+    try:
+        k = boto.s3.key.Key(bucket)
+        k.key = relative_path
+        k.set_contents_from_string(data)
+    except boto.exception.S3ResponseError as e:
+        logger.error("error sending", exc_info=True)
 
 
 def send_to_server(api_base, stub_base, path):
@@ -105,7 +113,7 @@ def send_to_server(api_base, stub_base, path):
     relative_path = os.path.relpath(path, stub_base)
     url = urlparse.urljoin(api_base, relative_path)
 
-    print('sending {} to {}'.format(path, url))
+    logger.info('sending {} to {}'.format(path, url))
 
     data = json.dumps(json.load(open(path, 'r')))
     r = requests.post(url, data=data,
@@ -113,7 +121,7 @@ def send_to_server(api_base, stub_base, path):
 
     # regulations-core returns 204 on a successful POST
     if r.status_code != 204:
-        print("ERROR:", r.status_code, r.reason)
+        logger.error("error sending {}: {}".format(r.status_code, r.reason))
 
 
 if __name__ == '__main__':
@@ -143,19 +151,21 @@ if __name__ == '__main__':
 
     # We need a destination
     if args.api_base is None and args.s3_bucket is None:
-        print("ERROR: either -a api_base or -b s3_bucket is required.",
-                file=sys.stderr)
+        logger.error("ERROR: either -a api_base or -b s3_bucket is required.")
         parser.print_help()
         sys.exit(1)
 
-    # If we're going to upload all the JSON for a single regulation, we
-    # need to fetch those files.
     if args.regulation is not None:
+        # If we're going to upload all the JSON for a single regulation, 
+        # we need to fetch those files.
         args.files = find_regulation_files(args.stub_base, args.regulation)
 
+    elif len(args.files) > 0:
+        # We need to get the path to the files relative to stub_base
+        args.files = [os.path.join(args.stub_base, f) for f in args.files]
+
     else:
-        print("ERROR: no file or regulation to upload. Use -r or -f to specify.",
-                file=sys.stderr)
+        logger.error("no file or regulation to upload. Use -r or -f to specify.")
         parser.print_help()
         sys.exit(1)
 
@@ -168,7 +178,7 @@ if __name__ == '__main__':
             conn = boto.connect_s3()
             bucket = conn.get_bucket(args.s3_bucket)
         except boto.exception.S3ResponseError as e:
-            print("ERROR:", e)
+            logger.error("error connecting", exc_info=True)
             sys.exit(1)
 
         [send_to_s3(bucket, args.stub_base, f)
