@@ -100,6 +100,22 @@ This will send the file `regulation/1005/2011-31725` in the [`stub/`](stub)
 subfolder of regulations-stub to the regulations-core API running at 
 http://localhost:7000.
 
+### Configuring regulations-parser
+
+To write new JSON files to regulations-stub, you'll need to configure
+regulations-parser accordingly. This is relatively straight-forward;
+modify `API_BASE` and `OUTPUT_DIR` in regulations-parser's 
+`local_settings.py` file like so:
+
+```python
+API_BASE=""
+OUTPUT_DIR="../regulations-stub/stub"
+```
+
+With the path to regulations-stub in `OUTPUT_DIR` reflecting its actual
+location on the filesystem. `API_BASE` can also be commented-out
+entirely by placing a `#` in front of it.
+
 ## Open source licensing info
 1. [TERMS](TERMS.md)
 2. [LICENSE](LICENSE)
