@@ -1,0 +1,353 @@
+{
+    "abstract": "The Bureau of Consumer Financial Protection (Bureau) is issuing this final rule amending the regulatory text and official interpretations for Regulation Z, which implements the Truth in Lending Act (TILA). The Bureau is required to calculate annually the dollar amounts for several provisions in Regulation Z; this final rule reviews the dollar amounts for provisions implementing amendments to TILA under the Credit Card Accountability Responsibility and Disclosure Act of 2009 (CARD Act), the Home Ownership and Equity Protection Act of 1994 (HOEPA), and the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act). These amounts are adjusted, where appropriate, based on the annual percentage change reflected in the Consumer Price Index in effect on June 1, 2014. The minimum interest charge disclosure thresholds will remain unchanged in 2015. The adjusted dollar amount for the penalty fees safe harbor in 2015 is $27 for a first late payment and $38 for each subsequent violation within the following six months. For HOEPA loans, the adjusted total loan amount threshold is $20,391, effective January 1, 2015. The adjusted statutory fee trigger for HOPEA loans is $1,020, effective January 1, 2015. Effective January 1, 2015, for the purpose of creditor's determination of a consumer's ability to repay a transaction secured by a dwelling, a covered transaction is not a qualified mortgage unless the transaction's total points and fees do not exceed 3 percent of the total loan amount for a loan greater than or equal to $101,953; $3,059 for a loan amount greater than or equal to $61,172 but less than $101,953; 5 percent of the total loan amount for a loan greater than or equal to $20,391 but less than $61,172; $1,020 for a loan amount greater than or equal to $12,744 but less than $20,391; and 8 percent of the total loan amount for a loan amount less than $12,744.", 
+    "action": "Final rule; official interpretation.", 
+    "agency_names": [
+        "Consumer Financial Protection Bureau"
+    ], 
+    "amendments": [
+        [
+            "PUT", 
+            [
+                "1026", 
+                "52", 
+                "b", 
+                "1", 
+                "ii", 
+                "A"
+            ]
+        ], 
+        [
+            "PUT", 
+            [
+                "1026", 
+                "52", 
+                "b", 
+                "1", 
+                "ii", 
+                "B"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1026", 
+                "32", 
+                "a", 
+                "1", 
+                "ii", 
+                "Interp", 
+                "1", 
+                "i"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1026", 
+                "32", 
+                "a", 
+                "1", 
+                "ii", 
+                "Interp", 
+                "3", 
+                "i"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1026", 
+                "43", 
+                "e", 
+                "3", 
+                "ii", 
+                "Interp", 
+                "1", 
+                "i"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1026", 
+                "52", 
+                "b", 
+                "1", 
+                "ii", 
+                "Interp", 
+                "2", 
+                "i", 
+                "B"
+            ]
+        ]
+    ], 
+    "cfr_parts": [
+        "1026"
+    ], 
+    "cfr_title": 12, 
+    "changes": {
+        "1026-32-a-1-ii-Interp-1-i": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "32", 
+                        "a", 
+                        "1", 
+                        "ii", 
+                        "Interp", 
+                        "1", 
+                        "i"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "i. For 2015, $1,020, reflecting a 2 percent increase in the CPI-U from June 2013 to June 2014, rounded to the nearest whole dollar.", 
+                    "text": "i. For 2015, $1,020, reflecting a 2 percent increase in the CPI-U from June 2013 to June 2014, rounded to the nearest whole dollar.", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-32-a-1-ii-Interp-3-i": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "32", 
+                        "a", 
+                        "1", 
+                        "ii", 
+                        "Interp", 
+                        "3", 
+                        "i"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "i. For 2015, $20,391, reflecting a 2 percent increase in the CPI-U from June 2013 to June 2014, rounded to the nearest whole dollar.", 
+                    "text": "i. For 2015, $20,391, reflecting a 2 percent increase in the CPI-U from June 2013 to June 2014, rounded to the nearest whole dollar.", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-43-e-3-ii-Interp-1-i": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [
+                        "1026-43-e-3-ii-Interp-1-i-A", 
+                        "1026-43-e-3-ii-Interp-1-i-B", 
+                        "1026-43-e-3-ii-Interp-1-i-C", 
+                        "1026-43-e-3-ii-Interp-1-i-D", 
+                        "1026-43-e-3-ii-Interp-1-i-E"
+                    ], 
+                    "label": [
+                        "1026", 
+                        "43", 
+                        "e", 
+                        "3", 
+                        "ii", 
+                        "Interp", 
+                        "1", 
+                        "i"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "\n              i. For 2015, reflecting a 2 percent increase in the CPI-U that was reported on the preceding June 1, a covered transaction is not a qualified mortgage unless the transactions total points and fees do not exceed;\n            ", 
+                    "text": "i. For 2015, reflecting a 2 percent increase in the CPI-U that was reported on the preceding June 1, a covered transaction is not a qualified mortgage unless the transactions total points and fees do not exceed;", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-43-e-3-ii-Interp-1-i-A": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "43", 
+                        "e", 
+                        "3", 
+                        "ii", 
+                        "Interp", 
+                        "1", 
+                        "i", 
+                        "A"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "\n              A. For a loan amount greater than or equal to $101,953: 3 percent of the total loan amount;\n            ", 
+                    "text": "A. For a loan amount greater than or equal to $101,953: 3 percent of the total loan amount;", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-43-e-3-ii-Interp-1-i-B": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "43", 
+                        "e", 
+                        "3", 
+                        "ii", 
+                        "Interp", 
+                        "1", 
+                        "i", 
+                        "B"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "\n              B. For a loan amount greater than or equal to $61,172 but less than $101,953: $3,059;\n            ", 
+                    "text": "B. For a loan amount greater than or equal to $61,172 but less than $101,953: $3,059;", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-43-e-3-ii-Interp-1-i-C": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "43", 
+                        "e", 
+                        "3", 
+                        "ii", 
+                        "Interp", 
+                        "1", 
+                        "i", 
+                        "C"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "\n              C. For a loan amount greater than or equal to $20,391 but less than $61,172: 5 percent of the total loan amount;\n            ", 
+                    "text": "C. For a loan amount greater than or equal to $20,391 but less than $61,172: 5 percent of the total loan amount;", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-43-e-3-ii-Interp-1-i-D": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "43", 
+                        "e", 
+                        "3", 
+                        "ii", 
+                        "Interp", 
+                        "1", 
+                        "i", 
+                        "D"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "\n              D. For a loan amount greater than or equal to $12,744 but less than $20,391; $1,020;\n            ", 
+                    "text": "D. For a loan amount greater than or equal to $12,744 but less than $20,391; $1,020;", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-43-e-3-ii-Interp-1-i-E": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "43", 
+                        "e", 
+                        "3", 
+                        "ii", 
+                        "Interp", 
+                        "1", 
+                        "i", 
+                        "E"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "\n              E. For a loan amount less than $12,744: 8 percent of the total loan amount.\n            ", 
+                    "text": "E. For a loan amount less than $12,744: 8 percent of the total loan amount.", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-52-b-1-ii-A": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "52", 
+                        "b", 
+                        "1", 
+                        "ii", 
+                        "A"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(A) $27", 
+                    "text": "(A) $27", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-52-b-1-ii-B": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "52", 
+                        "b", 
+                        "1", 
+                        "ii", 
+                        "B"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(B) $38 if the card issuer previously imposed a fee pursuant to paragraph (b)(1)(ii)(A) of this section for a violation of the same type that occurred during the same billing cycle or one of the next six billing cycles; or", 
+                    "text": "(B) $38 if the card issuer previously imposed a fee pursuant to paragraph (b)(1)(ii)(A) of this section for a violation of the same type that occurred during the same billing cycle or one of the next six billing cycles; or", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-52-b-1-ii-Interp-2-i-B": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "52", 
+                        "b", 
+                        "1", 
+                        "ii", 
+                        "Interp", 
+                        "2", 
+                        "i", 
+                        "B"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "B. Card issuers were permitted to impose a fee for violating the terms of an agreement if the fee did not exceed $26 under \u00a7 1026.52(b)(1)(ii)(A) and $37 under \u00a7 1026.52(b)(1)(ii)(B), through December 31, 2014.", 
+                    "text": "B. Card issuers were permitted to impose a fee for violating the terms of an agreement if the fee did not exceed $26 under \u00a7 1026.52(b)(1)(ii)(A) and $37 under \u00a7 1026.52(b)(1)(ii)(B), through December 31, 2014.", 
+                    "title": null
+                }
+            }
+        ]
+    }, 
+    "contact": "David Friend, Counsel, Office of Regulations, Consumer Financial Protection Bureau, 1700 G Street NW., Washington, DC 20552 at (202) 435-7700.", 
+    "document_number": "2014-18838", 
+    "effective_on": "2015-01-01", 
+    "footnotes": {
+        "1": "The responsibility for promulgating rules under TILA was generally transferred from the Board to the Bureau effective July 21, 2011. The Bureau restated Regulation Z on December 22, 2011, and the Bureau's Regulation Z is located at 12 CFR part 1026. 76 FR 79768 (Dec. 22, 2011).See sections 1061 and 1100A of the Dodd-Frank Act, Public Law 111-203, 124 Stat. 1376 (2010). Section 1029 of the Dodd-Frank Act excludes from this transfer of authority, subject to certain exceptions, any rulemaking authority over a motor vehicle dealer that is predominantly engaged in the sale and servicing of motor vehicles, the leasing and servicing of motor vehicles, or both.", 
+        "2": "Or $1,020, whichever is lesser. See the adjustment of the amount below for additional discussion."
+    }, 
+    "fr_citation": "79 FR 48015", 
+    "fr_url": "https://www.federalregister.gov/articles/2014/08/15/2014-18838/truth-in-lending-regulation-z-annual-threshold-adjustments-card-act-hoepa-and-atrqm", 
+    "fr_volume": 79, 
+    "initial_effective_on": "2015-01-01", 
+    "publication_date": "2014-08-15", 
+    "section_by_section": []
+}

@@ -1,87 +1,120 @@
-#### CFPB Open Source Project Template Instructions
+# regulations-stub
 
-1. Create a new project.
-2. Copy these files into the new project.
-3. Update the README, replacing the contents below as prescribed.
-4. Add any libraries, assets, or hard dependencies whose source code will be included
-   in the project's repository to the _Exceptions_ section in the [TERMS](TERMS.md).
-  - If no exceptions are needed, remove that section from TERMS.
-5. If working with an existing code base, answer the questions on the [open source checklist](opensource-checklist.md)
-6. Delete these instructions and everything up to the _Project Title_ from the README.
-7. Write some great software and tell people about it.
+[eRegulations](http://cfpb.github.io/eRegulations) is a web-based tool that makes regulations easier to find, read and understand with features such as inline official interpretations, highlighted defined terms, and a revision comparison view.
 
-> Keep the README fresh! It's the first thing people see and will make the initial impression.
+eRegs is made up of three core components:
 
-----
+* [regulations-parser](https://github.com/cfpb/regulations-parser): Parse regulations
+* [regulations-core](https://github.com/cfpb/regulations-core): Regulations API
+* [regulations-site](https://github.com/cfpb/regulations-site): Display the regulations
 
-# Project Title
+This repository contains JSON that corrosponds to CFPB regulations that
+have been parsed by [regulations-parser](https://github.com/cfpb/regulations-parser) 
+and which can be loaded into [regulations-core](https://github.com/cfpb/regulations-core)
+with the scripts included in this responsitory. This allows a working
+eRegulations setup to be created without needing to run the parser. 
 
-**Description**:  Put a meaningful, short, plain-language description of what
-this project is trying to accomplish and why it matters.
-Describe the problem(s) this project solves.
-Describe how this software can improve the lives of its audience.
+To get the rest of the eRegulations stack up and working, please see the 
+[regulations-bootstrap](https://github.com/cfpb/regulations-bootstrap)
+repository.
 
-Other things to include:
+## Requirements
 
-  - **Technology stack**: Indicate the technological nature of the software, including primary programming language(s) and whether the software is intended as standalone or as a module in a framework or other ecosystem.
-  - **Status**:  Alpha, Beta, 1.1, etc. It's OK to write a sentence, too. The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](CHANGELOG.md).
-  - **Links to production or demo instances**
-  - Describe what sets this apart from related-projects. Linking to another doc or page is OK if this can't be expressed in a sentence or two.
+Requirements for the [`send_to.py`](send_to.py) script can be satisfied with `pip`:
 
+```shell
+$ pip install -r requirements.txt
+```
 
-**Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
-
-![](https://raw.githubusercontent.com/cfpb/open-source-project-template/master/screenshot.png)
-
-
-## Dependencies
-
-Describe any dependencies that must be installed for this software to work.
-This includes programming languages, databases or other storage mechanisms, build tools, frameworks, and so forth.
-If specific versions of other software are required, or known not to work, call that out.
-
-## Installation
-
-Detailed instructions on how to install, configure, and get the project running.
-This should be frequently tested to ensure reliability. Alternatively, link to
-a separate [INSTALL](INSTALL.md) document.
-
-## Configuration
-
-If the software is configurable, describe it in detail, either here or in other documentation to which you link.
+- [Requests](http://docs.python-requests.org/en/latest/) for accessing
+  the [regulations-core](https://github.com/cfpb/regulations-core) API
+- [boto](https://boto.readthedocs.org/en/latest/) for Amazon S3 support
 
 ## Usage
 
-Show users how to use the software.
-Be specific.
-Use appropriate formatting when showing code snippets.
+This repository includes a [`send_to.py`](send_to.py) script which can
+send  the JSON in the [`stub`](stub) folder to either a running instance 
+of [regulations-core](https://github.com/cfpb/regulations-core) or to an
+Amazon S3 bucket. It can send either all of the JSON for a particular
+regulation or a single JSON file.
 
-## How to test the software
+`send_to.py` requires one of the following options that specify where
+the JSON should be sent:
 
-If the software includes automated tests, detail how to run those tests.
+* `-a`, `--api-base`: The regulations-core API URL, used to 
+  [send a regulation to regulations-core](#sending-a-regulation-to-regulations-core)
+* `-b`, `--s3-bucket`: An S3 bucket name, used to 
+  [send a regulation to S3](#sending-a-regulation-to-s3)
 
-## Known issues
+It requires one of the following options that specify what JSON should
+be sent:
 
-Document any known significant shortcomings with the software.
+* `-r`, `--regulation`: The specific regulation part number to upload (eg. 1026).
+* `-f`, `--files`: Specific JSON files to upload.
 
-## Getting help
+If you want to send JSON that does not live in the same directory as the
+`send_to.py` script you can specify that:
 
-Instruct users how to get help with this software; this might include links to an issue tracker, wiki, mailing list, etc.
+* `-s`, `--stub-base`: The base filesystem path for the JSON to be sent (default: ./stub).
 
-**Example**
+### Sending a regulation to regulations-core
 
-If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
+To send a particular regulation to a running regulations-core instance,
+you can use the `send_to.py` from the root of regulations-stub like so:
 
-## Getting involved
+```shell
+./send_to.py -a http://localhost:7000 -r 1005
+```
 
-This section should detail why people should get involved and describe key areas you are
-currently focusing on; e.g., trying to get feedback on features, fixing certain bugs, building
-important pieces, etc.
+This will look in the [`stub/`](stub) subfolder of regulations-stub for
+all JSON files related to the regulation with part number 1005 (CFPB
+Regulation E) and upload them to regulations-core running at
+http://localhost:7000.
 
-General instructions on _how_ to contribute should be stated with a link to [CONTRIBUTING](CONTRIBUTING.md).
+### Sending a regulation to S3
 
+To send a particular regulation to an Amazon S3 bucket you will need to
+create the S3 bucket and then set the environment variables 
+`AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` with the appropriate
+accesss credentials. Then you can use the `send_to.py` from the root 
+of regulations-stub like so:
 
-----
+```shell
+./send_to.py -b a-regulations-bucket -r 1005
+```
+
+This will look in the [`stub/`](stub) subfolder of regulations-stub for
+all JSON files related to the regulation with part number 1005 (CFPB
+Regulation E) and upload them to the S3 bucket named
+`a-regulations-bucket`.
+
+### Sending specific JSON files
+
+To send a specific JSON file or files, you can use `send_to.py` like so:
+
+```shell
+./send_to.py -a http://localhost:7000 -f regulation/1005/2011-31725
+```
+
+This will send the file `regulation/1005/2011-31725` in the [`stub/`](stub) 
+subfolder of regulations-stub to the regulations-core API running at 
+http://localhost:7000.
+
+### Configuring regulations-parser
+
+To write new JSON files to regulations-stub, you'll need to configure
+regulations-parser accordingly. This is relatively straight-forward;
+modify `API_BASE` and `OUTPUT_DIR` in regulations-parser's 
+`local_settings.py` file like so:
+
+```python
+API_BASE=""
+OUTPUT_DIR="../regulations-stub/stub"
+```
+
+With the path to regulations-stub in `OUTPUT_DIR` reflecting its actual
+location on the filesystem. `API_BASE` can also be commented-out
+entirely by placing a `#` in front of it.
 
 ## Open source licensing info
 1. [TERMS](TERMS.md)
@@ -89,10 +122,3 @@ General instructions on _how_ to contribute should be stated with a link to [CON
 3. [CFPB Source Code Policy](https://github.com/cfpb/source-code-policy/)
 
 
-----
-
-## Credits and references
-
-1. Projects that inspired you
-2. Related projects
-3. Books, papers, talks, or other sources that have meaniginful impact or influence on this project
