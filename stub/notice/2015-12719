@@ -1,0 +1,574 @@
+{
+    "abstract": "The OCC, Board, FDIC, NCUA, Bureau, and FHFA (collectively, the Agencies) are adopting a final rule to implement the minimum requirements in the Dodd-Frank Wall Street Reform and Consumer Protection Act (the Dodd-Frank Act) to be applied by participating States in the registration and supervision of appraisal management companies (AMCs). The final rule also implements the minimum requirements in the Dodd-Frank Act for AMCs that are subsidiaries owned and controlled by an insured depository institution and regulated by a Federal financial institutions regulatory agency (Federally regulated AMCs). Under the final rule, these Federally regulated AMCs do not need to register with a State, but are subject to the same minimum requirements as State-regulated AMCs. The final rule also implements the requirement for States to report to the Appraisal Subcommittee (ASC) of the Federal Financial Institutions Examination Council (FFIEC) the information required by the ASC to administer the new national registry of AMCs (AMC National Registry). In conjunction with this implementation, the FDIC is integrating its appraisal regulations for State nonmember banks and State savings associations.", 
+    "action": "Final rule.", 
+    "agency_names": [
+        "Treasury Department", 
+        "Comptroller of the Currency", 
+        "Federal Reserve System", 
+        "Federal Deposit Insurance Corporation", 
+        "Consumer Financial Protection Bureau", 
+        "Federal Housing Finance Agency"
+    ], 
+    "amendments": [
+        [
+            "POST", 
+            [
+                "34"
+            ]
+        ], 
+        [
+            "PUT", 
+            [
+                "208"
+            ]
+        ], 
+        [
+            "PUT", 
+            [
+                "208", 
+                "50"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "225"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "323"
+            ]
+        ], 
+        [
+            "DESIGNATE", 
+            [
+                [
+                    "323", 
+                    "1"
+                ], 
+                [
+                    "323", 
+                    "2"
+                ], 
+                [
+                    "323", 
+                    "3"
+                ], 
+                [
+                    "323", 
+                    "4"
+                ], 
+                [
+                    "323", 
+                    "5"
+                ], 
+                [
+                    "323", 
+                    "6"
+                ], 
+                [
+                    "323", 
+                    "7"
+                ]
+            ], 
+            [
+                "323", 
+                "Subpart", 
+                "A"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "323"
+            ]
+        ], 
+        [
+            "RESERVE", 
+            [
+                "390", 
+                "440"
+            ]
+        ], 
+        [
+            "RESERVE", 
+            [
+                "390", 
+                "441"
+            ]
+        ], 
+        [
+            "RESERVE", 
+            [
+                "390", 
+                "442"
+            ]
+        ], 
+        [
+            "RESERVE", 
+            [
+                "390", 
+                "443"
+            ]
+        ], 
+        [
+            "RESERVE", 
+            [
+                "390", 
+                "444"
+            ]
+        ], 
+        [
+            "RESERVE", 
+            [
+                "390", 
+                "445"
+            ]
+        ], 
+        [
+            "RESERVE", 
+            [
+                "390", 
+                "446"
+            ]
+        ], 
+        [
+            "RESERVE", 
+            [
+                "390", 
+                "447"
+            ]
+        ], 
+        [
+            "PUT", 
+            [
+                "1026", 
+                "1", 
+                "a"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1026", 
+                "42", 
+                "h"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1222"
+            ]
+        ]
+    ], 
+    "cfr_parts": [
+        "1026", 
+        "1222", 
+        "208", 
+        "34", 
+        "323", 
+        "390", 
+        "225"
+    ], 
+    "cfr_title": 12, 
+    "changes": {
+        "1026-1-a": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "1", 
+                        "a"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(a)<E T=\"03\">Authority.</E>This part, known as Regulation Z, is issued by the Bureau of Consumer Financial Protection to implement the Federal Truth in Lending Act, which is contained in title I of the Consumer Credit Protection Act, as amended (15 U.S.C. 1601<E T=\"03\">et seq.</E>). This part also implements title XII, section 1204 of the Competitive Equality Banking Act of 1987 (Pub. L. 100-86, 101 Stat. 552). Furthermore, this part implements certain provisions of the Real Estate Settlement Procedures Act of 1974, as amended (12 U.S.C. 2601<E T=\"03\">et seq.</E>). In addition, this part implements certain provisions of the Financial Institutions Reform, Recovery, and Enforcement Act, as amended (12 U.S.C. 3331<E T=\"03\">et seq.</E>). The Bureau's information-collection requirements contained in this part have been approved by the Office of Management and Budget (OMB) under the provisions of 44 U.S.C. 3501<E T=\"03\">et seq.</E>and have been assigned OMB No. 3170-0015 (Truth in Lending).", 
+                    "text": "(a) Authority. This part, known as Regulation Z, is issued by the Bureau of Consumer Financial Protection to implement the Federal Truth in Lending Act, which is contained in title I of the Consumer Credit Protection Act, as amended (15 U.S.C. 1601 et seq.). This part also implements title XII, section 1204 of the Competitive Equality Banking Act of 1987 (Pub. L. 100-86, 101 Stat. 552). Furthermore, this part implements certain provisions of the Real Estate Settlement Procedures Act of 1974, as amended (12 U.S.C. 2601 et seq.). In addition, this part implements certain provisions of the Financial Institutions Reform, Recovery, and Enforcement Act, as amended (12 U.S.C. 3331 et seq.). The Bureau's information-collection requirements contained in this part have been approved by the Office of Management and Budget (OMB) under the provisions of 44 U.S.C. 3501 et seq. and have been assigned OMB No. 3170-0015 (Truth in Lending).", 
+                    "title": null
+                }
+            }
+        ], 
+        "1026-42-h": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1026", 
+                        "42", 
+                        "h"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(h) The Bureau issued a joint rule to implement the appraisal management company minimum requirements in the Financial Institutions Reform, Recovery, and Enforcement Act, as amended by section 1473 of the Dodd-Frank Wall Street Reform and Consumer Protection Act.<E T=\"03\">See</E>12 CFR part 34.", 
+                    "text": "(h) The Bureau issued a joint rule to implement the appraisal management company minimum requirements in the Financial Institutions Reform, Recovery, and Enforcement Act, as amended by section 1473 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. See 12 CFR part 34.", 
+                    "title": null
+                }
+            }
+        ], 
+        "1222-Subpart-B": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1222", 
+                        "Subpart", 
+                        "B"
+                    ], 
+                    "node_type": "subpart", 
+                    "text": "", 
+                    "title": "Appraisal Management Company Minimum Requirements"
+                }, 
+                "subpart": [
+                    "1222", 
+                    "Subpart", 
+                    "B"
+                ]
+            }
+        ], 
+        "208-50": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "child_labels": [
+                        "208-50-a", 
+                        "208-50-b"
+                    ], 
+                    "label": [
+                        "208", 
+                        "50"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "\n              ", 
+                    "text": "\n              ", 
+                    "title": "\u00a7 208.50 Authority, purpose, and scope."
+                }
+            }
+        ], 
+        "208-50-a": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "208", 
+                        "50", 
+                        "a"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(a)<E T=\"03\">Authority.</E>Subpart E of Regulation H (12 CFR part 208, subpart E) is issued by the Board of Governors of the Federal Reserve System pursuant to section 304 of the Federal Deposit Insurance Corporation Improvement Act of 1991, (12 U.S.C 1828(o)), Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act, (12 U.S.C 3331-3351), and section 1473 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, (12 U.S.C. 3353).", 
+                    "text": "(a) Authority. Subpart E of Regulation H (12 CFR part 208, subpart E) is issued by the Board of Governors of the Federal Reserve System pursuant to section 304 of the Federal Deposit Insurance Corporation Improvement Act of 1991, (12 U.S.C 1828(o)), Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act, (12 U.S.C 3331-3351), and section 1473 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, (12 U.S.C. 3353).", 
+                    "title": null
+                }
+            }
+        ], 
+        "208-50-b": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "208", 
+                        "50", 
+                        "b"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(b)<E T=\"03\">Purpose and scope.</E>This subpart prescribes standards for real estate lending to be used by state member banks in adopting internal real estate lending policies. The standards applicable to appraisals rendered in connection with Federally related transactions entered into by member banks and the minimum requirements for appraisal management companies are set forth in 12 CFR part 225, subparts G and M respectively (Regulation Y).", 
+                    "text": "(b) Purpose and scope. This subpart prescribes standards for real estate lending to be used by state member banks in adopting internal real estate lending policies. The standards applicable to appraisals rendered in connection with Federally related transactions entered into by member banks and the minimum requirements for appraisal management companies are set forth in 12 CFR part 225, subparts G and M respectively (Regulation Y).", 
+                    "title": null
+                }
+            }
+        ], 
+        "225-Subpart-M": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "225", 
+                        "Subpart", 
+                        "M"
+                    ], 
+                    "node_type": "subpart", 
+                    "text": "", 
+                    "title": "Minimum Requirements for Appraisal Management Companies"
+                }, 
+                "subpart": [
+                    "225", 
+                    "Subpart", 
+                    "M"
+                ]
+            }
+        ], 
+        "323-1": [
+            {
+                "action": "DESIGNATE", 
+                "destination": [
+                    "323", 
+                    "Subpart", 
+                    "A"
+                ]
+            }
+        ], 
+        "323-2": [
+            {
+                "action": "DESIGNATE", 
+                "destination": [
+                    "323", 
+                    "Subpart", 
+                    "A"
+                ]
+            }
+        ], 
+        "323-3": [
+            {
+                "action": "DESIGNATE", 
+                "destination": [
+                    "323", 
+                    "Subpart", 
+                    "A"
+                ]
+            }
+        ], 
+        "323-4": [
+            {
+                "action": "DESIGNATE", 
+                "destination": [
+                    "323", 
+                    "Subpart", 
+                    "A"
+                ]
+            }
+        ], 
+        "323-5": [
+            {
+                "action": "DESIGNATE", 
+                "destination": [
+                    "323", 
+                    "Subpart", 
+                    "A"
+                ]
+            }
+        ], 
+        "323-6": [
+            {
+                "action": "DESIGNATE", 
+                "destination": [
+                    "323", 
+                    "Subpart", 
+                    "A"
+                ]
+            }
+        ], 
+        "323-7": [
+            {
+                "action": "DESIGNATE", 
+                "destination": [
+                    "323", 
+                    "Subpart", 
+                    "A"
+                ]
+            }
+        ], 
+        "323-Subpart-B": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "323", 
+                        "Subpart", 
+                        "B"
+                    ], 
+                    "node_type": "subpart", 
+                    "text": "", 
+                    "title": "Appraisal Management Company Minimum Requirements"
+                }, 
+                "subpart": [
+                    "323", 
+                    "Subpart", 
+                    "B"
+                ]
+            }
+        ], 
+        "34-Subpart-H": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "34", 
+                        "Subpart", 
+                        "H"
+                    ], 
+                    "node_type": "subpart", 
+                    "text": "", 
+                    "title": "Appraisal Management Company Minimum Requirements"
+                }, 
+                "subpart": [
+                    "34", 
+                    "Subpart", 
+                    "H"
+                ]
+            }
+        ]
+    }, 
+    "contact": "\n              ", 
+    "document_number": "2015-12719", 
+    "effective_on": "2015-08-10", 
+    "footnotes": {
+        "1": "75 FR 77450 (December 10, 2010).", 
+        "10": "12 U.S.C. 3353(a). For regulations implementing TILA section 129E, 15 U.S.C. 1639e, <em data-original=\"E-03\">see</em> 12 CFR 226.42 (Board) and 12 CFR 1026.42 (Bureau).", 
+        "100": "One commenter, an AMC, highlighted a report by a Hawaii State auditor regarding a proposed bill in the Hawaii legislature that concerns the registration of AMCs. The commenter argued that this report provided evidence that Hawaii would not adopt an AMC law. The auditor's report, however, does not indicate that it would be inappropriate for a State to participate in the AMC regulatory system established under section 1124. Rather, the report opined that the particular proposed bill would not be the appropriate method of participation for various reasons, including that the regulation of AMCs should not be managed by the State real estate commission. <em data-original=\"E-03\">See</em> Auditor of the State of Hawaii Report 10-07 (Sept. 2010) at 4, Sunrise Analysis: Real Estate Appraisal Management Companies, (Sept. 2010) at 4, <em data-original=\"E-03\">available at http://files.hawaii.gov/auditor/Reports/2010/10-07.pdf.</em>", 
+        "101": "The valuation independence provisions of TILA section 129E and its implementing regulations do not require use of AMCs. 15 U.S.C. 1639e, implemented at 12 CFR 226.42 (Board) and 12 CFR 1026.42 (Bureau).", 
+        "102": "12 U.S.C. 3353.", 
+        "103": "12 U.S.C. 3353(d).", 
+        "104": "12 U.S.C. 3353(d).", 
+        "105": "12 U.S.C. 3353(d).", 
+        "106": "12 U.S.C. 3353(d).", 
+        "107": "State appraiser boards also have experience applying the \u201cgood moral character\u201d standard, which is a common element of appraiser licensure standards already. <em data-original=\"E-03\">See, e.g.</em>\n              <em data-original=\"E-03\">,</em> Virginia 18 VAC 130-20-30(1); Pennsylvania Code Ch. 36.12(a); Michigan Code Ch. 339.2610; Missouri Code Ch. 339.511(2); N.J. S.A. Title 45 Ch. 14F-10(b).", 
+        "108": "12 U.S.C. 3353(d).", 
+        "109": "12 U.S.C. 3353(c). However, nothing in the proposed rule would prohibit a Federally regulated AMC from registering with a State if the State permitted it to do so.", 
+        "11": "12 U.S.C. 3353(c).", 
+        "110": "<em data-original=\"E-03\">See</em> section 129E of TILA, 15 U.S.C. 1639e (implemented at 12 CFR 1026.42).", 
+        "111": "12 U.S.C. 3353(d).", 
+        "112": "12 U.S.C. 3338.", 
+        "113": "<em data-original=\"E-03\">See</em> section 1109(a)(4)(B), 12 U.S.C. 3338(a)(4)(B).", 
+        "114": "12 U.S.C. 3338(a)(4)(B).", 
+        "115": "<em data-original=\"E-03\">See</em> FIRREA section 1124(e), 12 U.S.C. 3353(e).", 
+        "116": "<em data-original=\"E-03\">See</em> 12 U.S.C. 3338(a)(4)(B), 3353(e).", 
+        "117": "12 U.S.C. 3338(b)(5).", 
+        "118": "The commenters, however, did not offer data on what volume or burden the collection of information and transmission process would be expected to pose.", 
+        "119": "12 U.S.C. 3353(f).", 
+        "12": "12 U.S.C. 3353(b).", 
+        "120": "U.S. Small Business Administration, Table of Small Business Size Standards Matched to North American Industry Classification System Codes, <em data-original=\"E-03\">available at https://www.sba.gov/sites/default/files/files/Size_Standards_Table.pdf.</em>", 
+        "121": "<em data-original=\"E-03\">See</em> 5 U.S.C. 601 <em data-original=\"E-03\">et seq.</em>", 
+        "122": "For purposes of assessing the impacts of the proposed rule on small entities, \u201csmall entities\u201d is defined in the RFA to include small businesses, small not-for-profit organizations, and small government jurisdictions. 5 U.S.C. 601(6). A \u201csmall business\u201d is determined by application of SBA regulations and reference to the North American Industry Classification System (NAICS) classifications and size standards. 5 U.S.C. 601(3). A \u201csmall organization\u201d is any \u201cnot-for-profit enterprise which is independently owned and operated and is not dominant in its field.\u201d 5 U.S.C. 601(4). A \u201csmall governmental jurisdiction\u201d is the government of a city, county, town, township, village, school district, or special district with a population of less than 50,000. 5 U.S.C. 601(5). Given this definition, participating States are not small governmental jurisdictions and the burden on them is not relevant to this analysis.", 
+        "123": "The Bureau does not assume costs associated with the final rule's requirements to ensure compliance with USPAP and other regulations, because AMCs would be subject to these standards even without their being referenced in the final rule.", 
+        "124": "A State could accept the consequences on AMCs' business in the State from not implementing the final rule. FIRREA section 1124(f) provides that three years after the final rule takes effect, AMCs cannot provide services in Federally related transactions unless and until a State has implemented the final rule. However, the Bureau understands that only a minority of mortgage transactions are \u201cFederally related transactions\u201d within the meaning of FIRREA. <em data-original=\"E-03\">See, e.g.,</em> 12 CFR 225.62(f) (transaction must &#8220;[r]equire the services of an appraiser&#8221; to be federally related). <em data-original=\"E-03\">But see id.</em> at &#167; 225.63(a)(1),(9),(10) (exemptions from FIRREA appraisal requirements for transactions of $250,000 or less, transactions insured by or sold to a U.S. government agency, and transactions that conform to GSE appraisal standards). However, the Bureau believes all States will choose to participate. Several industry comments expressed concerns with the possible consequences if States did not participate. These comments did not establish that it was likely that States would not do so, however. Thus, the Bureau continues to rely on the assumption that the remaining States will choose to participate either within three years or soon thereafter. However, even if this is not the case, the transactions affected until a State did participate would be portfolio loans over $250,000 that are not insured by either the Federal Housing Administration (FHA), the U.S. Department of Veterans Affairs (VA), or the United States Department of Agriculture Rural Housing Service (USDA RHS). These loans represent a small percentage of the market, and therefore inability by certain market participants (certain types of AMCs) to provide appraisal management services in these types of transactions in a non-participating State will not result in a significant economic impact on a substantial number of small entities.", 
+        "125": "<em data-original=\"E-03\">See</em> 12 U.S.C. 3338. This provision in FIRREA is not part of the joint rulemaking authority in section 1124 that is the basis for the Agencies' issuance of this final rule.", 
+        "126": "The application fee in Vermont is $125. <em data-original=\"E-03\">See https://www.sec.state.vt.us/media/188701/amc_application.pdf.</em> The annualized renewal fee is $250 ($500 for a two-year period). <em data-original=\"E-03\">See https://www.sec.state.vt.us/media/486847/Appraisal-Management-Company-Renewal-Form-077-2014.pdf.</em> In addition, while some States may elect to impose additional requirements relating to examination and inspection of their AMCs, the Bureau does not believe that the minimum requirements that States must provide would lead to significant costs for AMCs.", 
+        "127": "<em data-original=\"E-03\">See, e.g.,</em> Vermont Statutes Title 26 section 3324 (requiring AMCs to &#8220;retain all records related to an appraisal, review, or consulting assignment for no less than five years . . . [and w]ith reasonable notice, a licensee or registrant shall produce any records governed by this section for inspection and copying by the board or its authorized agent.&#8221;).", 
+        "128": "In addition, the Bureau does not believe that in States that add this requirement there will be any significant new burden on the AMCs. The Bureau believes that the AMCs already keep their books and records in order as a standard course of business practice, and thus the occasional State examiner visits should not impose any significant burden. In addition, the final rule requires only that the State have the authority and mechanism to request records and information. The final rule does not require that the State exercise this authority and any burdensome exercise of this authority would therefore not be caused by the final rule. Finally, to the extent State supervision programs do increase burden, the Bureau believes this burden would be within the sensitivity tolerances described in the footnote at the end of this section.", 
+        "129": "These requirements also would not result in new burden on Federally regulated AMCs, for the same reason. Federally regulated AMCs do not have to comply with State registration and renewal requirements, which can entail fees. Conservatively, however, the Bureau applied the State fee burden to all of the small AMCs in its calculation method described herein. As a result, the estimated burden of State fees associated with the final rule may be over-estimated.", 
+        "13": "12 U.S.C. 3353(f)(1).", 
+        "130": "One of the AMCs did not report its revenue.", 
+        "131": "NAICS code 531320\u2014Offices of Real Estate Appraisers\u2014includes \u201cappraisal services,\u201d which we believe would include services provided by AMCs in the processing and review of appraisals. An alternative classification would be NAICS code 561110\u2014Office Administrative Services. In any event, this code also has an SBA threshold of $7,500,000.", 
+        "132": "The Bureau assumed that an AMC that operated in x States needs to register in additional (17/55)*x States. This assumption results in a (17/55)*x*$250 State registration and renewal fee burden on an AMC operating in x States.", 
+        "133": "The Bureau notes that the percentage of small institutions for which the estimated burden of the final rule would amount to over 3 percent of the revenue would remain under 1 percent even if the Bureau had used the following alternative assumptions: (1) $5,150 as the assumed burden of the proposed rule for states that adopt new registration regimes\u2014the highest among the existing state registration fees (in Minnesota, per <em data-original=\"E-03\">http://mn.gov/elicense/licenses/licensedetail.jsp?URI=tcm:29-9313&amp;CT_URI=tcm:27-117-32</em>), and assumed this same amount as the annual renewal fee (even though the Minnesota renewal fee is only $2,650, per <em data-original=\"E-03\">http://mn.gov/elicense/licenses/licensedetail.jsp?URI=tcm:29-9313&amp;CT_URI=tcm:27-117-32</em>); and (2) an additional annual labor cost of $300 for any possible associated burden of (a) filling out registration and renewal forms in those states (assuming an AMC operates in approximately 20 states on average, such that 6.26 of those states adopt new AMC licensing programs) and any additional burden related to notices from small AMCs removing appraisers from their panels in those states. The percentages of institutions for which this cost would amount to over 1 percent of the revenue changed, respectively, to 26 percent, 18 percent, and 15 percent of the small institutions affected, according to the normal, generalized extreme value, and logistic distributions.", 
+        "134": "5 U.S.C. 605(b).", 
+        "135": "5 U.S.C. 601 <em data-original=\"E-03\">et seq.</em>", 
+        "136": "78 FR 4032 (Jan. 18, 2013).", 
+        "14": "12 U.S.C. 3353(f)(2).", 
+        "15": "12 U.S.C. 3353.", 
+        "16": "<em data-original=\"E-03\">See</em> FIRREA section 1124(f)(1), 12 U.S.C. 3353(f)(1). Under section 1124(c), this restriction will not apply to AMCs that are subsidiaries owned and controlled by an insured depository institution and regulated by a Federal financial institutions regulatory agency. 12 U.S.C. 3353(c). Such AMCs are subject to all the requirements of section 1124, with the exception of the requirement to register with a State. <em data-original=\"E-03\">See id.</em>", 
+        "17": "<em data-original=\"E-03\">See</em> FIRREA section 1121(11), 12 U.S.C. 3350(11).", 
+        "18": "79 FR 19521 (Apr. 9, 2014).", 
+        "19": "12 U.S.C. 3353(e). <em data-original=\"E-03\">See also</em> 12 U.S.C. 3338(a)(4) (setting out the fee structure for the AMC National Registry).", 
+        "2": "Public Law 101-73, 103 Stat. 183.", 
+        "20": "<em data-original=\"E-03\">See</em> OCC: 12 CFR 34.45(b)(1); Board: 12 CFR 225.65(b)(1); FDIC: 12 CFR 323.5(b)(1); and NCUA: 12 CFR 722.5(b)(1).", 
+        "21": "The OTS was abolished on October 19, 2011, pursuant to the Dodd-Frank Act.", 
+        "22": "Title III of the Dodd-Frank Act transferred supervision of Federal savings associations to the OCC. The OCC recently integrated the OTS and OCC rules on appraisals. <em data-original=\"E-03\">See</em> 79 FR 28393 (May 16, 2014) (integrating certain interagency rules for national banks and Federal savings associations).", 
+        "23": "<em data-original=\"E-03\">See</em> 12 U.S.C. 3353(a), (c), and (e).", 
+        "24": "<em data-original=\"E-03\">See</em> proposed &#167;&#167; 34.211(m) and 34.211(j)(2).", 
+        "25": "These changes also should avoid any inadvertent confusion created by referring to Regulation Z, which includes additional exemptions that are not included in these regulations, such as for transactions meeting the Regulation Z definition of consumer credit transaction secured by a principal dwelling, but used to purchase a 3-4 unit owner-occupied rental property.", 
+        "26": "<em data-original=\"E-03\">See</em> 12 U.S.C. 3350(11).", 
+        "27": "<em data-original=\"E-03\">See id.</em>", 
+        "28": "12 U.S.C. 3350(11).", 
+        "29": "While it is clear that the definition of AMC encompasses only residential mortgage loans, there is some question as to whether the definition includes securitizations of commercial mortgages.", 
+        "3": "<em data-original=\"E-03\">See http://www.occ.gov/news-issuances/bulletins/2010/bulletin-2010-42.html</em>.", 
+        "30": "12 U.S.C. 3353.", 
+        "31": "12 U.S.C. 3350(11).", 
+        "32": "12 U.S.C. 3353(c).", 
+        "33": "12 U.S.C. 3353.", 
+        "34": "12 U.S.C. 3350(11). This rule establishes \u201cminimum\u201d requirements for a State to apply in registering AMCs. Thus, the Agencies interpret the rule of construction in FIRREA section 1124(b) to recognize that States may adopt requirements that exceed those in the rule, for example, defining AMC to cover more entities than would be covered under the minimum requirements of this rule. 15 U.S.C. 3353(b).", 
+        "35": "12 U.S.C. 3350(11).", 
+        "36": "12 U.S.C. 3353(b).", 
+        "37": "12 U.S.C. 3353 and 3350(11).", 
+        "38": "12 U.S.C. 3353.", 
+        "39": "<em data-original=\"E-03\">See</em> TILA section 129F, 15 U.S.C. 1639e.", 
+        "4": "12 U.S.C. 3346.", 
+        "40": "15 U.S.C. 1639e(i)(2) (emphasis added); <em data-original=\"E-03\">see also</em> 12 U.S.C. 3353. A &#8220;fee appraiser&#8221; is defined in TILA section 129E, 15 U.S.C. 1639(e)(i), as a person who: (1) Is not an employee of a loan originator or AMC engaging the appraiser; (2) performs an appraisal in compliance with USPAP; and (3) is a company [an appraisal firm] not subject to the requirements of section 1124 (minimum requirements for AMCs, 12 U.S.C. 3353) and that receives a fee for performing appraisals.", 
+        "41": "<em data-original=\"E-03\">Id.</em>", 
+        "42": "12 U.S.C. 3350(11).", 
+        "43": "12 U.S.C. 3350(11).", 
+        "44": "12 U.S.C. 3350(11).", 
+        "45": "12 U.S.C. 3350(11).", 
+        "46": "A majority of States with AMC laws define \u201cappraiser panel\u201d as being comprised of independent contractors. <em data-original=\"E-03\">See, e.g.,</em> N.C. Gen. Stat. section 93E-2-2 (defining an appraiser panel as a network or panel of appraisers who are independent contractors to the AMC); Vernon's Tex. Code Ann. Occupations Code section 1104.003(b)(3) (same); Louisiana La. Rev. Stat. Ann. section 37:3415.2(a) (same); <em data-original=\"E-03\">see also</em> Ohio (draft code) (same). A minority of States use a broader definition for &#8220;appraiser panel&#8221; that encompasses a combination of independent contractors and employees. <em data-original=\"E-03\">See, e.g.,</em> Cal. Bus. &amp; Prof. Code section 11302 (defining AMC to include both independent contractors and employees); Ark. Code Ann. section 17-14-402(2) (same); Ky. Rev. Stat. section 324A.150(2)(same). The majority approach is consistent with the model AMC code offered by a trade association for appraisers and the minority approach is consistent with a model code offered by a trade association for AMCs.", 
+        "47": "As discussed in the proposal, this understanding is based on outreach conducted by the Agencies with associations that represent AMCs and appraisers, as well as outreach with State appraiser certifying and licensing agencies.", 
+        "48": "12 U.S.C. 3350(11).", 
+        "49": "The Agencies will monitor AMCs to assess whether they are hiring appraisers as part-time employees to avoid State registration requirements. Outreach with State officials before the issuance of the proposed rule did not indicate this is currently occurring or at significant risk of occurring.", 
+        "5": "Hereafter, section references are to Title XI of FIRREA, unless otherwise noted.", 
+        "50": "12 U.S.C. 3353.", 
+        "51": "12 CFR 1008.23 (\u201c <em data-original=\"E-03\">Independent contractor</em> means an individual who performs his or her duties other than <em data-original=\"E-03\">at the direction of and subject to the supervision and instruction of</em> an individual . . .&#8221;) (emphasis added). The SAFE Act was enacted as part of the Housing and Economic Recovery Act of 2008, Pub. L. 110-289, Division A, Title V, sections 1501-1517, 122 Stat. 2654, 2810-2824 (July 30, 2008), <em data-original=\"E-03\">codified at</em> 12 U.S.C. 5101-5116.", 
+        "52": "For guidance on how to determine whether an appraiser is an employee or independent contractor, <em data-original=\"E-03\">see</em> IRS Publication 1779, &#8220;Independent Contractor or Employee,&#8221; <em data-original=\"E-03\">available at http://www.irs.gov/pub/irs-pdf/p1779.pdf</em> and IRS Publication 15-A, &#8220;Employer's Supplemental Tax Guide,&#8221; at p. 7 <em data-original=\"E-03\">et seq.</em> (discussing factors for distinguishing employees from independent contractors), <em data-original=\"E-03\">available at http://www.irs.gov/pub/irs-pdf/p15a.pdf</em>.", 
+        "53": "12 U.S.C. 3350(11).", 
+        "54": "<em data-original=\"E-03\">See</em> 12 U.S.C. 3353(a)(2) (3) and (4).", 
+        "55": "12 U.S.C. 3353(a)(4).", 
+        "56": "<em data-original=\"E-03\">See</em> 15 U.S.C. 1639e(a) (defining scope); 12 CFR 1026.42(b)(1)-(2) (implementing regulations defining scope).", 
+        "57": "The term \u201cFederal financial institutions regulatory agencies\u201d means the Board, the FDIC, the OCC, the former OTS, and the NCUA. 12 U.S.C. 3350(6). Title III of the Dodd-Frank Act provides that the OCC is now the Federal financial institutions regulatory agency for Federal savings associations. Title III of the Dodd-Frank Act also provides that the FDIC is the Federal financial institutions regulatory agency for State savings associations. Finally, the Dodd-Frank Act provides that the Board is responsible for regulation of savings and loan holding companies.", 
+        "58": "12 U.S.C. 3353(c).", 
+        "59": "<em data-original=\"E-03\">See</em> 12 CFR part 712 (outlining requirements relating to credit union investments in CUSOs).", 
+        "6": "12 U.S.C. 3332(a)(6).", 
+        "60": "As noted in the preamble to the proposed rule, the NCUA has not, historically, asserted that CUSOs or their employees are exempt from applicable State registration and licensing regimes. <em data-original=\"E-03\">See</em> 75 FR 44656, 44659 (applying similar reasoning to the licensing of mortgage loan originators who were employees of CUSOs under the SAFE Act.", 
+        "61": "12 U.S.C. 3350(11).", 
+        "62": "12 U.S.C. 3350(11).", 
+        "63": "One commenter, a coalition of three AMCs, stated the process of approving an appraiser for a panel typically requires from one week at a minimum to a month.", 
+        "64": "12 U.S.C. 3350(11) (defining an AMC subject to the minimum requirements as, in pertinent part, an entity with a \u201cnetwork or panel of more than 15 certified or licensed appraisers in a State or 25 or more nationally (meaning two or more States) within a given year.\u201d 12 U.S.C. 3350(11). The provision of the statute relevant to determining the registry fee is in section 1109(a)(4)(B), which provides that the fee is based on the number of appraisers \u201cworking for or contracting with [an AMC] in [a] state during the previous year.\u201d FIRREA section 1109(a)(4)(B), 12 U.S.C. 3338(a)(4)(B).", 
+        "65": "12 U.S.C. 3350(11).", 
+        "66": "12 U.S.C. 3338(a), 3353.", 
+        "67": "FIRREA section 1121(11), 12 U.S.C. 3350(11) (defining AMC).", 
+        "68": "12 U.S.C. 3353(a). As stated in the proposal, the Agencies view section 1124 as allowing the Agencies to establish more specific requirements for supervision and registration of AMCs that implement the general requirements enumerated in section 1124(a). <em data-original=\"E-03\">Id.</em> In addition, by providing that the regulation shall &#8220;include&#8221; the requirements enumerated in section 1124, the statute implies that the Agencies have the discretion to establish additional supervisory standards for State oversight of AMCs consistent with the general requirements specifically enumerated in section 1124(a). <em data-original=\"E-03\">Id.</em>", 
+        "69": "<em data-original=\"E-03\">See</em> 12 U.S.C. 3332(a)(1)(B) (requiring the ASC to monitor requirements established by the States for supervision of AMCs); 12 U.S.C. 3338(a) (requiring each participating State to transmit reports to the ASC on supervisory activities involving AMCs and disciplinary actions taken); and 12 U.S.C. 3347(a) (requiring the ASC to monitor States to assess whether a State has an effective regulatory program).", 
+        "7": "12 U.S.C. 3353(e). <em data-original=\"E-03\">See also</em> FIRREA section 1109(a)(3), 12 U.S.C. 3338(a)(3) (requiring States to submit reports to the ASC concerning supervisory activities involving AMCs). This final rule does not implement section 1109(a)(3); this section of FIRREA is implemented by the ASC.", 
+        "70": "<em data-original=\"E-03\">See</em> FIRREA section 1103(a)(1)(B), 12 U.S.C. 3332(a)(1)(B).", 
+        "71": "<em data-original=\"E-03\">See</em> FIRREA sections 1109(a)(3) and 1118(a)(4), 12 U.S.C. 3338(a)(3) and 3347(a)(4).", 
+        "72": "12 U.S.C. 3350(11), 3353.", 
+        "73": "12 U.S.C. 3353(a)(2).", 
+        "74": "<em data-original=\"E-03\">See</em> 12 CFR 34.46(b) (OCC); <em data-original=\"E-03\">see also</em> Interagency Appraisal and Evaluation Guidelines, 75 FR 77450, 77458 (December 10, 2010); Appraisal Standards Board, Uniform Standards of Professional Appraisal Practice, Appraiser Competency Rule (2014-2015), <em data-original=\"E-03\">available at</em> The Appraisal Foundation, <em data-original=\"E-03\">https://netforum.avectra.com/eWeb/DynamicPage.aspx?Site=TAF&amp;WebCode=USPAP</em> (requiring that an appraiser have specific competency for the appraisal assignment).", 
+        "75": "<em data-original=\"E-03\">See</em> 12 CFR 226.42 (Board); 12 CFR 1026.42 (Bureau).", 
+        "76": "12 CFR 34.45 and 164.5 (OCC); 12 CFR 225.65 (Board); 12 CFR 323.5 (FDIC); 12 CFR 722.5(NCUA).", 
+        "77": "<em data-original=\"E-03\">See</em> Interagency Appraisal and Evaluation Guidelines, 75 FR 77450, 77463 (discussing third-party arrangements).", 
+        "78": "The Agencies received many comments on Question 6 concerning the proposed minimum requirements for State registration and supervision of AMCs. Commenters were generally supportive of the proposed requirements. However, the commenters made several observations and expressed concerns with the proposed requirements.", 
+        "79": "12 U.S.C. 3350(11).", 
+        "8": "12 U.S.C. 3353(a).", 
+        "80": "FIRREA section 1110(3), 12 U.S.C. 3339(3).", 
+        "81": "12 U.S.C. 3339(3).", 
+        "82": "12 U.S.C. 3339(3).", 
+        "83": "This approach is consistent with the States' approach to registering appraisers. The Agencies understand that State appraiser certifying and licensing agencies have collected fees from appraisers for administering national appraiser registration for many years.", 
+        "84": "12 U.S.C. 3346.", 
+        "85": "12 U.S.C. 3350(11).", 
+        "86": "FIRREA section 1109(a)(4), 12 U.S.C. 3338(a)(4) (requiring States to submit AMC fees for the National Registry to the ASC annually).", 
+        "87": "12 U.S.C. 3338(a)(4).", 
+        "88": "12 U.S.C. 3338(a)(4).", 
+        "89": "12 U.S.C. 3353(a)(2).", 
+        "9": "Under FIRREA, a Federally related transaction is a real estate related financial transaction that involves an insured depository institution regulated by the OCC, Board, FDIC, or NCUA and that requires the services of an appraiser under the interagency appraisal rules. <em data-original=\"E-03\">See</em> 12 U.S.C. 3350(4), implemented by the OCC: 12 CFR 34.42(f) and 34.43(a); Board: 12 CFR 225.62(f) and 225.63(a); FDIC: 12 CFR 323.2(f) and 323.3(a); and NCUA: 12 CFR 722.2(f) and 722.3(a).", 
+        "90": "12 U.S.C. 3351(e).", 
+        "91": "12 U.S.C. 3351(e), 3353(a)(2).", 
+        "92": "15 U.S.C. 1639e.", 
+        "93": "12 U.S.C. 3353(a)(4), 15 U.S.C. 1639e.", 
+        "94": "15 U.S.C. 1639e.", 
+        "95": "FIRREA sections 1124(f)(1) and (2), 12 U.S.C. 3353(f)(1) and (2).", 
+        "96": "12 U.S.C. 3353.", 
+        "97": "12 U.S.C. 3353.", 
+        "98": "12 U.S.C. 3353(a).", 
+        "99": "12 U.S.C. 3353(f)."
+    }, 
+    "fr_citation": "80 FR 32657", 
+    "fr_url": "https://www.federalregister.gov/articles/2015/06/09/2015-12719/minimum-requirements-for-appraisal-management-companies", 
+    "fr_volume": 80, 
+    "initial_effective_on": "2015-08-10", 
+    "publication_date": "2015-06-09", 
+    "regulation_id_numbers": [
+        "1557-AD64", 
+        "2590-AA61", 
+        "3064-AE10", 
+        "3170-AA44", 
+        "7100-AE15"
+    ], 
+    "section_by_section": []
+}
