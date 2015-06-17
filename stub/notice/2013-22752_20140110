@@ -17,42 +17,6 @@
         [
             "PUT", 
             [
-                "1002", 
-                "14", 
-                "b", 
-                "3", 
-                "Interp", 
-                "1", 
-                "i"
-            ]
-        ], 
-        [
-            "PUT", 
-            [
-                "1002", 
-                "14", 
-                "b", 
-                "3", 
-                "Interp", 
-                "3", 
-                "v"
-            ]
-        ], 
-        [
-            "POST", 
-            [
-                "1002", 
-                "14", 
-                "b", 
-                "3", 
-                "Interp", 
-                "3", 
-                "vi"
-            ]
-        ], 
-        [
-            "PUT", 
-            [
                 "1024", 
                 "30", 
                 "a"
@@ -203,14 +167,6 @@
             "PUT", 
             [
                 "1024", 
-                "MS", 
-                "3(D)"
-            ]
-        ], 
-        [
-            "PUT", 
-            [
-                "1024", 
                 "17", 
                 "k", 
                 "5", 
@@ -279,6 +235,17 @@
             ]
         ], 
         [
+            "PUT", 
+            [
+                "1024", 
+                "41", 
+                "b", 
+                "1", 
+                "Interp", 
+                "4"
+            ]
+        ], 
+        [
             "POST", 
             [
                 "1024", 
@@ -326,8 +293,6 @@
                 "1024", 
                 "41", 
                 "c", 
-                "2", 
-                "iv", 
                 "Interp"
             ]
         ], 
@@ -340,6 +305,89 @@
                 "2", 
                 "iii", 
                 "Interp"
+            ]
+        ], 
+        [
+            "MOVE", 
+            [
+                "1024", 
+                "41", 
+                "d", 
+                "1", 
+                "Interp", 
+                "1"
+            ], 
+            [
+                "1024", 
+                "41", 
+                "d", 
+                "Interp", 
+                "1"
+            ]
+        ], 
+        [
+            "MOVE", 
+            [
+                "1024", 
+                "41", 
+                "d", 
+                "1", 
+                "Interp", 
+                "2"
+            ], 
+            [
+                "1024", 
+                "41", 
+                "d", 
+                "Interp", 
+                "2"
+            ]
+        ], 
+        [
+            "MOVE", 
+            [
+                "1024", 
+                "41", 
+                "d", 
+                "1", 
+                "Interp", 
+                "3"
+            ], 
+            [
+                "1024", 
+                "41", 
+                "c", 
+                "1", 
+                "Interp", 
+                "4"
+            ]
+        ], 
+        [
+            "MOVE", 
+            [
+                "1024", 
+                "41", 
+                "d", 
+                "1", 
+                "Interp", 
+                "4"
+            ], 
+            [
+                "1024", 
+                "41", 
+                "d", 
+                "Interp", 
+                "3"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1024", 
+                "41", 
+                "d", 
+                "Interp", 
+                "4"
             ]
         ], 
         [
@@ -347,56 +395,9 @@
             [
                 "1024", 
                 "41", 
-                "c", 
-                "2", 
-                "iii", 
-                "Interp"
-            ]
-        ], 
-        [
-            "MOVE", 
-            [
-                "1024", 
-                "41", 
-                "d", 
-                "Interp", 
-                "3"
-            ], 
-            [
-                "1024", 
-                "41", 
-                "c", 
+                "f", 
                 "1", 
                 "Interp"
-            ]
-        ], 
-        [
-            "MOVE", 
-            [
-                "1024", 
-                "41", 
-                "c", 
-                "1", 
-                "Interp", 
-                "4"
-            ], 
-            [
-                "1024", 
-                "41", 
-                "c", 
-                "1", 
-                "Interp", 
-                "3"
-            ]
-        ], 
-        [
-            "POST", 
-            [
-                "1024", 
-                "41", 
-                "d", 
-                "Interp", 
-                "4"
             ]
         ], 
         [
@@ -828,69 +829,6 @@
     ], 
     "cfr_title": 12, 
     "changes": {
-        "1002-14-b-3-Interp-1-i": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1002", 
-                        "14", 
-                        "b", 
-                        "3", 
-                        "Interp", 
-                        "1", 
-                        "i"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "i. A report prepared by an appraiser (whether or not licensed or certified) including the appraiser's estimate of the property's value or opinion of value.", 
-                    "text": "i. A report prepared by an appraiser (whether or not licensed or certified) including the appraiser's estimate of the property's value or opinion of value.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1002-14-b-3-Interp-3-v": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1002", 
-                        "14", 
-                        "b", 
-                        "3", 
-                        "Interp", 
-                        "3", 
-                        "v"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "v. Reports reflecting property inspections that do not provide an estimate of the value of the property and are not used to develop an estimate of the value of the property.", 
-                    "text": "v. Reports reflecting property inspections that do not provide an estimate of the value of the property and are not used to develop an estimate of the value of the property.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1002-14-b-3-Interp-3-vi": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1002", 
-                        "14", 
-                        "b", 
-                        "3", 
-                        "Interp", 
-                        "3", 
-                        "vi"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "vi. Appraisal reviews that do not include the appraiser's estimate of the property's value or opinion of value.", 
-                    "text": "vi. Appraisal reviews that do not include the appraiser's estimate of the property's value or opinion of value.", 
-                    "title": null
-                }
-            }
-        ], 
         "1024-17-k-5-ii-Interp": [
             {
                 "action": "PUT", 
@@ -1293,6 +1231,93 @@
                 }
             }
         ], 
+        "1024-41-b-1-Interp-4": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "child_labels": [
+                        "1024-41-b-1-Interp-4-i", 
+                        "1024-41-b-1-Interp-4-ii", 
+                        "1024-41-b-1-Interp-4-iii"
+                    ], 
+                    "label": [
+                        "1024", 
+                        "41", 
+                        "b", 
+                        "1", 
+                        "Interp", 
+                        "4"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "4.<E T=\"03\">Diligence requirements.</E>Although a servicer has flexibility to establish its own requirements regarding the documents and information necessary for a loss mitigation application, the servicer must act with reasonable diligence to collect information needed to complete the application. Further, a servicer must request information necessary to make a loss mitigation application complete promptly after receiving the loss mitigation application. Reasonable diligence includes, without limitation, the following actions:", 
+                    "text": "4. Diligence requirements. Although a servicer has flexibility to establish its own requirements regarding the documents and information necessary for a loss mitigation application, the servicer must act with reasonable diligence to collect information needed to complete the application. Further, a servicer must request information necessary to make a loss mitigation application complete promptly after receiving the loss mitigation application. Reasonable diligence includes, without limitation, the following actions:", 
+                    "title": null
+                }
+            }
+        ], 
+        "1024-41-b-1-Interp-4-i": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1024", 
+                        "41", 
+                        "b", 
+                        "1", 
+                        "Interp", 
+                        "4", 
+                        "i"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "i. A servicer requires additional information from the applicant, such as an address or a telephone number to verify employment; the servicer contacts the applicant promptly to obtain such information after receiving a loss mitigation application;", 
+                    "text": "i. A servicer requires additional information from the applicant, such as an address or a telephone number to verify employment; the servicer contacts the applicant promptly to obtain such information after receiving a loss mitigation application;", 
+                    "title": null
+                }
+            }
+        ], 
+        "1024-41-b-1-Interp-4-ii": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1024", 
+                        "41", 
+                        "b", 
+                        "1", 
+                        "Interp", 
+                        "4", 
+                        "ii"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "ii. Servicing for a mortgage loan is transferred to a servicer and the borrower makes an incomplete loss mitigation application to the transferee servicer after the transfer; the transferee servicer reviews documents provided by the transferor servicer to determine if information required to make the loss mitigation application complete is contained within documents transferred by the transferor servicer to the servicer; and", 
+                    "text": "ii. Servicing for a mortgage loan is transferred to a servicer and the borrower makes an incomplete loss mitigation application to the transferee servicer after the transfer; the transferee servicer reviews documents provided by the transferor servicer to determine if information required to make the loss mitigation application complete is contained within documents transferred by the transferor servicer to the servicer; and", 
+                    "title": null
+                }
+            }
+        ], 
+        "1024-41-b-1-Interp-4-iii": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1024", 
+                        "41", 
+                        "b", 
+                        "1", 
+                        "Interp", 
+                        "4", 
+                        "iii"
+                    ], 
+                    "node_type": "interp", 
+                    "tagged_text": "iii. A servicer offers a borrower a payment forbearance program based on an incomplete loss mitigation application; the servicer notifies the borrower that he or she is being offered a payment forbearance program based on an evaluation of an incomplete application, and that the borrower has the option of completing the application to receive a full evaluation of all loss mitigation options available to the borrower. If a servicer provides such a notification, the borrower remains in compliance with the payment forbearance program, and the borrower does not request further assistance, the servicer could suspend reasonable diligence efforts until near the end of the payment forbearance program. Near the end of the program, and prior to the end of the forbearance period, it may be necessary for the servicer to contact the borrower to determine if the borrower wishes to complete the application and proceed with a full loss mitigation evaluation.", 
+                    "text": "iii. A servicer offers a borrower a payment forbearance program based on an incomplete loss mitigation application; the servicer notifies the borrower that he or she is being offered a payment forbearance program based on an evaluation of an incomplete application, and that the borrower has the option of completing the application to receive a full evaluation of all loss mitigation options available to the borrower. If a servicer provides such a notification, the borrower remains in compliance with the payment forbearance program, and the borrower does not request further assistance, the servicer could suspend reasonable diligence efforts until near the end of the payment forbearance program. Near the end of the program, and prior to the end of the forbearance period, it may be necessary for the servicer to contact the borrower to determine if the borrower wishes to complete the application and proceed with a full loss mitigation evaluation.", 
+                    "title": null
+                }
+            }
+        ], 
         "1024-41-b-2-Interp": [
             {
                 "action": "POST", 
@@ -1612,19 +1637,6 @@
                 }
             }
         ], 
-        "1024-41-c-1-Interp-4": [
-            {
-                "action": "MOVE", 
-                "destination": [
-                    "1024", 
-                    "41", 
-                    "c", 
-                    "1", 
-                    "Interp", 
-                    "3"
-                ]
-            }
-        ], 
         "1024-41-c-1-ii": [
             {
                 "action": "PUT", 
@@ -1683,9 +1695,6 @@
             }
         ], 
         "1024-41-c-2-iii-Interp": [
-            {
-                "action": "DELETE"
-            }, 
             {
                 "action": "POST", 
                 "node": {
@@ -1810,27 +1819,6 @@
                     "text": "", 
                     "title": "41(c)(2)(iv) Facially complete application."
                 }
-            }, 
-            {
-                "action": "PUT", 
-                "field": "[title]", 
-                "node": {
-                    "child_labels": [
-                        "1024-41-c-2-iv-Interp-1", 
-                        "1024-41-c-2-iv-Interp-2"
-                    ], 
-                    "label": [
-                        "1024", 
-                        "41", 
-                        "c", 
-                        "2", 
-                        "iv", 
-                        "Interp"
-                    ], 
-                    "node_type": "interp", 
-                    "text": "", 
-                    "title": "41(c)(2)(iv) Facially complete application."
-                }
             }
         ], 
         "1024-41-c-2-iv-Interp-1": [
@@ -1875,6 +1863,26 @@
                 }
             }
         ], 
+        "1024-41-c-Interp": [
+            {
+                "action": "PUT", 
+                "field": "[title]", 
+                "node": {
+                    "child_labels": [
+                        "1024-41-c-2-Interp"
+                    ], 
+                    "label": [
+                        "1024", 
+                        "41", 
+                        "c", 
+                        "Interp"
+                    ], 
+                    "node_type": "interp", 
+                    "text": "", 
+                    "title": "41(c) Evaluation of loss mitigation applications."
+                }
+            }
+        ], 
         "1024-41-d": [
             {
                 "action": "PUT", 
@@ -1892,7 +1900,31 @@
                 }
             }
         ], 
-        "1024-41-d-Interp-3": [
+        "1024-41-d-1-Interp-1": [
+            {
+                "action": "MOVE", 
+                "destination": [
+                    "1024", 
+                    "41", 
+                    "d", 
+                    "Interp", 
+                    "1"
+                ]
+            }
+        ], 
+        "1024-41-d-1-Interp-2": [
+            {
+                "action": "MOVE", 
+                "destination": [
+                    "1024", 
+                    "41", 
+                    "d", 
+                    "Interp", 
+                    "2"
+                ]
+            }
+        ], 
+        "1024-41-d-1-Interp-3": [
             {
                 "action": "MOVE", 
                 "destination": [
@@ -1900,7 +1932,20 @@
                     "41", 
                     "c", 
                     "1", 
-                    "Interp"
+                    "Interp", 
+                    "4"
+                ]
+            }
+        ], 
+        "1024-41-d-1-Interp-4": [
+            {
+                "action": "MOVE", 
+                "destination": [
+                    "1024", 
+                    "41", 
+                    "d", 
+                    "Interp", 
+                    "3"
                 ]
             }
         ], 
@@ -1943,6 +1988,11 @@
                     "text": "(1) Pre-foreclosure review period. A servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless:", 
                     "title": null
                 }
+            }
+        ], 
+        "1024-41-f-1-Interp": [
+            {
+                "action": "DELETE"
             }
         ], 
         "1024-41-f-1-i": [
@@ -2138,6 +2188,23 @@
                     "tagged_text": "(j)<E T=\"03\">Small servicer requirements.</E>A small servicer shall be subject to the prohibition on foreclosure referral in paragraph (f)(1) of this section. A small servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of an agreement on a loss mitigation option.", 
                     "text": "(j) Small servicer requirements. A small servicer shall be subject to the prohibition on foreclosure referral in paragraph (f)(1) of this section. A small servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of an agreement on a loss mitigation option.", 
                     "title": null
+                }
+            }
+        ], 
+        "1024-MS-3(D)": [
+            {
+                "action": "PUT", 
+                "field": "[title]", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1024", 
+                        "MS", 
+                        "3(D)"
+                    ], 
+                    "node_type": "appendix", 
+                    "text": "", 
+                    "title": "MS-3(D)\u2014Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required by \u00a7 1024.37(e)(2)"
                 }
             }
         ], 
@@ -3552,74 +3619,7 @@
                 {
                     "children": [], 
                     "footnote_refs": [], 
-                    "labels": [
-                        "1002-14"
-                    ], 
                     "page": 60390, 
-                    "paragraphs": [], 
-                    "title": "Section 1002.14 Rules on Providing Appraisals and Other Valuations"
-                }, 
-                {
-                    "children": [], 
-                    "footnote_refs": [], 
-                    "labels": [
-                        "1002-14-b"
-                    ], 
-                    "page": 60390, 
-                    "paragraphs": [], 
-                    "title": "14(b) Definitions"
-                }, 
-                {
-                    "children": [
-                        {
-                            "children": [], 
-                            "footnote_refs": [], 
-                            "page": 60390, 
-                            "paragraphs": [
-                                "The Bureau proposed to amend commentary to \u00a7 1002.14 to clarify the definition of \u201cvaluation\u201d as adopted by the 2013 ECOA Final Rule. As the Bureau stated in the proposal, the Dodd-Frank Act section 1474 amended ECOA by, among other things, defining \u201cvaluation\u201d to include any <em data-original=\"E-03\">estimate</em> of the value of the dwelling developed in connection with a creditor's decisions to provide credit. <em data-original=\"E-03\">See</em> ECOA section 701(e)(6). Similarly, the 2013 ECOA Final Rule adopted &#167; 1002.14(b)(3), which defines &#8220;valuation&#8221; as any <em data-original=\"E-03\">estimate</em> of the value of a dwelling developed in connection with an application for credit. Consistent with these provisions, the Bureau intended the term &#8220;valuation&#8221; to refer only to an estimate for purposes of the 2013 ECOA Final Rule's newly adopted provisions. However, the 2013 ECOA Final Rule added two comments that refer to a valuation as an appraiser's estimate or opinion of the value of the property: comment 14(b)(3)-1.i, which gives examples of &#8220;valuations,&#8221; as defined by &#167; 1002.14(b)(3); and comment 14(b)(3)-3.v, which provides examples of documents that discuss or restate a valuation of an applicant's property but nevertheless do not constitute &#8220;valuations&#8221; under &#167; 1002.14(b)(3).", 
-                                "Because the Bureau did not intend by these two comments to alter the meaning of \u201cvaluation\u201d to become inconsistent with ECOA section 701(e)(6) and \u00a7 1002.14(b)(3), the Bureau proposed to clarify comments 14(b)(3)-1.i and 14(b)(3)-3.v by removing the words \u201cor opinion\u201d from their texts, and sought comment on the clarification."
-                            ], 
-                            "title": "The Proposal"
-                        }, 
-                        {
-                            "children": [], 
-                            "footnote_refs": [], 
-                            "page": 60391, 
-                            "paragraphs": [
-                                "The Bureau received a few comments from trade associations and credit unions that generally supported the clarification. The Bureau also received one comment from a trade association that suggested the proposed change could cause additional confusion, because the term \u201copinion of value\u201d is commonly used to describe appraisals. This commenter also pointed out that appraisals are generally not considered to be \u201cestimates,\u201d and thus the application of the rule to appraisals could be confusing in light of the proposed change. The commenter suggested that, rather than deleting the word \u201copinion\u201d altogether, the Bureau instead clarify that a valuation includes any \u201cestimate or opinion of value.\u201d"
-                            ], 
-                            "title": "Comments"
-                        }, 
-                        {
-                            "children": [], 
-                            "footnote_refs": [], 
-                            "page": 60391, 
-                            "paragraphs": [
-                                "The Bureau is adopting comment 14(b)(3)-1.i as proposed with some additional modifications, and also is adding new comment 14(b)(3)-3.vi based on the trade association comment. In proposing these amendments, the Bureau intended to clarify that the comments referred to appraisals or other valuation models by removing the word \u201copinion,\u201d which could be read broadly to include even speculative opinions not based on an appraisal or other valuation model. However, in light of the trade association's comments the Bureau believes that simply deleting the word \u201copinion\u201d could also cause confusion regarding whether and how the rule applies to appraisals that are commonly described as \u201copinions of value.\u201d Thus, the Bureau is substituting \u201copinion of value\u201d for \u201copinion\u201d rather than deleting the word entirely. The Bureau is adopting revised comment 14(b)(3)-1.i with this change. The Bureau is adopting comment 14(b)(3)-3.v as proposed, and does not believe any additional revisions are necessary in light of this clarification, because the comment deals exclusively with reports reflecting property inspections and not appraisals. However, the Bureau is adding new comment 14(b)(3)-3.vi to clarify that appraisal reviews that do not provide an estimate of value or \u201copinion of value\u201d are included in the list of examples of items that are not considered \u201cvaluations\u201d for purposes of \u00a7 1002.14(b)(3)."
-                            ], 
-                            "title": "Final Rule"
-                        }
-                    ], 
-                    "footnote_refs": [], 
-                    "labels": [
-                        "1002-14-b-3"
-                    ], 
-                    "page": 60390, 
-                    "paragraphs": [], 
-                    "title": "14(b)(3) Valuation"
-                }
-            ], 
-            "footnote_refs": [], 
-            "page": 60390, 
-            "paragraphs": [], 
-            "title": "A. Regulation B"
-        }, 
-        {
-            "children": [
-                {
-                    "children": [], 
-                    "footnote_refs": [], 
-                    "page": 60391, 
                     "paragraphs": [
                         "In addition to the clarifications and amendments to Regulation X discussed below, the Bureau proposed technical corrections and minor wording adjustments for the purpose of clarity throughout Regulation X that were not substantive in nature. No comments were received on these changes, and the Bureau is finalizing such technical and wording clarifications to regulatory text in \u00a7\u00a7 1024.30, 1024.39, and 1024.41; and to commentary to \u00a7\u00a7 1024.17, 1024.33 and 1024.41."
                     ], 
@@ -3632,7 +3632,7 @@
                         "1024-35", 
                         "1024-36"
                     ], 
-                    "page": 60391, 
+                    "page": 60390, 
                     "paragraphs": [
                         "The Bureau proposed minor amendments to the error resolution and request for information provisions of Regulation X, adopted by the 2013 Mortgage Servicing Final Rules. In the areas in which amendments were proposed, the error resolution procedures largely parallel the information request procedures; thus the two sections are discussed together below. Section 1024.35 implements section 6(k)(1)(C) of RESPA, as amended by the Dodd-Frank Act, and \u00a7 1024.36 implements section 6(k)(1)(D) of RESPA, as amended by the Dodd-Frank Act. To the extent the requirements under \u00a7\u00a7 1024.35 and 1024.36 are applicable to qualified written requests, these provisions also implement sections 6(e) and 6(k)(1)(B) of RESPA. As discussed in part III (Legal Authority), the Bureau is finalizing these amendments pursuant to its authority under RESPA sections 6(j), 6(k)(1)(E) and 19(a). As explained in more detail below, the Bureau believes these provisions are necessary and appropriate to achieve the consumer protection purposes of RESPA, including ensuring responsiveness to consumer requests and complaints and the provision and maintenance of accurate and relevant information."
                     ], 
@@ -3643,7 +3643,7 @@
                         {
                             "children": [], 
                             "footnote_refs": [], 
-                            "page": 60391, 
+                            "page": 60390, 
                             "paragraphs": [
                                 "The Bureau proposed to amend the commentary to \u00a7 1024.35(c) and \u00a7 1024.36(b) with respect to disclosure of the exclusive address (a servicer may designate an exclusive address for the receipt of notifications of errors and requests for information) when a servicer discloses contact information to the borrower for the purpose of assistance from the servicer. Section 1024.35(c), as adopted by the 2013 Mortgage Servicing Final Rules, state that a servicer may, by written notice provided to a borrower, establish an address that a borrower must use to submit a notice of error to a servicer in accordance with the procedures set forth in \u00a7 1024.35. Comment 35(c)-2 clarifies that, if a servicer establishes any such exclusive address, the servicer must provide that address to the borrower in any communication in which the servicer provides the borrower with contact information for assistance from the servicer. Similarly, \u00a7 1024.36(b) states that a servicer may, by written notice provided to a borrower, establish an address that a borrower must use to submit information requests to a servicer in accordance with the procedures set forth in \u00a7 1024.36. Comment 36(b)-2 clarifies that, if a servicer establishes any such exclusive address, the servicer must provide that address to the borrower in any communication in which the servicer provides the borrower with contact information for assistance from the servicer.", 
                                 "In the proposal, the Bureau expressed concern that comments 35(c)-2 and 36(b)-2 could be interpreted more broadly than the Bureau had intended. Section 1024.35(c) and comment 35(c)-2, as well as \u00a7 1024.36(b) and comment 36(b)-2, are intended to ensure that servicers inform borrowers of the correct address for the borrower to use for purposes of submitting notices of error or information requests, so that borrowers do not inadvertently send these communications to other non-designated servicer addresses (which would not provide the protections afforded by \u00a7\u00a7 1024.35 and 1024.36, respectively). If interpreted literally, the existing comments would require the servicer to include the designated address for notices of error and requests for information when <em data-original=\"E-03\">any</em> contact information, even just a phone number or web address, for the servicer is given to the borrower. The Bureau did not intend that the servicer be required to inform the borrower of the designated address in all communications with borrowers where any contact information whatsoever for the servicer is provided.", 
@@ -3678,7 +3678,7 @@
                         "1024-35-c", 
                         "1024-36-b"
                     ], 
-                    "page": 60391, 
+                    "page": 60390, 
                     "paragraphs": [], 
                     "title": "35(c) and 36(b) Contact Information for Borrowers To Assert Errors and Information Requests"
                 }, 
@@ -4299,7 +4299,7 @@
                 }
             ], 
             "footnote_refs": [], 
-            "page": 60391, 
+            "page": 60390, 
             "paragraphs": [], 
             "title": "B. Regulation X"
         }, 
