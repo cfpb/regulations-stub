@@ -1,0 +1,831 @@
+{
+    "1024-12": [
+        {
+            "offsets": [
+                [
+                    157, 
+                    188
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    422, 
+                    428
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-14-b": [
+        {
+            "offsets": [
+                [
+                    245, 
+                    276
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-14-c": [
+        {
+            "offsets": [
+                [
+                    262, 
+                    293
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-14-g-3": [
+        {
+            "offsets": [
+                [
+                    934, 
+                    941
+                ]
+            ], 
+            "ref": "closing:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-16": [
+        {
+            "offsets": [
+                [
+                    88, 
+                    119
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-2-b-Application": [
+        {
+            "offsets": [
+                [
+                    122, 
+                    153
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-2-b-DealerLoanOrDealerConsumerCreditContract": [
+        {
+            "offsets": [
+                [
+                    135, 
+                    166
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    0, 
+                    6
+                ], 
+                [
+                    15, 
+                    21
+                ], 
+                [
+                    92, 
+                    98
+                ], 
+                [
+                    212, 
+                    218
+                ], 
+                [
+                    402, 
+                    408
+                ], 
+                [
+                    512, 
+                    518
+                ]
+            ], 
+            "ref": "dealer:1024-2-b-Dealer"
+        }
+    ], 
+    "1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan": [
+        {
+            "offsets": [
+                [
+                    0, 
+                    31
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-i": [
+        {
+            "offsets": [
+                [
+                    93, 
+                    104
+                ]
+            ], 
+            "ref": "refinancing:1024-2-b-Refinancing"
+        }
+    ], 
+    "1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-E": [
+        {
+            "offsets": [
+                [
+                    30, 
+                    36
+                ]
+            ], 
+            "ref": "dealer:1024-2-b-Dealer"
+        }
+    ], 
+    "1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-2": [
+        {
+            "offsets": [
+                [
+                    122, 
+                    153
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-3": [
+        {
+            "offsets": [
+                [
+                    107, 
+                    138
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-2-b-HUD-1OrHUD-1ASettlementStatement(alsoHUD-1OrHUD-1A)": [
+        {
+            "offsets": [
+                [
+                    195, 
+                    206
+                ]
+            ], 
+            "ref": "refinancing:1024-2-b-Refinancing"
+        }
+    ], 
+    "1024-2-b-Lender": [
+        {
+            "offsets": [
+                [
+                    49, 
+                    58
+                ]
+            ], 
+            "ref": "creditor:1024-2-b-DealerLoanOrDealerConsumerCreditContract"
+        }, 
+        {
+            "offsets": [
+                [
+                    37, 
+                    45
+                ], 
+                [
+                    479, 
+                    487
+                ]
+            ], 
+            "ref": "creditor:1024-2-b-DealerLoanOrDealerConsumerCreditContract"
+        }, 
+        {
+            "offsets": [
+                [
+                    379, 
+                    385
+                ], 
+                [
+                    448, 
+                    454
+                ]
+            ], 
+            "ref": "dealer:1024-2-b-Dealer"
+        }
+    ], 
+    "1024-2-b-MortgageBroker": [
+        {
+            "offsets": [
+                [
+                    196, 
+                    227
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-2-b-MortgagedProperty": [
+        {
+            "offsets": [
+                [
+                    68, 
+                    99
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-2-b-Servicing": [
+        {
+            "offsets": [
+                [
+                    534, 
+                    550
+                ]
+            ], 
+            "ref": "reverse mortgage:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F"
+        }, 
+        {
+            "offsets": [
+                [
+                    140, 
+                    146
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-2-b-Settlement": [
+        {
+            "offsets": [
+                [
+                    118, 
+                    149
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-2-b-SettlementService-1": [
+        {
+            "offsets": [
+                [
+                    21, 
+                    52
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-2-b-SettlementService-3": [
+        {
+            "offsets": [
+                [
+                    85, 
+                    116
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-2-b-def1": [
+        {
+            "offsets": [
+                [
+                    142, 
+                    158
+                ]
+            ], 
+            "ref": "reverse mortgage:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F"
+        }
+    ], 
+    "1024-20-a-1": [
+        {
+            "offsets": [
+                [
+                    121, 
+                    127
+                ]
+            ], 
+            "ref": "dealer:1024-2-b-Dealer"
+        }
+    ], 
+    "1024-20-a-3": [
+        {
+            "offsets": [
+                [
+                    25, 
+                    31
+                ], 
+                [
+                    233, 
+                    239
+                ]
+            ], 
+            "ref": "dealer:1024-2-b-Dealer"
+        }
+    ], 
+    "1024-20-a-4": [
+        {
+            "offsets": [
+                [
+                    39, 
+                    45
+                ]
+            ], 
+            "ref": "dealer:1024-2-b-Dealer"
+        }
+    ], 
+    "1024-20-b": [
+        {
+            "offsets": [
+                [
+                    75, 
+                    106
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-20-c-1": [
+        {
+            "offsets": [
+                [
+                    4, 
+                    20
+                ], 
+                [
+                    90, 
+                    106
+                ]
+            ], 
+            "ref": "reverse mortgage:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F"
+        }
+    ], 
+    "1024-5-a": [
+        {
+            "offsets": [
+                [
+                    52, 
+                    84
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-5-b-5": [
+        {
+            "offsets": [
+                [
+                    171, 
+                    202
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-5-b-6": [
+        {
+            "offsets": [
+                [
+                    42, 
+                    73
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-5-b-7": [
+        {
+            "offsets": [
+                [
+                    481, 
+                    487
+                ], 
+                [
+                    496, 
+                    502
+                ]
+            ], 
+            "ref": "dealer:1024-2-b-Dealer"
+        }
+    ], 
+    "1024-6-a": [
+        {
+            "offsets": [
+                [
+                    277, 
+                    308
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-6-a-2": [
+        {
+            "offsets": [
+                [
+                    21, 
+                    52
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-6-a-3-i": [
+        {
+            "offsets": [
+                [
+                    4, 
+                    15
+                ]
+            ], 
+            "ref": "refinancing:1024-2-b-Refinancing"
+        }
+    ], 
+    "1024-6-a-3-iii": [
+        {
+            "offsets": [
+                [
+                    6, 
+                    23
+                ]
+            ], 
+            "ref": "reverse mortgage:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F"
+        }
+    ], 
+    "1024-6-a-3-iv": [
+        {
+            "offsets": [
+                [
+                    15, 
+                    46
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-7-a-1": [
+        {
+            "offsets": [
+                [
+                    271, 
+                    277
+                ], 
+                [
+                    343, 
+                    349
+                ]
+            ], 
+            "ref": "dealer:1024-2-b-Dealer"
+        }
+    ], 
+    "1024-7-f-6": [
+        {
+            "offsets": [
+                [
+                    353, 
+                    360
+                ]
+            ], 
+            "ref": "closing:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-7-h": [
+        {
+            "offsets": [
+                [
+                    94, 
+                    125
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-8-a": [
+        {
+            "offsets": [
+                [
+                    123, 
+                    154
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    267, 
+                    278
+                ]
+            ], 
+            "ref": "refinancing:1024-2-b-Refinancing"
+        }
+    ], 
+    "1024-8-b-2-i": [
+        {
+            "offsets": [
+                [
+                    277, 
+                    309
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-8-b-2-ii": [
+        {
+            "offsets": [
+                [
+                    164, 
+                    196
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }
+    ], 
+    "1024-8-b-2-iv": [
+        {
+            "offsets": [
+                [
+                    252, 
+                    258
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-9-a-11": [
+        {
+            "offsets": [
+                [
+                    53, 
+                    59
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-A-h1-p4": [
+        {
+            "offsets": [
+                [
+                    140, 
+                    147
+                ], 
+                [
+                    256, 
+                    263
+                ]
+            ], 
+            "ref": "closing:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-A-h1-p5": [
+        {
+            "offsets": [
+                [
+                    188, 
+                    195
+                ]
+            ], 
+            "ref": "closing:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-A-h10-h11-p100": [
+        {
+            "offsets": [
+                [
+                    18, 
+                    29
+                ]
+            ], 
+            "ref": "refinancing:1024-2-b-Refinancing"
+        }, 
+        {
+            "offsets": [
+                [
+                    488, 
+                    497
+                ]
+            ], 
+            "ref": "creditor:1024-2-b-DealerLoanOrDealerConsumerCreditContract"
+        }, 
+        {
+            "offsets": [
+                [
+                    516, 
+                    524
+                ], 
+                [
+                    553, 
+                    561
+                ]
+            ], 
+            "ref": "creditor:1024-2-b-DealerLoanOrDealerConsumerCreditContract"
+        }
+    ], 
+    "1024-A-h10-h11-p101": [
+        {
+            "offsets": [
+                [
+                    935, 
+                    942
+                ]
+            ], 
+            "ref": "closing:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-A-h2-h3-p53": [
+        {
+            "offsets": [
+                [
+                    234, 
+                    241
+                ]
+            ], 
+            "ref": "closing:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-A-h2-h3-p64": [
+        {
+            "offsets": [
+                [
+                    301, 
+                    307
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-A-h2-h3-p66": [
+        {
+            "offsets": [
+                [
+                    79, 
+                    86
+                ], 
+                [
+                    367, 
+                    374
+                ]
+            ], 
+            "ref": "closing:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-A-h2-h3-p68": [
+        {
+            "offsets": [
+                [
+                    46, 
+                    53
+                ]
+            ], 
+            "ref": "closing:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-A-h2-p27": [
+        {
+            "offsets": [
+                [
+                    524, 
+                    531
+                ]
+            ], 
+            "ref": "closing:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-A-h7-p91": [
+        {
+            "offsets": [
+                [
+                    99, 
+                    131
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    66, 
+                    77
+                ]
+            ], 
+            "ref": "refinancing:1024-2-b-Refinancing"
+        }
+    ], 
+    "1024-A-h9-p94": [
+        {
+            "offsets": [
+                [
+                    582, 
+                    589
+                ]
+            ], 
+            "ref": "closing:1024-2-b-Settlement"
+        }
+    ], 
+    "referenced": {
+        "balloon payment:1024-2-b-def0": {
+            "position": [
+                41, 
+                56
+            ], 
+            "reference": "1024-2-b-def0", 
+            "term": "balloon payment"
+        }, 
+        "closing:1024-2-b-Settlement": {
+            "position": [
+                184, 
+                191
+            ], 
+            "reference": "1024-2-b-Settlement", 
+            "term": "closing"
+        }, 
+        "creditor:1024-2-b-DealerLoanOrDealerConsumerCreditContract": {
+            "position": [
+                415, 
+                423
+            ], 
+            "reference": "1024-2-b-DealerLoanOrDealerConsumerCreditContract", 
+            "term": "creditor"
+        }, 
+        "creditor:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-D": {
+            "position": [
+                38, 
+                46
+            ], 
+            "reference": "1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-D", 
+            "term": "creditor"
+        }, 
+        "dealer:1024-2-b-Dealer": {
+            "position": [
+                154, 
+                160
+            ], 
+            "reference": "1024-2-b-Dealer", 
+            "term": "dealer"
+        }, 
+        "escrow:1024-2-b-Settlement": {
+            "position": [
+                197, 
+                203
+            ], 
+            "reference": "1024-2-b-Settlement", 
+            "term": "escrow"
+        }, 
+        "federally related mortgage loan:1024-2-b-DealerLoanOrDealerConsumerCreditContract": {
+            "position": [
+                461, 
+                492
+            ], 
+            "reference": "1024-2-b-DealerLoanOrDealerConsumerCreditContract", 
+            "term": "federally related mortgage loan"
+        }, 
+        "federally related mortgage loan:1024-2-b-Lender": {
+            "position": [
+                506, 
+                537
+            ], 
+            "reference": "1024-2-b-Lender", 
+            "term": "federally related mortgage loan"
+        }, 
+        "prepayment penalty:1024-2-b-def4": {
+            "position": [
+                44, 
+                62
+            ], 
+            "reference": "1024-2-b-def4", 
+            "term": "prepayment penalty"
+        }, 
+        "refinancing:1024-2-b-Refinancing": {
+            "position": [
+                416, 
+                427
+            ], 
+            "reference": "1024-2-b-Refinancing", 
+            "term": "refinancing"
+        }, 
+        "residential real estate loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-D": {
+            "position": [
+                363, 
+                391
+            ], 
+            "reference": "1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-D", 
+            "term": "residential real estate loan"
+        }, 
+        "reverse mortgage:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F": {
+            "position": [
+                83, 
+                99
+            ], 
+            "reference": "1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F", 
+            "term": "reverse mortgage"
+        }
+    }
+}
