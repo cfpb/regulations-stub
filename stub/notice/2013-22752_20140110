@@ -114,6 +114,8 @@
             [
                 "1024", 
                 "41", 
+                "c", 
+                "2", 
                 "iv"
             ]
         ], 
@@ -2049,6 +2051,25 @@
                 }
             }
         ], 
+        "1024-41-c-2-iv": [
+            {
+                "action": "POST", 
+                "node": {
+                    "child_labels": [], 
+                    "label": [
+                        "1024", 
+                        "41", 
+                        "c", 
+                        "2", 
+                        "iv"
+                    ], 
+                    "node_type": "regtext", 
+                    "tagged_text": "(iv)<E T=\"03\">Facially complete application.</E>If a borrower submits all the missing documents and information as stated in the notice required pursuant to \u00a7 1026.41(b)(2)(i)(B), or no additional information is requested in such notice, the application shall be considered facially complete. If the servicer later discovers additional information or corrections to a previously submitted document are required to complete the application, the servicer must promptly request the missing information or corrected documents and treat the application as complete for the purposes of paragraphs (f)(2) and (g) of this section until the borrower is given a reasonable opportunity to complete the application. If the borrower completes the application within this period, the application shall be considered complete as of the date it was facially complete, for the purposes of paragraphs (d), (e), (f)(2), (g), and (h) of this section, and as of the date the application was actually complete for the purposes of paragraph (c). A servicer that complies with this paragraph will be deemed to have fulfilled its obligation to provide an accurate notice under paragraph (b)(2)(i)(B).", 
+                    "text": "(iv) Facially complete application. If a borrower submits all the missing documents and information as stated in the notice required pursuant to \u00a7 1026.41(b)(2)(i)(B), or no additional information is requested in such notice, the application shall be considered facially complete. If the servicer later discovers additional information or corrections to a previously submitted document are required to complete the application, the servicer must promptly request the missing information or corrected documents and treat the application as complete for the purposes of paragraphs (f)(2) and (g) of this section until the borrower is given a reasonable opportunity to complete the application. If the borrower completes the application within this period, the application shall be considered complete as of the date it was facially complete, for the purposes of paragraphs (d), (e), (f)(2), (g), and (h) of this section, and as of the date the application was actually complete for the purposes of paragraph (c). A servicer that complies with this paragraph will be deemed to have fulfilled its obligation to provide an accurate notice under paragraph (b)(2)(i)(B).", 
+                    "title": null
+                }
+            }
+        ], 
         "1024-41-c-2-iv-Interp": [
             {
                 "action": "POST", 
@@ -2420,23 +2441,6 @@
                     "node_type": "regtext", 
                     "tagged_text": "(4)<E T=\"03\">Appeal determination.</E>Within 30 days of a borrower making an appeal, the servicer shall provide a notice to the borrower stating the servicer's determination of whether the servicer will offer the borrower a loss mitigation option based upon the appeal and, if applicable, how long the borrower has to accept or reject such an offer or a prior offer of a loss mitigation option. A servicer may require that a borrower accept or reject an offer of a loss mitigation option after an appeal no earlier than 14 days after the servicer provides the notice to a borrower. A servicer's determination under this paragraph is not subject to any further appeal.", 
                     "text": "(4) Appeal determination. Within 30 days of a borrower making an appeal, the servicer shall provide a notice to the borrower stating the servicer's determination of whether the servicer will offer the borrower a loss mitigation option based upon the appeal and, if applicable, how long the borrower has to accept or reject such an offer or a prior offer of a loss mitigation option. A servicer may require that a borrower accept or reject an offer of a loss mitigation option after an appeal no earlier than 14 days after the servicer provides the notice to a borrower. A servicer's determination under this paragraph is not subject to any further appeal.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1024-41-iv": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1024", 
-                        "41", 
-                        "iv"
-                    ], 
-                    "node_type": "regtext", 
-                    "tagged_text": "(iv)<E T=\"03\">Facially complete application.</E>If a borrower submits all the missing documents and information as stated in the notice required pursuant to \u00a7 1026.41(b)(2)(i)(B), or no additional information is requested in such notice, the application shall be considered facially complete. If the servicer later discovers additional information or corrections to a previously submitted document are required to complete the application, the servicer must promptly request the missing information or corrected documents and treat the application as complete for the purposes of paragraphs (f)(2) and (g) of this section until the borrower is given a reasonable opportunity to complete the application. If the borrower completes the application within this period, the application shall be considered complete as of the date it was facially complete, for the purposes of paragraphs (d), (e), (f)(2), (g), and (h) of this section, and as of the date the application was actually complete for the purposes of paragraph (c). A servicer that complies with this paragraph will be deemed to have fulfilled its obligation to provide an accurate notice under paragraph (b)(2)(i)(B).", 
-                    "text": "(iv) Facially complete application. If a borrower submits all the missing documents and information as stated in the notice required pursuant to \u00a7 1026.41(b)(2)(i)(B), or no additional information is requested in such notice, the application shall be considered facially complete. If the servicer later discovers additional information or corrections to a previously submitted document are required to complete the application, the servicer must promptly request the missing information or corrected documents and treat the application as complete for the purposes of paragraphs (f)(2) and (g) of this section until the borrower is given a reasonable opportunity to complete the application. If the borrower completes the application within this period, the application shall be considered complete as of the date it was facially complete, for the purposes of paragraphs (d), (e), (f)(2), (g), and (h) of this section, and as of the date the application was actually complete for the purposes of paragraph (c). A servicer that complies with this paragraph will be deemed to have fulfilled its obligation to provide an accurate notice under paragraph (b)(2)(i)(B).", 
                     "title": null
                 }
             }
