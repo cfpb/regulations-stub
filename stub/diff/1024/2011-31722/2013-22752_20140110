@@ -31,8 +31,9 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
-            "title": null
+            "title": "\u00a7 1024.17\u2014Escrow Accounts"
         }, 
         "op": "added"
     }, 
@@ -49,7 +50,116 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
+            "title": "17(k)(5) Timely payment of hazard insurance."
+        }, 
+        "op": "added"
+    }, 
+    "1024-17-k-5-ii-A-Interp": {
+        "node": {
+            "child_labels": [
+                "1024-17-k-5-ii-A-Interp-1"
+            ], 
+            "label": [
+                "1024", 
+                "17", 
+                "k", 
+                "5", 
+                "ii", 
+                "A", 
+                "Interp"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": null, 
+            "text": "", 
+            "title": "17(k)(5)(ii)(A) When inability exists."
+        }, 
+        "op": "added"
+    }, 
+    "1024-17-k-5-ii-A-Interp-1": {
+        "node": {
+            "child_labels": [
+                "1024-17-k-5-ii-A-Interp-1-i", 
+                "1024-17-k-5-ii-A-Interp-1-ii", 
+                "1024-17-k-5-ii-A-Interp-1-iii"
+            ], 
+            "label": [
+                "1024", 
+                "17", 
+                "k", 
+                "5", 
+                "ii", 
+                "A", 
+                "Interp", 
+                "1"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "1.<E T=\"03\">Examples of reasonable basis to believe that a policy has been cancelled or not renewed.</E>The following are examples of where a servicer has a reasonable basis to believe that a borrower's hazard insurance policy has been canceled or not renewed for reasons other than the nonpayment of premium charges:", 
+            "text": "1. Examples of reasonable basis to believe that a policy has been cancelled or not renewed. The following are examples of where a servicer has a reasonable basis to believe that a borrower's hazard insurance policy has been canceled or not renewed for reasons other than the nonpayment of premium charges:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-17-k-5-ii-A-Interp-1-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "17", 
+                "k", 
+                "5", 
+                "ii", 
+                "A", 
+                "Interp", 
+                "1", 
+                "i"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "i. A borrower notifies a servicer that the borrower has cancelled the hazard insurance coverage, and the servicer has not received notification of other hazard insurance coverage.", 
+            "text": "i. A borrower notifies a servicer that the borrower has cancelled the hazard insurance coverage, and the servicer has not received notification of other hazard insurance coverage.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-17-k-5-ii-A-Interp-1-ii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "17", 
+                "k", 
+                "5", 
+                "ii", 
+                "A", 
+                "Interp", 
+                "1", 
+                "ii"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "ii. A servicer receives a notification of cancellation or non-renewal from the borrower's insurance company before payment is due on the borrower's hazard insurance.", 
+            "text": "ii. A servicer receives a notification of cancellation or non-renewal from the borrower's insurance company before payment is due on the borrower's hazard insurance.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-17-k-5-ii-A-Interp-1-iii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "17", 
+                "k", 
+                "5", 
+                "ii", 
+                "A", 
+                "Interp", 
+                "1", 
+                "iii"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "iii. A servicer does not receive a payment notice by the expiration date of the borrower's hazard insurance policy.", 
+            "text": "iii. A servicer does not receive a payment notice by the expiration date of the borrower's hazard insurance policy.", 
             "title": null
         }, 
         "op": "added"
@@ -69,6 +179,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "17(k)(5)(ii)(C) Recoupment for advances."
         }, 
@@ -97,6 +208,7 @@
     "1024-17-k-5-ii-Interp": {
         "node": {
             "child_labels": [
+                "1024-17-k-5-ii-A-Interp", 
                 "1024-17-k-5-ii-C-Interp"
             ], 
             "label": [
@@ -108,6 +220,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "17(k)(5)(ii) Inability to disburse funds."
         }, 
@@ -125,57 +238,11 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
-            "title": null
+            "title": "17(k) Timely payments."
         }, 
         "op": "added"
-    }, 
-    "1024-17-l": {
-        "op": "modified", 
-        "text": [
-            [
-                [
-                    "delete", 
-                    4, 
-                    10
-                ], 
-                [
-                    "insert", 
-                    4, 
-                    "Discretionary payments. Any borrower's discretionary payment (such as credit life or disability insurance) made as part"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    14, 
-                    29
-                ], 
-                [
-                    "insert", 
-                    14, 
-                    "a monthly mortgage payment is to be noted on the initial and annual statements. If a discretionary payment is established or terminated during the escrow account computation year, this change should be noted on the next annual statement. A discretionary payment is not part of the escrow account unless the payment is required by the lender, in accordance with the definition of \u201csettlement service\u201d in \u00a7 1024.2, or the servicer chooses to place the discretionary payment in the escrow account. If a servicer has not established an escrow account for a federally related mortgage loan and only receives payments for discretionary items, this section is not applicable."
-                ]
-            ]
-        ]
-    }, 
-    "1024-17-l-1": {
-        "op": "deleted"
-    }, 
-    "1024-17-l-2": {
-        "op": "deleted"
-    }, 
-    "1024-17-l-3": {
-        "op": "deleted"
-    }, 
-    "1024-17-l-4": {
-        "op": "deleted"
-    }, 
-    "1024-17-l-5": {
-        "op": "deleted"
-    }, 
-    "1024-17-m": {
-        "op": "deleted"
     }, 
     "1024-18": {
         "op": "deleted"
@@ -196,7 +263,7 @@
                 [
                     "delete", 
                     0, 
-                    17
+                    7
                 ], 
                 [
                     "insert", 
@@ -443,183 +510,6 @@
     "1024-21": {
         "op": "deleted"
     }, 
-    "1024-21-MasterServicer": {
-        "op": "deleted"
-    }, 
-    "1024-21-MortgageServicingLoan": {
-        "op": "deleted"
-    }, 
-    "1024-21-QualifiedWrittenRequest": {
-        "op": "deleted"
-    }, 
-    "1024-21-Subservicer": {
-        "op": "deleted"
-    }, 
-    "1024-21-TransfereeServicer": {
-        "op": "deleted"
-    }, 
-    "1024-21-TransferorServicer": {
-        "op": "deleted"
-    }, 
-    "1024-21-a": {
-        "op": "deleted"
-    }, 
-    "1024-21-b": {
-        "op": "deleted"
-    }, 
-    "1024-21-b-1": {
-        "op": "deleted"
-    }, 
-    "1024-21-b-2": {
-        "op": "deleted"
-    }, 
-    "1024-21-c": {
-        "op": "deleted"
-    }, 
-    "1024-21-d": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-1": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-1-i": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-1-i-A": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-1-i-B": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-1-i-C": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-1-ii": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-2": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-2-i": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-2-i-A": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-2-i-B": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-2-i-C": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-2-ii": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-2-ii-A": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-2-ii-B": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-2-ii-C": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-2-iii": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-3": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-3-i": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-3-ii": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-3-iii": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-3-iv": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-3-v": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-3-vi": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-3-vii": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-4": {
-        "op": "deleted"
-    }, 
-    "1024-21-d-5": {
-        "op": "deleted"
-    }, 
-    "1024-21-e": {
-        "op": "deleted"
-    }, 
-    "1024-21-e-1": {
-        "op": "deleted"
-    }, 
-    "1024-21-e-2": {
-        "op": "deleted"
-    }, 
-    "1024-21-e-2-i": {
-        "op": "deleted"
-    }, 
-    "1024-21-e-2-ii": {
-        "op": "deleted"
-    }, 
-    "1024-21-e-3": {
-        "op": "deleted"
-    }, 
-    "1024-21-e-3-i": {
-        "op": "deleted"
-    }, 
-    "1024-21-e-3-ii": {
-        "op": "deleted"
-    }, 
-    "1024-21-e-3-ii-A": {
-        "op": "deleted"
-    }, 
-    "1024-21-e-3-ii-B": {
-        "op": "deleted"
-    }, 
-    "1024-21-e-4": {
-        "op": "deleted"
-    }, 
-    "1024-21-e-4-i": {
-        "op": "deleted"
-    }, 
-    "1024-21-e-4-ii": {
-        "op": "deleted"
-    }, 
-    "1024-21-f": {
-        "op": "deleted"
-    }, 
-    "1024-21-f-1": {
-        "op": "deleted"
-    }, 
-    "1024-21-f-1-i": {
-        "op": "deleted"
-    }, 
-    "1024-21-f-1-ii": {
-        "op": "deleted"
-    }, 
-    "1024-21-f-1-iii": {
-        "op": "deleted"
-    }, 
-    "1024-21-f-2": {
-        "op": "deleted"
-    }, 
-    "1024-21-g": {
-        "op": "deleted"
-    }, 
-    "1024-21-h": {
-        "op": "deleted"
-    }, 
     "1024-22": {
         "op": "deleted"
     }, 
@@ -633,7 +523,7 @@
                 [
                     "delete", 
                     0, 
-                    51
+                    41
                 ], 
                 [
                     "insert", 
@@ -644,41 +534,41 @@
             [
                 [
                     "delete", 
-                    56, 
-                    102
+                    46, 
+                    92
                 ], 
                 [
                     "insert", 
-                    56, 
+                    46, 
                     "consumer consent and other applicable provisions"
                 ]
             ], 
             [
                 "delete", 
-                106, 
-                155
+                96, 
+                145
             ], 
             [
                 [
                     "delete", 
-                    159, 
-                    197
+                    149, 
+                    187
                 ], 
                 [
                     "insert", 
-                    159, 
+                    149, 
                     "Electronic Signatures in Global"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    202, 
-                    392
+                    192, 
+                    382
                 ], 
                 [
                     "insert", 
-                    202, 
+                    192, 
                     "National Commerce Act (E-Sign Act) (15 U.S.C. 7001 et seq.)."
                 ]
             ]
@@ -700,7 +590,11 @@
     }, 
     "1024-30": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-30-a", 
+                "1024-30-b", 
+                "1024-30-c"
+            ], 
             "label": [
                 "1024", 
                 "30"
@@ -723,6 +617,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "\u00a7 1024.30\u2014Scope"
         }, 
@@ -745,7 +640,11 @@
     }, 
     "1024-30-b": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-30-b-1", 
+                "1024-30-b-2", 
+                "1024-30-b-3"
+            ], 
             "label": [
                 "1024", 
                 "30", 
@@ -818,6 +717,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "30(b) Exemptions."
         }, 
@@ -842,7 +742,10 @@
     }, 
     "1024-30-c": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-30-c-1", 
+                "1024-30-c-2"
+            ], 
             "label": [
                 "1024", 
                 "30", 
@@ -895,29 +798,214 @@
                 "31"
             ], 
             "node_type": "regtext", 
-            "tagged_text": "\n                 For purposes of this subpart: \n                  <E T=\"03\">Consumer reporting agency</E>has the meaning set forth in section 603 of the Fair Credit Reporting Act, 15 U.S.C. 1681a. \n                  <E T=\"03\">Day</E>means calendar day. \n                  <E T=\"03\">Hazard insurance</E>means insurance on the property securing a mortgage loan that protects the property against loss caused by fire, wind, flood, earthquake, theft, falling objects, freezing, and other similar hazards for which the owner or assignee of such loan requires insurance. \n                  <E T=\"03\">Loss mitigation application</E>means an oral or written request for a loss mitigation option that is accompanied by any information required by a servicer for evaluation for a loss mitigation option. \n                  <E T=\"03\">Loss mitigation option</E>means an alternative to foreclosure offered by the owner or assignee of a mortgage loan that is made available through the servicer to the borrower. \n                  <E T=\"03\">Master servicer</E>means the owner of the right to perform servicing. A master servicer may perform the servicing itself or do so through a subservicer. \n                  <E T=\"03\">Mortgage loan</E>means any federally related mortgage loan, as that term is defined in \u00a7 1024.2 subject to the exemptions in \u00a7 1024.5(b), but does not include open-end lines of credit (home equity plans). \n                  <E T=\"03\">Qualified written request</E>means a written correspondence from the borrower to the servicer that includes, or otherwise enables the servicer to identify, the name and account of the borrower, and either:", 
-            "text": "\n                 For purposes of this subpart: Consumer reporting agency has the meaning set forth in section 603 of the Fair Credit Reporting Act, 15 U.S.C. 1681a. Day means calendar day. Hazard insurance means insurance on the property securing a mortgage loan that protects the property against loss caused by fire, wind, flood, earthquake, theft, falling objects, freezing, and other similar hazards for which the owner or assignee of such loan requires insurance. Loss mitigation application means an oral or written request for a loss mitigation option that is accompanied by any information required by a servicer for evaluation for a loss mitigation option. Loss mitigation option means an alternative to foreclosure offered by the owner or assignee of a mortgage loan that is made available through the servicer to the borrower. Master servicer means the owner of the right to perform servicing. A master servicer may perform the servicing itself or do so through a subservicer. Mortgage loan means any federally related mortgage loan, as that term is defined in \u00a7 1024.2 subject to the exemptions in \u00a7 1024.5(b), but does not include open-end lines of credit (home equity plans). Qualified written request means a written correspondence from the borrower to the servicer that includes, or otherwise enables the servicer to identify, the name and account of the borrower, and either:", 
+            "tagged_text": "\n                ", 
+            "text": "\n                ", 
             "title": "\u00a7 1024.31 Definitions."
         }, 
         "op": "added"
     }, 
     "1024-31-Interp": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-31-Interp-None", 
+                "1024-31-Interp-2", 
+                "1024-31-Interp-5", 
+                "1024-31-Interp-8"
+            ], 
             "label": [
                 "1024", 
                 "31", 
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "\u00a7 1024.31\u2014Definitions"
         }, 
         "op": "added"
     }, 
-    "1024-32": {
+    "1024-31-Interp-2": {
+        "node": {
+            "child_labels": [
+                "1024-31-Interp-2-1", 
+                "1024-31-Interp-2-2"
+            ], 
+            "label": [
+                "1024", 
+                "31", 
+                "Interp", 
+                "2"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "\n              <E T=\"03\">Loss mitigation option.</E>\n            ", 
+            "text": "Loss mitigation option.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-31-Interp-2-1": {
         "node": {
             "child_labels": [], 
+            "label": [
+                "1024", 
+                "31", 
+                "Interp", 
+                "2", 
+                "1"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "1.<E T=\"03\">Types of loss mitigation options.</E>Loss mitigation options include temporary and long-term relief, including options that allow borrowers who are behind on their mortgage payments to remain in their homes or to leave their homes without a foreclosure, such as, without limitation, refinancing, trial or permanent modification, repayment of the amount owed over an extended period of time, forbearance of future payments, short-sale, deed-in-lieu of foreclosure, and loss mitigation programs sponsored by a locality, a State, or the Federal government.", 
+            "text": "1. Types of loss mitigation options. Loss mitigation options include temporary and long-term relief, including options that allow borrowers who are behind on their mortgage payments to remain in their homes or to leave their homes without a foreclosure, such as, without limitation, refinancing, trial or permanent modification, repayment of the amount owed over an extended period of time, forbearance of future payments, short-sale, deed-in-lieu of foreclosure, and loss mitigation programs sponsored by a locality, a State, or the Federal government.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-31-Interp-2-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "31", 
+                "Interp", 
+                "2", 
+                "2"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "2.<E T=\"03\">Available through the servicer.</E>A loss mitigation option available through the servicer refers to an option for which a borrower may apply, even if the borrower ultimately does not qualify for such option.", 
+            "text": "2. Available through the servicer. A loss mitigation option available through the servicer refers to an option for which a borrower may apply, even if the borrower ultimately does not qualify for such option.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-31-Interp-5": {
+        "node": {
+            "child_labels": [
+                "1024-31-Interp-5-1", 
+                "1024-31-Interp-5-2"
+            ], 
+            "label": [
+                "1024", 
+                "31", 
+                "Interp", 
+                "5"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "\n              <E T=\"03\">Qualified written request.</E>\n            ", 
+            "text": "Qualified written request.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-31-Interp-5-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "31", 
+                "Interp", 
+                "5", 
+                "1"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "1. A qualified written request is a written notice a borrower provides to request a servicer either correct an error relating to the servicing of a mortgage loan or to request information relating to the servicing of the mortgage loan. A qualified written request is not required to include both types of requests. For example, a qualified written request may request information relating to the servicing of a mortgage loan but not assert that an error relating to the servicing of a loan has occurred.", 
+            "text": "1. A qualified written request is a written notice a borrower provides to request a servicer either correct an error relating to the servicing of a mortgage loan or to request information relating to the servicing of the mortgage loan. A qualified written request is not required to include both types of requests. For example, a qualified written request may request information relating to the servicing of a mortgage loan but not assert that an error relating to the servicing of a loan has occurred.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-31-Interp-5-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "31", 
+                "Interp", 
+                "5", 
+                "2"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "2. A qualified written request is just one form that a written notice of error or information request may take. Thus, the error resolution and information request requirements in \u00a7\u00a7 1024.35 and 1024.36 apply as set forth in those sections irrespective of whether the servicer receives a qualified written request.", 
+            "text": "2. A qualified written request is just one form that a written notice of error or information request may take. Thus, the error resolution and information request requirements in \u00a7\u00a7 1024.35 and 1024.36 apply as set forth in those sections irrespective of whether the servicer receives a qualified written request.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-31-Interp-8": {
+        "node": {
+            "child_labels": [
+                "1024-31-Interp-8-1"
+            ], 
+            "label": [
+                "1024", 
+                "31", 
+                "Interp", 
+                "8"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "\n              <E T=\"03\">Service provider.</E>\n            ", 
+            "text": "Service provider.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-31-Interp-8-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "31", 
+                "Interp", 
+                "8", 
+                "1"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "1. Service providers may include attorneys retained to represent a servicer or an owner or assignee of a mortgage loan in a foreclosure proceeding, as well as other professionals retained to provide appraisals or inspections of properties.", 
+            "text": "1. Service providers may include attorneys retained to represent a servicer or an owner or assignee of a mortgage loan in a foreclosure proceeding, as well as other professionals retained to provide appraisals or inspections of properties.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-31-Interp-None": {
+        "node": {
+            "child_labels": [
+                "1024-31-Interp-None-1"
+            ], 
+            "label": [
+                "1024", 
+                "31", 
+                "Interp", 
+                "None"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "\n              <E T=\"03\">Loss mitigation application.</E>\n            ", 
+            "text": "Loss mitigation application.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-31-Interp-None-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "31", 
+                "Interp", 
+                "None", 
+                "1"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "1.<E T=\"03\">Borrower's representative.</E>A loss mitigation application is deemed to be submitted by a borrower if the loss mitigation application is submitted by an agent of the borrower. Servicers may undertake reasonable procedures to determine if a person that claims to be an agent of a borrower has authority from the borrower to act on the borrower's behalf.", 
+            "text": "1. Borrower's representative. A loss mitigation application is deemed to be submitted by a borrower if the loss mitigation application is submitted by an agent of the borrower. Servicers may undertake reasonable procedures to determine if a person that claims to be an agent of a borrower has authority from the borrower to act on the borrower's behalf.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-32": {
+        "node": {
+            "child_labels": [
+                "1024-32-a", 
+                "1024-32-b"
+            ], 
             "label": [
                 "1024", 
                 "32"
@@ -931,7 +1019,10 @@
     }, 
     "1024-32-a": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-32-a-1", 
+                "1024-32-a-2"
+            ], 
             "label": [
                 "1024", 
                 "32", 
@@ -993,7 +1084,12 @@
     }, 
     "1024-33": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-33-a", 
+                "1024-33-b", 
+                "1024-33-c", 
+                "1024-33-d"
+            ], 
             "label": [
                 "1024", 
                 "33"
@@ -1018,6 +1114,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "\u00a7 1024.33\u2014Mortgage Servicing Transfers"
         }, 
@@ -1052,6 +1149,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "33(a) Servicing disclosure statement."
         }, 
@@ -1110,7 +1208,12 @@
     }, 
     "1024-33-b": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-33-b-1", 
+                "1024-33-b-2", 
+                "1024-33-b-3", 
+                "1024-33-b-4"
+            ], 
             "label": [
                 "1024", 
                 "33", 
@@ -1141,7 +1244,10 @@
     }, 
     "1024-33-b-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-33-b-2-i", 
+                "1024-33-b-2-ii"
+            ], 
             "label": [
                 "1024", 
                 "33", 
@@ -1157,7 +1263,11 @@
     }, 
     "1024-33-b-2-i": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-33-b-2-i-A", 
+                "1024-33-b-2-i-B", 
+                "1024-33-b-2-i-C"
+            ], 
             "label": [
                 "1024", 
                 "33", 
@@ -1245,7 +1355,11 @@
     }, 
     "1024-33-b-3": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-33-b-3-i", 
+                "1024-33-b-3-ii", 
+                "1024-33-b-3-iii"
+            ], 
             "label": [
                 "1024", 
                 "33", 
@@ -1272,6 +1386,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 33(b)(3)."
         }, 
@@ -1314,7 +1429,12 @@
     }, 
     "1024-33-b-3-ii": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-33-b-3-ii-A", 
+                "1024-33-b-3-ii-B", 
+                "1024-33-b-3-ii-C", 
+                "1024-33-b-3-ii-D"
+            ], 
             "label": [
                 "1024", 
                 "33", 
@@ -1420,7 +1540,14 @@
     }, 
     "1024-33-b-4": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-33-b-4-i", 
+                "1024-33-b-4-ii", 
+                "1024-33-b-4-iii", 
+                "1024-33-b-4-iv", 
+                "1024-33-b-4-v", 
+                "1024-33-b-4-vi"
+            ], 
             "label": [
                 "1024", 
                 "33", 
@@ -1548,6 +1675,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "33(b) Notices of transfer of loan servicing."
         }, 
@@ -1555,7 +1683,10 @@
     }, 
     "1024-33-c": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-33-c-1", 
+                "1024-33-c-2"
+            ], 
             "label": [
                 "1024", 
                 "33", 
@@ -1598,6 +1729,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "33(c)(1) Payments not considered late."
         }, 
@@ -1641,7 +1773,10 @@
     }, 
     "1024-33-c-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-33-c-2-i", 
+                "1024-33-c-2-ii"
+            ], 
             "label": [
                 "1024", 
                 "33", 
@@ -1701,6 +1836,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "33(c) Borrower payments during transfer of servicing."
         }, 
@@ -1723,7 +1859,10 @@
     }, 
     "1024-34": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-34-a", 
+                "1024-34-b"
+            ], 
             "label": [
                 "1024", 
                 "34"
@@ -1746,6 +1885,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "\u00a7 1024.34\u2014Timely Escrow Payments and Treatment of Escrow Balances"
         }, 
@@ -1768,7 +1908,10 @@
     }, 
     "1024-34-b": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-34-b-1", 
+                "1024-34-b-2"
+            ], 
             "label": [
                 "1024", 
                 "34", 
@@ -1810,6 +1953,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 34(b)(1)."
         }, 
@@ -1835,7 +1979,11 @@
     }, 
     "1024-34-b-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-34-b-2-i", 
+                "1024-34-b-2-ii", 
+                "1024-34-b-2-iii"
+            ], 
             "label": [
                 "1024", 
                 "34", 
@@ -1863,6 +2011,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 34(b)(2)."
         }, 
@@ -1968,6 +2117,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": null
         }, 
@@ -1975,7 +2125,17 @@
     }, 
     "1024-35": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-35-a", 
+                "1024-35-b", 
+                "1024-35-c", 
+                "1024-35-d", 
+                "1024-35-e", 
+                "1024-35-f", 
+                "1024-35-g", 
+                "1024-35-h", 
+                "1024-35-i"
+            ], 
             "label": [
                 "1024", 
                 "35"
@@ -2003,6 +2163,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "\u00a7 1024.35\u2014Error Resolution Procedures"
         }, 
@@ -2036,6 +2197,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "35(a) Notice of error."
         }, 
@@ -2077,7 +2239,19 @@
     }, 
     "1024-35-b": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-35-b-1", 
+                "1024-35-b-2", 
+                "1024-35-b-3", 
+                "1024-35-b-4", 
+                "1024-35-b-5", 
+                "1024-35-b-6", 
+                "1024-35-b-7", 
+                "1024-35-b-8", 
+                "1024-35-b-9", 
+                "1024-35-b-10", 
+                "1024-35-b-11"
+            ], 
             "label": [
                 "1024", 
                 "35", 
@@ -2279,6 +2453,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "35(b) Scope of error resolution."
         }, 
@@ -2502,6 +2677,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "35(c) Contact information for borrowers to assert errors."
         }, 
@@ -2669,7 +2845,12 @@
     }, 
     "1024-35-e": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-35-e-1", 
+                "1024-35-e-2", 
+                "1024-35-e-3", 
+                "1024-35-e-4"
+            ], 
             "label": [
                 "1024", 
                 "35", 
@@ -2684,7 +2865,10 @@
     }, 
     "1024-35-e-1": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-35-e-1-i", 
+                "1024-35-e-1-ii"
+            ], 
             "label": [
                 "1024", 
                 "35", 
@@ -2712,6 +2896,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "35(e)(1) Investigation and response requirements."
         }, 
@@ -2719,7 +2904,10 @@
     }, 
     "1024-35-e-1-i": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-35-e-1-i-A", 
+                "1024-35-e-1-i-B"
+            ], 
             "label": [
                 "1024", 
                 "35", 
@@ -2784,6 +2972,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 35(e)(1)(i)."
         }, 
@@ -2839,6 +3028,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 35(e)(1)(ii)."
         }, 
@@ -2865,7 +3055,10 @@
     }, 
     "1024-35-e-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-35-e-2-i", 
+                "1024-35-e-2-ii"
+            ], 
             "label": [
                 "1024", 
                 "35", 
@@ -2915,7 +3108,10 @@
     }, 
     "1024-35-e-3": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-35-e-3-i", 
+                "1024-35-e-3-ii"
+            ], 
             "label": [
                 "1024", 
                 "35", 
@@ -2943,6 +3139,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "35(e)(3) Time limits."
         }, 
@@ -2950,7 +3147,11 @@
     }, 
     "1024-35-e-3-i": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-35-e-3-i-A", 
+                "1024-35-e-3-i-B", 
+                "1024-35-e-3-i-C"
+            ], 
             "label": [
                 "1024", 
                 "35", 
@@ -3016,6 +3217,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 35(e)(3)(i)(B)."
         }, 
@@ -3073,6 +3275,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "35(e)(3)(i) In general."
         }, 
@@ -3109,6 +3312,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "35(e)(3)(ii) Extension of time limit."
         }, 
@@ -3162,6 +3366,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "35(e)(4) Copies of documentation."
         }, 
@@ -3199,6 +3404,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "35(e) Response to notice of error."
         }, 
@@ -3206,7 +3412,10 @@
     }, 
     "1024-35-f": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-35-f-1", 
+                "1024-35-f-2"
+            ], 
             "label": [
                 "1024", 
                 "35", 
@@ -3253,7 +3462,10 @@
     }, 
     "1024-35-g": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-35-g-1", 
+                "1024-35-g-2"
+            ], 
             "label": [
                 "1024", 
                 "35", 
@@ -3268,7 +3480,11 @@
     }, 
     "1024-35-g-1": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-35-g-1-i", 
+                "1024-35-g-1-ii", 
+                "1024-35-g-1-iii"
+            ], 
             "label": [
                 "1024", 
                 "35", 
@@ -3296,6 +3512,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "35(g)(1) In general."
         }, 
@@ -3332,6 +3549,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 35(g)(1)(i)."
         }, 
@@ -3387,6 +3605,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 35(g)(1)(ii)."
         }, 
@@ -3477,7 +3696,10 @@
     }, 
     "1024-35-g-1-iii": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-35-g-1-iii-A", 
+                "1024-35-g-1-iii-B"
+            ], 
             "label": [
                 "1024", 
                 "35", 
@@ -3556,6 +3778,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "35(g) Requirements not applicable."
         }, 
@@ -3588,6 +3811,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "35(h) Payment requirements prohibited."
         }, 
@@ -3612,7 +3836,10 @@
     }, 
     "1024-35-i": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-35-i-1", 
+                "1024-35-i-2"
+            ], 
             "label": [
                 "1024", 
                 "35", 
@@ -3659,7 +3886,16 @@
     }, 
     "1024-36": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-36-a", 
+                "1024-36-b", 
+                "1024-36-c", 
+                "1024-36-d", 
+                "1024-36-e", 
+                "1024-36-f", 
+                "1024-36-g", 
+                "1024-36-h"
+            ], 
             "label": [
                 "1024", 
                 "36"
@@ -3685,6 +3921,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "\u00a7 1024.36\u2014Requests for Information"
         }, 
@@ -3718,6 +3955,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "36(a) Information request."
         }, 
@@ -3826,6 +4064,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "36(b) Contact information for borrowers to request information."
         }, 
@@ -3993,7 +4232,10 @@
     }, 
     "1024-36-d": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-36-d-1", 
+                "1024-36-d-2"
+            ], 
             "label": [
                 "1024", 
                 "36", 
@@ -4008,7 +4250,10 @@
     }, 
     "1024-36-d-1": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-36-d-1-i", 
+                "1024-36-d-1-ii"
+            ], 
             "label": [
                 "1024", 
                 "36", 
@@ -4035,6 +4280,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "36(d)(1) Investigation and response requirements."
         }, 
@@ -4089,6 +4335,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 36(d)(1)(ii)."
         }, 
@@ -4241,7 +4488,10 @@
     }, 
     "1024-36-d-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-36-d-2-i", 
+                "1024-36-d-2-ii"
+            ], 
             "label": [
                 "1024", 
                 "36", 
@@ -4257,7 +4507,10 @@
     }, 
     "1024-36-d-2-i": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-36-d-2-i-A", 
+                "1024-36-d-2-i-B"
+            ], 
             "label": [
                 "1024", 
                 "36", 
@@ -4337,6 +4590,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "36(d) Response to information request."
         }, 
@@ -4359,7 +4613,10 @@
     }, 
     "1024-36-f": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-36-f-1", 
+                "1024-36-f-2"
+            ], 
             "label": [
                 "1024", 
                 "36", 
@@ -4374,7 +4631,13 @@
     }, 
     "1024-36-f-1": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-36-f-1-i", 
+                "1024-36-f-1-ii", 
+                "1024-36-f-1-iii", 
+                "1024-36-f-1-iv", 
+                "1024-36-f-1-v"
+            ], 
             "label": [
                 "1024", 
                 "36", 
@@ -4404,6 +4667,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "36(f)(1) In general."
         }, 
@@ -4440,6 +4704,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 36(f)(1)(i)."
         }, 
@@ -4495,6 +4760,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 36(f)(1)(ii)."
         }, 
@@ -4635,6 +4901,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 36(f)(1)(iii)."
         }, 
@@ -4775,6 +5042,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 36(f)(1)(iv)."
         }, 
@@ -4886,7 +5154,10 @@
     }, 
     "1024-36-f-1-v": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-36-f-1-v-A", 
+                "1024-36-f-1-v-B"
+            ], 
             "label": [
                 "1024", 
                 "36", 
@@ -4965,6 +5236,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "36(f) Requirements not applicable."
         }, 
@@ -4972,7 +5244,10 @@
     }, 
     "1024-36-g": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-36-g-1", 
+                "1024-36-g-2"
+            ], 
             "label": [
                 "1024", 
                 "36", 
@@ -5034,7 +5309,17 @@
     }, 
     "1024-37": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-a", 
+                "1024-37-b", 
+                "1024-37-c", 
+                "1024-37-d", 
+                "1024-37-e", 
+                "1024-37-f", 
+                "1024-37-g", 
+                "1024-37-h", 
+                "1024-37-i"
+            ], 
             "label": [
                 "1024", 
                 "37"
@@ -5062,6 +5347,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "\u00a7 1024.37\u2014Force-Placed Insurance"
         }, 
@@ -5069,7 +5355,10 @@
     }, 
     "1024-37-a": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-a-1", 
+                "1024-37-a-2"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -5100,7 +5389,11 @@
     }, 
     "1024-37-a-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-a-2-i", 
+                "1024-37-a-2-ii", 
+                "1024-37-a-2-iii"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -5127,6 +5420,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(a)(2) Types of insurance not considered force-placed insurance."
         }, 
@@ -5197,6 +5491,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 37(a)(2)(iii)."
         }, 
@@ -5233,6 +5528,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(a) Definition of force-placed insurance."
         }, 
@@ -5265,6 +5561,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(b) Basis for charging force-placed insurance."
         }, 
@@ -5289,7 +5586,12 @@
     }, 
     "1024-37-c": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-c-1", 
+                "1024-37-c-2", 
+                "1024-37-c-3", 
+                "1024-37-c-4"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -5304,7 +5606,11 @@
     }, 
     "1024-37-c-1": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-c-1-i", 
+                "1024-37-c-1-ii", 
+                "1024-37-c-1-iii"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -5332,6 +5638,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(c)(1) In general."
         }, 
@@ -5368,6 +5675,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 37(c)(1)(i)."
         }, 
@@ -5441,6 +5749,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 37(c)(1)(iii)."
         }, 
@@ -5486,7 +5795,19 @@
     }, 
     "1024-37-c-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-c-2-i", 
+                "1024-37-c-2-ii", 
+                "1024-37-c-2-iii", 
+                "1024-37-c-2-iv", 
+                "1024-37-c-2-v", 
+                "1024-37-c-2-vi", 
+                "1024-37-c-2-vii", 
+                "1024-37-c-2-viii", 
+                "1024-37-c-2-ix", 
+                "1024-37-c-2-x", 
+                "1024-37-c-2-xi"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -5513,6 +5834,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": null
         }, 
@@ -5588,7 +5910,10 @@
     }, 
     "1024-37-c-2-ix": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-c-2-ix-A", 
+                "1024-37-c-2-ix-B"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -5670,6 +5995,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 37(c)(2)(v)."
         }, 
@@ -5824,6 +6150,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(c) Requirements before charging borrower for force-placed insurance."
         }, 
@@ -5831,7 +6158,13 @@
     }, 
     "1024-37-d": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-d-1", 
+                "1024-37-d-2", 
+                "1024-37-d-3", 
+                "1024-37-d-4", 
+                "1024-37-d-5"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -5873,6 +6206,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(d)(1) In general."
         }, 
@@ -5939,7 +6273,10 @@
     }, 
     "1024-37-d-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-d-2-i", 
+                "1024-37-d-2-ii"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -5966,6 +6303,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(d)(2) Content of reminder notice."
         }, 
@@ -5973,7 +6311,12 @@
     }, 
     "1024-37-d-2-i": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-d-2-i-A", 
+                "1024-37-d-2-i-B", 
+                "1024-37-d-2-i-C", 
+                "1024-37-d-2-i-D"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -6075,6 +6418,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 37(d)(2)(i)(D)."
         }, 
@@ -6114,6 +6458,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(d)(2)(i) Servicer receiving no insurance information."
         }, 
@@ -6121,7 +6466,13 @@
     }, 
     "1024-37-d-2-ii": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-d-2-ii-A", 
+                "1024-37-d-2-ii-B", 
+                "1024-37-d-2-ii-C", 
+                "1024-37-d-2-ii-D", 
+                "1024-37-d-2-ii-E"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -6271,6 +6622,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(d)(4) Updating notice with borrower information."
         }, 
@@ -6324,6 +6676,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(d) Reminder notice."
         }, 
@@ -6331,7 +6684,13 @@
     }, 
     "1024-37-e": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-e-1", 
+                "1024-37-e-2", 
+                "1024-37-e-3", 
+                "1024-37-e-4", 
+                "1024-37-e-5"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -6346,7 +6705,11 @@
     }, 
     "1024-37-e-1": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-e-1-i", 
+                "1024-37-e-1-ii", 
+                "1024-37-e-1-iii"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -6374,6 +6737,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(e)(1) In general."
         }, 
@@ -6462,6 +6826,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(e)(1)(iii) Charging before end of notice period."
         }, 
@@ -6488,7 +6853,19 @@
     }, 
     "1024-37-e-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-e-2-i", 
+                "1024-37-e-2-ii", 
+                "1024-37-e-2-iii", 
+                "1024-37-e-2-iv", 
+                "1024-37-e-2-v", 
+                "1024-37-e-2-vi", 
+                "1024-37-e-2-vii", 
+                "1024-37-e-2-viii", 
+                "1024-37-e-2-ix", 
+                "1024-37-e-2-x", 
+                "1024-37-e-2-xi"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -6515,6 +6892,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": null
         }, 
@@ -6624,7 +7002,10 @@
     }, 
     "1024-37-e-2-vi": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-e-2-vi-A", 
+                "1024-37-e-2-vi-B"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -6677,7 +7058,11 @@
     }, 
     "1024-37-e-2-vii": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-e-2-vii-A", 
+                "1024-37-e-2-vii-B", 
+                "1024-37-e-2-vii-C"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -6760,6 +7145,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 37(e)(2)(vii)."
         }, 
@@ -6896,6 +7282,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(e) Renewal or replacing force-placed insurance."
         }, 
@@ -6918,7 +7305,10 @@
     }, 
     "1024-37-g": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-g-1", 
+                "1024-37-g-2"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -6976,6 +7366,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 37(g)(2)."
         }, 
@@ -7011,6 +7402,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "37(g) Cancellation of force-placed insurance."
         }, 
@@ -7018,7 +7410,10 @@
     }, 
     "1024-37-h": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-37-h-1", 
+                "1024-37-h-2"
+            ], 
             "label": [
                 "1024", 
                 "37", 
@@ -7080,7 +7475,11 @@
     }, 
     "1024-38": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-38-a", 
+                "1024-38-b", 
+                "1024-38-c"
+            ], 
             "label": [
                 "1024", 
                 "38"
@@ -7105,6 +7504,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Section 1024.38\u2014General Servicing Policies, Procedures, and Requirements"
         }, 
@@ -7138,6 +7538,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "38(a) Reasonable policies and procedures."
         }, 
@@ -7179,7 +7580,13 @@
     }, 
     "1024-38-b": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-38-b-1", 
+                "1024-38-b-2", 
+                "1024-38-b-3", 
+                "1024-38-b-4", 
+                "1024-38-b-5"
+            ], 
             "label": [
                 "1024", 
                 "38", 
@@ -7194,7 +7601,14 @@
     }, 
     "1024-38-b-1": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-38-b-1-i", 
+                "1024-38-b-1-ii", 
+                "1024-38-b-1-iii", 
+                "1024-38-b-1-iv", 
+                "1024-38-b-1-v", 
+                "1024-38-b-1-vi"
+            ], 
             "label": [
                 "1024", 
                 "38", 
@@ -7222,6 +7636,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "38(b)(1) Accessing and providing timely and accurate information."
         }, 
@@ -7275,6 +7690,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 38(b)(1)(ii)."
         }, 
@@ -7347,6 +7763,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 38(b)(1)(iv)."
         }, 
@@ -7407,7 +7824,13 @@
     }, 
     "1024-38-b-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-38-b-2-i", 
+                "1024-38-b-2-ii", 
+                "1024-38-b-2-iii", 
+                "1024-38-b-2-iv", 
+                "1024-38-b-2-v"
+            ], 
             "label": [
                 "1024", 
                 "38", 
@@ -7435,6 +7858,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "38(b)(2) Properly evaluating loss mitigation applications."
         }, 
@@ -7488,6 +7912,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 38(b)(2)(ii)."
         }, 
@@ -7577,6 +8002,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 38(b)(2)(v)."
         }, 
@@ -7603,7 +8029,11 @@
     }, 
     "1024-38-b-3": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-38-b-3-i", 
+                "1024-38-b-3-ii", 
+                "1024-38-b-3-iii"
+            ], 
             "label": [
                 "1024", 
                 "38", 
@@ -7670,7 +8100,11 @@
     }, 
     "1024-38-b-4": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-38-b-4-i", 
+                "1024-38-b-4-ii", 
+                "1024-38-b-4-iii"
+            ], 
             "label": [
                 "1024", 
                 "38", 
@@ -7698,6 +8132,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "38(b)(4) Facilitating transfer of information during servicing transfers."
         }, 
@@ -7735,6 +8170,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 38(b)(4)(i)."
         }, 
@@ -7809,6 +8245,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 38(b)(4)(ii)."
         }, 
@@ -7870,7 +8307,8 @@
         "node": {
             "child_labels": [
                 "1024-38-b-5-Interp-1", 
-                "1024-38-b-5-Interp-2"
+                "1024-38-b-5-Interp-2", 
+                "1024-38-b-5-Interp-3"
             ], 
             "label": [
                 "1024", 
@@ -7880,6 +8318,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "38(b)(5) Informing borrowers of written error resolution and information request procedures."
         }, 
@@ -7954,6 +8393,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "38(b) Objectives."
         }, 
@@ -7961,7 +8401,10 @@
     }, 
     "1024-38-c": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-38-c-1", 
+                "1024-38-c-2"
+            ], 
             "label": [
                 "1024", 
                 "38", 
@@ -8003,6 +8446,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "38(c)(1)Record retention."
         }, 
@@ -8028,7 +8472,13 @@
     }, 
     "1024-38-c-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-38-c-2-i", 
+                "1024-38-c-2-ii", 
+                "1024-38-c-2-iii", 
+                "1024-38-c-2-iv", 
+                "1024-38-c-2-v"
+            ], 
             "label": [
                 "1024", 
                 "38", 
@@ -8057,6 +8507,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "38(c)(2) Servicing file."
         }, 
@@ -8180,6 +8631,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 38(c)(2)(iv)."
         }, 
@@ -8234,6 +8686,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "38(c) Standard requirements."
         }, 
@@ -8241,7 +8694,11 @@
     }, 
     "1024-39": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-39-a", 
+                "1024-39-b", 
+                "1024-39-c"
+            ], 
             "label": [
                 "1024", 
                 "39"
@@ -8266,6 +8723,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "\u00a7 1024.39\u2014Early Intervention Requirements for Certain Borrowers"
         }, 
@@ -8301,6 +8759,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "39(a) Live contact."
         }, 
@@ -8533,7 +8992,11 @@
     }, 
     "1024-39-b": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-39-b-1", 
+                "1024-39-b-2", 
+                "1024-39-b-3"
+            ], 
             "label": [
                 "1024", 
                 "39", 
@@ -8578,6 +9041,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "39(b)(1) Notice required."
         }, 
@@ -8657,7 +9121,13 @@
     }, 
     "1024-39-b-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-39-b-2-i", 
+                "1024-39-b-2-ii", 
+                "1024-39-b-2-iii", 
+                "1024-39-b-2-iv", 
+                "1024-39-b-2-v"
+            ], 
             "label": [
                 "1024", 
                 "39", 
@@ -8688,6 +9158,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "39(b)(2) Content of the written notice."
         }, 
@@ -8813,6 +9284,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 39(b)(2)(iii)."
         }, 
@@ -8887,6 +9359,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 39(b)(2)(iv)."
         }, 
@@ -8957,6 +9430,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "39(b) Written notice."
         }, 
@@ -8989,6 +9463,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "39(c) Conflicts with other law."
         }, 
@@ -9178,7 +9653,10 @@
     }, 
     "1024-40": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-40-a", 
+                "1024-40-b"
+            ], 
             "label": [
                 "1024", 
                 "40"
@@ -9201,6 +9679,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "\u00a7 1024.40\u2014Continuity of Contact"
         }, 
@@ -9208,7 +9687,11 @@
     }, 
     "1024-40-a": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-40-a-1", 
+                "1024-40-a-2", 
+                "1024-40-a-3"
+            ], 
             "label": [
                 "1024", 
                 "40", 
@@ -9283,6 +9766,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "40(a) In general."
         }, 
@@ -9341,7 +9825,12 @@
     }, 
     "1024-40-b": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-40-b-1", 
+                "1024-40-b-2", 
+                "1024-40-b-3", 
+                "1024-40-b-4"
+            ], 
             "label": [
                 "1024", 
                 "40", 
@@ -9356,7 +9845,13 @@
     }, 
     "1024-40-b-1": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-40-b-1-i", 
+                "1024-40-b-1-ii", 
+                "1024-40-b-1-iii", 
+                "1024-40-b-1-iv", 
+                "1024-40-b-1-v"
+            ], 
             "label": [
                 "1024", 
                 "40", 
@@ -9457,7 +9952,10 @@
     }, 
     "1024-40-b-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-40-b-2-i", 
+                "1024-40-b-2-ii"
+            ], 
             "label": [
                 "1024", 
                 "40", 
@@ -9539,7 +10037,18 @@
     }, 
     "1024-41": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-41-a", 
+                "1024-41-b", 
+                "1024-41-c", 
+                "1024-41-d", 
+                "1024-41-e", 
+                "1024-41-f", 
+                "1024-41-g", 
+                "1024-41-h", 
+                "1024-41-i", 
+                "1024-41-j"
+            ], 
             "label": [
                 "1024", 
                 "41"
@@ -9568,6 +10077,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Section 1024.41\u2014Loss Mitigation Procedures"
         }, 
@@ -9590,7 +10100,11 @@
     }, 
     "1024-41-b": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-41-b-1", 
+                "1024-41-b-2", 
+                "1024-41-b-3"
+            ], 
             "label": [
                 "1024", 
                 "41", 
@@ -9636,6 +10150,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(b)(1) Complete loss mitigation application."
         }, 
@@ -9740,7 +10255,8 @@
         "node": {
             "child_labels": [
                 "1024-41-b-1-Interp-4-i", 
-                "1024-41-b-1-Interp-4-ii"
+                "1024-41-b-1-Interp-4-ii", 
+                "1024-41-b-1-Interp-4-iii"
             ], 
             "label": [
                 "1024", 
@@ -9770,8 +10286,8 @@
                 "i"
             ], 
             "node_type": "interp", 
-            "tagged_text": "i. A servicer requires additional information from the applicant, such as an address or a telephone number to verify employment; the servicer contacts the applicant promptly to obtain such information after receiving a loss mitigation application; and", 
-            "text": "i. A servicer requires additional information from the applicant, such as an address or a telephone number to verify employment; the servicer contacts the applicant promptly to obtain such information after receiving a loss mitigation application; and", 
+            "tagged_text": "i. A servicer requires additional information from the applicant, such as an address or a telephone number to verify employment; the servicer contacts the applicant promptly to obtain such information after receiving a loss mitigation application;", 
+            "text": "i. A servicer requires additional information from the applicant, such as an address or a telephone number to verify employment; the servicer contacts the applicant promptly to obtain such information after receiving a loss mitigation application;", 
             "title": null
         }, 
         "op": "added"
@@ -9789,8 +10305,27 @@
                 "ii"
             ], 
             "node_type": "interp", 
-            "tagged_text": "ii. Servicing for a mortgage loan is transferred to a servicer and the borrower makes an incomplete loss mitigation application to the transferee servicer after the transfer; the transferee servicer reviews documents provided by the transferor servicer to determine if information required to make the loss mitigation application complete is contained within documents transferred by the transferor servicer to the servicer.", 
-            "text": "ii. Servicing for a mortgage loan is transferred to a servicer and the borrower makes an incomplete loss mitigation application to the transferee servicer after the transfer; the transferee servicer reviews documents provided by the transferor servicer to determine if information required to make the loss mitigation application complete is contained within documents transferred by the transferor servicer to the servicer.", 
+            "tagged_text": "ii. Servicing for a mortgage loan is transferred to a servicer and the borrower makes an incomplete loss mitigation application to the transferee servicer after the transfer; the transferee servicer reviews documents provided by the transferor servicer to determine if information required to make the loss mitigation application complete is contained within documents transferred by the transferor servicer to the servicer; and", 
+            "text": "ii. Servicing for a mortgage loan is transferred to a servicer and the borrower makes an incomplete loss mitigation application to the transferee servicer after the transfer; the transferee servicer reviews documents provided by the transferor servicer to determine if information required to make the loss mitigation application complete is contained within documents transferred by the transferor servicer to the servicer; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-41-b-1-Interp-4-iii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "41", 
+                "b", 
+                "1", 
+                "Interp", 
+                "4", 
+                "iii"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "iii. A servicer offers a borrower a payment forbearance program based on an incomplete loss mitigation application; the servicer notifies the borrower that he or she is being offered a payment forbearance program based on an evaluation of an incomplete application, and that the borrower has the option of completing the application to receive a full evaluation of all loss mitigation options available to the borrower. If a servicer provides such a notification, the borrower remains in compliance with the payment forbearance program, and the borrower does not request further assistance, the servicer could suspend reasonable diligence efforts until near the end of the payment forbearance program. Near the end of the program, and prior to the end of the forbearance period, it may be necessary for the servicer to contact the borrower to determine if the borrower wishes to complete the application and proceed with a full loss mitigation evaluation.", 
+            "text": "iii. A servicer offers a borrower a payment forbearance program based on an incomplete loss mitigation application; the servicer notifies the borrower that he or she is being offered a payment forbearance program based on an evaluation of an incomplete application, and that the borrower has the option of completing the application to receive a full evaluation of all loss mitigation options available to the borrower. If a servicer provides such a notification, the borrower remains in compliance with the payment forbearance program, and the borrower does not request further assistance, the servicer could suspend reasonable diligence efforts until near the end of the payment forbearance program. Near the end of the program, and prior to the end of the forbearance period, it may be necessary for the servicer to contact the borrower to determine if the borrower wishes to complete the application and proceed with a full loss mitigation evaluation.", 
             "title": null
         }, 
         "op": "added"
@@ -9815,7 +10350,10 @@
     }, 
     "1024-41-b-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-41-b-2-i", 
+                "1024-41-b-2-ii"
+            ], 
             "label": [
                 "1024", 
                 "41", 
@@ -9843,6 +10381,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(b)(2)Review of loss mitigation application submission."
         }, 
@@ -9850,7 +10389,10 @@
     }, 
     "1024-41-b-2-i": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-41-b-2-i-A", 
+                "1024-41-b-2-i-B"
+            ], 
             "label": [
                 "1024", 
                 "41", 
@@ -9916,6 +10458,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 41(b)(2)(i)(B)."
         }, 
@@ -9955,6 +10498,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(b)(2)(i) Requirements."
         }, 
@@ -9991,6 +10535,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(b)(2)(ii) Time period disclosure."
         }, 
@@ -10130,6 +10675,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(b)(3) Determining Protections."
         }, 
@@ -10174,7 +10720,9 @@
     "1024-41-b-Interp": {
         "node": {
             "child_labels": [
-                "1024-41-b-1-Interp"
+                "1024-41-b-1-Interp", 
+                "1024-41-b-2-Interp", 
+                "1024-41-b-3-Interp"
             ], 
             "label": [
                 "1024", 
@@ -10183,6 +10731,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(b) Receipt of a loss mitigation application."
         }, 
@@ -10190,7 +10739,10 @@
     }, 
     "1024-41-c": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-41-c-1", 
+                "1024-41-c-2"
+            ], 
             "label": [
                 "1024", 
                 "41", 
@@ -10205,7 +10757,10 @@
     }, 
     "1024-41-c-1": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-41-c-1-i", 
+                "1024-41-c-1-ii"
+            ], 
             "label": [
                 "1024", 
                 "41", 
@@ -10224,7 +10779,8 @@
             "child_labels": [
                 "1024-41-c-1-Interp-1", 
                 "1024-41-c-1-Interp-2", 
-                "1024-41-c-1-Interp-3"
+                "1024-41-c-1-Interp-3", 
+                "1024-41-c-1-Interp-4"
             ], 
             "label": [
                 "1024", 
@@ -10234,6 +10790,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(c)(1) Complete loss mitigation application."
         }, 
@@ -10334,6 +10891,24 @@
         }, 
         "op": "added"
     }, 
+    "1024-41-c-1-Interp-4": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "41", 
+                "c", 
+                "1", 
+                "Interp", 
+                "4"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "3.<E T=\"03\">Other notices.</E>A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002<E T=\"03\">et seq.</E>) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to \u00a7 1024.41(d), unless otherwise prohibited by applicable law.", 
+            "text": "4. Other notices. A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002 et seq.) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to \u00a7 1024.41(d), unless otherwise prohibited by applicable law.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
     "1024-41-c-1-i": {
         "node": {
             "child_labels": [], 
@@ -10370,7 +10945,12 @@
     }, 
     "1024-41-c-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-41-c-2-i", 
+                "1024-41-c-2-ii", 
+                "1024-41-c-2-iii", 
+                "1024-41-c-2-iv"
+            ], 
             "label": [
                 "1024", 
                 "41", 
@@ -10388,7 +10968,9 @@
         "node": {
             "child_labels": [
                 "1024-41-c-2-i-Interp", 
-                "1024-41-c-2-ii-Interp"
+                "1024-41-c-2-ii-Interp", 
+                "1024-41-c-2-iii-Interp", 
+                "1024-41-c-2-iv-Interp"
             ], 
             "label": [
                 "1024", 
@@ -10398,6 +10980,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(c)(2) Incomplete loss mitigation application evaluation."
         }, 
@@ -10432,6 +11015,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(c)(2)(i) In general."
         }, 
@@ -10468,6 +11052,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(c)(2)(ii) Reasonable time."
         }, 
@@ -10525,8 +11110,9 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
-            "title": null
+            "title": "41(c)(2)(iii) Payment forbearance."
         }, 
         "op": "added"
     }, 
@@ -10619,6 +11205,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(c)(2)(iv) Facially complete application."
         }, 
@@ -10675,8 +11262,9 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
-            "title": "41(c) Review of loss mitigation applications."
+            "title": "41(c) Evaluation of loss mitigation applications."
         }, 
         "op": "added"
     }, 
@@ -10697,12 +11285,7 @@
     }, 
     "1024-41-d-1-Interp": {
         "node": {
-            "child_labels": [
-                "1024-41-d-1-Interp-1", 
-                "1024-41-d-1-Interp-2", 
-                "1024-41-d-1-Interp-3", 
-                "1024-41-d-1-Interp-4"
-            ], 
+            "child_labels": [], 
             "label": [
                 "1024", 
                 "41", 
@@ -10711,19 +11294,41 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 41(d)(1)."
         }, 
         "op": "added"
     }, 
-    "1024-41-d-1-Interp-1": {
+    "1024-41-d-Interp": {
+        "node": {
+            "child_labels": [
+                "1024-41-d-Interp-1", 
+                "1024-41-d-Interp-2", 
+                "1024-41-d-Interp-3", 
+                "1024-41-d-Interp-4", 
+                "1024-41-d-1-Interp"
+            ], 
+            "label": [
+                "1024", 
+                "41", 
+                "d", 
+                "Interp"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": null, 
+            "text": "", 
+            "title": "41(d) Denial of loan modification options."
+        }, 
+        "op": "added"
+    }, 
+    "1024-41-d-Interp-1": {
         "node": {
             "child_labels": [], 
             "label": [
                 "1024", 
                 "41", 
                 "d", 
-                "1", 
                 "Interp", 
                 "1"
             ], 
@@ -10734,14 +11339,13 @@
         }, 
         "op": "added"
     }, 
-    "1024-41-d-1-Interp-2": {
+    "1024-41-d-Interp-2": {
         "node": {
             "child_labels": [], 
             "label": [
                 "1024", 
                 "41", 
                 "d", 
-                "1", 
                 "Interp", 
                 "2"
             ], 
@@ -10752,56 +11356,20 @@
         }, 
         "op": "added"
     }, 
-    "1024-41-d-1-Interp-3": {
+    "1024-41-d-Interp-3": {
         "node": {
             "child_labels": [], 
             "label": [
                 "1024", 
                 "41", 
                 "d", 
-                "1", 
                 "Interp", 
                 "3"
             ], 
             "node_type": "interp", 
-            "tagged_text": "3.<E T=\"03\">Other notices.</E>A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002<E T=\"03\">et seq.</E>) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to \u00a7 1024.41(d), unless otherwise prohibited by applicable law.", 
-            "text": "3. Other notices. A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002 et seq.) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to \u00a7 1024.41(d), unless otherwise prohibited by applicable law.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-d-1-Interp-4": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "41", 
-                "d", 
-                "1", 
-                "Interp", 
-                "4"
-            ], 
-            "node_type": "interp", 
             "tagged_text": "4.<E T=\"03\">Determination not to offer a loan modification option constitutes a denial.</E>A servicer's determination not to offer a borrower a loan modification available to the borrower constitutes a denial of the borrower for that loan modification option, notwithstanding whether a servicer offers a borrower a different loan modification option or other loss mitigation option.", 
-            "text": "4. Determination not to offer a loan modification option constitutes a denial. A servicer's determination not to offer a borrower a loan modification available to the borrower constitutes a denial of the borrower for that loan modification option, notwithstanding whether a servicer offers a borrower a different loan modification option or other loss mitigation option.", 
+            "text": "3. Determination not to offer a loan modification option constitutes a denial. A servicer's determination not to offer a borrower a loan modification available to the borrower constitutes a denial of the borrower for that loan modification option, notwithstanding whether a servicer offers a borrower a different loan modification option or other loss mitigation option.", 
             "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-d-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-41-d-1-Interp"
-            ], 
-            "label": [
-                "1024", 
-                "41", 
-                "d", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "text": "", 
-            "title": "41(d) Denial of loan modification options."
         }, 
         "op": "added"
     }, 
@@ -10824,7 +11392,10 @@
     }, 
     "1024-41-e": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-41-e-1", 
+                "1024-41-e-2"
+            ], 
             "label": [
                 "1024", 
                 "41", 
@@ -10855,7 +11426,11 @@
     }, 
     "1024-41-e-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-41-e-2-i", 
+                "1024-41-e-2-ii", 
+                "1024-41-e-2-iii"
+            ], 
             "label": [
                 "1024", 
                 "41", 
@@ -10922,7 +11497,10 @@
     }, 
     "1024-41-f": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-41-f-1", 
+                "1024-41-f-2"
+            ], 
             "label": [
                 "1024", 
                 "41", 
@@ -10951,42 +11529,6 @@
             "node_type": "regtext", 
             "tagged_text": "(1)<E T=\"03\">Pre-foreclosure review period.</E>A servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless:", 
             "text": "(1) Pre-foreclosure review period. A servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless:", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-f-1-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-41-f-1-Interp-1"
-            ], 
-            "label": [
-                "1024", 
-                "41", 
-                "f", 
-                "1", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "text": "", 
-            "title": "41(f)(1) Pre-foreclosure review period."
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-f-1-Interp-1": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "41", 
-                "f", 
-                "1", 
-                "Interp", 
-                "1"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "1.<E T=\"03\">First notice or filing required by applicable law.</E>The first notice or filing required by applicable law refers to any document required to be filed with a court, entered into a land record, or provided to a borrower as a requirement for proceeding with a judicial or non-judicial foreclosure process. Such notices or filings include, for example, a foreclosure complaint, a notice of default, a notice of election and demand, or any other notice that is required by applicable law in order to pursue acceleration of a mortgage loan obligation or sale of a property securing a mortgage loan obligation.", 
-            "text": "1. First notice or filing required by applicable law. The first notice or filing required by applicable law refers to any document required to be filed with a court, entered into a land record, or provided to a borrower as a requirement for proceeding with a judicial or non-judicial foreclosure process. Such notices or filings include, for example, a foreclosure complaint, a notice of default, a notice of election and demand, or any other notice that is required by applicable law in order to pursue acceleration of a mortgage loan obligation or sale of a property securing a mortgage loan obligation.", 
             "title": null
         }, 
         "op": "added"
@@ -11044,7 +11586,11 @@
     }, 
     "1024-41-f-2": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-41-f-2-i", 
+                "1024-41-f-2-ii", 
+                "1024-41-f-2-iii"
+            ], 
             "label": [
                 "1024", 
                 "41", 
@@ -11112,7 +11658,7 @@
     "1024-41-f-Interp": {
         "node": {
             "child_labels": [
-                "1024-41-f-1-Interp"
+                "1024-41-f-Interp-1"
             ], 
             "label": [
                 "1024", 
@@ -11121,6 +11667,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(f) Prohibition on foreclosure referral."
         }, 
@@ -11222,7 +11769,11 @@
     }, 
     "1024-41-g": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-41-g-1", 
+                "1024-41-g-2", 
+                "1024-41-g-3"
+            ], 
             "label": [
                 "1024", 
                 "41", 
@@ -11297,6 +11848,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 41(g)(3)."
         }, 
@@ -11354,6 +11906,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(g) Prohibition on foreclosure sale."
         }, 
@@ -11429,7 +11982,12 @@
     }, 
     "1024-41-h": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-41-h-1", 
+                "1024-41-h-2", 
+                "1024-41-h-3", 
+                "1024-41-h-4"
+            ], 
             "label": [
                 "1024", 
                 "41", 
@@ -11503,6 +12061,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 41(h)(3)."
         }, 
@@ -11554,6 +12113,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(h) Appeal process."
         }, 
@@ -11587,6 +12147,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "41(i) Duplicative requests."
         }, 
@@ -11652,6 +12213,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "\u00a7 1024.5\u2014Coverage of RESPA"
         }, 
@@ -11733,6 +12295,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Paragraph 5(c)(1)."
         }, 
@@ -11853,6 +12416,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "5(c) Relation to State laws."
         }, 
@@ -11884,6 +12448,7 @@
         "node": {
             "child_labels": [
                 "1024-Interp-h1", 
+                "1024-5-Interp", 
                 "1024-17-Interp", 
                 "1024-30-Interp", 
                 "1024-31-Interp", 
@@ -11903,22 +12468,110 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
-            "title": null
+            "title": "Supplement I to Part 1024\u2014Official Bureau Interpretations"
         }, 
         "op": "added"
     }, 
     "1024-Interp-h1": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-Interp-h1-1", 
+                "1024-Interp-h1-2", 
+                "1024-Interp-h1-3", 
+                "1024-Interp-h1-4", 
+                "1024-Interp-h1-5"
+            ], 
             "label": [
                 "1024", 
                 "Interp", 
                 "h1"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Introduction"
+        }, 
+        "op": "added"
+    }, 
+    "1024-Interp-h1-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "Interp", 
+                "h1", 
+                "1"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "1.<E T=\"03\">Official status.</E>This commentary is the primary vehicle by which the Bureau of Consumer Financial Protection issues official interpretations of Regulation X. Good faith compliance with this commentary affords protection from liability under section 19(b) of the Real Estate Settlement Procedures Act (RESPA), 12 U.S.C. 2617(b).", 
+            "text": "1. Official status. This commentary is the primary vehicle by which the Bureau of Consumer Financial Protection issues official interpretations of Regulation X. Good faith compliance with this commentary affords protection from liability under section 19(b) of the Real Estate Settlement Procedures Act (RESPA), 12 U.S.C. 2617(b).", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-Interp-h1-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "Interp", 
+                "h1", 
+                "2"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "2.<E T=\"03\">Requests for official interpretations.</E>A request for an official interpretation shall be in writing and addressed to the Associate Director, Research, Markets, and Regulations, Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20552. A request shall contain a complete statement of all relevant facts concerning the issue, including copies of all pertinent documents. Except in unusual circumstances, such official interpretations will not be issued separately but will be incorporated in the official commentary to this part, which will be amended periodically. No official interpretations will be issued approving financial institutions' forms or statements. This restriction does not apply to forms or statements whose use is required or sanctioned by a government agency.", 
+            "text": "2. Requests for official interpretations. A request for an official interpretation shall be in writing and addressed to the Associate Director, Research, Markets, and Regulations, Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20552. A request shall contain a complete statement of all relevant facts concerning the issue, including copies of all pertinent documents. Except in unusual circumstances, such official interpretations will not be issued separately but will be incorporated in the official commentary to this part, which will be amended periodically. No official interpretations will be issued approving financial institutions' forms or statements. This restriction does not apply to forms or statements whose use is required or sanctioned by a government agency.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-Interp-h1-3": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "Interp", 
+                "h1", 
+                "3"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "3.<E T=\"03\">Unofficial oral interpretations.</E>Unofficial oral interpretations may be provided at the discretion of Bureau staff. Written requests for such interpretations should be sent to the address set forth for official interpretations. Unofficial oral interpretations provide no protection under section 19(b) of RESPA. Ordinarily, staff will not issue unofficial oral interpretations on matters adequately covered by this part or the official Bureau interpretations.", 
+            "text": "3. Unofficial oral interpretations. Unofficial oral interpretations may be provided at the discretion of Bureau staff. Written requests for such interpretations should be sent to the address set forth for official interpretations. Unofficial oral interpretations provide no protection under section 19(b) of RESPA. Ordinarily, staff will not issue unofficial oral interpretations on matters adequately covered by this part or the official Bureau interpretations.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-Interp-h1-4": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "Interp", 
+                "h1", 
+                "4"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "4.<E T=\"03\">Rules of construction.</E>(a) Lists that appear in the commentary may be exhaustive or illustrative; the appropriate construction should be clear from the context. In most cases, illustrative lists are introduced by phrases such as \u201cincluding, but not limited to,\u201d \u201camong other things,\u201d \u201cfor example,\u201d or \u201csuch as.\u201d\n\t    (b) Throughout the commentary, reference to \u201cthis section\u201d or \u201cthis paragraph\u201d means the section or paragraph in the regulation that is the subject of the comment.", 
+            "text": "4. Rules of construction. (a) Lists that appear in the commentary may be exhaustive or illustrative; the appropriate construction should be clear from the context. In most cases, illustrative lists are introduced by phrases such as \u201cincluding, but not limited to,\u201d \u201camong other things,\u201d \u201cfor example,\u201d or \u201csuch as.\u201d\n\t    (b) Throughout the commentary, reference to \u201cthis section\u201d or \u201cthis paragraph\u201d means the section or paragraph in the regulation that is the subject of the comment.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-Interp-h1-5": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "Interp", 
+                "h1", 
+                "5"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "5.<E T=\"03\">Comment designations.</E>Each comment in the commentary is identified by a number and the regulatory section or paragraph that the comment interprets. The comments are designated with as much specificity as possible according to the particular regulatory provision addressed. For example, some of the comments to \u00a7 1024.37(c)(1) are further divided by subparagraph, such as comment 37(c)(1)(i)-1. In other cases, comments have more general application and are designated, for example, as comment 40(a)-1. This introduction may be cited as comments I-1 through I-5.", 
+            "text": "5. Comment designations. Each comment in the commentary is identified by a number and the regulatory section or paragraph that the comment interprets. The comments are designated with as much specificity as possible according to the particular regulatory provision addressed. For example, some of the comments to \u00a7 1024.37(c)(1) are further divided by subparagraph, such as comment 37(c)(1)(i)-1. In other cases, comments have more general application and are designated, for example, as comment 40(a)-1. This introduction may be cited as comments I-1 through I-5.", 
+            "title": null
         }, 
         "op": "added"
     }, 
@@ -11934,6 +12587,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Appendix MS-3\u2014Model Force-Placed Insurance Notice Forms"
         }, 
@@ -11970,6 +12624,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Appendix MS-4\u2014Model Clauses for the Written Early Intervention Notice"
         }, 
@@ -12040,6 +12695,7 @@
                 "Interp"
             ], 
             "node_type": "interp", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Appendix MS\u2014Mortgage Servicing Model Forms and Clauses"
         }, 
@@ -12132,15 +12788,81 @@
         }, 
         "op": "added"
     }, 
+    "1024-Subpart": {
+        "op": "deleted"
+    }, 
+    "1024-Subpart-A": {
+        "node": {
+            "child_labels": [
+                "1024-1", 
+                "1024-2", 
+                "1024-3", 
+                "1024-4", 
+                "1024-5"
+            ], 
+            "label": [
+                "1024", 
+                "Subpart", 
+                "A"
+            ], 
+            "node_type": "subpart", 
+            "tagged_text": null, 
+            "text": "", 
+            "title": "General"
+        }, 
+        "op": "added"
+    }, 
+    "1024-Subpart-B": {
+        "node": {
+            "child_labels": [
+                "1024-6", 
+                "1024-7", 
+                "1024-8", 
+                "1024-9", 
+                "1024-10", 
+                "1024-11", 
+                "1024-12", 
+                "1024-14", 
+                "1024-15", 
+                "1024-16", 
+                "1024-17", 
+                "1024-20"
+            ], 
+            "label": [
+                "1024", 
+                "Subpart", 
+                "B"
+            ], 
+            "node_type": "subpart", 
+            "tagged_text": null, 
+            "text": "", 
+            "title": "Mortgage Settlement and Escrow Accounts"
+        }, 
+        "op": "added"
+    }, 
     "1024-Subpart-C": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-30", 
+                "1024-31", 
+                "1024-32", 
+                "1024-33", 
+                "1024-34", 
+                "1024-35", 
+                "1024-36", 
+                "1024-37", 
+                "1024-38", 
+                "1024-39", 
+                "1024-40", 
+                "1024-41"
+            ], 
             "label": [
                 "1024", 
                 "Subpart", 
                 "C"
             ], 
             "node_type": "subpart", 
+            "tagged_text": null, 
             "text": "", 
             "title": "Mortgage Servicing"
         }, 
