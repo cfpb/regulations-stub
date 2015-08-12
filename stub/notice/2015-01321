@@ -119,14 +119,6 @@
             "PUT", 
             [
                 "1026", 
-                "H", 
-                "24(G)"
-            ]
-        ], 
-        [
-            "PUT", 
-            [
-                "1026", 
                 "19", 
                 "e", 
                 "3", 
@@ -8751,41 +8743,6 @@
                     "node_type": "interp", 
                     "tagged_text": "4.<E T=\"03\">Interest rate for prepaid interest.</E>The dollar amounts disclosed pursuant to \u00a7 1026.38(g)(2) must be based on the interest rate disclosed under \u00a7 1026.38(b), as required by \u00a7 1026.37(b)(2).", 
                     "text": "4. Interest rate for prepaid interest. The dollar amounts disclosed pursuant to \u00a7 1026.38(g)(2) must be based on the interest rate disclosed under \u00a7 1026.38(b), as required by \u00a7 1026.37(b)(2).", 
-                    "title": null
-                }
-            }
-        ], 
-        "1026-H-24(G)": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [
-                        "1026-H-24(G)-p1"
-                    ], 
-                    "label": [
-                        "1026", 
-                        "H", 
-                        "24(G)"
-                    ], 
-                    "node_type": "appendix", 
-                    "text": "", 
-                    "title": "H-24(G) Mortgage Loan Transaction Loan Estimate\u2014Modification to Loan Estimate for Transaction Not Involving Seller\u2014Model Form"
-                }
-            }
-        ], 
-        "1026-H-24(G)-p1": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1026", 
-                        "H", 
-                        "24(G)", 
-                        "p1"
-                    ], 
-                    "node_type": "appendix", 
-                    "text": "Description: This is a blank model Loan Estimate that illustrates the application of the content requirements in \u00a7 1026.37, with the optional alternative tables permitted by \u00a7 1026.37(d)(2) and (h)(2) for transactions without a seller. This form provides one variation of page one, four variations of page two, and four variations of page three, reflecting the variable content requirements in \u00a7 1026.37.", 
                     "title": null
                 }
             }
