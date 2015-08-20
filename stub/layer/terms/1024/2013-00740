@@ -858,6 +858,295 @@
             "ref": "lender:1024-2-b-Lender"
         }
     ], 
+    "1024-15-a": [
+        {
+            "offsets": [
+                [
+                    78, 
+                    83
+                ]
+            ], 
+            "ref": "respa:1024-2-b-RESPA"
+        }
+    ], 
+    "1024-15-b": [
+        {
+            "offsets": [
+                [
+                    99, 
+                    104
+                ], 
+                [
+                    307, 
+                    312
+                ]
+            ], 
+            "ref": "respa:1024-2-b-RESPA"
+        }
+    ], 
+    "1024-15-b-1": [
+        {
+            "offsets": [
+                [
+                    333, 
+                    352
+                ]
+            ], 
+            "ref": "settlement service:1024-2-b-SettlementService"
+        }, 
+        {
+            "offsets": [
+                [
+                    800, 
+                    811
+                ]
+            ], 
+            "ref": "application:1024-2-b-Application"
+        }, 
+        {
+            "offsets": [
+                [
+                    601, 
+                    611
+                ]
+            ], 
+            "ref": "settlement:1024-2-b-Settlement"
+        }, 
+        {
+            "offsets": [
+                [
+                    737, 
+                    743
+                ]
+            ], 
+            "ref": "lender:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    595, 
+                    598
+                ]
+            ], 
+            "ref": "hud:1024-2-b-HUD"
+        }
+    ], 
+    "1024-15-b-1-i": [
+        {
+            "offsets": [
+                [
+                    151, 
+                    170
+                ]
+            ], 
+            "ref": "good faith estimate:1024-2-b-GoodFaithEstimateOrGFE"
+        }, 
+        {
+            "offsets": [
+                [
+                    12, 
+                    18
+                ]
+            ], 
+            "ref": "lender:1024-2-b-Lender"
+        }
+    ], 
+    "1024-15-b-1-iii": [
+        {
+            "offsets": [
+                [
+                    448, 
+                    453
+                ], 
+                [
+                    655, 
+                    660
+                ]
+            ], 
+            "ref": "respa:1024-2-b-RESPA"
+        }
+    ], 
+    "1024-15-b-2": [
+        {
+            "offsets": [
+                [
+                    131, 
+                    150
+                ]
+            ], 
+            "ref": "settlement service:1024-2-b-SettlementService"
+        }, 
+        {
+            "offsets": [
+                [
+                    71, 
+                    83
+                ]
+            ], 
+            "ref": "required use:1024-2-b-RequiredUse"
+        }, 
+        {
+            "offsets": [
+                [
+                    208, 
+                    214
+                ], 
+                [
+                    362, 
+                    368
+                ], 
+                [
+                    386, 
+                    392
+                ]
+            ], 
+            "ref": "lender:1024-2-b-Lender"
+        }
+    ], 
+    "1024-15-b-3-i-A": [
+        {
+            "offsets": [
+                [
+                    142, 
+                    164
+                ]
+            ], 
+            "ref": "affiliate relationship:1024-15-c-Control,AsUsedInTheDefinitionsOf\u201cassociate\u201dAnd\u201caffiliateRelationship,\u201d"
+        }
+    ], 
+    "1024-15-b-3-i-B": [
+        {
+            "offsets": [
+                [
+                    99, 
+                    121
+                ]
+            ], 
+            "ref": "affiliate relationship:1024-15-c-Control,AsUsedInTheDefinitionsOf\u201cassociate\u201dAnd\u201caffiliateRelationship,\u201d"
+        }, 
+        {
+            "offsets": [
+                [
+                    249, 
+                    267
+                ]
+            ], 
+            "ref": "settlement service:1024-2-b-SettlementService"
+        }
+    ], 
+    "1024-15-c-BeneficialOwnership": [
+        {
+            "offsets": [
+                [
+                    83, 
+                    102
+                ]
+            ], 
+            "ref": "settlement service:1024-2-b-SettlementService"
+        }
+    ], 
+    "1024-15-c-DirectOwnership": [
+        {
+            "offsets": [
+                [
+                    82, 
+                    100
+                ]
+            ], 
+            "ref": "settlement service:1024-2-b-SettlementService"
+        }
+    ], 
+    "1024-15-c-PersonWhoIsInAPositionToReferSettlementServiceBusiness": [
+        {
+            "offsets": [
+                [
+                    278, 
+                    297
+                ]
+            ], 
+            "ref": "settlement service:1024-2-b-SettlementService"
+        }, 
+        {
+            "offsets": [
+                [
+                    112, 
+                    127
+                ]
+            ], 
+            "ref": "mortgage broker:1024-2-b-MortgageBroker"
+        }, 
+        {
+            "offsets": [
+                [
+                    161, 
+                    174
+                ]
+            ], 
+            "ref": "title company:1024-2-b-TitleCompany"
+        }, 
+        {
+            "offsets": [
+                [
+                    104, 
+                    110
+                ]
+            ], 
+            "ref": "lender:1024-2-b-Lender"
+        }
+    ], 
+    "1024-15-c-def0": [
+        {
+            "offsets": [
+                [
+                    0, 
+                    9
+                ]
+            ], 
+            "ref": "associate:1024-15-c-Control,AsUsedInTheDefinitionsOf\u201cassociate\u201dAnd\u201caffiliateRelationship,\u201d"
+        }, 
+        {
+            "offsets": [
+                [
+                    40, 
+                    45
+                ]
+            ], 
+            "ref": "respa:1024-2-b-RESPA"
+        }
+    ], 
+    "1024-15-c-def1": [
+        {
+            "offsets": [
+                [
+                    24, 
+                    27
+                ]
+            ], 
+            "ref": "ftc:1024-15-c-FTC"
+        }
+    ], 
+    "1024-15-c-def2": [
+        {
+            "offsets": [
+                [
+                    25, 
+                    28
+                ]
+            ], 
+            "ref": "ftc:1024-15-c-FTC"
+        }
+    ], 
+    "1024-15-c-def3": [
+        {
+            "offsets": [
+                [
+                    25, 
+                    28
+                ]
+            ], 
+            "ref": "ftc:1024-15-c-FTC"
+        }
+    ], 
     "1024-16": [
         {
             "offsets": [
@@ -894,6 +1183,3975 @@
                 ]
             ], 
             "ref": "respa:1024-2-b-RESPA"
+        }
+    ], 
+    "1024-17-a": [
+        {
+            "offsets": [
+                [
+                    1162, 
+                    1194
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    121, 
+                    152
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    173, 
+                    188
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    59, 
+                    73
+                ], 
+                [
+                    282, 
+                    296
+                ], 
+                [
+                    561, 
+                    575
+                ], 
+                [
+                    794, 
+                    808
+                ], 
+                [
+                    1036, 
+                    1050
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    875, 
+                    884
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    966, 
+                    974
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    81, 
+                    87
+                ]
+            ], 
+            "ref": "lender:1024-2-b-Lender"
+        }
+    ], 
+    "1024-17-b-Aggregate(or)CompositeAnalysis,HereafterCalledAggregateAnalysis,": [
+        {
+            "offsets": [
+                [
+                    132, 
+                    155
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    303, 
+                    326
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    188, 
+                    202
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    101, 
+                    109
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-b-AnnualEscrowAccountStatement": [
+        {
+            "offsets": [
+                [
+                    307, 
+                    330
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    171, 
+                    185
+                ], 
+                [
+                    254, 
+                    268
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    139, 
+                    147
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-b-CushionOrReserve(hereafterCushion)": [
+        {
+            "offsets": [
+                [
+                    105, 
+                    119
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    58, 
+                    66
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-b-DisbursementDate": [
+        {
+            "offsets": [
+                [
+                    93, 
+                    107
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    46, 
+                    54
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    72, 
+                    78
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-17-b-EscrowAccount": [
+        {
+            "offsets": [
+                [
+                    194, 
+                    225
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    698, 
+                    718
+                ]
+            ], 
+            "ref": "escrow account item:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }, 
+        {
+            "offsets": [
+                [
+                    111, 
+                    120
+                ], 
+                [
+                    147, 
+                    156
+                ]
+            ], 
+            "ref": "insurance:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }, 
+        {
+            "offsets": [
+                [
+                    40, 
+                    48
+                ], 
+                [
+                    267, 
+                    275
+                ], 
+                [
+                    309, 
+                    317
+                ], 
+                [
+                    572, 
+                    580
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    104, 
+                    109
+                ]
+            ], 
+            "ref": "taxes:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }
+    ], 
+    "1024-17-b-EscrowAccountAnalysis": [
+        {
+            "offsets": [
+                [
+                    87, 
+                    108
+                ]
+            ], 
+            "ref": "trial running balance:1024-17-b-TrialRunningBalance"
+        }, 
+        {
+            "offsets": [
+                [
+                    116, 
+                    130
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    52, 
+                    60
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-b-EscrowAccountAnalysis-1": [
+        {
+            "offsets": [
+                [
+                    30, 
+                    45
+                ]
+            ], 
+            "ref": "target balance:1024-17-b-TargetBalance"
+        }
+    ], 
+    "1024-17-b-EscrowAccountAnalysis-2": [
+        {
+            "offsets": [
+                [
+                    57, 
+                    71
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-b-EscrowAccountAnalysis-3": [
+        {
+            "offsets": [
+                [
+                    22, 
+                    31
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }
+    ], 
+    "1024-17-b-EscrowAccountItemOrSeparateItem": [
+        {
+            "offsets": [
+                [
+                    208, 
+                    228
+                ]
+            ], 
+            "ref": "installment payment:1024-17-b-InstallmentPayment"
+        }, 
+        {
+            "offsets": [
+                [
+                    315, 
+                    333
+                ]
+            ], 
+            "ref": "disbursement date:1024-17-b-DisbursementDate"
+        }, 
+        {
+            "offsets": [
+                [
+                    147, 
+                    161
+                ], 
+                [
+                    183, 
+                    197
+                ], 
+                [
+                    272, 
+                    286
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-b-InitialEscrowAccountStatement": [
+        {
+            "offsets": [
+                [
+                    139, 
+                    153
+                ], 
+                [
+                    167, 
+                    181
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    79, 
+                    87
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-b-InstallmentPayment": [
+        {
+            "offsets": [
+                [
+                    68, 
+                    87
+                ]
+            ], 
+            "ref": "escrow account item:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }, 
+        {
+            "offsets": [
+                [
+                    98, 
+                    112
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    212, 
+                    217
+                ]
+            ], 
+            "ref": "taxes:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }
+    ], 
+    "1024-17-b-PaymentDueDate": [
+        {
+            "offsets": [
+                [
+                    85, 
+                    99
+                ], 
+                [
+                    196, 
+                    210
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    114, 
+                    122
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-b-Penalty": [
+        {
+            "offsets": [
+                [
+                    186, 
+                    206
+                ]
+            ], 
+            "ref": "installment payment:1024-17-b-InstallmentPayment"
+        }
+    ], 
+    "1024-17-b-Shortage": [
+        {
+            "offsets": [
+                [
+                    86, 
+                    100
+                ]
+            ], 
+            "ref": "target balance:1024-17-b-TargetBalance"
+        }, 
+        {
+            "offsets": [
+                [
+                    44, 
+                    58
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    116, 
+                    122
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-17-b-Single-itemAnalysis": [
+        {
+            "offsets": [
+                [
+                    79, 
+                    102
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    135, 
+                    149
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    48, 
+                    57
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    176, 
+                    182
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-17-b-Submission(ofAnEscrowAccountStatement)": [
+        {
+            "offsets": [
+                [
+                    18, 
+                    32
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    54, 
+                    62
+                ]
+            ], 
+            "ref": "delivery:1024-17-b-Delivery"
+        }
+    ], 
+    "1024-17-b-Surplus": [
+        {
+            "offsets": [
+                [
+                    80, 
+                    94
+                ]
+            ], 
+            "ref": "target balance:1024-17-b-TargetBalance"
+        }, 
+        {
+            "offsets": [
+                [
+                    45, 
+                    59
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-b-SystemOfRecordkeeping": [
+        {
+            "offsets": [
+                [
+                    282, 
+                    314
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    154, 
+                    168
+                ], 
+                [
+                    233, 
+                    247
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    34, 
+                    42
+                ], 
+                [
+                    116, 
+                    124
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-b-TargetBalance": [
+        {
+            "offsets": [
+                [
+                    59, 
+                    73
+                ], 
+                [
+                    144, 
+                    158
+                ], 
+                [
+                    166, 
+                    180
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-b-TrialRunningBalance": [
+        {
+            "offsets": [
+                [
+                    68, 
+                    83
+                ]
+            ], 
+            "ref": "target balance:1024-17-b-TargetBalance"
+        }, 
+        {
+            "offsets": [
+                [
+                    106, 
+                    120
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-b-def0": [
+        {
+            "offsets": [
+                [
+                    174, 
+                    197
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    53, 
+                    67
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    100, 
+                    108
+                ], 
+                [
+                    149, 
+                    157
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-b-def1": [
+        {
+            "offsets": [
+                [
+                    0, 
+                    14
+                ], 
+                [
+                    89, 
+                    103
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    60, 
+                    68
+                ], 
+                [
+                    216, 
+                    224
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-b-def2": [
+        {
+            "offsets": [
+                [
+                    183, 
+                    200
+                ]
+            ], 
+            "ref": "disbursement date:1024-17-b-DisbursementDate"
+        }, 
+        {
+            "offsets": [
+                [
+                    145, 
+                    159
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    31, 
+                    40
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-c": [
+        {
+            "offsets": [
+                [
+                    26, 
+                    41
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-c-1": [
+        {
+            "offsets": [
+                [
+                    140, 
+                    171
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    95, 
+                    109
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    16, 
+                    24
+                ], 
+                [
+                    36, 
+                    44
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    6, 
+                    12
+                ]
+            ], 
+            "ref": "lender:1024-2-b-Lender"
+        }
+    ], 
+    "1024-17-c-1-i": [
+        {
+            "offsets": [
+                [
+                    222, 
+                    240
+                ]
+            ], 
+            "ref": "mortgaged property:1024-2-b-MortgagedProperty"
+        }, 
+        {
+            "offsets": [
+                [
+                    457, 
+                    471
+                ]
+            ], 
+            "ref": "target balance:1024-17-b-TargetBalance"
+        }, 
+        {
+            "offsets": [
+                [
+                    49, 
+                    63
+                ], 
+                [
+                    99, 
+                    113
+                ], 
+                [
+                    490, 
+                    504
+                ], 
+                [
+                    731, 
+                    745
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    15, 
+                    25
+                ]
+            ], 
+            "ref": "settlement:1024-2-b-Settlement"
+        }, 
+        {
+            "offsets": [
+                [
+                    260, 
+                    269
+                ]
+            ], 
+            "ref": "insurance:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }, 
+        {
+            "offsets": [
+                [
+                    79, 
+                    87
+                ], 
+                [
+                    134, 
+                    142
+                ], 
+                [
+                    594, 
+                    602
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    250, 
+                    255
+                ]
+            ], 
+            "ref": "taxes:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }
+    ], 
+    "1024-17-c-1-ii": [
+        {
+            "offsets": [
+                [
+                    476, 
+                    499
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    36, 
+                    50
+                ], 
+                [
+                    78, 
+                    92
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    98, 
+                    106
+                ], 
+                [
+                    219, 
+                    227
+                ], 
+                [
+                    293, 
+                    301
+                ], 
+                [
+                    445, 
+                    453
+                ], 
+                [
+                    544, 
+                    552
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    516, 
+                    524
+                ], 
+                [
+                    620, 
+                    628
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }, 
+        {
+            "offsets": [
+                [
+                    193, 
+                    199
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-17-c-2": [
+        {
+            "offsets": [
+                [
+                    902, 
+                    934
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    119, 
+                    142
+                ], 
+                [
+                    449, 
+                    472
+                ], 
+                [
+                    836, 
+                    859
+                ], 
+                [
+                    1025, 
+                    1048
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    697, 
+                    714
+                ]
+            ], 
+            "ref": "disbursement date:1024-17-b-DisbursementDate"
+        }, 
+        {
+            "offsets": [
+                [
+                    35, 
+                    49
+                ], 
+                [
+                    74, 
+                    88
+                ], 
+                [
+                    202, 
+                    216
+                ], 
+                [
+                    346, 
+                    360
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    94, 
+                    102
+                ], 
+                [
+                    478, 
+                    486
+                ], 
+                [
+                    620, 
+                    628
+                ], 
+                [
+                    865, 
+                    873
+                ], 
+                [
+                    1003, 
+                    1011
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    1081, 
+                    1089
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }, 
+        {
+            "offsets": [
+                [
+                    1072, 
+                    1079
+                ]
+            ], 
+            "ref": "surplus:1024-17-b-Surplus"
+        }, 
+        {
+            "offsets": [
+                [
+                    682, 
+                    689
+                ]
+            ], 
+            "ref": "penalty:1024-17-b-Penalty"
+        }, 
+        {
+            "offsets": [
+                [
+                    4, 
+                    10
+                ], 
+                [
+                    723, 
+                    729
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-17-c-3": [
+        {
+            "offsets": [
+                [
+                    997, 
+                    1028
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    94, 
+                    117
+                ], 
+                [
+                    352, 
+                    375
+                ], 
+                [
+                    737, 
+                    760
+                ], 
+                [
+                    932, 
+                    955
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    15, 
+                    38
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    600, 
+                    617
+                ]
+            ], 
+            "ref": "disbursement date:1024-17-b-DisbursementDate"
+        }, 
+        {
+            "offsets": [
+                [
+                    49, 
+                    63
+                ], 
+                [
+                    143, 
+                    157
+                ], 
+                [
+                    211, 
+                    225
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    69, 
+                    77
+                ], 
+                [
+                    381, 
+                    389
+                ], 
+                [
+                    523, 
+                    531
+                ], 
+                [
+                    715, 
+                    723
+                ], 
+                [
+                    961, 
+                    969
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    793, 
+                    801
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }, 
+        {
+            "offsets": [
+                [
+                    784, 
+                    791
+                ]
+            ], 
+            "ref": "surplus:1024-17-b-Surplus"
+        }, 
+        {
+            "offsets": [
+                [
+                    585, 
+                    592
+                ]
+            ], 
+            "ref": "penalty:1024-17-b-Penalty"
+        }, 
+        {
+            "offsets": [
+                [
+                    626, 
+                    632
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-17-c-4": [
+        {
+            "offsets": [
+                [
+                    104, 
+                    127
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    39, 
+                    48
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-c-5": [
+        {
+            "offsets": [
+                [
+                    118, 
+                    132
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-c-6": [
+        {
+            "offsets": [
+                [
+                    35, 
+                    43
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-c-7": [
+        {
+            "offsets": [
+                [
+                    62, 
+                    85
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    129, 
+                    149
+                ]
+            ], 
+            "ref": "escrow account item:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }, 
+        {
+            "offsets": [
+                [
+                    4, 
+                    12
+                ], 
+                [
+                    91, 
+                    99
+                ], 
+                [
+                    174, 
+                    182
+                ], 
+                [
+                    258, 
+                    266
+                ], 
+                [
+                    357, 
+                    365
+                ], 
+                [
+                    371, 
+                    379
+                ], 
+                [
+                    658, 
+                    666
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    207, 
+                    213
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-17-c-8": [
+        {
+            "offsets": [
+                [
+                    933, 
+                    948
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    137, 
+                    151
+                ], 
+                [
+                    337, 
+                    351
+                ], 
+                [
+                    499, 
+                    513
+                ], 
+                [
+                    551, 
+                    565
+                ], 
+                [
+                    687, 
+                    701
+                ], 
+                [
+                    739, 
+                    753
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    68, 
+                    81
+                ], 
+                [
+                    160, 
+                    173
+                ], 
+                [
+                    285, 
+                    298
+                ], 
+                [
+                    442, 
+                    455
+                ], 
+                [
+                    647, 
+                    660
+                ]
+            ], 
+            "ref": "mortgage loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    42, 
+                    50
+                ], 
+                [
+                    525, 
+                    533
+                ], 
+                [
+                    715, 
+                    723
+                ], 
+                [
+                    982, 
+                    990
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    629, 
+                    634
+                ], 
+                [
+                    777, 
+                    782
+                ], 
+                [
+                    860, 
+                    865
+                ], 
+                [
+                    1085, 
+                    1090
+                ]
+            ], 
+            "ref": "state:1024-2-b-State"
+        }, 
+        {
+            "offsets": [
+                [
+                    959, 
+                    964
+                ]
+            ], 
+            "ref": "respa:1024-2-b-RESPA"
+        }
+    ], 
+    "1024-17-c-9": [
+        {
+            "offsets": [
+                [
+                    667, 
+                    698
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    55, 
+                    75
+                ]
+            ], 
+            "ref": "escrow account item:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }, 
+        {
+            "offsets": [
+                [
+                    790, 
+                    804
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    173, 
+                    182
+                ], 
+                [
+                    363, 
+                    372
+                ]
+            ], 
+            "ref": "insurance:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }, 
+        {
+            "offsets": [
+                [
+                    137, 
+                    146
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    268, 
+                    276
+                ], 
+                [
+                    408, 
+                    416
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    205, 
+                    211
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-17-d": [
+        {
+            "offsets": [
+                [
+                    15, 
+                    38
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }
+    ], 
+    "1024-17-d-1": [
+        {
+            "offsets": [
+                [
+                    284, 
+                    299
+                ]
+            ], 
+            "ref": "target balance:1024-17-b-TargetBalance"
+        }, 
+        {
+            "offsets": [
+                [
+                    39, 
+                    48
+                ], 
+                [
+                    223, 
+                    232
+                ], 
+                [
+                    316, 
+                    325
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-d-2-i": [
+        {
+            "offsets": [
+                [
+                    22, 
+                    45
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    76, 
+                    91
+                ]
+            ], 
+            "ref": "target balance:1024-17-b-TargetBalance"
+        }
+    ], 
+    "1024-17-d-2-i-A": [
+        {
+            "offsets": [
+                [
+                    109, 
+                    130
+                ]
+            ], 
+            "ref": "trial running balance:1024-17-b-TrialRunningBalance"
+        }, 
+        {
+            "offsets": [
+                [
+                    378, 
+                    396
+                ]
+            ], 
+            "ref": "disbursement date:1024-17-b-DisbursementDate"
+        }, 
+        {
+            "offsets": [
+                [
+                    520, 
+                    534
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    8, 
+                    16
+                ], 
+                [
+                    149, 
+                    157
+                ], 
+                [
+                    335, 
+                    343
+                ], 
+                [
+                    402, 
+                    410
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    322, 
+                    329
+                ]
+            ], 
+            "ref": "penalty:1024-17-b-Penalty"
+        }
+    ], 
+    "1024-17-d-2-i-B": [
+        {
+            "offsets": [
+                [
+                    8, 
+                    16
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-d-2-i-C": [
+        {
+            "offsets": [
+                [
+                    276, 
+                    285
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }, 
+        {
+            "offsets": [
+                [
+                    8, 
+                    16
+                ], 
+                [
+                    143, 
+                    151
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    120, 
+                    126
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }, 
+        {
+            "offsets": [
+                [
+                    184, 
+                    189
+                ]
+            ], 
+            "ref": "state:1024-2-b-State"
+        }
+    ], 
+    "1024-17-d-2-ii": [
+        {
+            "offsets": [
+                [
+                    277, 
+                    292
+                ]
+            ], 
+            "ref": "target balance:1024-17-b-TargetBalance"
+        }, 
+        {
+            "offsets": [
+                [
+                    74, 
+                    88
+                ]
+            ], 
+            "ref": "target balance:1024-17-b-TargetBalance"
+        }, 
+        {
+            "offsets": [
+                [
+                    176, 
+                    190
+                ], 
+                [
+                    369, 
+                    383
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    302, 
+                    310
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    237, 
+                    242
+                ]
+            ], 
+            "ref": "state:1024-2-b-State"
+        }
+    ], 
+    "1024-17-e": [
+        {
+            "offsets": [
+                [
+                    16, 
+                    25
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }
+    ], 
+    "1024-17-e-1": [
+        {
+            "offsets": [
+                [
+                    187, 
+                    219
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    250, 
+                    259
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    15, 
+                    23
+                ], 
+                [
+                    120, 
+                    128
+                ], 
+                [
+                    143, 
+                    151
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-e-1-i": [
+        {
+            "offsets": [
+                [
+                    37, 
+                    69
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    198, 
+                    212
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    91, 
+                    100
+                ], 
+                [
+                    167, 
+                    176
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    16, 
+                    24
+                ], 
+                [
+                    110, 
+                    118
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-e-1-ii": [
+        {
+            "offsets": [
+                [
+                    474, 
+                    505
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    158, 
+                    172
+                ], 
+                [
+                    340, 
+                    354
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    19, 
+                    27
+                ], 
+                [
+                    102, 
+                    110
+                ], 
+                [
+                    125, 
+                    133
+                ], 
+                [
+                    220, 
+                    228
+                ], 
+                [
+                    399, 
+                    407
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    425, 
+                    431
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-17-e-2": [
+        {
+            "offsets": [
+                [
+                    90, 
+                    104
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    33, 
+                    42
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }, 
+        {
+            "offsets": [
+                [
+                    12, 
+                    20
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-f": [
+        {
+            "offsets": [
+                [
+                    4, 
+                    13
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }
+    ], 
+    "1024-17-f-1": [
+        {
+            "offsets": [
+                [
+                    4, 
+                    27
+                ], 
+                [
+                    84, 
+                    107
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    38, 
+                    52
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    58, 
+                    66
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    140, 
+                    148
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }, 
+        {
+            "offsets": [
+                [
+                    131, 
+                    138
+                ]
+            ], 
+            "ref": "surplus:1024-17-b-Surplus"
+        }
+    ], 
+    "1024-17-f-1-i": [
+        {
+            "offsets": [
+                [
+                    71, 
+                    94
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    116, 
+                    130
+                ], 
+                [
+                    156, 
+                    170
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    45, 
+                    53
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-f-1-ii": [
+        {
+            "offsets": [
+                [
+                    33, 
+                    56
+                ], 
+                [
+                    294, 
+                    317
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    9, 
+                    17
+                ], 
+                [
+                    113, 
+                    121
+                ], 
+                [
+                    268, 
+                    276
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    83, 
+                    89
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-17-f-2-i": [
+        {
+            "offsets": [
+                [
+                    10, 
+                    33
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    59, 
+                    67
+                ], 
+                [
+                    267, 
+                    275
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    46, 
+                    53
+                ], 
+                [
+                    132, 
+                    139
+                ], 
+                [
+                    163, 
+                    170
+                ], 
+                [
+                    224, 
+                    231
+                ]
+            ], 
+            "ref": "surplus:1024-17-b-Surplus"
+        }, 
+        {
+            "offsets": [
+                [
+                    362, 
+                    368
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-17-f-2-ii": [
+        {
+            "offsets": [
+                [
+                    94, 
+                    117
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    212, 
+                    228
+                ], 
+                [
+                    308, 
+                    324
+                ]
+            ], 
+            "ref": "payment due date:1024-17-b-PaymentDueDate"
+        }, 
+        {
+            "offsets": [
+                [
+                    374, 
+                    388
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    418, 
+                    431
+                ]
+            ], 
+            "ref": "mortgage loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    148, 
+                    156
+                ], 
+                [
+                    237, 
+                    245
+                ], 
+                [
+                    335, 
+                    343
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    359, 
+                    366
+                ]
+            ], 
+            "ref": "surplus:1024-17-b-Surplus"
+        }
+    ], 
+    "1024-17-f-2-iii": [
+        {
+            "offsets": [
+                [
+                    222, 
+                    236
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    73, 
+                    81
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    33, 
+                    39
+                ], 
+                [
+                    156, 
+                    162
+                ], 
+                [
+                    363, 
+                    369
+                ], 
+                [
+                    452, 
+                    458
+                ], 
+                [
+                    566, 
+                    572
+                ], 
+                [
+                    613, 
+                    619
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-17-f-3": [
+        {
+            "offsets": [
+                [
+                    4, 
+                    13
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }
+    ], 
+    "1024-17-f-3-i": [
+        {
+            "offsets": [
+                [
+                    10, 
+                    33
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    80, 
+                    94
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    113, 
+                    121
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    46, 
+                    54
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }
+    ], 
+    "1024-17-f-3-i-A": [
+        {
+            "offsets": [
+                [
+                    8, 
+                    16
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    29, 
+                    37
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }
+    ], 
+    "1024-17-f-3-i-B": [
+        {
+            "offsets": [
+                [
+                    8, 
+                    16
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    55, 
+                    63
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }
+    ], 
+    "1024-17-f-3-i-C": [
+        {
+            "offsets": [
+                [
+                    8, 
+                    16
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    55, 
+                    63
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }
+    ], 
+    "1024-17-f-3-ii": [
+        {
+            "offsets": [
+                [
+                    11, 
+                    34
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    101, 
+                    115
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    134, 
+                    142
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    47, 
+                    55
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }
+    ], 
+    "1024-17-f-3-ii-A": [
+        {
+            "offsets": [
+                [
+                    8, 
+                    16
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    29, 
+                    37
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }
+    ], 
+    "1024-17-f-3-ii-B": [
+        {
+            "offsets": [
+                [
+                    8, 
+                    16
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    55, 
+                    63
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }
+    ], 
+    "1024-17-f-4": [
+        {
+            "offsets": [
+                [
+                    23, 
+                    46
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    79, 
+                    87
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-f-4-i": [
+        {
+            "offsets": [
+                [
+                    47, 
+                    61
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    80, 
+                    88
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-f-4-ii": [
+        {
+            "offsets": [
+                [
+                    81, 
+                    89
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    61, 
+                    67
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-17-f-4-iii": [
+        {
+            "offsets": [
+                [
+                    98, 
+                    121
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    216, 
+                    232
+                ], 
+                [
+                    312, 
+                    328
+                ]
+            ], 
+            "ref": "payment due date:1024-17-b-PaymentDueDate"
+        }, 
+        {
+            "offsets": [
+                [
+                    404, 
+                    417
+                ]
+            ], 
+            "ref": "mortgage loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    152, 
+                    160
+                ], 
+                [
+                    241, 
+                    249
+                ], 
+                [
+                    339, 
+                    347
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-f-5": [
+        {
+            "offsets": [
+                [
+                    242, 
+                    273
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    40, 
+                    54
+                ], 
+                [
+                    120, 
+                    134
+                ], 
+                [
+                    196, 
+                    210
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    60, 
+                    68
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    14, 
+                    22
+                ], 
+                [
+                    166, 
+                    174
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }
+    ], 
+    "1024-17-g": [
+        {
+            "offsets": [
+                [
+                    4, 
+                    36
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }
+    ], 
+    "1024-17-g-1": [
+        {
+            "offsets": [
+                [
+                    418, 
+                    450
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    131, 
+                    154
+                ], 
+                [
+                    340, 
+                    363
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    526, 
+                    541
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    178, 
+                    192
+                ], 
+                [
+                    253, 
+                    267
+                ], 
+                [
+                    373, 
+                    387
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    18, 
+                    28
+                ], 
+                [
+                    60, 
+                    70
+                ], 
+                [
+                    470, 
+                    480
+                ], 
+                [
+                    511, 
+                    521
+                ]
+            ], 
+            "ref": "settlement:1024-2-b-Settlement"
+        }, 
+        {
+            "offsets": [
+                [
+                    105, 
+                    113
+                ], 
+                [
+                    393, 
+                    401
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-g-1-i": [
+        {
+            "offsets": [
+                [
+                    8, 
+                    40
+                ], 
+                [
+                    435, 
+                    467
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    564, 
+                    585
+                ]
+            ], 
+            "ref": "trial running balance:1024-17-b-TrialRunningBalance"
+        }, 
+        {
+            "offsets": [
+                [
+                    394, 
+                    412
+                ]
+            ], 
+            "ref": "disbursement date:1024-17-b-DisbursementDate"
+        }, 
+        {
+            "offsets": [
+                [
+                    163, 
+                    177
+                ], 
+                [
+                    316, 
+                    330
+                ], 
+                [
+                    342, 
+                    356
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    217, 
+                    226
+                ]
+            ], 
+            "ref": "insurance:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }, 
+        {
+            "offsets": [
+                [
+                    264, 
+                    272
+                ], 
+                [
+                    503, 
+                    511
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    210, 
+                    215
+                ]
+            ], 
+            "ref": "taxes:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }
+    ], 
+    "1024-17-g-1-ii": [
+        {
+            "offsets": [
+                [
+                    67, 
+                    99
+                ], 
+                [
+                    188, 
+                    220
+                ], 
+                [
+                    303, 
+                    335
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    125, 
+                    135
+                ], 
+                [
+                    246, 
+                    256
+                ]
+            ], 
+            "ref": "settlement:1024-2-b-Settlement"
+        }, 
+        {
+            "offsets": [
+                [
+                    38, 
+                    46
+                ], 
+                [
+                    154, 
+                    162
+                ], 
+                [
+                    277, 
+                    285
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    109, 
+                    112
+                ], 
+                [
+                    118, 
+                    121
+                ], 
+                [
+                    230, 
+                    233
+                ], 
+                [
+                    239, 
+                    242
+                ]
+            ], 
+            "ref": "hud:1024-2-b-HUD"
+        }
+    ], 
+    "1024-17-g-2": [
+        {
+            "offsets": [
+                [
+                    26, 
+                    58
+                ], 
+                [
+                    232, 
+                    264
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    115, 
+                    130
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    66, 
+                    80
+                ], 
+                [
+                    339, 
+                    353
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    99, 
+                    109
+                ], 
+                [
+                    149, 
+                    159
+                ]
+            ], 
+            "ref": "settlement:1024-2-b-Settlement"
+        }, 
+        {
+            "offsets": [
+                [
+                    207, 
+                    215
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-h": [
+        {
+            "offsets": [
+                [
+                    15, 
+                    47
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }
+    ], 
+    "1024-17-h-1": [
+        {
+            "offsets": [
+                [
+                    46, 
+                    78
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    94, 
+                    119
+                ]
+            ], 
+            "ref": "public guidance documents:1024-2-b-PublicGuidanceDocuments"
+        }, 
+        {
+            "offsets": [
+                [
+                    138, 
+                    152
+                ], 
+                [
+                    195, 
+                    209
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-h-2": [
+        {
+            "offsets": [
+                [
+                    21, 
+                    53
+                ], 
+                [
+                    149, 
+                    181
+                ], 
+                [
+                    256, 
+                    288
+                ], 
+                [
+                    325, 
+                    357
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    75, 
+                    85
+                ], 
+                [
+                    205, 
+                    215
+                ], 
+                [
+                    403, 
+                    413
+                ]
+            ], 
+            "ref": "settlement:1024-2-b-Settlement"
+        }, 
+        {
+            "offsets": [
+                [
+                    128, 
+                    136
+                ], 
+                [
+                    231, 
+                    239
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    59, 
+                    62
+                ], 
+                [
+                    68, 
+                    71
+                ], 
+                [
+                    189, 
+                    192
+                ], 
+                [
+                    198, 
+                    201
+                ], 
+                [
+                    387, 
+                    390
+                ], 
+                [
+                    396, 
+                    399
+                ]
+            ], 
+            "ref": "hud:1024-2-b-HUD"
+        }
+    ], 
+    "1024-17-h-3": [
+        {
+            "offsets": [
+                [
+                    34, 
+                    66
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    446, 
+                    463
+                ]
+            ], 
+            "ref": "disbursement date:1024-17-b-DisbursementDate"
+        }, 
+        {
+            "offsets": [
+                [
+                    367, 
+                    381
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    245, 
+                    254
+                ], 
+                [
+                    620, 
+                    629
+                ], 
+                [
+                    642, 
+                    651
+                ]
+            ], 
+            "ref": "insurance:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }, 
+        {
+            "offsets": [
+                [
+                    231, 
+                    236
+                ], 
+                [
+                    588, 
+                    593
+                ], 
+                [
+                    604, 
+                    609
+                ]
+            ], 
+            "ref": "taxes:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }
+    ], 
+    "1024-17-i": [
+        {
+            "offsets": [
+                [
+                    292, 
+                    324
+                ]
+            ], 
+            "ref": "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    4, 
+                    36
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    90, 
+                    121
+                ], 
+                [
+                    401, 
+                    432
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    356, 
+                    379
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    47, 
+                    61
+                ], 
+                [
+                    178, 
+                    192
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    65, 
+                    73
+                ], 
+                [
+                    215, 
+                    223
+                ], 
+                [
+                    330, 
+                    338
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-i-1": [
+        {
+            "offsets": [
+                [
+                    16, 
+                    47
+                ], 
+                [
+                    53, 
+                    84
+                ], 
+                [
+                    445, 
+                    476
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    150, 
+                    164
+                ], 
+                [
+                    176, 
+                    190
+                ], 
+                [
+                    408, 
+                    422
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    308, 
+                    316
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-i-1-i": [
+        {
+            "offsets": [
+                [
+                    120, 
+                    134
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-i-1-ii": [
+        {
+            "offsets": [
+                [
+                    118, 
+                    132
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-i-1-iii": [
+        {
+            "offsets": [
+                [
+                    37, 
+                    51
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-i-1-iv": [
+        {
+            "offsets": [
+                [
+                    38, 
+                    52
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    87, 
+                    96
+                ]
+            ], 
+            "ref": "insurance:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }, 
+        {
+            "offsets": [
+                [
+                    80, 
+                    85
+                ]
+            ], 
+            "ref": "taxes:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }
+    ], 
+    "1024-17-i-1-v": [
+        {
+            "offsets": [
+                [
+                    23, 
+                    37
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-i-1-vi": [
+        {
+            "offsets": [
+                [
+                    63, 
+                    71
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    31, 
+                    38
+                ]
+            ], 
+            "ref": "surplus:1024-17-b-Surplus"
+        }
+    ], 
+    "1024-17-i-1-vii": [
+        {
+            "offsets": [
+                [
+                    32, 
+                    40
+                ]
+            ], 
+            "ref": "shortage:1024-17-b-Shortage"
+        }
+    ], 
+    "1024-17-i-1-viii": [
+        {
+            "offsets": [
+                [
+                    194, 
+                    219
+                ]
+            ], 
+            "ref": "public guidance documents:1024-2-b-PublicGuidanceDocuments"
+        }, 
+        {
+            "offsets": [
+                [
+                    237, 
+                    251
+                ], 
+                [
+                    293, 
+                    307
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-i-2": [
+        {
+            "offsets": [
+                [
+                    336, 
+                    367
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    202, 
+                    225
+                ]
+            ], 
+            "ref": "escrow account analysis:1024-17-b-EscrowAccountAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    524, 
+                    537
+                ]
+            ], 
+            "ref": "mortgage loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    180, 
+                    188
+                ], 
+                [
+                    278, 
+                    286
+                ], 
+                [
+                    456, 
+                    464
+                ], 
+                [
+                    598, 
+                    606
+                ], 
+                [
+                    743, 
+                    751
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-i-3": [
+        {
+            "offsets": [
+                [
+                    63, 
+                    94
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    4, 
+                    12
+                ]
+            ], 
+            "ref": "delivery:1024-17-b-Delivery"
+        }, 
+        {
+            "offsets": [
+                [
+                    38, 
+                    46
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-i-4": [
+        {
+            "offsets": [
+                [
+                    61, 
+                    92
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    132, 
+                    146
+                ], 
+                [
+                    267, 
+                    281
+                ], 
+                [
+                    307, 
+                    321
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    29, 
+                    37
+                ], 
+                [
+                    210, 
+                    218
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-i-4-i": [
+        {
+            "offsets": [
+                [
+                    76, 
+                    90
+                ], 
+                [
+                    117, 
+                    131
+                ], 
+                [
+                    176, 
+                    190
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    213, 
+                    221
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-i-4-ii": [
+        {
+            "offsets": [
+                [
+                    31, 
+                    40
+                ], 
+                [
+                    72, 
+                    81
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    104, 
+                    112
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-i-4-iii": [
+        {
+            "offsets": [
+                [
+                    95, 
+                    109
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    70, 
+                    83
+                ]
+            ], 
+            "ref": "mortgage loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    132, 
+                    140
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-j": [
+        {
+            "offsets": [
+                [
+                    88, 
+                    120
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    16, 
+                    47
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    206, 
+                    231
+                ]
+            ], 
+            "ref": "public guidance documents:1024-2-b-PublicGuidanceDocuments"
+        }, 
+        {
+            "offsets": [
+                [
+                    127, 
+                    147
+                ]
+            ], 
+            "ref": "single-item analysis:1024-17-b-Single-itemAnalysis"
+        }, 
+        {
+            "offsets": [
+                [
+                    249, 
+                    263
+                ], 
+                [
+                    305, 
+                    319
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }
+    ], 
+    "1024-17-k-1": [
+        {
+            "offsets": [
+                [
+                    24, 
+                    55
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    100, 
+                    114
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    120, 
+                    128
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    222, 
+                    229
+                ]
+            ], 
+            "ref": "penalty:1024-17-b-Penalty"
+        }
+    ], 
+    "1024-17-k-2": [
+        {
+            "offsets": [
+                [
+                    8, 
+                    16
+                ], 
+                [
+                    193, 
+                    201
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-k-3": [
+        {
+            "offsets": [
+                [
+                    47, 
+                    61
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    97, 
+                    105
+                ], 
+                [
+                    165, 
+                    173
+                ], 
+                [
+                    393, 
+                    401
+                ], 
+                [
+                    626, 
+                    634
+                ], 
+                [
+                    647, 
+                    655
+                ], 
+                [
+                    1003, 
+                    1011
+                ], 
+                [
+                    1089, 
+                    1097
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    958, 
+                    964
+                ]
+            ], 
+            "ref": "bureau:1024-2-b-Bureau"
+        }, 
+        {
+            "offsets": [
+                [
+                    32, 
+                    37
+                ]
+            ], 
+            "ref": "taxes:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }, 
+        {
+            "offsets": [
+                [
+                    693, 
+                    698
+                ]
+            ], 
+            "ref": "respa:1024-2-b-RESPA"
+        }
+    ], 
+    "1024-17-k-4": [
+        {
+            "offsets": [
+                [
+                    188, 
+                    205
+                ], 
+                [
+                    548, 
+                    565
+                ]
+            ], 
+            "ref": "disbursement date:1024-17-b-DisbursementDate"
+        }, 
+        {
+            "offsets": [
+                [
+                    56, 
+                    64
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    219, 
+                    224
+                ]
+            ], 
+            "ref": "taxes:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }
+    ], 
+    "1024-17-l": [
+        {
+            "offsets": [
+                [
+                    4, 
+                    27
+                ]
+            ], 
+            "ref": "system of recordkeeping:1024-17-b-SystemOfRecordkeeping"
+        }
+    ], 
+    "1024-17-l-1": [
+        {
+            "offsets": [
+                [
+                    406, 
+                    438
+                ]
+            ], 
+            "ref": "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement"
+        }, 
+        {
+            "offsets": [
+                [
+                    239, 
+                    253
+                ], 
+                [
+                    357, 
+                    371
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    9, 
+                    17
+                ], 
+                [
+                    200, 
+                    208
+                ], 
+                [
+                    259, 
+                    267
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-l-2": [
+        {
+            "offsets": [
+                [
+                    58, 
+                    72
+                ], 
+                [
+                    190, 
+                    204
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    33, 
+                    42
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    8, 
+                    16
+                ], 
+                [
+                    163, 
+                    171
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-l-3": [
+        {
+            "offsets": [
+                [
+                    152, 
+                    167
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    108, 
+                    122
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    6, 
+                    14
+                ], 
+                [
+                    74, 
+                    82
+                ], 
+                [
+                    266, 
+                    274
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    33, 
+                    39
+                ], 
+                [
+                    191, 
+                    197
+                ], 
+                [
+                    244, 
+                    250
+                ], 
+                [
+                    407, 
+                    413
+                ]
+            ], 
+            "ref": "bureau:1024-2-b-Bureau"
+        }
+    ], 
+    "1024-17-l-4": [
+        {
+            "offsets": [
+                [
+                    52, 
+                    60
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-17-l-5": [
+        {
+            "offsets": [
+                [
+                    106, 
+                    120
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    84, 
+                    92
+                ], 
+                [
+                    152, 
+                    160
+                ], 
+                [
+                    198, 
+                    206
+                ], 
+                [
+                    331, 
+                    339
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    39, 
+                    45
+                ], 
+                [
+                    232, 
+                    238
+                ], 
+                [
+                    266, 
+                    272
+                ]
+            ], 
+            "ref": "bureau:1024-2-b-Bureau"
+        }
+    ], 
+    "1024-17-m": [
+        {
+            "offsets": [
+                [
+                    680, 
+                    711
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    507, 
+                    525
+                ]
+            ], 
+            "ref": "settlement service:1024-2-b-SettlementService"
+        }, 
+        {
+            "offsets": [
+                [
+                    274, 
+                    288
+                ], 
+                [
+                    408, 
+                    422
+                ], 
+                [
+                    606, 
+                    620
+                ], 
+                [
+                    659, 
+                    673
+                ]
+            ], 
+            "ref": "escrow account:1024-17-b-EscrowAccount"
+        }, 
+        {
+            "offsets": [
+                [
+                    100, 
+                    109
+                ]
+            ], 
+            "ref": "insurance:1024-17-b-EscrowAccountItemOrSeparateItem"
+        }, 
+        {
+            "offsets": [
+                [
+                    547, 
+                    555
+                ], 
+                [
+                    627, 
+                    635
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    461, 
+                    467
+                ]
+            ], 
+            "ref": "lender:1024-2-b-Lender"
         }
     ], 
     "1024-18": [
@@ -2489,6 +6747,1428 @@
                 ]
             ], 
             "ref": "lender:1024-2-b-Lender"
+        }
+    ], 
+    "1024-21-a-MasterServicer": [
+        {
+            "offsets": [
+                [
+                    138, 
+                    149
+                ]
+            ], 
+            "ref": "subservicer:1024-21-a-Subservicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    56, 
+                    65
+                ], 
+                [
+                    98, 
+                    107
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }
+    ], 
+    "1024-21-a-MortgageServicingLoan": [
+        {
+            "offsets": [
+                [
+                    32, 
+                    63
+                ]
+            ], 
+            "ref": "federally related mortgage loan:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    150, 
+                    163
+                ]
+            ], 
+            "ref": "mortgage loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    335, 
+                    347
+                ]
+            ], 
+            "ref": "regulation z:1024-2-b-RegulationZ"
+        }
+    ], 
+    "1024-21-a-QualifiedWrittenRequest": [
+        {
+            "offsets": [
+                [
+                    82, 
+                    90
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-a-Subservicer": [
+        {
+            "offsets": [
+                [
+                    111, 
+                    126
+                ]
+            ], 
+            "ref": "master servicer:1024-21-a-MasterServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    67, 
+                    76
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    20, 
+                    28
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-a-TransfereeServicer": [
+        {
+            "offsets": [
+                [
+                    89, 
+                    98
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    28, 
+                    36
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-a-TransferorServicer": [
+        {
+            "offsets": [
+                [
+                    64, 
+                    79
+                ]
+            ], 
+            "ref": "mortgage broker:1024-2-b-MortgageBroker"
+        }, 
+        {
+            "offsets": [
+                [
+                    50, 
+                    63
+                ]
+            ], 
+            "ref": "table funding:1024-2-b-TableFunding"
+        }, 
+        {
+            "offsets": [
+                [
+                    171, 
+                    180
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    28, 
+                    36
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    83, 
+                    89
+                ], 
+                [
+                    106, 
+                    112
+                ]
+            ], 
+            "ref": "dealer:1024-2-b-Dealer"
+        }
+    ], 
+    "1024-21-b": [
+        {
+            "offsets": [
+                [
+                    4, 
+                    13
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }
+    ], 
+    "1024-21-b-1": [
+        {
+            "offsets": [
+                [
+                    37, 
+                    60
+                ]
+            ], 
+            "ref": "mortgage servicing loan:1024-21-a-MortgageServicingLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    150, 
+                    165
+                ], 
+                [
+                    881, 
+                    896
+                ]
+            ], 
+            "ref": "mortgage broker:1024-2-b-MortgageBroker"
+        }, 
+        {
+            "offsets": [
+                [
+                    188, 
+                    201
+                ], 
+                [
+                    867, 
+                    880
+                ]
+            ], 
+            "ref": "table funding:1024-2-b-TableFunding"
+        }, 
+        {
+            "offsets": [
+                [
+                    87, 
+                    100
+                ]
+            ], 
+            "ref": "business day:1024-2-b-BusinessDay"
+        }, 
+        {
+            "offsets": [
+                [
+                    19, 
+                    30
+                ], 
+                [
+                    125, 
+                    136
+                ]
+            ], 
+            "ref": "application:1024-2-b-Application"
+        }, 
+        {
+            "offsets": [
+                [
+                    313, 
+                    322
+                ], 
+                [
+                    362, 
+                    371
+                ], 
+                [
+                    461, 
+                    470
+                ], 
+                [
+                    583, 
+                    592
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    206, 
+                    212
+                ], 
+                [
+                    242, 
+                    248
+                ], 
+                [
+                    901, 
+                    907
+                ]
+            ], 
+            "ref": "dealer:1024-2-b-Dealer"
+        }, 
+        {
+            "offsets": [
+                [
+                    142, 
+                    148
+                ], 
+                [
+                    859, 
+                    865
+                ]
+            ], 
+            "ref": "lender:1024-2-b-Lender"
+        }
+    ], 
+    "1024-21-b-2": [
+        {
+            "offsets": [
+                [
+                    217, 
+                    232
+                ], 
+                [
+                    545, 
+                    560
+                ]
+            ], 
+            "ref": "mortgage broker:1024-2-b-MortgageBroker"
+        }, 
+        {
+            "offsets": [
+                [
+                    308, 
+                    321
+                ], 
+                [
+                    640, 
+                    653
+                ], 
+                [
+                    805, 
+                    818
+                ]
+            ], 
+            "ref": "mortgage loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    203, 
+                    216
+                ], 
+                [
+                    531, 
+                    544
+                ]
+            ], 
+            "ref": "table funding:1024-2-b-TableFunding"
+        }, 
+        {
+            "offsets": [
+                [
+                    8, 
+                    17
+                ], 
+                [
+                    65, 
+                    74
+                ], 
+                [
+                    291, 
+                    300
+                ], 
+                [
+                    493, 
+                    502
+                ], 
+                [
+                    623, 
+                    632
+                ], 
+                [
+                    787, 
+                    796
+                ], 
+                [
+                    911, 
+                    920
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    237, 
+                    243
+                ], 
+                [
+                    260, 
+                    266
+                ], 
+                [
+                    565, 
+                    571
+                ], 
+                [
+                    588, 
+                    594
+                ]
+            ], 
+            "ref": "dealer:1024-2-b-Dealer"
+        }, 
+        {
+            "offsets": [
+                [
+                    195, 
+                    201
+                ], 
+                [
+                    523, 
+                    529
+                ]
+            ], 
+            "ref": "lender:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    896, 
+                    901
+                ]
+            ], 
+            "ref": "state:1024-2-b-State"
+        }
+    ], 
+    "1024-21-c": [
+        {
+            "offsets": [
+                [
+                    72, 
+                    87
+                ]
+            ], 
+            "ref": "mortgage broker:1024-2-b-MortgageBroker"
+        }, 
+        {
+            "offsets": [
+                [
+                    58, 
+                    71
+                ]
+            ], 
+            "ref": "table funding:1024-2-b-TableFunding"
+        }, 
+        {
+            "offsets": [
+                [
+                    199, 
+                    212
+                ]
+            ], 
+            "ref": "business day:1024-2-b-BusinessDay"
+        }, 
+        {
+            "offsets": [
+                [
+                    233, 
+                    244
+                ], 
+                [
+                    553, 
+                    564
+                ], 
+                [
+                    673, 
+                    684
+                ]
+            ], 
+            "ref": "application:1024-2-b-Application"
+        }, 
+        {
+            "offsets": [
+                [
+                    4, 
+                    13
+                ], 
+                [
+                    159, 
+                    168
+                ], 
+                [
+                    441, 
+                    450
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    92, 
+                    98
+                ], 
+                [
+                    129, 
+                    135
+                ]
+            ], 
+            "ref": "dealer:1024-2-b-Dealer"
+        }, 
+        {
+            "offsets": [
+                [
+                    50, 
+                    56
+                ]
+            ], 
+            "ref": "lender:1024-2-b-Lender"
+        }
+    ], 
+    "1024-21-d": [
+        {
+            "offsets": [
+                [
+                    30, 
+                    39
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }
+    ], 
+    "1024-21-d-1-i": [
+        {
+            "offsets": [
+                [
+                    148, 
+                    171
+                ]
+            ], 
+            "ref": "mortgage servicing loan:1024-21-a-MortgageServicingLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    97, 
+                    116
+                ]
+            ], 
+            "ref": "transferor servicer:1024-21-a-TransferorServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    121, 
+                    140
+                ]
+            ], 
+            "ref": "transferee servicer:1024-21-a-TransfereeServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    452, 
+                    465
+                ]
+            ], 
+            "ref": "mortgage loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    350, 
+                    359
+                ], 
+                [
+                    466, 
+                    475
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }
+    ], 
+    "1024-21-d-1-i-B": [
+        {
+            "offsets": [
+                [
+                    69, 
+                    81
+                ]
+            ], 
+            "ref": "subservicer:1024-21-a-Subservicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    56, 
+                    65
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-d-1-i-C": [
+        {
+            "offsets": [
+                [
+                    22, 
+                    38
+                ]
+            ], 
+            "ref": "master servicer:1024-21-a-MasterServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    50, 
+                    61
+                ]
+            ], 
+            "ref": "subservicer:1024-21-a-Subservicer"
+        }
+    ], 
+    "1024-21-d-2-i-A": [
+        {
+            "offsets": [
+                [
+                    169, 
+                    192
+                ]
+            ], 
+            "ref": "mortgage servicing loan:1024-21-a-MortgageServicingLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    8, 
+                    27
+                ]
+            ], 
+            "ref": "transferor servicer:1024-21-a-TransferorServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    152, 
+                    161
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }
+    ], 
+    "1024-21-d-2-i-B": [
+        {
+            "offsets": [
+                [
+                    8, 
+                    27
+                ]
+            ], 
+            "ref": "transferee servicer:1024-21-a-TransfereeServicer"
+        }
+    ], 
+    "1024-21-d-2-i-C": [
+        {
+            "offsets": [
+                [
+                    216, 
+                    239
+                ]
+            ], 
+            "ref": "mortgage servicing loan:1024-21-a-MortgageServicingLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    23, 
+                    43
+                ]
+            ], 
+            "ref": "transferee servicer:1024-21-a-TransfereeServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    199, 
+                    208
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }
+    ], 
+    "1024-21-d-2-ii": [
+        {
+            "offsets": [
+                [
+                    204, 
+                    227
+                ]
+            ], 
+            "ref": "mortgage servicing loan:1024-21-a-MortgageServicingLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    70, 
+                    89
+                ]
+            ], 
+            "ref": "transferor servicer:1024-21-a-TransferorServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    97, 
+                    116
+                ]
+            ], 
+            "ref": "transferee servicer:1024-21-a-TransfereeServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    187, 
+                    196
+                ], 
+                [
+                    265, 
+                    274
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }
+    ], 
+    "1024-21-d-2-ii-A": [
+        {
+            "offsets": [
+                [
+                    36, 
+                    45
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }
+    ], 
+    "1024-21-d-2-ii-B": [
+        {
+            "offsets": [
+                [
+                    54, 
+                    62
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-d-2-ii-C": [
+        {
+            "offsets": [
+                [
+                    127, 
+                    135
+                ], 
+                [
+                    175, 
+                    183
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-d-2-iii": [
+        {
+            "offsets": [
+                [
+                    57, 
+                    76
+                ]
+            ], 
+            "ref": "transferor servicer:1024-21-a-TransferorServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    81, 
+                    100
+                ]
+            ], 
+            "ref": "transferee servicer:1024-21-a-TransfereeServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    39, 
+                    49
+                ]
+            ], 
+            "ref": "settlement:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-21-d-3-i": [
+        {
+            "offsets": [
+                [
+                    42, 
+                    51
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }
+    ], 
+    "1024-21-d-3-ii": [
+        {
+            "offsets": [
+                [
+                    110, 
+                    136
+                ]
+            ], 
+            "ref": "qualified written request:1024-21-a-QualifiedWrittenRequest"
+        }, 
+        {
+            "offsets": [
+                [
+                    238, 
+                    257
+                ]
+            ], 
+            "ref": "transferee servicer:1024-21-a-TransfereeServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    75, 
+                    83
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-d-3-iii": [
+        {
+            "offsets": [
+                [
+                    88, 
+                    107
+                ]
+            ], 
+            "ref": "transferor servicer:1024-21-a-TransferorServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    161, 
+                    170
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }
+    ], 
+    "1024-21-d-3-iv": [
+        {
+            "offsets": [
+                [
+                    27, 
+                    46
+                ]
+            ], 
+            "ref": "transferor servicer:1024-21-a-TransferorServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    124, 
+                    143
+                ]
+            ], 
+            "ref": "transferee servicer:1024-21-a-TransfereeServicer"
+        }
+    ], 
+    "1024-21-d-3-vi": [
+        {
+            "offsets": [
+                [
+                    38, 
+                    47
+                ], 
+                [
+                    160, 
+                    169
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }
+    ], 
+    "1024-21-d-3-vii": [
+        {
+            "offsets": [
+                [
+                    225, 
+                    231
+                ]
+            ], 
+            "ref": "bureau:1024-2-b-Bureau"
+        }
+    ], 
+    "1024-21-d-4": [
+        {
+            "offsets": [
+                [
+                    279, 
+                    287
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-d-5": [
+        {
+            "offsets": [
+                [
+                    147, 
+                    170
+                ]
+            ], 
+            "ref": "mortgage servicing loan:1024-21-a-MortgageServicingLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    179, 
+                    198
+                ]
+            ], 
+            "ref": "transferor servicer:1024-21-a-TransferorServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    216, 
+                    235
+                ]
+            ], 
+            "ref": "transferee servicer:1024-21-a-TransfereeServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    43, 
+                    52
+                ], 
+                [
+                    130, 
+                    139
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }
+    ], 
+    "1024-21-e": [
+        {
+            "offsets": [
+                [
+                    17, 
+                    25
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-e-1": [
+        {
+            "offsets": [
+                [
+                    111, 
+                    138
+                ]
+            ], 
+            "ref": "a qualified written request:1024-21-e-2-i"
+        }, 
+        {
+            "offsets": [
+                [
+                    747, 
+                    773
+                ]
+            ], 
+            "ref": "qualified written request:1024-21-a-QualifiedWrittenRequest"
+        }, 
+        {
+            "offsets": [
+                [
+                    303, 
+                    328
+                ]
+            ], 
+            "ref": "qualified written request:1024-21-a-QualifiedWrittenRequest"
+        }, 
+        {
+            "offsets": [
+                [
+                    77, 
+                    100
+                ]
+            ], 
+            "ref": "mortgage servicing loan:1024-21-a-MortgageServicingLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    44, 
+                    57
+                ]
+            ], 
+            "ref": "business day:1024-2-b-BusinessDay"
+        }, 
+        {
+            "offsets": [
+                [
+                    189, 
+                    198
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    63, 
+                    71
+                ], 
+                [
+                    216, 
+                    224
+                ], 
+                [
+                    648, 
+                    656
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-e-2": [
+        {
+            "offsets": [
+                [
+                    4, 
+                    29
+                ]
+            ], 
+            "ref": "qualified written request:1024-21-a-QualifiedWrittenRequest"
+        }
+    ], 
+    "1024-21-e-2-i": [
+        {
+            "offsets": [
+                [
+                    495, 
+                    504
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    189, 
+                    197
+                ], 
+                [
+                    239, 
+                    247
+                ], 
+                [
+                    448, 
+                    456
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-e-2-ii": [
+        {
+            "offsets": [
+                [
+                    43, 
+                    70
+                ]
+            ], 
+            "ref": "a qualified written request:1024-21-e-2-i"
+        }, 
+        {
+            "offsets": [
+                [
+                    189, 
+                    212
+                ]
+            ], 
+            "ref": "mortgage servicing loan:1024-21-a-MortgageServicingLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    158, 
+                    167
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    95, 
+                    103
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-e-3": [
+        {
+            "offsets": [
+                [
+                    88, 
+                    115
+                ]
+            ], 
+            "ref": "a qualified written request:1024-21-e-2-i"
+        }, 
+        {
+            "offsets": [
+                [
+                    58, 
+                    71
+                ]
+            ], 
+            "ref": "business day:1024-2-b-BusinessDay"
+        }, 
+        {
+            "offsets": [
+                [
+                    213, 
+                    221
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-e-3-i": [
+        {
+            "offsets": [
+                [
+                    291, 
+                    299
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-e-3-ii-A": [
+        {
+            "offsets": [
+                [
+                    49, 
+                    57
+                ], 
+                [
+                    185, 
+                    193
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-e-3-ii-B": [
+        {
+            "offsets": [
+                [
+                    138, 
+                    146
+                ], 
+                [
+                    227, 
+                    235
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-e-4-i": [
+        {
+            "offsets": [
+                [
+                    102, 
+                    129
+                ]
+            ], 
+            "ref": "a qualified written request:1024-21-e-2-i"
+        }, 
+        {
+            "offsets": [
+                [
+                    276, 
+                    301
+                ]
+            ], 
+            "ref": "qualified written request:1024-21-a-QualifiedWrittenRequest"
+        }, 
+        {
+            "offsets": [
+                [
+                    18, 
+                    30
+                ]
+            ], 
+            "ref": "business day:1024-2-b-BusinessDay"
+        }, 
+        {
+            "offsets": [
+                [
+                    67, 
+                    75
+                ], 
+                [
+                    182, 
+                    190
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-e-4-ii": [
+        {
+            "offsets": [
+                [
+                    275, 
+                    288
+                ]
+            ], 
+            "ref": "mortgage loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    171, 
+                    179
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    161, 
+                    167
+                ]
+            ], 
+            "ref": "lender:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    38, 
+                    43
+                ]
+            ], 
+            "ref": "respa:1024-2-b-RESPA"
+        }
+    ], 
+    "1024-21-f-1-ii": [
+        {
+            "offsets": [
+                [
+                    484, 
+                    492
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-f-2": [
+        {
+            "offsets": [
+                [
+                    34, 
+                    53
+                ]
+            ], 
+            "ref": "transferee servicer:1024-21-a-TransfereeServicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    247, 
+                    255
+                ], 
+                [
+                    400, 
+                    408
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-21-g": [
+        {
+            "offsets": [
+                [
+                    53, 
+                    76
+                ]
+            ], 
+            "ref": "mortgage servicing loan:1024-21-a-MortgageServicingLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    282, 
+                    300
+                ]
+            ], 
+            "ref": "mortgaged property:1024-2-b-MortgagedProperty"
+        }, 
+        {
+            "offsets": [
+                [
+                    23, 
+                    31
+                ], 
+                [
+                    122, 
+                    130
+                ], 
+                [
+                    306, 
+                    314
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    163, 
+                    169
+                ], 
+                [
+                    344, 
+                    350
+                ]
+            ], 
+            "ref": "escrow:1024-2-b-Settlement"
+        }
+    ], 
+    "1024-21-h": [
+        {
+            "offsets": [
+                [
+                    51, 
+                    74
+                ]
+            ], 
+            "ref": "mortgage servicing loan:1024-21-a-MortgageServicingLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    223, 
+                    234
+                ], 
+                [
+                    417, 
+                    428
+                ]
+            ], 
+            "ref": "application:1024-2-b-Application"
+        }, 
+        {
+            "offsets": [
+                [
+                    261, 
+                    270
+                ], 
+                [
+                    459, 
+                    468
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    80, 
+                    88
+                ], 
+                [
+                    298, 
+                    306
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }, 
+        {
+            "offsets": [
+                [
+                    32, 
+                    38
+                ], 
+                [
+                    288, 
+                    294
+                ]
+            ], 
+            "ref": "lender:1024-2-b-Lender"
+        }, 
+        {
+            "offsets": [
+                [
+                    18, 
+                    23
+                ], 
+                [
+                    153, 
+                    158
+                ], 
+                [
+                    359, 
+                    364
+                ], 
+                [
+                    576, 
+                    581
+                ], 
+                [
+                    855, 
+                    860
+                ]
+            ], 
+            "ref": "state:1024-2-b-State"
+        }, 
+        {
+            "offsets": [
+                [
+                    710, 
+                    715
+                ]
+            ], 
+            "ref": "respa:1024-2-b-RESPA"
         }
     ], 
     "1024-22": [
@@ -9979,7 +15659,7 @@
             "ref": "settlement service:1024-2-b-SettlementService"
         }
     ], 
-    "1024-MS-1-h1-h2-p4": [
+    "1024-MS1-h1-h2-p4": [
         {
             "offsets": [
                 [
@@ -9990,7 +15670,7 @@
             "ref": "servicing:1024-2-b-Servicing"
         }
     ], 
-    "1024-MS-1-h1-h2-p6": [
+    "1024-MS1-h1-h2-p6": [
         {
             "offsets": [
                 [
@@ -10019,7 +15699,7 @@
             "ref": "servicing:1024-2-b-Servicing"
         }
     ], 
-    "1024-MS-1-h1-h2-p8": [
+    "1024-MS1-h1-h2-p8": [
         {
             "offsets": [
                 [
@@ -10030,7 +15710,7 @@
             "ref": "servicing:1024-2-b-Servicing"
         }
     ], 
-    "1024-MS-1-h1-h2-p9": [
+    "1024-MS1-h1-h2-p9": [
         {
             "offsets": [
                 [
@@ -10041,7 +15721,7 @@
             "ref": "servicing:1024-2-b-Servicing"
         }
     ], 
-    "1024-MS-1-h1-p3": [
+    "1024-MS1-h1-p3": [
         {
             "offsets": [
                 [
@@ -10105,7 +15785,7 @@
             "ref": "respa:1024-2-b-RESPA"
         }
     ], 
-    "1024-MS-2-h1-h2-p1": [
+    "1024-MS2-h1-h2-p1": [
         {
             "offsets": [
                 [
@@ -10125,7 +15805,7 @@
             "ref": "servicing:1024-2-b-Servicing"
         }
     ], 
-    "1024-MS-2-h1-h2-p10": [
+    "1024-MS2-h1-h2-p10": [
         {
             "offsets": [
                 [
@@ -10149,7 +15829,7 @@
             "ref": "servicer:1024-2-b-Servicer"
         }
     ], 
-    "1024-MS-2-h1-h2-p11": [
+    "1024-MS2-h1-h2-p11": [
         {
             "offsets": [
                 [
@@ -10168,7 +15848,7 @@
             "ref": "servicer:1024-2-b-Servicer"
         }
     ], 
-    "1024-MS-2-h1-h2-p12": [
+    "1024-MS2-h1-h2-p12": [
         {
             "offsets": [
                 [
@@ -10179,7 +15859,7 @@
             "ref": "servicing:1024-2-b-Servicing"
         }
     ], 
-    "1024-MS-2-h1-h2-p2": [
+    "1024-MS2-h1-h2-p2": [
         {
             "offsets": [
                 [
@@ -10203,7 +15883,7 @@
             "ref": "servicing:1024-2-b-Servicing"
         }
     ], 
-    "1024-MS-2-h1-h2-p23": [
+    "1024-MS2-h1-h2-p23": [
         {
             "offsets": [
                 [
@@ -10223,7 +15903,7 @@
             "ref": "respa:1024-2-b-RESPA"
         }
     ], 
-    "1024-MS-2-h1-h2-p24": [
+    "1024-MS2-h1-h2-p24": [
         {
             "offsets": [
                 [
@@ -10247,7 +15927,7 @@
             "ref": "servicer:1024-2-b-Servicer"
         }
     ], 
-    "1024-MS-2-h1-h2-p25": [
+    "1024-MS2-h1-h2-p25": [
         {
             "offsets": [
                 [
@@ -10297,7 +15977,7 @@
             "ref": "respa:1024-2-b-RESPA"
         }
     ], 
-    "1024-MS-2-h1-h2-p27": [
+    "1024-MS2-h1-h2-p27": [
         {
             "offsets": [
                 [
@@ -10334,7 +16014,7 @@
             "ref": "servicer:1024-2-b-Servicer"
         }
     ], 
-    "1024-MS-2-h1-h2-p28": [
+    "1024-MS2-h1-h2-p28": [
         {
             "offsets": [
                 [
@@ -10345,7 +16025,7 @@
             "ref": "business day:1024-2-b-BusinessDay"
         }
     ], 
-    "1024-MS-2-h1-h2-p29": [
+    "1024-MS2-h1-h2-p29": [
         {
             "offsets": [
                 [
@@ -10365,7 +16045,7 @@
             "ref": "respa:1024-2-b-RESPA"
         }
     ], 
-    "1024-MS-2-h1-h2-p3": [
+    "1024-MS2-h1-h2-p3": [
         {
             "offsets": [
                 [
@@ -10393,7 +16073,7 @@
             "ref": "closing:1024-2-b-Settlement"
         }
     ], 
-    "1024-MS-2-h1-h2-p30": [
+    "1024-MS2-h1-h2-p30": [
         {
             "offsets": [
                 [
@@ -10422,7 +16102,7 @@
             "ref": "lender:1024-2-b-Lender"
         }
     ], 
-    "1024-MS-2-h1-h2-p32": [
+    "1024-MS2-h1-h2-p32": [
         {
             "offsets": [
                 [
@@ -10433,7 +16113,7 @@
             "ref": "servicer:1024-2-b-Servicer"
         }
     ], 
-    "1024-MS-2-h1-h2-p38": [
+    "1024-MS2-h1-h2-p38": [
         {
             "offsets": [
                 [
@@ -10444,7 +16124,7 @@
             "ref": "servicer:1024-2-b-Servicer"
         }
     ], 
-    "1024-MS-2-h1-h2-p4": [
+    "1024-MS2-h1-h2-p4": [
         {
             "offsets": [
                 [
@@ -10468,7 +16148,7 @@
             "ref": "servicer:1024-2-b-Servicer"
         }
     ], 
-    "1024-MS-2-h1-h2-p6": [
+    "1024-MS2-h1-h2-p6": [
         {
             "offsets": [
                 [
@@ -10479,7 +16159,7 @@
             "ref": "servicer:1024-2-b-Servicer"
         }
     ], 
-    "1024-MS-2-h1-h2-p7": [
+    "1024-MS2-h1-h2-p7": [
         {
             "offsets": [
                 [
@@ -10491,6 +16171,38 @@
         }
     ], 
     "referenced": {
+        "a qualified written request:1024-21-e-2-i": {
+            "position": [
+                51, 
+                78
+            ], 
+            "reference": "1024-21-e-2-i", 
+            "term": "a qualified written request"
+        }, 
+        "affiliate relationship:1024-15-c-AffiliateRelationship": {
+            "position": [
+                0, 
+                22
+            ], 
+            "reference": "1024-15-c-AffiliateRelationship", 
+            "term": "affiliate relationship"
+        }, 
+        "affiliate relationship:1024-15-c-Control,AsUsedInTheDefinitionsOf\u201cassociate\u201dAnd\u201caffiliateRelationship,\u201d": {
+            "position": [
+                56, 
+                78
+            ], 
+            "reference": "1024-15-c-Control,AsUsedInTheDefinitionsOf\u201cassociate\u201dAnd\u201caffiliateRelationship,\u201d", 
+            "term": "affiliate relationship"
+        }, 
+        "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement": {
+            "position": [
+                0, 
+                31
+            ], 
+            "reference": "1024-17-b-AnnualEscrowAccountStatement", 
+            "term": "annual escrow account statement"
+        }, 
         "application:1024-2-b-Application": {
             "position": [
                 0, 
@@ -10499,6 +16211,14 @@
             "reference": "1024-2-b-Application", 
             "term": "application"
         }, 
+        "associate:1024-15-c-Control,AsUsedInTheDefinitionsOf\u201cassociate\u201dAnd\u201caffiliateRelationship,\u201d": {
+            "position": [
+                40, 
+                49
+            ], 
+            "reference": "1024-15-c-Control,AsUsedInTheDefinitionsOf\u201cassociate\u201dAnd\u201caffiliateRelationship,\u201d", 
+            "term": "associate"
+        }, 
         "balloon payment:1024-2-b-def0": {
             "position": [
                 0, 
@@ -10506,6 +16226,14 @@
             ], 
             "reference": "1024-2-b-def0", 
             "term": "balloon payment"
+        }, 
+        "beneficial ownership:1024-15-c-BeneficialOwnership": {
+            "position": [
+                0, 
+                20
+            ], 
+            "reference": "1024-15-c-BeneficialOwnership", 
+            "term": "beneficial ownership"
         }, 
         "bureau:1024-2-b-Bureau": {
             "position": [
@@ -10571,6 +16299,54 @@
             "reference": "1024-2-b-Dealer", 
             "term": "dealer"
         }, 
+        "delivery:1024-17-b-Delivery": {
+            "position": [
+                0, 
+                8
+            ], 
+            "reference": "1024-17-b-Delivery", 
+            "term": "delivery"
+        }, 
+        "direct ownership:1024-15-c-DirectOwnership": {
+            "position": [
+                0, 
+                16
+            ], 
+            "reference": "1024-15-c-DirectOwnership", 
+            "term": "direct ownership"
+        }, 
+        "disbursement date:1024-17-b-DisbursementDate": {
+            "position": [
+                0, 
+                17
+            ], 
+            "reference": "1024-17-b-DisbursementDate", 
+            "term": "disbursement date"
+        }, 
+        "escrow account analysis:1024-17-b-EscrowAccountAnalysis": {
+            "position": [
+                0, 
+                23
+            ], 
+            "reference": "1024-17-b-EscrowAccountAnalysis", 
+            "term": "escrow account analysis"
+        }, 
+        "escrow account item:1024-17-b-EscrowAccountItemOrSeparateItem": {
+            "position": [
+                0, 
+                19
+            ], 
+            "reference": "1024-17-b-EscrowAccountItemOrSeparateItem", 
+            "term": "escrow account item"
+        }, 
+        "escrow account:1024-17-b-EscrowAccount": {
+            "position": [
+                0, 
+                14
+            ], 
+            "reference": "1024-17-b-EscrowAccount", 
+            "term": "escrow account"
+        }, 
         "escrow:1024-2-b-Settlement": {
             "position": [
                 197, 
@@ -10603,6 +16379,14 @@
             "reference": "1024-2-b-Lender", 
             "term": "federally related mortgage loan"
         }, 
+        "ftc:1024-15-c-FTC": {
+            "position": [
+                0, 
+                3
+            ], 
+            "reference": "1024-15-c-FTC", 
+            "term": "ftc"
+        }, 
         "gfe:1024-2-b-GoodFaithEstimateOrGFE": {
             "position": [
                 23, 
@@ -10627,6 +16411,38 @@
             "reference": "1024-2-b-HUD", 
             "term": "hud"
         }, 
+        "impound account:1024-17-b-EscrowAccount": {
+            "position": [
+                460, 
+                475
+            ], 
+            "reference": "1024-17-b-EscrowAccount", 
+            "term": "impound account"
+        }, 
+        "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement": {
+            "position": [
+                0, 
+                32
+            ], 
+            "reference": "1024-17-b-InitialEscrowAccountStatement", 
+            "term": "initial escrow account statement"
+        }, 
+        "installment payment:1024-17-b-InstallmentPayment": {
+            "position": [
+                0, 
+                19
+            ], 
+            "reference": "1024-17-b-InstallmentPayment", 
+            "term": "installment payment"
+        }, 
+        "insurance:1024-17-b-EscrowAccountItemOrSeparateItem": {
+            "position": [
+                98, 
+                107
+            ], 
+            "reference": "1024-17-b-EscrowAccountItemOrSeparateItem", 
+            "term": "insurance"
+        }, 
         "lender:1024-2-b-Lender": {
             "position": [
                 0, 
@@ -10642,6 +16458,14 @@
             ], 
             "reference": "1024-2-b-LoanOriginator", 
             "term": "loan originator"
+        }, 
+        "master servicer:1024-21-a-MasterServicer": {
+            "position": [
+                0, 
+                15
+            ], 
+            "reference": "1024-21-a-MasterServicer", 
+            "term": "master servicer"
         }, 
         "mortgage broker:1024-2-b-MortgageBroker": {
             "position": [
@@ -10659,6 +16483,14 @@
             "reference": "1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan", 
             "term": "mortgage loan"
         }, 
+        "mortgage servicing loan:1024-21-a-MortgageServicingLoan": {
+            "position": [
+                0, 
+                23
+            ], 
+            "reference": "1024-21-a-MortgageServicingLoan", 
+            "term": "mortgage servicing loan"
+        }, 
         "mortgaged property:1024-2-b-MortgagedProperty": {
             "position": [
                 0, 
@@ -10675,6 +16507,30 @@
             "reference": "1024-2-b-OriginationService", 
             "term": "origination service"
         }, 
+        "payment due date:1024-17-b-PaymentDueDate": {
+            "position": [
+                0, 
+                16
+            ], 
+            "reference": "1024-17-b-PaymentDueDate", 
+            "term": "payment due date"
+        }, 
+        "penalty:1024-17-b-Penalty": {
+            "position": [
+                0, 
+                7
+            ], 
+            "reference": "1024-17-b-Penalty", 
+            "term": "penalty"
+        }, 
+        "person who is in a position to refer settlement service business:1024-15-c-PersonWhoIsInAPositionToReferSettlementServiceBusiness": {
+            "position": [
+                0, 
+                64
+            ], 
+            "reference": "1024-15-c-PersonWhoIsInAPositionToReferSettlementServiceBusiness", 
+            "term": "person who is in a position to refer settlement service business"
+        }, 
         "prepayment penalty:1024-2-b-def4": {
             "position": [
                 0, 
@@ -10690,6 +16546,14 @@
             ], 
             "reference": "1024-2-b-PublicGuidanceDocuments", 
             "term": "public guidance documents"
+        }, 
+        "qualified written request:1024-21-a-QualifiedWrittenRequest": {
+            "position": [
+                0, 
+                25
+            ], 
+            "reference": "1024-21-a-QualifiedWrittenRequest", 
+            "term": "qualified written request"
         }, 
         "refinancing:1024-2-b-Refinancing": {
             "position": [
@@ -10715,6 +16579,14 @@
             "reference": "1024-2-b-RequiredUse", 
             "term": "required use"
         }, 
+        "reserve account:1024-17-b-EscrowAccount": {
+            "position": [
+                441, 
+                456
+            ], 
+            "reference": "1024-17-b-EscrowAccount", 
+            "term": "reserve account"
+        }, 
         "residential real estate loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-D": {
             "position": [
                 363, 
@@ -10738,6 +16610,14 @@
             ], 
             "reference": "1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F", 
             "term": "reverse mortgage"
+        }, 
+        "separate item:1024-17-b-EscrowAccountItemOrSeparateItem": {
+            "position": [
+                23, 
+                36
+            ], 
+            "reference": "1024-17-b-EscrowAccountItemOrSeparateItem", 
+            "term": "separate item"
         }, 
         "servicer:1024-2-b-Servicer": {
             "position": [
@@ -10771,6 +16651,22 @@
             "reference": "1024-2-b-Settlement", 
             "term": "settlement"
         }, 
+        "shortage:1024-17-b-Shortage": {
+            "position": [
+                0, 
+                8
+            ], 
+            "reference": "1024-17-b-Shortage", 
+            "term": "shortage"
+        }, 
+        "single-item analysis:1024-17-b-Single-itemAnalysis": {
+            "position": [
+                0, 
+                20
+            ], 
+            "reference": "1024-17-b-Single-itemAnalysis", 
+            "term": "single-item analysis"
+        }, 
         "special information booklet:1024-2-b-SpecialInformationBooklet": {
             "position": [
                 0, 
@@ -10787,6 +16683,30 @@
             "reference": "1024-2-b-State", 
             "term": "state"
         }, 
+        "subservicer:1024-21-a-Subservicer": {
+            "position": [
+                0, 
+                11
+            ], 
+            "reference": "1024-21-a-Subservicer", 
+            "term": "subservicer"
+        }, 
+        "surplus:1024-17-b-Surplus": {
+            "position": [
+                0, 
+                7
+            ], 
+            "reference": "1024-17-b-Surplus", 
+            "term": "surplus"
+        }, 
+        "system of recordkeeping:1024-17-b-SystemOfRecordkeeping": {
+            "position": [
+                0, 
+                23
+            ], 
+            "reference": "1024-17-b-SystemOfRecordkeeping", 
+            "term": "system of recordkeeping"
+        }, 
         "table funding:1024-2-b-TableFunding": {
             "position": [
                 0, 
@@ -10794,6 +16714,22 @@
             ], 
             "reference": "1024-2-b-TableFunding", 
             "term": "table funding"
+        }, 
+        "target balance:1024-17-b-TargetBalance": {
+            "position": [
+                0, 
+                14
+            ], 
+            "reference": "1024-17-b-TargetBalance", 
+            "term": "target balance"
+        }, 
+        "taxes:1024-17-b-EscrowAccountItemOrSeparateItem": {
+            "position": [
+                87, 
+                92
+            ], 
+            "reference": "1024-17-b-EscrowAccountItemOrSeparateItem", 
+            "term": "taxes"
         }, 
         "third party:1024-2-b-ThirdParty": {
             "position": [
@@ -10826,6 +16762,38 @@
             ], 
             "reference": "1024-2-b-Tolerance", 
             "term": "tolerance"
+        }, 
+        "transferee servicer:1024-21-a-TransfereeServicer": {
+            "position": [
+                0, 
+                19
+            ], 
+            "reference": "1024-21-a-TransfereeServicer", 
+            "term": "transferee servicer"
+        }, 
+        "transferor servicer:1024-21-a-TransferorServicer": {
+            "position": [
+                0, 
+                19
+            ], 
+            "reference": "1024-21-a-TransferorServicer", 
+            "term": "transferor servicer"
+        }, 
+        "trial running balance:1024-17-b-TrialRunningBalance": {
+            "position": [
+                0, 
+                21
+            ], 
+            "reference": "1024-17-b-TrialRunningBalance", 
+            "term": "trial running balance"
+        }, 
+        "trust account:1024-17-b-EscrowAccount": {
+            "position": [
+                424, 
+                437
+            ], 
+            "reference": "1024-17-b-EscrowAccount", 
+            "term": "trust account"
         }
     }
 }

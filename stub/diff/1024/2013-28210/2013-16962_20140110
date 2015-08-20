@@ -1011,23 +1011,6 @@
             ]
         ]
     }, 
-    "1024-5-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-5-c-Interp"
-            ], 
-            "label": [
-                "1024", 
-                "5", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "\u00a7 1024.5\u2014Coverage of RESPA"
-        }, 
-        "op": "added"
-    }, 
     "1024-5-a": {
         "op": "modified", 
         "text": [
@@ -1101,65 +1084,27 @@
             ]
         ]
     }, 
-    "1024-5-c-1-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-5-c-1-Interp-1"
-            ], 
-            "label": [
-                "1024", 
-                "5", 
-                "c", 
-                "1", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "Paragraph 5(c)(1)."
-        }, 
-        "op": "added"
-    }, 
-    "1024-5-c-1-Interp-1": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "5", 
-                "c", 
-                "1", 
-                "Interp", 
-                "1"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "1. State laws that are inconsistent with the requirements of RESPA or Regulation X may be preempted by RESPA or Regulation X. State laws that give greater protection to consumers are not inconsistent with and are not preempted by RESPA or Regulation X. In addition, nothing in RESPA or Regulation X should be construed to preempt the entire field of regulation of the practices covered by RESPA or Regulation X, including the regulations in Subpart C with respect to mortgage servicers or mortgage servicing.", 
-            "text": "1. State laws that are inconsistent with the requirements of RESPA or Regulation X may be preempted by RESPA or Regulation X. State laws that give greater protection to consumers are not inconsistent with and are not preempted by RESPA or Regulation X. In addition, nothing in RESPA or Regulation X should be construed to preempt the entire field of regulation of the practices covered by RESPA or Regulation X, including the regulations in Subpart C with respect to mortgage servicers or mortgage servicing.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-5-c-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-5-c-1-Interp"
-            ], 
-            "label": [
-                "1024", 
-                "5", 
-                "c", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "5(c) Relation to State laws."
-        }, 
-        "op": "added"
-    }, 
     "1024-5-d": {
         "op": "deleted"
     }, 
     "1024-5-d-2": {
         "op": "deleted"
+    }, 
+    "1024-MS-3(D)": {
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    111, 
+                    113
+                ], 
+                [
+                    "insert", 
+                    111, 
+                    "By to"
+                ]
+            ]
+        ]
     }
 }
