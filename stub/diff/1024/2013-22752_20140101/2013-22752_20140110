@@ -1017,8 +1017,6 @@
     "1024-31": {
         "node": {
             "child_labels": [
-                "1024-31-1", 
-                "1024-31-2", 
                 "1024-31-Day", 
                 "1024-31-HazardInsurance", 
                 "1024-31-LossMitigationApplication", 
@@ -1042,36 +1040,6 @@
             "tagged_text": "\n                ", 
             "text": "\n                ", 
             "title": "\u00a7 1024.31 Definitions."
-        }, 
-        "op": "added"
-    }, 
-    "1024-31-1": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "31", 
-                "1"
-            ], 
-            "node_type": "regtext", 
-            "tagged_text": "(1) States the reasons the borrower believes the account is in error; or", 
-            "text": "(1) States the reasons the borrower believes the account is in error; or", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-31-2": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "31", 
-                "2"
-            ], 
-            "node_type": "regtext", 
-            "tagged_text": "(2) Provides sufficient detail to the servicer regarding information relating to the servicing of the mortgage loan sought by the borrower.", 
-            "text": "(2) Provides sufficient detail to the servicer regarding information relating to the servicing of the mortgage loan sought by the borrower.", 
-            "title": null
         }, 
         "op": "added"
     }, 
@@ -1363,7 +1331,10 @@
     }, 
     "1024-31-QualifiedWrittenRequest": {
         "node": {
-            "child_labels": [], 
+            "child_labels": [
+                "1024-31-QualifiedWrittenRequest-1", 
+                "1024-31-QualifiedWrittenRequest-2"
+            ], 
             "label": [
                 "1024", 
                 "31", 
@@ -1372,6 +1343,38 @@
             "node_type": "regtext", 
             "tagged_text": "\n                  <E T=\"03\">Qualified written request</E>means a written correspondence from the borrower to the servicer that includes, or otherwise enables the servicer to identify, the name and account of the borrower, and either:", 
             "text": "Qualified written request means a written correspondence from the borrower to the servicer that includes, or otherwise enables the servicer to identify, the name and account of the borrower, and either:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-31-QualifiedWrittenRequest-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "31", 
+                "QualifiedWrittenRequest", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) States the reasons the borrower believes the account is in error; or", 
+            "text": "(1) States the reasons the borrower believes the account is in error; or", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-31-QualifiedWrittenRequest-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "31", 
+                "QualifiedWrittenRequest", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) Provides sufficient detail to the servicer regarding information relating to the servicing of the mortgage loan sought by the borrower.", 
+            "text": "(2) Provides sufficient detail to the servicer regarding information relating to the servicing of the mortgage loan sought by the borrower.", 
             "title": null
         }, 
         "op": "added"
@@ -11440,7 +11443,7 @@
             ], 
             "node_type": "regtext", 
             "tagged_text": "(2)<E T=\"03\">Incomplete loss mitigation application evaluation.</E>", 
-            "text": "(2) Incomplete loss mitigation application evaluation. ", 
+            "text": "(2) Incomplete loss mitigation application evaluation.", 
             "title": null
         }, 
         "op": "added"
@@ -13127,6 +13130,7 @@
         "node": {
             "child_labels": [
                 "1024-MS-1-h1", 
+                "1024-MS-1-h2", 
                 "1024-MS-1-h3"
             ], 
             "label": [
@@ -13137,7 +13141,7 @@
             "node_type": "appendix", 
             "tagged_text": null, 
             "text": "", 
-            "title": "MS-1 to Part 1024"
+            "title": "Appendix MS-1 to Part 1024"
         }, 
         "op": "added"
     }, 
@@ -13145,8 +13149,7 @@
         "node": {
             "child_labels": [
                 "1024-MS-1-h1-p1", 
-                "1024-MS-1-h1-p2", 
-                "1024-MS-1-h1-h2"
+                "1024-MS-1-h1-p2"
             ], 
             "label": [
                 "1024", 
@@ -13158,43 +13161,6 @@
             "tagged_text": null, 
             "text": "", 
             "title": "Servicing Disclosure Statement"
-        }, 
-        "op": "added"
-    }, 
-    "1024-MS-1-h1-h2": {
-        "node": {
-            "child_labels": [
-                "1024-MS-1-h1-h2-p3"
-            ], 
-            "label": [
-                "1024", 
-                "MS", 
-                "1", 
-                "h1", 
-                "h2"
-            ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "SERVICING DISCLOSURE STATEMENT NOTICE TO FIRST LIEN MORTGAGE LOAN APPLICANTS: THE RIGHT TO COLLECT YOUR MORTGAGE LOAN PAYMENTS MAY BE TRANSFERRED"
-        }, 
-        "op": "added"
-    }, 
-    "1024-MS-1-h1-h2-p3": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "MS", 
-                "1", 
-                "h1", 
-                "h2", 
-                "p3"
-            ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "You are applying for a mortgage loan covered by the Real Estate Settlement Procedures Act (RESPA) (12 U.S.C. 2601 et seq.). RESPA gives you certain rights under Federal law. This statement describes whether the servicing for this loan may be transferred to a different loan servicer. \u201cServicing\u201d refers to collecting your principal, interest, and escrow payments, if any, as well as sending any monthly or annual statements, tracking account balances, and handling other aspects of your loan. You will be given advance notice before a transfer occurs.", 
-            "title": null
         }, 
         "op": "added"
     }, 
@@ -13228,6 +13194,41 @@
             "node_type": "appendix", 
             "tagged_text": null, 
             "text": "[Date]", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-MS-1-h2": {
+        "node": {
+            "child_labels": [
+                "1024-MS-1-h2-p3"
+            ], 
+            "label": [
+                "1024", 
+                "MS", 
+                "1", 
+                "h2"
+            ], 
+            "node_type": "appendix", 
+            "tagged_text": null, 
+            "text": "", 
+            "title": "SERVICING DISCLOSURE STATEMENT NOTICE TO FIRST LIEN MORTGAGE LOAN APPLICANTS: THE RIGHT TO COLLECT YOUR MORTGAGE LOAN PAYMENTS MAY BE TRANSFERRED"
+        }, 
+        "op": "added"
+    }, 
+    "1024-MS-1-h2-p3": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "MS", 
+                "1", 
+                "h2", 
+                "p3"
+            ], 
+            "node_type": "appendix", 
+            "tagged_text": null, 
+            "text": "You are applying for a mortgage loan covered by the Real Estate Settlement Procedures Act (RESPA) (12 U.S.C. 2601 et seq.). RESPA gives you certain rights under Federal law. This statement describes whether the servicing for this loan may be transferred to a different loan servicer. \u201cServicing\u201d refers to collecting your principal, interest, and escrow payments, if any, as well as sending any monthly or annual statements, tracking account balances, and handling other aspects of your loan. You will be given advance notice before a transfer occurs.", 
             "title": null
         }, 
         "op": "added"
@@ -13370,7 +13371,7 @@
             "node_type": "appendix", 
             "tagged_text": null, 
             "text": "", 
-            "title": "MS-2 to Part 1024"
+            "title": "Appendix MS-2 to Part 1024"
         }, 
         "op": "added"
     }, 
@@ -13508,7 +13509,7 @@
             ], 
             "node_type": "appendix", 
             "tagged_text": null, 
-            "text": "|||\n|---|---|\n|Current Servicer:|New Servicer:|\n|[Name of present servicer]|[Name of new servicer]|\n|[Individual or Department]|[Individual or Department]|\n|[Telephone Number]|[Telephone Number]|\n|[Address]|[Address]|", 
+            "text": "|Current Servicer:|New Servicer:|\n|---|---|\n|[Name of present servicer]|[Name of new servicer]|\n|[Individual or Department]|[Individual or Department]|\n|[Telephone Number]|[Telephone Number]|\n|[Address]|[Address]|", 
             "title": null
         }, 
         "op": "added"
@@ -13764,7 +13765,7 @@
             "node_type": "appendix", 
             "tagged_text": null, 
             "text": "", 
-            "title": "MS-3 to Part 1024"
+            "title": "Appendix MS-3 to Part 1024"
         }, 
         "op": "added"
     }, 
@@ -14848,7 +14849,7 @@
             "node_type": "appendix", 
             "tagged_text": null, 
             "text": "", 
-            "title": "MS-4 to Part 1024"
+            "title": "Appendix MS-4 to Part 1024"
         }, 
         "op": "added"
     }, 

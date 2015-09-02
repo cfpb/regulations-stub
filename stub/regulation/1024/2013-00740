@@ -8092,47 +8092,7 @@
                                     "title": "Settlement: May 15"
                                 }, 
                                 {
-                                    "children": [
-                                        {
-                                            "children": [], 
-                                            "label": [
-                                                "1024", 
-                                                "E", 
-                                                "h1", 
-                                                "h2", 
-                                                "h6", 
-                                                "p5"
-                                            ], 
-                                            "node_type": "appendix", 
-                                            "text": "||Aggregate|pmt|disb|bal|\n|---|---|---|---|---|\n|Jun|0|0|0|\n|Jul|130|500|\u2212370|\n|Aug|130|0|\u2212240|\n|Sep|130|360|\u2212470|\n|Oct|130|0|\u2212340|\n|Nov|130|0|\u2212210|\n|Dec|130|700|\u2212780|\n|Jan|130|0|\u2212650|\n|Feb|130|0|\u2212520|\n|Mar|130|0|\u2212390|\n|Apr|130|0|\u2212260|\n|May|130|0|\u2212130|\n|Jun|130|0|0|"
-                                        }, 
-                                        {
-                                            "children": [], 
-                                            "label": [
-                                                "1024", 
-                                                "E", 
-                                                "h1", 
-                                                "h2", 
-                                                "h6", 
-                                                "p6"
-                                            ], 
-                                            "node_type": "appendix", 
-                                            "text": "||Aggregate|pmt|disb|bal|\n|---|---|---|---|---|\n|Jun|0|0|780|\n|Jul|130|500|410|\n|Aug|130|0|540|\n|Sep|130|360|310|\n|Oct|130|0|440|\n|Nov|130|0|570|\n|Dec|130|700|0|\n|Jan|130|0|130|\n|Feb|130|0|260|\n|Mar|130|0|390|\n|Apr|130|0|520|\n|May|130|0|650|\n|Jun|130|0|780|"
-                                        }, 
-                                        {
-                                            "children": [], 
-                                            "label": [
-                                                "1024", 
-                                                "E", 
-                                                "h1", 
-                                                "h2", 
-                                                "h6", 
-                                                "p7"
-                                            ], 
-                                            "node_type": "appendix", 
-                                            "text": "||Aggregate|pmt|disb|bal|\n|---|---|---|---|---|\n|Jun|0|0|1040|\n|Jul|130|500|670|\n|Aug|130|0|800|\n|Sep|130|360|570|\n|Oct|130|0|700|\n|Nov|130|0|830|\n|Dec|130|700|260|\n|Jan|130|0|390|\n|Feb|130|0|520|\n|Mar|130|0|650|\n|Apr|130|0|780|\n|May|130|0|910|\n|Jun|130|0|1040|"
-                                        }
-                                    ], 
+                                    "children": [], 
                                     "label": [
                                         "1024", 
                                         "E", 
@@ -8143,6 +8103,100 @@
                                     "node_type": "appendix", 
                                     "text": "", 
                                     "title": "First Payment: July 1"
+                                }, 
+                                {
+                                    "children": [
+                                        {
+                                            "children": [], 
+                                            "label": [
+                                                "1024", 
+                                                "E", 
+                                                "h1", 
+                                                "h2", 
+                                                "h7", 
+                                                "p5"
+                                            ], 
+                                            "node_type": "appendix", 
+                                            "text": "||Aggregate|pmt|disb|bal|\n|---|---|---|---|---|\n|Jun|0|0|0|\n|Jul|130|500|\u2212370|\n|Aug|130|0|\u2212240|\n|Sep|130|360|\u2212470|\n|Oct|130|0|\u2212340|\n|Nov|130|0|\u2212210|\n|Dec|130|700|\u2212780|\n|Jan|130|0|\u2212650|\n|Feb|130|0|\u2212520|\n|Mar|130|0|\u2212390|\n|Apr|130|0|\u2212260|\n|May|130|0|\u2212130|\n|Jun|130|0|0|"
+                                        }
+                                    ], 
+                                    "label": [
+                                        "1024", 
+                                        "E", 
+                                        "h1", 
+                                        "h2", 
+                                        "h7"
+                                    ], 
+                                    "node_type": "appendix", 
+                                    "text": "", 
+                                    "title": "Step 1\u2014Initial Trial Balance"
+                                }, 
+                                {
+                                    "children": [
+                                        {
+                                            "children": [], 
+                                            "label": [
+                                                "1024", 
+                                                "E", 
+                                                "h1", 
+                                                "h2", 
+                                                "h8", 
+                                                "p6"
+                                            ], 
+                                            "node_type": "appendix", 
+                                            "text": "[Increase monthly balances to eliminate negative balances]"
+                                        }, 
+                                        {
+                                            "children": [], 
+                                            "label": [
+                                                "1024", 
+                                                "E", 
+                                                "h1", 
+                                                "h2", 
+                                                "h8", 
+                                                "p7"
+                                            ], 
+                                            "node_type": "appendix", 
+                                            "text": "||Aggregate|pmt|disb|bal|\n|---|---|---|---|---|\n|Jun|0|0|780|\n|Jul|130|500|410|\n|Aug|130|0|540|\n|Sep|130|360|310|\n|Oct|130|0|440|\n|Nov|130|0|570|\n|Dec|130|700|0|\n|Jan|130|0|130|\n|Feb|130|0|260|\n|Mar|130|0|390|\n|Apr|130|0|520|\n|May|130|0|650|\n|Jun|130|0|780|"
+                                        }
+                                    ], 
+                                    "label": [
+                                        "1024", 
+                                        "E", 
+                                        "h1", 
+                                        "h2", 
+                                        "h8"
+                                    ], 
+                                    "node_type": "appendix", 
+                                    "text": "", 
+                                    "title": "Step 2\u2014Adjusted Trial Balance"
+                                }, 
+                                {
+                                    "children": [
+                                        {
+                                            "children": [], 
+                                            "label": [
+                                                "1024", 
+                                                "E", 
+                                                "h1", 
+                                                "h2", 
+                                                "h9", 
+                                                "p8"
+                                            ], 
+                                            "node_type": "appendix", 
+                                            "text": "||Aggregate|pmt|disb|bal|\n|---|---|---|---|---|\n|Jun|0|0|1040|\n|Jul|130|500|670|\n|Aug|130|0|800|\n|Sep|130|360|570|\n|Oct|130|0|700|\n|Nov|130|0|830|\n|Dec|130|700|260|\n|Jan|130|0|390|\n|Feb|130|0|520|\n|Mar|130|0|650|\n|Apr|130|0|780|\n|May|130|0|910|\n|Jun|130|0|1040|"
+                                        }
+                                    ], 
+                                    "label": [
+                                        "1024", 
+                                        "E", 
+                                        "h1", 
+                                        "h2", 
+                                        "h9"
+                                    ], 
+                                    "node_type": "appendix", 
+                                    "text": "", 
+                                    "title": "Step 3\u2014Trial Balance With Cushion"
                                 }
                             ], 
                             "label": [
@@ -8176,10 +8230,10 @@
                                             "label": [
                                                 "1024", 
                                                 "E", 
-                                                "h7", 
-                                                "h8", 
-                                                "h9", 
-                                                "p8"
+                                                "h10", 
+                                                "h11", 
+                                                "h12", 
+                                                "p9"
                                             ], 
                                             "node_type": "appendix", 
                                             "text": "$360 for school taxes disbursed on September 20"
@@ -8189,10 +8243,10 @@
                                             "label": [
                                                 "1024", 
                                                 "E", 
-                                                "h7", 
-                                                "h8", 
-                                                "h9", 
-                                                "p9"
+                                                "h10", 
+                                                "h11", 
+                                                "h12", 
+                                                "p10"
                                             ], 
                                             "node_type": "appendix", 
                                             "text": "$1,200 for county property taxes:"
@@ -8202,10 +8256,10 @@
                                             "label": [
                                                 "1024", 
                                                 "E", 
-                                                "h7", 
-                                                "h8", 
-                                                "h9", 
-                                                "p10"
+                                                "h10", 
+                                                "h11", 
+                                                "h12", 
+                                                "p11"
                                             ], 
                                             "node_type": "appendix", 
                                             "text": "$500 disbursed on July 25"
@@ -8215,10 +8269,10 @@
                                             "label": [
                                                 "1024", 
                                                 "E", 
-                                                "h7", 
-                                                "h8", 
-                                                "h9", 
-                                                "p11"
+                                                "h10", 
+                                                "h11", 
+                                                "h12", 
+                                                "p12"
                                             ], 
                                             "node_type": "appendix", 
                                             "text": "$700 disbursed on December 10"
@@ -8227,9 +8281,9 @@
                                     "label": [
                                         "1024", 
                                         "E", 
-                                        "h7", 
-                                        "h8", 
-                                        "h9"
+                                        "h10", 
+                                        "h11", 
+                                        "h12"
                                     ], 
                                     "node_type": "appendix", 
                                     "text": "", 
@@ -8240,9 +8294,9 @@
                                     "label": [
                                         "1024", 
                                         "E", 
-                                        "h7", 
-                                        "h8", 
-                                        "h10"
+                                        "h10", 
+                                        "h11", 
+                                        "h13"
                                     ], 
                                     "node_type": "appendix", 
                                     "text": "", 
@@ -8253,9 +8307,9 @@
                                     "label": [
                                         "1024", 
                                         "E", 
-                                        "h7", 
-                                        "h8", 
-                                        "h11"
+                                        "h10", 
+                                        "h11", 
+                                        "h14"
                                     ], 
                                     "node_type": "appendix", 
                                     "text": "", 
@@ -8268,10 +8322,10 @@
                                             "label": [
                                                 "1024", 
                                                 "E", 
-                                                "h7", 
-                                                "h8", 
-                                                "h12", 
-                                                "p12"
+                                                "h10", 
+                                                "h11", 
+                                                "h15", 
+                                                "p13"
                                             ], 
                                             "node_type": "appendix", 
                                             "text": "||Single-item|Taxes|pmt|disb|bal|School taxes|pmt|disb|bal|\n|---|---|---|---|---|---|---|---|---|---|\n|June|0|0|0|0|0|0|\n|July|100|500|\u2212400|30|0|30|\n|August|100|0|\u2212300|30|0|60|\n|September|100|0|\u2212200|30|360|\u2212270|\n|October|100|0|\u2212100|30|0|\u2212240|\n|November|100|0|0|30|0|\u2212210|\n|December|100|700|\u2212600|30|0|\u2212180|\n|January|100|0|\u2212500|30|0|\u2212150|\n|February|100|0|\u2212400|30|0|\u2212120|\n|March|100|0|\u2212300|30|0|\u221290|\n|April|100|0|\u2212200|30|0|\u221260|\n|May|100|0|\u2212100|30|0|\u221230|\n|June|100|0|0|30|0|0|"
@@ -8281,10 +8335,10 @@
                                             "label": [
                                                 "1024", 
                                                 "E", 
-                                                "h7", 
-                                                "h8", 
-                                                "h12", 
-                                                "p13"
+                                                "h10", 
+                                                "h11", 
+                                                "h15", 
+                                                "p14"
                                             ], 
                                             "node_type": "appendix", 
                                             "text": "||Single-item|Taxes|pmt|disb|bal|School taxes|pmt|disb|bal|\n|---|---|---|---|---|---|---|---|---|---|\n|Jun|0|0|600|0|0|270|\n|Jul|100|500|200|30|0|300|\n|Aug|100|0|300|30|0|330|\n|Sep|100|0|400|30|360|0|\n|Oct|100|0|500|30|0|30|\n|Nov|100|0|600|30|0|60|\n|Dec|100|700|0|30|0|90|\n|Jan|100|0|100|30|0|120|\n|Feb|100|0|200|30|0|150|\n|Mar|100|0|300|30|0|180|\n|Apr|100|0|400|30|0|210|\n|May|100|0|500|30|0|240|\n|Jun|100|0|600|30|0|270|"
@@ -8294,10 +8348,10 @@
                                             "label": [
                                                 "1024", 
                                                 "E", 
-                                                "h7", 
-                                                "h8", 
-                                                "h12", 
-                                                "p14"
+                                                "h10", 
+                                                "h11", 
+                                                "h15", 
+                                                "p15"
                                             ], 
                                             "node_type": "appendix", 
                                             "text": "||Single-item|Taxes|pmt|disb|bal|School taxes|pmt|disb|bal|\n|---|---|---|---|---|---|---|---|---|---|\n|Jun|0|0|800|0|0|330|\n|Jul|100|500|400|30|0|360|\n|Aug|100|0|500|30|0|390|\n|Sep|100|0|600|30|360|60|\n|Oct|100|0|700|30|0|90|\n|Nov|100|0|800|30|0|120|\n|Dec|100|700|200|30|0|150|\n|Jan|100|0|300|30|0|180|\n|Feb|100|0|400|30|0|210|\n|Mar|100|0|500|30|0|240|\n|Apr|100|0|600|30|0|270|\n|May|100|0|700|30|0|300|\n|Jun|100|0|800|30|0|330|"
@@ -8306,9 +8360,9 @@
                                     "label": [
                                         "1024", 
                                         "E", 
-                                        "h7", 
-                                        "h8", 
-                                        "h12"
+                                        "h10", 
+                                        "h11", 
+                                        "h15"
                                     ], 
                                     "node_type": "appendix", 
                                     "text": "", 
@@ -8318,8 +8372,8 @@
                             "label": [
                                 "1024", 
                                 "E", 
-                                "h7", 
-                                "h8"
+                                "h10", 
+                                "h11"
                             ], 
                             "node_type": "appendix", 
                             "text": "", 
@@ -8329,7 +8383,7 @@
                     "label": [
                         "1024", 
                         "E", 
-                        "h7"
+                        "h10"
                     ], 
                     "node_type": "appendix", 
                     "text": "", 

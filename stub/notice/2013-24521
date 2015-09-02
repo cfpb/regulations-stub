@@ -2335,19 +2335,14 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [
-                        "1024-39-d-1", 
-                        "1024-39-d-2"
-                    ], 
+                    "children": [], 
                     "label": [
                         "1024", 
                         "39", 
                         "d"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(d)<E T=\"03\">Exemptions</E>\u2014", 
-                    "text": "(d) Exemptions \u2014", 
-                    "title": null
+                    "text": "(d) Exemptions \u2014"
                 }
             }
         ], 
@@ -2355,7 +2350,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1024", 
                         "39", 
@@ -2363,9 +2358,7 @@
                         "1"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(1)<E T=\"03\">Borrowers in bankruptcy.</E>A servicer is exempt fromthe requirements of this section for a mortgage loan while the borrower is a debtor in bankruptcy under Title 11 of the United States Code.", 
-                    "text": "(1) Borrowers in bankruptcy. A servicer is exempt from the requirements of this section for a mortgage loan while the borrower is a debtor in bankruptcy under Title 11 of the United States Code.", 
-                    "title": null
+                    "text": "(1) Borrowers in bankruptcy. A servicer is exempt from the requirements of this section for a mortgage loan while the borrower is a debtor in bankruptcy under Title 11 of the United States Code."
                 }
             }
         ], 
@@ -2373,11 +2366,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [
-                        "1024-39-d-1-Interp-1", 
-                        "1024-39-d-1-Interp-2", 
-                        "1024-39-d-1-Interp-3"
-                    ], 
+                    "children": [], 
                     "label": [
                         "1024", 
                         "39", 
@@ -2395,7 +2384,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1024", 
                         "39", 
@@ -2405,9 +2394,7 @@
                         "1"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "\n              <E T=\"03\">1. Commencing a case.</E>The requirements of \u00a7 1024.39 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the borrower is a debtor.", 
-                    "text": "1. Commencing a case. The requirements of \u00a7 1024.39 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the borrower is a debtor.", 
-                    "title": null
+                    "text": "1. Commencing a case. The requirements of \u00a7 1024.39 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the borrower is a debtor."
                 }
             }
         ], 
@@ -2415,10 +2402,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [
-                        "1024-39-d-1-Interp-2-i", 
-                        "1024-39-d-1-Interp-2-ii"
-                    ], 
+                    "children": [], 
                     "label": [
                         "1024", 
                         "39", 
@@ -2428,9 +2412,7 @@
                         "2"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "\n              <E T=\"03\">2. Obligation to resume early intervention requirements.</E>i. With respect to any portion of the mortgage debt that is not discharged, a servicer must resume compliance with \u00a7 1024.39 after the first delinquency that follows the earliest of any of three potential outcomes in the borrower's bankruptcy case: the case is dismissed, the case is closed, or the borrower receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume compliance with \u00a7 1024.39 does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of \u00a7 1024.39 in any manner believed necessary.", 
-                    "text": "2. Obligation to resume early intervention requirements. ", 
-                    "title": null
+                    "text": "2. Obligation to resume early intervention requirements. "
                 }
             }
         ], 
@@ -2438,7 +2420,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1024", 
                         "39", 
@@ -2449,8 +2431,7 @@
                         "i"
                     ], 
                     "node_type": "interp", 
-                    "text": "i. With respect to any portion of the mortgage debt that is not discharged, a servicer must resume compliance with \u00a7 1024.39 after the first delinquency that follows the earliest of any of three potential outcomes in the borrower's bankruptcy case: the case is dismissed, the case is closed, or the borrower receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume compliance with \u00a7 1024.39 does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of \u00a7 1024.39 in any manner believed necessary.", 
-                    "title": null
+                    "text": "i. With respect to any portion of the mortgage debt that is not discharged, a servicer must resume compliance with \u00a7 1024.39 after the first delinquency that follows the earliest of any of three potential outcomes in the borrower's bankruptcy case: the case is dismissed, the case is closed, or the borrower receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume compliance with \u00a7 1024.39 does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of \u00a7 1024.39 in any manner believed necessary."
                 }
             }
         ], 
@@ -2458,7 +2439,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1024", 
                         "39", 
@@ -2469,9 +2450,7 @@
                         "ii"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "ii. Compliance with \u00a7 1024.39 is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the borrower's bankruptcy case is revived\u2014for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge\u2014the servicer is again exempt from the requirement in \u00a7 1024.39.", 
-                    "text": "ii. Compliance with \u00a7 1024.39 is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the borrower's bankruptcy case is revived\u2014for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge\u2014the servicer is again exempt from the requirement in \u00a7 1024.39.", 
-                    "title": null
+                    "text": "ii. Compliance with \u00a7 1024.39 is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the borrower's bankruptcy case is revived\u2014for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge\u2014the servicer is again exempt from the requirement in \u00a7 1024.39."
                 }
             }
         ], 
@@ -2479,7 +2458,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1024", 
                         "39", 
@@ -2489,9 +2468,7 @@
                         "3"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "\n              <E T=\"03\">3. Joint obligors.</E>When two or more borrowers are joint obligors with primary liability on a mortgage loan subject to \u00a7 1024.39, the exemption in \u00a7 1024.39(d)(1) applies if any of the borrowers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from complying with \u00a7 1024.39 as to both the husband and the wife.", 
-                    "text": "3. Joint obligors. When two or more borrowers are joint obligors with primary liability on a mortgage loan subject to \u00a7 1024.39, the exemption in \u00a7 1024.39(d)(1) applies if any of the borrowers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from complying with \u00a7 1024.39 as to both the husband and the wife.", 
-                    "title": null
+                    "text": "3. Joint obligors. When two or more borrowers are joint obligors with primary liability on a mortgage loan subject to \u00a7 1024.39, the exemption in \u00a7 1024.39(d)(1) applies if any of the borrowers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from complying with \u00a7 1024.39 as to both the husband and the wife."
                 }
             }
         ], 
@@ -2499,7 +2476,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1024", 
                         "39", 
@@ -2507,9 +2484,7 @@
                         "2"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(2)<E T=\"03\">Fair Debt Collections Practices Act.</E>A servicer subject to the Fair Debt Collections Practices Act (FDCPA) (15 U.S.C. 1692<E T=\"03\">et seq.</E>) with respect to a borrower is exempt from the requirements of this section with regard to a mortgage loan for which the borrower has sent a notification pursuant to FDCPA section 805(c) (15 U.S.C. 1692c(c)).", 
-                    "text": "(2) Fair Debt Collections Practices Act. A servicer subject to the Fair Debt Collections Practices Act (FDCPA) (15 U.S.C. 1692 et seq.) with respect to a borrower is exempt from the requirements of this section with regard to a mortgage loan for which the borrower has sent a notification pursuant to FDCPA section 805(c) (15 U.S.C. 1692c(c)).", 
-                    "title": null
+                    "text": "(2) Fair Debt Collections Practices Act. A servicer subject to the Fair Debt Collections Practices Act (FDCPA) (15 U.S.C. 1692 et seq.) with respect to a borrower is exempt from the requirements of this section with regard to a mortgage loan for which the borrower has sent a notification pursuant to FDCPA section 805(c) (15 U.S.C. 1692c(c))."
                 }
             }
         ], 
@@ -2522,7 +2497,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "20", 
@@ -2532,9 +2507,7 @@
                         "C"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(C) The creditor, assignee or servicer of an adjustable-rate mortgage when the servicer on the loan is subject to the Fair Debt Collections Practices Act (FDCPA) (15 U.S.C. 1692<E T=\"03\">et seq.</E>) with regard to the loan and the consumer has sent a notification pursuant to FDCPA section 805(c) (15 U.S.C. 1692c(c)).", 
-                    "text": "(C) The creditor, assignee or servicer of an adjustable-rate mortgage when the servicer on the loan is subject to the Fair Debt Collections Practices Act (FDCPA) (15 U.S.C. 1692 et seq.) with regard to the loan and the consumer has sent a notification pursuant to FDCPA section 805(c) (15 U.S.C. 1692c(c)).", 
-                    "title": null
+                    "text": "(C) The creditor, assignee or servicer of an adjustable-rate mortgage when the servicer on the loan is subject to the Fair Debt Collections Practices Act (FDCPA) (15 U.S.C. 1692 et seq.) with regard to the loan and the consumer has sent a notification pursuant to FDCPA section 805(c) (15 U.S.C. 1692c(c))."
                 }
             }
         ], 
@@ -2542,7 +2515,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "32", 
@@ -2554,9 +2527,7 @@
                         "iii"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "iii.<E T=\"03\">Creditor's origination fees\u2014loan originator not employed by creditor.</E>Compensation paid by a creditor to a loan originator who is not employed by the creditor is included in the calculation of points and fees under \u00a7 1026.32(b)(1)(ii). Such compensation is included in points and fees in addition to any origination fees or charges paid by the consumer to the creditor that are included in points and fees under \u00a7 1026.32(b)(1)(i). For example, assume that a consumer pays to the creditor a $3,000 origination fee and that the creditor pays a mortgage broker $1,500 in compensation attributed to the transaction. Assume further that the consumer pays no other charges to the creditor that are included in points and fees under \u00a7 1026.32(b)(1)(i) and that the mortgage broker receives no other compensation that is included in points and fees under \u00a7 1026.32(b)(1)(ii). For purposes of calculating points and fees, the $3,000 origination fee is included in points and fees under \u00a7 1026.32(b)(1)(i) and the $1,500 in loan originator compensation is included in points and fees under \u00a7 1026.32(b)(1)(ii), equaling $4,500 in total points and fees, provided that no other points and fees are paid or compensation received.", 
-                    "text": "iii. Creditor's origination fees\u2014loan originator not employed by creditor. Compensation paid by a creditor to a loan originator who is not employed by the creditor is included in the calculation of points and fees under \u00a7 1026.32(b)(1)(ii). Such compensation is included in points and fees in addition to any origination fees or charges paid by the consumer to the creditor that are included in points and fees under \u00a7 1026.32(b)(1)(i). For example, assume that a consumer pays to the creditor a $3,000 origination fee and that the creditor pays a mortgage broker $1,500 in compensation attributed to the transaction. Assume further that the consumer pays no other charges to the creditor that are included in points and fees under \u00a7 1026.32(b)(1)(i) and that the mortgage broker receives no other compensation that is included in points and fees under \u00a7 1026.32(b)(1)(ii). For purposes of calculating points and fees, the $3,000 origination fee is included in points and fees under \u00a7 1026.32(b)(1)(i) and the $1,500 in loan originator compensation is included in points and fees under \u00a7 1026.32(b)(1)(ii), equaling $4,500 in total points and fees, provided that no other points and fees are paid or compensation received.", 
-                    "title": null
+                    "text": "iii. Creditor's origination fees\u2014loan originator not employed by creditor. Compensation paid by a creditor to a loan originator who is not employed by the creditor is included in the calculation of points and fees under \u00a7 1026.32(b)(1)(ii). Such compensation is included in points and fees in addition to any origination fees or charges paid by the consumer to the creditor that are included in points and fees under \u00a7 1026.32(b)(1)(i). For example, assume that a consumer pays to the creditor a $3,000 origination fee and that the creditor pays a mortgage broker $1,500 in compensation attributed to the transaction. Assume further that the consumer pays no other charges to the creditor that are included in points and fees under \u00a7 1026.32(b)(1)(i) and that the mortgage broker receives no other compensation that is included in points and fees under \u00a7 1026.32(b)(1)(ii). For purposes of calculating points and fees, the $3,000 origination fee is included in points and fees under \u00a7 1026.32(b)(1)(i) and the $1,500 in loan originator compensation is included in points and fees under \u00a7 1026.32(b)(1)(ii), equaling $4,500 in total points and fees, provided that no other points and fees are paid or compensation received."
                 }
             }
         ], 
@@ -2564,10 +2535,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [
-                        "1026-34-a-5-ii-A", 
-                        "1026-34-a-5-ii-B"
-                    ], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "34", 
@@ -2576,9 +2544,7 @@
                         "ii"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(ii)<E T=\"03\">Timing of counseling.</E>The counseling required under this paragraph (a)(5) must occur after:", 
-                    "text": "(ii) Timing of counseling. The counseling required under this paragraph (a)(5) must occur after:", 
-                    "title": null
+                    "text": "(ii) Timing of counseling. The counseling required under this paragraph (a)(5) must occur after:"
                 }
             }
         ], 
@@ -2586,7 +2552,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "34", 
@@ -2596,9 +2562,7 @@
                         "A"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(A) The consumer receives either the disclosure required by section 5(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) or the disclosures required by \u00a7 1026.40; or", 
-                    "text": "(A) The consumer receives either the disclosure required by section 5(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) or the disclosures required by \u00a7 1026.40; or", 
-                    "title": null
+                    "text": "(A) The consumer receives either the disclosure required by section 5(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) or the disclosures required by \u00a7 1026.40; or"
                 }
             }
         ], 
@@ -2606,7 +2570,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "34", 
@@ -2616,9 +2580,7 @@
                         "B"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(B) The consumer receives the disclosures required by \u00a7 1026.32(c), for transactions in which neither of the disclosures listed in paragraph (a)(5)(ii)(A) of this section are provided.", 
-                    "text": "(B) The consumer receives the disclosures required by \u00a7 1026.32(c), for transactions in which neither of the disclosures listed in paragraph (a)(5)(ii)(A) of this section are provided.", 
-                    "title": null
+                    "text": "(B) The consumer receives the disclosures required by \u00a7 1026.32(c), for transactions in which neither of the disclosures listed in paragraph (a)(5)(ii)(A) of this section are provided."
                 }
             }
         ], 
@@ -2626,7 +2588,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "34", 
@@ -2637,9 +2599,7 @@
                         "1"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "1.<E T=\"03\">Disclosures for open-end credit plans.</E>Section 1026.34(a)(5)(ii) permits receipt of either the disclosure required by section 5(c) of RESPA or the disclosures required under \u00a7 1026.40 to allow counseling to occur. Pursuant to 12 CFR 1024.7(h), the disclosures required by \u00a7 1026.40 can be provided for open-end plans in lieu of the usual disclosure required by section 5(c) of RESPA.", 
-                    "text": "1. Disclosures for open-end credit plans. Section 1026.34(a)(5)(ii) permits receipt of either the disclosure required by section 5(c) of RESPA or the disclosures required under \u00a7 1026.40 to allow counseling to occur. Pursuant to 12 CFR 1024.7(h), the disclosures required by \u00a7 1026.40 can be provided for open-end plans in lieu of the usual disclosure required by section 5(c) of RESPA.", 
-                    "title": null
+                    "text": "1. Disclosures for open-end credit plans. Section 1026.34(a)(5)(ii) permits receipt of either the disclosure required by section 5(c) of RESPA or the disclosures required under \u00a7 1026.40 to allow counseling to occur. Pursuant to 12 CFR 1024.7(h), the disclosures required by \u00a7 1026.40 can be provided for open-end plans in lieu of the usual disclosure required by section 5(c) of RESPA."
                 }
             }
         ], 
@@ -2650,7 +2610,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "34", 
@@ -2661,9 +2621,7 @@
                         "2"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "2.<E T=\"03\">Transactions not subject to RESPA or \u00a7 1026.40.</E>For closed-end mortgage transactions that are not subject to RESPA, the counseling certification must include a statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in the disclosures required by \u00a7 1026.32(c). (Reference to counseling on advisability using the disclosures required by \u00a7 1026.32(c) is not required for transactions subject to RESPA or \u00a7 1026.40.) The disclosures required by \u00a7 1026.32(c) must be furnished to the consumer at least three business days prior to consummation of the mortgage. The creditor may wish to furnish the disclosures sooner, to provide sufficient time for counseling and certification.", 
-                    "text": "2. Transactions not subject to RESPA or \u00a7 1026.40. For closed-end mortgage transactions that are not subject to RESPA, the counseling certification must include a statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in the disclosures required by \u00a7 1026.32(c). (Reference to counseling on advisability using the disclosures required by \u00a7 1026.32(c) is not required for transactions subject to RESPA or \u00a7 1026.40.) The disclosures required by \u00a7 1026.32(c) must be furnished to the consumer at least three business days prior to consummation of the mortgage. The creditor may wish to furnish the disclosures sooner, to provide sufficient time for counseling and certification.", 
-                    "title": null
+                    "text": "2. Transactions not subject to RESPA or \u00a7 1026.40. For closed-end mortgage transactions that are not subject to RESPA, the counseling certification must include a statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in the disclosures required by \u00a7 1026.32(c). (Reference to counseling on advisability using the disclosures required by \u00a7 1026.32(c) is not required for transactions subject to RESPA or \u00a7 1026.40.) The disclosures required by \u00a7 1026.32(c) must be furnished to the consumer at least three business days prior to consummation of the mortgage. The creditor may wish to furnish the disclosures sooner, to provide sufficient time for counseling and certification."
                 }
             }
         ], 
@@ -2671,7 +2629,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "34", 
@@ -2682,9 +2640,7 @@
                         "3"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "3.<E T=\"03\">Initial disclosure.</E>Counseling may occur after receipt of either an initial disclosure required by section 5(c) of RESPA, the disclosures required by \u00a7 1026.40, or the disclosures required by \u00a7 1026.32(c), regardless of whether revised versions of such disclosures are subsequently provided to the consumer.", 
-                    "text": "3. Initial disclosure. Counseling may occur after receipt of either an initial disclosure required by section 5(c) of RESPA, the disclosures required by \u00a7 1026.40, or the disclosures required by \u00a7 1026.32(c), regardless of whether revised versions of such disclosures are subsequently provided to the consumer.", 
-                    "title": null
+                    "text": "3. Initial disclosure. Counseling may occur after receipt of either an initial disclosure required by section 5(c) of RESPA, the disclosures required by \u00a7 1026.40, or the disclosures required by \u00a7 1026.32(c), regardless of whether revised versions of such disclosures are subsequently provided to the consumer."
                 }
             }
         ], 
@@ -2692,7 +2648,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "34", 
@@ -2702,9 +2658,7 @@
                         "D"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(D) A statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in either the disclosure required by section 5(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) or the disclosures required by \u00a7 1026.40.", 
-                    "text": "(D) A statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in either the disclosure required by section 5(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) or the disclosures required by \u00a7 1026.40.", 
-                    "title": null
+                    "text": "(D) A statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in either the disclosure required by section 5(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) or the disclosures required by \u00a7 1026.40."
                 }
             }
         ], 
@@ -2712,7 +2666,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "34", 
@@ -2722,9 +2676,7 @@
                         "E"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(E) For transactions for which neither of the disclosures listed in paragraph (a)(5)(ii)(A) of this section are provided, a statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in the disclosures required by \u00a7 1026.32(c); and", 
-                    "text": "(E) For transactions for which neither of the disclosures listed in paragraph (a)(5)(ii)(A) of this section are provided, a statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in the disclosures required by \u00a7 1026.32(c); and", 
-                    "title": null
+                    "text": "(E) For transactions for which neither of the disclosures listed in paragraph (a)(5)(ii)(A) of this section are provided, a statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in the disclosures required by \u00a7 1026.32(c); and"
                 }
             }
         ], 
@@ -2732,7 +2684,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "34", 
@@ -2742,9 +2694,7 @@
                         "F"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(F) A statement that the counselor has verified that the consumer(s) received the disclosures required by either \u00a7 1026.32(c) or the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601<E T=\"03\">et seq.</E>) with respect to the transaction.", 
-                    "text": "(F) A statement that the counselor has verified that the consumer(s) received the disclosures required by either \u00a7 1026.32(c) or the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.) with respect to the transaction.", 
-                    "title": null
+                    "text": "(F) A statement that the counselor has verified that the consumer(s) received the disclosures required by either \u00a7 1026.32(c) or the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.) with respect to the transaction."
                 }
             }
         ], 
@@ -2752,7 +2702,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "34", 
@@ -2763,9 +2713,7 @@
                         "1"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "1.<E T=\"03\">Statement of counseling on advisability.</E>A statement that a consumer has received counseling on the advisability of the high-cost mortgage means that the consumer has received counseling about key terms of the mortgage transaction, as set out in either the disclosure required by section 5(c) of RESPA or the disclosures provided to the consumer pursuant to \u00a7 1026.40, or, for closed-end transactions not subject to RESPA, the disclosures required by \u00a7 1026.32(c); the consumer's budget, including the consumer's income, assets, financial obligations, and expenses; and the affordability of the mortgage transaction for the consumer. Examples of such terms of the mortgage transaction include the initial interest rate, the initial monthly payment, whether the payment may increase, how the minimum periodic payment will be determined, and fees imposed by the creditor, as may be reflected in the applicable disclosure. A statement that a consumer has received counseling on the advisability of the high-cost mortgage does not require the counselor to have made a judgment or determination as to the appropriateness of the mortgage transaction for the consumer.", 
-                    "text": "1. Statement of counseling on advisability. A statement that a consumer has received counseling on the advisability of the high-cost mortgage means that the consumer has received counseling about key terms of the mortgage transaction, as set out in either the disclosure required by section 5(c) of RESPA or the disclosures provided to the consumer pursuant to \u00a7 1026.40, or, for closed-end transactions not subject to RESPA, the disclosures required by \u00a7 1026.32(c); the consumer's budget, including the consumer's income, assets, financial obligations, and expenses; and the affordability of the mortgage transaction for the consumer. Examples of such terms of the mortgage transaction include the initial interest rate, the initial monthly payment, whether the payment may increase, how the minimum periodic payment will be determined, and fees imposed by the creditor, as may be reflected in the applicable disclosure. A statement that a consumer has received counseling on the advisability of the high-cost mortgage does not require the counselor to have made a judgment or determination as to the appropriateness of the mortgage transaction for the consumer.", 
-                    "title": null
+                    "text": "1. Statement of counseling on advisability. A statement that a consumer has received counseling on the advisability of the high-cost mortgage means that the consumer has received counseling about key terms of the mortgage transaction, as set out in either the disclosure required by section 5(c) of RESPA or the disclosures provided to the consumer pursuant to \u00a7 1026.40, or, for closed-end transactions not subject to RESPA, the disclosures required by \u00a7 1026.32(c); the consumer's budget, including the consumer's income, assets, financial obligations, and expenses; and the affordability of the mortgage transaction for the consumer. Examples of such terms of the mortgage transaction include the initial interest rate, the initial monthly payment, whether the payment may increase, how the minimum periodic payment will be determined, and fees imposed by the creditor, as may be reflected in the applicable disclosure. A statement that a consumer has received counseling on the advisability of the high-cost mortgage does not require the counselor to have made a judgment or determination as to the appropriateness of the mortgage transaction for the consumer."
                 }
             }
         ], 
@@ -2773,7 +2721,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "34", 
@@ -2784,9 +2732,7 @@
                         "1"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "1.<E T=\"03\">Financing.</E>Section 1026.34(a)(5)(v) does not prohibit a creditor from financing the counseling fee as part of the transaction for a high-cost mortgage, if the fee is a bona fide third-party charge as provided by \u00a7 1026.32(b)(5)(i).", 
-                    "text": "1. Financing. Section 1026.34(a)(5)(v) does not prohibit a creditor from financing the counseling fee as part of the transaction for a high-cost mortgage, if the fee is a bona fide third-party charge as provided by \u00a7 1026.32(b)(5)(i).", 
-                    "title": null
+                    "text": "1. Financing. Section 1026.34(a)(5)(v) does not prohibit a creditor from financing the counseling fee as part of the transaction for a high-cost mortgage, if the fee is a bona fide third-party charge as provided by \u00a7 1026.32(b)(5)(i)."
                 }
             }
         ], 
@@ -2794,7 +2740,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "41", 
@@ -2802,9 +2748,7 @@
                         "5"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(5)<E T=\"03\">Consumers in bankruptcy.</E>A servicer is exempt from the requirements of this section for a mortgage loan while the consumer is a debtor in bankruptcy under Title 11 of the United States Code.", 
-                    "text": "(5) Consumers in bankruptcy. A servicer is exempt from the requirements of this section for a mortgage loan while the consumer is a debtor in bankruptcy under Title 11 of the United States Code.", 
-                    "title": null
+                    "text": "(5) Consumers in bankruptcy. A servicer is exempt from the requirements of this section for a mortgage loan while the consumer is a debtor in bankruptcy under Title 11 of the United States Code."
                 }
             }
         ], 
@@ -2813,11 +2757,7 @@
                 "action": "POST", 
                 "field": "[title]", 
                 "node": {
-                    "child_labels": [
-                        "1026-41-e-5-Interp-1", 
-                        "1026-41-e-5-Interp-2", 
-                        "1026-41-e-5-Interp-3"
-                    ], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "41", 
@@ -2835,7 +2775,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "41", 
@@ -2845,9 +2785,7 @@
                         "1"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "\n              <E T=\"03\">1. Commencing a case.</E>The requirements of \u00a7 1026.41 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the consumer is a debtor.", 
-                    "text": "1. Commencing a case. The requirements of \u00a7 1026.41 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the consumer is a debtor.", 
-                    "title": null
+                    "text": "1. Commencing a case. The requirements of \u00a7 1026.41 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the consumer is a debtor."
                 }
             }
         ], 
@@ -2855,10 +2793,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [
-                        "1026-41-e-5-Interp-2-i", 
-                        "1026-41-e-5-Interp-2-ii"
-                    ], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "41", 
@@ -2868,9 +2803,7 @@
                         "2"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "\n              <E T=\"03\">2. Obligation to resume sending periodic statements.</E>i. With respect to any portion of the mortgage debt that is not discharged, a servicer must resume sending periodic statements in compliance with \u00a7 1026.41 within a reasonably prompt time after the next payment due date that follows the earliest of any of three potential outcomes in the consumer's bankruptcy case: the case is dismissed, the case is closed, or the consumer receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume sending periodic statements does not require a servicer to communicate with a consumer in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of \u00a7 1026.41 in any manner believed necessary.", 
-                    "text": "2. Obligation to resume sending periodic statements. ", 
-                    "title": null
+                    "text": "2. Obligation to resume sending periodic statements. "
                 }
             }
         ], 
@@ -2878,7 +2811,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "41", 
@@ -2889,8 +2822,7 @@
                         "i"
                     ], 
                     "node_type": "interp", 
-                    "text": "i. With respect to any portion of the mortgage debt that is not discharged, a servicer must resume sending periodic statements in compliance with \u00a7 1026.41 within a reasonably prompt time after the next payment due date that follows the earliest of any of three potential outcomes in the consumer's bankruptcy case: the case is dismissed, the case is closed, or the consumer receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume sending periodic statements does not require a servicer to communicate with a consumer in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of \u00a7 1026.41 in any manner believed necessary.", 
-                    "title": null
+                    "text": "i. With respect to any portion of the mortgage debt that is not discharged, a servicer must resume sending periodic statements in compliance with \u00a7 1026.41 within a reasonably prompt time after the next payment due date that follows the earliest of any of three potential outcomes in the consumer's bankruptcy case: the case is dismissed, the case is closed, or the consumer receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume sending periodic statements does not require a servicer to communicate with a consumer in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of \u00a7 1026.41 in any manner believed necessary."
                 }
             }
         ], 
@@ -2898,7 +2830,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "41", 
@@ -2909,9 +2841,7 @@
                         "ii"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "ii. The periodic statement is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the consumer's bankruptcy case is revived\u2014for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge\u2014the servicer is again exempt from the requirement in \u00a7 1026.41.", 
-                    "text": "ii. The periodic statement is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the consumer's bankruptcy case is revived\u2014for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge\u2014the servicer is again exempt from the requirement in \u00a7 1026.41.", 
-                    "title": null
+                    "text": "ii. The periodic statement is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the consumer's bankruptcy case is revived\u2014for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge\u2014the servicer is again exempt from the requirement in \u00a7 1026.41."
                 }
             }
         ], 
@@ -2919,7 +2849,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "41", 
@@ -2929,9 +2859,7 @@
                         "3"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "\n              <E T=\"03\">3. Joint obligors.</E>When two or more consumers are joint obligors with primary liability on a closed-end consumer credit transaction secured by a dwelling subject to \u00a7 1026.41, the exemption in \u00a7 1026.41(e)(5) applies if any of the consumers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from providing periodic statements to both the husband and the wife.", 
-                    "text": "3. Joint obligors. When two or more consumers are joint obligors with primary liability on a closed-end consumer credit transaction secured by a dwelling subject to \u00a7 1026.41, the exemption in \u00a7 1026.41(e)(5) applies if any of the consumers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from providing periodic statements to both the husband and the wife.", 
-                    "title": null
+                    "text": "3. Joint obligors. When two or more consumers are joint obligors with primary liability on a closed-end consumer credit transaction secured by a dwelling subject to \u00a7 1026.41, the exemption in \u00a7 1026.41(e)(5) applies if any of the consumers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from providing periodic statements to both the husband and the wife."
                 }
             }
         ], 
@@ -2939,7 +2867,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "43", 
@@ -2949,9 +2877,7 @@
                         "C"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(C) A loan that is eligible to be guaranteed, except with regard to matters wholly unrelated to ability to repay, by the U.S. Department of Veterans Affairs;", 
-                    "text": "(C) A loan that is eligible to be guaranteed, except with regard to matters wholly unrelated to ability to repay, by the U.S. Department of Veterans Affairs;", 
-                    "title": null
+                    "text": "(C) A loan that is eligible to be guaranteed, except with regard to matters wholly unrelated to ability to repay, by the U.S. Department of Veterans Affairs;"
                 }
             }
         ]

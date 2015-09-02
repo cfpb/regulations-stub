@@ -6775,46 +6775,6 @@
             "ref": "mortgage loan:1024-31-MortgageLoan"
         }
     ], 
-    "1024-31-1": [
-        {
-            "offsets": [
-                [
-                    4, 
-                    10
-                ]
-            ], 
-            "ref": "state:1024-2-b-State"
-        }
-    ], 
-    "1024-31-2": [
-        {
-            "offsets": [
-                [
-                    102, 
-                    115
-                ]
-            ], 
-            "ref": "mortgage loan:1024-31-MortgageLoan"
-        }, 
-        {
-            "offsets": [
-                [
-                    85, 
-                    94
-                ]
-            ], 
-            "ref": "servicing:1024-2-b-Servicing"
-        }, 
-        {
-            "offsets": [
-                [
-                    38, 
-                    46
-                ]
-            ], 
-            "ref": "servicer:1024-2-b-Servicer"
-        }
-    ], 
     "1024-31-HazardInsurance": [
         {
             "offsets": [
@@ -7168,6 +7128,46 @@
                 [
                     131, 
                     139
+                ]
+            ], 
+            "ref": "servicer:1024-2-b-Servicer"
+        }
+    ], 
+    "1024-31-QualifiedWrittenRequest-1": [
+        {
+            "offsets": [
+                [
+                    4, 
+                    10
+                ]
+            ], 
+            "ref": "state:1024-2-b-State"
+        }
+    ], 
+    "1024-31-QualifiedWrittenRequest-2": [
+        {
+            "offsets": [
+                [
+                    102, 
+                    115
+                ]
+            ], 
+            "ref": "mortgage loan:1024-31-MortgageLoan"
+        }, 
+        {
+            "offsets": [
+                [
+                    85, 
+                    94
+                ]
+            ], 
+            "ref": "servicing:1024-2-b-Servicing"
+        }, 
+        {
+            "offsets": [
+                [
+                    38, 
+                    46
                 ]
             ], 
             "ref": "servicer:1024-2-b-Servicer"
@@ -26247,7 +26247,7 @@
             "ref": "application:1024-2-b-Application"
         }
     ], 
-    "1024-MS-1-h1-h2-p3": [
+    "1024-MS-1-h2-p3": [
         {
             "offsets": [
                 [
@@ -26491,20 +26491,20 @@
         {
             "offsets": [
                 [
+                    9, 
+                    17
+                ], 
+                [
                     23, 
                     31
                 ], 
                 [
-                    37, 
-                    45
+                    62, 
+                    70
                 ], 
                 [
-                    66, 
-                    74
-                ], 
-                [
-                    89, 
-                    97
+                    85, 
+                    93
                 ]
             ], 
             "ref": "servicer:1024-2-b-Servicer"
