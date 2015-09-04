@@ -1289,7 +1289,7 @@
             "index": [
                 "1024", 
                 "E", 
-                "h7"
+                "h10"
             ], 
             "title": "II. Example Illustrating Single-Item Analysis"
         }
@@ -1345,27 +1345,57 @@
                 "h6"
             ], 
             "title": "First Payment: July 1"
-        }
-    ], 
-    "1024-E-h7": [
+        }, 
         {
             "index": [
                 "1024", 
                 "E", 
-                "h7", 
+                "h1", 
+                "h2", 
+                "h7"
+            ], 
+            "title": "Step 1\u2014Initial Trial Balance"
+        }, 
+        {
+            "index": [
+                "1024", 
+                "E", 
+                "h1", 
+                "h2", 
                 "h8"
+            ], 
+            "title": "Step 2\u2014Adjusted Trial Balance"
+        }, 
+        {
+            "index": [
+                "1024", 
+                "E", 
+                "h1", 
+                "h2", 
+                "h9"
+            ], 
+            "title": "Step 3\u2014Trial Balance With Cushion"
+        }
+    ], 
+    "1024-E-h10": [
+        {
+            "index": [
+                "1024", 
+                "E", 
+                "h10", 
+                "h11"
             ], 
             "title": "Assumptions"
         }
     ], 
-    "1024-E-h7-h8": [
+    "1024-E-h10-h11": [
         {
             "index": [
                 "1024", 
                 "E", 
-                "h7", 
-                "h8", 
-                "h9"
+                "h10", 
+                "h11", 
+                "h12"
             ], 
             "title": "Disbursements:"
         }, 
@@ -1373,9 +1403,9 @@
             "index": [
                 "1024", 
                 "E", 
-                "h7", 
-                "h8", 
-                "h10"
+                "h10", 
+                "h11", 
+                "h13"
             ], 
             "title": "Cushion: One-sixth of estimated annual disbursements"
         }, 
@@ -1383,9 +1413,9 @@
             "index": [
                 "1024", 
                 "E", 
-                "h7", 
-                "h8", 
-                "h11"
+                "h10", 
+                "h11", 
+                "h14"
             ], 
             "title": "Settlement: May 15"
         }, 
@@ -1393,9 +1423,9 @@
             "index": [
                 "1024", 
                 "E", 
-                "h7", 
-                "h8", 
-                "h12"
+                "h10", 
+                "h11", 
+                "h15"
             ], 
             "title": "First Payment: July 1"
         }
@@ -1520,22 +1550,6 @@
                 "Interp"
             ], 
             "title": "Appendix MS\u2014Mortgage Servicing Model Forms and Clauses"
-        }, 
-        {
-            "index": [
-                "1024", 
-                "MS-3", 
-                "Interp"
-            ], 
-            "title": "Appendix MS-3\u2014Model Force-Placed Insurance Notice Forms"
-        }, 
-        {
-            "index": [
-                "1024", 
-                "MS-4", 
-                "Interp"
-            ], 
-            "title": "Appendix MS-4\u2014Model Clauses for the Written Early Intervention Notice"
         }
     ], 
     "1024-MS": [
@@ -1545,7 +1559,7 @@
                 "MS", 
                 "1"
             ], 
-            "title": "MS-1 to Part 1024\u2014Servicing Disclosure Statement"
+            "title": "Appendix MS-1 to Part 1024"
         }, 
         {
             "index": [
@@ -1553,7 +1567,7 @@
                 "MS", 
                 "2"
             ], 
-            "title": "MS-2 to Part 1024\u2014Notice of Assignment, Sale, or Transfer of Servicing Rights"
+            "title": "Appendix MS-2 to Part 1024"
         }, 
         {
             "index": [
@@ -1561,7 +1575,7 @@
                 "MS", 
                 "3"
             ], 
-            "title": "MS-3 to Part 1024\u2014Model Force-Placed Insurance Notice Forms"
+            "title": "Appendix MS-3 to Part 1024"
         }, 
         {
             "index": [
@@ -1593,7 +1607,7 @@
                 "MS", 
                 "3(D)"
             ], 
-            "title": "MS-3(D)\u2014Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required By to \u00a7 1024.37(e)(2)"
+            "title": "MS-3(D)\u2014Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required by \u00a7 1024.37(e)(2)"
         }, 
         {
             "index": [
@@ -1601,7 +1615,7 @@
                 "MS", 
                 "4"
             ], 
-            "title": "MS-4 to Part 1024\u2014Model Clauses for the Written Early Intervention Notice"
+            "title": "Appendix MS-4 to Part 1024"
         }, 
         {
             "index": [
@@ -1628,27 +1642,66 @@
             "title": "MS-4(C)\u2014Housing Counselors (\u00a7 1024.39(b)(2)(v))"
         }
     ], 
+    "1024-MS-1": [
+        {
+            "index": [
+                "1024", 
+                "MS", 
+                "1", 
+                "h1"
+            ], 
+            "title": "Servicing Disclosure Statement"
+        }, 
+        {
+            "index": [
+                "1024", 
+                "MS", 
+                "1", 
+                "h2"
+            ], 
+            "title": "SERVICING DISCLOSURE STATEMENT NOTICE TO FIRST LIEN MORTGAGE LOAN APPLICANTS: THE RIGHT TO COLLECT YOUR MORTGAGE LOAN PAYMENTS MAY BE TRANSFERRED"
+        }, 
+        {
+            "index": [
+                "1024", 
+                "MS", 
+                "1", 
+                "h3"
+            ], 
+            "title": "Servicing Transfer Information"
+        }
+    ], 
     "1024-MS-2": [
         {
             "index": [
                 "1024", 
                 "MS", 
                 "2", 
-                "h3"
+                "h4"
             ], 
-            "title": "[Sample language; use business stationery or similar heading]"
+            "title": "Notice of Servicing Transfer"
         }
     ], 
-    "1024-MS-2-h3": [
+    "1024-MS-3": [
         {
             "index": [
                 "1024", 
                 "MS", 
-                "2", 
-                "h3", 
-                "h4"
+                "3", 
+                "h5"
             ], 
-            "title": "NOTICE OF ASSIGNMENT, SALE, OR TRANSFER OF SERVICING RIGHTS"
+            "title": "Model Force-Placed Insurance Notice Forms"
+        }
+    ], 
+    "1024-MS-4": [
+        {
+            "index": [
+                "1024", 
+                "MS", 
+                "4", 
+                "h6"
+            ], 
+            "title": "Model Clauses for the Written Early Intervention Notice"
         }
     ], 
     "1024-Subpart-A": [

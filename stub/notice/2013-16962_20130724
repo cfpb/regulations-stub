@@ -50,18 +50,14 @@
                 "action": "PUT", 
                 "field": "[text]", 
                 "node": {
-                    "child_labels": [
-                        "1026-35-e-3"
-                    ], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "35", 
                         "e"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(e)<E T=\"03\">Repayment ability, prepayment penalties.</E>Except as provided in paragraph (e)(3) of this section, higher-priced mortgage loans are subject to the following restrictions:", 
-                    "text": "(e) Repayment ability, prepayment penalties. Except as provided in paragraph (e)(3) of this section, higher-priced mortgage loans are subject to the following restrictions:", 
-                    "title": null
+                    "text": "(e) Repayment ability, prepayment penalties. Except as provided in paragraph (e)(3) of this section, higher-priced mortgage loans are subject to the following restrictions:"
                 }
             }
         ], 
@@ -78,7 +74,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "35", 
@@ -86,9 +82,7 @@
                         "3"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(3)<E T=\"03\">Exclusions.</E>This paragraph (e) does not apply to a transaction to finance the initial construction of a dwelling; a temporary or \u201cbridge\u201d loan with a term of twelve months or less, such as a loan to purchase a new dwelling where the consumer plans to sell a current dwelling within twelve months; or a reverse mortgage transaction subject to \u00a7 1026.33.", 
-                    "text": "(3) Exclusions. This paragraph (e) does not apply to a transaction to finance the initial construction of a dwelling; a temporary or \u201cbridge\u201d loan with a term of twelve months or less, such as a loan to purchase a new dwelling where the consumer plans to sell a current dwelling within twelve months; or a reverse mortgage transaction subject to \u00a7 1026.33.", 
-                    "title": null
+                    "text": "(3) Exclusions. This paragraph (e) does not apply to a transaction to finance the initial construction of a dwelling; a temporary or \u201cbridge\u201d loan with a term of twelve months or less, such as a loan to purchase a new dwelling where the consumer plans to sell a current dwelling within twelve months; or a reverse mortgage transaction subject to \u00a7 1026.33."
                 }
             }
         ]

@@ -119,6 +119,14 @@
             "PUT", 
             [
                 "1026", 
+                "H", 
+                "24(G)"
+            ]
+        ], 
+        [
+            "PUT", 
+            [
+                "1026", 
                 "19", 
                 "e", 
                 "3", 
@@ -8361,16 +8369,14 @@
                 "action": "PUT", 
                 "field": "[text]", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1024", 
                         "5", 
                         "d"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(d)<E T=\"03\">Partial exemptions for certain mortgage loans.</E>Sections 1024.6, 1024.7, 1024.8, 1024.10, and 1024.33(a) do not apply to a federally related mortgage loan:", 
-                    "text": "(d) Partial exemptions for certain mortgage loans. Sections 1024.6, 1024.7, 1024.8, 1024.10, and 1024.33(a) do not apply to a federally related mortgage loan:", 
-                    "title": null
+                    "text": "(d) Partial exemptions for certain mortgage loans. Sections 1024.6, 1024.7, 1024.8, 1024.10, and 1024.33(a) do not apply to a federally related mortgage loan:"
                 }
             }
         ], 
@@ -8378,7 +8384,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "19", 
@@ -8388,9 +8394,7 @@
                         "D"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(D)<E T=\"03\">Interest rate dependent charges.</E>The points or lender credits change because the interest rate was not locked when the disclosures required under paragraph (e)(1)(i) of this section were provided. No later than three business days after the date the interest rate is locked, the creditor shall provide a revised version of the disclosures required under paragraph (e)(1)(i) of this section to the consumer with the revised interest rate, the points disclosed pursuant to \u00a7 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms.", 
-                    "text": "(D) Interest rate dependent charges. The points or lender credits change because the interest rate was not locked when the disclosures required under paragraph (e)(1)(i) of this section were provided. No later than three business days after the date the interest rate is locked, the creditor shall provide a revised version of the disclosures required under paragraph (e)(1)(i) of this section to the consumer with the revised interest rate, the points disclosed pursuant to \u00a7 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms.", 
-                    "title": null
+                    "text": "(D) Interest rate dependent charges. The points or lender credits change because the interest rate was not locked when the disclosures required under paragraph (e)(1)(i) of this section were provided. No later than three business days after the date the interest rate is locked, the creditor shall provide a revised version of the disclosures required under paragraph (e)(1)(i) of this section to the consumer with the revised interest rate, the points disclosed pursuant to \u00a7 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms."
                 }
             }
         ], 
@@ -8398,9 +8402,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [
-                        "1026-19-e-3-iv-D-Interp-1-i"
-                    ], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "19", 
@@ -8412,9 +8414,7 @@
                         "1"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "1.<E T=\"03\">Requirements.</E>If the interest rate is not locked when the disclosures required by \u00a7 1026.19(e)(1)(i) are provided, a valid reason for revision exists when the interest rate is subsequently locked. No later than three business days after the date the interest rate is locked, \u00a7 1026.19(e)(3)(iv)(D) requires the creditor to provide a revised version of the disclosures required under \u00a7 1026.19(e)(1)(i) reflecting the revised interest rate, the points disclosed pursuant to \u00a7 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms. The following examples illustrate this requirement:", 
-                    "text": "1. Requirements. If the interest rate is not locked when the disclosures required by \u00a7 1026.19(e)(1)(i) are provided, a valid reason for revision exists when the interest rate is subsequently locked. No later than three business days after the date the interest rate is locked, \u00a7 1026.19(e)(3)(iv)(D) requires the creditor to provide a revised version of the disclosures required under \u00a7 1026.19(e)(1)(i) reflecting the revised interest rate, the points disclosed pursuant to \u00a7 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms. The following examples illustrate this requirement:", 
-                    "title": null
+                    "text": "1. Requirements. If the interest rate is not locked when the disclosures required by \u00a7 1026.19(e)(1)(i) are provided, a valid reason for revision exists when the interest rate is subsequently locked. No later than three business days after the date the interest rate is locked, \u00a7 1026.19(e)(3)(iv)(D) requires the creditor to provide a revised version of the disclosures required under \u00a7 1026.19(e)(1)(i) reflecting the revised interest rate, the points disclosed pursuant to \u00a7 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms. The following examples illustrate this requirement:"
                 }
             }
         ], 
@@ -8422,7 +8422,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "19", 
@@ -8435,9 +8435,7 @@
                         "i"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "i. Assume a creditor sets the interest rate by executing a rate lock agreement with the consumer. If such an agreement exists when the original disclosures required under \u00a7 1026.19(e)(1)(i) are provided, then the actual points and lender credits are compared to the estimated points disclosed pursuant to \u00a7 1026.37(f)(1) and lender credits included in the original disclosures provided under \u00a7 1026.19(e)(1)(i) for the purpose of determining good faith pursuant to \u00a7 1026.19(e)(3)(i). If the consumer enters into a rate lock agreement with the creditor after the disclosures required under \u00a7 1026.19(e)(1)(i) were provided, then \u00a7 1026.19(e)(3)(iv)(D) requires the creditor to provide, no later than three business days after the date that the consumer and the creditor enter into a rate lock agreement, a revised version of the disclosures required under \u00a7 1026.19(e)(1)(i) reflecting the revised interest rate, the points disclosed pursuant to \u00a7 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms. Provided that the revised version of the disclosures required under \u00a7 1026.19(e)(1)(i) reflect any revised points disclosed pursuant to \u00a7 1026.37(f)(1) and lender credits, the actual points and lender credits are compared to the revised points and lender credits for the purpose of determining good faith pursuant to \u00a7 1026.19(e)(3)(i).", 
-                    "text": "i. Assume a creditor sets the interest rate by executing a rate lock agreement with the consumer. If such an agreement exists when the original disclosures required under \u00a7 1026.19(e)(1)(i) are provided, then the actual points and lender credits are compared to the estimated points disclosed pursuant to \u00a7 1026.37(f)(1) and lender credits included in the original disclosures provided under \u00a7 1026.19(e)(1)(i) for the purpose of determining good faith pursuant to \u00a7 1026.19(e)(3)(i). If the consumer enters into a rate lock agreement with the creditor after the disclosures required under \u00a7 1026.19(e)(1)(i) were provided, then \u00a7 1026.19(e)(3)(iv)(D) requires the creditor to provide, no later than three business days after the date that the consumer and the creditor enter into a rate lock agreement, a revised version of the disclosures required under \u00a7 1026.19(e)(1)(i) reflecting the revised interest rate, the points disclosed pursuant to \u00a7 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms. Provided that the revised version of the disclosures required under \u00a7 1026.19(e)(1)(i) reflect any revised points disclosed pursuant to \u00a7 1026.37(f)(1) and lender credits, the actual points and lender credits are compared to the revised points and lender credits for the purpose of determining good faith pursuant to \u00a7 1026.19(e)(3)(i).", 
-                    "title": null
+                    "text": "i. Assume a creditor sets the interest rate by executing a rate lock agreement with the consumer. If such an agreement exists when the original disclosures required under \u00a7 1026.19(e)(1)(i) are provided, then the actual points and lender credits are compared to the estimated points disclosed pursuant to \u00a7 1026.37(f)(1) and lender credits included in the original disclosures provided under \u00a7 1026.19(e)(1)(i) for the purpose of determining good faith pursuant to \u00a7 1026.19(e)(3)(i). If the consumer enters into a rate lock agreement with the creditor after the disclosures required under \u00a7 1026.19(e)(1)(i) were provided, then \u00a7 1026.19(e)(3)(iv)(D) requires the creditor to provide, no later than three business days after the date that the consumer and the creditor enter into a rate lock agreement, a revised version of the disclosures required under \u00a7 1026.19(e)(1)(i) reflecting the revised interest rate, the points disclosed pursuant to \u00a7 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms. Provided that the revised version of the disclosures required under \u00a7 1026.19(e)(1)(i) reflect any revised points disclosed pursuant to \u00a7 1026.37(f)(1) and lender credits, the actual points and lender credits are compared to the revised points and lender credits for the purpose of determining good faith pursuant to \u00a7 1026.19(e)(3)(i)."
                 }
             }
         ], 
@@ -8445,7 +8443,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "19", 
@@ -8456,9 +8454,7 @@
                         "2"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "2.<E T=\"03\">Relationship to \u00a7 1026.19(e)(3)(iv)(D).</E>If the reason for the revision is provided under \u00a7 1026.19(e)(3)(iv)(D), notwithstanding the three-business-day rule set forth in \u00a7 1026.19(e)(4)(i), \u00a7 1026.19(e)(3)(iv)(D) requires the creditor to provide a revised version of the disclosures required under \u00a7 1026.19(e)(1)(i) no later than three business days after the date the interest rate is locked.<E T=\"03\">See</E>comment 19(e)(3)(iv)(D)-1.", 
-                    "text": "2. Relationship to \u00a7 1026.19(e)(3)(iv)(D). If the reason for the revision is provided under \u00a7 1026.19(e)(3)(iv)(D), notwithstanding the three-business-day rule set forth in \u00a7 1026.19(e)(4)(i), \u00a7 1026.19(e)(3)(iv)(D) requires the creditor to provide a revised version of the disclosures required under \u00a7 1026.19(e)(1)(i) no later than three business days after the date the interest rate is locked. See comment 19(e)(3)(iv)(D)-1.", 
-                    "title": null
+                    "text": "2. Relationship to \u00a7 1026.19(e)(3)(iv)(D). If the reason for the revision is provided under \u00a7 1026.19(e)(3)(iv)(D), notwithstanding the three-business-day rule set forth in \u00a7 1026.19(e)(4)(i), \u00a7 1026.19(e)(3)(iv)(D) requires the creditor to provide a revised version of the disclosures required under \u00a7 1026.19(e)(1)(i) no later than three business days after the date the interest rate is locked. See comment 19(e)(3)(iv)(D)-1."
                 }
             }
         ], 
@@ -8466,7 +8462,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "36", 
@@ -8475,9 +8471,7 @@
                         "ii"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(ii) The disclosures required by \u00a7 1026.19 (e) and (f);", 
-                    "text": "(ii) The disclosures required by \u00a7 1026.19 (e) and (f);", 
-                    "title": null
+                    "text": "(ii) The disclosures required by \u00a7 1026.19 (e) and (f);"
                 }
             }
         ], 
@@ -8485,7 +8479,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "37", 
@@ -8495,9 +8489,7 @@
                         "1"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "1.<E T=\"03\">Periods not in whole years.</E>For guidance on how to disclose increases after consummation that occur after a number of months less than 24 but that do not equate to a number of whole years or within a number of days less than a week, see the guidance provided in comment 37(a)(10)-3. For increases that occur after more than 24 months, see the guidance provided in comment 37(b)(8)-1.", 
-                    "text": "1. Periods not in whole years. For guidance on how to disclose increases after consummation that occur after a number of months less than 24 but that do not equate to a number of whole years or within a number of days less than a week, see the guidance provided in comment 37(a)(10)-3. For increases that occur after more than 24 months, see the guidance provided in comment 37(b)(8)-1.", 
-                    "title": null
+                    "text": "1. Periods not in whole years. For guidance on how to disclose increases after consummation that occur after a number of months less than 24 but that do not equate to a number of whole years or within a number of days less than a week, see the guidance provided in comment 37(a)(10)-3. For increases that occur after more than 24 months, see the guidance provided in comment 37(b)(8)-1."
                 }
             }
         ], 
@@ -8505,7 +8497,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "37", 
@@ -8516,9 +8508,7 @@
                         "2"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "2.<E T=\"03\">Relationship to principal and interest disclosure.</E>The creditor discloses mortgage insurance premiums pursuant to \u00a7 1026.37(c)(2)(ii) on the same periodic basis that payments for principal and interest are disclosed pursuant to \u00a7 1026.37(c)(2)(i), even if mortgage insurance premiums are actually paid on some other periodic basis.", 
-                    "text": "2. Relationship to principal and interest disclosure. The creditor discloses mortgage insurance premiums pursuant to \u00a7 1026.37(c)(2)(ii) on the same periodic basis that payments for principal and interest are disclosed pursuant to \u00a7 1026.37(c)(2)(i), even if mortgage insurance premiums are actually paid on some other periodic basis.", 
-                    "title": null
+                    "text": "2. Relationship to principal and interest disclosure. The creditor discloses mortgage insurance premiums pursuant to \u00a7 1026.37(c)(2)(ii) on the same periodic basis that payments for principal and interest are disclosed pursuant to \u00a7 1026.37(c)(2)(i), even if mortgage insurance premiums are actually paid on some other periodic basis."
                 }
             }
         ], 
@@ -8526,7 +8516,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "37", 
@@ -8537,9 +8527,7 @@
                         "1"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "1.<E T=\"03\">Escrow disclosure.</E>The disclosure described in \u00a7 1026.37(c)(2)(iii) is required only if the creditor will establish an escrow account for the payment of some or all of the charges described in \u00a7 1026.37(c)(4)(ii). If no escrow account for the payment of some or all such charges will be established, the creditor discloses the escrow amount as \u201c0.\u201d If an escrow account is established for the payment of amounts described in \u00a7 1026.37(c)(4)(ii), but no escrow payment is required with a particular periodic payment (such as with a final balloon payment) or range of payments, the escrow payment should be disclosed as \u201c\u2014.\u201d", 
-                    "text": "1. Escrow disclosure. The disclosure described in \u00a7 1026.37(c)(2)(iii) is required only if the creditor will establish an escrow account for the payment of some or all of the charges described in \u00a7 1026.37(c)(4)(ii). If no escrow account for the payment of some or all such charges will be established, the creditor discloses the escrow amount as \u201c0.\u201d If an escrow account is established for the payment of amounts described in \u00a7 1026.37(c)(4)(ii), but no escrow payment is required with a particular periodic payment (such as with a final balloon payment) or range of payments, the escrow payment should be disclosed as \u201c\u2014.\u201d", 
-                    "title": null
+                    "text": "1. Escrow disclosure. The disclosure described in \u00a7 1026.37(c)(2)(iii) is required only if the creditor will establish an escrow account for the payment of some or all of the charges described in \u00a7 1026.37(c)(4)(ii). If no escrow account for the payment of some or all such charges will be established, the creditor discloses the escrow amount as \u201c0.\u201d If an escrow account is established for the payment of amounts described in \u00a7 1026.37(c)(4)(ii), but no escrow payment is required with a particular periodic payment (such as with a final balloon payment) or range of payments, the escrow payment should be disclosed as \u201c\u2014.\u201d"
                 }
             }
         ], 
@@ -8547,7 +8535,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "37", 
@@ -8558,9 +8546,7 @@
                         "2"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "2.<E T=\"03\">Amounts paid by the creditor using escrow account funds.</E>Section 1026.37(c)(4)(iv) requires the creditor to disclose an indication of whether the amounts disclosed pursuant to \u00a7 1026.37(c)(4)(ii) will be paid by the creditor using escrow account funds. If the amount disclosed pursuant to \u00a7 1026.37(c)(4)(ii) requires the creditor to disclose a description of more than one amount and only some of those amounts will be paid by the creditor using escrow account funds, the creditor may indicate that only some of those amounts will be paid using escrow account funds, such as by using the word \u201csome.\u201d", 
-                    "text": "2. Amounts paid by the creditor using escrow account funds. Section 1026.37(c)(4)(iv) requires the creditor to disclose an indication of whether the amounts disclosed pursuant to \u00a7 1026.37(c)(4)(ii) will be paid by the creditor using escrow account funds. If the amount disclosed pursuant to \u00a7 1026.37(c)(4)(ii) requires the creditor to disclose a description of more than one amount and only some of those amounts will be paid by the creditor using escrow account funds, the creditor may indicate that only some of those amounts will be paid using escrow account funds, such as by using the word \u201csome.\u201d", 
-                    "title": null
+                    "text": "2. Amounts paid by the creditor using escrow account funds. Section 1026.37(c)(4)(iv) requires the creditor to disclose an indication of whether the amounts disclosed pursuant to \u00a7 1026.37(c)(4)(ii) will be paid by the creditor using escrow account funds. If the amount disclosed pursuant to \u00a7 1026.37(c)(4)(ii) requires the creditor to disclose a description of more than one amount and only some of those amounts will be paid by the creditor using escrow account funds, the creditor may indicate that only some of those amounts will be paid using escrow account funds, such as by using the word \u201csome.\u201d"
                 }
             }
         ], 
@@ -8568,7 +8554,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "37", 
@@ -8579,9 +8565,7 @@
                         "1"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "1.<E T=\"03\">Calculating amount.</E>The amount of closing costs financed disclosed under \u00a7 1026.37(h)(1)(ii) is determined by subtracting the estimated total amount of payments to third parties not otherwise disclosed pursuant to \u00a7 1026.37(f) and (g) from the total loan amount disclosed pursuant to \u00a7 1026.37(b)(1). If the result of the calculation is a positive number, that amount is disclosed as a negative number under \u00a7 1026.37(h)(1)(ii), but only to the extent that it does not exceed the total amount of closing costs disclosed under \u00a7 1026.37(g)(6). If the result of the calculation is zero or negative, the amount of $0 is disclosed under \u00a7 1026.37(h)(1)(ii).", 
-                    "text": "1. Calculating amount. The amount of closing costs financed disclosed under \u00a7 1026.37(h)(1)(ii) is determined by subtracting the estimated total amount of payments to third parties not otherwise disclosed pursuant to \u00a7 1026.37(f) and (g) from the total loan amount disclosed pursuant to \u00a7 1026.37(b)(1). If the result of the calculation is a positive number, that amount is disclosed as a negative number under \u00a7 1026.37(h)(1)(ii), but only to the extent that it does not exceed the total amount of closing costs disclosed under \u00a7 1026.37(g)(6). If the result of the calculation is zero or negative, the amount of $0 is disclosed under \u00a7 1026.37(h)(1)(ii).", 
-                    "title": null
+                    "text": "1. Calculating amount. The amount of closing costs financed disclosed under \u00a7 1026.37(h)(1)(ii) is determined by subtracting the estimated total amount of payments to third parties not otherwise disclosed pursuant to \u00a7 1026.37(f) and (g) from the total loan amount disclosed pursuant to \u00a7 1026.37(b)(1). If the result of the calculation is a positive number, that amount is disclosed as a negative number under \u00a7 1026.37(h)(1)(ii), but only to the extent that it does not exceed the total amount of closing costs disclosed under \u00a7 1026.37(g)(6). If the result of the calculation is zero or negative, the amount of $0 is disclosed under \u00a7 1026.37(h)(1)(ii)."
                 }
             }
         ], 
@@ -8589,7 +8573,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "37", 
@@ -8597,9 +8581,7 @@
                         "8"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(8)<E T=\"03\">Construction loans.</E>In transactions involving new construction, where the creditor reasonably expects that settlement will occur more than 60 days after the provision of the loan estimate, at the creditor's option, a clear and conspicuous statement that the creditor may issue a revised disclosure any time prior to 60 days before consummation, pursuant to \u00a7 1026.19(e)(3)(iv)(F).", 
-                    "text": "(8) Construction loans. In transactions involving new construction, where the creditor reasonably expects that settlement will occur more than 60 days after the provision of the loan estimate, at the creditor's option, a clear and conspicuous statement that the creditor may issue a revised disclosure any time prior to 60 days before consummation, pursuant to \u00a7 1026.19(e)(3)(iv)(F).", 
-                    "title": null
+                    "text": "(8) Construction loans. In transactions involving new construction, where the creditor reasonably expects that settlement will occur more than 60 days after the provision of the loan estimate, at the creditor's option, a clear and conspicuous statement that the creditor may issue a revised disclosure any time prior to 60 days before consummation, pursuant to \u00a7 1026.19(e)(3)(iv)(F)."
                 }
             }
         ], 
@@ -8607,7 +8589,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "37", 
@@ -8617,9 +8599,7 @@
                         "1"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "1.<E T=\"03\">Clear and conspicuous statement regarding redisclosure for construction loans.</E>For construction loans in transactions involving new construction, where the creditor reasonably expects the settlement date to be 60 days or more after the provision of the disclosures required under \u00a7 1026.19(e)(1)(i), providing the statement, \u201cYou may receive a revised Loan Estimate at any time prior to 60 days before consummation\u201d under the master heading \u201cAdditional Information About This Loan\u201d and the heading \u201cOther Considerations\u201d pursuant to \u00a7 1026.37(m)(8) satisfies the requirements set forth in \u00a7 1026.19(e)(3)(iv)(F) that the statement be made clearly and conspicuously on the disclosure.", 
-                    "text": "1. Clear and conspicuous statement regarding redisclosure for construction loans. For construction loans in transactions involving new construction, where the creditor reasonably expects the settlement date to be 60 days or more after the provision of the disclosures required under \u00a7 1026.19(e)(1)(i), providing the statement, \u201cYou may receive a revised Loan Estimate at any time prior to 60 days before consummation\u201d under the master heading \u201cAdditional Information About This Loan\u201d and the heading \u201cOther Considerations\u201d pursuant to \u00a7 1026.37(m)(8) satisfies the requirements set forth in \u00a7 1026.19(e)(3)(iv)(F) that the statement be made clearly and conspicuously on the disclosure.", 
-                    "title": null
+                    "text": "1. Clear and conspicuous statement regarding redisclosure for construction loans. For construction loans in transactions involving new construction, where the creditor reasonably expects the settlement date to be 60 days or more after the provision of the disclosures required under \u00a7 1026.19(e)(1)(i), providing the statement, \u201cYou may receive a revised Loan Estimate at any time prior to 60 days before consummation\u201d under the master heading \u201cAdditional Information About This Loan\u201d and the heading \u201cOther Considerations\u201d pursuant to \u00a7 1026.37(m)(8) satisfies the requirements set forth in \u00a7 1026.19(e)(3)(iv)(F) that the statement be made clearly and conspicuously on the disclosure."
                 }
             }
         ], 
@@ -8627,7 +8607,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "37", 
@@ -8636,9 +8616,7 @@
                         "2"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "2.<E T=\"03\">Multiple consumers.</E>If there is more than one consumer who will be obligated in the transaction, the first consumer signs as the applicant and each additional consumer signs as a co-applicant. If there is not enough space under the heading \u201cConfirm Receipt\u201d to provide signature lines for every consumer in the transaction, the creditor may add additional signature pages, as needed, at the end of the form for the remaining consumers' signatures. However, the creditor is required to disclose the heading and statement required by \u00a7 1026.37(n)(1) on such additional pages.", 
-                    "text": "2. Multiple consumers. If there is more than one consumer who will be obligated in the transaction, the first consumer signs as the applicant and each additional consumer signs as a co-applicant. If there is not enough space under the heading \u201cConfirm Receipt\u201d to provide signature lines for every consumer in the transaction, the creditor may add additional signature pages, as needed, at the end of the form for the remaining consumers' signatures. However, the creditor is required to disclose the heading and statement required by \u00a7 1026.37(n)(1) on such additional pages.", 
-                    "title": null
+                    "text": "2. Multiple consumers. If there is more than one consumer who will be obligated in the transaction, the first consumer signs as the applicant and each additional consumer signs as a co-applicant. If there is not enough space under the heading \u201cConfirm Receipt\u201d to provide signature lines for every consumer in the transaction, the creditor may add additional signature pages, as needed, at the end of the form for the remaining consumers' signatures. However, the creditor is required to disclose the heading and statement required by \u00a7 1026.37(n)(1) on such additional pages."
                 }
             }
         ], 
@@ -8646,7 +8624,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "37", 
@@ -8656,9 +8634,7 @@
                         "A"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(A) The dollar amounts required to be disclosed by paragraphs (b)(6) and (7), (c)(1)(iii), (c)(2)(ii) and (iii), (c)(4)(ii), (f), (g), (h), (i), and (l) of this section shall be rounded to the nearest whole dollar, except that the per diem amount required to be disclosed by paragraph (g)(2)(iii) of this section and the monthly amounts required to be disclosed by paragraphs (g)(3)(i) through (iii) and (g)(3)(v) of this section shall not be rounded.", 
-                    "text": "(A) The dollar amounts required to be disclosed by paragraphs (b)(6) and (7), (c)(1)(iii), (c)(2)(ii) and (iii), (c)(4)(ii), (f), (g), (h), (i), and (l) of this section shall be rounded to the nearest whole dollar, except that the per diem amount required to be disclosed by paragraph (g)(2)(iii) of this section and the monthly amounts required to be disclosed by paragraphs (g)(3)(i) through (iii) and (g)(3)(v) of this section shall not be rounded.", 
-                    "title": null
+                    "text": "(A) The dollar amounts required to be disclosed by paragraphs (b)(6) and (7), (c)(1)(iii), (c)(2)(ii) and (iii), (c)(4)(ii), (f), (g), (h), (i), and (l) of this section shall be rounded to the nearest whole dollar, except that the per diem amount required to be disclosed by paragraph (g)(2)(iii) of this section and the monthly amounts required to be disclosed by paragraphs (g)(3)(i) through (iii) and (g)(3)(v) of this section shall not be rounded."
                 }
             }
         ], 
@@ -8666,7 +8642,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "38", 
@@ -8677,9 +8653,7 @@
                         "2"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "2.<E T=\"03\">Multiple properties.</E>Where more than one property secures the credit transaction, \u00a7 1026.38(a)(3)(vi) requires disclosure of all property addresses. If the addresses of all properties securing the transaction do not fit in the space allocated on the Closing Disclosure, an additional page with the addresses of all such properties may be appended to the end of the form.", 
-                    "text": "2. Multiple properties. Where more than one property secures the credit transaction, \u00a7 1026.38(a)(3)(vi) requires disclosure of all property addresses. If the addresses of all properties securing the transaction do not fit in the space allocated on the Closing Disclosure, an additional page with the addresses of all such properties may be appended to the end of the form.", 
-                    "title": null
+                    "text": "2. Multiple properties. Where more than one property secures the credit transaction, \u00a7 1026.38(a)(3)(vi) requires disclosure of all property addresses. If the addresses of all properties securing the transaction do not fit in the space allocated on the Closing Disclosure, an additional page with the addresses of all such properties may be appended to the end of the form."
                 }
             }
         ], 
@@ -8687,7 +8661,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "38", 
@@ -8699,9 +8673,7 @@
                         "1"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "1.<E T=\"03\">Statements of increases or decreases.</E>Section 1026.38(e)(1)(iii)(A) requires a statement of whether the amount increased or decreased from the estimated amount. The statement, \u201cThis amount increased,\u201d in which the word \u201cincreased\u201d is in boldface font and is replaced with the word \u201cdecreased\u201d as applicable, complies with this requirement.", 
-                    "text": "1. Statements of increases or decreases. Section 1026.38(e)(1)(iii)(A) requires a statement of whether the amount increased or decreased from the estimated amount. The statement, \u201cThis amount increased,\u201d in which the word \u201cincreased\u201d is in boldface font and is replaced with the word \u201cdecreased\u201d as applicable, complies with this requirement.", 
-                    "title": null
+                    "text": "1. Statements of increases or decreases. Section 1026.38(e)(1)(iii)(A) requires a statement of whether the amount increased or decreased from the estimated amount. The statement, \u201cThis amount increased,\u201d in which the word \u201cincreased\u201d is in boldface font and is replaced with the word \u201cdecreased\u201d as applicable, complies with this requirement."
                 }
             }
         ], 
@@ -8709,7 +8681,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "38", 
@@ -8721,9 +8693,25 @@
                         "3"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "3.<E T=\"03\">Statements regarding excess amount and any credit to the consumer.</E>Section 1026.38(e)(2)(iii)(A) requires a statement that an increase in closing costs exceeds legal limits by the dollar amount of the excess and a statement directing the consumer to the disclosure of lender credits under \u00a7 1026.38(h)(3) if a credit is provided under \u00a7 1026.19(f)(2)(v). See form H-25(F) in appendix H to this part for examples of such statements.", 
-                    "text": "3. Statements regarding excess amount and any credit to the consumer. Section 1026.38(e)(2)(iii)(A) requires a statement that an increase in closing costs exceeds legal limits by the dollar amount of the excess and a statement directing the consumer to the disclosure of lender credits under \u00a7 1026.38(h)(3) if a credit is provided under \u00a7 1026.19(f)(2)(v). See form H-25(F) in appendix H to this part for examples of such statements.", 
-                    "title": null
+                    "text": "3. Statements regarding excess amount and any credit to the consumer. Section 1026.38(e)(2)(iii)(A) requires a statement that an increase in closing costs exceeds legal limits by the dollar amount of the excess and a statement directing the consumer to the disclosure of lender credits under \u00a7 1026.38(h)(3) if a credit is provided under \u00a7 1026.19(f)(2)(v). See form H-25(F) in appendix H to this part for examples of such statements."
+                }
+            }
+        ], 
+        "1026-38-e-3-iii-A": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "children": [], 
+                    "label": [
+                        "1026", 
+                        "38", 
+                        "e", 
+                        "3", 
+                        "iii", 
+                        "A"
+                    ], 
+                    "node_type": "regtext", 
+                    "text": "(A) If the amount disclosed under paragraph (e)(3)(ii) of this section is different than the amount disclosed under paragraph (e)(3)(i) of this section (unless the difference is due to rounding), a statement of that fact, along with a statement that the consumer paid such amounts prior to consummation of the transaction; or"
                 }
             }
         ], 
@@ -8731,7 +8719,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "38", 
@@ -8741,9 +8729,90 @@
                         "4"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "4.<E T=\"03\">Interest rate for prepaid interest.</E>The dollar amounts disclosed pursuant to \u00a7 1026.38(g)(2) must be based on the interest rate disclosed under \u00a7 1026.38(b), as required by \u00a7 1026.37(b)(2).", 
-                    "text": "4. Interest rate for prepaid interest. The dollar amounts disclosed pursuant to \u00a7 1026.38(g)(2) must be based on the interest rate disclosed under \u00a7 1026.38(b), as required by \u00a7 1026.37(b)(2).", 
-                    "title": null
+                    "text": "4. Interest rate for prepaid interest. The dollar amounts disclosed pursuant to \u00a7 1026.38(g)(2) must be based on the interest rate disclosed under \u00a7 1026.38(b), as required by \u00a7 1026.37(b)(2)."
+                }
+            }
+        ], 
+        "1026-38-j-2-iv": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "children": [], 
+                    "label": [
+                        "1026", 
+                        "38", 
+                        "j", 
+                        "2", 
+                        "iv"
+                    ], 
+                    "node_type": "regtext", 
+                    "text": "(iv) The amount of any existing loans that the consumer is assuming, or any loans subject to which the consumer is taking title to the property, labeled \u201cExisting Loan(s) Assumed or Taken Subject to\u201d;"
+                }
+            }
+        ], 
+        "1026-38-k-2-v": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "children": [], 
+                    "label": [
+                        "1026", 
+                        "38", 
+                        "k", 
+                        "2", 
+                        "v"
+                    ], 
+                    "node_type": "regtext", 
+                    "text": "(v) The amount of any loan secured by a first lien on the property that will be paid off as part of the real estate closing, labeled \u201cPayoff of First Mortgage Loan\u201d;"
+                }
+            }
+        ], 
+        "1026-38-k-2-vi": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "children": [], 
+                    "label": [
+                        "1026", 
+                        "38", 
+                        "k", 
+                        "2", 
+                        "vi"
+                    ], 
+                    "node_type": "regtext", 
+                    "text": "(vi) The amount of any loan secured by a second lien on the property that will be paid off as part of the real estate closing, labeled \u201cPayoff of Second Mortgage Loan\u201d;"
+                }
+            }
+        ], 
+        "1026-H-24(G)": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "children": [], 
+                    "label": [
+                        "1026", 
+                        "H", 
+                        "24(G)"
+                    ], 
+                    "node_type": "appendix", 
+                    "text": "", 
+                    "title": "H-24(G) Mortgage Loan Transaction Loan Estimate\u2014Modification to Loan Estimate for Transaction Not Involving Seller\u2014Model Form"
+                }
+            }
+        ], 
+        "1026-H-24(G)-p1": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "children": [], 
+                    "label": [
+                        "1026", 
+                        "H", 
+                        "24(G)", 
+                        "p1"
+                    ], 
+                    "node_type": "appendix", 
+                    "text": "Description: This is a blank model Loan Estimate that illustrates the application of the content requirements in \u00a7 1026.37, with the optional alternative tables permitted by \u00a7 1026.37(d)(2) and (h)(2) for transactions without a seller. This form provides one variation of page one, four variations of page two, and four variations of page three, reflecting the variable content requirements in \u00a7 1026.37."
                 }
             }
         ]
