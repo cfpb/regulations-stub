@@ -3,9 +3,16 @@
         "op": "modified", 
         "title": [
             [
-                "delete", 
-                0, 
-                41
+                [
+                    "delete", 
+                    13, 
+                    22
+                ], 
+                [
+                    "insert", 
+                    13, 
+                    "Ability"
+                ]
             ]
         ]
     }, 
@@ -209,262 +216,6 @@
     "1024-38-b-5-Interp-3": {
         "op": "deleted"
     }, 
-    "1024-39-Interp": {
-        "op": "modified", 
-        "title": [
-            [
-                "insert", 
-                0, 
-                "\u00a7 1024.39\u2014Early Intervention Requirements for Certain Borrowers"
-            ]
-        ]
-    }, 
-    "1024-39-a-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-39-a-Interp-1", 
-                "1024-39-a-Interp-2", 
-                "1024-39-a-Interp-3", 
-                "1024-39-a-Interp-4"
-            ], 
-            "label": [
-                "1024", 
-                "39", 
-                "a", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "39(a) Live contact."
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-a-Interp-1": {
-        "node": {
-            "child_labels": [
-                "1024-39-a-Interp-1-i", 
-                "1024-39-a-Interp-1-ii", 
-                "1024-39-a-Interp-1-iii", 
-                "1024-39-a-Interp-1-iv"
-            ], 
-            "label": [
-                "1024", 
-                "39", 
-                "a", 
-                "Interp", 
-                "1"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "1.<E T=\"03\">Delinquency.</E>A borrower is delinquent for purposes of \u00a7 1024.39 as follows:", 
-            "text": "1. Delinquency. A borrower is delinquent for purposes of \u00a7 1024.39 as follows:", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-a-Interp-1-i": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "a", 
-                "Interp", 
-                "1", 
-                "i"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "i. Delinquency begins on the day a payment sufficient to cover principal, interest, and, if applicable, escrow for a given billing cycle is due and unpaid, even if the borrower is afforded a period after the due date to pay before the servicer assesses a late fee. For example, if a payment due date is January 1 and the amount due is not fully paid during the 36-day period after January 1, the servicer must establish or make good faith efforts to establish live contact not later than 36 days after January 1\u2014<E T=\"03\">i.e.,</E>by February 6.", 
-            "text": "i. Delinquency begins on the day a payment sufficient to cover principal, interest, and, if applicable, escrow for a given billing cycle is due and unpaid, even if the borrower is afforded a period after the due date to pay before the servicer assesses a late fee. For example, if a payment due date is January 1 and the amount due is not fully paid during the 36-day period after January 1, the servicer must establish or make good faith efforts to establish live contact not later than 36 days after January 1\u2014 i.e., by February 6.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-a-Interp-1-ii": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "a", 
-                "Interp", 
-                "1", 
-                "ii"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "ii. A borrower who is performing as agreed under a loss mitigation option designed to bring the borrower current on a previously missed payment is not delinquent for purposes of \u00a7 1024.39.", 
-            "text": "ii. A borrower who is performing as agreed under a loss mitigation option designed to bring the borrower current on a previously missed payment is not delinquent for purposes of \u00a7 1024.39.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-a-Interp-1-iii": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "a", 
-                "Interp", 
-                "1", 
-                "iii"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "iii. During the 60-day period beginning on the effective date of transfer of the servicing of any mortgage loan, a borrower is not delinquent for purposes of \u00a7 1024.39 if the transferee servicer learns that the borrower has made a timely payment that has been misdirected to the transferor servicer and the transferee servicer documents its files accordingly.<E T=\"03\">See</E>\u00a7 1024.33(c)(1) and comment 33(c)(1)-2.", 
-            "text": "iii. During the 60-day period beginning on the effective date of transfer of the servicing of any mortgage loan, a borrower is not delinquent for purposes of \u00a7 1024.39 if the transferee servicer learns that the borrower has made a timely payment that has been misdirected to the transferor servicer and the transferee servicer documents its files accordingly. See \u00a7 1024.33(c)(1) and comment 33(c)(1)-2.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-a-Interp-1-iv": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "a", 
-                "Interp", 
-                "1", 
-                "iv"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "iv. A servicer need not establish live contact with a borrower unless the borrower is delinquent during the 36 days after a payment due date. If the borrower satisfies a payment in full before the end of the 36-day period, the servicer need not establish live contact with the borrower. For example, if a borrower misses a January 1 due date but makes that payment on February 1, a servicer need not establish or make good faith efforts to establish live contact by February 6.", 
-            "text": "iv. A servicer need not establish live contact with a borrower unless the borrower is delinquent during the 36 days after a payment due date. If the borrower satisfies a payment in full before the end of the 36-day period, the servicer need not establish live contact with the borrower. For example, if a borrower misses a January 1 due date but makes that payment on February 1, a servicer need not establish or make good faith efforts to establish live contact by February 6.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-a-Interp-2": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "a", 
-                "Interp", 
-                "2"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "2.<E T=\"03\">Establishing live contact.</E>Live contact provides servicers an opportunity to discuss the circumstances of a borrower's delinquency. Live contact with a borrower includes telephoning or conducting an in-person meeting with the borrower, but not leaving a recorded phone message. A servicer may, but need not, rely on live contact established at the borrower's initiative to satisfy the live contact requirement in \u00a7 1024.39(a). Good faith efforts to establish live contact consist of reasonable steps under the circumstances to reach a borrower and may include telephoning the borrower on more than one occasion or sending written or electronic communication encouraging the borrower to establish live contact with the servicer.", 
-            "text": "2. Establishing live contact. Live contact provides servicers an opportunity to discuss the circumstances of a borrower's delinquency. Live contact with a borrower includes telephoning or conducting an in-person meeting with the borrower, but not leaving a recorded phone message. A servicer may, but need not, rely on live contact established at the borrower's initiative to satisfy the live contact requirement in \u00a7 1024.39(a). Good faith efforts to establish live contact consist of reasonable steps under the circumstances to reach a borrower and may include telephoning the borrower on more than one occasion or sending written or electronic communication encouraging the borrower to establish live contact with the servicer.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-a-Interp-3": {
-        "node": {
-            "child_labels": [
-                "1024-39-a-Interp-3-i", 
-                "1024-39-a-Interp-3-ii"
-            ], 
-            "label": [
-                "1024", 
-                "39", 
-                "a", 
-                "Interp", 
-                "3"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "3.<E T=\"03\">Promptly inform if appropriate.</E>\n            ", 
-            "text": "3. Promptly inform if appropriate.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-a-Interp-3-i": {
-        "node": {
-            "child_labels": [
-                "1024-39-a-Interp-3-i-A", 
-                "1024-39-a-Interp-3-i-B"
-            ], 
-            "label": [
-                "1024", 
-                "39", 
-                "a", 
-                "Interp", 
-                "3", 
-                "i"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "i.<E T=\"03\">Servicer's determination.</E>It is within a servicer's reasonable discretion to determine whether informing a borrower about the availability of loss mitigation options is appropriate under the circumstances. The following examples demonstrate when a servicer has made a reasonable determination regarding the appropriateness of providing information about loss mitigation options.", 
-            "text": "i. Servicer's determination. It is within a servicer's reasonable discretion to determine whether informing a borrower about the availability of loss mitigation options is appropriate under the circumstances. The following examples demonstrate when a servicer has made a reasonable determination regarding the appropriateness of providing information about loss mitigation options.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-a-Interp-3-i-A": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "a", 
-                "Interp", 
-                "3", 
-                "i", 
-                "A"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "A. A servicer provides information about the availability of loss mitigation options to a borrower who notifies a servicer during live contact of a material adverse change in the borrower's financial circumstances that is likely to cause the borrower to experience a long-term delinquency for which loss mitigation options may be available.", 
-            "text": "A. A servicer provides information about the availability of loss mitigation options to a borrower who notifies a servicer during live contact of a material adverse change in the borrower's financial circumstances that is likely to cause the borrower to experience a long-term delinquency for which loss mitigation options may be available.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-a-Interp-3-i-B": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "a", 
-                "Interp", 
-                "3", 
-                "i", 
-                "B"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "B. A servicer does not provide information about the availability of loss mitigation options to a borrower who has missed a January 1 payment and notified the servicer that full late payment will be transmitted to the servicer by February 15.", 
-            "text": "B. A servicer does not provide information about the availability of loss mitigation options to a borrower who has missed a January 1 payment and notified the servicer that full late payment will be transmitted to the servicer by February 15.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-a-Interp-3-ii": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "a", 
-                "Interp", 
-                "3", 
-                "ii"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "ii.<E T=\"03\">Promptly inform.</E>If appropriate, a servicer may inform borrowers about the availability of loss mitigation options orally, in writing, or through electronic communication, but the servicer must provide such information promptly after the servicer establishes live contact. A servicer need not notify a borrower about any particular loss mitigation options at this time; if appropriate, a servicer need only inform borrowers generally that loss mitigation options may be available. If appropriate, a servicer may satisfy the requirement in \u00a7 1024.39(a) to inform a borrower about loss mitigation options by providing the written notice required by \u00a7 1024.39(b)(1), but the servicer must provide such notice promptly after the servicer establishes live contact.", 
-            "text": "ii. Promptly inform. If appropriate, a servicer may inform borrowers about the availability of loss mitigation options orally, in writing, or through electronic communication, but the servicer must provide such information promptly after the servicer establishes live contact. A servicer need not notify a borrower about any particular loss mitigation options at this time; if appropriate, a servicer need only inform borrowers generally that loss mitigation options may be available. If appropriate, a servicer may satisfy the requirement in \u00a7 1024.39(a) to inform a borrower about loss mitigation options by providing the written notice required by \u00a7 1024.39(b)(1), but the servicer must provide such notice promptly after the servicer establishes live contact.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-a-Interp-4": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "a", 
-                "Interp", 
-                "4"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "4.<E T=\"03\">Borrower's representative.</E>Section 1024.39 does not prohibit a servicer from satisfying the requirements \u00a7 1024.39 by establishing live contact with and, if applicable, providing information about loss mitigation options to a person authorized by the borrower to communicate with the servicer on the borrower's behalf. A servicer may undertake reasonable procedures to determine if a person that claims to be an agent of a borrower has authority from the borrower to act on the borrower's behalf, for example, by requiring a person that claims to be an agent of the borrower provide documentation from the borrower stating that the purported agent is acting on the borrower's behalf.", 
-            "text": "4. Borrower's representative. Section 1024.39 does not prohibit a servicer from satisfying the requirements \u00a7 1024.39 by establishing live contact with and, if applicable, providing information about loss mitigation options to a person authorized by the borrower to communicate with the servicer on the borrower's behalf. A servicer may undertake reasonable procedures to determine if a person that claims to be an agent of a borrower has authority from the borrower to act on the borrower's behalf, for example, by requiring a person that claims to be an agent of the borrower provide documentation from the borrower stating that the purported agent is acting on the borrower's behalf.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
     "1024-39-b-1": {
         "op": "modified", 
         "text": [
@@ -481,275 +232,6 @@
                 ]
             ]
         ]
-    }, 
-    "1024-39-b-1-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-39-b-1-Interp-1", 
-                "1024-39-b-1-Interp-2", 
-                "1024-39-b-1-Interp-3", 
-                "1024-39-b-1-Interp-4"
-            ], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "1", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "39(b)(1) Notice required."
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-b-1-Interp-1": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "1", 
-                "Interp", 
-                "1"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "1.<E T=\"03\">Delinquency.</E>For guidance on the circumstances under which a borrower is delinquent for purposes of \u00a7 1024.39, see comment 39(a)-1. For example, if a payment due date is January 1 and the payment remains unpaid during the 45-day period after January 1, the servicer must provide the written notice within 45 days after January 1\u2014<E T=\"03\">i.e.,</E>by February 15. However, if a borrower satisfies a late payment in full before the end of the 45-day period, the servicer need not provide the written notice. For example, if a borrower misses a January 1 due date but makes that payment on February 1, a servicer need not provide the written notice by February 15.", 
-            "text": "1. Delinquency. For guidance on the circumstances under which a borrower is delinquent for purposes of \u00a7 1024.39, see comment 39(a)-1. For example, if a payment due date is January 1 and the payment remains unpaid during the 45-day period after January 1, the servicer must provide the written notice within 45 days after January 1\u2014 i.e., by February 15. However, if a borrower satisfies a late payment in full before the end of the 45-day period, the servicer need not provide the written notice. For example, if a borrower misses a January 1 due date but makes that payment on February 1, a servicer need not provide the written notice by February 15.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-b-1-Interp-2": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "1", 
-                "Interp", 
-                "2"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "2.<E T=\"03\">Frequency of the written notice.</E>A servicer need not provide the written notice under \u00a7 1024.39(a) more than once during a 180-day period beginning on the date on which the written notice is provided. For example, a borrower has a payment due on March 1. The amount due is not fully paid during the 45 days after March 1 and the servicer provides the written notice within 45 days after March 1\u2014<E T=\"03\">i.e.,</E>by April 15. If the borrower subsequently fails to make a payment due April 1 and the amount due is not fully paid during the 45 days after April 1, the servicer need not provide the written notice again during the 180-day period beginning on April 15.", 
-            "text": "2. Frequency of the written notice. A servicer need not provide the written notice under \u00a7 1024.39(a) more than once during a 180-day period beginning on the date on which the written notice is provided. For example, a borrower has a payment due on March 1. The amount due is not fully paid during the 45 days after March 1 and the servicer provides the written notice within 45 days after March 1\u2014 i.e., by April 15. If the borrower subsequently fails to make a payment due April 1 and the amount due is not fully paid during the 45 days after April 1, the servicer need not provide the written notice again during the 180-day period beginning on April 15.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-b-1-Interp-3": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "1", 
-                "Interp", 
-                "3"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "3.<E T=\"03\">Borrower's representative.</E>See comment 39(a)-4.", 
-            "text": "3. Borrower's representative. See comment 39(a)-4.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-b-1-Interp-4": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "1", 
-                "Interp", 
-                "4"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "4.<E T=\"03\">Relationship to \u00a7 1024.39(a).</E>The written notice required under \u00a7 1024.39(b)(1) must be provided even if the servicer provided information about loss mitigation and foreclosure previously during an oral communication with the borrower under \u00a7 1024.39(a).", 
-            "text": "4. Relationship to \u00a7 1024.39(a). The written notice required under \u00a7 1024.39(b)(1) must be provided even if the servicer provided information about loss mitigation and foreclosure previously during an oral communication with the borrower under \u00a7 1024.39(a).", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-b-2-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-39-b-2-Interp-1", 
-                "1024-39-b-2-Interp-2", 
-                "1024-39-b-2-Interp-3", 
-                "1024-39-b-2-iii-Interp", 
-                "1024-39-b-2-iv-Interp"
-            ], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "2", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "39(b)(2) Content of the written notice."
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-b-2-Interp-1": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "2", 
-                "Interp", 
-                "1"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "1.<E T=\"03\">Minimum requirements.</E>Section 1024.39(b)(2) contains minimum content requirements for the written notice. A servicer may provide additional information that the servicer determines would be helpful or which may be required by applicable law or the owner or assignee of the mortgage loan.", 
-            "text": "1. Minimum requirements. Section 1024.39(b)(2) contains minimum content requirements for the written notice. A servicer may provide additional information that the servicer determines would be helpful or which may be required by applicable law or the owner or assignee of the mortgage loan.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-b-2-Interp-2": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "2", 
-                "Interp", 
-                "2"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "2.<E T=\"03\">Format.</E>Any color, number of pages, size and quality of paper, size and type of print, and method of reproduction may be used, provided each of the statements required by \u00a7 1024.39(b)(2) satisfies the clear and conspicuous standard in \u00a7 1024.32(a)(1).", 
-            "text": "2. Format. Any color, number of pages, size and quality of paper, size and type of print, and method of reproduction may be used, provided each of the statements required by \u00a7 1024.39(b)(2) satisfies the clear and conspicuous standard in \u00a7 1024.32(a)(1).", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-b-2-Interp-3": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "2", 
-                "Interp", 
-                "3"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "3.<E T=\"03\">Delivery.</E>A servicer may satisfy the requirement to provide the written notice by combining other notices that satisfy the content requirements of \u00a7 1024.39(b)(2) into a single mailing, provided each of the statements required by \u00a7 1024.39(b)(2) satisfies the clear and conspicuous standard in \u00a7 1024.32(a)(1).", 
-            "text": "3. Delivery. A servicer may satisfy the requirement to provide the written notice by combining other notices that satisfy the content requirements of \u00a7 1024.39(b)(2) into a single mailing, provided each of the statements required by \u00a7 1024.39(b)(2) satisfies the clear and conspicuous standard in \u00a7 1024.32(a)(1).", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-b-2-iii-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-39-b-2-iii-Interp-1", 
-                "1024-39-b-2-iii-Interp-2"
-            ], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "2", 
-                "iii", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "Paragraph 39(b)(2)(iii)."
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-b-2-iii-Interp-1": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "2", 
-                "iii", 
-                "Interp", 
-                "1"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "1.<E T=\"03\">Number of examples.</E>Section 1024.39(b)(2)(iii) does not require that a specific number of examples be disclosed, but borrowers are likely to benefit from examples of options that would permit them to retain ownership of their home and examples of options that may require borrowers to end their ownership to avoid foreclosure. The servicer may include a generic list of loss mitigation options that it offers to borrowers. The servicer may include a statement that not all borrowers will qualify for the listed options.", 
-            "text": "1. Number of examples. Section 1024.39(b)(2)(iii) does not require that a specific number of examples be disclosed, but borrowers are likely to benefit from examples of options that would permit them to retain ownership of their home and examples of options that may require borrowers to end their ownership to avoid foreclosure. The servicer may include a generic list of loss mitigation options that it offers to borrowers. The servicer may include a statement that not all borrowers will qualify for the listed options.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-b-2-iii-Interp-2": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "2", 
-                "iii", 
-                "Interp", 
-                "2"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "2.<E T=\"03\">Brief description.</E>An example of a loss mitigation option may be described in one or more sentences. If a servicer offers a loss mitigation option comprising several loss mitigation programs, the servicer may provide a generic description of the option without providing detailed descriptions of each program. For example, if the servicer offers several loan modification programs, the servicer may provide a generic description of \u201cloan modification.\u201d", 
-            "text": "2. Brief description. An example of a loss mitigation option may be described in one or more sentences. If a servicer offers a loss mitigation option comprising several loss mitigation programs, the servicer may provide a generic description of the option without providing detailed descriptions of each program. For example, if the servicer offers several loan modification programs, the servicer may provide a generic description of \u201cloan modification.\u201d", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-b-2-iv-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-39-b-2-iv-Interp-1"
-            ], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "2", 
-                "iv", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "Paragraph 39(b)(2)(iv)."
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-b-2-iv-Interp-1": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "2", 
-                "iv", 
-                "Interp", 
-                "1"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "1.<E T=\"03\">Explanation of how the borrower may obtain more information about loss mitigation options.</E>A servicer may comply with \u00a7 1024.39(b)(2)(iv) by directing the borrower to contact the servicer for more detailed information on how to apply for loss mitigation options. For example, a general statement such as, \u201ccontact us for instructions on how to apply\u201d would satisfy the requirement to inform the borrower how to obtain more information about loss mitigation options. However, to expedite the borrower's timely application for any loss mitigation options, servicers may provide more detailed instructions, such as by listing representative documents the borrower should make available to the servicer (such as tax filings or income statements), and an estimate of how quickly the servicer expects to evaluate a completed application and make a decision on loss mitigation options. Servicers may also supplement the written notice required by \u00a7 1024.39(b)(1) with a loss mitigation application form.", 
-            "text": "1. Explanation of how the borrower may obtain more information about loss mitigation options. A servicer may comply with \u00a7 1024.39(b)(2)(iv) by directing the borrower to contact the servicer for more detailed information on how to apply for loss mitigation options. For example, a general statement such as, \u201ccontact us for instructions on how to apply\u201d would satisfy the requirement to inform the borrower how to obtain more information about loss mitigation options. However, to expedite the borrower's timely application for any loss mitigation options, servicers may provide more detailed instructions, such as by listing representative documents the borrower should make available to the servicer (such as tax filings or income statements), and an estimate of how quickly the servicer expects to evaluate a completed application and make a decision on loss mitigation options. Servicers may also supplement the written notice required by \u00a7 1024.39(b)(1) with a loss mitigation application form.", 
-            "title": null
-        }, 
-        "op": "added"
     }, 
     "1024-39-b-3": {
         "op": "modified", 
@@ -772,25 +254,6 @@
                 ]
             ]
         ]
-    }, 
-    "1024-39-b-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-39-b-1-Interp", 
-                "1024-39-b-2-Interp"
-            ], 
-            "label": [
-                "1024", 
-                "39", 
-                "b", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "39(b) Written notice."
-        }, 
-        "op": "added"
     }, 
     "1024-39-c-Interp": {
         "node": {
@@ -1029,122 +492,6 @@
     "1024-41-b-3-Interp-2": {
         "op": "deleted"
     }, 
-    "1024-41-c-1-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-41-c-1-Interp-1", 
-                "1024-41-c-1-Interp-2", 
-                "1024-41-c-1-Interp-3"
-            ], 
-            "label": [
-                "1024", 
-                "41", 
-                "c", 
-                "1", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "41(c)(1) Complete loss mitigation application."
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-c-1-Interp-1": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "41", 
-                "c", 
-                "1", 
-                "Interp", 
-                "1"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "1.<E T=\"03\">Definition of \u201cevaluation.\u201d</E>The conduct of a servicer's evaluation with respect to any loss mitigation option is in the sole discretion of a servicer. A servicer meets the requirements of \u00a7 1024.41(c)(1)(i) if the servicer makes a determination regarding the borrower's eligibility for a loss mitigation program. Consistent with \u00a7 1024.41(a), because nothing in section 1024.41 should be construed to permit a borrower to enforce the terms of any agreement between a servicer and the owner or assignee of a mortgage loan, including with respect to the evaluation for, or provision of, any loss mitigation option, \u00a7 1024.41(c)(1) does not require that an evaluation meet any standard other than the discretion of the servicer.", 
-            "text": "1. Definition of \u201cevaluation.\u201d The conduct of a servicer's evaluation with respect to any loss mitigation option is in the sole discretion of a servicer. A servicer meets the requirements of \u00a7 1024.41(c)(1)(i) if the servicer makes a determination regarding the borrower's eligibility for a loss mitigation program. Consistent with \u00a7 1024.41(a), because nothing in section 1024.41 should be construed to permit a borrower to enforce the terms of any agreement between a servicer and the owner or assignee of a mortgage loan, including with respect to the evaluation for, or provision of, any loss mitigation option, \u00a7 1024.41(c)(1) does not require that an evaluation meet any standard other than the discretion of the servicer.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-c-1-Interp-2": {
-        "node": {
-            "child_labels": [
-                "1024-41-c-1-Interp-2-i", 
-                "1024-41-c-1-Interp-2-ii"
-            ], 
-            "label": [
-                "1024", 
-                "41", 
-                "c", 
-                "1", 
-                "Interp", 
-                "2"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "2.<E T=\"03\">Loss mitigation options available to a borrower.</E>The loss mitigation options available to a borrower are those options offered by an owner or assignee of the borrower's mortgage loan. Loss mitigation options administered by a servicer for an owner or assignee of a mortgage loan other than the owner or assignee of the borrower's mortgage loan are not available to the borrower solely because such options are administered by the servicer. For example:", 
-            "text": "2. Loss mitigation options available to a borrower. The loss mitigation options available to a borrower are those options offered by an owner or assignee of the borrower's mortgage loan. Loss mitigation options administered by a servicer for an owner or assignee of a mortgage loan other than the owner or assignee of the borrower's mortgage loan are not available to the borrower solely because such options are administered by the servicer. For example:", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-c-1-Interp-2-i": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "41", 
-                "c", 
-                "1", 
-                "Interp", 
-                "2", 
-                "i"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "i. A servicer services mortgage loans for two different owners or assignees of mortgage loans. Those entities each have different loss mitigation programs. loss mitigation options not offered by the owner or assignee of the borrower's mortgage loan are not available to the borrower; or", 
-            "text": "i. A servicer services mortgage loans for two different owners or assignees of mortgage loans. Those entities each have different loss mitigation programs. loss mitigation options not offered by the owner or assignee of the borrower's mortgage loan are not available to the borrower; or", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-c-1-Interp-2-ii": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "41", 
-                "c", 
-                "1", 
-                "Interp", 
-                "2", 
-                "ii"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "ii. The owner or assignee of a borrower's mortgage loan has established pilot programs, temporary programs, or programs that are limited by the number of participating borrowers. Such loss mitigation options are available to a borrower. However, a servicer evaluates whether a borrower is eligible for any such program consistent with criteria established by an owner or assignee of a mortgage loan. For example, if an owner or assignee has limited a pilot program to a certain geographic area or to a limited number of participants, and the servicer determines that a borrower is not eligible based on any such requirement, the servicer shall inform the borrower that the investor requirement for the program is the basis for the denial.", 
-            "text": "ii. The owner or assignee of a borrower's mortgage loan has established pilot programs, temporary programs, or programs that are limited by the number of participating borrowers. Such loss mitigation options are available to a borrower. However, a servicer evaluates whether a borrower is eligible for any such program consistent with criteria established by an owner or assignee of a mortgage loan. For example, if an owner or assignee has limited a pilot program to a certain geographic area or to a limited number of participants, and the servicer determines that a borrower is not eligible based on any such requirement, the servicer shall inform the borrower that the investor requirement for the program is the basis for the denial.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-c-1-Interp-3": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "41", 
-                "c", 
-                "1", 
-                "Interp", 
-                "3"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "3.<E T=\"03\">Offer of a non-home retention option.</E>A servicer's offer of a non-home retention option may be conditional upon receipt of further information not in the borrower's possession and necessary to establish the parameters of a servicer's offer. For example, a servicer complies with the requirement for evaluating the borrower for a short sale option if the servicer offers the borrower the opportunity to enter into a listing or marketing period agreement but indicates that specifics of an acceptable short sale transaction may be subject to further information obtained from an appraisal or title search.", 
-            "text": "3. Offer of a non-home retention option. A servicer's offer of a non-home retention option may be conditional upon receipt of further information not in the borrower's possession and necessary to establish the parameters of a servicer's offer. For example, a servicer complies with the requirement for evaluating the borrower for a short sale option if the servicer offers the borrower the opportunity to enter into a listing or marketing period agreement but indicates that specifics of an acceptable short sale transaction may be subject to further information obtained from an appraisal or title search.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
     "1024-41-c-1-ii": {
         "op": "modified", 
         "text": [
@@ -1159,16 +506,6 @@
                     202, 
                     "mortgage loan."
                 ]
-            ]
-        ]
-    }, 
-    "1024-41-c-2-Interp": {
-        "op": "modified", 
-        "title": [
-            [
-                "insert", 
-                0, 
-                "41(c)(2) Incomplete loss mitigation application evaluation."
             ]
         ]
     }, 
@@ -1206,63 +543,6 @@
             ]
         ]
     }, 
-    "1024-41-c-2-i-Interp": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "41", 
-                "c", 
-                "2", 
-                "i", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "41(c)(2)(i) In general."
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-c-2-ii-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-41-c-2-ii-Interp-1"
-            ], 
-            "label": [
-                "1024", 
-                "41", 
-                "c", 
-                "2", 
-                "ii", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "41(c)(2)(ii) Reasonable time."
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-c-2-ii-Interp-1": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "41", 
-                "c", 
-                "2", 
-                "ii", 
-                "Interp", 
-                "1"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "1.<E T=\"03\">Significant period of time.</E>A significant period of time under the circumstances may include consideration of the timing of the foreclosure process. For example, if a borrower is less than 50 days before a foreclosure sale, an application remaining incomplete for 15 days may be a more significant period of time under the circumstances than if the borrower is still less than 120 days delinquent on a mortgage loan obligation.", 
-            "text": "1. Significant period of time. A significant period of time under the circumstances may include consideration of the timing of the foreclosure process. For example, if a borrower is less than 50 days before a foreclosure sale, an application remaining incomplete for 15 days may be a more significant period of time under the circumstances than if the borrower is still less than 120 days delinquent on a mortgage loan obligation.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
     "1024-41-c-2-iii": {
         "op": "deleted"
     }, 
@@ -1289,16 +569,6 @@
     }, 
     "1024-41-c-2-iv-Interp-2": {
         "op": "deleted"
-    }, 
-    "1024-41-c-Interp": {
-        "op": "modified", 
-        "title": [
-            [
-                "insert", 
-                0, 
-                "41(c) Review of loss mitigation applications."
-            ]
-        ]
     }, 
     "1024-41-d": {
         "op": "modified", 
@@ -1329,6 +599,100 @@
             "node_type": "regtext", 
             "tagged_text": "(1) The specific reasons for the servicer's determination for each such trial or permanent loan modification option; and", 
             "text": "(1) The specific reasons for the servicer's determination for each such trial or permanent loan modification option; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-41-d-1-Interp": {
+        "node": {
+            "child_labels": [
+                "1024-41-d-1-Interp-1", 
+                "1024-41-d-1-Interp-2", 
+                "1024-41-d-1-Interp-3", 
+                "1024-41-d-1-Interp-4"
+            ], 
+            "label": [
+                "1024", 
+                "41", 
+                "d", 
+                "1", 
+                "Interp"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": null, 
+            "text": "", 
+            "title": "Paragraph 41(d)(1)."
+        }, 
+        "op": "added"
+    }, 
+    "1024-41-d-1-Interp-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "41", 
+                "d", 
+                "1", 
+                "Interp", 
+                "1"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "1.<E T=\"03\">Investor requirements.</E>If a trial or permanent loan modification option is denied because of a requirement of an owner or assignee of a mortgage loan, the specific reasons in the notice provided to the borrower must identify the owner or assignee of the mortgage loan and the requirement that is the basis of the denial. A statement that the denial of a loan modification option is based on an investor requirement, without additional information specifically identifying the relevant investor or guarantor and the specific applicable requirement, is insufficient. However, where an owner or assignee has established an evaluation criteria that sets an order ranking for evaluation of loan modification options (commonly known as a waterfall) and a borrower has qualified for a particular loan modification option in the ranking established by the owner or assignee, it is sufficient for the servicer to inform the borrower, with respect to other loan modification options ranked below any such option offered to a borrower, that the investor's requirements include the use of such a ranking and that an offer of a loan modification option necessarily results in a denial for any other loan modification options below the option for which the borrower is eligible in the ranking.", 
+            "text": "1. Investor requirements. If a trial or permanent loan modification option is denied because of a requirement of an owner or assignee of a mortgage loan, the specific reasons in the notice provided to the borrower must identify the owner or assignee of the mortgage loan and the requirement that is the basis of the denial. A statement that the denial of a loan modification option is based on an investor requirement, without additional information specifically identifying the relevant investor or guarantor and the specific applicable requirement, is insufficient. However, where an owner or assignee has established an evaluation criteria that sets an order ranking for evaluation of loan modification options (commonly known as a waterfall) and a borrower has qualified for a particular loan modification option in the ranking established by the owner or assignee, it is sufficient for the servicer to inform the borrower, with respect to other loan modification options ranked below any such option offered to a borrower, that the investor's requirements include the use of such a ranking and that an offer of a loan modification option necessarily results in a denial for any other loan modification options below the option for which the borrower is eligible in the ranking.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-41-d-1-Interp-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "41", 
+                "d", 
+                "1", 
+                "Interp", 
+                "2"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "2.<E T=\"03\">Net present value calculation.</E>If a trial or permanent loan modification is denied because of a net present value calculation, the specific reasons in the notice provided to the borrower must include the inputs used in the net present value calculation.", 
+            "text": "2. Net present value calculation. If a trial or permanent loan modification is denied because of a net present value calculation, the specific reasons in the notice provided to the borrower must include the inputs used in the net present value calculation.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-41-d-1-Interp-3": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "41", 
+                "d", 
+                "1", 
+                "Interp", 
+                "3"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "3.<E T=\"03\">Other notices.</E>A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002<E T=\"03\">et seq.</E>) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to \u00a7 1024.41(d), unless otherwise prohibited by applicable law.", 
+            "text": "3. Other notices. A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002 et seq.) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to \u00a7 1024.41(d), unless otherwise prohibited by applicable law.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-41-d-1-Interp-4": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "41", 
+                "d", 
+                "1", 
+                "Interp", 
+                "4"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "4.<E T=\"03\">Determination not to offer a loan modification option constitutes a denial.</E>A servicer's determination not to offer a borrower a loan modification available to the borrower constitutes a denial of the borrower for that loan modification option, notwithstanding whether a servicer offers a borrower a different loan modification option or other loss mitigation option.", 
+            "text": "4. Determination not to offer a loan modification option constitutes a denial. A servicer's determination not to offer a borrower a loan modification available to the borrower constitutes a denial of the borrower for that loan modification option, notwithstanding whether a servicer offers a borrower a different loan modification option or other loss mitigation option.", 
             "title": null
         }, 
         "op": "added"
@@ -1368,43 +732,6 @@
                 ]
             ]
         ]
-    }, 
-    "1024-41-f-1-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-41-f-1-Interp-1"
-            ], 
-            "label": [
-                "1024", 
-                "41", 
-                "f", 
-                "1", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "41(f)(1) Pre-foreclosure review period."
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-f-1-Interp-1": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "41", 
-                "f", 
-                "1", 
-                "Interp", 
-                "1"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "1.<E T=\"03\">First notice or filing required by applicable law.</E>The first notice or filing required by applicable law refers to any document required to be filed with a court, entered into a land record, or provided to a borrower as a requirement for proceeding with a judicial or non-judicial foreclosure process. Such notices or filings include, for example, a foreclosure complaint, a notice of default, a notice of election and demand, or any other notice that is required by applicable law in order to pursue acceleration of a mortgage loan obligation or sale of a property securing a mortgage loan obligation.", 
-            "text": "1. First notice or filing required by applicable law. The first notice or filing required by applicable law refers to any document required to be filed with a court, entered into a land record, or provided to a borrower as a requirement for proceeding with a judicial or non-judicial foreclosure process. Such notices or filings include, for example, a foreclosure complaint, a notice of default, a notice of election and demand, or any other notice that is required by applicable law in order to pursue acceleration of a mortgage loan obligation or sale of a property securing a mortgage loan obligation.", 
-            "title": null
-        }, 
-        "op": "added"
     }, 
     "1024-41-f-1-i": {
         "op": "deleted"

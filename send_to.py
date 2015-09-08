@@ -9,6 +9,7 @@ import json
 import urlparse
 import logging
 import boto
+from bs4 import BeautifulSoup
 
 logging.basicConfig(
         format='%(asctime)s %(levelname)s: %(message)s', 
@@ -121,7 +122,16 @@ def send_to_server(api_base, stub_base, path):
 
     # regulations-core returns 204 on a successful POST
     if r.status_code != 204:
-        logger.error("error sending {}: {}".format(r.status_code, r.reason))
+        try:
+            soup = BeautifulSoup(r.text, 'html.parser')
+
+            exception = soup.select("#summary h1")[0].text
+            exception_value = soup.select("#summary .exception_value")[0].text
+
+            logger.error("error sending {}: {}, {}".format(
+                r.status_code, exception, exception_value))
+        except:
+            logger.error("error sending {}: {}".format(r.status_code, r.reason))
 
 
 if __name__ == '__main__':

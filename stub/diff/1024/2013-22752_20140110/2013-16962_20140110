@@ -3,9 +3,16 @@
         "op": "modified", 
         "title": [
             [
-                "delete", 
-                0, 
-                41
+                [
+                    "delete", 
+                    13, 
+                    22
+                ], 
+                [
+                    "insert", 
+                    13, 
+                    "Ability"
+                ]
             ]
         ]
     }, 
@@ -277,6 +284,36 @@
             ]
         ]
     }, 
+    "1024-41-b-1-Interp-4-i": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                247, 
+                " and"
+            ]
+        ]
+    }, 
+    "1024-41-b-1-Interp-4-ii": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    415, 
+                    428
+                ], 
+                [
+                    "insert", 
+                    415, 
+                    "servicer."
+                ]
+            ]
+        ]
+    }, 
+    "1024-41-b-1-Interp-4-iii": {
+        "op": "deleted"
+    }, 
     "1024-41-b-2-Interp": {
         "op": "deleted"
     }, 
@@ -420,6 +457,9 @@
     "1024-41-b-3-Interp-2": {
         "op": "deleted"
     }, 
+    "1024-41-c-1-Interp-4": {
+        "op": "deleted"
+    }, 
     "1024-41-c-1-ii": {
         "op": "modified", 
         "text": [
@@ -498,6 +538,23 @@
     "1024-41-c-2-iv-Interp-2": {
         "op": "deleted"
     }, 
+    "1024-41-c-Interp": {
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    6, 
+                    16
+                ], 
+                [
+                    "insert", 
+                    6, 
+                    "Review"
+                ]
+            ]
+        ]
+    }, 
     "1024-41-d": {
         "op": "modified", 
         "text": [
@@ -531,6 +588,78 @@
         }, 
         "op": "added"
     }, 
+    "1024-41-d-1-Interp-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "41", 
+                "d", 
+                "1", 
+                "Interp", 
+                "1"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "1.<E T=\"03\">Investor requirements.</E>If a trial or permanent loan modification option is denied because of a requirement of an owner or assignee of a mortgage loan, the specific reasons in the notice provided to the borrower must identify the owner or assignee of the mortgage loan and the requirement that is the basis of the denial. A statement that the denial of a loan modification option is based on an investor requirement, without additional information specifically identifying the relevant investor or guarantor and the specific applicable requirement, is insufficient. However, where an owner or assignee has established an evaluation criteria that sets an order ranking for evaluation of loan modification options (commonly known as a waterfall) and a borrower has qualified for a particular loan modification option in the ranking established by the owner or assignee, it is sufficient for the servicer to inform the borrower, with respect to other loan modification options ranked below any such option offered to a borrower, that the investor's requirements include the use of such a ranking and that an offer of a loan modification option necessarily results in a denial for any other loan modification options below the option for which the borrower is eligible in the ranking.", 
+            "text": "1. Investor requirements. If a trial or permanent loan modification option is denied because of a requirement of an owner or assignee of a mortgage loan, the specific reasons in the notice provided to the borrower must identify the owner or assignee of the mortgage loan and the requirement that is the basis of the denial. A statement that the denial of a loan modification option is based on an investor requirement, without additional information specifically identifying the relevant investor or guarantor and the specific applicable requirement, is insufficient. However, where an owner or assignee has established an evaluation criteria that sets an order ranking for evaluation of loan modification options (commonly known as a waterfall) and a borrower has qualified for a particular loan modification option in the ranking established by the owner or assignee, it is sufficient for the servicer to inform the borrower, with respect to other loan modification options ranked below any such option offered to a borrower, that the investor's requirements include the use of such a ranking and that an offer of a loan modification option necessarily results in a denial for any other loan modification options below the option for which the borrower is eligible in the ranking.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-41-d-1-Interp-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "41", 
+                "d", 
+                "1", 
+                "Interp", 
+                "2"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "2.<E T=\"03\">Net present value calculation.</E>If a trial or permanent loan modification is denied because of a net present value calculation, the specific reasons in the notice provided to the borrower must include the inputs used in the net present value calculation.", 
+            "text": "2. Net present value calculation. If a trial or permanent loan modification is denied because of a net present value calculation, the specific reasons in the notice provided to the borrower must include the inputs used in the net present value calculation.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-41-d-1-Interp-3": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "41", 
+                "d", 
+                "1", 
+                "Interp", 
+                "3"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "3.<E T=\"03\">Other notices.</E>A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002<E T=\"03\">et seq.</E>) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to \u00a7 1024.41(d), unless otherwise prohibited by applicable law.", 
+            "text": "3. Other notices. A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002 et seq.) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to \u00a7 1024.41(d), unless otherwise prohibited by applicable law.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1024-41-d-1-Interp-4": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "41", 
+                "d", 
+                "1", 
+                "Interp", 
+                "4"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "4.<E T=\"03\">Determination not to offer a loan modification option constitutes a denial.</E>A servicer's determination not to offer a borrower a loan modification available to the borrower constitutes a denial of the borrower for that loan modification option, notwithstanding whether a servicer offers a borrower a different loan modification option or other loss mitigation option.", 
+            "text": "4. Determination not to offer a loan modification option constitutes a denial. A servicer's determination not to offer a borrower a loan modification available to the borrower constitutes a denial of the borrower for that loan modification option, notwithstanding whether a servicer offers a borrower a different loan modification option or other loss mitigation option.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
     "1024-41-d-2": {
         "node": {
             "child_labels": [], 
@@ -546,6 +675,15 @@
             "title": null
         }, 
         "op": "added"
+    }, 
+    "1024-41-d-Interp-1": {
+        "op": "deleted"
+    }, 
+    "1024-41-d-Interp-2": {
+        "op": "deleted"
+    }, 
+    "1024-41-d-Interp-3": {
+        "op": "deleted"
     }, 
     "1024-41-d-Interp-4": {
         "op": "deleted"
@@ -566,6 +704,43 @@
                 ]
             ]
         ]
+    }, 
+    "1024-41-f-1-Interp": {
+        "node": {
+            "child_labels": [
+                "1024-41-f-1-Interp-1"
+            ], 
+            "label": [
+                "1024", 
+                "41", 
+                "f", 
+                "1", 
+                "Interp"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": null, 
+            "text": "", 
+            "title": "41(f)(1) Pre-foreclosure review period."
+        }, 
+        "op": "added"
+    }, 
+    "1024-41-f-1-Interp-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1024", 
+                "41", 
+                "f", 
+                "1", 
+                "Interp", 
+                "1"
+            ], 
+            "node_type": "interp", 
+            "tagged_text": "1.<E T=\"03\">First notice or filing required by applicable law.</E>The first notice or filing required by applicable law refers to any document required to be filed with a court, entered into a land record, or provided to a borrower as a requirement for proceeding with a judicial or non-judicial foreclosure process. Such notices or filings include, for example, a foreclosure complaint, a notice of default, a notice of election and demand, or any other notice that is required by applicable law in order to pursue acceleration of a mortgage loan obligation or sale of a property securing a mortgage loan obligation.", 
+            "text": "1. First notice or filing required by applicable law. The first notice or filing required by applicable law refers to any document required to be filed with a court, entered into a land record, or provided to a borrower as a requirement for proceeding with a judicial or non-judicial foreclosure process. Such notices or filings include, for example, a foreclosure complaint, a notice of default, a notice of election and demand, or any other notice that is required by applicable law in order to pursue acceleration of a mortgage loan obligation or sale of a property securing a mortgage loan obligation.", 
+            "title": null
+        }, 
+        "op": "added"
     }, 
     "1024-41-f-1-i": {
         "op": "deleted"
@@ -695,6 +870,23 @@
                 "delete", 
                 361, 
                 450
+            ]
+        ]
+    }, 
+    "1024-MS-3(D)": {
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    111, 
+                    113
+                ], 
+                [
+                    "insert", 
+                    111, 
+                    "By to"
+                ]
             ]
         ]
     }

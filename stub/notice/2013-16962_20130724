@@ -8,33 +8,6 @@
         [
             "PUT", 
             [
-                "1024"
-            ]
-        ], 
-        [
-            "POST", 
-            [
-                "1024", 
-                "5", 
-                "c"
-            ]
-        ], 
-        [
-            "POST", 
-            [
-                "1024"
-            ]
-        ], 
-        [
-            "DELETE", 
-            [
-                "1024", 
-                "13"
-            ]
-        ], 
-        [
-            "PUT", 
-            [
                 "1026", 
                 "35", 
                 "e"
@@ -72,205 +45,19 @@
     ], 
     "cfr_title": 12, 
     "changes": {
-        "1024-13": [
-            {
-                "action": "DELETE"
-            }
-        ], 
-        "1024-5": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1024", 
-                        "5"
-                    ], 
-                    "node_type": "regtext", 
-                    "tagged_text": "\n                 1. State laws that are inconsistent with the requirements of RESPA orRegulation X may be preempted by RESPA or Regulation X. State laws that give greater protection to consumers are not inconsistent with and are not preempted by RESPA or Regulation X. In addition, nothing in RESPA or Regulation X should be construed to preempt the entire field of regulation of the practices covered by RESPA or Regulation X, including the regulations in Subpart C with respect to mortgage servicers or mortgage servicing.", 
-                    "text": "\n                 1. State laws that are inconsistent with the requirements of RESPA or Regulation X may be preempted by RESPA or Regulation X. State laws that give greater protection to consumers are not inconsistent with and are not preempted by RESPA or Regulation X. In addition, nothing in RESPA or Regulation X should be construed to preempt the entire field of regulation of the practices covered by RESPA or Regulation X, including the regulations in Subpart C with respect to mortgage servicers or mortgage servicing.", 
-                    "title": "\u00a7 1024.5 Coverage of RESPA"
-                }, 
-                "subpart": [
-                    "1024", 
-                    "Subpart", 
-                    "A"
-                ]
-            }
-        ], 
-        "1024-5-c": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [
-                        "1024-5-c-1", 
-                        "1024-5-c-2", 
-                        "1024-5-c-3", 
-                        "1024-5-c-4"
-                    ], 
-                    "label": [
-                        "1024", 
-                        "5", 
-                        "c"
-                    ], 
-                    "node_type": "regtext", 
-                    "tagged_text": "(c)<E T=\"03\">Relation to State laws.</E>", 
-                    "text": "(c) Relation to State laws. ", 
-                    "title": null
-                }
-            }
-        ], 
-        "1024-5-c-1": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1024", 
-                        "5", 
-                        "c", 
-                        "1"
-                    ], 
-                    "node_type": "regtext", 
-                    "tagged_text": "(1) State laws that are inconsistent with RESPA or this part are preempted to the extent of the inconsistency. However, RESPA and these regulations do not annul, alter, affect, or exempt any person subject to their provisions from complying with the laws of any State with respect to settlement practices, except to the extent of the inconsistency.", 
-                    "text": "(1) State laws that are inconsistent with RESPA or this part are preempted to the extent of the inconsistency. However, RESPA and these regulations do not annul, alter, affect, or exempt any person subject to their provisions from complying with the laws of any State with respect to settlement practices, except to the extent of the inconsistency.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1024-5-c-2": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [
-                        "1024-5-c-2-i", 
-                        "1024-5-c-2-ii"
-                    ], 
-                    "label": [
-                        "1024", 
-                        "5", 
-                        "c", 
-                        "2"
-                    ], 
-                    "node_type": "regtext", 
-                    "tagged_text": "(2) Upon request by any person, the Bureau is authorized to determine if inconsistencies with State law exist; in doing so, the Bureau shall consult with appropriate Federal agencies.", 
-                    "text": "(2) Upon request by any person, the Bureau is authorized to determine if inconsistencies with State law exist; in doing so, the Bureau shall consult with appropriate Federal agencies.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1024-5-c-2-i": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1024", 
-                        "5", 
-                        "c", 
-                        "2", 
-                        "i"
-                    ], 
-                    "node_type": "regtext", 
-                    "tagged_text": "(i) The Bureau may not determine that a State law or regulation is inconsistent with any provision of RESPA or this part, if the Bureau determines that such law or regulation gives greater protection to the consumer.", 
-                    "text": "(i) The Bureau may not determine that a State law or regulation is inconsistent with any provision of RESPA or this part, if the Bureau determines that such law or regulation gives greater protection to the consumer.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1024-5-c-2-ii": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1024", 
-                        "5", 
-                        "c", 
-                        "2", 
-                        "ii"
-                    ], 
-                    "node_type": "regtext", 
-                    "tagged_text": "(ii) In determining whether provisions of State law or regulations concerning affiliated business arrangements are inconsistent with RESPA or this part, the Bureau may not construe those provisions that impose more stringent limitations on affiliated business arrangements as inconsistent with RESPA so long as they give more protection to consumers and/or competition.", 
-                    "text": "(ii) In determining whether provisions of State law or regulations concerning affiliated business arrangements are inconsistent with RESPA or this part, the Bureau may not construe those provisions that impose more stringent limitations on affiliated business arrangements as inconsistent with RESPA so long as they give more protection to consumers and/or competition.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1024-5-c-3": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1024", 
-                        "5", 
-                        "c", 
-                        "3"
-                    ], 
-                    "node_type": "regtext", 
-                    "tagged_text": "(3) Any person may request the Bureau to determine whether an inconsistency exists by submitting to the address established by the Bureau to request an official interpretation, a copy of the State law in question, any other law or judicial or administrative opinion that implements, interprets or applies the relevant provision, and an explanation of the possible inconsistency. A determination by the Bureau that an inconsistency with State law exists will be made by publication of a notice in the<E T=\"03\">Federal Register</E>. \u201cLaw\u201d as used in this section includes regulations and any enactment which has the force and effect of law and is issued by a State or any political subdivision of a State.", 
-                    "text": "(3) Any person may request the Bureau to determine whether an inconsistency exists by submitting to the address established by the Bureau to request an official interpretation, a copy of the State law in question, any other law or judicial or administrative opinion that implements, interprets or applies the relevant provision, and an explanation of the possible inconsistency. A determination by the Bureau that an inconsistency with State law exists will be made by publication of a notice in the Federal Register. \u201cLaw\u201d as used in this section includes regulations and any enactment which has the force and effect of law and is issued by a State or any political subdivision of a State.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1024-5-c-4": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1024", 
-                        "5", 
-                        "c", 
-                        "4"
-                    ], 
-                    "node_type": "regtext", 
-                    "tagged_text": "(4) A specific preemption of conflicting State laws regarding notices and disclosures of mortgage servicing transfers is set forth in \u00a7 1024.33(d).", 
-                    "text": "(4) A specific preemption of conflicting State laws regarding notices and disclosures of mortgage servicing transfers is set forth in \u00a7 1024.33(d).", 
-                    "title": null
-                }
-            }
-        ], 
-        "1024-Subpart-A": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1024", 
-                        "Subpart", 
-                        "A"
-                    ], 
-                    "node_type": "subpart", 
-                    "text": "", 
-                    "title": "General Provisions"
-                }, 
-                "subpart": [
-                    "1024", 
-                    "Subpart", 
-                    "A"
-                ]
-            }
-        ], 
         "1026-35-e": [
             {
                 "action": "PUT", 
                 "field": "[text]", 
                 "node": {
-                    "child_labels": [
-                        "1026-35-e-3"
-                    ], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "35", 
                         "e"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(e)<E T=\"03\">Repayment ability, prepayment penalties.</E>Except as provided in paragraph (e)(3) of this section, higher-priced mortgage loans are subject to the following restrictions:", 
-                    "text": "(e) Repayment ability, prepayment penalties. Except as provided in paragraph (e)(3) of this section, higher-priced mortgage loans are subject to the following restrictions:", 
-                    "title": null
+                    "text": "(e) Repayment ability, prepayment penalties. Except as provided in paragraph (e)(3) of this section, higher-priced mortgage loans are subject to the following restrictions:"
                 }
             }
         ], 
@@ -287,7 +74,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "35", 
@@ -295,9 +82,7 @@
                         "3"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(3)<E T=\"03\">Exclusions.</E>This paragraph (e) does not apply to a transaction to finance the initial construction of a dwelling; a temporary or \u201cbridge\u201d loan with a term of twelve months or less, such as a loan to purchase a new dwelling where the consumer plans to sell a current dwelling within twelve months; or a reverse mortgage transaction subject to \u00a7 1026.33.", 
-                    "text": "(3) Exclusions. This paragraph (e) does not apply to a transaction to finance the initial construction of a dwelling; a temporary or \u201cbridge\u201d loan with a term of twelve months or less, such as a loan to purchase a new dwelling where the consumer plans to sell a current dwelling within twelve months; or a reverse mortgage transaction subject to \u00a7 1026.33.", 
-                    "title": null
+                    "text": "(3) Exclusions. This paragraph (e) does not apply to a transaction to finance the initial construction of a dwelling; a temporary or \u201cbridge\u201d loan with a term of twelve months or less, such as a loan to purchase a new dwelling where the consumer plans to sell a current dwelling within twelve months; or a reverse mortgage transaction subject to \u00a7 1026.33."
                 }
             }
         ]
@@ -380,7 +165,7 @@
                                     "reference": "26"
                                 }, 
                                 {
-                                    "offset": 1039, 
+                                    "offset": 1038, 
                                     "paragraph": 1, 
                                     "reference": "27"
                                 }
@@ -388,7 +173,7 @@
                             "page": 44689, 
                             "paragraphs": [
                                 "The Bureau proposed to redesignate \u00a7 1024.13 as \u00a7 1024.5(c). Section 1024.13, \u201cRelation to State laws,\u201d sets forth rules regarding the relationship of the requirements in RESPA and Regulation X to requirements established pursuant to State law. In the 2013 RESPA Servicing Final Rule, the Bureau divided Regulation X into subparts and \u00a7 1024.13 was located in new \u201cSubpart B\u2014Mortgage Settlement and Escrow Accounts.\u201d However, the provisions of \u00a7 1024.13(a) are intended to apply with respect to all of Regulation X. Because \u00a7 1024.13 applies for all sections of Regulation X, the Bureau proposed to redesignate \u00a7 1024.13 as \u00a7 1024.5(c), located within \u201cSubpart A\u2014General Provisions.\u201d Further, the Bureau proposed to remove and reserve \u00a7 1024.13.", 
-                                "The Bureau further proposed to add commentary for proposed \u00a7 1024.5(c) to make clear that Regulation X does not create field preemption. Since issuing the 2013 RESPA Servicing Final Rule, the Bureau had received inquiries as to whether Regulation X's mortgage servicing rules result in preemption of the field of mortgage servicing regulation. The Bureau had addressed this question in the preamble to the final rule, stating that \u201cthe Final Servicing Rules generally do not have the effect of prohibiting State law from affording borrowers broader consumer protection relating to mortgage servicing than those conferred under the Final Servicing Rules.\u201d\n             The preamble further stated that, although \u201cin certain circumstances, the effect of specific requirements of the Final Servicing Rules is to preempt certain limited aspects of state law\u201d in general, \u201cthe Bureau explicitly took into account existing standards (both State and Federal) and either built in flexibility or designed its rules to coexist with those standards.\u201d\n            \n          ", 
+                                "The Bureau further proposed to add commentary for proposed \u00a7 1024.5(c) to make clear that Regulation X does not create field preemption. Since issuing the 2013 RESPA Servicing Final Rule, the Bureau had received inquiries as to whether Regulation X's mortgage servicing rules result in preemption of the field of mortgage servicing regulation. The Bureau had addressed this question in the preamble to the final rule, stating that \u201cthe Final Servicing Rules generally do not have the effect of prohibiting State law from affording borrowers broader consumer protection relating to mortgage servicing than those conferred under the Final Servicing Rules.\u201d\n            The preamble further stated that, although \u201cin certain circumstances, the effect of specific requirements of the Final Servicing Rules is to preempt certain limited aspects of state law\u201d in general, \u201cthe Bureau explicitly took into account existing standards (both State and Federal) and either built in flexibility or designed its rules to coexist with those standards.\u201d\n            \n          ", 
                                 "Because the Bureau continued to receive questions on this issue, the Bureau believed it was appropriate to propose commentary to clarify the scope of proposed \u00a7 1024.5(c) and expressly address concerns about field preemption. Consistent with the preamble to the 2013 RESPA Servicing Final Rule, proposed comment 5(c)(1)-1 stated that State laws that are in conflict with the requirements of RESPA or Regulation X may be preempted by RESPA and Regulation X. Proposed comment 5(c)(1)-1 stated further that nothing in RESPA or Regulation X, including the provisions in subpart C with respect to mortgage servicers or mortgage servicing, should be construed to preempt the entire field of regulation of the covered practices. This proposed addition to the commentary was meant to clarify that RESPA and Regulation X do not effectuate field preemption of States' regulation of mortgage servicers or mortgage servicing. The comment also made clear that RESPA and Regulation X do not preempt State laws that give greater protection to consumers than do these federal laws.", 
                                 "The Bureau requested comment regarding the addition of the proposed commentary, including whether further clarification regarding the preemption effects of RESPA and Regulation X was necessary or appropriate."
                             ], 
@@ -452,7 +237,7 @@
                             "reference": "28"
                         }, 
                         {
-                            "offset": 541, 
+                            "offset": 540, 
                             "paragraph": 0, 
                             "reference": "29"
                         }, 
@@ -462,7 +247,7 @@
                             "reference": "30"
                         }, 
                         {
-                            "offset": 985, 
+                            "offset": 984, 
                             "paragraph": 1, 
                             "reference": "31"
                         }, 
@@ -472,7 +257,7 @@
                             "reference": "32"
                         }, 
                         {
-                            "offset": 422, 
+                            "offset": 421, 
                             "paragraph": 2, 
                             "reference": "33"
                         }, 
@@ -487,12 +272,12 @@
                     ], 
                     "page": 44690, 
                     "paragraphs": [
-                        "The Bureau is concerned that its recently published Amendments to the 2013 Escrows Final Rule\n             requiring industry to comply with certain provisions regarding repayment ability and prepayment penalties for HPMLs could be interpreted as requiring that certain transactions excluded from such requirements are now subject to those requirements. The Bureau believes that the amendments, properly understood, continue the exclusion for such transactions from the requirements. To provide certainty, the Bureau is revising \u00a7 1026.35(e)\n             to explicitly exclude from coverage construction and bridge loans and reverse mortgages\u2014loans that were previously explicitly excluded from such requirements, as discussed below.", 
-                        "In January 2013, the Bureau issued the 2013 Escrows Final Rule,\n             which implements certain provisions of the Dodd-Frank Act relating to escrow accounts. That final rule revised the definition of \u201chigher-priced mortgage loan\u201d in 12 CFR 1026.35(a) by removing certain exclusions from the scope of consumer credit transactions that may be HPMLs. The loans no longer excluded from the definition of HPML are: Transactions to finance the initial construction of a dwelling (construction loans); temporary or \u201cbridge loans\u201d with a terms of twelve months or less, such as a loan to purchase a new dwelling where the consumer plans to sell a current dwelling within twelve months (bridge loans); and reverse mortgages subject to \u00a7 1026.33 (reverse mortgages). The Bureau removed these exclusions from the general definition of HPML and located them directly into the individual provisions regarding appraisal, escrow, ability to repay, and prepayment penalty requirements for HPMLs.\n            \n          ", 
-                        "Since adopting the above-referenced rules, the Bureau adopted Amendments to the 2013 Escrows Final Rule\n             to prevent the inadvertent and temporary elimination of certain consumer protections for HPMLs concerning ability to repay and prepayment penalties that were codified in 12 CFR 1026.35(b) prior to June 1, 2013. The 2013 Escrows Final Rule took effect June 1, 2013, while the 2013 ATR and HOEPA Final Rules\n             do not take effect until January 10, 2014. Consequently, the existing ability-to-repay and prepayment penalty protections for HPMLs would have been removed, pursuant to the 2013 Escrows Final Rule, over seven months before parallel provisions would take effect. The Amendments to the 2013 Escrows Final Rule restored those protections temporarily in, and re-codified them as part of, newly created 12 CFR 1026.35(e), which took effect June 1, 2013, and will be effective through January 9, 2014.", 
+                        "The Bureau is concerned that its recently published Amendments to the 2013 Escrows Final Rule\n            requiring industry to comply with certain provisions regarding repayment ability and prepayment penalties for HPMLs could be interpreted as requiring that certain transactions excluded from such requirements are now subject to those requirements. The Bureau believes that the amendments, properly understood, continue the exclusion for such transactions from the requirements. To provide certainty, the Bureau is revising \u00a7 1026.35(e)\n            to explicitly exclude from coverage construction and bridge loans and reverse mortgages\u2014loans that were previously explicitly excluded from such requirements, as discussed below.", 
+                        "In January 2013, the Bureau issued the 2013 Escrows Final Rule,\n            which implements certain provisions of the Dodd-Frank Act relating to escrow accounts. That final rule revised the definition of \u201chigher-priced mortgage loan\u201d in 12 CFR 1026.35(a) by removing certain exclusions from the scope of consumer credit transactions that may be HPMLs. The loans no longer excluded from the definition of HPML are: Transactions to finance the initial construction of a dwelling (construction loans); temporary or \u201cbridge loans\u201d with a terms of twelve months or less, such as a loan to purchase a new dwelling where the consumer plans to sell a current dwelling within twelve months (bridge loans); and reverse mortgages subject to \u00a7 1026.33 (reverse mortgages). The Bureau removed these exclusions from the general definition of HPML and located them directly into the individual provisions regarding appraisal, escrow, ability to repay, and prepayment penalty requirements for HPMLs.\n            \n          ", 
+                        "Since adopting the above-referenced rules, the Bureau adopted Amendments to the 2013 Escrows Final Rule\n            to prevent the inadvertent and temporary elimination of certain consumer protections for HPMLs concerning ability to repay and prepayment penalties that were codified in 12 CFR 1026.35(b) prior to June 1, 2013. The 2013 Escrows Final Rule took effect June 1, 2013, while the 2013 ATR and HOEPA Final Rules\n            do not take effect until January 10, 2014. Consequently, the existing ability-to-repay and prepayment penalty protections for HPMLs would have been removed, pursuant to the 2013 Escrows Final Rule, over seven months before parallel provisions would take effect. The Amendments to the 2013 Escrows Final Rule restored those protections temporarily in, and re-codified them as part of, newly created 12 CFR 1026.35(e), which took effect June 1, 2013, and will be effective through January 9, 2014.", 
                         "The Bureau's renumbering of the ability-to-repay and prepayment penalty provisions in \u00a7 1026.35(e) of Regulation Z, without excluding reverse mortgages and construction and bridge loans from coverage under that section, could be seen as removing these exclusions from the requirements of that temporary provision. To clarify that the Amendments to the 2013 Escrows Final Rule did not have that effect, the Bureau is revising temporary \u00a7 1026.35(e) to explicitly exclude construction loans, bridge loans, and reverse mortgages from its requirements. The Bureau is replacing current \u00a7 1026.35(e)(3) with new \u00a7 1026.35(e)(3), which states that the requirements of \u00a7 1026.35(e) do not apply to construction loans, bridge loans, and reverse mortgages. The Bureau is renumbering current \u00a7 1026.35(e)(3), \u201cSunset of requirements on repayment ability and prepayment penalties,\u201d as new \u00a7 1026.35(e)(4). The general language in \u00a7 1026.35(e) is also revised to reflect the addition of these exclusions. As noted below, the amendment to \u00a7 1026.35(e) will apply to any transaction consummated on or after June 1, 2013, for which the creditor receives an application on or before January 9, 2014. Then, at the time \u00a7 1026.35(e) expires, the exclusions for construction loans, bridge loans, and reverse mortgages in the 2013 ATR and HOEPA Final Rules will take effect. Thus, the revision of \u00a7 1026.35(e) in this final rule will make clear that construction loans, bridge loans, and reverse mortgages have continued and will continue to be excluded from certain HPML requirements regarding prepayment penalties and a consumer's ability to repay the loan.", 
                         "<em data-original=\"E-03\">Legal authority.</em> Construction loans, bridge loans, and reverse mortgages have always been excluded from the requirements of Regulation Z regarding repayment ability and prepayment penalties. The mortgage rules referenced above that implement the Dodd-Frank Act continue to exclude such loans from their requirements, including those governing repayment ability and prepayment penalties. Thus, the revisions to &#167; 1026.35(e) in this final rule are merely technical changes to clarify the temporary provision's consistency with the historical and current treatment of such loans under Regulation Z.", 
-                        "For these reasons, the Bureau is revising temporary amendment \u00a7 1026.35(e) to explicitly exclude construction loans, bridge loans, and reverse mortgages from its requirements regarding ability to repay and prepayment penalties for HPMLs, pursuant to its authority to provide for adjustments and exceptions under TILA section 105(a) and (f), and with reliance on the authority used by the Board in amending Regulation Z to include these requirements,\n             including TILA section 129(p). As the Board concluded before it, the Bureau does not believe subjecting these loans to the repayment ability and prepayment penalty requirements would effectuate the purposes of, or facilitate compliance with TILA and Regulation Z. Many of the characteristics of these loans make it inappropriate or unnecessary to apply the repayment ability and prepayment penalty requirements of \u00a7 1026.35(e). For example, because the structure of reverse mortgages does not provide for repayment, the requirements related to repayment are not appropriate for such loans. The Bureau also notes that it anticipates undertaking a rulemaking to address how the Dodd-Frank Act title XIV requirements apply to reverse mortgages, and consumer protection issues in the reverse mortgage market may be addressed through such a rulemaking. Thus, the Bureau both interprets \u00a7 1026.35(e) not to subject the affected loans to its requirements and also, pursuant to 105(a) and 105(f) of TILA, continues to exclude those loans from the requirements of \u00a7 1026.35(e).", 
+                        "For these reasons, the Bureau is revising temporary amendment \u00a7 1026.35(e) to explicitly exclude construction loans, bridge loans, and reverse mortgages from its requirements regarding ability to repay and prepayment penalties for HPMLs, pursuant to its authority to provide for adjustments and exceptions under TILA section 105(a) and (f), and with reliance on the authority used by the Board in amending Regulation Z to include these requirements,\n            including TILA section 129(p). As the Board concluded before it, the Bureau does not believe subjecting these loans to the repayment ability and prepayment penalty requirements would effectuate the purposes of, or facilitate compliance with TILA and Regulation Z. Many of the characteristics of these loans make it inappropriate or unnecessary to apply the repayment ability and prepayment penalty requirements of \u00a7 1026.35(e). For example, because the structure of reverse mortgages does not provide for repayment, the requirements related to repayment are not appropriate for such loans. The Bureau also notes that it anticipates undertaking a rulemaking to address how the Dodd-Frank Act title XIV requirements apply to reverse mortgages, and consumer protection issues in the reverse mortgage market may be addressed through such a rulemaking. Thus, the Bureau both interprets \u00a7 1026.35(e) not to subject the affected loans to its requirements and also, pursuant to 105(a) and 105(f) of TILA, continues to exclude those loans from the requirements of \u00a7 1026.35(e).", 
                         "Notice and comment are not necessary for this revision of \u00a7 1026.35(e), which merely makes explicit in the regulation the Bureau's continuing interpretation that certain loans have been excluded from certain legal requirements throughout the renumbering process. Moreover, the Bureau finds good cause to proceed without notice and comment. 5 U.S.C. 553(b)(B). This revision merely clarifies the operation of the rule that should already have been apparent to many market participants. Notice and comment are therefore unnecessary. In addition, the length of the notice and comment period make it impracticable to correct erroneous interpretations of a rule that is already in effect and that expires within months. For these reasons and under the authority cited above, the Bureau is expressly excluding construction and bridge loans and reverse mortgages from the ability-to-repay and prepayment penalty requirements for HPMLs under interim \u00a7 1026.35(e)."
                     ], 
                     "title": "35(e) Repayment Ability, Prepayment Penalties"

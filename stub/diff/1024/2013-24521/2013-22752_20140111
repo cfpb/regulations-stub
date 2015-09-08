@@ -3,9 +3,16 @@
         "op": "modified", 
         "title": [
             [
-                "insert", 
-                0, 
-                "17(k)(5)(ii) Inability to disburse funds."
+                [
+                    "delete", 
+                    13, 
+                    20
+                ], 
+                [
+                    "insert", 
+                    13, 
+                    "Inability"
+                ]
             ]
         ]
     }, 
@@ -742,26 +749,6 @@
             ]
         ]
     }, 
-    "1024-41-c-2-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-41-c-2-iii-Interp", 
-                "1024-41-c-2-iv-Interp"
-            ], 
-            "label": [
-                "1024", 
-                "41", 
-                "c", 
-                "2", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
     "1024-41-c-2-i": {
         "op": "modified", 
         "text": [
@@ -974,24 +961,6 @@
             "node_type": "interp", 
             "tagged_text": "2.<E T=\"03\">Borrower fails to complete the application.</E>If the borrower fails to complete the application within the timeframe provided under \u00a7 1024.41(c)(2)(iv), the application shall be considered incomplete.", 
             "text": "2. Borrower fails to complete the application. If the borrower fails to complete the application within the timeframe provided under \u00a7 1024.41(c)(2)(iv), the application shall be considered incomplete.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-c-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-41-c-2-Interp"
-            ], 
-            "label": [
-                "1024", 
-                "41", 
-                "c", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
             "title": null
         }, 
         "op": "added"
