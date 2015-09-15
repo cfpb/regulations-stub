@@ -53,7 +53,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "children": [], 
+                    "child_labels": [], 
                     "label": [
                         "1002", 
                         "14", 
@@ -63,8 +63,11 @@
                         "1", 
                         "i"
                     ], 
+                    "marker": null, 
                     "node_type": "interp", 
-                    "text": "i. A report prepared by an appraiser (whether or not licensed or certified) including the appraiser's estimate of the property's value or opinion of value."
+                    "tagged_text": "i. A report prepared by an appraiser (whether or not licensed or certified) including the appraiser's estimate of the property's value or opinion of value.", 
+                    "text": "i. A report prepared by an appraiser (whether or not licensed or certified) including the appraiser's estimate of the property's value or opinion of value.", 
+                    "title": null
                 }
             }
         ], 
@@ -72,7 +75,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "children": [], 
+                    "child_labels": [], 
                     "label": [
                         "1002", 
                         "14", 
@@ -82,8 +85,11 @@
                         "3", 
                         "v"
                     ], 
+                    "marker": null, 
                     "node_type": "interp", 
-                    "text": "v. Reports reflecting property inspections that do not provide an estimate of the value of the property and are not used to develop an estimate of the value of the property."
+                    "tagged_text": "v. Reports reflecting property inspections that do not provide an estimate of the value of the property and are not used to develop an estimate of the value of the property.", 
+                    "text": "v. Reports reflecting property inspections that do not provide an estimate of the value of the property and are not used to develop an estimate of the value of the property.", 
+                    "title": null
                 }
             }
         ], 
@@ -91,7 +97,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "children": [], 
+                    "child_labels": [], 
                     "label": [
                         "1002", 
                         "14", 
@@ -101,8 +107,11 @@
                         "3", 
                         "vi"
                     ], 
+                    "marker": null, 
                     "node_type": "interp", 
-                    "text": "vi. Appraisal reviews that do not include the appraiser's estimate of the property's value or opinion of value."
+                    "tagged_text": "vi. Appraisal reviews that do not include the appraiser's estimate of the property's value or opinion of value.", 
+                    "text": "vi. Appraisal reviews that do not include the appraiser's estimate of the property's value or opinion of value.", 
+                    "title": null
                 }
             }
         ]
