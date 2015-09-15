@@ -3391,35 +3391,6 @@
             ]
         ]
     }, 
-    "1026-19-a": {
-        "op": "modified", 
-        "text": [
-            [
-                [
-                    "delete", 
-                    4, 
-                    20
-                ], 
-                [
-                    "insert", 
-                    4, 
-                    "Mortgage"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    45, 
-                    51
-                ], 
-                [
-                    "insert", 
-                    45, 
-                    "RESPA \u2014"
-                ]
-            ]
-        ]
-    }, 
     "1026-19-a-1-i": {
         "op": "modified", 
         "text": [
@@ -11226,21 +11197,6 @@
             ]
         ]
     }, 
-    "1026-34-a-4-Interp": {
-        "op": "modified", 
-        "title": [
-            [
-                "delete", 
-                0, 
-                10
-            ], 
-            [
-                "delete", 
-                36, 
-                60
-            ]
-        ]
-    }, 
     "1026-34-a-4-Interp-1": {
         "op": "modified", 
         "text": [
@@ -11516,16 +11472,6 @@
                     143, 
                     "expenses."
                 ]
-            ]
-        ]
-    }, 
-    "1026-34-a-4-i-Interp": {
-        "op": "modified", 
-        "title": [
-            [
-                "delete", 
-                0, 
-                10
             ]
         ]
     }, 
@@ -12811,41 +12757,65 @@
                 [
                     "delete", 
                     4, 
-                    15
+                    16
                 ], 
                 [
                     "insert", 
                     4, 
-                    "Repayment ability. A creditor shall not extend credit based on the value of the consumer's collateral without regard"
+                    "Repayment ability. A creditor shall not extend credit based on the value"
+                ]
+            ], 
+            [
+                "delete", 
+                20, 
+                40
+            ], 
+            [
+                [
+                    "delete", 
+                    44, 
+                    69
+                ], 
+                [
+                    "insert", 
+                    44, 
+                    "consumer's collateral without regard to"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    19, 
-                    66
+                    74, 
+                    86
                 ], 
                 [
                     "insert", 
-                    19, 
-                    "the consumer's repayment ability"
+                    74, 
+                    "consumer's repayment ability"
                 ]
-            ], 
-            [
-                "insert", 
-                70, 
-                "of consummation as "
             ], 
             [
                 [
                     "delete", 
-                    82, 
-                    749
+                    90, 
+                    129
                 ], 
                 [
                     "insert", 
-                    82, 
-                    "\u00a7 1026.34(a)(4)."
+                    90, 
+                    "of consummation"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    133, 
+                    141
+                ], 
+                [
+                    "insert", 
+                    133, 
+                    "provided in \u00a7 1026.34(a)(4)."
                 ]
             ]
         ]
@@ -24731,28 +24701,6 @@
     "1026-51-b-Interp-7": {
         "op": "deleted"
     }, 
-    "1026-52-a": {
-        "op": "modified", 
-        "text": [
-            [
-                "insert", 
-                16, 
-                "prior to account opening and "
-            ], 
-            [
-                [
-                    "delete", 
-                    48, 
-                    56
-                ], 
-                [
-                    "insert", 
-                    48, 
-                    "opening \u2014"
-                ]
-            ]
-        ]
-    }, 
     "1026-52-a-1": {
         "op": "modified", 
         "text": [
@@ -24978,144 +24926,6 @@
     "1026-58-g-Interp-3": {
         "op": "deleted"
     }, 
-    "1026-D-II-C-1": {
-        "op": "modified", 
-        "text": [
-            [
-                [
-                    "delete", 
-                    29, 
-                    32
-                ], 
-                [
-                    "insert", 
-                    29, 
-                    "A.1."
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    36, 
-                    40
-                ], 
-                [
-                    "insert", 
-                    36, 
-                    "Part"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    45, 
-                    61
-                ], 
-                [
-                    "insert", 
-                    45, 
-                    "without reflecting the number or amounts of payments of interest only"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    71, 
-                    94
-                ], 
-                [
-                    "insert", 
-                    71, 
-                    "made during the construction period. The fact that interest payments must be made"
-                ]
-            ], 
-            [
-                "delete", 
-                99, 
-                123
-            ], 
-            [
-                [
-                    "delete", 
-                    127, 
-                    144
-                ], 
-                [
-                    "insert", 
-                    127, 
-                    "timing"
-                ]
-            ], 
-            [
-                "insert", 
-                148, 
-                "such "
-            ], 
-            [
-                [
-                    "delete", 
-                    157, 
-                    256
-                ], 
-                [
-                    "insert", 
-                    157, 
-                    "shall"
-                ]
-            ], 
-            [
-                "delete", 
-                260, 
-                306
-            ]
-        ]
-    }, 
-    "1026-D-II-C-2": {
-        "op": "modified", 
-        "text": [
-            [
-                [
-                    "delete", 
-                    29, 
-                    32
-                ], 
-                [
-                    "insert", 
-                    29, 
-                    "A.2."
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    36, 
-                    73
-                ], 
-                [
-                    "insert", 
-                    36, 
-                    "Part II, including any payments"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    77, 
-                    84
-                ], 
-                [
-                    "insert", 
-                    77, 
-                    "interest only"
-                ]
-            ], 
-            [
-                "delete", 
-                94, 
-                176
-            ]
-        ]
-    }, 
     "1026-D-Interp-6": {
         "op": "modified", 
         "text": [
@@ -25335,45 +25145,6 @@
     }, 
     "1026-D-Interp-7-ii": {
         "op": "deleted"
-    }, 
-    "1026-G_H-Interp-1": {
-        "op": "modified", 
-        "text": [
-            [
-                "delete", 
-                529, 
-                559
-            ], 
-            [
-                [
-                    "delete", 
-                    1104, 
-                    1106
-                ], 
-                [
-                    "insert", 
-                    1104, 
-                    " "
-                ]
-            ]
-        ]
-    }, 
-    "1026-G_H-Interp-1-v": {
-        "op": "modified", 
-        "text": [
-            [
-                [
-                    "delete", 
-                    25, 
-                    30
-                ], 
-                [
-                    "insert", 
-                    25, 
-                    "state"
-                ]
-            ]
-        ]
     }, 
     "1026-H-13": {
         "op": "modified", 
@@ -26569,9 +26340,6 @@
         "op": "deleted"
     }, 
     "1026-O-p1-9": {
-        "op": "deleted"
-    }, 
-    "1026-P": {
         "op": "deleted"
     }, 
     "1026-Q": {
