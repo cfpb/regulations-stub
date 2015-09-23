@@ -1,4 +1,19 @@
 {
+    "1026-1-a": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                534, 
+                "In addition, this part implements certain provisions of the Financial Institutions Reform, Recovery, and Enforcement Act, as amended (12 U.S.C. 3331 et seq.). "
+            ], 
+            [
+                "insert", 
+                664, 
+                "(OMB) "
+            ]
+        ]
+    }, 
     "1026-1-b": {
         "op": "modified", 
         "text": [
@@ -3343,35 +3358,6 @@
             ]
         ]
     }, 
-    "1026-19-a": {
-        "op": "modified", 
-        "text": [
-            [
-                [
-                    "delete", 
-                    4, 
-                    12
-                ], 
-                [
-                    "insert", 
-                    4, 
-                    "Reverse mortgage"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    37, 
-                    44
-                ], 
-                [
-                    "insert", 
-                    37, 
-                    "RESPA."
-                ]
-            ]
-        ]
-    }, 
     "1026-19-a-1-i": {
         "op": "modified", 
         "text": [
@@ -4704,7 +4690,7 @@
                 "3"
             ], 
             "node_type": "interp", 
-            "tagged_text": "3.<E T=\"03\">Timing of fees.</E>At any time prior to delivery of the disclosures required under \u00a7 1026.19(e)(1)(i), a creditor or other person may impose a credit report fee in connection with the consumer's application for a mortgage loan that is subject to \u00a7 1026.19(e)(1)(i) as provided in \u00a7 1026.19(e)(2)(i)(B). The consumer must have received the disclosures required under \u00a7 1026.19(e)(1)(i) and indicated an intent to proceed with the transaction described by those disclosures before paying or incurring any other fee imposed by a creditor or other person in connection with the consumer's application for a mortgage loan that is subject to \u00a7 1026.19(e)(1)(i). \n            ", 
+            "tagged_text": "3.<E T=\"03\">Timing of fees.</E>At any time prior to delivery of the disclosures required under \u00a7 1026.19(e)(1)(i), a creditor or other person may impose a credit report fee in connection with the consumer's application for a mortgage loan that is subject to \u00a7 1026.19(e)(1)(i) as provided in \u00a7 1026.19(e)(2)(i)(B). The consumer must have received the disclosures required under \u00a7 1026.19(e)(1)(i) and indicated an intent to proceed with the transaction described by those disclosures before paying or incurring any other fee imposed by a creditor or other person in connection with the consumer's application for a mortgage loan that is subject to \u00a7 1026.19(e)(1)(i).\n            ", 
             "text": "3. Timing of fees. At any time prior to delivery of the disclosures required under \u00a7 1026.19(e)(1)(i), a creditor or other person may impose a credit report fee in connection with the consumer's application for a mortgage loan that is subject to \u00a7 1026.19(e)(1)(i) as provided in \u00a7 1026.19(e)(2)(i)(B). The consumer must have received the disclosures required under \u00a7 1026.19(e)(1)(i) and indicated an intent to proceed with the transaction described by those disclosures before paying or incurring any other fee imposed by a creditor or other person in connection with the consumer's application for a mortgage loan that is subject to \u00a7 1026.19(e)(1)(i).", 
             "title": null
         }, 
@@ -9780,7 +9766,7 @@
             ], 
             "node_type": "regtext", 
             "tagged_text": "(A) ARMs with terms of one year or less; or\n              ", 
-            "text": "(A) ARMs with terms of one year or less;", 
+            "text": "(A) ARMs with terms of one year or less; or", 
             "title": null
         }, 
         "op": "added"
@@ -9798,7 +9784,7 @@
             ], 
             "node_type": "regtext", 
             "tagged_text": "(B) The first interest rate adjustment to an ARM if the first payment at the adjusted level is due within 210 days after consummation and the new interest rate disclosed at consummation pursuant to \u00a7 1026.20(d) was not an estimate.", 
-            "text": "(B) The first interest rate adjustment to an ARM if the first payment at the adjusted level is due within 210 days after consummation and the new interest rate disclosed at consummation pursuant to \u00a7 1026.20(d) was not an estimate; or", 
+            "text": "(B) The first interest rate adjustment to an ARM if the first payment at the adjusted level is due within 210 days after consummation and the new interest rate disclosed at consummation pursuant to \u00a7 1026.20(d) was not an estimate.", 
             "title": null
         }, 
         "op": "added"
@@ -9856,7 +9842,7 @@
                 "1"
             ], 
             "node_type": "interp", 
-            "tagged_text": "1.<E T=\"03\">Short-term ARMs.</E>Under \u00a7 1026.20(c)(1)(ii), construction, home improvement, bridge, and other loans with terms of one year or less are not subject to the requirements in \u00a7 1026.20(c). In determining the term of a construction loan that may be permanently financed by the same creditor or assignee, the creditor or assignee may treat the construction and the permanent phases as separate transactions with distinct terms to maturity or as a single combined transaction. \n              ", 
+            "tagged_text": "1.<E T=\"03\">Short-term ARMs.</E>Under \u00a7 1026.20(c)(1)(ii), construction, home improvement, bridge, and other loans with terms of one year or less are not subject to the requirements in \u00a7 1026.20(c). In determining the term of a construction loan that may be permanently financed by the same creditor or assignee, the creditor or assignee may treat the construction and the permanent phases as separate transactions with distinct terms to maturity or as a single combined transaction.\n              ", 
             "text": "1. Short-term ARMs. Under \u00a7 1026.20(c)(1)(ii), construction, home improvement, bridge, and other loans with terms of one year or less are not subject to the requirements in \u00a7 1026.20(c). In determining the term of a construction loan that may be permanently financed by the same creditor or assignee, the creditor or assignee may treat the construction and the permanent phases as separate transactions with distinct terms to maturity or as a single combined transaction.", 
             "title": null
         }, 
@@ -16716,8 +16702,8 @@
                 "iv"
             ], 
             "node_type": "interp", 
-            "tagged_text": "iv.<E T=\"03\">Creditor-paid charges.</E>Charges that are paid by the creditor, other than loan originator compensation paid by the creditor that is required to be included in points and fees under \u00a7 1026.32(b)(1)(ii), are excluded from points and fees.<E T=\"03\">See</E>\n                 \u00a7\u00a7 1026.32(b)(1)(i)(A), 1026.4(a), and comment 4(a)-(2).", 
-            "text": "iv. Creditor-paid charges. Charges that are paid by the creditor, other than loan originator compensation paid by the creditor that is required to be included in points and fees under \u00a7 1026.32(b)(1)(ii), are excluded from points and fees. See\n                 \u00a7\u00a7 1026.32(b)(1)(i)(A), 1026.4(a), and comment 4(a)-(2).", 
+            "tagged_text": "iv.<E T=\"03\">Creditor-paid charges.</E>Charges that are paid by the creditor, other than loan originator compensation paid by the creditor that is required to be included in points and fees under \u00a7 1026.32(b)(1)(ii), are excluded from points and fees.<E T=\"03\">See</E>\n                \u00a7\u00a7 1026.32(b)(1)(i)(A), 1026.4(a), and comment 4(a)-(2).", 
+            "text": "iv. Creditor-paid charges. Charges that are paid by the creditor, other than loan originator compensation paid by the creditor that is required to be included in points and fees under \u00a7 1026.32(b)(1)(ii), are excluded from points and fees. See\n                \u00a7\u00a7 1026.32(b)(1)(i)(A), 1026.4(a), and comment 4(a)-(2).", 
             "title": null
         }, 
         "op": "added"
@@ -21809,7 +21795,7 @@
                 [
                     "delete", 
                     214, 
-                    328
+                    327
                 ], 
                 [
                     "insert", 
@@ -23192,7 +23178,7 @@
                 "1"
             ], 
             "node_type": "interp", 
-            "tagged_text": "1. An example of an action that constitutes steering would be when a creditor repeatedly highlights or otherwise distinguishes the same counselor in the notices the creditor provides to consumers pursuant to \u00a7 1026.34(a)(5)(vii). \n                ", 
+            "tagged_text": "1. An example of an action that constitutes steering would be when a creditor repeatedly highlights or otherwise distinguishes the same counselor in the notices the creditor provides to consumers pursuant to \u00a7 1026.34(a)(5)(vii).\n                ", 
             "text": "1. An example of an action that constitutes steering would be when a creditor repeatedly highlights or otherwise distinguishes the same counselor in the notices the creditor provides to consumers pursuant to \u00a7 1026.34(a)(5)(vii).", 
             "title": null
         }, 
@@ -31027,8 +31013,8 @@
                 "1"
             ], 
             "node_type": "interp", 
-            "tagged_text": "1.<E T=\"03\">Interest rate at consummation not known.</E>Where the interest rate that will apply at consummation is not known at the time the creditor must deliver the disclosures required by \u00a7 1026.19(e), \u00a7 1026.37(b)(2) requires disclosure of the fully-indexed rate, defined as the index plus the margin at consummation. Although \u00a7 1026.37(b)(2) refers to the index plus margin \u201cat consummation,\u201d if the index value that will be in effect at consummation is unknown at the time the disclosures are provided pursuant to \u00a7 1026.19(e)(1)(iii),<E T=\"03\">i.e.,</E>within three business days after receipt of a consumer's application, the fully- indexed rate disclosed under \u00a7 1026.37(b)(2) may be based on the index in effect at the time the disclosure is delivered. The index in effect at consummation (or the time the disclosure is delivered pursuant to \u00a7 1026.19(e)) need not be used if the contract provides for a delay in the implementation of changes in an index value. For example, if the contract specifies that rate changes are based on the index value in effect 45 days before the change date, creditors may use any index value in effect during the 45 days before consummation (or any earlier date of disclosure) in calculating the fully-indexed rate to be disclosed.", 
-            "text": "1. Interest rate at consummation not known. Where the interest rate that will apply at consummation is not known at the time the creditor must deliver the disclosures required by \u00a7 1026.19(e), \u00a7 1026.37(b)(2) requires disclosure of the fully-indexed rate, defined as the index plus the margin at consummation. Although \u00a7 1026.37(b)(2) refers to the index plus margin \u201cat consummation,\u201d if the index value that will be in effect at consummation is unknown at the time the disclosures are provided pursuant to \u00a7 1026.19(e)(1)(iii), i.e., within three business days after receipt of a consumer's application, the fully- indexed rate disclosed under \u00a7 1026.37(b)(2) may be based on the index in effect at the time the disclosure is delivered. The index in effect at consummation (or the time the disclosure is delivered pursuant to \u00a7 1026.19(e)) need not be used if the contract provides for a delay in the implementation of changes in an index value. For example, if the contract specifies that rate changes are based on the index value in effect 45 days before the change date, creditors may use any index value in effect during the 45 days before consummation (or any earlier date of disclosure) in calculating the fully-indexed rate to be disclosed.", 
+            "tagged_text": "1.<E T=\"03\">Interest rate at consummation not known.</E>Where the interest rate that will apply at consummation is not known at the time the creditor must deliver the disclosures required by \u00a7 1026.19(e), \u00a7 1026.37(b)(2) requires disclosure of the fully-indexed rate, defined as the index plus the margin at consummation. Although \u00a7 1026.37(b)(2) refers to the index plus margin \u201cat consummation,\u201d if the index value that will be in effect at consummation is unknown at the time the disclosures are provided pursuant to \u00a7 1026.19(e)(1)(iii),<E T=\"03\">i.e.,</E>within three business days after receipt of a consumer's application, the fully-indexed rate disclosed under \u00a7 1026.37(b)(2) may be based on the index in effect at the time the disclosure is delivered. The index in effect at consummation (or the time the disclosure is delivered pursuant to \u00a7 1026.19(e)) need not be used if the contract provides for a delay in the implementation of changes in an index value. For example, if the contract specifies that rate changes are based on the index value in effect 45 days before the change date, creditors may use any index value in effect during the 45 days before consummation (or any earlier date of disclosure) in calculating the fully-indexed rate to be disclosed.", 
+            "text": "1. Interest rate at consummation not known. Where the interest rate that will apply at consummation is not known at the time the creditor must deliver the disclosures required by \u00a7 1026.19(e), \u00a7 1026.37(b)(2) requires disclosure of the fully-indexed rate, defined as the index plus the margin at consummation. Although \u00a7 1026.37(b)(2) refers to the index plus margin \u201cat consummation,\u201d if the index value that will be in effect at consummation is unknown at the time the disclosures are provided pursuant to \u00a7 1026.19(e)(1)(iii), i.e., within three business days after receipt of a consumer's application, the fully-indexed rate disclosed under \u00a7 1026.37(b)(2) may be based on the index in effect at the time the disclosure is delivered. The index in effect at consummation (or the time the disclosure is delivered pursuant to \u00a7 1026.19(e)) need not be used if the contract provides for a delay in the implementation of changes in an index value. For example, if the contract specifies that rate changes are based on the index value in effect 45 days before the change date, creditors may use any index value in effect during the 45 days before consummation (or any earlier date of disclosure) in calculating the fully-indexed rate to be disclosed.", 
             "title": null
         }, 
         "op": "added"
@@ -31334,7 +31320,7 @@
                 "iii"
             ], 
             "node_type": "interp", 
-            "tagged_text": "iii. A waived bona fide third-party charge imposed by the creditor if the consumer pays all of a covered transaction's principal before the date on which the principal is due sooner than 36 months after consummation. For example, assume that at consummation, the creditor waives $3,000 in closing costs to cover bona fide third-party charges but the terms of the loan agreement provide that the creditor may recoup the $3,000 in waived charges if the consumer repays the entire loan balance sooner than 36 months after consummation. The $3,000 charge is not a prepayment penalty. In contrast, for example, assume that at consummation, the creditor waives $3,000 in closing costs to cover bona fide third-party charges but the terms of the loan agreement provide that the creditor may recoup $4,500 in part to recoup waived charges, if the consumer repays the entire loan balance sooner than 36 months after consummation. The $3,000 that the creditor may impose to cover the waived bona fide third-party charges is not a prepayment penalty, but the additional $1,500 charge is a prepayment penalty and must be disclosed pursuant to \u00a7 1026.37(b)(4). \n            ", 
+            "tagged_text": "iii. A waived bona fide third-party charge imposed by the creditor if the consumer pays all of a covered transaction's principal before the date on which the principal is due sooner than 36 months after consummation. For example, assume that at consummation, the creditor waives $3,000 in closing costs to cover bona fide third-party charges but the terms of the loan agreement provide that the creditor may recoup the $3,000 in waived charges if the consumer repays the entire loan balance sooner than 36 months after consummation. The $3,000 charge is not a prepayment penalty. In contrast, for example, assume that at consummation, the creditor waives $3,000 in closing costs to cover bona fide third-party charges but the terms of the loan agreement provide that the creditor may recoup $4,500 in part to recoup waived charges, if the consumer repays the entire loan balance sooner than 36 months after consummation. The $3,000 that the creditor may impose to cover the waived bona fide third-party charges is not a prepayment penalty, but the additional $1,500 charge is a prepayment penalty and must be disclosed pursuant to \u00a7 1026.37(b)(4).\n            ", 
             "text": "iii. A waived bona fide third-party charge imposed by the creditor if the consumer pays all of a covered transaction's principal before the date on which the principal is due sooner than 36 months after consummation. For example, assume that at consummation, the creditor waives $3,000 in closing costs to cover bona fide third-party charges but the terms of the loan agreement provide that the creditor may recoup the $3,000 in waived charges if the consumer repays the entire loan balance sooner than 36 months after consummation. The $3,000 charge is not a prepayment penalty. In contrast, for example, assume that at consummation, the creditor waives $3,000 in closing costs to cover bona fide third-party charges but the terms of the loan agreement provide that the creditor may recoup $4,500 in part to recoup waived charges, if the consumer repays the entire loan balance sooner than 36 months after consummation. The $3,000 that the creditor may impose to cover the waived bona fide third-party charges is not a prepayment penalty, but the additional $1,500 charge is a prepayment penalty and must be disclosed pursuant to \u00a7 1026.37(b)(4).", 
             "title": null
         }, 
@@ -34665,7 +34651,7 @@
                 "v"
             ], 
             "node_type": "interp", 
-            "tagged_text": "v. Premiums for any title insurance coverage for the benefit of the creditor. \n            ", 
+            "tagged_text": "v. Premiums for any title insurance coverage for the benefit of the creditor.\n            ", 
             "text": "v. Premiums for any title insurance coverage for the benefit of the creditor.", 
             "title": null
         }, 
@@ -51207,7 +51193,7 @@
                 "1"
             ], 
             "node_type": "interp", 
-            "tagged_text": "1.<E T=\"03\">Non-federally related mortgage loans.</E>For a transaction that a non-federally related mortgage loan, the creditor is not required to use form H-25 of appendix H to this part, although its use as a model form for such transactions, if properly completed with accurate content, constitutes compliance with the clear and conspicuous and segregation requirements of \u00a7 1026.38(t)(1)(i). Even when the creditor elects not to use the model form, \u00a7 1026.38(t)(1)(ii) requires that the disclosures contain only the information required by \u00a7 1026.38(a) through (s), and that the creditor make the disclosures in the same order as they occur in form H-25, use the same headings, labels, and similar designations as used in the form (many of which also are expressly required by \u00a7 1026.38(a) through (s)), and position the disclosures relative to those designations in the same manner as shown in the form. In order to be in a format substantially similar to form H-25, the disclosures required by \u00a7 1026.38 must be provided on letter size (8.5\u2033 x 11\u2033) paper. \n            ", 
+            "tagged_text": "1.<E T=\"03\">Non-federally related mortgage loans.</E>For a transaction that a non-federally related mortgage loan, the creditor is not required to use form H-25 of appendix H to this part, although its use as a model form for such transactions, if properly completed with accurate content, constitutes compliance with the clear and conspicuous and segregation requirements of \u00a7 1026.38(t)(1)(i). Even when the creditor elects not to use the model form, \u00a7 1026.38(t)(1)(ii) requires that the disclosures contain only the information required by \u00a7 1026.38(a) through (s), and that the creditor make the disclosures in the same order as they occur in form H-25, use the same headings, labels, and similar designations as used in the form (many of which also are expressly required by \u00a7 1026.38(a) through (s)), and position the disclosures relative to those designations in the same manner as shown in the form. In order to be in a format substantially similar to form H-25, the disclosures required by \u00a7 1026.38 must be provided on letter size (8.5\u2033 x 11\u2033) paper.\n            ", 
             "text": "1. Non-federally related mortgage loans. For a transaction that a non-federally related mortgage loan, the creditor is not required to use form H-25 of appendix H to this part, although its use as a model form for such transactions, if properly completed with accurate content, constitutes compliance with the clear and conspicuous and segregation requirements of \u00a7 1026.38(t)(1)(i). Even when the creditor elects not to use the model form, \u00a7 1026.38(t)(1)(ii) requires that the disclosures contain only the information required by \u00a7 1026.38(a) through (s), and that the creditor make the disclosures in the same order as they occur in form H-25, use the same headings, labels, and similar designations as used in the form (many of which also are expressly required by \u00a7 1026.38(a) through (s)), and position the disclosures relative to those designations in the same manner as shown in the form. In order to be in a format substantially similar to form H-25, the disclosures required by \u00a7 1026.38 must be provided on letter size (8.5\u2033 x 11\u2033) paper.", 
             "title": null
         }, 
@@ -53218,7 +53204,7 @@
                 "2"
             ], 
             "node_type": "interp", 
-            "tagged_text": "2.<E T=\"03\">Description of late fees.</E>The description of any late fee charges includes the date of the late fee, the amount of the late fee, and the fact that a late fee was imposed. \n              ", 
+            "tagged_text": "2.<E T=\"03\">Description of late fees.</E>The description of any late fee charges includes the date of the late fee, the amount of the late fee, and the fact that a late fee was imposed.\n              ", 
             "text": "2. Description of late fees. The description of any late fee charges includes the date of the late fee, the amount of the late fee, and the fact that a late fee was imposed.", 
             "title": null
         }, 
@@ -54162,7 +54148,7 @@
                 "ii"
             ], 
             "node_type": "interp", 
-            "tagged_text": "ii. A service services 3,100 mortgage loans\u20143,000 mortgage loans it owns or originated and 100 mortgage loans it neither owns nor originated, but for which it owns the mortgage servicing rights. The servicer is not a small servicer because it services mortgage loans for which the servicer (or an affiliate) is not the creditor or assignee, notwithstanding that the servicer services fewer than 5,000 mortgage loans. \n                  ", 
+            "tagged_text": "ii. A service services 3,100 mortgage loans\u20143,000 mortgage loans it owns or originated and 100 mortgage loans it neither owns nor originated, but for which it owns the mortgage servicing rights. The servicer is not a small servicer because it services mortgage loans for which the servicer (or an affiliate) is not the creditor or assignee, notwithstanding that the servicer services fewer than 5,000 mortgage loans.\n                  ", 
             "text": "ii. A service services 3,100 mortgage loans\u20143,000 mortgage loans it owns or originated and 100 mortgage loans it neither owns nor originated, but for which it owns the mortgage servicing rights. The servicer is not a small servicer because it services mortgage loans for which the servicer (or an affiliate) is not the creditor or assignee, notwithstanding that the servicer services fewer than 5,000 mortgage loans.", 
             "title": null
         }, 
@@ -54719,6 +54705,21 @@
             "node_type": "interp", 
             "tagged_text": null, 
             "text": "", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "1026-42-h": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "1026", 
+                "42", 
+                "h"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(h) The Bureau issued a joint rule to implement the appraisal management company minimum requirements in the Financial Institutions Reform, Recovery, and Enforcement Act, as amended by section 1473 of the Dodd-Frank Wall Street Reform and Consumer Protection Act.<E T=\"03\">See</E>12 CFR part 34.", 
+            "text": "(h) The Bureau issued a joint rule to implement the appraisal management company minimum requirements in the Financial Institutions Reform, Recovery, and Enforcement Act, as amended by section 1473 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. See 12 CFR part 34.", 
             "title": null
         }, 
         "op": "added"
@@ -67005,7 +67006,7 @@
                 "1"
             ], 
             "node_type": "interp", 
-            "tagged_text": "1.<E T=\"03\">Transfer three years after consummation.</E>Under \u00a7 1026.43(f)(2)(i), if a balloon-payment qualified mortgage under \u00a7 1026.43(f)(1) is sold, assigned, or otherwise transferred three years or more after consummation, the balloon-payment qualified mortgage retains its status as a qualified mortgage under \u00a7 1026.43(f)(1) following the sale. The transferee need not be eligible to originate qualified mortgages under \u00a7 1026.43(f)(1)(vi). The balloon-payment qualified mortgage will continue to be a qualified mortgage throughout its life, and the transferee, and any subsequent transferees, may invoke the presumption of compliance for qualified mortgages under \u00a7 1026.43(f)(1). \n                ", 
+            "tagged_text": "1.<E T=\"03\">Transfer three years after consummation.</E>Under \u00a7 1026.43(f)(2)(i), if a balloon-payment qualified mortgage under \u00a7 1026.43(f)(1) is sold, assigned, or otherwise transferred three years or more after consummation, the balloon-payment qualified mortgage retains its status as a qualified mortgage under \u00a7 1026.43(f)(1) following the sale. The transferee need not be eligible to originate qualified mortgages under \u00a7 1026.43(f)(1)(vi). The balloon-payment qualified mortgage will continue to be a qualified mortgage throughout its life, and the transferee, and any subsequent transferees, may invoke the presumption of compliance for qualified mortgages under \u00a7 1026.43(f)(1).\n                ", 
             "text": "1. Transfer three years after consummation. Under \u00a7 1026.43(f)(2)(i), if a balloon-payment qualified mortgage under \u00a7 1026.43(f)(1) is sold, assigned, or otherwise transferred three years or more after consummation, the balloon-payment qualified mortgage retains its status as a qualified mortgage under \u00a7 1026.43(f)(1) following the sale. The transferee need not be eligible to originate qualified mortgages under \u00a7 1026.43(f)(1)(vi). The balloon-payment qualified mortgage will continue to be a qualified mortgage throughout its life, and the transferee, and any subsequent transferees, may invoke the presumption of compliance for qualified mortgages under \u00a7 1026.43(f)(1).", 
             "title": null
         }, 
@@ -68440,69 +68441,6 @@
         }, 
         "op": "added"
     }, 
-    "1026-D-II-C-1": {
-        "op": "modified", 
-        "text": [
-            [
-                [
-                    "delete", 
-                    29, 
-                    33
-                ], 
-                [
-                    "insert", 
-                    29, 
-                    "A.1"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    37, 
-                    41
-                ], 
-                [
-                    "insert", 
-                    37, 
-                    "part"
-                ]
-            ], 
-            [
-                "insert", 
-                46, 
-                "other than loans that are subject to \u00a7 1026.19(e) and (f), "
-            ]
-        ]
-    }, 
-    "1026-D-II-C-2": {
-        "op": "modified", 
-        "text": [
-            [
-                [
-                    "delete", 
-                    29, 
-                    33
-                ], 
-                [
-                    "insert", 
-                    29, 
-                    "A.2"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    37, 
-                    45
-                ], 
-                [
-                    "insert", 
-                    37, 
-                    "part II and loans under paragraph A.1 of part II that are subject to \u00a7 1026.19(e) and (f),"
-                ]
-            ]
-        ]
-    }, 
     "1026-D-Interp-6": {
         "op": "modified", 
         "text": [
@@ -68705,45 +68643,6 @@
             "title": null
         }, 
         "op": "added"
-    }, 
-    "1026-G_H-Interp-1": {
-        "op": "modified", 
-        "text": [
-            [
-                "insert", 
-                529, 
-                "H-24, H-25, H-26, H-27, H-28, "
-            ], 
-            [
-                [
-                    "delete", 
-                    1074, 
-                    1075
-                ], 
-                [
-                    "insert", 
-                    1074, 
-                    "  "
-                ]
-            ]
-        ]
-    }, 
-    "1026-G_H-Interp-1-v": {
-        "op": "modified", 
-        "text": [
-            [
-                [
-                    "delete", 
-                    25, 
-                    30
-                ], 
-                [
-                    "insert", 
-                    25, 
-                    "State"
-                ]
-            ]
-        ]
     }, 
     "1026-H-13": {
         "op": "modified", 
@@ -72963,7 +72862,7 @@
                 "B"
             ], 
             "node_type": "interp", 
-            "tagged_text": "B. Sufficient spacing between lines of the text; \n            ", 
+            "tagged_text": "B. Sufficient spacing between lines of the text;\n            ", 
             "text": "B. Sufficient spacing between lines of the text;", 
             "title": null
         }, 
@@ -73328,7 +73227,7 @@
             ], 
             "node_type": "appendix", 
             "tagged_text": null, 
-            "text": "7. Indicates that a physical property visit of the interior of the property was performed, as applicable.", 
+            "text": "7. Indicates that a physical property visit of the interior of the property was performed.", 
             "title": null
         }, 
         "op": "added"
@@ -73597,20 +73496,6 @@
             "tagged_text": null, 
             "text": "9. A copy of a title commitment report detailing the seller's ownership of the property, the date it was acquired, or the price at which the seller acquired the property.", 
             "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1026-P": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1026", 
-                "P"
-            ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "Appendix P to Part 1026-[Reserved]"
         }, 
         "op": "added"
     }, 

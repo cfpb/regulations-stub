@@ -42,6 +42,48 @@
                 "Interp", 
                 "1"
             ]
+        ], 
+        [
+            "POST", 
+            [
+                "1026", 
+                "1", 
+                "c", 
+                "5", 
+                "Interp"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1026", 
+                "1", 
+                "c", 
+                "5", 
+                "Interp", 
+                "1"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1026", 
+                "1", 
+                "c", 
+                "5", 
+                "Interp"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1026", 
+                "1", 
+                "c", 
+                "5", 
+                "Interp", 
+                "1"
+            ]
         ]
     ], 
     "cfr_parts": [
@@ -53,16 +95,14 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "1", 
                         "a"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(a)<E T=\"03\">Authority.</E>This part, known as Regulation Z, is issued by the Bureau of Consumer Financial Protection to implement the Federal Truth in Lending Act, which is contained in title I of the Consumer Credit Protection Act, as amended (15 U.S.C. 1601<E T=\"03\">et seq.</E>). This part also implements title XII, section 1204 of the Competitive Equality Banking Act of 1987 (Pub. L. 100-86, 101 Stat. 552). Furthermore, this part implements certain provisions of the Real Estate Settlement Procedures Act of 1974, as amended (12 U.S.C. 2601<E T=\"03\">et seq.</E>). The Bureau's information-collection requirements contained in this part have been approved by the Office of Management and Budget under the provisions of 44 U.S.C. 3501<E T=\"03\">et seq.</E>and have been assigned OMB No. 3170-0015 (Truth in Lending).", 
-                    "text": "(a) Authority. This part, known as Regulation Z, is issued by the Bureau of Consumer Financial Protection to implement the Federal Truth in Lending Act, which is contained in title I of the Consumer Credit Protection Act, as amended (15 U.S.C. 1601 et seq.). This part also implements title XII, section 1204 of the Competitive Equality Banking Act of 1987 (Pub. L. 100-86, 101 Stat. 552). Furthermore, this part implements certain provisions of the Real Estate Settlement Procedures Act of 1974, as amended (12 U.S.C. 2601 et seq.). The Bureau's information-collection requirements contained in this part have been approved by the Office of Management and Budget under the provisions of 44 U.S.C. 3501 et seq. and have been assigned OMB No. 3170-0015 (Truth in Lending).", 
-                    "title": null
+                    "text": "(a) Authority. This part, known as Regulation Z, is issued by the Bureau of Consumer Financial Protection to implement the Federal Truth in Lending Act, which is contained in title I of the Consumer Credit Protection Act, as amended (15 U.S.C. 1601 et seq.). This part also implements title XII, section 1204 of the Competitive Equality Banking Act of 1987 (Pub. L. 100-86, 101 Stat. 552). Furthermore, this part implements certain provisions of the Real Estate Settlement Procedures Act of 1974, as amended (12 U.S.C. 2601 et seq.). The Bureau's information-collection requirements contained in this part have been approved by the Office of Management and Budget under the provisions of 44 U.S.C. 3501 et seq. and have been assigned OMB No. 3170-0015 (Truth in Lending)."
                 }
             }
         ], 
@@ -70,7 +110,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "1", 
@@ -78,9 +118,7 @@
                         "5"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(5) No person is required to provide the disclosures required by sections 128(a)(16) through (19), 128(b)(4), 129C(f)(1), 129C(g)(2) and (3), 129C(h), 129D(h), 129D(j)(1)(A), or 129D(j)(1)(B) of the Truth in Lending Act or section 4(c) of the Real Estate Settlement Procedures Act.", 
-                    "text": "(5) No person is required to provide the disclosures required by sections 128(a)(16) through (19), 128(b)(4), 129C(f)(1), 129C(g)(2) and (3), 129C(h), 129D(h), 129D(j)(1)(A), or 129D(j)(1)(B) of the Truth in Lending Act or section 4(c) of the Real Estate Settlement Procedures Act.", 
-                    "title": null
+                    "text": "(5) No person is required to provide the disclosures required by sections 128(a)(16) through (19), 128(b)(4), 129C(f)(1), 129C(g)(2) and (3), 129C(h), 129D(h), 129D(j)(1)(A), or 129D(j)(1)(B) of the Truth in Lending Act or section 4(c) of the Real Estate Settlement Procedures Act."
                 }
             }
         ], 
@@ -88,9 +126,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [
-                        "1026-1-c-5-Interp-1"
-                    ], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "1", 
@@ -108,7 +144,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "1", 
@@ -118,9 +154,7 @@
                         "1"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "1.<E T=\"03\">Temporary exemption.</E>Section 1026.1(c)(5) implements sections 128(a)(16) through (19), 128(b)(4), 129C(f)(1), 129C(g)(2) and (3), 129C(h), 129D(h), 129D(j)(1)(A), and 129D(j)(1)(B) of the Truth in Lending Act and section 4(c) of the Real Estate Settlement Procedures Act, by exempting persons from the disclosure requirements of those sections. These exemptions are intended to be temporary, lasting only until regulations implementing the integrated disclosures required by sections 1032(f), 1098, and 1100A of the Dodd-Frank Act (12 U.S.C. 5532(f), 12 U.S.C. 2603(a), 15 U.S.C. 1604(b)) become mandatory. Section 1026.1(c)(5) does not exempt any person from any other requirement of this part, Regulation X (12 CFR part 1024), the Truth in Lending Act, or the Real Estate Settlement Procedures Act.", 
-                    "text": "1. Temporary exemption. Section 1026.1(c)(5) implements sections 128(a)(16) through (19), 128(b)(4), 129C(f)(1), 129C(g)(2) and (3), 129C(h), 129D(h), 129D(j)(1)(A), and 129D(j)(1)(B) of the Truth in Lending Act and section 4(c) of the Real Estate Settlement Procedures Act, by exempting persons from the disclosure requirements of those sections. These exemptions are intended to be temporary, lasting only until regulations implementing the integrated disclosures required by sections 1032(f), 1098, and 1100A of the Dodd-Frank Act (12 U.S.C. 5532(f), 12 U.S.C. 2603(a), 15 U.S.C. 1604(b)) become mandatory. Section 1026.1(c)(5) does not exempt any person from any other requirement of this part, Regulation X (12 CFR part 1024), the Truth in Lending Act, or the Real Estate Settlement Procedures Act.", 
-                    "title": null
+                    "text": "1. Temporary exemption. Section 1026.1(c)(5) implements sections 128(a)(16) through (19), 128(b)(4), 129C(f)(1), 129C(g)(2) and (3), 129C(h), 129D(h), 129D(j)(1)(A), and 129D(j)(1)(B) of the Truth in Lending Act and section 4(c) of the Real Estate Settlement Procedures Act, by exempting persons from the disclosure requirements of those sections. These exemptions are intended to be temporary, lasting only until regulations implementing the integrated disclosures required by sections 1032(f), 1098, and 1100A of the Dodd-Frank Act (12 U.S.C. 5532(f), 12 U.S.C. 2603(a), 15 U.S.C. 1604(b)) become mandatory. Section 1026.1(c)(5) does not exempt any person from any other requirement of this part, Regulation X (12 CFR part 1024), the Truth in Lending Act, or the Real Estate Settlement Procedures Act."
                 }
             }
         ]
@@ -172,7 +206,7 @@
             "page": 70111, 
             "paragraphs": [
                 "Although the Post-Consummation Escrow Cancellation Disclosure was not included in the Affected Title XIV Disclosures in the TILA-RESPA Integration Proposal, the Bureau nevertheless received comment requesting that it delay implementation of this disclosure, as described above. Furthermore, as discussed above, the Board received similar requests from commenters on its 2011 Escrows Proposal, which is now the Bureau's responsibility.", 
-                "The Bureau has considered the comments received by the Board and the Bureau and believes that, for the reasons given by the commenters and the reasons described in part II above, delaying implementation of the Post-Consummation Escrow Cancellation Disclosure and coordinating such implementation with that of the TILA-RESPA integrated disclosures is in the interest of industry and consumers alike. As discussed in part II above, the Dodd-Frank Act statutory requirements for the content of the Pre-Consummation Escrow Waiver Disclosure and the Post-Consummation Escrow Cancellation Disclosure are the same, and the model forms proposed in the Board's 2011 Escrows Proposal contained similar language for both disclosures. The Bureau tested language for the Pre-Consummation Escrow Waiver Disclosure at its consumer testing conducted in connection with the TILA-RESPA Integration Proposal and proposed to integrate this disclosure into the Closing Disclosure (which integrates the final TILA disclosure and the RESPA settlement statement).\n\n           Implementing the Post-Consummation Escrow Cancellation Disclosure along with the TILA-RESPA integrated disclosures will allow the Bureau to use feedback it has received from consumer testing conducted prior to the TILA-RESPA Integration Proposal, the comments on that proposal, and any consumer testing conducted subsequent to the proposal to harmonize the content and format of the Post-Consummation Escrow Cancellation Disclosure, the Pre-Consummation Escrow Waiver Disclosure, and the TILA-RESPA integrated disclosures. Consumers, therefore, would benefit from a more fully integrated and synchronized overall mortgage disclosure scheme, and industry would benefit from a more coordinated implementation of the overall mortgage disclosure scheme mandated by the Dodd-Frank Act and implemented by the Bureau. The Bureau also notes that no commenters supported the finalization of the Post-Consummation Escrow Cancellation Disclosure with the planned finalization of the Board's 2011 Escrows Proposal on or before January 21, 2013, and no commenters supported allowing the Post-Consummation Escrow Cancellation Disclosure to take effect by operation of law on that date.", 
+                "The Bureau has considered the comments received by the Board and the Bureau and believes that, for the reasons given by the commenters and the reasons described in part II above, delaying implementation of the Post-Consummation Escrow Cancellation Disclosure and coordinating such implementation with that of the TILA-RESPA integrated disclosures is in the interest of industry and consumers alike. As discussed in part II above, the Dodd-Frank Act statutory requirements for the content of the Pre-Consummation Escrow Waiver Disclosure and the Post-Consummation Escrow Cancellation Disclosure are the same, and the model forms proposed in the Board's 2011 Escrows Proposal contained similar language for both disclosures. The Bureau tested language for the Pre-Consummation Escrow Waiver Disclosure at its consumer testing conducted in connection with the TILA-RESPA Integration Proposal and proposed to integrate this disclosure into the Closing Disclosure (which integrates the final TILA disclosure and the RESPA settlement statement).\n\n          Implementing the Post-Consummation Escrow Cancellation Disclosure along with the TILA-RESPA integrated disclosures will allow the Bureau to use feedback it has received from consumer testing conducted prior to the TILA-RESPA Integration Proposal, the comments on that proposal, and any consumer testing conducted subsequent to the proposal to harmonize the content and format of the Post-Consummation Escrow Cancellation Disclosure, the Pre-Consummation Escrow Waiver Disclosure, and the TILA-RESPA integrated disclosures. Consumers, therefore, would benefit from a more fully integrated and synchronized overall mortgage disclosure scheme, and industry would benefit from a more coordinated implementation of the overall mortgage disclosure scheme mandated by the Dodd-Frank Act and implemented by the Bureau. The Bureau also notes that no commenters supported the finalization of the Post-Consummation Escrow Cancellation Disclosure with the planned finalization of the Board's 2011 Escrows Proposal on or before January 21, 2013, and no commenters supported allowing the Post-Consummation Escrow Cancellation Disclosure to take effect by operation of law on that date.", 
                 "In light of the considerations discussed above, including the comments submitted to the Board and the Bureau in support of a temporary exemption from compliance, the Bureau is modifying the proposed amendments to \u00a7 1026.1(c) to exempt persons from compliance with the Post-Consummation Escrow Cancellation Disclosure in addition to the Affected Title XIV Disclosures. Accordingly, the Bureau is adding a reference in \u00a7 1026.1(c)(5) and associated commentary to TILA section 129D(j)(1)(B)."
             ], 
             "title": "1. Post-Consummation Escrow Cancellation Disclosure"

@@ -44,6 +44,32 @@
             "POST", 
             [
                 "1026", 
+                "32", 
+                "a", 
+                "1", 
+                "ii", 
+                "Interp", 
+                "2", 
+                "xix"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1026", 
+                "32", 
+                "a", 
+                "1", 
+                "ii", 
+                "Interp", 
+                "2", 
+                "xix"
+            ]
+        ], 
+        [
+            "POST", 
+            [
+                "1026", 
                 "52", 
                 "b", 
                 "1", 
@@ -63,7 +89,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "32", 
@@ -75,9 +101,7 @@
                         "xix"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "xix. For 2014, $632, reflecting a 1.1 percent increase in the CPI-U from June 2012 to June 2013, rounded to the nearest whole dollar.", 
-                    "text": "xix. For 2014, $632, reflecting a 1.1 percent increase in the CPI-U from June 2012 to June 2013, rounded to the nearest whole dollar.", 
-                    "title": null
+                    "text": "xix. For 2014, $632, reflecting a 1.1 percent increase in the CPI-U from June 2012 to June 2013, rounded to the nearest whole dollar."
                 }
             }
         ], 
@@ -85,7 +109,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "52", 
@@ -95,9 +119,7 @@
                         "A"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(A) $26;", 
-                    "text": "(A) $26;", 
-                    "title": null
+                    "text": "(A) $26;"
                 }
             }
         ], 
@@ -105,7 +127,7 @@
             {
                 "action": "PUT", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "52", 
@@ -115,9 +137,7 @@
                         "B"
                     ], 
                     "node_type": "regtext", 
-                    "tagged_text": "(B) $37 if the card issuer previously imposed a fee pursuant to paragraph (b)(1)(ii)(A) of this section for a violation of the same type that occurred during the same billing cycle or one of the next six billing cycles; or", 
-                    "text": "(B) $37 if the card issuer previously imposed a fee pursuant to paragraph (b)(1)(ii)(A) of this section for a violation of the same type that occurred during the same billing cycle or one of the next six billing cycles; or", 
-                    "title": null
+                    "text": "(B) $37 if the card issuer previously imposed a fee pursuant to paragraph (b)(1)(ii)(A) of this section for a violation of the same type that occurred during the same billing cycle or one of the next six billing cycles; or"
                 }
             }
         ], 
@@ -125,9 +145,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [
-                        "1026-52-b-1-ii-Interp-2-i-A"
-                    ], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "52", 
@@ -139,9 +157,7 @@
                         "i"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "i.<E T=\"03\">Historical thresholds.</E>\n              ", 
-                    "text": "i. Historical thresholds.", 
-                    "title": null
+                    "text": "i. Historical thresholds."
                 }
             }
         ], 
@@ -149,7 +165,7 @@
             {
                 "action": "POST", 
                 "node": {
-                    "child_labels": [], 
+                    "children": [], 
                     "label": [
                         "1026", 
                         "52", 
@@ -162,9 +178,7 @@
                         "A"
                     ], 
                     "node_type": "interp", 
-                    "tagged_text": "A. Card issuers were permitted to impose a fee for violating the terms of an agreement if the fee did not exceed $25 under \u00a7 1026.52(b)(1)(ii)(A) and $35 under \u00a7 1026.52(b)(1)(ii)(B), through December 31, 2013.", 
-                    "text": "A. Card issuers were permitted to impose a fee for violating the terms of an agreement if the fee did not exceed $25 under \u00a7 1026.52(b)(1)(ii)(A) and $35 under \u00a7 1026.52(b)(1)(ii)(B), through December 31, 2013.", 
-                    "title": null
+                    "text": "A. Card issuers were permitted to impose a fee for violating the terms of an agreement if the fee did not exceed $25 under \u00a7 1026.52(b)(1)(ii)(A) and $35 under \u00a7 1026.52(b)(1)(ii)(B), through December 31, 2013."
                 }
             }
         ]
