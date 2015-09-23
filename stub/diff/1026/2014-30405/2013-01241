@@ -2187,23 +2187,6 @@
             ]
         ]
     }, 
-    "1026-41-e-4-ii": {
-        "op": "modified", 
-        "text": [
-            [
-                [
-                    "delete", 
-                    60, 
-                    65
-                ], 
-                [
-                    "insert", 
-                    60, 
-                    "that either:"
-                ]
-            ]
-        ]
-    }, 
     "1026-41-e-4-ii-A": {
         "op": "modified", 
         "text": [
@@ -2218,39 +2201,8 @@
                     4, 
                     "Services"
                 ]
-            ], 
-            [
-                "insert", 
-                151, 
-                " or"
             ]
         ]
-    }, 
-    "1026-41-e-4-ii-B": {
-        "op": "modified", 
-        "text": [
-            [
-                [
-                    "delete", 
-                    54, 
-                    63
-                ], 
-                [
-                    "insert", 
-                    54, 
-                    "266.5."
-                ]
-            ]
-        ]
-    }, 
-    "1026-41-e-4-ii-C": {
-        "op": "deleted"
-    }, 
-    "1026-41-e-4-ii-C-1": {
-        "op": "deleted"
-    }, 
-    "1026-41-e-4-ii-C-2": {
-        "op": "deleted"
     }, 
     "1026-41-e-4-ii-Interp-1": {
         "op": "modified", 
@@ -2329,30 +2281,84 @@
                 [
                     "insert", 
                     3, 
-                    "Master servicing and subservicing. Both a master servicer and a subservicer, as those terms are defined in 12 CFR 1024.31, must meet the requirements of a small servicer. For example, if a master servicer meets the definition of a small servicer, but retains a subservicer that does not meet the definition of a small servicer, the subservicer is not a small servicer for the purposes of determining any exemption, and must comply"
+                    "Master servicing and subservicing. Both"
+                ]
+            ], 
+            [
+                "insert", 
+                24, 
+                "master servicer and a subservicer, as those terms are defined in 12 CFR 1024.31, must meet the requirements of a "
+            ], 
+            [
+                [
+                    "delete", 
+                    40, 
+                    89
+                ], 
+                [
+                    "insert", 
+                    40, 
+                    "For example, if"
+                ]
+            ], 
+            [
+                "insert", 
+                92, 
+                "master servicer meets the definition of a "
+            ], 
+            [
+                "insert", 
+                108, 
+                "but retains "
+            ], 
+            [
+                "insert", 
+                110, 
+                "subservicer that does not meet the definition of a small servicer, the subservicer is not a small "
+            ], 
+            [
+                "insert", 
+                119, 
+                "for the purposes of determining any exemption, and "
+            ], 
+            [
+                [
+                    "delete", 
+                    124, 
+                    141
+                ], 
+                [
+                    "insert", 
+                    124, 
+                    "comply"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    27, 
-                    83
+                    147, 
+                    201
                 ], 
                 [
                     "insert", 
-                    27, 
-                    "the requirements of"
+                    147, 
+                    "the requirements"
                 ]
+            ], 
+            [
+                "delete", 
+                205, 
+                322
             ], 
             [
                 [
                     "delete", 
-                    86, 
-                    1364
+                    324, 
+                    1236
                 ], 
                 [
                     "insert", 
-                    86, 
+                    324, 
                     "servicer."
                 ]
             ]
@@ -2376,15 +2382,6 @@
     "1026-41-e-4-ii-Interp-3-iii": {
         "op": "deleted"
     }, 
-    "1026-41-e-4-ii-Interp-4": {
-        "op": "deleted"
-    }, 
-    "1026-41-e-4-ii-Interp-4-i": {
-        "op": "deleted"
-    }, 
-    "1026-41-e-4-ii-Interp-4-ii": {
-        "op": "deleted"
-    }, 
     "1026-41-e-4-iii": {
         "op": "modified", 
         "text": [
@@ -2394,77 +2391,29 @@
                 "small "
             ], 
             [
-                [
-                    "delete", 
-                    70, 
-                    103
-                ], 
-                [
-                    "insert", 
-                    70, 
-                    "services 5,000 or fewer mortgage loans, a servicer is evaluated based on the number"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    107, 
-                    120
-                ], 
-                [
-                    "insert", 
-                    107, 
-                    "mortgage loans serviced by"
-                ]
+                "insert", 
+                70, 
+                "services 5,000 or fewer mortgage loans, a servicer "
             ], 
             [
                 "insert", 
-                134, 
-                "and any affiliates as of January 1 for the remainder of the calendar year. A servicer that crosses the threshold will have six months after crossing the threshold or until the next January 1, whichever "
+                73, 
+                "evaluated based on the number of mortgage loans serviced by the servicer and any affiliates as of January 1 for the remainder of the calendar year. A servicer that crosses the threshold will have six months after crossing the threshold or until the next January 1, whichever is later, to comply with any requirements for which "
             ], 
             [
-                [
-                    "delete", 
-                    137, 
-                    190
-                ], 
-                [
-                    "insert", 
-                    137, 
-                    "later, to comply with any requirements for which a"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    200, 
-                    218
-                ], 
-                [
-                    "insert", 
-                    200, 
-                    "is no longer exempt"
-                ]
+                "insert", 
+                75, 
+                "servicer is no longer exempt as a "
             ], 
             [
                 "delete", 
-                222, 
-                302
+                81, 
+                491
             ], 
             [
                 "delete", 
-                304, 
-                542
-            ], 
-            [
-                "delete", 
-                548, 
-                749
-            ], 
-            [
-                "delete", 
-                758, 
-                871
+                500, 
+                613
             ]
         ]
     }, 
@@ -2510,16 +2459,9 @@
                 ]
             ], 
             [
-                [
-                    "delete", 
-                    20, 
-                    193
-                ], 
-                [
-                    "insert", 
-                    20, 
-                    "servicer:"
-                ]
+                "delete", 
+                20, 
+                147
             ]
         ]
     }, 
@@ -2529,48 +2471,60 @@
             [
                 [
                     "delete", 
-                    3, 
-                    9
+                    67, 
+                    94
                 ], 
                 [
                     "insert", 
-                    3, 
-                    "A servicer that begins servicing more than 5,000 mortgage loans on October 1, and services more than 5,000 mortgage loans as of January 1 of the following year, would no longer be considered"
+                    67, 
+                    "on October 1, and services"
                 ]
             ], 
             [
                 "insert", 
-                12, 
-                "small "
+                100, 
+                "than 5,000 "
             ], 
             [
                 [
                     "delete", 
-                    21, 
-                    29
+                    115, 
+                    152
                 ], 
                 [
                     "insert", 
-                    21, 
-                    "on April 1"
+                    115, 
+                    "as of January 1 of the following year, would no longer be considered a small servicer"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    33, 
-                    222
+                    156, 
+                    291
                 ], 
                 [
                     "insert", 
-                    33, 
+                    156, 
+                    "April 1"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    295, 
+                    311
+                ], 
+                [
+                    "insert", 
+                    295, 
                     "that"
                 ]
             ], 
             [
                 "delete", 
-                238, 
-                468
+                322, 
+                541
             ]
         ]
     }, 
@@ -2580,48 +2534,67 @@
             [
                 [
                     "delete", 
-                    4, 
-                    10
+                    68, 
+                    95
                 ], 
                 [
                     "insert", 
-                    4, 
-                    "A servicer that begins servicing more than 5,000 mortgage loans on February 1, and services more than 5,000 mortgage loans as of January 1 of the following year, would no longer be considered"
+                    68, 
+                    "on February 1, and services"
                 ]
             ], 
             [
                 "insert", 
-                13, 
-                "small "
+                101, 
+                "than 5,000 "
             ], 
             [
                 [
                     "delete", 
-                    22, 
-                    30
+                    116, 
+                    153
                 ], 
                 [
                     "insert", 
-                    22, 
-                    "on January 1"
+                    116, 
+                    "as of January 1 of the following year, would no longer be considered a small servicer"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    34, 
-                    224
+                    157, 
+                    293
                 ], 
                 [
                     "insert", 
-                    34, 
+                    157, 
+                    "January 1"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    297, 
+                    313
+                ], 
+                [
+                    "insert", 
+                    297, 
                     "that"
                 ]
             ], 
             [
-                "delete", 
-                240, 
-                460
+                [
+                    "delete", 
+                    324, 
+                    537
+                ], 
+                [
+                    "insert", 
+                    324, 
+                    "year."
+                ]
             ]
         ]
     }, 
@@ -2631,46 +2604,23 @@
             [
                 [
                     "delete", 
-                    5, 
-                    11
+                    69, 
+                    101
                 ], 
                 [
                     "insert", 
-                    5, 
-                    "A servicer that begins servicing more than 5,000 mortgage loans on February 1, but services less than 5,000 mortgage loans as of January 1 of the following year, is considered"
-                ]
-            ], 
-            [
-                "insert", 
-                14, 
-                "small "
-            ], 
-            [
-                [
-                    "delete", 
-                    23, 
-                    226
-                ], 
-                [
-                    "insert", 
-                    23, 
-                    "for that"
+                    69, 
+                    "on February 1, but services less than 5,000"
                 ]
             ], 
             [
                 "delete", 
-                242, 
-                310
+                117, 
+                290
             ]
         ]
     }, 
     "1026-41-e-4-iii-Interp-3": {
-        "op": "deleted"
-    }, 
-    "1026-41-e-4-iii-Interp-4": {
-        "op": "deleted"
-    }, 
-    "1026-41-e-4-iii-Interp-5": {
         "op": "deleted"
     }, 
     "1026-41-e-5": {
@@ -2790,66 +2740,6 @@
         "op": "deleted"
     }, 
     "1026-43-a-3-vi-Interp-1": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-A": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-B": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-B-1": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-B-2": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-B-3": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-B-4": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-C": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-D": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-D-1": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-D-2": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-D-3": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-D-4": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-E": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-E-1": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-E-2": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-E-3": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-F": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-Interp": {
-        "op": "deleted"
-    }, 
-    "1026-43-a-3-vii-Interp-1": {
         "op": "deleted"
     }, 
     "1026-43-b-4": {
@@ -3054,52 +2944,6 @@
             ]
         ]
     }, 
-    "1026-43-e-3-i": {
-        "op": "modified", 
-        "text": [
-            [
-                [
-                    "delete", 
-                    4, 
-                    10
-                ], 
-                [
-                    "insert", 
-                    4, 
-                    "A covered transaction is not a qualified mortgage unless the transaction's total points and fees,"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    14, 
-                    22
-                ], 
-                [
-                    "insert", 
-                    14, 
-                    "defined"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    26, 
-                    89
-                ], 
-                [
-                    "insert", 
-                    26, 
-                    "\u00a7 1026.32(b)(1), do"
-                ]
-            ], 
-            [
-                "delete", 
-                94, 
-                201
-            ]
-        ]
-    }, 
     "1026-43-e-3-ii-Interp-1-i": {
         "op": "deleted"
     }, 
@@ -3116,60 +2960,6 @@
         "op": "deleted"
     }, 
     "1026-43-e-3-ii-Interp-1-i-E": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iii": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iii-A": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iii-B": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iii-B-1": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iii-B-2": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iii-B-3": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iii-C": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iii-Interp": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iii-Interp-1": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iii-Interp-2": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iii-Interp-2-i": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iii-Interp-3": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iv": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iv-A": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iv-B": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iv-Interp": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iv-Interp-1": {
-        "op": "deleted"
-    }, 
-    "1026-43-e-3-iv-Interp-2": {
         "op": "deleted"
     }, 
     "1026-43-e-4-Interp-1": {

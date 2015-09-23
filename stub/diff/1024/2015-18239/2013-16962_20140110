@@ -2715,24 +2715,6 @@
             ]
         ]
     }, 
-    "1024-C-h2-h3-dup10": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h3-dup10-i": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h3-dup11": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h3-dup11-ii": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h3-dup12": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h3-dup12-iii": {
-        "op": "deleted"
-    }, 
     "1024-C-h2-h3-i": {
         "op": "deleted"
     }, 
@@ -2740,6 +2722,15 @@
         "op": "deleted"
     }, 
     "1024-C-h2-h3-iii": {
+        "op": "deleted"
+    }, 
+    "1024-C-h2-h3-p10": {
+        "op": "deleted"
+    }, 
+    "1024-C-h2-h3-p11": {
+        "op": "deleted"
+    }, 
+    "1024-C-h2-h3-p12": {
         "op": "deleted"
     }, 
     "1024-C-h2-h3-p13": {
@@ -2755,15 +2746,6 @@
         "op": "deleted"
     }, 
     "1024-C-h2-h3-p17": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h3-p18": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h3-p19": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h3-p20": {
         "op": "deleted"
     }, 
     "1024-C-h2-h3-p6": {
@@ -3035,7 +3017,7 @@
         }, 
         "op": "added"
     }, 
-    "1024-C-h2-h4-p21": {
+    "1024-C-h2-h4-p18": {
         "op": "deleted"
     }, 
     "1024-C-h2-h5-p18": {
@@ -3056,155 +3038,216 @@
         "op": "added"
     }, 
     "1024-C-h2-h5-p19": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "C", 
-                "h2", 
-                "h5", 
-                "p19"
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    6, 
+                    8
+                ], 
+                [
+                    "insert", 
+                    6, 
+                    "2,"
+                ]
             ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "Block 2, \u201c Your credit or charge (points) for the specific interest rate chosen. \u201d\u2014For transactions involving mortgage brokers, the mortgage broker must indicate through check boxes whether there is a credit to the borrower for the interest rate chosen on the loan, the interest rate, and the amount of the credit, or whether there is an additional charge (points) to the borrower for the interest rate chosen on the loan, the interest rate, and the amount of that charge. Only one of the boxes may be checked; a credit and charge cannot occur together in the same transaction.", 
-            "title": null
-        }, 
-        "op": "added"
+            [
+                [
+                    "delete", 
+                    11, 
+                    26
+                ], 
+                [
+                    "insert", 
+                    11, 
+                    "Your credit or charge (points) for the specific interest rate chosen. \u201d\u2014For transactions involving mortgage brokers, the mortgage broker must indicate through check boxes whether there is a credit to the borrower for the interest rate chosen on the loan, the interest rate, and the amount of the credit, or whether there is an additional charge (points) to the borrower for the interest rate chosen on the loan, the interest rate, and the amount of that"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    35, 
+                    119
+                ], 
+                [
+                    "insert", 
+                    35, 
+                    "Only one of the boxes may be checked; a credit and charge cannot occur together"
+                ]
+            ], 
+            [
+                "delete", 
+                123, 
+                180
+            ], 
+            [
+                [
+                    "delete", 
+                    184, 
+                    474
+                ], 
+                [
+                    "insert", 
+                    184, 
+                    "same transaction."
+                ]
+            ]
+        ]
     }, 
     "1024-C-h2-h5-p20": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "C", 
-                "h2", 
-                "h5", 
-                "p20"
-            ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "For transactions without a mortgage broker, the lender may choose not to separately disclose in this block any credit or charge for the interest rate chosen on the loan; however, if this block does not include any positive or negative figure, the lender must check the first box to indicate that \u201cThe credit or charge for the interest rate you have chosen\u201d is included in \u201cOur origination charge\u201d above (see Block 1 instructions above), must insert the interest rate, and must also insert \u201c0\u201d in Block 2. Only one of the boxes may be checked; a credit and charge cannot occur together in the same transaction.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-C-h2-h5-p21": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "C", 
-                "h2", 
-                "h5", 
-                "p21"
-            ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "For a mortgage broker, the credit or charge for the specific interest rate chosen is the net payment to the mortgage broker from the lender (i.e., the sum of all payments to the mortgage broker from the lender, including payments based on the loan amount, a flat rate, or any other computation, and in a table funded transaction, the loan amount less the price paid for the loan by the lender). When the net payment to the mortgage broker from the lender is positive, there is a credit to the borrower and it is entered as a negative amount in Block 2 of the GFE. When the net payment to the mortgage broker from the lender is negative, there is a charge to the borrower and it is entered as a positive amount in Block 2 of the GFE. If there is no net payment (i.e., the credit or charge for the specific interest rate chosen is zero), the mortgage broker must insert \u201c0\u201d in Block 2 and may check either the box indicating there is a credit of \u201c0\u201d or the box indicating there is a charge of \u201c0\u201d.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-C-h2-h5-p22": {
         "op": "modified", 
         "text": [
             [
                 "insert", 
                 0, 
-                "The amount stated in "
+                "For transactions without a mortgage broker, the lender may choose not to separately disclose in this block any credit or charge for the interest rate chosen on the loan; however, if this block does not include any positive or negative figure, the lender must check the first box to indicate that \u201cThe credit or charge for the interest rate you have chosen\u201d is included in \u201cOur origination charge\u201d above (see "
             ], 
             [
                 [
                     "delete", 
                     6, 
-                    119
+                    15
                 ], 
                 [
                     "insert", 
                     6, 
-                    "2 is subject to zero tolerance while the interest rate is locked, i.e., any credit for the interest rate chosen cannot decrease"
-                ]
-            ], 
-            [
-                "insert", 
-                123, 
-                "absolute value terms and any charge for the interest rate chosen cannot increase. (Note: An increase in the credit is allowed since "
-            ], 
-            [
-                [
-                    "delete", 
-                    128, 
-                    179
-                ], 
-                [
-                    "insert", 
-                    128, 
-                    "increase is a reduction in cost to"
+                    "1 instructions above), must insert the interest rate, and must also insert \u201c0\u201d in Block 2. Only one of the boxes may be checked; a"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    184, 
-                    223
+                    23, 
+                    25
                 ], 
                 [
                     "insert", 
-                    184, 
-                    "borrower."
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    226, 
-                    245
-                ], 
-                [
-                    "insert", 
-                    226, 
-                    "decrease in the credit is"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    250, 
-                    384
-                ], 
-                [
-                    "insert", 
-                    250, 
-                    "allowed since it is an increase"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    388, 
-                    406
-                ], 
-                [
-                    "insert", 
-                    388, 
-                    "cost"
+                    23, 
+                    "and"
                 ]
             ], 
             [
                 "delete", 
-                410, 
-                432
+                33, 
+                531
+            ]
+        ]
+    }, 
+    "1024-C-h2-h5-p21": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    35
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "a mortgage"
+                ]
+            ], 
+            [
+                "insert", 
+                47, 
+                " credit or charge for the specific interest rate chosen is the net payment to the mortgage broker from the"
+            ], 
+            [
+                "insert", 
+                55, 
+                "(i.e., the sum of all payments to the mortgage broker from the lender, including payments based on the loan amount, a flat rate, or any other computation, and in a table funded transaction, the loan amount less the price paid for the loan by the lender). When the net payment to the mortgage broker from the lender is positive, there is a credit to the borrower and it is entered as a negative amount in Block 2 of the GFE. When the net payment to the mortgage broker from the lender is negative, there is a charge to the borrower and it is entered as a positive amount in Block 2 of the GFE. If there is no net payment (i.e., the credit or charge for the specific interest rate chosen is zero), the mortgage broker must insert \u201c0\u201d in Block 2 and "
             ], 
             [
                 [
                     "delete", 
-                    436, 
-                    474
+                    59, 
+                    110
                 ], 
                 [
                     "insert", 
-                    436, 
+                    59, 
+                    "check either the box indicating there is a"
+                ]
+            ], 
+            [
+                "insert", 
+                118, 
+                "of \u201c0\u201d "
+            ], 
+            [
+                "insert", 
+                121, 
+                "the box indicating there is a "
+            ], 
+            [
+                [
+                    "delete", 
+                    128, 
+                    609
+                ], 
+                [
+                    "insert", 
+                    128, 
+                    "of \u201c0\u201d."
+                ]
+            ]
+        ]
+    }, 
+    "1024-C-h2-h5-p22": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    0, 
+                    3
+                ], 
+                [
+                    "insert", 
+                    0, 
+                    "The amount stated in Block 2 is subject to zero tolerance while the interest rate is locked, i.e., any credit for the interest rate chosen cannot decrease in absolute value terms and any charge for the interest rate chosen cannot increase. (Note: An increase in the credit is allowed since this increase is"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    6, 
+                    22
+                ], 
+                [
+                    "insert", 
+                    6, 
+                    "reduction in cost to"
+                ]
+            ], 
+            [
+                "insert", 
+                27, 
+                "borrower. A decrease in the "
+            ], 
+            [
+                [
+                    "delete", 
+                    34, 
+                    47
+                ], 
+                [
+                    "insert", 
+                    34, 
+                    "is not allowed since it is an increase in cost to"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    52, 
+                    995
+                ], 
+                [
+                    "insert", 
+                    52, 
                     "borrower.)"
                 ]
             ]
@@ -3216,51 +3259,34 @@
             [
                 "insert", 
                 0, 
-                "Line A, \u201c Your Adjusted Origination Charges. \u201d\u2014The loan originator must add the numbers in Blocks 1 and 2 and enter this subtotal at highlighted Line A. The subtotal at Line A will be a negative number if there is a credit in "
+                "Line A, \u201c Your Adjusted Origination Charges. \u201d\u2014The loan originator must add the numbers in Blocks 1 and 2 and enter this subtotal at highlighted Line A. "
+            ], 
+            [
+                "insert", 
+                4, 
+                "subtotal at Line A will be a negative number if there is a credit in Block 2 that exceeds the charge in Block 1. The "
             ], 
             [
                 [
                     "delete", 
-                    6, 
-                    25
+                    21, 
+                    28
                 ], 
                 [
                     "insert", 
-                    6, 
-                    "2 that exceeds the"
+                    21, 
+                    "Line A"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    33, 
-                    45
+                    85, 
+                    433
                 ], 
                 [
                     "insert", 
-                    33, 
-                    "in Block 1. The amount stated in Line A is subject to zero tolerance while"
-                ]
-            ], 
-            [
-                "delete", 
-                50, 
-                59
-            ], 
-            [
-                "delete", 
-                73, 
-                196
-            ], 
-            [
-                [
-                    "delete", 
-                    199, 
-                    577
-                ], 
-                [
-                    "insert", 
-                    199, 
+                    85, 
                     "locked."
                 ]
             ]
@@ -3270,82 +3296,64 @@
         "op": "modified", 
         "text": [
             [
-                [
-                    "delete", 
-                    0, 
-                    24
-                ], 
-                [
-                    "insert", 
-                    0, 
-                    "In the case of \u201cno cost\u201d loans, where \u201cno cost\u201d refers only to the loan originator's fees, Line A must show"
-                ]
+                "insert", 
+                0, 
+                "In the case of \u201cno cost\u201d loans, where \u201cno cost\u201d refers only to the loan originator's fees, "
             ], 
             [
                 [
                     "delete", 
-                    27, 
-                    92
+                    5, 
+                    50
                 ], 
                 [
                     "insert", 
-                    27, 
-                    "zero charge as the adjusted origination charge. In the case of \u201cno cost\u201d loans where \u201cno cost\u201d encompasses third party fees as well as the upfront payment to the loan originator, all of the third party fees listed"
+                    5, 
+                    "A must show a zero charge as the adjusted origination charge. In the case of \u201cno cost\u201d loans where \u201cno cost\u201d encompasses third party fees as well as the upfront payment to the"
                 ]
+            ], 
+            [
+                "insert", 
+                56, 
+                "originator, all of the third party fees listed in Block 3 through Block 11 to be paid for by the loan "
+            ], 
+            [
+                "insert", 
+                67, 
+                "(or borrower, if any) "
             ], 
             [
                 [
                     "delete", 
-                    96, 
-                    110
+                    72, 
+                    87
                 ], 
                 [
                     "insert", 
-                    96, 
-                    "Block 3 through Block 11 to be paid for by the loan originator (or borrower, if any) must be itemized and listed on the GFE. The"
+                    72, 
+                    "be itemized and listed on the GFE. The credit for the interest rate chosen must be large enough that the total for Line A will result"
                 ]
             ], 
             [
                 "delete", 
-                118, 
-                128
+                91, 
+                184
             ], 
             [
                 [
                     "delete", 
-                    157, 
-                    225
+                    202, 
+                    361
                 ], 
                 [
                     "insert", 
-                    157, 
-                    "must be large enough that the total for Line A will result in a"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    235, 
-                    609
-                ], 
-                [
-                    "insert", 
-                    235, 
-                    "number to cover the third party fees."
+                    202, 
+                    "to cover the third party fees."
                 ]
             ]
         ]
     }, 
     "1024-C-h2-h5-p25": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h5-p26": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h5-p27": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h5-p28": {
         "op": "deleted"
     }, 
     "1024-C-h2-h6-p25": {
@@ -3366,57 +3374,6 @@
         "op": "added"
     }, 
     "1024-C-h2-h6-p26": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "C", 
-                "h2", 
-                "h6", 
-                "p26"
-            ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "Block 3, \u201c Required services that we select. \u201d\u2014In this block, the loan originator must identify each third party settlement service required and selected by the loan originator (excluding title services), along with the estimated price to be paid to the provider of each service. Examples of such third party settlement services might include provision of credit reports, appraisals, flood checks, tax services, and any upfront mortgage insurance premium. The loan originator must identify the specific required services and provide an estimate of the price of each service. Loan originators are also required to add the individual charges disclosed in this block and place that total in the column of this block. The charge shown in this block is subject to an overall 10 percent tolerance as described above.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-C-h2-h6-p27": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "C", 
-                "h2", 
-                "h6", 
-                "p27"
-            ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "Block 4, \u201c Title services and lender's title insurance. \u201d\u2014In this block, the loan originator must state the estimated total charge for third party settlement service providers for all closing services, regardless of whether the providers are selected or paid for by the borrower, seller, or loan originator. The loan originator must also include any lender's title insurance premiums, when required, regardless of whether the provider is selected or paid for by the borrower, seller, or loan originator. All fees for title searches, examinations, and endorsements, for example, would be included in this total. The charge shown in this block is subject to an overall 10 percent tolerance as described above.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-C-h2-h6-p28": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "C", 
-                "h2", 
-                "h6", 
-                "p28"
-            ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "Block 5, \u201c Owner's title insurance. \u201d\u2014In this block, for all purchase transactions the loan originator must provide an estimate of the charge for the owner's title insurance and related endorsements, regardless of whether the providers are selected or paid for by the borrower, seller, or loan originator. For non-purchase transactions, the loan originator may enter \u201cNA\u201d or \u201cNot Applicable\u201d in this Block. The charge shown in this block is subject to an overall 10 percent tolerance as described above.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-C-h2-h6-p29": {
         "op": "modified", 
         "text": [
             [
@@ -3428,7 +3385,7 @@
                 [
                     "insert", 
                     0, 
-                    "Block 6, \u201c Required services that you can shop for. \u201d\u2014In this block, the loan originator must identify each third party settlement service required by the loan originator where the borrower"
+                    "Block 3, \u201c Required services that we select. \u201d\u2014In this block, the loan originator must identify each third party settlement service required and selected by the loan originator (excluding title services), along with the estimated price to be paid to the provider of each service. Examples of such third party settlement services might include provision of credit reports, appraisals, flood checks, tax services, and any upfront mortgage insurance premium. The loan originator must identify the specific required services and provide an estimate of the price of each service. Loan originators are also required to add the individual charges disclosed in this block and place that total in the column of this block. The charge shown in this block"
                 ]
             ], 
             [
@@ -3440,7 +3397,7 @@
                 [
                     "insert", 
                     9, 
-                    "permitted to shop for and select the settlement service provider (excluding title services), along with the estimated charge to be paid to the provider of each service. The loan originator must identify the specific required services (e.g., survey, pest inspection) and provide an estimate of the charge of each service. The loan originator must also add the individual charges disclosed in this block and place the total in the column of this block. The charge shown in this block is subject to an overall"
+                    "subject to an overall"
                 ]
             ], 
             [
@@ -3453,6 +3410,245 @@
                     "insert", 
                     32, 
                     "as described above."
+                ]
+            ]
+        ]
+    }, 
+    "1024-C-h2-h6-p27": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    6, 
+                    8
+                ], 
+                [
+                    "insert", 
+                    6, 
+                    "4,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    11, 
+                    19
+                ], 
+                [
+                    "insert", 
+                    11, 
+                    "Title"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    29, 
+                    44
+                ], 
+                [
+                    "insert", 
+                    29, 
+                    "and lender's title insurance."
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    87, 
+                    100
+                ], 
+                [
+                    "insert", 
+                    87, 
+                    "state the estimated total charge for"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    132, 
+                    140
+                ], 
+                [
+                    "insert", 
+                    132, 
+                    "providers for all closing services, regardless of whether the providers are selected or paid for by the borrower, seller, or loan originator. The loan originator must also include any lender's title insurance premiums, when required, regardless of whether the provider is selected or paid for by the borrower, seller, or loan originator. All fees for title searches, examinations,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    145, 
+                    235
+                ], 
+                [
+                    "insert", 
+                    145, 
+                    "endorsements, for example, would be included in this total. The charge shown in this block is subject"
+                ]
+            ], 
+            [
+                "delete", 
+                239, 
+                533
+            ], 
+            [
+                "delete", 
+                536, 
+                762
+            ]
+        ]
+    }, 
+    "1024-C-h2-h6-p28": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    6, 
+                    8
+                ], 
+                [
+                    "insert", 
+                    6, 
+                    "5,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    11, 
+                    25
+                ], 
+                [
+                    "insert", 
+                    11, 
+                    "Owner's title insurance. \u201d\u2014In this block, for all purchase transactions the loan originator must provide an estimate of the charge for the owner's title insurance"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    30, 
+                    60
+                ], 
+                [
+                    "insert", 
+                    30, 
+                    "related endorsements, regardless of whether the providers are selected or paid for by the borrower, seller, or loan originator. For non-purchase transactions, the loan originator may enter \u201cNA\u201d or \u201cNot Applicable\u201d in"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    66, 
+                    123
+                ], 
+                [
+                    "insert", 
+                    66, 
+                    "Block. The"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    131, 
+                    434
+                ], 
+                [
+                    "insert", 
+                    131, 
+                    "shown in this block"
+                ]
+            ], 
+            [
+                "delete", 
+                438, 
+                645
+            ]
+        ]
+    }, 
+    "1024-C-h2-h6-p29": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    6, 
+                    8
+                ], 
+                [
+                    "insert", 
+                    6, 
+                    "6,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    11, 
+                    18
+                ], 
+                [
+                    "insert", 
+                    11, 
+                    "Required services that you can shop for. \u201d\u2014In this block, the loan originator must identify each third party settlement service required by the loan originator where the borrower is permitted to shop for and select the settlement service provider (excluding"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    25, 
+                    102
+                ], 
+                [
+                    "insert", 
+                    25, 
+                    "services), along with the estimated charge to be paid to the provider of each service. The loan originator"
+                ]
+            ], 
+            [
+                "insert", 
+                108, 
+                "identify the specific required services (e.g., survey, pest inspection) and "
+            ], 
+            [
+                [
+                    "delete", 
+                    142, 
+                    173
+                ], 
+                [
+                    "insert", 
+                    142, 
+                    "of each service. The loan originator must also add the individual charges disclosed in this block"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    178, 
+                    391
+                ], 
+                [
+                    "insert", 
+                    178, 
+                    "place the total"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    395, 
+                    406
+                ], 
+                [
+                    "insert", 
+                    395, 
+                    "the column of this block."
                 ]
             ]
         ]
@@ -3485,38 +3681,55 @@
                 ]
             ], 
             [
+                "delete", 
+                34, 
+                38
+            ], 
+            [
                 [
                     "delete", 
-                    34, 
-                    49
+                    42, 
+                    56
                 ], 
                 [
                     "insert", 
-                    34, 
-                    "can be expected to be charged at settlement. The charge shown in"
+                    42, 
+                    "be expected to be charged at settlement. The charge shown in"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    55, 
-                    235
+                    62, 
+                    189
                 ], 
                 [
                     "insert", 
-                    55, 
-                    "block is subject"
+                    62, 
+                    "block"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    193, 
+                    202
+                ], 
+                [
+                    "insert", 
+                    193, 
+                    "subject"
                 ]
             ], 
             [
                 "delete", 
-                239, 
-                533
+                206, 
+                471
             ], 
             [
                 "delete", 
-                536, 
-                762
+                474, 
+                692
             ]
         ]
     }, 
@@ -3539,58 +3752,70 @@
                 [
                     "delete", 
                     11, 
-                    25
+                    43
                 ], 
                 [
                     "insert", 
                     11, 
-                    "Transfer taxes. \u201d\u2014In this block, the loan originator must estimate the sum of all state"
+                    "Transfer taxes. \u201d\u2014In"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    30, 
-                    72
+                    94, 
+                    99
                 ], 
                 [
                     "insert", 
-                    30, 
-                    "local government fees on mortgages and home sales that can be expected to be charged at settlement, based upon"
+                    94, 
+                    "sum of all state"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    126, 
+                    139
+                ], 
+                [
+                    "insert", 
+                    126, 
+                    "on mortgages and home sales that can be expected to be charged at settlement, based upon"
                 ]
             ], 
             [
                 "insert", 
-                77, 
+                144, 
                 "proposed "
             ], 
             [
+                "insert", 
+                149, 
+                "amount or sales price "
+            ], 
+            [
                 [
                     "delete", 
-                    82, 
-                    103
+                    153, 
+                    189
                 ], 
                 [
                     "insert", 
-                    82, 
-                    "amount or sales price and on"
+                    153, 
+                    "on the property address. A zero tolerance applies"
                 ]
             ], 
             [
-                "insert", 
-                108, 
-                "property address. A zero tolerance applies to the sum of these "
-            ], 
-            [
                 [
                     "delete", 
-                    118, 
-                    707
+                    193, 
+                    315
                 ], 
                 [
                     "insert", 
-                    118, 
-                    "fees."
+                    193, 
+                    "the sum of these estimated fees."
                 ]
             ]
         ]
@@ -3614,7 +3839,7 @@
                 [
                     "delete", 
                     11, 
-                    35
+                    26
                 ], 
                 [
                     "insert", 
@@ -3623,42 +3848,63 @@
                 ]
             ], 
             [
-                "insert", 
-                53, 
-                "the loan originator must estimate the amount that it will require the borrower to place into a reserve or escrow account at settlement to be applied to recurring charges "
-            ], 
-            [
-                "insert", 
-                57, 
-                "property taxes, homeowner's and other similar insurance, mortgage insurance, and other periodic charges. The loan originator must indicate through check boxes if the reserve or escrow account will cover future payments for "
-            ], 
-            [
                 [
                     "delete", 
-                    61, 
-                    251
+                    82, 
+                    88
                 ], 
                 [
                     "insert", 
-                    61, 
-                    "tax, all hazard insurance, and other obligations that the loan originator requires to be"
+                    82, 
+                    "amount that it will require the borrower to place into a reserve or escrow account at settlement to be applied to recurring charges for property taxes, homeowner's and other similar insurance, mortgage insurance, and other periodic charges. The loan originator must indicate through check boxes if the reserve or escrow account will cover future payments for"
                 ]
             ], 
             [
-                "delete", 
-                257, 
-                484
+                [
+                    "delete", 
+                    93, 
+                    152
+                ], 
+                [
+                    "insert", 
+                    93, 
+                    "tax, all hazard insurance, and other obligations"
+                ]
             ], 
             [
                 [
                     "delete", 
-                    487, 
-                    503
+                    158, 
+                    161
                 ], 
                 [
                     "insert", 
-                    487, 
-                    "they fall due. If the reserve or escrow account includes some, but not all, property taxes or hazard insurance, or if it includes mortgage insurance, the loan originator should check \u201cother\u201d and then list the items included."
+                    158, 
+                    "the loan originator requires to"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    165, 
+                    264
+                ], 
+                [
+                    "insert", 
+                    165, 
+                    "paid as they fall due. If the reserve or escrow account includes some, but not all,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    274, 
+                    343
+                ], 
+                [
+                    "insert", 
+                    274, 
+                    "taxes or hazard insurance, or if it includes mortgage insurance, the loan originator should check \u201cother\u201d and then list the items included."
                 ]
             ]
         ]
@@ -3682,24 +3928,24 @@
                 [
                     "delete", 
                     11, 
-                    28
+                    26
                 ], 
                 [
                     "insert", 
                     11, 
-                    "Daily interest charges. \u201d\u2014In this block, the loan originator must estimate the total amount"
+                    "Daily interest charges. \u201d\u2014In this block, the loan originator must estimate the total amount that will be due at settlement"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    34, 
+                    31, 
                     56
                 ], 
                 [
                     "insert", 
-                    34, 
-                    "will be due at settlement for the daily interest on the loan from the date of settlement until the first day of the first period covered by scheduled mortgage payments. The loan originator must also indicate how"
+                    31, 
+                    "the daily interest on the loan from the date of settlement until the first day of the first period covered by scheduled mortgage payments. The loan originator must also indicate how"
                 ]
             ], 
             [
@@ -3718,7 +3964,7 @@
                 [
                     "delete", 
                     73, 
-                    150
+                    102
                 ], 
                 [
                     "insert", 
@@ -3729,37 +3975,37 @@
             [
                 [
                     "delete", 
-                    155, 
-                    176
+                    107, 
+                    134
                 ], 
                 [
                     "insert", 
-                    155, 
+                    107, 
                     "interest charges per day and"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    181, 
-                    225
+                    139, 
+                    161
                 ], 
                 [
                     "insert", 
-                    181, 
-                    "number of days used in"
+                    139, 
+                    "number of days used in the calculation, based on"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    230, 
-                    740
+                    164, 
+                    791
                 ], 
                 [
                     "insert", 
-                    230, 
-                    "calculation, based on a stated projected closing date."
+                    164, 
+                    "stated projected closing date."
                 ]
             ]
         ]
@@ -3771,7 +4017,7 @@
                 [
                     "delete", 
                     6, 
-                    8
+                    9
                 ], 
                 [
                     "insert", 
@@ -3782,123 +4028,63 @@
             [
                 [
                     "delete", 
-                    11, 
-                    43
+                    12, 
+                    26
                 ], 
                 [
                     "insert", 
-                    11, 
-                    "Homeowner's insurance. \u201d\u2014The loan originator must estimate in"
+                    12, 
+                    "Homeowner's insurance. \u201d\u2014The loan originator must estimate in this block the total amount of the premiums for any hazard insurance policy and other similar insurance, such as fire or flood insurance that must be purchased at or before settlement to meet the loan originator's requirements. The loan originator must also separately indicate the nature of each type of insurance required along with the"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    49, 
-                    55
+                    36, 
+                    52
                 ], 
                 [
                     "insert", 
-                    49, 
-                    "block"
-                ]
-            ], 
-            [
-                "insert", 
-                60, 
-                "total amount of the premiums for any hazard insurance policy and other similar insurance, such as fire or flood insurance that must be purchased at or before settlement to meet the "
-            ], 
-            [
-                "insert", 
-                65, 
-                "originator's requirements. The loan "
-            ], 
-            [
-                [
-                    "delete", 
-                    81, 
-                    89
-                ], 
-                [
-                    "insert", 
-                    81, 
-                    "also separately indicate"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    94, 
-                    139
-                ], 
-                [
-                    "insert", 
-                    94, 
-                    "nature of each type of insurance required along with"
+                    36, 
+                    "To"
                 ]
             ], 
             [
                 "insert", 
-                144, 
-                "charges. To the extent a "
+                57, 
+                "extent a "
+            ], 
+            [
+                "insert", 
+                73, 
+                "requires that such insurance be part of an escrow account, the amount of the initial escrow deposit "
+            ], 
+            [
+                "delete", 
+                78, 
+                114
             ], 
             [
                 [
                     "delete", 
-                    149, 
-                    168
+                    117, 
+                    436
                 ], 
                 [
                     "insert", 
-                    149, 
-                    "originator requires"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    174, 
-                    177
-                ], 
-                [
-                    "insert", 
-                    174, 
-                    "such insurance"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    181, 
-                    192
-                ], 
-                [
-                    "insert", 
-                    181, 
-                    "part of an escrow account, the amount of the initial escrow deposit must"
-                ]
-            ], 
-            [
-                [
-                    "delete", 
-                    196, 
-                    235
-                ], 
-                [
-                    "insert", 
-                    196, 
+                    117, 
                     "included"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    239, 
-                    315
+                    440, 
+                    498
                 ], 
                 [
                     "insert", 
-                    239, 
+                    440, 
                     "Block 9."
                 ]
             ]
@@ -3911,7 +4097,7 @@
                 [
                     "delete", 
                     0, 
-                    8
+                    9
                 ], 
                 [
                     "insert", 
@@ -3922,48 +4108,65 @@
             [
                 [
                     "delete", 
-                    11, 
-                    31
+                    12, 
+                    34
                 ], 
                 [
                     "insert", 
-                    11, 
-                    "Your Charges for All Other Settlement Services. \u201d\u2014The loan originator must add the numbers in Blocks 3 through 11 and enter"
+                    12, 
+                    "Your Charges for All Other Settlement Services."
                 ]
             ], 
             [
                 [
                     "delete", 
-                    37, 
-                    43
+                    62, 
+                    70
                 ], 
                 [
                     "insert", 
-                    37, 
+                    62, 
+                    "add the numbers"
+                ]
+            ], 
+            [
+                "insert", 
+                74, 
+                "Blocks 3 through 11 and enter "
+            ], 
+            [
+                [
+                    "delete", 
+                    79, 
+                    84
+                ], 
+                [
+                    "insert", 
+                    79, 
                     "subtotal in"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    48, 
-                    187
+                    89, 
+                    233
                 ], 
                 [
                     "insert", 
-                    48, 
+                    89, 
                     "column"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    191, 
-                    343
+                    237, 
+                    582
                 ], 
                 [
                     "insert", 
-                    191, 
+                    237, 
                     "highlighted Line B."
                 ]
             ]
@@ -3975,75 +4178,95 @@
             [
                 [
                     "delete", 
-                    0, 
-                    8
+                    5, 
+                    7
                 ], 
                 [
                     "insert", 
-                    0, 
-                    "Line A+B,"
+                    5, 
+                    "A+B,"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    11, 
-                    56
+                    10, 
+                    36
                 ], 
                 [
                     "insert", 
-                    11, 
-                    "Total Estimated Settlement Charges. \u201d\u2014The loan originator must add the subtotals in the right-hand column at highlighted Lines A and B and enter"
+                    10, 
+                    "Total Estimated"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    62, 
-                    68
+                    48, 
+                    57
                 ], 
                 [
                     "insert", 
-                    62, 
-                    "total in"
+                    48, 
+                    "Charges."
                 ]
             ], 
             [
                 [
                     "delete", 
-                    73, 
-                    189
+                    93, 
+                    100
                 ], 
                 [
                     "insert", 
-                    73, 
-                    "column"
+                    93, 
+                    "subtotals"
                 ]
             ], 
             [
                 [
                     "delete", 
-                    193, 
-                    791
+                    104, 
+                    123
                 ], 
                 [
                     "insert", 
-                    193, 
-                    "highlighted Line A+B."
+                    104, 
+                    "the right-hand column at highlighted Lines A"
+                ]
+            ], 
+            [
+                "insert", 
+                128, 
+                "B and "
+            ], 
+            [
+                [
+                    "delete", 
+                    139, 
+                    147
+                ], 
+                [
+                    "insert", 
+                    139, 
+                    "total"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    182, 
+                    184
+                ], 
+                [
+                    "insert", 
+                    182, 
+                    "A+B."
                 ]
             ]
         ]
     }, 
     "1024-C-h2-h6-p37": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h6-p38": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h6-p39": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h6-p40": {
         "op": "deleted"
     }, 
     "1024-C-h2-h8-p37": {
@@ -4064,55 +4287,221 @@
         "op": "added"
     }, 
     "1024-C-h2-h8-p38": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "C", 
-                "h2", 
-                "h8", 
-                "p38"
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    2, 
+                    15
+                ], 
+                [
+                    "insert", 
+                    2, 
+                    "Using the tradeoff table. \u201d\u2014This section is designed to make borrowers aware of the relationship between their total estimated settlement charges on one hand, and the interest rate and resulting monthly payment on the other hand. The loan originator must complete the left hand column using the loan amount, interest rate, monthly payment figure, and the total estimated settlement charges from page 1 of the GFE. The loan originator, at its option, may provide the borrower with the same information for two alternative loans, one with a higher interest rate, if available, and one with a lower interest rate, if available, from the loan originator. The loan originator should list in the tradeoff table only alternative loans for"
+                ]
             ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "\u201c Using the tradeoff table. \u201d\u2014This section is designed to make borrowers aware of the relationship between their total estimated settlement charges on one hand, and the interest rate and resulting monthly payment on the other hand. The loan originator must complete the left hand column using the loan amount, interest rate, monthly payment figure, and the total estimated settlement charges from page 1 of the GFE. The loan originator, at its option, may provide the borrower with the same information for two alternative loans, one with a higher interest rate, if available, and one with a lower interest rate, if available, from the loan originator. The loan originator should list in the tradeoff table only alternative loans for which it would presently issue a GFE based on the same information the loan originator considered in issuing this GFE. The alternative loans must use the same loan amount and be otherwise identical to the loan in the GFE. The alternative loans must have, for example, the identical number of payment periods; the same margin, index, and adjustment schedule if the loans are adjustable rate mortgages; and the same requirements for prepayment penalty and balloon payments. If the loan originator fills in the tradeoff table, the loan originator must show the borrower the loan amount, alternative interest rate, alternative monthly payment, the change in the monthly payment from the loan in this GFE to the alternative loan, the change in the total settlement charges from the loan in this GFE to the alternative loan, and the total settlement charges for the alternative loan. If these options are available, an applicant may request a new GFE, and a new GFE must be provided by the loan originator.", 
-            "title": null
-        }, 
-        "op": "added"
+            [
+                "insert", 
+                22, 
+                "it would presently issue a GFE based on the same information the loan originator considered in issuing this GFE. The alternative loans must use the same loan amount and be otherwise identical to the loan in the GFE. The alternative loans must have, for example, the identical number of payment periods; the same margin, index, and adjustment schedule if the loans are adjustable rate mortgages; and the same requirements for prepayment penalty and balloon payments. If the loan originator fills in the tradeoff table, the loan originator must show the borrower the loan amount, alternative interest rate, alternative monthly payment, the change in the monthly payment from the loan in this GFE to the alternative loan, the change in the total settlement "
+            ], 
+            [
+                [
+                    "delete", 
+                    30, 
+                    82
+                ], 
+                [
+                    "insert", 
+                    30, 
+                    "from the loan in this GFE to the alternative loan, and the total settlement charges for the alternative loan. If these options are available, an"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    93, 
+                    166
+                ], 
+                [
+                    "insert", 
+                    93, 
+                    "may request a new GFE, and a new GFE must be provided"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    170, 
+                    299
+                ], 
+                [
+                    "insert", 
+                    170, 
+                    "the loan originator."
+                ]
+            ]
+        ]
     }, 
     "1024-C-h2-h8-p39": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "C", 
-                "h2", 
-                "h8", 
-                "p39"
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    12, 
+                    27
+                ], 
+                [
+                    "insert", 
+                    12, 
+                    "shopping chart."
+                ]
             ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "\u201c Using the shopping chart. \u201d\u2014This chart is a shopping tool to be provided by the loan originator for the borrower to complete, in order to compare GFEs.", 
-            "title": null
-        }, 
-        "op": "added"
+            [
+                [
+                    "delete", 
+                    35, 
+                    42
+                ], 
+                [
+                    "insert", 
+                    35, 
+                    "chart"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    46, 
+                    54
+                ], 
+                [
+                    "insert", 
+                    46, 
+                    "a shopping tool"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    58, 
+                    81
+                ], 
+                [
+                    "insert", 
+                    58, 
+                    "be provided by"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    86, 
+                    164
+                ], 
+                [
+                    "insert", 
+                    86, 
+                    "loan originator for"
+                ]
+            ], 
+            [
+                "delete", 
+                169, 
+                468
+            ], 
+            [
+                [
+                    "delete", 
+                    477, 
+                    684
+                ], 
+                [
+                    "insert", 
+                    477, 
+                    "to complete,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    688, 
+                    931
+                ], 
+                [
+                    "insert", 
+                    688, 
+                    "order"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    935, 
+                    1734
+                ], 
+                [
+                    "insert", 
+                    935, 
+                    "compare GFEs."
+                ]
+            ]
+        ]
     }, 
     "1024-C-h2-h8-p40": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "C", 
-                "h2", 
-                "h8", 
-                "p40"
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    2, 
+                    7
+                ], 
+                [
+                    "insert", 
+                    2, 
+                    "If your loan is sold in"
+                ]
             ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "\u201c If your loan is sold in the future. \u201d\u2014This section requires no loan originator action.", 
-            "title": null
-        }, 
-        "op": "added"
+            [
+                [
+                    "delete", 
+                    12, 
+                    27
+                ], 
+                [
+                    "insert", 
+                    12, 
+                    "future."
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    35, 
+                    81
+                ], 
+                [
+                    "insert", 
+                    35, 
+                    "section requires no"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    98, 
+                    153
+                ], 
+                [
+                    "insert", 
+                    98, 
+                    "action."
+                ]
+            ]
+        ]
     }, 
     "1024-C-h2-h8-p41": {
         "op": "modified", 
@@ -4121,7 +4510,7 @@
                 [
                     "delete", 
                     0, 
-                    299
+                    88
                 ], 
                 [
                     "insert", 
@@ -4138,7 +4527,7 @@
                 [
                     "delete", 
                     0, 
-                    1734
+                    17
                 ], 
                 [
                     "insert", 
@@ -4155,7 +4544,7 @@
                 [
                     "delete", 
                     0, 
-                    153
+                    17
                 ], 
                 [
                     "insert", 
@@ -4166,15 +4555,6 @@
         ]
     }, 
     "1024-C-h2-h8-p44": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h8-p45": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h8-p46": {
-        "op": "deleted"
-    }, 
-    "1024-C-h2-h8-p47": {
         "op": "deleted"
     }, 
     "1024-MS-3(D)": {
