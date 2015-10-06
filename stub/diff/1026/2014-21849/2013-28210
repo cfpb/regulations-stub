@@ -1,19 +1,4 @@
 {
-    "1026-1-a": {
-        "op": "modified", 
-        "text": [
-            [
-                "insert", 
-                534, 
-                "In addition, this part implements certain provisions of the Financial Institutions Reform, Recovery, and Enforcement Act, as amended (12 U.S.C. 3331 et seq.). "
-            ], 
-            [
-                "insert", 
-                664, 
-                "(OMB) "
-            ]
-        ]
-    }, 
     "1026-1-b": {
         "op": "modified", 
         "text": [
@@ -3236,6 +3221,35 @@
                 "delete", 
                 143, 
                 328
+            ]
+        ]
+    }, 
+    "1026-19-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    12
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Reverse mortgage"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    37, 
+                    44
+                ], 
+                [
+                    "insert", 
+                    37, 
+                    "RESPA."
+                ]
             ]
         ]
     }, 
@@ -34929,21 +34943,6 @@
         }, 
         "op": "added"
     }, 
-    "1026-42-h": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1026", 
-                "42", 
-                "h"
-            ], 
-            "node_type": "regtext", 
-            "tagged_text": "(h) The Bureau issued a joint rule to implement the appraisal management company minimum requirements in the Financial Institutions Reform, Recovery, and Enforcement Act, as amended by section 1473 of the Dodd-Frank Wall Street Reform and Consumer Protection Act.<E T=\"03\">See</E>12 CFR part 34.", 
-            "text": "(h) The Bureau issued a joint rule to implement the appraisal management company minimum requirements in the Financial Institutions Reform, Recovery, and Enforcement Act, as amended by section 1473 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. See 12 CFR part 34.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
     "1026-58-g": {
         "node": {
             "child_labels": [
@@ -35185,6 +35184,69 @@
         }, 
         "op": "added"
     }, 
+    "1026-D-II-C-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    29, 
+                    33
+                ], 
+                [
+                    "insert", 
+                    29, 
+                    "A.1"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    37, 
+                    41
+                ], 
+                [
+                    "insert", 
+                    37, 
+                    "part"
+                ]
+            ], 
+            [
+                "insert", 
+                46, 
+                "other than loans that are subject to \u00a7 1026.19(e) and (f), "
+            ]
+        ]
+    }, 
+    "1026-D-II-C-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    29, 
+                    33
+                ], 
+                [
+                    "insert", 
+                    29, 
+                    "A.2"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    37, 
+                    45
+                ], 
+                [
+                    "insert", 
+                    37, 
+                    "part II and loans under paragraph A.1 of part II that are subject to \u00a7 1026.19(e) and (f),"
+                ]
+            ]
+        ]
+    }, 
     "1026-D-Interp-6": {
         "op": "modified", 
         "text": [
@@ -35387,6 +35449,45 @@
             "title": null
         }, 
         "op": "added"
+    }, 
+    "1026-G_H-Interp-1": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                529, 
+                "H-24, H-25, H-26, H-27, H-28, "
+            ], 
+            [
+                [
+                    "delete", 
+                    1074, 
+                    1075
+                ], 
+                [
+                    "insert", 
+                    1074, 
+                    "  "
+                ]
+            ]
+        ]
+    }, 
+    "1026-G_H-Interp-1-v": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    25, 
+                    30
+                ], 
+                [
+                    "insert", 
+                    25, 
+                    "State"
+                ]
+            ]
+        ]
     }, 
     "1026-H-13": {
         "op": "modified", 

@@ -3239,6 +3239,35 @@
             ]
         ]
     }, 
+    "1026-19-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    12
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Reverse mortgage"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    37, 
+                    44
+                ], 
+                [
+                    "insert", 
+                    37, 
+                    "RESPA."
+                ]
+            ]
+        ]
+    }, 
     "1026-19-a-1-i": {
         "op": "modified", 
         "text": [
@@ -9225,6 +9254,33 @@
                 "insert", 
                 402, 
                 "1026.19(e)(1)(iii)(B), 1026.19(e)(1)(iv), 1026.19(e)(2)(i)(A), 1026.19(e)(4)(ii), 1026.19(f)(1)(ii), 1026.19(f)(1)(iii), 1026.20(e)(5), "
+            ]
+        ]
+    }, 
+    "1026-20-c-1-ii-A": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                40, 
+                43
+            ]
+        ]
+    }, 
+    "1026-20-c-1-ii-B": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    222, 
+                    231
+                ], 
+                [
+                    "insert", 
+                    222, 
+                    "estimate; or"
+                ]
             ]
         ]
     }, 
@@ -40502,6 +40558,69 @@
         }, 
         "op": "added"
     }, 
+    "1026-D-II-C-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    29, 
+                    33
+                ], 
+                [
+                    "insert", 
+                    29, 
+                    "A.1"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    37, 
+                    41
+                ], 
+                [
+                    "insert", 
+                    37, 
+                    "part"
+                ]
+            ], 
+            [
+                "insert", 
+                46, 
+                "other than loans that are subject to \u00a7 1026.19(e) and (f), "
+            ]
+        ]
+    }, 
+    "1026-D-II-C-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    29, 
+                    33
+                ], 
+                [
+                    "insert", 
+                    29, 
+                    "A.2"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    37, 
+                    45
+                ], 
+                [
+                    "insert", 
+                    37, 
+                    "part II and loans under paragraph A.1 of part II that are subject to \u00a7 1026.19(e) and (f),"
+                ]
+            ]
+        ]
+    }, 
     "1026-D-Interp-6": {
         "op": "modified", 
         "text": [
@@ -40704,6 +40823,45 @@
             "title": null
         }, 
         "op": "added"
+    }, 
+    "1026-G_H-Interp-1": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                529, 
+                "H-24, H-25, H-26, H-27, H-28, "
+            ], 
+            [
+                [
+                    "delete", 
+                    1074, 
+                    1075
+                ], 
+                [
+                    "insert", 
+                    1074, 
+                    "  "
+                ]
+            ]
+        ]
+    }, 
+    "1026-G_H-Interp-1-v": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    25, 
+                    30
+                ], 
+                [
+                    "insert", 
+                    25, 
+                    "State"
+                ]
+            ]
+        ]
     }, 
     "1026-H-13": {
         "op": "modified", 
@@ -44576,20 +44734,21 @@
         "op": "added"
     }, 
     "1026-N": {
-        "node": {
-            "child_labels": [
-                "1026-N-p1"
-            ], 
-            "label": [
-                "1026", 
-                "N"
-            ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "Appendix N to Part 1026\u2014Higher-Priced Mortgage Loan Appraisal Safe Harbor Review"
-        }, 
-        "op": "added"
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    19, 
+                    34
+                ], 
+                [
+                    "insert", 
+                    19, 
+                    "1026\u2014Higher-Priced Mortgage Loan Appraisal Safe Harbor Review"
+                ]
+            ]
+        ]
     }, 
     "1026-N-p1": {
         "node": {
@@ -44723,7 +44882,7 @@
             ], 
             "node_type": "appendix", 
             "tagged_text": null, 
-            "text": "7. Indicates that a physical property visit of the interior of the property was performed.", 
+            "text": "7. Indicates that a physical property visit of the interior of the property was performed, as applicable.", 
             "title": null
         }, 
         "op": "added"
@@ -44761,20 +44920,21 @@
         "op": "added"
     }, 
     "1026-O": {
-        "node": {
-            "child_labels": [
-                "1026-O-p1"
-            ], 
-            "label": [
-                "1026", 
-                "O"
-            ], 
-            "node_type": "appendix", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "Appendix O to Part 1026\u2014Illustrative Written Source Documents for Higher-Priced Mortgage Loan Appraisal Rules"
-        }, 
-        "op": "added"
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    19, 
+                    34
+                ], 
+                [
+                    "insert", 
+                    19, 
+                    "1026\u2014Illustrative Written Source Documents for Higher-Priced Mortgage Loan Appraisal Rules"
+                ]
+            ]
+        ]
     }, 
     "1026-O-Interp": {
         "node": {

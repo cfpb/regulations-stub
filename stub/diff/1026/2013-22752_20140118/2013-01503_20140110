@@ -1,4 +1,31 @@
 {
+    "1026-20-c-1-ii-A": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                40, 
+                " or"
+            ]
+        ]
+    }, 
+    "1026-20-c-1-ii-B": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    222, 
+                    234
+                ], 
+                [
+                    "insert", 
+                    222, 
+                    "estimate."
+                ]
+            ]
+        ]
+    }, 
     "1026-20-c-1-ii-C": {
         "op": "deleted"
     }, 
@@ -3202,7 +3229,21 @@
         ]
     }, 
     "1026-N": {
-        "op": "deleted"
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    19, 
+                    80
+                ], 
+                [
+                    "insert", 
+                    19, 
+                    "1026-[Reserved]"
+                ]
+            ]
+        ]
     }, 
     "1026-N-p1": {
         "op": "deleted"
@@ -3235,7 +3276,21 @@
         "op": "deleted"
     }, 
     "1026-O": {
-        "op": "deleted"
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    19, 
+                    109
+                ], 
+                [
+                    "insert", 
+                    19, 
+                    "1026-[Reserved]"
+                ]
+            ]
+        ]
     }, 
     "1026-O-Interp": {
         "op": "deleted"
