@@ -1,19 +1,4 @@
 {
-    "1004-1-a": [
-        {
-            "offsets": [
-                [
-                    129, 
-                    161
-                ], 
-                [
-                    375, 
-                    407
-                ]
-            ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
-        }
-    ], 
     "1004-1-b": [
         {
             "offsets": [
@@ -22,16 +7,7 @@
                     393
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
-        }, 
-        {
-            "offsets": [
-                [
-                    33, 
-                    65
-                ]
-            ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
@@ -40,7 +16,7 @@
                     308
                 ]
             ], 
-            "ref": "housing creditor:1004-2-HousingCreditor"
+            "ref": "housing creditor:1004-2-c"
         }, 
         {
             "offsets": [
@@ -49,7 +25,7 @@
                     450
                 ]
             ], 
-            "ref": "state:1004-2-State"
+            "ref": "state:1004-2-d"
         }, 
         {
             "offsets": [
@@ -58,7 +34,7 @@
                     278
                 ]
             ], 
-            "ref": "state:1004-2-State"
+            "ref": "state:1004-2-d"
         }
     ], 
     "1004-1-c": [
@@ -69,60 +45,60 @@
                     73
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }
     ], 
-    "1004-2-StateLaw": [
+    "1004-2-e": [
         {
             "offsets": [
                 [
-                    18, 
-                    23
+                    30, 
+                    35
                 ]
             ], 
-            "ref": "state:1004-2-State"
+            "ref": "state:1004-2-d"
         }
     ], 
     "1004-3": [
         {
             "offsets": [
                 [
-                    126, 
-                    159
+                    116, 
+                    149
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
                 [
-                    77, 
-                    93
+                    67, 
+                    83
                 ], 
                 [
-                    310, 
-                    326
+                    300, 
+                    316
                 ]
             ], 
-            "ref": "housing creditor:1004-2-HousingCreditor"
+            "ref": "housing creditor:1004-2-c"
         }, 
         {
             "offsets": [
                 [
-                    266, 
-                    275
+                    256, 
+                    265
                 ]
             ], 
-            "ref": "state law:1004-2-StateLaw"
+            "ref": "state law:1004-2-e"
         }, 
         {
             "offsets": [
                 [
-                    48, 
-                    53
+                    38, 
+                    43
                 ]
             ], 
-            "ref": "state:1004-2-State"
+            "ref": "state:1004-2-d"
         }
     ], 
     "1004-4-a": [
@@ -133,7 +109,7 @@
                     145
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }
     ], 
     "1004-4-b": [
@@ -144,7 +120,7 @@
                     121
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }
     ], 
     "1004-4-c-1": [
@@ -155,7 +131,7 @@
                     42
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }
     ], 
     "1004-4-c-2": [
@@ -166,7 +142,7 @@
                     42
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }
     ], 
     "1004-4-d": [
@@ -177,7 +153,7 @@
                     159
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
@@ -186,7 +162,7 @@
                     104
                 ]
             ], 
-            "ref": "housing creditor:1004-2-HousingCreditor"
+            "ref": "housing creditor:1004-2-c"
         }, 
         {
             "offsets": [
@@ -195,7 +171,7 @@
                     252
                 ]
             ], 
-            "ref": "state:1004-2-State"
+            "ref": "state:1004-2-d"
         }
     ], 
     "1004-4-e": [
@@ -206,10 +182,10 @@
                     186
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }
     ], 
-    "1004-A-h2-1": [
+    "1004-A-h1-h2-1": [
         {
             "offsets": [
                 [
@@ -217,7 +193,7 @@
                     411
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
@@ -226,7 +202,7 @@
                     531
                 ]
             ], 
-            "ref": "housing creditor:1004-2-HousingCreditor"
+            "ref": "housing creditor:1004-2-c"
         }, 
         {
             "offsets": [
@@ -235,7 +211,7 @@
                     296
                 ]
             ], 
-            "ref": "state law:1004-2-StateLaw"
+            "ref": "state law:1004-2-e"
         }, 
         {
             "offsets": [
@@ -244,10 +220,10 @@
                     514
                 ]
             ], 
-            "ref": "state:1004-2-State"
+            "ref": "state:1004-2-d"
         }
     ], 
-    "1004-A-h2-2": [
+    "1004-A-h1-h2-2": [
         {
             "offsets": [
                 [
@@ -255,7 +231,7 @@
                     190
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
@@ -264,10 +240,10 @@
                     138
                 ]
             ], 
-            "ref": "state law:1004-2-StateLaw"
+            "ref": "state law:1004-2-e"
         }
     ], 
-    "1004-A-h2-2-i": [
+    "1004-A-h1-h2-2-i": [
         {
             "offsets": [
                 [
@@ -275,10 +251,10 @@
                     109
                 ]
             ], 
-            "ref": "housing creditor:1004-2-HousingCreditor"
+            "ref": "housing creditor:1004-2-c"
         }
     ], 
-    "1004-A-h4-1": [
+    "1004-A-h3-h4-1": [
         {
             "offsets": [
                 [
@@ -286,7 +262,7 @@
                     508
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
@@ -299,10 +275,10 @@
                     99
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }
     ], 
-    "1004-A-h4-2": [
+    "1004-A-h3-h4-2": [
         {
             "offsets": [
                 [
@@ -314,10 +290,10 @@
                     95
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }
     ], 
-    "1004-A-h4-2-iii": [
+    "1004-A-h3-h4-2-iii": [
         {
             "offsets": [
                 [
@@ -325,10 +301,10 @@
                     482
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }
     ], 
-    "1004-A-h4-2-p1": [
+    "1004-A-h3-h4-2-p1": [
         {
             "offsets": [
                 [
@@ -336,10 +312,10 @@
                     37
                 ]
             ], 
-            "ref": "state law:1004-2-StateLaw"
+            "ref": "state law:1004-2-e"
         }
     ], 
-    "1004-A-h4-3": [
+    "1004-A-h3-h4-3": [
         {
             "offsets": [
                 [
@@ -351,10 +327,10 @@
                     165
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }
     ], 
-    "1004-A-h5-1": [
+    "1004-A-h3-h5-1": [
         {
             "offsets": [
                 [
@@ -366,7 +342,7 @@
                     179
                 ]
             ], 
-            "ref": "state:1004-2-State"
+            "ref": "state:1004-2-d"
         }
     ], 
     "1004-A-h6-1": [
@@ -381,25 +357,25 @@
                     162
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
                 [
-                    427, 
-                    459
+                    428, 
+                    460
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
                 [
-                    331, 
-                    347
+                    332, 
+                    348
                 ]
             ], 
-            "ref": "housing creditor:1004-2-HousingCreditor"
+            "ref": "housing creditor:1004-2-c"
         }, 
         {
             "offsets": [
@@ -408,7 +384,7 @@
                     22
                 ]
             ], 
-            "ref": "state law:1004-2-StateLaw"
+            "ref": "state law:1004-2-e"
         }, 
         {
             "offsets": [
@@ -417,7 +393,7 @@
                     57
                 ]
             ], 
-            "ref": "state law:1004-2-StateLaw"
+            "ref": "state law:1004-2-e"
         }, 
         {
             "offsets": [
@@ -426,7 +402,7 @@
                     308
                 ]
             ], 
-            "ref": "state:1004-2-State"
+            "ref": "state:1004-2-d"
         }
     ], 
     "1004-A-h6-2": [
@@ -441,7 +417,7 @@
                     86
                 ]
             ], 
-            "ref": "state law:1004-2-StateLaw"
+            "ref": "state law:1004-2-e"
         }
     ], 
     "1004-A-h6-2-i": [
@@ -452,7 +428,7 @@
                     575
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
@@ -461,7 +437,7 @@
                     798
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
@@ -470,7 +446,7 @@
                     699
                 ]
             ], 
-            "ref": "housing creditor:1004-2-HousingCreditor"
+            "ref": "housing creditor:1004-2-c"
         }, 
         {
             "offsets": [
@@ -479,7 +455,7 @@
                     935
                 ]
             ], 
-            "ref": "housing creditor:1004-2-HousingCreditor"
+            "ref": "housing creditor:1004-2-c"
         }, 
         {
             "offsets": [
@@ -492,7 +468,7 @@
                     671
                 ]
             ], 
-            "ref": "state law:1004-2-StateLaw"
+            "ref": "state law:1004-2-e"
         }, 
         {
             "offsets": [
@@ -501,7 +477,7 @@
                     918
                 ]
             ], 
-            "ref": "state:1004-2-State"
+            "ref": "state:1004-2-d"
         }
     ], 
     "1004-A-h6-2-ii": [
@@ -512,7 +488,7 @@
                     417
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
@@ -521,7 +497,7 @@
                     695
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
@@ -530,7 +506,7 @@
                     298
                 ]
             ], 
-            "ref": "housing creditor:1004-2-HousingCreditor"
+            "ref": "housing creditor:1004-2-c"
         }, 
         {
             "offsets": [
@@ -543,7 +519,7 @@
                     560
                 ]
             ], 
-            "ref": "housing creditor:1004-2-HousingCreditor"
+            "ref": "housing creditor:1004-2-c"
         }, 
         {
             "offsets": [
@@ -552,7 +528,7 @@
                     270
                 ]
             ], 
-            "ref": "state law:1004-2-StateLaw"
+            "ref": "state law:1004-2-e"
         }
     ], 
     "1004-A-h6-2-iv": [
@@ -571,7 +547,7 @@
                     457
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
@@ -580,7 +556,7 @@
                     180
                 ]
             ], 
-            "ref": "housing creditor:1004-2-HousingCreditor"
+            "ref": "housing creditor:1004-2-c"
         }, 
         {
             "offsets": [
@@ -589,7 +565,7 @@
                     153
                 ]
             ], 
-            "ref": "state law:1004-2-StateLaw"
+            "ref": "state law:1004-2-e"
         }
     ], 
     "1004-A-h6-3": [
@@ -604,7 +580,7 @@
                     258
                 ]
             ], 
-            "ref": "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction"
+            "ref": "alternative mortgage transaction:1004-2-a"
         }, 
         {
             "offsets": [
@@ -617,40 +593,125 @@
                     90
                 ]
             ], 
-            "ref": "state law:1004-2-StateLaw"
+            "ref": "state law:1004-2-e"
+        }
+    ], 
+    "1004-A-h7-h10-1": [
+        {
+            "offsets": [
+                [
+                    156, 
+                    189
+                ]
+            ], 
+            "ref": "alternative mortgage transaction:1004-2-a"
+        }, 
+        {
+            "offsets": [
+                [
+                    57, 
+                    74
+                ], 
+                [
+                    130, 
+                    147
+                ], 
+                [
+                    317, 
+                    334
+                ]
+            ], 
+            "ref": "housing creditor:1004-2-c"
+        }, 
+        {
+            "offsets": [
+                [
+                    525, 
+                    541
+                ]
+            ], 
+            "ref": "housing creditor:1004-2-c"
+        }, 
+        {
+            "offsets": [
+                [
+                    51, 
+                    56
+                ], 
+                [
+                    217, 
+                    222
+                ]
+            ], 
+            "ref": "state:1004-2-d"
+        }
+    ], 
+    "1004-A-h7-h8-3": [
+        {
+            "offsets": [
+                [
+                    311, 
+                    343
+                ]
+            ], 
+            "ref": "alternative mortgage transaction:1004-2-a"
+        }
+    ], 
+    "1004-A-h7-h9-1": [
+        {
+            "offsets": [
+                [
+                    355, 
+                    365
+                ], 
+                [
+                    489, 
+                    499
+                ]
+            ], 
+            "ref": "state law:1004-2-e"
+        }, 
+        {
+            "offsets": [
+                [
+                    602, 
+                    611
+                ]
+            ], 
+            "ref": "state law:1004-2-e"
         }
     ], 
     "referenced": {
-        "alternative mortgage transaction:1004-2-AlternativeMortgageTransaction": {
+        "alternative mortgage transaction:1004-2-a": {
             "position": [
-                0, 
-                32
+                12, 
+                44
             ], 
-            "reference": "1004-2-AlternativeMortgageTransaction", 
+            "reference": "1004-2-a", 
             "term": "alternative mortgage transaction"
         }, 
-        "housing creditor:1004-2-HousingCreditor": {
+        "housing creditor:1004-2-c": {
             "position": [
-                0, 
-                16
+                12, 
+                28
             ], 
-            "reference": "1004-2-HousingCreditor", 
+            "reference": "1004-2-c", 
             "term": "housing creditor"
         }, 
-        "state law:1004-2-StateLaw": {
+        "state law:1004-2-e": {
             "position": [
-                0, 
-                9
+                12, 
+                21
             ], 
-            "reference": "1004-2-StateLaw", 
+            "reference": "1004-2-e", 
             "term": "state law"
         }, 
-        "state:1004-2-State": {
+        "state:1004-2-d": {
             "position": [
-                0, 
-                5
+                12, 
+                17
             ], 
-            "reference": "1004-2-State", 
+            "reference": "1004-2-d", 
             "term": "state"
         }
     }
