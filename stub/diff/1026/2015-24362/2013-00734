@@ -3113,22 +3113,21 @@
         ]
     }, 
     "1026-18-r-Interp-6-vi": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1026", 
-                "18", 
-                "r", 
-                "Interp", 
-                "6", 
-                "vi"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "vi. Escrow of condominium fees.", 
-            "text": "vi. Escrow of condominium fees.", 
-            "title": null
-        }, 
-        "op": "added"
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    0, 
+                    10
+                ], 
+                [
+                    "insert", 
+                    0, 
+                    "vi. Escrow of condominium fees."
+                ]
+            ]
+        ]
     }, 
     "1026-18-s": {
         "op": "modified", 
