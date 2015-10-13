@@ -1062,6 +1062,105 @@
             ]
         ]
     }, 
+    "1026-17-c-1-Interp-4-i-C": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    7, 
+                    100
+                ], 
+                [
+                    "insert", 
+                    7, 
+                    "payment schedule"
+                ]
+            ], 
+            [
+                "delete", 
+                127, 
+                136
+            ], 
+            [
+                [
+                    "delete", 
+                    170, 
+                    382
+                ], 
+                [
+                    "insert", 
+                    170, 
+                    "buydown."
+                ]
+            ]
+        ]
+    }, 
+    "1026-17-c-1-Interp-4-ii": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    80, 
+                    112
+                ], 
+                [
+                    "insert", 
+                    80, 
+                    "\u201clender buydowns.\u201d"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    511, 
+                    543
+                ], 
+                [
+                    "insert", 
+                    511, 
+                    "disclosures for lender buydowns should be based on the terms of the legal obligation between the consumer"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    548, 
+                    682
+                ], 
+                [
+                    "insert", 
+                    548, 
+                    "the"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    693, 
+                    696
+                ], 
+                [
+                    "insert", 
+                    693, 
+                    "(See"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    763, 
+                    772
+                ], 
+                [
+                    "insert", 
+                    763, 
+                    "buydowns.)"
+                ]
+            ]
+        ]
+    }, 
     "1026-17-c-1-Interp-5": {
         "op": "modified", 
         "text": [
@@ -2406,21 +2505,21 @@
         ]
     }, 
     "1026-18-g-Interp-5": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1026", 
-                "18", 
-                "g", 
-                "Interp", 
-                "5"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "5. <E T=\"03\">Mortgage insurance.</E> The payment schedule should reflect the consumer's mortgage insurance payments until the date on which the creditor must automatically terminate coverage under applicable law, even though the consumer may have a right to request that the insurance be cancelled earlier. The payment schedule must reflect the legal obligation, as determined by applicable state or other law. For example, assume that under applicable law, mortgage insurance must terminate after the 130th scheduled monthly payment, and the creditor collects at closing and places in escrow two months of premiums. If, under the legal obligation, the creditor will include mortgage insurance premiums in 130 payments and refund the escrowed payments when the insurance is terminated, the payment schedule should reflect 130 premium payments. If, under the legal obligation, the creditor will apply the amount escrowed to the two final insurance payments, the payment schedule should reflect 128 monthly premium payments. (For assumptions in calculating a payment schedule that includes mortgage insurance that must be automatically terminated, see comments 17(c)(1)-8 and 17(c)(1)-10.)", 
-            "text": "5. Mortgage insurance. The payment schedule should reflect the consumer's mortgage insurance payments until the date on which the creditor must automatically terminate coverage under applicable law, even though the consumer may have a right to request that the insurance be cancelled earlier. The payment schedule must reflect the legal obligation, as determined by applicable state or other law. For example, assume that under applicable law, mortgage insurance must terminate after the 130th scheduled monthly payment, and the creditor collects at closing and places in escrow two months of premiums. If, under the legal obligation, the creditor will include mortgage insurance premiums in 130 payments and refund the escrowed payments when the insurance is terminated, the payment schedule should reflect 130 premium payments. If, under the legal obligation, the creditor will apply the amount escrowed to the two final insurance payments, the payment schedule should reflect 128 monthly premium payments. (For assumptions in calculating a payment schedule that includes mortgage insurance that must be automatically terminated, see comments 17(c)(1)-8 and 17(c)(1)-10.)", 
-            "title": null
-        }, 
-        "op": "added"
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    0, 
+                    10
+                ], 
+                [
+                    "insert", 
+                    0, 
+                    "5. Mortgage insurance. The payment schedule should reflect the consumer's mortgage insurance payments until the date on which the creditor must automatically terminate coverage under applicable law, even though the consumer may have a right to request that the insurance be cancelled earlier. The payment schedule must reflect the legal obligation, as determined by applicable state or other law. For example, assume that under applicable law, mortgage insurance must terminate after the 130th scheduled monthly payment, and the creditor collects at closing and places in escrow two months of premiums. If, under the legal obligation, the creditor will include mortgage insurance premiums in 130 payments and refund the escrowed payments when the insurance is terminated, the payment schedule should reflect 130 premium payments. If, under the legal obligation, the creditor will apply the amount escrowed to the two final insurance payments, the payment schedule should reflect 128 monthly premium payments. (For assumptions in calculating a payment schedule that includes mortgage insurance that must be automatically terminated, see comments 17(c)(1)-8 and 17(c)(1)-10.)"
+                ]
+            ]
+        ]
     }, 
     "1026-18-g-Interp-6": {
         "op": "modified", 
@@ -2907,22 +3006,21 @@
         ]
     }, 
     "1026-18-r-Interp-6-vi": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1026", 
-                "18", 
-                "r", 
-                "Interp", 
-                "6", 
-                "vi"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "vi. Escrow of condominium fees.", 
-            "text": "vi. Escrow of condominium fees.", 
-            "title": null
-        }, 
-        "op": "added"
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    0, 
+                    10
+                ], 
+                [
+                    "insert", 
+                    0, 
+                    "vi. Escrow of condominium fees."
+                ]
+            ]
+        ]
     }, 
     "1026-18-s": {
         "op": "modified", 
@@ -3312,6 +3410,35 @@
                 "delete", 
                 155, 
                 274
+            ]
+        ]
+    }, 
+    "1026-19-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    20
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Mortgage"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    45, 
+                    51
+                ], 
+                [
+                    "insert", 
+                    45, 
+                    "RESPA \u2014"
+                ]
             ]
         ]
     }, 
@@ -10350,6 +10477,144 @@
     "1026-58-g-Interp-3": {
         "op": "deleted"
     }, 
+    "1026-D-II-C-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    29, 
+                    32
+                ], 
+                [
+                    "insert", 
+                    29, 
+                    "A.1."
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    36, 
+                    40
+                ], 
+                [
+                    "insert", 
+                    36, 
+                    "Part"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    45, 
+                    61
+                ], 
+                [
+                    "insert", 
+                    45, 
+                    "without reflecting the number or amounts of payments of interest only"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    71, 
+                    94
+                ], 
+                [
+                    "insert", 
+                    71, 
+                    "made during the construction period. The fact that interest payments must be made"
+                ]
+            ], 
+            [
+                "delete", 
+                99, 
+                123
+            ], 
+            [
+                [
+                    "delete", 
+                    127, 
+                    144
+                ], 
+                [
+                    "insert", 
+                    127, 
+                    "timing"
+                ]
+            ], 
+            [
+                "insert", 
+                148, 
+                "such "
+            ], 
+            [
+                [
+                    "delete", 
+                    157, 
+                    256
+                ], 
+                [
+                    "insert", 
+                    157, 
+                    "shall"
+                ]
+            ], 
+            [
+                "delete", 
+                260, 
+                306
+            ]
+        ]
+    }, 
+    "1026-D-II-C-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    29, 
+                    32
+                ], 
+                [
+                    "insert", 
+                    29, 
+                    "A.2."
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    36, 
+                    73
+                ], 
+                [
+                    "insert", 
+                    36, 
+                    "Part II, including any payments"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    77, 
+                    84
+                ], 
+                [
+                    "insert", 
+                    77, 
+                    "interest only"
+                ]
+            ], 
+            [
+                "delete", 
+                94, 
+                176
+            ]
+        ]
+    }, 
     "1026-D-Interp-6": {
         "op": "modified", 
         "text": [
@@ -10569,6 +10834,45 @@
     }, 
     "1026-D-Interp-7-ii": {
         "op": "deleted"
+    }, 
+    "1026-G_H-Interp-1": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                529, 
+                559
+            ], 
+            [
+                [
+                    "delete", 
+                    1104, 
+                    1106
+                ], 
+                [
+                    "insert", 
+                    1104, 
+                    " "
+                ]
+            ]
+        ]
+    }, 
+    "1026-G_H-Interp-1-v": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    25, 
+                    30
+                ], 
+                [
+                    "insert", 
+                    25, 
+                    "state"
+                ]
+            ]
+        ]
     }, 
     "1026-H-13": {
         "op": "modified", 
