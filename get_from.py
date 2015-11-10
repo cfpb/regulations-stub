@@ -133,7 +133,7 @@ def get_from_server(api_base, stub_base, path):
 
     # Write out the file
     with open(file_path, 'w') as outfile:
-        json.dump(r.json(), outfile)
+        json.dump(r.json(), outfile, indent=4)
 
 
 if __name__ == '__main__':
