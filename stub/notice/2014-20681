@@ -1,9 +1,4 @@
 {
-    "abstract": "The Bureau of Consumer Financial Protection (Bureau) is amending subpart B of Regulation E, which implements the Electronic Fund Transfer Act, and the official interpretation to the regulation (Remittance Rule). This final rule extends a temporary provision that permits insured institutions to estimate certain pricing disclosures pursuant to section 1073 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. Absent further action by the Bureau, that exception would have expired on July 21, 2015. Based on a determination that the termination of the exception would negatively affect the ability of insured institutions to send remittance transfers, the Bureau is extending the temporary exception by five years from July 21, 2015, to July 21, 2020. The Bureau is also making several clarifications and technical corrections to the regulation and commentary.", 
-    "action": "Final rule; official interpretation.", 
-    "agency_names": [
-        "Consumer Financial Protection Bureau"
-    ], 
     "amendments": [
         [
             "PUT", 
@@ -314,536 +309,29 @@
             ]
         ]
     ], 
-    "cfr_parts": [
-        "1005"
-    ], 
-    "cfr_title": 12, 
-    "changes": {
-        "1005-30-c-Interp-2-i": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "30", 
-                        "c", 
-                        "Interp", 
-                        "2", 
-                        "i"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "i. A remittance transfer is received at a location in a foreign country if funds are to be received at a location physically outside of any State, as defined in \u00a7 1005.2(l). A specific pick-up location need not be designated for funds to be received at a location in a foreign country. If it is specified that the funds will be transferred to a foreign country to be picked up by the designated recipient, the transfer will be received at a location in a foreign country, even though a specific pick-up location within that country has not been designated. If it is specified that the funds will be received at a location on a U.S. military installation that is physically located in a foreign country, the transfer will be received in a State.", 
-                    "text": "i. A remittance transfer is received at a location in a foreign country if funds are to be received at a location physically outside of any State, as defined in \u00a7 1005.2(l). A specific pick-up location need not be designated for funds to be received at a location in a foreign country. If it is specified that the funds will be transferred to a foreign country to be picked up by the designated recipient, the transfer will be received at a location in a foreign country, even though a specific pick-up location within that country has not been designated. If it is specified that the funds will be received at a location on a U.S. military installation that is physically located in a foreign country, the transfer will be received in a State.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-30-c-Interp-2-ii": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "30", 
-                        "c", 
-                        "Interp", 
-                        "2", 
-                        "ii"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "ii. For transfers to a designated recipient's account, whether funds are to be received at a location physically outside of any State depends on where the recipient's account is located. If the account is located in a State, the funds will not be received at a location in a foreign country. Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State.", 
-                    "text": "ii. For transfers to a designated recipient's account, whether funds are to be received at a location physically outside of any State depends on where the recipient's account is located. If the account is located in a State, the funds will not be received at a location in a foreign country. Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-30-g-Interp-1": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "30", 
-                        "g", 
-                        "Interp", 
-                        "1"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "1.<E T=\"03\">Determining whether a consumer is located in a State.</E>Under \u00a7 1005.30(g), the definition of \u201csender\u201d means a consumer in a State who, primarily for personal, family, or household purposes, requests a remittance transfer provider to send a remittance transfer to a designated recipient. A sender located on a U.S. military installation that is physically located in a foreign country is located in a State. For transfers from a consumer's account, whether a consumer is located in a State depends on where the consumer's account is located. If the account is located in a State, the consumer will be located in a State for purposes of the definition of \u201csender\u201d in \u00a7 1005.30(g), notwithstanding comment 3(a)-3. Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State. Where a transfer is requested electronically or by telephone and the transfer is not from an account, the provider may make the determination of whether a consumer is located in a State based on information that is provided by the consumer and on any records associated with the consumer that the provider may have, such as an address provided by the consumer.", 
-                    "text": "1. Determining whether a consumer is located in a State. Under \u00a7 1005.30(g), the definition of \u201csender\u201d means a consumer in a State who, primarily for personal, family, or household purposes, requests a remittance transfer provider to send a remittance transfer to a designated recipient. A sender located on a U.S. military installation that is physically located in a foreign country is located in a State. For transfers from a consumer's account, whether a consumer is located in a State depends on where the consumer's account is located. If the account is located in a State, the consumer will be located in a State for purposes of the definition of \u201csender\u201d in \u00a7 1005.30(g), notwithstanding comment 3(a)-3. Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State. Where a transfer is requested electronically or by telephone and the transfer is not from an account, the provider may make the determination of whether a consumer is located in a State based on information that is provided by the consumer and on any records associated with the consumer that the provider may have, such as an address provided by the consumer.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-30-g-Interp-2": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "30", 
-                        "g", 
-                        "Interp", 
-                        "2"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "2.<E T=\"03\">Personal, family, or household purposes.</E>Under \u00a7 1005.30(g), a consumer is a \u201csender\u201d only where he or she requests a transfer primarily for personal, family, or household purposes. A consumer who requests a transfer primarily for other purposes, such as business or commercial purposes, is not a sender under \u00a7 1005.30(g). For transfers from an account that was established primarily for personal, family, or household purposes, a remittance transfer provider may generally deem that the transfer is requested primarily for personal, family, or household purposes and the consumer is therefore a \u201csender\u201d under \u00a7 1005.30(g). But if the consumer indicates that he or she is requesting the transfer primarily for other purposes, such as business or commercial purposes, then the consumer is not a sender under \u00a7 1005.30(g), even if the consumer is requesting the transfer from an account that is used primarily for personal, family, or household purposes.", 
-                    "text": "2. Personal, family, or household purposes. Under \u00a7 1005.30(g), a consumer is a \u201csender\u201d only where he or she requests a transfer primarily for personal, family, or household purposes. A consumer who requests a transfer primarily for other purposes, such as business or commercial purposes, is not a sender under \u00a7 1005.30(g). For transfers from an account that was established primarily for personal, family, or household purposes, a remittance transfer provider may generally deem that the transfer is requested primarily for personal, family, or household purposes and the consumer is therefore a \u201csender\u201d under \u00a7 1005.30(g). But if the consumer indicates that he or she is requesting the transfer primarily for other purposes, such as business or commercial purposes, then the consumer is not a sender under \u00a7 1005.30(g), even if the consumer is requesting the transfer from an account that is used primarily for personal, family, or household purposes.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-30-g-Interp-3": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "30", 
-                        "g", 
-                        "Interp", 
-                        "3"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "3.<E T=\"03\">Non-consumer accounts.</E>A provider may deem that a transfer that is requested to be sent from an account that was not established primarily for personal, family, or household purposes, such as an account that was established as a business or commercial account or an account held by a business entity such as a corporation, not-for-profit corporation, professional corporation, limited liability company, partnership, or sole proprietorship, as not being requested primarily for personal, family, or household purposes. A consumer requesting a transfer from such an account therefore is not a sender under \u00a7 1005.30(g). Additionally, a transfer that is requested to be sent from an account held by a financial institution under a<E T=\"03\">bona fide</E>trust agreement pursuant to \u00a7 1005.2(b)(3) is not requested primarily for personal, family, or household purposes, and a consumer requesting a transfer from such an account is therefore not a sender under \u00a7 1005.30(g).", 
-                    "text": "3. Non-consumer accounts. A provider may deem that a transfer that is requested to be sent from an account that was not established primarily for personal, family, or household purposes, such as an account that was established as a business or commercial account or an account held by a business entity such as a corporation, not-for-profit corporation, professional corporation, limited liability company, partnership, or sole proprietorship, as not being requested primarily for personal, family, or household purposes. A consumer requesting a transfer from such an account therefore is not a sender under \u00a7 1005.30(g). Additionally, a transfer that is requested to be sent from an account held by a financial institution under a bona fide trust agreement pursuant to \u00a7 1005.2(b)(3) is not requested primarily for personal, family, or household purposes, and a consumer requesting a transfer from such an account is therefore not a sender under \u00a7 1005.30(g).", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-31-a-2-Interp-5": [
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "31", 
-                        "a", 
-                        "2", 
-                        "Interp", 
-                        "5"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "5.<E T=\"03\">Disclosures provided by fax.</E>For purposes of disclosures required to be provided pursuant to \u00a7 1005.31 or \u00a7 1005.36, disclosures provided by facsimile transmission (<E T=\"03\">i.e.,</E>fax) are considered to be provided in writing for purposes of providing disclosures in writing pursuant to subpart B and are not subject to the requirements for electronic disclosures set forth in \u00a7 1005.31(a)(2).", 
-                    "text": "5. Disclosures provided by fax. For purposes of disclosures required to be provided pursuant to \u00a7 1005.31 or \u00a7 1005.36, disclosures provided by facsimile transmission (i.e., fax) are considered to be provided in writing for purposes of providing disclosures in writing pursuant to subpart B and are not subject to the requirements for electronic disclosures set forth in \u00a7 1005.31(a)(2).", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-31-a-3-Interp-1": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "31", 
-                        "a", 
-                        "3", 
-                        "Interp", 
-                        "1"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "1.<E T=\"03\">Transactions conducted partially by telephone.</E>Except as provided in comment 31(a)(3)-2, for transactions conducted partially by telephone, providing the information required by \u00a7 1005.31(b)(1) to a sender orally does not fulfill the requirement to provide the disclosures required by \u00a7 1005.31(b)(1). For example, a sender may begin a remittance transfer at a remittance transfer provider's dedicated telephone in a retail store, and then provide payment in person to a store clerk to complete the transaction. In such cases, all disclosures must be provided in writing. A provider complies with this requirement, for example, by providing the written pre-payment disclosure in person prior to the sender's payment for the transaction, and the written receipt when the sender pays for the transaction.", 
-                    "text": "1. Transactions conducted partially by telephone. Except as provided in comment 31(a)(3)-2, for transactions conducted partially by telephone, providing the information required by \u00a7 1005.31(b)(1) to a sender orally does not fulfill the requirement to provide the disclosures required by \u00a7 1005.31(b)(1). For example, a sender may begin a remittance transfer at a remittance transfer provider's dedicated telephone in a retail store, and then provide payment in person to a store clerk to complete the transaction. In such cases, all disclosures must be provided in writing. A provider complies with this requirement, for example, by providing the written pre-payment disclosure in person prior to the sender's payment for the transaction, and the written receipt when the sender pays for the transaction.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-31-a-3-Interp-2": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "31", 
-                        "a", 
-                        "3", 
-                        "Interp", 
-                        "2"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "2.<E T=\"03\">Oral telephone transactions.</E>Section 1005.31(a)(3) applies to transactions conducted orally and entirely by telephone, such as transactions conducted orally on a landline or mobile telephone. A remittance transfer provider may treat a written or electronic communication as an inquiry when it believes that treating the communication as a request would be impractical. For example, if a sender physically located abroad contacts a U.S. branch of the sender's financial institution and attempts to initiate a remittance transfer by first sending a mailed letter, further communication with the sender by letter may be impractical due to the physical distance and likely mail delays. In such circumstances, a provider may conduct the transaction orally and entirely by telephone pursuant to \u00a7 1005.31(a)(3) when the provider treats that initial communication as an inquiry and subsequently responds to the consumer's inquiry by calling the consumer on a telephone and orally gathering or confirming the information needed to identify and understand a request for a remittance transfer and otherwise conducts the transaction orally and entirely by telephone.", 
-                    "text": "2. Oral telephone transactions. Section 1005.31(a)(3) applies to transactions conducted orally and entirely by telephone, such as transactions conducted orally on a landline or mobile telephone. A remittance transfer provider may treat a written or electronic communication as an inquiry when it believes that treating the communication as a request would be impractical. For example, if a sender physically located abroad contacts a U.S. branch of the sender's financial institution and attempts to initiate a remittance transfer by first sending a mailed letter, further communication with the sender by letter may be impractical due to the physical distance and likely mail delays. In such circumstances, a provider may conduct the transaction orally and entirely by telephone pursuant to \u00a7 1005.31(a)(3) when the provider treats that initial communication as an inquiry and subsequently responds to the consumer's inquiry by calling the consumer on a telephone and orally gathering or confirming the information needed to identify and understand a request for a remittance transfer and otherwise conducts the transaction orally and entirely by telephone.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-31-b-2-Interp-4": [
-            {
-                "action": "MOVE", 
-                "destination": [
-                    "1005", 
-                    "31", 
-                    "b", 
-                    "2", 
-                    "Interp", 
-                    "5"
-                ]
-            }, 
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "31", 
-                        "b", 
-                        "2", 
-                        "Interp", 
-                        "4"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "4.<E T=\"03\">Web site of the Consumer Financial Protection Bureau.</E>Section 1005.31(b)(2)(vi) requires a remittance transfer provider to disclose the name, toll-free telephone number(s), and Web site of the Consumer Financial Protection Bureau. Providers may satisfy this requirement by disclosing the Web site of the Consumer Financial Protection Bureau's homepage,<E T=\"03\">www.consumerfinance.gov,</E>as shown on Model Forms A-32, A-34, A-35, and A-39. Alternatively, providers may, but are not required to, disclose the Bureau's Web site as the address of a page on the Bureau's Web site that provides information for consumers about remittance transfers, currently,<E T=\"03\">consumerfinance.gov/sending-money</E>, as shown on Model Form A-31. In addition, providers making disclosures in a language other than English pursuant to \u00a7 1005.31(g) may, but are not required to, disclose the Bureau's Web site as a page on the Bureau's Web site that provides information for consumers about remittance transfers in the relevant language, if such Web site exists. For example, a provider that is making disclosures in Spanish under \u00a7 1005.31(g) may, but is not required to, disclose the Bureau's Web site on Spanish-language disclosures as the page on the Bureau's Web site that provides information regarding remittance transfers in Spanish, currently<E T=\"03\">consumerfinance.gov/envios.</E>This optional disclosure is shown on Model A-40. The Bureau will publish a list of any other foreign language Web sites that provide information regarding remittance transfers.", 
-                    "text": "4. Web site of the Consumer Financial Protection Bureau. Section 1005.31(b)(2)(vi) requires a remittance transfer provider to disclose the name, toll-free telephone number(s), and Web site of the Consumer Financial Protection Bureau. Providers may satisfy this requirement by disclosing the Web site of the Consumer Financial Protection Bureau's homepage, www.consumerfinance.gov, as shown on Model Forms A-32, A-34, A-35, and A-39. Alternatively, providers may, but are not required to, disclose the Bureau's Web site as the address of a page on the Bureau's Web site that provides information for consumers about remittance transfers, currently, consumerfinance.gov/sending-money, as shown on Model Form A-31. In addition, providers making disclosures in a language other than English pursuant to \u00a7 1005.31(g) may, but are not required to, disclose the Bureau's Web site as a page on the Bureau's Web site that provides information for consumers about remittance transfers in the relevant language, if such Web site exists. For example, a provider that is making disclosures in Spanish under \u00a7 1005.31(g) may, but is not required to, disclose the Bureau's Web site on Spanish-language disclosures as the page on the Bureau's Web site that provides information regarding remittance transfers in Spanish, currently consumerfinance.gov/envios. This optional disclosure is shown on Model A-40. The Bureau will publish a list of any other foreign language Web sites that provide information regarding remittance transfers.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-31-b-2-Interp-5": [
-            {
-                "action": "MOVE", 
-                "destination": [
-                    "1005", 
-                    "31", 
-                    "b", 
-                    "2", 
-                    "Interp", 
-                    "6"
-                ]
-            }
-        ], 
-        "1005-31-b-2-Interp-6": [
-            {
-                "action": "MOVE", 
-                "destination": [
-                    "1005", 
-                    "31", 
-                    "b", 
-                    "2", 
-                    "Interp", 
-                    "7"
-                ]
-            }
-        ], 
-        "1005-31-e-Interp-1": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "31", 
-                        "e", 
-                        "Interp", 
-                        "1"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "1.<E T=\"03\">Request to send a remittance transfer.</E>Except as provided in \u00a7 1005.36(a), pre-payment and combined disclosures are required to be provided to the sender when the sender requests the remittance transfer, but prior to payment for the transfer. Whether a consumer has requested a remittance transfer depends on the facts and circumstances. A sender that asks a provider to send a remittance transfer, and provides transaction-specific information to the provider in order to send funds to a designated recipient, has requested a remittance transfer. A sender that has sent an email, fax, mailed letter, or similar written or electronic communication has not requested a remittance transfer if the provider believes that it is impractical for the provider to treat that communication as a request and if the provider treats the communication as an inquiry and subsequently responds to that inquiry by calling the consumer on a telephone and orally gathering or confirming the information needed to process a request for a remittance transfer.<E T=\"03\">See</E>comment 31(a)(3)-2. Likewise, a consumer who solely inquires about that day's rates and fees to send to Mexico has not requested the provider to send a remittance transfer. Conversely, a sender who asks the provider at an agent location to send money to a recipient in Mexico and provides the sender and recipient information to the provider has requested a remittance transfer.", 
-                    "text": "1. Request to send a remittance transfer. Except as provided in \u00a7 1005.36(a), pre-payment and combined disclosures are required to be provided to the sender when the sender requests the remittance transfer, but prior to payment for the transfer. Whether a consumer has requested a remittance transfer depends on the facts and circumstances. A sender that asks a provider to send a remittance transfer, and provides transaction-specific information to the provider in order to send funds to a designated recipient, has requested a remittance transfer. A sender that has sent an email, fax, mailed letter, or similar written or electronic communication has not requested a remittance transfer if the provider believes that it is impractical for the provider to treat that communication as a request and if the provider treats the communication as an inquiry and subsequently responds to that inquiry by calling the consumer on a telephone and orally gathering or confirming the information needed to process a request for a remittance transfer. See comment 31(a)(3)-2. Likewise, a consumer who solely inquires about that day's rates and fees to send to Mexico has not requested the provider to send a remittance transfer. Conversely, a sender who asks the provider at an agent location to send money to a recipient in Mexico and provides the sender and recipient information to the provider has requested a remittance transfer.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-32-a-2": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "32", 
-                        "a", 
-                        "2"
-                    ], 
-                    "node_type": "regtext", 
-                    "tagged_text": "(2)<E T=\"03\">Sunset date.</E>Paragraph (a)(1) of this section expires on July 21, 2020.", 
-                    "text": "(2) Sunset date. Paragraph (a)(1) of this section expires on July 21, 2020.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-33-a-1-iv-B": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "33", 
-                        "a", 
-                        "1", 
-                        "iv", 
-                        "B"
-                    ], 
-                    "node_type": "regtext", 
-                    "tagged_text": "(B) Delays related to a necessary investigation or other special action by the remittance transfer provider or a third party as required by the provider's fraud screening procedures or in accordance with the Bank Secrecy Act, 31 U.S.C. 5311<E T=\"03\">et seq.,</E>Office of Foreign Assets Control requirements, or similar laws or requirements;", 
-                    "text": "(B) Delays related to a necessary investigation or other special action by the remittance transfer provider or a third party as required by the provider's fraud screening procedures or in accordance with the Bank Secrecy Act, 31 U.S.C. 5311 et seq., Office of Foreign Assets Control requirements, or similar laws or requirements;", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-33-a-Interp-10": [
-            {
-                "action": "MOVE", 
-                "destination": [
-                    "1005", 
-                    "33", 
-                    "a", 
-                    "Interp", 
-                    "11"
-                ]
-            }
-        ], 
-        "1005-33-a-Interp-7": [
-            {
-                "action": "MOVE", 
-                "destination": [
-                    "1005", 
-                    "33", 
-                    "a", 
-                    "Interp", 
-                    "8"
-                ]
-            }, 
-            {
-                "action": "POST", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "33", 
-                        "a", 
-                        "Interp", 
-                        "7"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "7.<E T=\"03\">Failure to make funds available by disclosed date of availability\u2014fraud and other screening procedures.</E>Under \u00a7 1005.33(a)(1)(iv)(B), a remittance transfer provider's failure to deliver funds by the disclosed date of availability is not an error if such delay is related to the provider's or any third party's investigation necessary to address potentially suspicious, blocked or prohibited activity, and the provider did not and could not have reasonably foreseen the delay so as to enable it to timely disclose an accurate date of availability when providing the sender with a receipt or combined disclosure. For example, no error occurs if delivery of funds is delayed because, after the receipt is provided, the provider's fraud screening system flags a remittance transfer because the designated recipient has a name similar to the name of a blocked person under a sanctions program and further investigation is needed to determine that the designated recipient is not actually a blocked person. Similarly, no error occurs where, after disclosing a date of availability to the sender, a remittance transfer provider receives specific law enforcement information indicating that the characteristics of a remittance transfer match a pattern of fraudulent activity, and as a result, the provider deems it necessary to delay delivery of the funds to allow for further investigation. However, if a delay could have been reasonably foreseen, the exception in \u00a7 1005.33(a)(1)(iv)(B) would not apply. For example, if a provider knows in time to make a disclosure that all remittance transfers to a certain geographic area must undergo screening procedures that routinely delay such transfers by two days, the provider's failure to include the additional two days in its disclosure of the date of availability constitutes an error if delivery of the funds is indeed delayed beyond the disclosed date of availability.", 
-                    "text": "7. Failure to make funds available by disclosed date of availability\u2014fraud and other screening procedures. Under \u00a7 1005.33(a)(1)(iv)(B), a remittance transfer provider's failure to deliver funds by the disclosed date of availability is not an error if such delay is related to the provider's or any third party's investigation necessary to address potentially suspicious, blocked or prohibited activity, and the provider did not and could not have reasonably foreseen the delay so as to enable it to timely disclose an accurate date of availability when providing the sender with a receipt or combined disclosure. For example, no error occurs if delivery of funds is delayed because, after the receipt is provided, the provider's fraud screening system flags a remittance transfer because the designated recipient has a name similar to the name of a blocked person under a sanctions program and further investigation is needed to determine that the designated recipient is not actually a blocked person. Similarly, no error occurs where, after disclosing a date of availability to the sender, a remittance transfer provider receives specific law enforcement information indicating that the characteristics of a remittance transfer match a pattern of fraudulent activity, and as a result, the provider deems it necessary to delay delivery of the funds to allow for further investigation. However, if a delay could have been reasonably foreseen, the exception in \u00a7 1005.33(a)(1)(iv)(B) would not apply. For example, if a provider knows in time to make a disclosure that all remittance transfers to a certain geographic area must undergo screening procedures that routinely delay such transfers by two days, the provider's failure to include the additional two days in its disclosure of the date of availability constitutes an error if delivery of the funds is indeed delayed beyond the disclosed date of availability.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-33-a-Interp-8": [
-            {
-                "action": "MOVE", 
-                "destination": [
-                    "1005", 
-                    "33", 
-                    "a", 
-                    "Interp", 
-                    "9"
-                ]
-            }
-        ], 
-        "1005-33-a-Interp-9": [
-            {
-                "action": "MOVE", 
-                "destination": [
-                    "1005", 
-                    "33", 
-                    "a", 
-                    "Interp", 
-                    "10"
-                ]
-            }
-        ], 
-        "1005-33-c-2-iii": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "33", 
-                        "c", 
-                        "2", 
-                        "iii"
-                    ], 
-                    "node_type": "regtext", 
-                    "tagged_text": "(iii) In the case of an error under paragraph (a)(1)(iv) of this section that occurred because the sender provided incorrect or insufficient information in connection with the remittance transfer, the remittance transfer provider shall provide the remedies required by paragraphs (c)(2)(ii)(A)(<E T=\"03\">1</E>) and (c)(2)(ii)(B) of this section within three business days of providing the report required by paragraph (c)(1) or (d)(1) of this section except that the provider may agree to the sender's request, upon receiving the results of the error investigation, that the funds be applied towards a new remittance transfer, rather than be refunded, if the provider has not yet processed a refund. The provider may deduct from the amount refunded or applied towards a new transfer any fees actually imposed on or, to the extent not prohibited by law, taxes actually collected on the remittance transfer as part of the first unsuccessful remittance transfer attempt except that the provider shall not deduct its own fee.", 
-                    "text": "(iii) In the case of an error under paragraph (a)(1)(iv) of this section that occurred because the sender provided incorrect or insufficient information in connection with the remittance transfer, the remittance transfer provider shall provide the remedies required by paragraphs (c)(2)(ii)(A)(1) and (c)(2)(ii)(B) of this section within three business days of providing the report required by paragraph (c)(1) or (d)(1) of this section except that the provider may agree to the sender's request, upon receiving the results of the error investigation, that the funds be applied towards a new remittance transfer, rather than be refunded, if the provider has not yet processed a refund. The provider may deduct from the amount refunded or applied towards a new transfer any fees actually imposed on or, to the extent not prohibited by law, taxes actually collected on the remittance transfer as part of the first unsuccessful remittance transfer attempt except that the provider shall not deduct its own fee.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-33-c-Interp-12-i": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "33", 
-                        "c", 
-                        "Interp", 
-                        "12", 
-                        "i"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "i. A sender instructs a remittance transfer provider to send US$100 to a designated recipient in local currency, for which the provider charges a transfer fee of US$10 (and thus the sender pays the provider $110). The provider's correspondent imposes a fee of US$15 that it deducts from the amount of the transfer. The sender provides incorrect or insufficient information that results in non-delivery of the remittance transfer as requested. Once the provider determines that an error occurred because the sender provided incorrect or insufficient information, the provider must provide the report required by \u00a7 1005.33(c)(1) or (d)(1) and inform the sender, pursuant to \u00a7 1005.33(c)(1) or (d)(1), that it will refund US$95 to the sender within three business days, unless the sender chooses to apply the US$95 towards a new remittance transfer and the provider agrees. Of the $95 that is refunded to the sender, $10 reflects the refund of the provider's transfer fee, and $85 reflects the refund of the amount of funds provided by the sender in connection with the transfer which was not properly transmitted. The provider is not required to refund the US$15 fee imposed by the correspondent (unless the $15 will be refunded to the provider by the correspondent).", 
-                    "text": "i. A sender instructs a remittance transfer provider to send US$100 to a designated recipient in local currency, for which the provider charges a transfer fee of US$10 (and thus the sender pays the provider $110). The provider's correspondent imposes a fee of US$15 that it deducts from the amount of the transfer. The sender provides incorrect or insufficient information that results in non-delivery of the remittance transfer as requested. Once the provider determines that an error occurred because the sender provided incorrect or insufficient information, the provider must provide the report required by \u00a7 1005.33(c)(1) or (d)(1) and inform the sender, pursuant to \u00a7 1005.33(c)(1) or (d)(1), that it will refund US$95 to the sender within three business days, unless the sender chooses to apply the US$95 towards a new remittance transfer and the provider agrees. Of the $95 that is refunded to the sender, $10 reflects the refund of the provider's transfer fee, and $85 reflects the refund of the amount of funds provided by the sender in connection with the transfer which was not properly transmitted. The provider is not required to refund the US$15 fee imposed by the correspondent (unless the $15 will be refunded to the provider by the correspondent).", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-33-c-Interp-5": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "33", 
-                        "c", 
-                        "Interp", 
-                        "5"
-                    ], 
-                    "node_type": "interp", 
-                    "tagged_text": "5.<E T=\"03\">Amount appropriate to resolve the error.</E>For purposes of the remedies set forth in \u00a7 1005.33(c)(2)(i)(A), (c)(2)(i)(B), (c)(2)(ii)(A)(<E T=\"03\">1</E>), and (c)(2)(i)(A)(<E T=\"03\">2</E>) the amount appropriate to resolve the error is the specific amount of transferred funds that should have been received if the remittance transfer had been effected without error. The amount appropriate to resolve the error does not include consequential damages. For example, when the amount that was disclosed pursuant to \u00a7 1005.31(b)(1)(vii) was received by the designated recipient before the provider must determine the appropriate remedy for an error under \u00a7 1005.33(a)(1)(iv), no additional amounts are required to resolve the error after the remittance transfer provider refunds the appropriate fees and taxes paid by the sender pursuant to \u00a7 1005.33(c)(2)(ii)(B) or (c)(2)(iii), as applicable.", 
-                    "text": "5. Amount appropriate to resolve the error. For purposes of the remedies set forth in \u00a7 1005.33(c)(2)(i)(A), (c)(2)(i)(B), (c)(2)(ii)(A)(1), and (c)(2)(i)(A)(2) the amount appropriate to resolve the error is the specific amount of transferred funds that should have been received if the remittance transfer had been effected without error. The amount appropriate to resolve the error does not include consequential damages. For example, when the amount that was disclosed pursuant to \u00a7 1005.31(b)(1)(vii) was received by the designated recipient before the provider must determine the appropriate remedy for an error under \u00a7 1005.33(a)(1)(iv), no additional amounts are required to resolve the error after the remittance transfer provider refunds the appropriate fees and taxes paid by the sender pursuant to \u00a7 1005.33(c)(2)(ii)(B) or (c)(2)(iii), as applicable.", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-A-31": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [
-                        "1005-A-31-p1"
-                    ], 
-                    "label": [
-                        "1005", 
-                        "A", 
-                        "31"
-                    ], 
-                    "node_type": "appendix", 
-                    "text": "", 
-                    "title": "A-31\u2014Model Form for Receipts for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(2))"
-                }
-            }
-        ], 
-        "1005-A-31-p1": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "A", 
-                        "31", 
-                        "p1"
-                    ], 
-                    "node_type": "appendix", 
-                    "text": "![](ER18SE14.015)", 
-                    "title": null
-                }
-            }
-        ], 
-        "1005-A-40": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [
-                        "1005-A-40-p2"
-                    ], 
-                    "label": [
-                        "1005", 
-                        "A", 
-                        "40"
-                    ], 
-                    "node_type": "appendix", 
-                    "text": "", 
-                    "title": "A-40\u2014Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency\u2014Spanish (\u00a7 1005.31(b)(3))"
-                }
-            }
-        ], 
-        "1005-A-40-p2": [
-            {
-                "action": "PUT", 
-                "node": {
-                    "child_labels": [], 
-                    "label": [
-                        "1005", 
-                        "A", 
-                        "40", 
-                        "p2"
-                    ], 
-                    "node_type": "appendix", 
-                    "text": "![](ER18SE14.016)", 
-                    "title": null
-                }
-            }
-        ]
-    }, 
-    "contact": "Jane G. Raso and Shiri Wolf, Counsels; Eric Goldberg, Senior Counsel, Office of Regulations, at (202) 435-7700 or", 
-    "document_number": "2014-20681", 
-    "effective_on": "2014-11-17", 
-    "footnotes": {
-        "1": "Public Law 111-203 was signed into law on July 21, 2010. Between February 2012 and August 2013, the Bureau issued several final rules concerning remittance transfers pursuant to the Dodd-Frank Act (collectively, the 2013 Final Rule or the Remittance Rule). The Remittance Rule took effect on October 28, 2013.", 
-        "10": "In August 2013, the Bureau adopted a clarification and a technical correction to the Remittance Rule. 78 FR 49365 (Aug. 14, 2013).", 
-        "11": "The comments submitted regarding this proposed rule are <em data-original=\"E-03\">available at https://federalregister.gov/a/2014-01606.</em>", 
-        "12": "<em data-original=\"E-03\">Available at http://www.consumerfinance.gov/remittances-transfer-rule-amendment-to-regulation-e/.</em>", 
-        "13": "<em data-original=\"E-03\">Available at http://www.consumerfinance.gov/blog/category/remittances/.</em>", 
-        "14": "The Office of Management and Budget (OMB) control number for this information collection is 3170-0032.", 
-        "15": "<em data-original=\"E-03\">See</em> Consumer Financial Protection Bureau Request for Approval under the Generic Clearance: Compliance Costs and Other Effects of Regulation, <em data-original=\"E-03\">available at http://www.reginfo.gov/public/do/PRAViewIC?ref_nbr=201205-3170-003&amp;icID=209232.</em>", 
-        "16": "Staff of the Securities and Exchange Commission (SEC) wrote a no-action letter on December 14, 2012, that concludes it will not recommend enforcement actions to the SEC under Regulation E if a broker-dealer provides disclosures as though the broker-dealer were an insured institution for purposes of the temporary exception. The letter is <em data-original=\"E-03\">available at http://www.sec.gov/divisions/marketreg/mr-noaction/2012/financial-information-forum-121412-rege.pdf.</em>", 
-        "17": "<em data-original=\"E-03\">See generally http://www.ncua.gov/dataapps/qcallrptdata/Pages/default.aspx</em>.", 
-        "18": "<em data-original=\"E-03\">See</em> 79 FR 2509 (Jan. 14, 2014); FDIC Financial Institution Letter FIL 4-2014.", 
-        "19": "Uniform Electronic Transactions Act of 1999 section 2, comment 6 (2000), <em data-original=\"E-03\">available at http://www.uniformlaws.org/shared/docs/electronic%20transactions/ueta_final_99.pdf.</em>", 
-        "2": "The remittance transfer data collected for the period beginning on January 1, 2014 and ending on March 31, 2014, is the first quarter in which data related to remittance transfers was collected as part of the FFIEC Call Report; the specific questions and responses are discussed below. The data for this one quarter is the only FFIEC Call Report data available to the Bureau for review and analysis. The Bureau has some concerns about some of the responses and has noted those concerns where relevant in this <em data-original=\"E-04\">Federal Register</em> notice. The Bureau expects to continue to monitor responses to future FFIEC Call Reports to questions related to remittance transfers in the FFIEC Call Report.", 
-        "20": "At the time of the April Proposal, the additional URLs had not \u201cgone live.\u201d Since the April Proposal, the Bureau published the additional URLs, as well as pages containing the same information in Vietnamese, Mandarin, Korean, Tagalog, Russian, Arabic, and Haitian Creole. The pages contain information regarding consumers' rights under the Remittance Rule, how consumers can use the receipts that they receive from providers, and how and when to lodge a complaint with the Bureau.", 
-        "21": "The Bureau understands that broker-dealers may also rely on the temporary exception because a SEC no-action letter concluded that the SEC staff would not recommend enforcement action to the SEC under Regulation E if a broker-dealer provides disclosures as if the broker-dealer were an insured institution for purposes of the temporary exception. The letter is <em data-original=\"E-03\">available at http://www.sec.gov/divisions/marketreg/mr-noaction/2012/financial-information-forum-121412-rege.pdf.</em>", 
-        "22": "The Bureau provided a detailed discussion of the reasons that lead to it making the preliminary determination that the termination of the temporary exception on July 21, 2015, would have a negative impact on the ability of insured institutions to send remittance transfers. <em data-original=\"E-03\">See generally</em> 79 FR 23234 (April 25, 2014).", 
-        "23": "In the April Proposal, the Bureau stated that a particular institution may use one information aggregator to provide it with the covered third-party fee information, and another to provide it with the exchange rate information. 79 FR 23245 (Apr. 25, 2014). The Bureau also stated that it found that an insured institution that uses an information aggregator must generally also use that aggregator to help process the remittance transfer. <em data-original=\"E-03\">Id.</em>", 
-        "24": "Nostro accounts are accounts established by U.S. institutions with foreign banks, and funds in the accounts are funds in the account are typically denominated in the currency of that country. <em data-original=\"E-03\">See</em> 79 FR at 23245 (Apr. 25, 2014).", 
-        "25": "<em data-original=\"E-03\">See</em> 77 FR 6257 (Feb. 7, 2012); 78 FR 6025 (Jan. 29, 2013).", 
-        "26": "One large bank commenter suggested that the Bureau clarify current comment 33(c)(12)-i by revising it to add the remittance transfer provider's fee to the total refund amount. The Bureau believes that the technical correction to comment 33(c)-12.i addresses the commenter's concern.", 
-        "27": "Section 1022(b)(2)(A) of the Dodd-Frank Act directs the Bureau, when prescribing a rule under the Federal consumer financial laws, to consider the potential benefits and costs of a regulation to consumers and covered persons, including the potential reduction of access by consumers to consumer financial products or services; the impact on depository institutions and credit unions with $10 billion or less in total assets as described in section 1026 of the Dodd-Frank Act; and the impact on consumers in rural areas.", 
-        "28": "The Bureau also solicited feedback from other agencies with supervisory and enforcement authority regarding Regulation E and the Remittance Rule.", 
-        "29": "As noted above in the Section-by-Section Analysis, the temporary exception does not apply to broker-dealers. However, SEC staff issued a no-action letter in December 2012 stating that it will not recommend an enforcement action under Regulation E against broker-dealers that provide disclosures consistent with the requirements of the temporary exception. <em data-original=\"E-03\">See http://www.sec.gov/divisions/marketreg/mr-noaction/2012/financial-information-forum-121412-rege.pdf.</em>", 
-        "3": "The Bureau's analysis determined 691 depository institutions identified themselves as remittance transfer providers, and 680 of the said 691 institutions reported that they provide wire transfer services during the first quarter of 2014. <em data-original=\"E-03\">See generally</em> FFIEC Call Report data in response to the March 2014 Call Report, <em data-original=\"E-03\">available at https://cdr.ffiec.gov/public/.</em>", 
-        "30": "Prior to the adoption of this final rule, \u00a7 1005.33(c)(2)(iii), as clarified by current comment 33(c)-12, already prohibited remittance transfer providers from deducting their own fees from the amount refunded to a sender or applied to a new transfer in the case of an error pursuant to \u00a7 1005.33(a)(1)(iv) because the sender provided incorrect or insufficient information in connection with the transfer.", 
-        "31": "5 U.S.C. 601, <em data-original=\"E-03\">et seq.</em> The Bureau is not aware of any small governmental units or not-for-profit organizations to which the proposal would apply.", 
-        "32": "5 U.S.C. 601(3) (the Bureau may establish an alternative definition after consultation with the Small Business Administration and an opportunity for public comment).", 
-        "33": "5 U.S.C. 603-605.", 
-        "34": "5 U.S.C. 609.", 
-        "35": "For purposes of assessing the impacts of this final rule on small entities, \u201csmall entities\u201d is defined in the RFA to include small businesses, small not-for-profit organizations, and small government jurisdictions. 5 U.S.C. 601(6). A \u201csmall business\u201d is determined by application of Small Business Administration regulations and reference to the North American Industry Classification System (\u201cNAICS\u201d) classifications and size standards. 5 U.S.C. 601(3). A \u201csmall organization\u201d is any \u201cnot-for-profit enterprise which is independently owned and operated and is not dominant in its field.\u201d 5 U.S.C. 601(4). A \u201csmall governmental jurisdiction\u201d is the government of a city, county, town, township, village, school district, or special district with a population of less than 50,000. 5 U.S.C. 601(5).", 
-        "36": "The definition of \u201cremittance transfer provider\u201d includes a safe harbor under which a person who provided 100 or fewer remittance transfers in the previous calendar year and provides 100 or fewer such transfers in the current calendar year, it is deemed not to be providing remittance transfers for a consumer in the normal course of its business, and is thus not a remittance transfer provider. <em data-original=\"E-03\">See</em> &#167; 1005.30(f)(2).", 
-        "37": "Small Bus. Admin., Table of Small Business Size Standards Matched to North American Industry Classification System Codes, <em data-original=\"E-03\">http://www.sba.gov/sites/default/files/files/Size_Standards_Table.pdf</em>. Under what were the relevant size standards in place when the Bureau issued the April Proposal, the thresholds were $500 million for insured depository institutions and credit unions, and $19 million for non-depository institutions that are remittance transfer providers. The SBA increased the threshold from $500 to $550 million for insured depository institutions and credit unions, and from $19 million to $20.5 million for non-depository institutions remittance transfer providers, but the adjustments do not does not change the Bureau's analysis. The Bureau adopts NAICS code 522390 (&#8220;Other Activities Related to Credit Intermediation&#8221;) as the most relevant code for remittance transfer providers that are not depository institutions. <em data-original=\"E-03\">See</em> 79 FR 33647 (June 12, 2014).", 
-        "38": "Many State-licensed money transmitters act through agents. However, the Remittance Rule applies to remittance transfer providers and explains, in official commentary, that a person is not deemed to be acting as a provider when it performs activities as an agent on behalf of a provider. Comment 30(f)-1. Furthermore, for the purpose of this analysis, the Bureau assumes that providers, and not their agents, will assume any costs associated with implementing the modifications.", 
-        "4": "Although the FFIEC Call Report covered the period from January 1 through March 31, 2014, this question, concerning the volume of transfers sent, asked about the period October 28 through December 31, 2013. (The remittance rule went into effect on October 28, 2013.)", 
-        "5": "Pursuant to the Remittance Rule, transfers of $15 or less are not considered remittance transfers under the rule. Accordingly, although the FFIEC Call Report notes a very low median transaction amount for remittance transfers (approximately $9), the Bureau believes that the typical size of the transfers sent by depository institutions and credit unions is a larger number.", 
-        "6": "The Bureau lacks data on remittance transfers sent by broker-dealers.", 
-        "7": "The Bureau created two additional permanent exceptions by regulation in \u00a7 1005.32(b)(2) and (b)(3). They are discussed below.", 
-        "8": "<em data-original=\"E-03\">See</em> 78 FR 66251 (Nov. 5, 2013). The list, which is also maintained on the Bureau's Web site, contains countries whose laws the Bureau believes prevent remittance transfer providers from determining, at the time the required disclosures must be provided, the exact exchange rate for a transfer involving a currency exchange. However, if the provider has information that a country's laws or the method by which transactions are conducted in that country permit a determination of the exact disclosure amount, the provider may not rely on the Bureau's list. When the Bureau first issued the list of such countries on September 26, 2012, the Bureau stated that the list is subject to change, and invited the public to suggest additional countries to add to the list. The Bureau continues to accept suggestions on potential changes to this list and analyzes those suggestions as they are received.", 
-        "9": "On July 10, 2012, the Bureau published a technical correction to the Remittance Rule. <em data-original=\"E-03\">See</em> 77 FR 40459 (Jul. 10, 2012)."
-    }, 
-    "fr_citation": "79 FR 55970", 
-    "fr_url": "https://www.federalregister.gov/articles/2014/09/18/2014-20681/electronic-fund-transfers-regulation-e", 
     "fr_volume": 79, 
-    "initial_effective_on": "2014-11-17", 
-    "publication_date": "2014-09-18", 
-    "regulation_id_numbers": [
-        "3170-AA45"
-    ], 
     "section_by_section": [
         {
+            "footnote_refs": [], 
+            "title": "Section 1005.30 Remittance Transfer Definitions", 
+            "labels": [
+                "1005-30"
+            ], 
+            "page": 55976, 
+            "paragraphs": [], 
             "children": [
                 {
+                    "footnote_refs": [], 
+                    "title": "1005.30(c) Designated Recipient & 1005.30(g) Sender", 
+                    "labels": [
+                        "1005-30-c", 
+                        "1005-30-g"
+                    ], 
+                    "page": 55976, 
+                    "paragraphs": [], 
                     "children": [
                         {
                             "children": [], 
-                            "footnote_refs": [], 
-                            "page": 55976, 
                             "paragraphs": [
                                 "As noted in the April Proposal, the Remittance Rule applies when a sender located in a \u201cState\u201d sends funds to a designated recipient at a location in a \u201cforeign country.\u201d <em data-original=\"E-03\">See</em> &#167; 1005.30(c) and (g). Further, the Rule specifies that in the context of transfers to or from an account, the Rule's application depends on the location of the account rather than the account owner's physical location at the time of transfer. <em data-original=\"E-03\">See</em> comments 30(c)-2.ii and 30(g). The Rule does not, however, specifically address the status of a transfer that is sent to or from a U.S. military installation located in a foreign country, nor does the definition of &#8220;State&#8221; in subpart A of Regulation E (&#167; 1005.2(l)) directly address the definition's application to a U.S. military installation.", 
                                 "In the April Proposal, the Bureau recognized that the Remittance Rule's application to transfers sent to and from U.S. military installations located abroad could, in some cases, lead to confusion. Specifically, the Bureau had received inquiries about whether U.S. military installations located abroad should be treated as located in a State or in a foreign country. The Bureau noted that application of the Remittance Rule might also differ depending on whether the transfer was sent to or from a depository institution account or would be picked up by the recipient at a location on the military installation. For example, there could be confusion as to whether the Remittance Rule applies when a consumer in the United States sends a cash transfer to be picked up by a recipient at a financial institution (not into the recipient's account) on a U.S. military base in a foreign country. Depending on whether the financial institution is deemed to be at a location in a \u201cforeign country\u201d or a \u201cState,\u201d the Remittance Rule may or may not apply. There might also be confusion about whether a cash transfer from a consumer on a foreign military installation to a recipient in the surrounding country would be subject to the rule, again depending on whether the foreign military installation is deemed to be in a \u201cState.\u201d", 
@@ -858,12 +346,12 @@
                                 "The Bureau acknowledges that, as noted by a few commenters, there may be some scenarios in which it is impossible for the remittance transfer provider to know that the transfer will be sent to a location or account located on a U.S. military installation. The Bureau notes, however, that such scenarios already exist regardless of whether the transfer involves a U.S. military installation located abroad; indeed, the Bureau has previously addressed these scenarios in existing comment 30(c)-2.iii, which explains that, where a sender does not specify information about a designated recipient's account, a provider may make the determination of whether funds will received in a foreign country based on \u201cother information.\u201d Thus, those providers who currently make a determination about the location of a recipient or a recipient's account by, for example, looking at the routing number and address of the branch of the financial institution receiving the transfer, can continue to do so; the revised commentary merely provides that where they have specific information that the account is located on a U.S. military installation, they can treat the account as located in a State, notwithstanding any information to the contrary derived from the account's routing number.", 
                                 "Finally, the Bureau is not finalizing a provision that would address the application of the Remittance Rule to other U.S. government installations abroad. The Bureau did not receive any comments indicating that there is actual or potential confusion with respect to the Remittance Rule's application to non-military U.S. installations located in foreign countries."
                             ], 
+                            "footnote_refs": [], 
+                            "page": 55976, 
                             "title": "Application of the Remittance Rule to U.S. Military Installations Abroad"
                         }, 
                         {
                             "children": [], 
-                            "footnote_refs": [], 
-                            "page": 55978, 
                             "paragraphs": [
                                 "Section 1005.30(g) provides that a \u201csender\u201d under subpart B of Regulation E means a consumer in a State who primarily for personal, family, or household purposes requests a remittance transfer provider to send a remittance transfer to a designated recipient. Together with the definition of \u201cremittance transfer\u201d in \u00a7 1005.30(e), this means that for the Remittance Rule to apply to an electronic transfer of funds, the transfer must have been requested by a consumer primarily for personal, family, or household purposes.", 
                                 "In response to certain questions about how to determine whether the Remittance Rule applies to transfers sent from an account that is not an account for the purposes of Regulation E, such as a business account, the Bureau proposed to add comment 30(g)-2 to explain that a consumer is a \u201csender\u201d only if the consumer requests a transfer primarily for personal, family, or household purposes. The proposed comment would have also explained that for transfers from an account, the primary purpose for which the account was established determines whether a transfer from that account is requested for personal, family, or household purposes. Accordingly, under the proposed clarification, a transfer is not requested primarily for personal, family, or household purposes if it is sent from an account that was not established primarily for personal, family, or household purposes, such as an account that was established as a business or commercial account or an account held by a business entity such as a corporation, not-for-profit corporation, professional corporation, limited liability company, partnership, or sole proprietorship, and a person requesting a transfer from such an account therefore is not a sender under \u00a7 1005.30(g). Having reviewed the comments received and for the reasons set forth below, the Bureau is adopting comment 30(g)-2 with the modifications explained below.", 
@@ -875,48 +363,42 @@
                                 "Comment 30(g)-3 explains that a provider may deem that a transfer that is requested to be sent from an account that was not established primarily for personal, family, or household purposes, such as an account that was established as a business or commercial account or an account held by a business entity such as a corporation, not-for-profit corporation, professional corporation, limited liability company, partnership, or sole proprietorship, as not being requested primarily for personal, family, or household purposes. A consumer requesting a transfer be sent from such an account therefore is not a sender under \u00a7 1005.30(g). The comment also explains that a transfer that is sent from an account held by a financial institution under a <em data-original=\"E-03\">bona fide</em> trust agreement pursuant to &#167; 1005.2(b)(3) is not requested primarily for personal, family, or household purposes, and a consumer requesting a transfer from such an account therefore is not a sender under &#167; 1005.30(g).", 
                                 "Lastly, as discussed above, several trade association commenters suggested that the Bureau adopt guidance that would permit a financial institution to rely on the way an account is identified in its records at the time the transfer is requested (rather than when the account was established) to determine whether the transfer is made primarily for personal, family, or household purposes. The Bureau is not adopting this recommendation. The Bureau proposed comment 30(g)-2 to provide additional clarification that transfers from accounts that do not meet the definition of \u201caccount\u201d under the general provisions of Regulation E are not subject to the Remittance Rule. Pursuant to \u00a7 1005.2(b)(1), an account at a financial institution is an \u201caccount\u201d for purposes of Regulation E if it was \u201c <em data-original=\"E-03\">established</em> primarily for personal, family, or household purposes.&#8221; (Emphasis added.) In other words, the primary purpose for which an account was established determines whether the account is an &#8220;account&#8221; for purposes of Regulation E. Accordingly, the Bureau believes that adopting this suggestion would be inconsistent with &#167; 1005.2(b)(1), which is a long-standing part of Regulation E. Insofar as commenters did not suggest why accounts should be treated differently for purposes of subpart B of Regulation E, the Bureau is not adopting this suggestion."
                             ], 
+                            "footnote_refs": [], 
+                            "page": 55978, 
                             "title": "Non-Consumer Accounts"
                         }
-                    ], 
-                    "footnote_refs": [], 
-                    "labels": [
-                        "1005-30-c", 
-                        "1005-30-g"
-                    ], 
-                    "page": 55976, 
-                    "paragraphs": [], 
-                    "title": "1005.30(c) Designated Recipient & 1005.30(g) Sender"
+                    ]
                 }
-            ], 
-            "footnote_refs": [], 
-            "labels": [
-                "1005-30"
-            ], 
-            "page": 55976, 
-            "paragraphs": [], 
-            "title": "Section 1005.30 Remittance Transfer Definitions"
+            ]
         }, 
         {
+            "footnote_refs": [], 
+            "title": "Section 1005.31 Disclosures", 
+            "labels": [
+                "1005-31"
+            ], 
+            "page": 55979, 
+            "paragraphs": [], 
             "children": [
                 {
-                    "children": [], 
                     "footnote_refs": [], 
+                    "title": "31(a) General Form of Disclosures", 
                     "labels": [
                         "1005-31-a"
                     ], 
                     "page": 55979, 
                     "paragraphs": [], 
-                    "title": "31(a) General Form of Disclosures"
+                    "children": []
                 }, 
                 {
-                    "children": [], 
                     "footnote_refs": [
                         {
-                            "offset": 618, 
                             "paragraph": 1, 
-                            "reference": "19"
+                            "reference": "19", 
+                            "offset": 618
                         }
                     ], 
+                    "title": "31(a)(2) Written and Electronic Disclosures", 
                     "labels": [
                         "1005-31-a-2"
                     ], 
@@ -926,11 +408,11 @@
                         "Industry commenters overwhelmingly supported this aspect of the April Proposal. Several commenters asserted that the Bureau should expand the interpretation of \u201cwritten disclosures\u201d to include any electronic disclosure if the provider has met its obligations to comply with the E-Sign Act. Consumer group commenters had mixed reactions: one consumer group commenter supported the proposal, but the other asserted that faxes should be subject to the requirements for electronic disclosures set forth in \u00a7 1005.31(a)(2) because they are considered electronic records under the Uniform Electronic Transaction Act of 1999.\n           The Bureau has considered the comments and believes it is appropriate to use the Bureau's interpretive authority under EFTA to treat disclosures provided pursuant to \u00a7 1005.31 or \u00a7 1005.36 by fax as \u201cwritten disclosures\u201d for purposes of the Remittance Rule.", 
                         "As the Bureau explained in the April Proposal, it considers disclosures made by fax to be a \u201cwriting\u201d under the Remittance Rule because such disclosures are generally received on paper in a form the sender can retain. Additionally, the Bureau does not believe that treating faxes as writings will have any significant negative impact on the benefits consumers derive from the Remittance Rule, both because many consumers have long communicated with remittance transfer providers via fax and those consumers accept faxes as a legitimate and efficient method of communication. The Bureau observes that the consumer group that opposed interpreting disclosures provided via fax as written disclosures did not contend that such an interpretation would have a significant negative impact on the benefits consumers derive from the Remittance Rule. Thus, the Bureau believes it appropriate to interpret faxes as \u201ca writing\u201d for purposes of providing disclosures pursuant to \u00a7 1005.31 and \u00a7 1005.36. The Bureau, however, does not believe that it is necessary to clarify that any electronic disclosure constitutes a \u201cwriting\u201d if the provider complies with the E-Sign Act. As discussed above, the Remittance Rule permits a provider to provide electronic disclosures instead of written disclosures, when such electronic disclosures are provided pursuant to \u00a7 1005.31(a)(2) as clarified by comment 31(a)(2)-1."
                     ], 
-                    "title": "31(a)(2) Written and Electronic Disclosures"
+                    "children": []
                 }, 
                 {
-                    "children": [], 
                     "footnote_refs": [], 
+                    "title": "31(a)(3) Disclosures for Oral Telephone Transactions", 
                     "labels": [
                         "1005-31-a-3"
                     ], 
@@ -941,27 +423,27 @@
                         "The Bureau is finalizing the revisions as proposed with one change to improve clarity (specifically, removing \u201cFor example\u201d). The Bureau declines to adopt the suggestion that providers be allowed to give oral disclosures whenever a sender opts for oral disclosures. As stated in its February 2012 <em data-original=\"E-04\">Federal Register</em> notice, the Bureau believes that Congress did not intend to permit remittance transfer providers to satisfy the disclosure requirements orally, except in limited scenarios, as set forth in the Remittance Rule and in this final rule.", 
                         "With respect to the comment that a remittance transfer provider should be required to inform the sender that the provider is treating the sender's communication as an inquiry, the Bureau does not believe this additional, independent disclosure requirement is necessary. By definition, the provider provides the pre-payment disclosure before the consumer has paid for the remittance transfer; at this point in the transaction, there is little risk of consumer harm. Further, the Bureau believes the sender is likely to know and understand the status of his or her transaction in the course of the sender's subsequent oral communication with the provider. Finally, with respect to the request for further clarity regarding when it would be impractical for a provider to treat a communication as a request, the Bureau believes that the proposed comment, which the Bureau is adopting with a non-substantive change to improve its clarity, provides sufficient guidance in the form of a specific example."
                     ], 
-                    "title": "31(a)(3) Disclosures for Oral Telephone Transactions"
+                    "children": []
                 }, 
                 {
-                    "children": [], 
                     "footnote_refs": [], 
+                    "title": "31(b) Disclosure Requirements", 
                     "labels": [
                         "1005-31-b"
                     ], 
                     "page": 55980, 
                     "paragraphs": [], 
-                    "title": "31(b) Disclosure Requirements"
+                    "children": []
                 }, 
                 {
-                    "children": [], 
                     "footnote_refs": [
                         {
-                            "offset": 884, 
                             "paragraph": 0, 
-                            "reference": "20"
+                            "reference": "20", 
+                            "offset": 884
                         }
                     ], 
+                    "title": "31(b)(2) Receipt", 
                     "labels": [
                         "1005-31-b-2"
                     ], 
@@ -972,41 +454,34 @@
                         "As the Bureau stated in both the proposed comment text and the discussion of that text in the preamble of the April Proposal, the alternative disclosures included in comment 31(b)(2)-4 are <em data-original=\"E-03\">optional,</em> and do not require remittance transfer providers to change existing receipts. Thus, while it urges providers to provide consumers with the most relevant, updated information available from the Bureau, the Bureau confirms that, at this time, providers can continue to disclose the Web site previously listed on all Model Forms. Likewise, the April Proposal was clear that providers may only disclose the Bureau's non-English Web site if they make disclosures in the &#8220;relevant&#8221; language used in the non-English Web site. The Bureau will publish a list of any URLs it maintains containing specific information about remittances in foreign languages on its Web site, currently, <em data-original=\"E-03\">http://www.consumerfinance.gov/remittances-transfer-rule-amendment-to-regulation-e/.</em>\n          \n        ", 
                         "For the reasons above, the Bureau is adopting proposed new comment 31(b)(2)-4 substantially as proposed, with minor revisions to include references to revised URLs and revised model forms that illustrated the alternative disclosures proposed by the comment. Specifically, the URLs for the English- and Spanish-language, remittance-specific Web sites are <em data-original=\"E-03\">consumerfinance.gov/sending-moneyandconsumerfinance.gov/envois,</em> respectively. The comment also clarifies that the Bureau will make available a list of other foreign-language URLs for Web sites that provide specific information about remittance transfers. In addition, to accommodate new comment 31(b)(2)-4, the Bureau is renumbering current comments 31(b)(2)-4, -5, and -6 as comments 31(b)(2)-5, -6, and -7, respectively, without any other changes. Finally, the Bureau is revising forms A-31 and A-40 of appendix A to illustrate the optional disclosures set forth in new comment 31(b)(2)-4. The other Model Forms remain unchanged."
                     ], 
-                    "title": "31(b)(2) Receipt"
+                    "children": []
                 }
-            ], 
-            "footnote_refs": [], 
-            "labels": [
-                "1005-31"
-            ], 
-            "page": 55979, 
-            "paragraphs": [], 
-            "title": "Section 1005.31 Disclosures"
+            ]
         }, 
         {
-            "children": [], 
             "footnote_refs": [
                 {
-                    "offset": 1048, 
                     "paragraph": 1, 
-                    "reference": "21"
+                    "reference": "21", 
+                    "offset": 1048
                 }, 
                 {
-                    "offset": 643, 
                     "paragraph": 10, 
-                    "reference": "22"
+                    "reference": "22", 
+                    "offset": 643
                 }, 
                 {
-                    "offset": 724, 
                     "paragraph": 11, 
-                    "reference": "23"
+                    "reference": "23", 
+                    "offset": 724
                 }, 
                 {
-                    "offset": 557, 
                     "paragraph": 13, 
-                    "reference": "24"
+                    "reference": "24", 
+                    "offset": 557
                 }
             ], 
+            "title": "Section 1005.32 Estimates", 
             "labels": [
                 "1005-32"
             ], 
@@ -1033,23 +508,30 @@
                 "The Bureau also believes that it is appropriate to extend the temporary exception without modifications or additional requirements. As noted above, the Bureau continues to believe that insured institutions are unable to make the significant progress necessary for the Bureau to cause the temporary exception to terminate before July 2020. Furthermore, the Bureau is not aware of evidence that insured institutions are improperly using the temporary exception or that consumers are being harmed by its use in particular or, more generally, by the receipt of disclosures containing estimates. The Bureau understands that although use of the temporary exception varies, the exception appears to be used for the minority of eligible transfers from insured institutions. The FFIEC Call Report asked banks to estimate the number of remittance transfers sent between October 28 and December 31, 2013, to which they applied the temporary exception. The FFIEC Call Report data suggest that the temporary exception is only used in approximately 10 percent of transfers sent by banks that are considered remittance transfer providers under the rule. Additionally, no data was submitted to the Bureau in response to the request in the April Proposal, and the Bureau is aware of no data, that contradicts its view that use of the temporary exception is limited to cases where providers (and their service providers) deem its use to be necessary.", 
                 "Lastly, the Bureau believes that it would be inappropriate to require insured institutions that disclose estimates pursuant to the temporary exception to inform their customers that money transmitters may provide consumers with exact disclosures. The Bureau notes that Congress expressly permitted any remittance transfer provider to disclose estimates in lieu of exact amounts in certain cases without any additional disclosure. <em data-original=\"E-03\">See</em> &#167; 1005.32(b)(1) (permanent exception for transfers to certain countries) and (b)(2) (advance transfers) without any additional disclosure. Insofar as money transmitters rely on these exceptions set forth in the Remittance rule, it cannot be said that they are disclosing exact amounts in those cases."
             ], 
-            "title": "Section 1005.32 Estimates"
+            "children": []
         }, 
         {
+            "footnote_refs": [], 
+            "title": "Section 1005.33 Procedures for Resolving Errors", 
+            "labels": [
+                "1005-33"
+            ], 
+            "page": 55984, 
+            "paragraphs": [], 
             "children": [
                 {
-                    "children": [], 
                     "footnote_refs": [], 
+                    "title": "1005.33(a) Definition of Error", 
                     "labels": [
                         "1005-33-a"
                     ], 
                     "page": 55984, 
                     "paragraphs": [], 
-                    "title": "1005.33(a) Definition of Error"
+                    "children": []
                 }, 
                 {
-                    "children": [], 
                     "footnote_refs": [], 
+                    "title": "1005.33(a)(1) Types of Transfers or Inquiries Covered", 
                     "labels": [
                         "1005-33-a-1"
                     ], 
@@ -1065,22 +547,22 @@
                         "The Bureau notes that these examples do not represent the only situations that could satisfy this exception. The unique nature of the screenings at issue and the variety of business practices and technical capabilities among remittance transfer providers do not allow the Bureau to address every possible scenario. Furthermore, the Bureau emphasizes that nothing in the changes adopted herein should be construed as limiting a provider's ability to perform necessary screenings. Instead, the Bureau intends the revision to clarify that providers cannot avoid liability for an error in situations where they could have reasonably foreseen the delay so as to enable them to timely disclose an accurate date of availability but failed to disclose that date to the sender. Whether a provider could have reasonably foreseen a delay in time to make changes to its disclosure depends on the facts and circumstances surrounding the transfer. The Bureau believes that its approach in the final rule, as opposed to the April Proposal, responds to commenters' concerns that the proposed language was perhaps too narrow and did not allow for flexibility arising out of the varied nature of fraud and other screenings.", 
                         "Finally, as proposed, the Bureau is renumbering existing comments 33(a)-7 through -10 as comments 33(a)-8 through -11, respectively, to reflect the insertion of new comment 33(a)-7."
                     ], 
-                    "title": "1005.33(a)(1) Types of Transfers or Inquiries Covered"
+                    "children": []
                 }, 
                 {
-                    "children": [], 
                     "footnote_refs": [
                         {
-                            "offset": 703, 
                             "paragraph": 4, 
-                            "reference": "25"
+                            "reference": "25", 
+                            "offset": 703
                         }, 
                         {
-                            "offset": 901, 
                             "paragraph": 5, 
-                            "reference": "26"
+                            "reference": "26", 
+                            "offset": 901
                         }
                     ], 
+                    "title": "1005.33(c) Time Limits and Extent of Investigation", 
                     "labels": [
                         "1005-33-c"
                     ], 
@@ -1094,16 +576,534 @@
                         "Finally, consistent with the Bureau's intent to clarify the requirement with respect to the appropriate remedy under \u00a7 1005.33(c)(2)(iii), the Bureau is adopting a technical correction to comment 33(c)-12.i to describe the total amount that a sender has paid the provider, the total amount of the refund that such sender will receive, and the portion of the total refund that is attributable to the provider's refund of its own fee in greater detail. The Bureau believes that revised comment 33(c)-12.i provides greater clarity with respect to how the total refund amount is calculated but the changes adopted do not alter the calculations. The Bureau believes that it is appropriate to adopt this technical correction without notice and comment because the correction is consistent with the Bureau's intent to clarify the requirement with respect to the appropriate remedy under \u00a7 1005.33(c)(2)(iii).\n          \n        ", 
                         "For the above reasons, the Bureau is adopting \u00a7 1005.33(c)(2)(iii) and comment 33(c)-5 as proposed, with the addition of the technical correction to comment 33(c)-12.i."
                     ], 
-                    "title": "1005.33(c) Time Limits and Extent of Investigation"
+                    "children": []
                 }
-            ], 
-            "footnote_refs": [], 
-            "labels": [
-                "1005-33"
-            ], 
-            "page": 55984, 
-            "paragraphs": [], 
-            "title": "Section 1005.33 Procedures for Resolving Errors"
+            ]
         }
-    ]
+    ], 
+    "agency_names": [
+        "Consumer Financial Protection Bureau"
+    ], 
+    "cfr_title": 12, 
+    "abstract": "The Bureau of Consumer Financial Protection (Bureau) is amending subpart B of Regulation E, which implements the Electronic Fund Transfer Act, and the official interpretation to the regulation (Remittance Rule). This final rule extends a temporary provision that permits insured institutions to estimate certain pricing disclosures pursuant to section 1073 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. Absent further action by the Bureau, that exception would have expired on July 21, 2015. Based on a determination that the termination of the exception would negatively affect the ability of insured institutions to send remittance transfers, the Bureau is extending the temporary exception by five years from July 21, 2015, to July 21, 2020. The Bureau is also making several clarifications and technical corrections to the regulation and commentary.", 
+    "regulation_id_numbers": [
+        "3170-AA45"
+    ], 
+    "contact": "Jane G. Raso and Shiri Wolf, Counsels; Eric Goldberg, Senior Counsel, Office of Regulations, at (202) 435-7700 or", 
+    "fr_url": "https://www.federalregister.gov/articles/2014/09/18/2014-20681/electronic-fund-transfers-regulation-e", 
+    "cfr_parts": [
+        "1005"
+    ], 
+    "effective_on": "2014-11-17", 
+    "action": "Final rule; official interpretation.", 
+    "publication_date": "2014-09-18", 
+    "footnotes": {
+        "24": "Nostro accounts are accounts established by U.S. institutions with foreign banks, and funds in the accounts are funds in the account are typically denominated in the currency of that country. <em data-original=\"E-03\">See</em> 79 FR at 23245 (Apr. 25, 2014).", 
+        "25": "<em data-original=\"E-03\">See</em> 77 FR 6257 (Feb. 7, 2012); 78 FR 6025 (Jan. 29, 2013).", 
+        "26": "One large bank commenter suggested that the Bureau clarify current comment 33(c)(12)-i by revising it to add the remittance transfer provider's fee to the total refund amount. The Bureau believes that the technical correction to comment 33(c)-12.i addresses the commenter's concern.", 
+        "27": "Section 1022(b)(2)(A) of the Dodd-Frank Act directs the Bureau, when prescribing a rule under the Federal consumer financial laws, to consider the potential benefits and costs of a regulation to consumers and covered persons, including the potential reduction of access by consumers to consumer financial products or services; the impact on depository institutions and credit unions with $10 billion or less in total assets as described in section 1026 of the Dodd-Frank Act; and the impact on consumers in rural areas.", 
+        "20": "At the time of the April Proposal, the additional URLs had not \u201cgone live.\u201d Since the April Proposal, the Bureau published the additional URLs, as well as pages containing the same information in Vietnamese, Mandarin, Korean, Tagalog, Russian, Arabic, and Haitian Creole. The pages contain information regarding consumers' rights under the Remittance Rule, how consumers can use the receipts that they receive from providers, and how and when to lodge a complaint with the Bureau.", 
+        "21": "The Bureau understands that broker-dealers may also rely on the temporary exception because a SEC no-action letter concluded that the SEC staff would not recommend enforcement action to the SEC under Regulation E if a broker-dealer provides disclosures as if the broker-dealer were an insured institution for purposes of the temporary exception. The letter is <em data-original=\"E-03\">available at http://www.sec.gov/divisions/marketreg/mr-noaction/2012/financial-information-forum-121412-rege.pdf.</em>", 
+        "22": "The Bureau provided a detailed discussion of the reasons that lead to it making the preliminary determination that the termination of the temporary exception on July 21, 2015, would have a negative impact on the ability of insured institutions to send remittance transfers. <em data-original=\"E-03\">See generally</em> 79 FR 23234 (April 25, 2014).", 
+        "23": "In the April Proposal, the Bureau stated that a particular institution may use one information aggregator to provide it with the covered third-party fee information, and another to provide it with the exchange rate information. 79 FR 23245 (Apr. 25, 2014). The Bureau also stated that it found that an insured institution that uses an information aggregator must generally also use that aggregator to help process the remittance transfer. <em data-original=\"E-03\">Id.</em>", 
+        "28": "The Bureau also solicited feedback from other agencies with supervisory and enforcement authority regarding Regulation E and the Remittance Rule.", 
+        "29": "As noted above in the Section-by-Section Analysis, the temporary exception does not apply to broker-dealers. However, SEC staff issued a no-action letter in December 2012 stating that it will not recommend an enforcement action under Regulation E against broker-dealers that provide disclosures consistent with the requirements of the temporary exception. <em data-original=\"E-03\">See http://www.sec.gov/divisions/marketreg/mr-noaction/2012/financial-information-forum-121412-rege.pdf.</em>", 
+        "1": "Public Law 111-203 was signed into law on July 21, 2010. Between February 2012 and August 2013, the Bureau issued several final rules concerning remittance transfers pursuant to the Dodd-Frank Act (collectively, the 2013 Final Rule or the Remittance Rule). The Remittance Rule took effect on October 28, 2013.", 
+        "3": "The Bureau's analysis determined 691 depository institutions identified themselves as remittance transfer providers, and 680 of the said 691 institutions reported that they provide wire transfer services during the first quarter of 2014. <em data-original=\"E-03\">See generally</em> FFIEC Call Report data in response to the March 2014 Call Report, <em data-original=\"E-03\">available at https://cdr.ffiec.gov/public/.</em>", 
+        "2": "The remittance transfer data collected for the period beginning on January 1, 2014 and ending on March 31, 2014, is the first quarter in which data related to remittance transfers was collected as part of the FFIEC Call Report; the specific questions and responses are discussed below. The data for this one quarter is the only FFIEC Call Report data available to the Bureau for review and analysis. The Bureau has some concerns about some of the responses and has noted those concerns where relevant in this <em data-original=\"E-04\">Federal Register</em> notice. The Bureau expects to continue to monitor responses to future FFIEC Call Reports to questions related to remittance transfers in the FFIEC Call Report.", 
+        "5": "Pursuant to the Remittance Rule, transfers of $15 or less are not considered remittance transfers under the rule. Accordingly, although the FFIEC Call Report notes a very low median transaction amount for remittance transfers (approximately $9), the Bureau believes that the typical size of the transfers sent by depository institutions and credit unions is a larger number.", 
+        "4": "Although the FFIEC Call Report covered the period from January 1 through March 31, 2014, this question, concerning the volume of transfers sent, asked about the period October 28 through December 31, 2013. (The remittance rule went into effect on October 28, 2013.)", 
+        "7": "The Bureau created two additional permanent exceptions by regulation in \u00a7 1005.32(b)(2) and (b)(3). They are discussed below.", 
+        "6": "The Bureau lacks data on remittance transfers sent by broker-dealers.", 
+        "9": "On July 10, 2012, the Bureau published a technical correction to the Remittance Rule. <em data-original=\"E-03\">See</em> 77 FR 40459 (Jul. 10, 2012).", 
+        "8": "<em data-original=\"E-03\">See</em> 78 FR 66251 (Nov. 5, 2013). The list, which is also maintained on the Bureau's Web site, contains countries whose laws the Bureau believes prevent remittance transfer providers from determining, at the time the required disclosures must be provided, the exact exchange rate for a transfer involving a currency exchange. However, if the provider has information that a country's laws or the method by which transactions are conducted in that country permit a determination of the exact disclosure amount, the provider may not rely on the Bureau's list. When the Bureau first issued the list of such countries on September 26, 2012, the Bureau stated that the list is subject to change, and invited the public to suggest additional countries to add to the list. The Bureau continues to accept suggestions on potential changes to this list and analyzes those suggestions as they are received.", 
+        "12": "<em data-original=\"E-03\">Available at http://www.consumerfinance.gov/remittances-transfer-rule-amendment-to-regulation-e/.</em>", 
+        "11": "The comments submitted regarding this proposed rule are <em data-original=\"E-03\">available at https://federalregister.gov/a/2014-01606.</em>", 
+        "10": "In August 2013, the Bureau adopted a clarification and a technical correction to the Remittance Rule. 78 FR 49365 (Aug. 14, 2013).", 
+        "13": "<em data-original=\"E-03\">Available at http://www.consumerfinance.gov/blog/category/remittances/.</em>", 
+        "38": "Many State-licensed money transmitters act through agents. However, the Remittance Rule applies to remittance transfer providers and explains, in official commentary, that a person is not deemed to be acting as a provider when it performs activities as an agent on behalf of a provider. Comment 30(f)-1. Furthermore, for the purpose of this analysis, the Bureau assumes that providers, and not their agents, will assume any costs associated with implementing the modifications.", 
+        "15": "<em data-original=\"E-03\">See</em> Consumer Financial Protection Bureau Request for Approval under the Generic Clearance: Compliance Costs and Other Effects of Regulation, <em data-original=\"E-03\">available at http://www.reginfo.gov/public/do/PRAViewIC?ref_nbr=201205-3170-003&amp;icID=209232.</em>", 
+        "14": "The Office of Management and Budget (OMB) control number for this information collection is 3170-0032.", 
+        "17": "<em data-original=\"E-03\">See generally http://www.ncua.gov/dataapps/qcallrptdata/Pages/default.aspx</em>.", 
+        "16": "Staff of the Securities and Exchange Commission (SEC) wrote a no-action letter on December 14, 2012, that concludes it will not recommend enforcement actions to the SEC under Regulation E if a broker-dealer provides disclosures as though the broker-dealer were an insured institution for purposes of the temporary exception. The letter is <em data-original=\"E-03\">available at http://www.sec.gov/divisions/marketreg/mr-noaction/2012/financial-information-forum-121412-rege.pdf.</em>", 
+        "19": "Uniform Electronic Transactions Act of 1999 section 2, comment 6 (2000), <em data-original=\"E-03\">available at http://www.uniformlaws.org/shared/docs/electronic%20transactions/ueta_final_99.pdf.</em>", 
+        "18": "<em data-original=\"E-03\">See</em> 79 FR 2509 (Jan. 14, 2014); FDIC Financial Institution Letter FIL 4-2014.", 
+        "31": "5 U.S.C. 601, <em data-original=\"E-03\">et seq.</em> The Bureau is not aware of any small governmental units or not-for-profit organizations to which the proposal would apply.", 
+        "30": "Prior to the adoption of this final rule, \u00a7 1005.33(c)(2)(iii), as clarified by current comment 33(c)-12, already prohibited remittance transfer providers from deducting their own fees from the amount refunded to a sender or applied to a new transfer in the case of an error pursuant to \u00a7 1005.33(a)(1)(iv) because the sender provided incorrect or insufficient information in connection with the transfer.", 
+        "37": "Small Bus. Admin., Table of Small Business Size Standards Matched to North American Industry Classification System Codes, <em data-original=\"E-03\">http://www.sba.gov/sites/default/files/files/Size_Standards_Table.pdf</em>. Under what were the relevant size standards in place when the Bureau issued the April Proposal, the thresholds were $500 million for insured depository institutions and credit unions, and $19 million for non-depository institutions that are remittance transfer providers. The SBA increased the threshold from $500 to $550 million for insured depository institutions and credit unions, and from $19 million to $20.5 million for non-depository institutions remittance transfer providers, but the adjustments do not does not change the Bureau's analysis. The Bureau adopts NAICS code 522390 (&#8220;Other Activities Related to Credit Intermediation&#8221;) as the most relevant code for remittance transfer providers that are not depository institutions. <em data-original=\"E-03\">See</em> 79 FR 33647 (June 12, 2014).", 
+        "36": "The definition of \u201cremittance transfer provider\u201d includes a safe harbor under which a person who provided 100 or fewer remittance transfers in the previous calendar year and provides 100 or fewer such transfers in the current calendar year, it is deemed not to be providing remittance transfers for a consumer in the normal course of its business, and is thus not a remittance transfer provider. <em data-original=\"E-03\">See</em> &#167; 1005.30(f)(2).", 
+        "35": "For purposes of assessing the impacts of this final rule on small entities, \u201csmall entities\u201d is defined in the RFA to include small businesses, small not-for-profit organizations, and small government jurisdictions. 5 U.S.C. 601(6). A \u201csmall business\u201d is determined by application of Small Business Administration regulations and reference to the North American Industry Classification System (\u201cNAICS\u201d) classifications and size standards. 5 U.S.C. 601(3). A \u201csmall organization\u201d is any \u201cnot-for-profit enterprise which is independently owned and operated and is not dominant in its field.\u201d 5 U.S.C. 601(4). A \u201csmall governmental jurisdiction\u201d is the government of a city, county, town, township, village, school district, or special district with a population of less than 50,000. 5 U.S.C. 601(5).", 
+        "34": "5 U.S.C. 609.", 
+        "33": "5 U.S.C. 603-605.", 
+        "32": "5 U.S.C. 601(3) (the Bureau may establish an alternative definition after consultation with the Small Business Administration and an opportunity for public comment)."
+    }, 
+    "changes": {
+        "1005-33-a-1-iv-B": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "tagged_text": "(B) Delays related to a necessary investigation or other special action by the remittance transfer provider or a third party as required by the provider's fraud screening procedures or in accordance with the Bank Secrecy Act, 31 U.S.C. 5311<E T=\"03\">et seq.,</E>Office of Foreign Assets Control requirements, or similar laws or requirements;", 
+                    "title": null, 
+                    "text": "(B) Delays related to a necessary investigation or other special action by the remittance transfer provider or a third party as required by the provider's fraud screening procedures or in accordance with the Bank Secrecy Act, 31 U.S.C. 5311 et seq., Office of Foreign Assets Control requirements, or similar laws or requirements;", 
+                    "label": [
+                        "1005", 
+                        "33", 
+                        "a", 
+                        "1", 
+                        "iv", 
+                        "B"
+                    ], 
+                    "node_type": "regtext", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-A-31": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "text": "", 
+                    "node_type": "appendix", 
+                    "label": [
+                        "1005", 
+                        "A", 
+                        "31"
+                    ], 
+                    "child_labels": [
+                        "1005-A-31-p1"
+                    ], 
+                    "title": "A-31\u2014Model Form for Receipts for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(2))"
+                }
+            }
+        ], 
+        "1005-A-31-p1": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "text": "![](ER18SE14.015)", 
+                    "node_type": "appendix", 
+                    "label": [
+                        "1005", 
+                        "A", 
+                        "31", 
+                        "p1"
+                    ], 
+                    "child_labels": [], 
+                    "title": null
+                }
+            }
+        ], 
+        "1005-33-a-Interp-7": [
+            {
+                "action": "MOVE", 
+                "destination": [
+                    "1005", 
+                    "33", 
+                    "a", 
+                    "Interp", 
+                    "8"
+                ]
+            }, 
+            {
+                "action": "POST", 
+                "node": {
+                    "tagged_text": "7.<E T=\"03\">Failure to make funds available by disclosed date of availability\u2014fraud and other screening procedures.</E>Under \u00a7 1005.33(a)(1)(iv)(B), a remittance transfer provider's failure to deliver funds by the disclosed date of availability is not an error if such delay is related to the provider's or any third party's investigation necessary to address potentially suspicious, blocked or prohibited activity, and the provider did not and could not have reasonably foreseen the delay so as to enable it to timely disclose an accurate date of availability when providing the sender with a receipt or combined disclosure. For example, no error occurs if delivery of funds is delayed because, after the receipt is provided, the provider's fraud screening system flags a remittance transfer because the designated recipient has a name similar to the name of a blocked person under a sanctions program and further investigation is needed to determine that the designated recipient is not actually a blocked person. Similarly, no error occurs where, after disclosing a date of availability to the sender, a remittance transfer provider receives specific law enforcement information indicating that the characteristics of a remittance transfer match a pattern of fraudulent activity, and as a result, the provider deems it necessary to delay delivery of the funds to allow for further investigation. However, if a delay could have been reasonably foreseen, the exception in \u00a7 1005.33(a)(1)(iv)(B) would not apply. For example, if a provider knows in time to make a disclosure that all remittance transfers to a certain geographic area must undergo screening procedures that routinely delay such transfers by two days, the provider's failure to include the additional two days in its disclosure of the date of availability constitutes an error if delivery of the funds is indeed delayed beyond the disclosed date of availability.", 
+                    "title": null, 
+                    "text": "7. Failure to make funds available by disclosed date of availability\u2014fraud and other screening procedures. Under \u00a7 1005.33(a)(1)(iv)(B), a remittance transfer provider's failure to deliver funds by the disclosed date of availability is not an error if such delay is related to the provider's or any third party's investigation necessary to address potentially suspicious, blocked or prohibited activity, and the provider did not and could not have reasonably foreseen the delay so as to enable it to timely disclose an accurate date of availability when providing the sender with a receipt or combined disclosure. For example, no error occurs if delivery of funds is delayed because, after the receipt is provided, the provider's fraud screening system flags a remittance transfer because the designated recipient has a name similar to the name of a blocked person under a sanctions program and further investigation is needed to determine that the designated recipient is not actually a blocked person. Similarly, no error occurs where, after disclosing a date of availability to the sender, a remittance transfer provider receives specific law enforcement information indicating that the characteristics of a remittance transfer match a pattern of fraudulent activity, and as a result, the provider deems it necessary to delay delivery of the funds to allow for further investigation. However, if a delay could have been reasonably foreseen, the exception in \u00a7 1005.33(a)(1)(iv)(B) would not apply. For example, if a provider knows in time to make a disclosure that all remittance transfers to a certain geographic area must undergo screening procedures that routinely delay such transfers by two days, the provider's failure to include the additional two days in its disclosure of the date of availability constitutes an error if delivery of the funds is indeed delayed beyond the disclosed date of availability.", 
+                    "label": [
+                        "1005", 
+                        "33", 
+                        "a", 
+                        "Interp", 
+                        "7"
+                    ], 
+                    "node_type": "interp", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-30-c-Interp-2-ii": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "tagged_text": "ii. For transfers to a designated recipient's account, whether funds are to be received at a location physically outside of any State depends on where the recipient's account is located. If the account is located in a State, the funds will not be received at a location in a foreign country. Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State.", 
+                    "title": null, 
+                    "text": "ii. For transfers to a designated recipient's account, whether funds are to be received at a location physically outside of any State depends on where the recipient's account is located. If the account is located in a State, the funds will not be received at a location in a foreign country. Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State.", 
+                    "label": [
+                        "1005", 
+                        "30", 
+                        "c", 
+                        "Interp", 
+                        "2", 
+                        "ii"
+                    ], 
+                    "node_type": "interp", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-33-a-Interp-9": [
+            {
+                "action": "MOVE", 
+                "destination": [
+                    "1005", 
+                    "33", 
+                    "a", 
+                    "Interp", 
+                    "10"
+                ]
+            }
+        ], 
+        "1005-33-a-Interp-8": [
+            {
+                "action": "MOVE", 
+                "destination": [
+                    "1005", 
+                    "33", 
+                    "a", 
+                    "Interp", 
+                    "9"
+                ]
+            }
+        ], 
+        "1005-31-a-3-Interp-2": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "tagged_text": "2.<E T=\"03\">Oral telephone transactions.</E>Section 1005.31(a)(3) applies to transactions conducted orally and entirely by telephone, such as transactions conducted orally on a landline or mobile telephone. A remittance transfer provider may treat a written or electronic communication as an inquiry when it believes that treating the communication as a request would be impractical. For example, if a sender physically located abroad contacts a U.S. branch of the sender's financial institution and attempts to initiate a remittance transfer by first sending a mailed letter, further communication with the sender by letter may be impractical due to the physical distance and likely mail delays. In such circumstances, a provider may conduct the transaction orally and entirely by telephone pursuant to \u00a7 1005.31(a)(3) when the provider treats that initial communication as an inquiry and subsequently responds to the consumer's inquiry by calling the consumer on a telephone and orally gathering or confirming the information needed to identify and understand a request for a remittance transfer and otherwise conducts the transaction orally and entirely by telephone.", 
+                    "title": null, 
+                    "text": "2. Oral telephone transactions. Section 1005.31(a)(3) applies to transactions conducted orally and entirely by telephone, such as transactions conducted orally on a landline or mobile telephone. A remittance transfer provider may treat a written or electronic communication as an inquiry when it believes that treating the communication as a request would be impractical. For example, if a sender physically located abroad contacts a U.S. branch of the sender's financial institution and attempts to initiate a remittance transfer by first sending a mailed letter, further communication with the sender by letter may be impractical due to the physical distance and likely mail delays. In such circumstances, a provider may conduct the transaction orally and entirely by telephone pursuant to \u00a7 1005.31(a)(3) when the provider treats that initial communication as an inquiry and subsequently responds to the consumer's inquiry by calling the consumer on a telephone and orally gathering or confirming the information needed to identify and understand a request for a remittance transfer and otherwise conducts the transaction orally and entirely by telephone.", 
+                    "label": [
+                        "1005", 
+                        "31", 
+                        "a", 
+                        "3", 
+                        "Interp", 
+                        "2"
+                    ], 
+                    "node_type": "interp", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-31-a-3-Interp-1": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "tagged_text": "1.<E T=\"03\">Transactions conducted partially by telephone.</E>Except as provided in comment 31(a)(3)-2, for transactions conducted partially by telephone, providing the information required by \u00a7 1005.31(b)(1) to a sender orally does not fulfill the requirement to provide the disclosures required by \u00a7 1005.31(b)(1). For example, a sender may begin a remittance transfer at a remittance transfer provider's dedicated telephone in a retail store, and then provide payment in person to a store clerk to complete the transaction. In such cases, all disclosures must be provided in writing. A provider complies with this requirement, for example, by providing the written pre-payment disclosure in person prior to the sender's payment for the transaction, and the written receipt when the sender pays for the transaction.", 
+                    "title": null, 
+                    "text": "1. Transactions conducted partially by telephone. Except as provided in comment 31(a)(3)-2, for transactions conducted partially by telephone, providing the information required by \u00a7 1005.31(b)(1) to a sender orally does not fulfill the requirement to provide the disclosures required by \u00a7 1005.31(b)(1). For example, a sender may begin a remittance transfer at a remittance transfer provider's dedicated telephone in a retail store, and then provide payment in person to a store clerk to complete the transaction. In such cases, all disclosures must be provided in writing. A provider complies with this requirement, for example, by providing the written pre-payment disclosure in person prior to the sender's payment for the transaction, and the written receipt when the sender pays for the transaction.", 
+                    "label": [
+                        "1005", 
+                        "31", 
+                        "a", 
+                        "3", 
+                        "Interp", 
+                        "1"
+                    ], 
+                    "node_type": "interp", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-A-40": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "text": "", 
+                    "node_type": "appendix", 
+                    "label": [
+                        "1005", 
+                        "A", 
+                        "40"
+                    ], 
+                    "child_labels": [
+                        "1005-A-40-p2"
+                    ], 
+                    "title": "A-40\u2014Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency\u2014Spanish (\u00a7 1005.31(b)(3))"
+                }
+            }
+        ], 
+        "1005-33-a-Interp-10": [
+            {
+                "action": "MOVE", 
+                "destination": [
+                    "1005", 
+                    "33", 
+                    "a", 
+                    "Interp", 
+                    "11"
+                ]
+            }
+        ], 
+        "1005-A-40-p2": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "text": "![](ER18SE14.016)", 
+                    "node_type": "appendix", 
+                    "label": [
+                        "1005", 
+                        "A", 
+                        "40", 
+                        "p2"
+                    ], 
+                    "child_labels": [], 
+                    "title": null
+                }
+            }
+        ], 
+        "1005-31-a-2-Interp-5": [
+            {
+                "action": "POST", 
+                "node": {
+                    "tagged_text": "5.<E T=\"03\">Disclosures provided by fax.</E>For purposes of disclosures required to be provided pursuant to \u00a7 1005.31 or \u00a7 1005.36, disclosures provided by facsimile transmission (<E T=\"03\">i.e.,</E>fax) are considered to be provided in writing for purposes of providing disclosures in writing pursuant to subpart B and are not subject to the requirements for electronic disclosures set forth in \u00a7 1005.31(a)(2).", 
+                    "title": null, 
+                    "text": "5. Disclosures provided by fax. For purposes of disclosures required to be provided pursuant to \u00a7 1005.31 or \u00a7 1005.36, disclosures provided by facsimile transmission (i.e., fax) are considered to be provided in writing for purposes of providing disclosures in writing pursuant to subpart B and are not subject to the requirements for electronic disclosures set forth in \u00a7 1005.31(a)(2).", 
+                    "label": [
+                        "1005", 
+                        "31", 
+                        "a", 
+                        "2", 
+                        "Interp", 
+                        "5"
+                    ], 
+                    "node_type": "interp", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-33-c-Interp-12-i": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "tagged_text": "i. A sender instructs a remittance transfer provider to send US$100 to a designated recipient in local currency, for which the provider charges a transfer fee of US$10 (and thus the sender pays the provider $110). The provider's correspondent imposes a fee of US$15 that it deducts from the amount of the transfer. The sender provides incorrect or insufficient information that results in non-delivery of the remittance transfer as requested. Once the provider determines that an error occurred because the sender provided incorrect or insufficient information, the provider must provide the report required by \u00a7 1005.33(c)(1) or (d)(1) and inform the sender, pursuant to \u00a7 1005.33(c)(1) or (d)(1), that it will refund US$95 to the sender within three business days, unless the sender chooses to apply the US$95 towards a new remittance transfer and the provider agrees. Of the $95 that is refunded to the sender, $10 reflects the refund of the provider's transfer fee, and $85 reflects the refund of the amount of funds provided by the sender in connection with the transfer which was not properly transmitted. The provider is not required to refund the US$15 fee imposed by the correspondent (unless the $15 will be refunded to the provider by the correspondent).", 
+                    "title": null, 
+                    "text": "i. A sender instructs a remittance transfer provider to send US$100 to a designated recipient in local currency, for which the provider charges a transfer fee of US$10 (and thus the sender pays the provider $110). The provider's correspondent imposes a fee of US$15 that it deducts from the amount of the transfer. The sender provides incorrect or insufficient information that results in non-delivery of the remittance transfer as requested. Once the provider determines that an error occurred because the sender provided incorrect or insufficient information, the provider must provide the report required by \u00a7 1005.33(c)(1) or (d)(1) and inform the sender, pursuant to \u00a7 1005.33(c)(1) or (d)(1), that it will refund US$95 to the sender within three business days, unless the sender chooses to apply the US$95 towards a new remittance transfer and the provider agrees. Of the $95 that is refunded to the sender, $10 reflects the refund of the provider's transfer fee, and $85 reflects the refund of the amount of funds provided by the sender in connection with the transfer which was not properly transmitted. The provider is not required to refund the US$15 fee imposed by the correspondent (unless the $15 will be refunded to the provider by the correspondent).", 
+                    "label": [
+                        "1005", 
+                        "33", 
+                        "c", 
+                        "Interp", 
+                        "12", 
+                        "i"
+                    ], 
+                    "node_type": "interp", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-32-a-2": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "tagged_text": "(2)<E T=\"03\">Sunset date.</E>Paragraph (a)(1) of this section expires on July 21, 2020.", 
+                    "title": null, 
+                    "text": "(2) Sunset date. Paragraph (a)(1) of this section expires on July 21, 2020.", 
+                    "label": [
+                        "1005", 
+                        "32", 
+                        "a", 
+                        "2"
+                    ], 
+                    "node_type": "regtext", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-33-c-Interp-5": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "tagged_text": "5.<E T=\"03\">Amount appropriate to resolve the error.</E>For purposes of the remedies set forth in \u00a7 1005.33(c)(2)(i)(A), (c)(2)(i)(B), (c)(2)(ii)(A)(<E T=\"03\">1</E>), and (c)(2)(i)(A)(<E T=\"03\">2</E>) the amount appropriate to resolve the error is the specific amount of transferred funds that should have been received if the remittance transfer had been effected without error. The amount appropriate to resolve the error does not include consequential damages. For example, when the amount that was disclosed pursuant to \u00a7 1005.31(b)(1)(vii) was received by the designated recipient before the provider must determine the appropriate remedy for an error under \u00a7 1005.33(a)(1)(iv), no additional amounts are required to resolve the error after the remittance transfer provider refunds the appropriate fees and taxes paid by the sender pursuant to \u00a7 1005.33(c)(2)(ii)(B) or (c)(2)(iii), as applicable.", 
+                    "title": null, 
+                    "text": "5. Amount appropriate to resolve the error. For purposes of the remedies set forth in \u00a7 1005.33(c)(2)(i)(A), (c)(2)(i)(B), (c)(2)(ii)(A)(1), and (c)(2)(i)(A)(2) the amount appropriate to resolve the error is the specific amount of transferred funds that should have been received if the remittance transfer had been effected without error. The amount appropriate to resolve the error does not include consequential damages. For example, when the amount that was disclosed pursuant to \u00a7 1005.31(b)(1)(vii) was received by the designated recipient before the provider must determine the appropriate remedy for an error under \u00a7 1005.33(a)(1)(iv), no additional amounts are required to resolve the error after the remittance transfer provider refunds the appropriate fees and taxes paid by the sender pursuant to \u00a7 1005.33(c)(2)(ii)(B) or (c)(2)(iii), as applicable.", 
+                    "label": [
+                        "1005", 
+                        "33", 
+                        "c", 
+                        "Interp", 
+                        "5"
+                    ], 
+                    "node_type": "interp", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-30-g-Interp-1": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "tagged_text": "1.<E T=\"03\">Determining whether a consumer is located in a State.</E>Under \u00a7 1005.30(g), the definition of \u201csender\u201d means a consumer in a State who, primarily for personal, family, or household purposes, requests a remittance transfer provider to send a remittance transfer to a designated recipient. A sender located on a U.S. military installation that is physically located in a foreign country is located in a State. For transfers from a consumer's account, whether a consumer is located in a State depends on where the consumer's account is located. If the account is located in a State, the consumer will be located in a State for purposes of the definition of \u201csender\u201d in \u00a7 1005.30(g), notwithstanding comment 3(a)-3. Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State. Where a transfer is requested electronically or by telephone and the transfer is not from an account, the provider may make the determination of whether a consumer is located in a State based on information that is provided by the consumer and on any records associated with the consumer that the provider may have, such as an address provided by the consumer.", 
+                    "title": null, 
+                    "text": "1. Determining whether a consumer is located in a State. Under \u00a7 1005.30(g), the definition of \u201csender\u201d means a consumer in a State who, primarily for personal, family, or household purposes, requests a remittance transfer provider to send a remittance transfer to a designated recipient. A sender located on a U.S. military installation that is physically located in a foreign country is located in a State. For transfers from a consumer's account, whether a consumer is located in a State depends on where the consumer's account is located. If the account is located in a State, the consumer will be located in a State for purposes of the definition of \u201csender\u201d in \u00a7 1005.30(g), notwithstanding comment 3(a)-3. Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State. Where a transfer is requested electronically or by telephone and the transfer is not from an account, the provider may make the determination of whether a consumer is located in a State based on information that is provided by the consumer and on any records associated with the consumer that the provider may have, such as an address provided by the consumer.", 
+                    "label": [
+                        "1005", 
+                        "30", 
+                        "g", 
+                        "Interp", 
+                        "1"
+                    ], 
+                    "node_type": "interp", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-30-g-Interp-2": [
+            {
+                "action": "POST", 
+                "node": {
+                    "tagged_text": "2.<E T=\"03\">Personal, family, or household purposes.</E>Under \u00a7 1005.30(g), a consumer is a \u201csender\u201d only where he or she requests a transfer primarily for personal, family, or household purposes. A consumer who requests a transfer primarily for other purposes, such as business or commercial purposes, is not a sender under \u00a7 1005.30(g). For transfers from an account that was established primarily for personal, family, or household purposes, a remittance transfer provider may generally deem that the transfer is requested primarily for personal, family, or household purposes and the consumer is therefore a \u201csender\u201d under \u00a7 1005.30(g). But if the consumer indicates that he or she is requesting the transfer primarily for other purposes, such as business or commercial purposes, then the consumer is not a sender under \u00a7 1005.30(g), even if the consumer is requesting the transfer from an account that is used primarily for personal, family, or household purposes.", 
+                    "title": null, 
+                    "text": "2. Personal, family, or household purposes. Under \u00a7 1005.30(g), a consumer is a \u201csender\u201d only where he or she requests a transfer primarily for personal, family, or household purposes. A consumer who requests a transfer primarily for other purposes, such as business or commercial purposes, is not a sender under \u00a7 1005.30(g). For transfers from an account that was established primarily for personal, family, or household purposes, a remittance transfer provider may generally deem that the transfer is requested primarily for personal, family, or household purposes and the consumer is therefore a \u201csender\u201d under \u00a7 1005.30(g). But if the consumer indicates that he or she is requesting the transfer primarily for other purposes, such as business or commercial purposes, then the consumer is not a sender under \u00a7 1005.30(g), even if the consumer is requesting the transfer from an account that is used primarily for personal, family, or household purposes.", 
+                    "label": [
+                        "1005", 
+                        "30", 
+                        "g", 
+                        "Interp", 
+                        "2"
+                    ], 
+                    "node_type": "interp", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-30-g-Interp-3": [
+            {
+                "action": "POST", 
+                "node": {
+                    "tagged_text": "3.<E T=\"03\">Non-consumer accounts.</E>A provider may deem that a transfer that is requested to be sent from an account that was not established primarily for personal, family, or household purposes, such as an account that was established as a business or commercial account or an account held by a business entity such as a corporation, not-for-profit corporation, professional corporation, limited liability company, partnership, or sole proprietorship, as not being requested primarily for personal, family, or household purposes. A consumer requesting a transfer from such an account therefore is not a sender under \u00a7 1005.30(g). Additionally, a transfer that is requested to be sent from an account held by a financial institution under a<E T=\"03\">bona fide</E>trust agreement pursuant to \u00a7 1005.2(b)(3) is not requested primarily for personal, family, or household purposes, and a consumer requesting a transfer from such an account is therefore not a sender under \u00a7 1005.30(g).", 
+                    "title": null, 
+                    "text": "3. Non-consumer accounts. A provider may deem that a transfer that is requested to be sent from an account that was not established primarily for personal, family, or household purposes, such as an account that was established as a business or commercial account or an account held by a business entity such as a corporation, not-for-profit corporation, professional corporation, limited liability company, partnership, or sole proprietorship, as not being requested primarily for personal, family, or household purposes. A consumer requesting a transfer from such an account therefore is not a sender under \u00a7 1005.30(g). Additionally, a transfer that is requested to be sent from an account held by a financial institution under a bona fide trust agreement pursuant to \u00a7 1005.2(b)(3) is not requested primarily for personal, family, or household purposes, and a consumer requesting a transfer from such an account is therefore not a sender under \u00a7 1005.30(g).", 
+                    "label": [
+                        "1005", 
+                        "30", 
+                        "g", 
+                        "Interp", 
+                        "3"
+                    ], 
+                    "node_type": "interp", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-30-c-Interp-2-i": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "tagged_text": "i. A remittance transfer is received at a location in a foreign country if funds are to be received at a location physically outside of any State, as defined in \u00a7 1005.2(l). A specific pick-up location need not be designated for funds to be received at a location in a foreign country. If it is specified that the funds will be transferred to a foreign country to be picked up by the designated recipient, the transfer will be received at a location in a foreign country, even though a specific pick-up location within that country has not been designated. If it is specified that the funds will be received at a location on a U.S. military installation that is physically located in a foreign country, the transfer will be received in a State.", 
+                    "title": null, 
+                    "text": "i. A remittance transfer is received at a location in a foreign country if funds are to be received at a location physically outside of any State, as defined in \u00a7 1005.2(l). A specific pick-up location need not be designated for funds to be received at a location in a foreign country. If it is specified that the funds will be transferred to a foreign country to be picked up by the designated recipient, the transfer will be received at a location in a foreign country, even though a specific pick-up location within that country has not been designated. If it is specified that the funds will be received at a location on a U.S. military installation that is physically located in a foreign country, the transfer will be received in a State.", 
+                    "label": [
+                        "1005", 
+                        "30", 
+                        "c", 
+                        "Interp", 
+                        "2", 
+                        "i"
+                    ], 
+                    "node_type": "interp", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-31-e-Interp-1": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "tagged_text": "1.<E T=\"03\">Request to send a remittance transfer.</E>Except as provided in \u00a7 1005.36(a), pre-payment and combined disclosures are required to be provided to the sender when the sender requests the remittance transfer, but prior to payment for the transfer. Whether a consumer has requested a remittance transfer depends on the facts and circumstances. A sender that asks a provider to send a remittance transfer, and provides transaction-specific information to the provider in order to send funds to a designated recipient, has requested a remittance transfer. A sender that has sent an email, fax, mailed letter, or similar written or electronic communication has not requested a remittance transfer if the provider believes that it is impractical for the provider to treat that communication as a request and if the provider treats the communication as an inquiry and subsequently responds to that inquiry by calling the consumer on a telephone and orally gathering or confirming the information needed to process a request for a remittance transfer.<E T=\"03\">See</E>comment 31(a)(3)-2. Likewise, a consumer who solely inquires about that day's rates and fees to send to Mexico has not requested the provider to send a remittance transfer. Conversely, a sender who asks the provider at an agent location to send money to a recipient in Mexico and provides the sender and recipient information to the provider has requested a remittance transfer.", 
+                    "title": null, 
+                    "text": "1. Request to send a remittance transfer. Except as provided in \u00a7 1005.36(a), pre-payment and combined disclosures are required to be provided to the sender when the sender requests the remittance transfer, but prior to payment for the transfer. Whether a consumer has requested a remittance transfer depends on the facts and circumstances. A sender that asks a provider to send a remittance transfer, and provides transaction-specific information to the provider in order to send funds to a designated recipient, has requested a remittance transfer. A sender that has sent an email, fax, mailed letter, or similar written or electronic communication has not requested a remittance transfer if the provider believes that it is impractical for the provider to treat that communication as a request and if the provider treats the communication as an inquiry and subsequently responds to that inquiry by calling the consumer on a telephone and orally gathering or confirming the information needed to process a request for a remittance transfer. See comment 31(a)(3)-2. Likewise, a consumer who solely inquires about that day's rates and fees to send to Mexico has not requested the provider to send a remittance transfer. Conversely, a sender who asks the provider at an agent location to send money to a recipient in Mexico and provides the sender and recipient information to the provider has requested a remittance transfer.", 
+                    "label": [
+                        "1005", 
+                        "31", 
+                        "e", 
+                        "Interp", 
+                        "1"
+                    ], 
+                    "node_type": "interp", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-33-c-2-iii": [
+            {
+                "action": "PUT", 
+                "node": {
+                    "tagged_text": "(iii) In the case of an error under paragraph (a)(1)(iv) of this section that occurred because the sender provided incorrect or insufficient information in connection with the remittance transfer, the remittance transfer provider shall provide the remedies required by paragraphs (c)(2)(ii)(A)(<E T=\"03\">1</E>) and (c)(2)(ii)(B) of this section within three business days of providing the report required by paragraph (c)(1) or (d)(1) of this section except that the provider may agree to the sender's request, upon receiving the results of the error investigation, that the funds be applied towards a new remittance transfer, rather than be refunded, if the provider has not yet processed a refund. The provider may deduct from the amount refunded or applied towards a new transfer any fees actually imposed on or, to the extent not prohibited by law, taxes actually collected on the remittance transfer as part of the first unsuccessful remittance transfer attempt except that the provider shall not deduct its own fee.", 
+                    "title": null, 
+                    "text": "(iii) In the case of an error under paragraph (a)(1)(iv) of this section that occurred because the sender provided incorrect or insufficient information in connection with the remittance transfer, the remittance transfer provider shall provide the remedies required by paragraphs (c)(2)(ii)(A)(1) and (c)(2)(ii)(B) of this section within three business days of providing the report required by paragraph (c)(1) or (d)(1) of this section except that the provider may agree to the sender's request, upon receiving the results of the error investigation, that the funds be applied towards a new remittance transfer, rather than be refunded, if the provider has not yet processed a refund. The provider may deduct from the amount refunded or applied towards a new transfer any fees actually imposed on or, to the extent not prohibited by law, taxes actually collected on the remittance transfer as part of the first unsuccessful remittance transfer attempt except that the provider shall not deduct its own fee.", 
+                    "label": [
+                        "1005", 
+                        "33", 
+                        "c", 
+                        "2", 
+                        "iii"
+                    ], 
+                    "node_type": "regtext", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-31-b-2-Interp-5": [
+            {
+                "action": "MOVE", 
+                "destination": [
+                    "1005", 
+                    "31", 
+                    "b", 
+                    "2", 
+                    "Interp", 
+                    "6"
+                ]
+            }
+        ], 
+        "1005-31-b-2-Interp-4": [
+            {
+                "action": "MOVE", 
+                "destination": [
+                    "1005", 
+                    "31", 
+                    "b", 
+                    "2", 
+                    "Interp", 
+                    "5"
+                ]
+            }, 
+            {
+                "action": "POST", 
+                "node": {
+                    "tagged_text": "4.<E T=\"03\">Web site of the Consumer Financial Protection Bureau.</E>Section 1005.31(b)(2)(vi) requires a remittance transfer provider to disclose the name, toll-free telephone number(s), and Web site of the Consumer Financial Protection Bureau. Providers may satisfy this requirement by disclosing the Web site of the Consumer Financial Protection Bureau's homepage,<E T=\"03\">www.consumerfinance.gov,</E>as shown on Model Forms A-32, A-34, A-35, and A-39. Alternatively, providers may, but are not required to, disclose the Bureau's Web site as the address of a page on the Bureau's Web site that provides information for consumers about remittance transfers, currently,<E T=\"03\">consumerfinance.gov/sending-money</E>, as shown on Model Form A-31. In addition, providers making disclosures in a language other than English pursuant to \u00a7 1005.31(g) may, but are not required to, disclose the Bureau's Web site as a page on the Bureau's Web site that provides information for consumers about remittance transfers in the relevant language, if such Web site exists. For example, a provider that is making disclosures in Spanish under \u00a7 1005.31(g) may, but is not required to, disclose the Bureau's Web site on Spanish-language disclosures as the page on the Bureau's Web site that provides information regarding remittance transfers in Spanish, currently<E T=\"03\">consumerfinance.gov/envios.</E>This optional disclosure is shown on Model A-40. The Bureau will publish a list of any other foreign language Web sites that provide information regarding remittance transfers.", 
+                    "title": null, 
+                    "text": "4. Web site of the Consumer Financial Protection Bureau. Section 1005.31(b)(2)(vi) requires a remittance transfer provider to disclose the name, toll-free telephone number(s), and Web site of the Consumer Financial Protection Bureau. Providers may satisfy this requirement by disclosing the Web site of the Consumer Financial Protection Bureau's homepage, www.consumerfinance.gov, as shown on Model Forms A-32, A-34, A-35, and A-39. Alternatively, providers may, but are not required to, disclose the Bureau's Web site as the address of a page on the Bureau's Web site that provides information for consumers about remittance transfers, currently, consumerfinance.gov/sending-money, as shown on Model Form A-31. In addition, providers making disclosures in a language other than English pursuant to \u00a7 1005.31(g) may, but are not required to, disclose the Bureau's Web site as a page on the Bureau's Web site that provides information for consumers about remittance transfers in the relevant language, if such Web site exists. For example, a provider that is making disclosures in Spanish under \u00a7 1005.31(g) may, but is not required to, disclose the Bureau's Web site on Spanish-language disclosures as the page on the Bureau's Web site that provides information regarding remittance transfers in Spanish, currently consumerfinance.gov/envios. This optional disclosure is shown on Model A-40. The Bureau will publish a list of any other foreign language Web sites that provide information regarding remittance transfers.", 
+                    "label": [
+                        "1005", 
+                        "31", 
+                        "b", 
+                        "2", 
+                        "Interp", 
+                        "4"
+                    ], 
+                    "node_type": "interp", 
+                    "child_labels": []
+                }
+            }
+        ], 
+        "1005-31-b-2-Interp-6": [
+            {
+                "action": "MOVE", 
+                "destination": [
+                    "1005", 
+                    "31", 
+                    "b", 
+                    "2", 
+                    "Interp", 
+                    "7"
+                ]
+            }
+        ]
+    }, 
+    "document_number": "2014-20681", 
+    "initial_effective_on": "2014-11-17", 
+    "fr_citation": "79 FR 55970"
 }
