@@ -59,8 +59,9 @@ def determine_regulation_paths(api_base, regulation):
     #           [notice number]
     #           ...
     #   notice/
-    #       [notice number]
-    #       ...
+    #       [regulation part number]/
+    #           [notice number]
+    #           ...
     #   layer/
     #       [layer name]/
     #           [regulation part number]/
@@ -76,13 +77,13 @@ def determine_regulation_paths(api_base, regulation):
     
     # Get the regulation JSON 
     logger.info("generating paths for regulation {}...".format(regulation))
-    regulation_base = os.path.join('regulation', regulation)
-    regulation_paths.extend([os.path.join(regulation_base, n) 
+    regulation_paths.extend([os.path.join('regulation', regulation, n) 
         for n in notices])
 
     # Get notice JSON
     logger.info("generating notice paths for regulation {}...".format(regulation))
-    regulation_paths.extend([os.path.join('notice', n) for n in notices])
+    regulation_paths.extend([os.path.join('notice', regulation, n) 
+        for n in notices])
     
     # Get layer JSON
     logger.info("generating layer paths for regulation {}...".format(regulation))
