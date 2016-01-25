@@ -1,0 +1,1515 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<regulation xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs ../../eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2015-10-28</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>HOME MORTGAGE DISCLOSURE</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <cfr>
+      <title>12</title>
+      <section>1003</section>
+    </cfr>
+    <documentNumber>2015-26607</documentNumber>
+    <effectiveDate>2017-01-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/a/2015-26607</federalRegisterURL>
+  </preamble>
+  <part label="1003">
+    <tableOfContents>
+      <tocSecEntry target="1003-1">
+        <sectionNum>1</sectionNum>
+        <sectionSubject>§ 1003.1 Authority, purpose, and scope.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1003-2">
+        <sectionNum>2</sectionNum>
+        <sectionSubject>§ 1003.2 Definitions.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1003-3">
+        <sectionNum>3</sectionNum>
+        <sectionSubject>§ 1003.3 Exempt institutions.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1003-4">
+        <sectionNum>4</sectionNum>
+        <sectionSubject>§ 1003.4 Compilation of loan data.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1003-5">
+        <sectionNum>5</sectionNum>
+        <sectionSubject>§ 1003.5 Disclosure and reporting.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1003-6">
+        <sectionNum>6</sectionNum>
+        <sectionSubject>§ 1003.6 Enforcement.</sectionSubject>
+      </tocSecEntry>
+      <tocAppEntry target="1003-A">
+        <appendixLetter>A</appendixLetter>
+        <appendixSubject>Appendix A to Part 1003—Form and Instructions for Completion of HMDA Loan/Application Register</appendixSubject>
+      </tocAppEntry>
+      <tocAppEntry target="1003-B">
+        <appendixLetter>B</appendixLetter>
+        <appendixSubject>Appendix B to Part 1003—Form and Instructions for Data Collection on Ethnicity, Race, and Sex</appendixSubject>
+      </tocAppEntry>
+      <tocAppEntry target="1003-Interp">
+        <appendixLetter>Interp</appendixLetter>
+        <appendixSubject>Supplement I to Part 1003—Staff Commentary</appendixSubject>
+      </tocAppEntry>
+    </tableOfContents>
+    <content>
+      <subpart>
+        <tableOfContents>
+          <tocSecEntry target="1003-1">
+            <sectionNum>1</sectionNum>
+            <sectionSubject>§ 1003.1 Authority, purpose, and scope.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1003-2">
+            <sectionNum>2</sectionNum>
+            <sectionSubject>§ 1003.2 Definitions.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1003-3">
+            <sectionNum>3</sectionNum>
+            <sectionSubject>§ 1003.3 Exempt institutions.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1003-4">
+            <sectionNum>4</sectionNum>
+            <sectionSubject>§ 1003.4 Compilation of loan data.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1003-5">
+            <sectionNum>5</sectionNum>
+            <sectionSubject>§ 1003.5 Disclosure and reporting.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1003-6">
+            <sectionNum>6</sectionNum>
+            <sectionSubject>§ 1003.6 Enforcement.</sectionSubject>
+          </tocSecEntry>
+        </tableOfContents>
+        <content>
+          <section label="1003-1" sectionNum="1">
+            <subject>§ 1003.1 Authority, purpose, and scope.</subject>
+            <paragraph label="1003-1-a" marker="(a)">
+              <title type="keyterm">Authority.</title>
+              <content>Authority. This part, known as Regulation C, is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to the Home Mortgage Disclosure Act (HMDA) (<ref target="USC:12-2801" reftype="external">12 U.S.C. 2801</ref> et seq.,) as amended. The information-collection requirements have been approved by the U.S. Office of Management and Budget (OMB) under <ref target="USC:44-3501" reftype="external">44 U.S.C. 3501</ref> et seq. and have been assigned OMB numbers for institutions reporting data to the Office of the Comptroller of the Currency (1557-0159), the Federal Deposit Insurance Corporation (3064-0046), the Federal Reserve System (7100-0247), the Department of Housing and Urban Development (HUD) (2502-0529), the National Credit Union Administration (3133-0166), and the Bureau of Consumer Financial Protection (3170-0008).</content>
+            </paragraph>
+            <paragraph label="1003-1-b" marker="(b)">
+              <title type="keyterm">Purpose.</title>
+              <content>Purpose.</content>
+              <paragraph label="1003-1-b-1" marker="(1)">
+                <content>This part implements the Home Mortgage Disclosure Act, which is intended to provide the public with loan data that can be used:</content>
+                <paragraph label="1003-1-b-1-i" marker="(i)">
+                  <content>To help determine whether financial institutions are serving the housing needs of their communities;</content>
+                </paragraph>
+                <paragraph label="1003-1-b-1-ii" marker="(ii)">
+                  <content>To assist public officials in distributing public-sector investment so as to attract private investment to areas where it is needed; and</content>
+                </paragraph>
+                <paragraph label="1003-1-b-1-iii" marker="(iii)">
+                  <content>To assist in identifying possible discriminatory lending patterns and enforcing antidiscrimination statutes.</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1003-1-b-2" marker="(2)">
+                <content>Neither the act nor this part is intended to encourage unsound lending practices or the allocation of credit.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-1-c" marker="(c)">
+              <title type="keyterm">Scope.</title>
+              <content>Scope. This part applies to certain financial institutions, including banks, savings associations, credit unions, and other mortgage lending institutions, as defined in § <ref target="1003-2" reftype="internal">1003.2</ref>. The regulation requires an institution to report data to the appropriate Federal agency about home purchase loans, home improvement loans, and refinancings that it originates or purchases, or for which it receives applications; and to disclose certain data to the public.</content>
+            </paragraph>
+          </section>
+          <section label="1003-2" sectionNum="2">
+            <subject>§ 1003.2 Definitions.</subject>
+            <paragraph label="1003-2-p1" marker="none">
+            	<content>In this part:</content>
+            	<paragraph label="1003-2-p1-Act" marker="">
+            		<content><def term="act">Act</def> means the Home Mortgage Disclosure Act (<def term="hmda">HMDA</def>) (12 U.S.C. 2801 et seq.), as amended.</content>
+            	</paragraph>
+            	<paragraph label="1003-2-p1-Application" marker="">
+            		<content>Application</content>
+         			<paragraph label="1003-2-p1-Application-1" marker="(1)">
+         				<title type="keyterm">In general.</title>
+         				<content>In general. <def term="Application">Application</def> means an oral or written request for a home purchase loan, a home improvement loan, or a refinancing that is made in accordance with procedures used by a financial institution for the type of credit requested.</content>
+         			</paragraph>
+         			<paragraph label="1003-2-p1-Application-2" marker="(2)">
+              			<title type="keyterm">Preapproval programs.</title>
+              			<content>Preapproval programs. A request for preapproval for a home purchase loan is an application under this section if the request is reviewed under a program in which the financial institution, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:</content>
+              			<paragraph label="1003-2-p1-Application-2-i" marker="(i)">
+              				<content>Conditions that require the identification of a suitable property;</content>
+            			</paragraph>
+            			<paragraph label="1003-2-p1-Application-2-ii" marker="(ii)">
+              				<content>Conditions that require that no material change has occurred in the applicant's financial condition or creditworthiness prior to closing; and</content>
+            			</paragraph>
+            			<paragraph label="1003-2-p1-Application-2-iii" marker="(iii)">
+              				<content>Limited conditions that are not related to the financial condition or creditworthiness of the applicant that the lender ordinarily attaches to a traditional home mortgage application (such as certification of a clear termite inspection).</content>
+            			</paragraph>
+            		</paragraph>	
+            	</paragraph>
+            	<paragraph label="1003-2-p1-BranchOffice" marker="">
+            		<content><def term="branch office">Branch office</def> means:</content>
+            		<paragraph label="1003-2-p1-BranchOffice-1" marker="(1)">
+              			<content>Any office of a bank, savings association, or credit union that is approved as a branch by a Federal or state supervisory agency, but excludes free-standing electronic terminals such as automated teller machines; and</content>
+            		</paragraph>
+            		<paragraph label="1003-2-p1-BranchOffice-2" marker="(2)">
+              			<content>Any office of a for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that takes applications from the public for home purchase loans, home improvement loans, or refinancings. A for-profit mortgage-lending institution is also deemed to have a branch office in an MSA or in a Metropolitan Division, if, in the preceding calendar year, it received applications for, originated, or purchased five or more home purchase loans, home improvement loans, or refinancings related to property located in that MSA or Metropolitan Division, respectively.</content>
+            		</paragraph>
+            	</paragraph>
+            	<paragraph label="1003-2-p1-Dwelling" marker="">
+            		<content><def term="dwelling">Dwelling</def> means a residential structure (whether or not attached to real property) located in a state of the United States of America, the District of Columbia, or the Commonwealth of Puerto Rico. The term includes an individual condominium unit, cooperative unit, or mobile or manufactured home.</content>
+            	</paragraph>
+            	
+            	<paragraph label="1003-2-p1-FinancialInstitution" marker="">
+            		<content><def term="financial institution">Financial institution</def> means:</content>
+            		<paragraph label="1003-2-p1-FinancialInstitution-1" marker="(1)">
+		            	<content>A bank, savings association, or credit union that:</content>
+		            	<paragraph label="1003-2-p1-FinancialInstitution-1-i" marker="(i)">
+			            	<content>On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by the act, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;</content>
+			            </paragraph>
+			            <paragraph label="1003-2-p1-FinancialInstitution-1-ii" marker="(ii)">
+			              <content>On the preceding December 31, had a home or branch office in an MSA;</content>
+			            </paragraph>
+			            <paragraph label="1003-2-p1-FinancialInstitution-1-iii" marker="(iii)">
+			              <content>In the preceding calendar year, originated at least one home purchase loan (excluding temporary financing such as a construction loan) or refinancing of a home purchase loan, secured by a first lien on a one-to four-family dwelling; </content>
+			            </paragraph>
+			            <paragraph label="1003-2-p1-FinancialInstitution-1-iv" marker="(iv)">
+			              	<content>Meets one or more of the following three criteria:</content>
+			              	<paragraph label="1003-2-p1-FinancialInstitution-1-iv-A" marker="(A)">
+								<content>The institution is Federally insured or regulated;</content>
+		            	  	</paragraph>
+		            		<paragraph label="1003-2-p1-FinancialInstitution-1-iv-B" marker="(B)">
+		              			<content>The mortgage loan referred to in paragraph (1)(iii) of this definition was insured, guaranteed, or supplemented by a Federal agency; or</content>
+		            		</paragraph>
+		            		<paragraph label="1003-2-p1-FinancialInstitution-1-iv-C" marker="(C)">
+		              			<content>The mortgage loan referred to in paragraph (1)(iii) of this definition was intended by the institution for sale to Fannie Mae or Freddie Mac; and</content>
+		            		</paragraph>
+			            </paragraph>
+			            <paragraph label="1003-2-p1-FinancialInstitution-1-v" marker="(v)">
+			            	<content>In each of the two preceding calendar years, originated at least 25 home purchase loans, including refinancings of home purchase loans, that are not excluded from this part pursuant to § 1003.4(d); and</content>
+			            </paragraph>
+		            </paragraph>
+		            
+		            <paragraph label="1003-2-p1-FinancialInstitution-2" marker="(2)">
+		            	<content>A for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that:</content>
+		            	<paragraph label="1003-2-p1-FinancialInstitution-2-i" marker="(i)">
+		              		<content>In the preceding calendar year, either:</content>
+		              		<paragraph label="1003-2-p1-FinancialInstitution-2-i-A" marker="(A)">
+		              			<content>Originated home purchase loans, including refinancings of home purchase loans, that equaled at least 10 percent of its loan-origination volume, measured in dollars; or</content>
+		            		</paragraph>
+		            		<paragraph label="1003-2-p1-FinancialInstitution-2-i-B" marker="(B)">
+		              			<content>Originated home purchase loans, including refinancings of home purchase loans, that equaled at least $25 million; and</content>
+		            		</paragraph>
+		            	</paragraph>
+		            
+			            <paragraph label="1003-2-p1-FinancialInstitution-2-ii" marker="(ii)">
+			              <content>On the preceding December 31, had a home or branch office in an MSA; and</content>
+			            </paragraph>
+			            <paragraph label="1003-2-p1-FinancialInstitution-2-iii" marker="(iii)">
+			            	<content>Either:</content>
+			            	<paragraph label="1003-2-p1-FinancialInstitution-2-iii-A" marker="(A)">
+			              		<content>On the preceding December 31, had total assets of more than $10 million, counting the assets of any parent corporation; or</content>
+			            	</paragraph>
+			            	<paragraph label="1003-2-p1-FinancialInstitution-2-iii-B" marker="(B)">
+			              		<content>In the preceding calendar year, originated at least 100 home purchase loans, including refinancings of home purchase loans.</content>
+			            	</paragraph>
+			            </paragraph>
+			    	</paragraph>
+            	</paragraph>
+            	
+            	<paragraph label="1003-2-p1-HomeEquityLineOfCredit" marker="">
+            		<content><def term="home equity line of credit">Home equity line of credit</def> means an open-end credit plan secured by a dwelling as defined in Regulation Z (Truth in Lending), 12 CFR part 1026.</content>
+            	</paragraph>
+            	
+            	<paragraph label="1003-2-p1-HomeImprovementLoan" marker="">	
+            		<content><def term="home improvement loan">Home improvement loan</def> means:</content>
+            		<paragraph label="1003-2-p1-HomeImprovementLoan-1" marker="(1)">
+              			<content>A loan secured by a lien on a dwelling that is for the purpose, in whole or in part, of repairing, rehabilitating, remodeling, or improving a dwelling or the real property on which it is located; and</content>
+            		</paragraph>
+            		<paragraph label="1003-2-p1-HomeImprovementLoan-2" marker="(2)">
+              			<content>A non-dwelling secured loan that is for the purpose, in whole or in part, of repairing, rehabilitating, remodeling, or improving a dwelling or the real property on which it is located, and that is classified by the financial institution as a home improvement loan.</content>
+            		</paragraph>
+            	</paragraph>
+            	
+            	<paragraph label="1003-2-p1-HomePurchaseLoan" marker="">
+            		<content><def term="home purchase loan">Home purchase loan</def> means a loan secured by and made for the purpose of purchasing a dwelling.</content>
+            	</paragraph>
+            	
+            	<paragraph label="1003-2-p1-ManufacturedHome" marker="">
+            		<content><def term="manufactured home">Manufactured home</def> means any residential structure as defined under regulations of the Department of Housing and Urban Development establishing manufactured home construction and safety standards (24 CFR 3280.2).</content>
+            	</paragraph>
+            	
+            	<paragraph label="1003-2-p1-Metropolitan" marker="">
+            		<content>Metropolitan Statistical Area or MSA and Metropolitan Division or M—</content>
+            		<paragraph label="1003-2-p1-Metropolitan-1" marker="(1)">
+            			<content><def term="metropolitan statistical area">Metropolitan statistical area</def> or <def term="MSA">MSA</def> means a metropolitan statistical area as defined by the U.S. Office of Management and Budget.</content>
+            		</paragraph>
+            		<paragraph label="1003-2-p1-Metropolitan-2" marker="(2)">
+            			<content><def term="metropolitan division">Metropolitan division</def> or <def term="MD">MD</def> means a metropolitan division of an MSA, as defined by the U.S. Office of Management and Budget.</content>
+            		</paragraph>
+            	</paragraph>
+            	
+            	<paragraph label="1003-2-p1-Refinancing" marker="">
+            		<content><def term="refinancing">Refinancing</def> means a new obligation that satisfies and replaces an existing obligation by the same borrower, in which:</content>
+            		<paragraph label="1003-2-p1-Refinancing-1" marker="(1)">
+              			<content>For coverage purposes, the existing obligation is a home purchase loan (as determined by the lender, for example, by reference to available documents; or as stated by the applicant), and both the existing obligation and the new obligation are secured by first liens on dwellings; and</content>
+					</paragraph>
+            		<paragraph label="1003-2-p1-Refinancing-2" marker="(2)">
+              			<content>For reporting purposes, both the existing obligation and the new obligation are secured by liens on dwellings.</content>
+            		</paragraph>
+            	</paragraph>
+            </paragraph>
+          </section>
+          <section label="1003-3" sectionNum="3">
+            <subject>§ 1003.3 Exempt institutions.</subject>
+            <paragraph label="1003-3-a" marker="(a)">
+              <title type="keyterm">Exemption based on state law.</title>
+              <content>Exemption based on state law.</content>
+              <paragraph label="1003-3-a-1" marker="(1)">
+                <content>A state-chartered or state-licensed financial institution is exempt from the requirements of this part if the Bureau determines that the institution is subject to a state disclosure law that contains requirements substantially similar to those imposed by this part and that contains adequate provisions for enforcement.</content>
+              </paragraph>
+              <paragraph label="1003-3-a-2" marker="(2)">
+                <content>Any state, state-chartered or state-licensed financial institution, or association of such institutions, may apply to the Bureau for an exemption under paragraph <ref target="1003-3-a" reftype="internal">(a)</ref> of this section.</content>
+              </paragraph>
+              <paragraph label="1003-3-a-3" marker="(3)">
+                <content>An institution that is exempt under paragraph <ref target="1003-3-a" reftype="internal">(a)</ref> of this section shall use the disclosure form required by its state law and shall submit the data required by that law to its state supervisory agency for purposes of aggregation.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-3-b" marker="(b)">
+              <title type="keyterm">Loss of exemption.</title>
+              <content>Loss of exemption. An institution losing a state-law exemption under paragraph <ref target="1003-3-a" reftype="internal">(a)</ref> of this section shall comply with this part beginning with the calendar year following the year for which it last reported loan data under the state disclosure law.</content>
+            </paragraph>
+          </section>
+          <section label="1003-4" sectionNum="4">
+            <subject>§ 1003.4 Compilation of loan data.</subject>
+            <paragraph label="1003-4-a" marker="(a)">
+              <title type="keyterm">Data format and itemization.</title>
+              <content>Data format and itemization. A financial institution shall collect data regarding applications for, and originations and purchases of, home purchase loans, home improvement loans, and refinancings for each calendar year. An institution is required to collect data regarding requests under a preapproval program (as defined in § <ref target="1003-2" reftype="internal">1003.2</ref>) only if the preapproval request is denied or results in the origination of a home purchase loan. All reportable transactions shall be recorded, within thirty calendar days after the end of the calendar quarter in which final action is taken (such as origination or purchase of a loan, or denial or withdrawal of an application), on a register in the format prescribed in appendix <ref target="1003-A" reftype="internal">A</ref> of this part. The data recorded shall include the following items:</content>
+              <paragraph label="1003-4-a-1" marker="(1)">
+                <content>An identifying number for the loan or loan application, and the date the application was received.</content>
+              </paragraph>
+              <paragraph label="1003-4-a-2" marker="(2)">
+                <content>The type of loan or application.</content>
+              </paragraph>
+              <paragraph label="1003-4-a-3" marker="(3)">
+                <content>The purpose of the loan or application.</content>
+              </paragraph>
+              <paragraph label="1003-4-a-4" marker="(4)">
+                <content>Whether the application is a request for preapproval and whether it resulted in a denial or in an origination.</content>
+              </paragraph>
+              <paragraph label="1003-4-a-5" marker="(5)">
+                <content>The property type to which the loan or application relates.</content>
+              </paragraph>
+              <paragraph label="1003-4-a-6" marker="(6)">
+                <content>The owner-occupancy status of the property to which the loan or application relates.</content>
+              </paragraph>
+              <paragraph label="1003-4-a-7" marker="(7)">
+                <content>The amount of the loan or the amount applied for.</content>
+              </paragraph>
+              <paragraph label="1003-4-a-8" marker="(8)">
+                <content>The type of action taken, and the date.</content>
+              </paragraph>
+              <paragraph label="1003-4-a-9" marker="(9)">
+                <content>The location of the property to which the loan or application relates, by <ref target="1003-2-p1-Metropolitan-1">MSA</ref> or by <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>, by state, by county, and by census tract, if the institution has a home or branch office in that <ref target="1003-2-p1-Metropolitan-1">MSA</ref> or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>.</content>
+              </paragraph>
+              <paragraph label="1003-4-a-10" marker="(10)">
+                <content>The ethnicity, race, and sex of the applicant or borrower, and the gross annual income relied on in processing the application.</content>
+              </paragraph>
+              <paragraph label="1003-4-a-11" marker="(11)">
+                <content>The type of entity purchasing a loan that the institution originates or purchases and then sells within the same calendar year (this information need not be included in quarterly updates).</content>
+              </paragraph>
+              <paragraph label="1003-4-a-12" marker="(12)">
+                <content/>
+                <paragraph label="1003-4-a-12-i" marker="(i)">
+                  <content>For originated loans subject to Regulation Z, <ref target="CFR:12-1026" reftype="external">12 CFR part 1026</ref>, the difference between the loan's annual percentage rate (APR) and the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> for a comparable transaction as of the date the interest rate is set, if that difference is equal to or greater than 1.5 percentage points for loans secured by a first lien on a dwelling, or equal to or greater than 3.5 percentage points for loans secured by a subordinate lien on a dwelling.</content>
+                </paragraph>
+                <paragraph label="1003-4-a-12-ii" marker="(ii)">
+                  <content>“<def term="average prime offer rate" id="4be2080aa2f0817565f1565cc2b56e77ed8cc83c">Average prime offer rate</def>” means an annual percentage rate that is derived from average interest rates, points, and other loan pricing terms currently offered to consumers by a representative sample of creditors for mortgage loans that have low-risk pricing characteristics. The Bureau publishes average prime offer rates for a broad range of types of transactions in tables updated at least weekly, as well as the methodology the Bureau uses to derive these rates.</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1003-4-a-13" marker="(13)">
+                <content>Whether the loan is subject to the Home Ownership and Equity Protection Act of 1994, as implemented in Regulation Z (<ref target="CFR:12-1026-32" reftype="external">12 CFR 1026.32</ref>).</content>
+              </paragraph>
+              <paragraph label="1003-4-a-14" marker="(14)">
+                <content>The lien status of the loan or application (first lien, subordinate lien, or not secured by a lien on a dwelling).</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-4-b" marker="(b)">
+              <title type="keyterm">Collection of data on ethnicity, race, sex, and income.</title>
+              <content>Collection of data on ethnicity, race, sex, and income.</content>
+              <paragraph label="1003-4-b-1" marker="(1)">
+                <content>A financial institution shall collect data about the ethnicity, race, and sex of the applicant or borrower as prescribed in appendix <ref target="1003-B" reftype="internal">B</ref> of this part.</content>
+              </paragraph>
+              <paragraph label="1003-4-b-2" marker="(2)">
+                <content>Ethnicity, race, sex, and income data may but need not be collected for loans purchased by the financial institution.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-4-c" marker="(c)">
+              <title type="keyterm">Optional data.</title>
+              <content>Optional data. A financial institution may report:</content>
+              <paragraph label="1003-4-c-1" marker="(1)">
+                <content>The reasons it denied a loan application;</content>
+              </paragraph>
+              <paragraph label="1003-4-c-2" marker="(2)">
+                <content>Requests for preapproval that are approved by the institution but not accepted by the applicant; and</content>
+              </paragraph>
+              <paragraph label="1003-4-c-3" marker="(3)">
+                <content>Home-equity lines of credit made in whole or in part for the purpose of home improvement or home purchase.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-4-d" marker="(d)">
+              <title type="keyterm">Excluded data.</title>
+              <content>Excluded data. A financial institution shall not report:</content>
+              <paragraph label="1003-4-d-1" marker="(1)">
+                <content>Loans originated or purchased by the financial institution acting in a fiduciary capacity (such as trustee);</content>
+              </paragraph>
+              <paragraph label="1003-4-d-2" marker="(2)">
+                <content>Loans on unimproved land;</content>
+              </paragraph>
+              <paragraph label="1003-4-d-3" marker="(3)">
+                <content>Temporary financing (such as bridge or construction loans);</content>
+              </paragraph>
+              <paragraph label="1003-4-d-4" marker="(4)">
+                <content>The purchase of an interest in a pool of loans (such as mortgage-participation certificates, mortgage-backed securities, or real estate mortgage investment conduits);</content>
+              </paragraph>
+              <paragraph label="1003-4-d-5" marker="(5)">
+                <content>The purchase solely of the right to service loans; or</content>
+              </paragraph>
+              <paragraph label="1003-4-d-6" marker="(6)">
+                <content>Loans acquired as part of a merger or acquisition, or as part of the acquisition of all of the assets and liabilities of a branch office as defined in § <ref target="1003-2" reftype="internal">1003.2</ref>.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-4-e" marker="(e)">
+              <title type="keyterm">Data reporting for banks and savings associations that are required to report data on small business, small farm, and community development lending under CRA.</title>
+              <content>Data reporting for banks and savings associations that are required to report data on small business, small farm, and community development lending under CRA. Banks and savings associations that are required to report data on small business, small farm, and community development lending under regulations that implement the Community Reinvestment Act of 1977 (<ref target="USC:12-2901" reftype="external">12 U.S.C. 2901</ref> et seq.) shall also collect the location of property located outside MSAs and <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> in which the institution has a home or branch office, or outside any MSA.</content>
+            </paragraph>
+          </section>
+          <section label="1003-5" sectionNum="5">
+            <subject>§ 1003.5 Disclosure and reporting.</subject>
+            <paragraph label="1003-5-a" marker="(a)">
+              <title type="keyterm">Reporting to agency.</title>
+              <content>Reporting to agency.</content>
+              <paragraph label="1003-5-a-1" marker="(1)">
+                <content>By March 1 following the calendar year for which the loan data are compiled, a financial institution shall send its complete loan/application register to the agency office specified in appendix <ref target="1003-A" reftype="internal">A</ref> of this part. The institution shall retain a copy for its records for at least three years.</content>
+              </paragraph>
+              <paragraph label="1003-5-a-2" marker="(2)">
+                <content>A subsidiary of a bank or savings association shall complete a separate loan/application register. The subsidiary shall submit the register, directly or through its parent, to the same agency as its parent.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-5-b" marker="(b)">
+              <title type="keyterm">Public disclosure of statement.</title>
+              <content>Public disclosure of statement.</content>
+              <paragraph label="1003-5-b-1" marker="(1)">
+                <content>The Federal Financial Institutions Examination Council (FFIEC) will prepare a disclosure statement from the data each financial institution submits.</content>
+              </paragraph>
+              <paragraph label="1003-5-b-2" marker="(2)">
+                <content>An institution shall make its disclosure statement (prepared by the FFIEC) available to the public at the institution's home office no later than three business days after receiving the disclosure statement from the FFIEC.</content>
+              </paragraph>
+              <paragraph label="1003-5-b-3" marker="(3)">
+                <content>In addition, an institution shall either:</content>
+                <paragraph label="1003-5-b-3-i" marker="(i)">
+                  <content>Make its disclosure statement available to the public, within ten business days of receiving it, in at least one branch office in each other MSA and each other <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref> where the institution has offices (the disclosure statement need only contain data relating to the MSA or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref> where the branch is located); or</content>
+                </paragraph>
+                <paragraph label="1003-5-b-3-ii" marker="(ii)">
+                  <content>Post the address for sending written requests in the lobby of each branch office in other MSAs and <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> where the institution has offices; and mail or deliver a copy of the disclosure statement within fifteen calendar days of receiving a written request (the disclosure statement need only contain data relating to the MSA or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref> for which the request is made). Including the address in the general notice required under paragraph <ref target="1003-5-e" reftype="internal">(e)</ref> of this section satisfies this requirement.</content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-5-c" marker="(c)">
+              <title type="keyterm">Public disclosure of modified loan/application register.</title>
+              <content>Public disclosure of modified loan/application register. A financial institution shall make its loan/application register available to the public after removing the following information regarding each entry: The application or loan number, the date that the application was received, and the date action was taken. An institution shall make its modified register available following the calendar year for which the data are compiled, by March 31 for a request received on or before March 1, and within thirty calendar days for a request received after March 1. The modified register need only contain data relating to the MSA or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref> for which the request is made.</content>
+            </paragraph>
+            <paragraph label="1003-5-d" marker="(d)">
+              <title type="keyterm">Availability of data.</title>
+              <content>Availability of data. A financial institution shall make its modified register available to the public for a period of three years and its disclosure statement available for a period of five years. An institution shall make the data available for inspection and copying during the hours the office is normally open to the public for business. It may impose a reasonable fee for any cost incurred in providing or reproducing the data.</content>
+            </paragraph>
+            <paragraph label="1003-5-e" marker="(e)">
+              <title type="keyterm">Notice of availability.</title>
+              <content>Notice of availability. A financial institution shall post a general notice about the availability of its HMDA data in the lobby of its home office and of each branch office located in an MSA and <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>. An institution shall provide promptly upon request the location of the institution's offices where the statement is available for inspection and copying, or it may include the location in the lobby notice.</content>
+            </paragraph>
+            <paragraph label="1003-5-f" marker="(f)">
+              <title type="keyterm">Loan aggregation and central data depositories.</title>
+              <content>Loan aggregation and central data depositories. Using the loan data submitted by financial institutions, the FFIEC will produce reports for individual institutions and reports of aggregate data for each MSA and <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>, showing lending patterns by property location, age of housing stock, and income level, sex, ethnicity, and race. These reports will be available to the public at central data depositories located in each MSA and <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>. A listing of central data depositories can be obtained from the Federal Financial Institutions Examination Council, Washington, DC 20006.</content>
+            </paragraph>
+          </section>
+          <section label="1003-6" sectionNum="6">
+            <subject>§ 1003.6 Enforcement.</subject>
+            <paragraph label="1003-6-a" marker="(a)">
+              <title type="keyterm">Administrative enforcement.</title>
+              <content>Administrative enforcement. A violation of <ref target="USC:12-2601" reftype="external">the Act</ref> or this part is subject to administrative sanctions as provided in section 305 of <ref target="USC:12-2601" reftype="external">the Act</ref>, including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed in section 305 of <ref target="USC:12-2601" reftype="external">the Act</ref> (<ref target="USC:12-2804" reftype="external">12 U.S.C. 2804</ref>).</content>
+            </paragraph>
+            <paragraph label="1003-6-b" marker="(b)">
+              <title type="keyterm">Bona fide errors.</title>
+              <content>Bona fide errors.</content>
+              <paragraph label="1003-6-b-1" marker="(1)">
+                <content>An error in compiling or recording loan data is not a violation of the act or this part if the error was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such errors.</content>
+              </paragraph>
+              <paragraph label="1003-6-b-2" marker="(2)">
+                <content>An incorrect entry for a census tract number is deemed a bona fide error, and is not a violation of the act or this part, provided that the institution maintains procedures reasonably adapted to avoid such errors.</content>
+              </paragraph>
+              <paragraph label="1003-6-b-3" marker="(3)">
+                <content>If an institution makes a good-faith effort to record all data concerning covered transactions fully and accurately within thirty calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the error or omission is not a violation of the act or this part provided that the institution corrects or completes the information prior to submitting the loan/application register to its regulatory agency.</content>
+              </paragraph>
+            </paragraph>
+          </section>
+        </content>
+      </subpart>
+      <appendix appendixLetter="A" label="1003-A">
+        <appendixTitle>Appendix A to Part 1003—Form and Instructions for Completion of HMDA Loan/Application Register</appendixTitle>
+        <tableOfContents>
+          <tocAppEntry target="1003-A-h1">
+            <appendixLetter>h1</appendixLetter>
+            <appendixSubject>Paperwork Reduction Act Notice</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1003-A-h2">
+            <appendixLetter>h2</appendixLetter>
+            <appendixSubject>I. Instructions for Completion of Loan/Application Register</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1003-A-h11">
+            <appendixLetter>h11</appendixLetter>
+            <appendixSubject>II. Appropriate Federal Agencies for HMDA Reporting</appendixSubject>
+          </tocAppEntry>
+        </tableOfContents>
+        <appendixSection appendixSecNum="1" label="1003-A-h1">
+          <subject>Paperwork Reduction Act Notice</subject>
+          <paragraph label="1003-A-h1-p1" marker="">
+            <content>This report is required by law (<ref target="USC:12-2801" reftype="external">12 U.S.C. 2801</ref>-2810 and 12 CFR 1003). An agency may not conduct or sponsor, and an organization is not required to respond to, a collection of information unless it displays a valid Office of Management and Budget (OMB) Control Number. See <ref target="CFR:12-1003-1" reftype="external">12 CFR 1003.1</ref><ref target="1003-1-a" reftype="internal">12 CFR 1003.1(a)</ref> for the valid OMB Control Numbers applicable to this information collection. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to the respective agencies and to OMB, Office of Information and Regulatory Affairs, Paperwork Reduction Project, Washington, DC 20503. Be sure to reference the applicable agency and the OMB Control Number, as found in <ref target="CFR:12-1003-1" reftype="external">12 CFR 1003.1</ref><ref target="1003-1-a" reftype="internal">12 CFR 1003.1(a)</ref>, when submitting comments to OMB.</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="2" label="1003-A-h2">
+          <subject>I. Instructions for Completion of Loan/Application Register</subject>
+          <paragraph label="1003-A-h2-h3" marker="">
+            <title>A. Application or Loan Information</title>
+            <content/>
+            <paragraph label="1003-A-h2-h3-1" marker="1.">
+              <content>Application or Loan Number. Enter an identifying loan number that can be used later to retrieve the loan or application file. It can be any number of your institution's choosing (not exceeding 25 characters). You may use letters, numerals, or a combination of both.</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-2" marker="2.">
+              <content>Date Application Received. Enter the date the loan application was received by your institution by month, day, and year. If your institution normally records the date shown on the application form you may use that date instead. Enter “NA” for loans purchased by your institution. For paper submissions only, use numerals in the form MM/DD/YYYY (for example, 01/15/2003). For submissions in electronic form, the proper format is YYYYMMDD.</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-3" marker="3.">
+              <content>Type of Loan or Application. Indicate the type of loan or application by entering the applicable Code from the following:</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p2" marker="">
+              <content>Code 1—Conventional (any loan other than FHA, VA, FSA, or RHS loans)</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p3" marker="">
+              <content>Code 2—FHA-insured (Federal Housing Administration)</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p4" marker="">
+              <content>Code 3—VA-guaranteed (Veterans Administration)</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p5" marker="">
+              <content>Code 4—FSA/RHS-guaranteed (Farm Service Agency or Rural Housing Service)</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-4" marker="4.">
+              <content>Property Type. Indicate the property type by entering the applicable Code from the following:</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p6" marker="">
+              <content>Code 1—One-to four-family dwelling (other than manufactured housing)</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p7" marker="">
+              <content>Code 2—Manufactured housing</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p8" marker="">
+              <content>Code 3—Multifamily dwelling</content>
+              <paragraph label="1003-A-h2-h3-p8-a" marker="a.">
+                <content>Use Code 1, not Code 3, for loans on individual condominium or cooperative units.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h3-p8-b" marker="b.">
+                <content>If you cannot determine (despite reasonable efforts to find out) whether the loan or application relates to a manufactured home, use Code 1.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-5" marker="5.">
+              <content>Purpose of Loan or Application. Indicate the purpose of the loan or application by entering the applicable Code from the following:</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p9" marker="">
+              <content>Code 1—Home purchase</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p10" marker="">
+              <content>Code 2—Home improvement</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p11" marker="">
+              <content>Code 3—Refinancing</content>
+              <paragraph label="1003-A-h2-h3-p11-a" marker="a.">
+                <content>Do not report a refinancing if, under the loan agreement, you were unconditionally obligated to refinance the obligation, or you were obligated to refinance the obligation subject to conditions within the borrower's control.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-6" marker="6.">
+              <content>Owner Occupancy. Indicate whether the property to which the loan or loan application relates is to be owner-occupied as a principal residence by entering the applicable Code from the following:</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p12" marker="">
+              <content>Code 1—Owner-occupied as a principal dwelling</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p13" marker="">
+              <content>Code 2—Not owner-occupied as a principal dwelling</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p14" marker="">
+              <content>Code 3—Not applicable</content>
+              <paragraph label="1003-A-h2-h3-p14-a" marker="a.">
+                <content>For purchased loans, use Code 1 unless the loan documents or application indicate that the property will not be owner-occupied as a principal residence.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h3-p14-b" marker="b.">
+                <content>Use Code 2 for second homes or vacation homes, as well as for rental properties.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h3-p14-c" marker="c.">
+                <content>Use Code 3 if the property to which the loan relates is a multifamily dwelling; is not located in an MSA; or is located in an MSA or an <ref target="1003-2-p1-Metropolitan-2" reftype="term">MD</ref> in which your institution has neither a home nor a branch office. Alternatively, at your institution's option, you may report the actual occupancy status, using Code 1 or 2 as applicable.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-7" marker="7.">
+              <content>Loan Amount. Enter the amount of the loan or application. Do not report loans below $500. Show the amount in thousands, rounding to the nearest thousand (round $500 up to the next $1,000). For example, a loan for $167,300 should be entered as 167 and one for $15,500 as 16.</content>
+              <paragraph label="1003-A-h2-h3-7-a" marker="a.">
+                <content>For a home purchase loan that you originated, enter the principal amount of the loan.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h3-7-b" marker="b.">
+                <content>For a home purchase loan that you purchased, enter the unpaid principal balance of the loan at the time of purchase.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h3-7-c" marker="c.">
+                <content>For a home improvement loan, enter the entire amount of the loan—including unpaid finance charges if that is how such loans are recorded on your books—even if only a part of the proceeds is intended for home improvement.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h3-7-d" marker="d.">
+                <content>If you opt to report home-equity lines of credit, report only the portion of the line intended for home improvement or home purchase.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h3-7-e" marker="e.">
+                <content>For a refinancing, indicate the total amount of the refinancing, including both the amount outstanding on the original loan and any amount of “new money.”</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h3-7-f" marker="f.">
+                <content>For a loan application that was denied or withdrawn, enter the amount for which the applicant applied.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-8" marker="8.">
+              <content>Request for Preapproval of a Home Purchase Loan. Indicate whether the application or loan involved a request for preapproval of a home purchase loan by entering the applicable Code from the following:</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p15" marker="">
+              <content>Code 1—Preapproval requested</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p16" marker="">
+              <content>Code 2—Preapproval not requested</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h3-p17" marker="">
+              <content>Code 3—Not applicable</content>
+              <paragraph label="1003-A-h2-h3-p17-a" marker="a.">
+                <content>Enter Code 2 if your institution has a covered preapproval program but the applicant does not request a preapproval.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h3-p17-b" marker="b.">
+                <content>Enter Code 3 if your institution does not have a preapproval program as defined in § <ref target="1003-2" reftype="internal">1003.2</ref>.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h3-p17-c" marker="c.">
+                <content>Enter Code 3 for applications or loans for home improvement or refinancing, and for purchased loans.</content>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1003-A-h2-h4" marker="">
+            <title>B. Action Taken</title>
+            <content/>
+            <paragraph label="1003-A-h2-h4-1" marker="1.">
+              <content>Type of Action. Indicate the type of action taken on the application or loan by using one of the following Codes.</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h4-p18" marker="">
+              <content>Code 1—Loan originated</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h4-p19" marker="">
+              <content>Code 2—Application approved but not accepted</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h4-p20" marker="">
+              <content>Code 3—Application denied</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h4-p21" marker="">
+              <content>Code 4—Application withdrawn</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h4-p22" marker="">
+              <content>Code 5—File closed for incompleteness</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h4-p23" marker="">
+              <content>Code 6—Loan purchased by your institution</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h4-p24" marker="">
+              <content>Code 7—Preapproval request denied</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h4-p25" marker="">
+              <content>Code 8—Preapproval request approved but not accepted (optional reporting)</content>
+              <paragraph label="1003-A-h2-h4-p25-a" marker="a.">
+                <content>Use Code 1 for a loan that is originated, including one resulting from a request for preapproval.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h4-p25-b" marker="b.">
+                <content>For a counteroffer (your offer to the applicant to make the loan on different terms or in a different amount from the terms or amount applied for), use Code 1 if the applicant accepts. Use Code 3 if the applicant turns down the counteroffer or does not respond.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h4-p25-c" marker="c.">
+                <content>Use Code 2 when the application is approved but the applicant (or the loan broker or correspondent) fails to respond to your notification of approval or your commitment letter within the specified time. Do not use this Code for a preapproval request.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h4-p25-d" marker="d.">
+                <content>Use Code 4 only when the application is expressly withdrawn by the applicant before a credit decision is made. Do not use Code 4 if a request for preapproval is withdrawn; preapproval requests that are withdrawn are not reported under HMDA.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h4-p25-e" marker="e.">
+                <content>Use Code 5 if you sent a written notice of incompleteness under § 1002.9(c)(2) of Regulation B (Equal Credit Opportunity) and the applicant did not respond to your request for additional information within the period of time specified in your notice. Do not use this Code for requests for preapproval that are incomplete; these preapproval requests are not reported under HMDA.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-A-h2-h4-2" marker="2.">
+              <content>Date of Action. For paper submissions only, enter the date by month, day, and year, using numerals in the form MM/DD/YYYY (for example, 02/22/2003). For submissions in electronic form, the proper format is YYYYMMDD.</content>
+              <paragraph label="1003-A-h2-h4-2-a" marker="a.">
+                <content>For loans originated, enter the settlement or closing date.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h4-2-b" marker="b.">
+                <content>For loans purchased, enter the date of purchase by your institution.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h4-2-c" marker="c.">
+                <content>For applications and preapprovals denied, applications and preapprovals approved but not accepted by the applicant, and files closed for incompleteness, enter the date that the action was taken by your institution or the date the notice was sent to the applicant.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h4-2-d" marker="d.">
+                <content>For applications withdrawn, enter the date you received the applicant's express withdrawal, or enter the date shown on the notification from the applicant, in the case of a written withdrawal.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h4-2-e" marker="e.">
+                <content>For preapprovals that lead to a loan origination, enter the date of the origination.</content>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1003-A-h2-h5" marker="">
+            <title>C. Property Location</title>
+            <content/>
+            <paragraph label="1003-A-h2-h5-p26" marker="">
+              <content>Except as otherwise provided, enter in these columns the applicable Codes for the MSA, or the <ref target="1003-2-p1-Metropolitan-2" reftype="term">MD</ref> if the MSA is divided into <ref target="1003-2-p1-Metropolitan-2" reftype="term">MDs</ref>, state, county, and census tract to indicate the location of the property to which a loan relates.</content>
+              <paragraph label="1003-A-h2-h5-p26-1" marker="1.">
+                <content>MSA or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>.—For each loan or loan application, enter the MSA, or the <ref target="1003-2-p1-Metropolitan-2" reftype="term">MD</ref> number if the MSA is divided into <ref target="1003-2-p1-Metropolitan-2" reftype="term">MDs</ref>. MSA and <ref target="1003-2-p1-Metropolitan-2" reftype="term">MD</ref> boundaries are defined by OMB; use the boundaries that were in effect on January 1 of the calendar year for which you are reporting. A listing of MSAs and <ref target="1003-2-p1-Metropolitan-2" reftype="term">MDs</ref> is available from the appropriate Federal agency to which you report data or the FFIEC.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h5-p26-2" marker="2.">
+                <content>State and County. Use the Federal Information Processing Standard (FIPS) two-digit numerical code for the state and the three-digit numerical code for the county. These codes are available from the appropriate Federal agency to which you report data or the FFIEC.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h5-p26-3" marker="3.">
+                <content>Census Tract.—Indicate the census tract where the property is located. Notwithstanding paragraph 6, if the property is located in a county with a population of 30,000 or less in the 2000 Census, enter “NA” (even if the population has increased above 30,000 since 2000), or enter the census tract number. County population data can be obtained from the U.S. Census Bureau.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h5-p26-4" marker="4.">
+                <content>Census Tract Number.—For the census tract number, consult the resources provided by the U.S. Census Bureau or the FFIEC.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h5-p26-5" marker="5.">
+                <content>Property Located Outside MSAs or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Divisions</ref>.—For loans on property located outside the MSAs and <ref target="1003-2-p1-Metropolitan-2" reftype="term">MDs</ref> in which an institution has a home or branch office, or for property located outside of any MSA or <ref target="1003-2-p1-Metropolitan-2" reftype="term">MD</ref>, the institution may choose one of the following two options. Under option one, the institution may enter the MSA or <ref target="1003-2-p1-Metropolitan-2" reftype="term">MD</ref>, state and county codes and the census tract number; and if the property is not located in any MSA or <ref target="1003-2-p1-Metropolitan-2" reftype="term">MD</ref>, the institution may enter “NA” in the MSA or <ref target="1003-2-p1-Metropolitan-2" reftype="term">MD</ref> column. (Codes exist for all states and counties and numbers exist for all census tracts.) Under this first option, the codes and census tract number must accurately identify the property location. Under the second option, which is not available if paragraph 6 applies, an institution may enter “NA” in all four columns, whether or not the codes or numbers exist for the property location.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h5-p26-6" marker="6.">
+                <content>Data Reporting for Banks and Savings Associations Required To Report Data on Small Business, Small Farm, and Community Development Lending Under the CRA Regulations.—If your institution is a bank or savings association that is required to report data under the regulations that implement the CRA, you must enter the property location on your HMDA/LAR even if the property is outside the MSAs or <ref target="1003-2-p1-Metropolitan-2" reftype="term">MDs</ref> in which you have a home or branch office, or is not located in any MSA.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h5-p26-7" marker="7.">
+                <content>Requests for Preapproval. Notwithstanding paragraphs 1 through 6, if the application is a request for preapproval that is denied or that is approved but not accepted by the applicant, you may enter “NA” in all four columns.</content>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1003-A-h2-h6" marker="">
+            <title>D. Applicant Information—Ethnicity, Race, Sex, and Income</title>
+            <content/>
+            <paragraph label="1003-A-h2-h6-p27" marker="">
+              <content>Appendix <ref target="1003-B" reftype="internal">B</ref> contains instructions for the collection of data on ethnicity, race, and sex, and also contains a sample form for data collection.</content>
+              <paragraph label="1003-A-h2-h6-p27-1" marker="1.">
+                <content>Applicability. Report this information for loans that you originate as well as for applications that do not result in an origination.</content>
+                <paragraph label="1003-A-h2-h6-p27-1-a" marker="a.">
+                  <content>You need not collect or report this information for loans purchased. If you choose not to report this information, use the Codes for “not applicable.”</content>
+                </paragraph>
+                <paragraph label="1003-A-h2-h6-p27-1-b" marker="b.">
+                  <content>If the borrower or applicant is not a natural person (a corporation or partnership, for example), use the Codes for “not applicable.”</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-2" marker="2.">
+                <content>Mail, Internet, or Telephone Applications.—All loan applications, including applications taken by mail, internet, or telephone must use a collection form similar to that shown in appendix <ref target="1003-B" reftype="internal">B</ref> regarding ethnicity, race, and sex. For applications taken by telephone, the information in the collection form must be stated orally by the lender, except for information that pertains uniquely to applications taken in writing. If the applicant does not provide these data in an application taken by mail or telephone or on the internet, enter the Code for “information not provided by applicant in mail, internet, or telephone application” specified in paragraphs I.D.3., 4., and 5. of this appendix. (See appendix <ref target="1003-B" reftype="internal">B</ref> for complete information on the collection of these data in mail, Internet, or telephone applications.)</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-3" marker="3.">
+                <content>Ethnicity of Borrower or Applicant. Use the following Codes to indicate the ethnicity of the applicant or borrower under column “A” and of any co-applicant or co-borrower under column “CA.”</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p28" marker="">
+                <content>Code 1—Hispanic or Latino</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p29" marker="">
+                <content>Code 2—Not Hispanic or Latino</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p30" marker="">
+                <content>Code 3—Information not provided by applicant in mail, internet, or telephone application</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p31" marker="">
+                <content>Code 4—Not applicable</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p32" marker="">
+                <content>Code 5—No co-applicant</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-4" marker="4.">
+                <content>Race of Borrower or Applicant. Use the following Codes to indicate the race of the applicant or borrower under column “A” and of any co-applicant or co-borrower under column “CA.”</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p33" marker="">
+                <content>Code 1—American Indian or Alaska Native</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p34" marker="">
+                <content>Code 2—Asian</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p35" marker="">
+                <content>Code 3—Black or African American</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p36" marker="">
+                <content>Code 4—Native Hawaiian or Other Pacific Islander</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p37" marker="">
+                <content>Code 5—White</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p38" marker="">
+                <content>Code 6—Information not provided by applicant in mail, internet, or telephone application</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p39" marker="">
+                <content>Code 7—Not applicable</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p40" marker="">
+                <content>Code 8—No co-applicant</content>
+                <paragraph label="1003-A-h2-h6-p27-p40-a" marker="a.">
+                  <content>If an applicant selects more than one racial designation, enter all Codes corresponding to the applicant's selections.</content>
+                </paragraph>
+                <paragraph label="1003-A-h2-h6-p27-p40-b" marker="b.">
+                  <content>Use Code 4 (for ethnicity) and Code 7 (for race) for “not applicable” only when the applicant or co-applicant is not a natural person or when applicant or co-applicant information is unavailable because the loan has been purchased by your institution.</content>
+                </paragraph>
+                <paragraph label="1003-A-h2-h6-p27-p40-c" marker="c.">
+                  <content>If there is more than one co-applicant, provide the required information only for the first co-applicant listed on the application form. If there are no co-applicants or co-borrowers, use Code 5 (for ethnicity) and Code 8 (for race) for “no co-applicant” in the co-applicant column.</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-5" marker="5.">
+                <content>Sex of Borrower or Applicant. Use the following Codes to indicate the sex of the applicant or borrower under column “A” and of any co-applicant or co-borrower under column “CA.”</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p41" marker="">
+                <content>Code 1—Male</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p42" marker="">
+                <content>Code 2—Female</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p43" marker="">
+                <content>Code 3—Information not provided by applicant in mail, internet, or telephone application</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p44" marker="">
+                <content>Code 4—Not applicable</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-p45" marker="">
+                <content>Code 5—No co-applicant or co-borrower</content>
+                <paragraph label="1003-A-h2-h6-p27-p45-a" marker="a.">
+                  <content>Use Code 4 for “not applicable” only when the applicant or co-applicant is not a natural person or when applicant or co-applicant information is unavailable because the loan has been purchased by your institution.</content>
+                </paragraph>
+                <paragraph label="1003-A-h2-h6-p27-p45-b" marker="b.">
+                  <content>If there is more than one co-applicant, provide the required information only for the first co-applicant listed on the application form. If there are no co-applicants or co-borrowers, use Code 5 for “no co-applicant” in the co-applicant column.</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1003-A-h2-h6-p27-6" marker="6.">
+                <content>Income. Enter the gross annual income that your institution relied on in making the credit decision.</content>
+                <paragraph label="1003-A-h2-h6-p27-6-a" marker="a.">
+                  <content>Round all dollar amounts to the nearest thousand (round $500 up to the next $1,000), and show in thousands. For example, report $35,500 as 36.</content>
+                </paragraph>
+                <paragraph label="1003-A-h2-h6-p27-6-b" marker="b.">
+                  <content>For loans on multifamily dwellings, enter “NA.”</content>
+                </paragraph>
+                <paragraph label="1003-A-h2-h6-p27-6-c" marker="c.">
+                  <content>If no income information is asked for or relied on in the credit decision, enter “NA.”</content>
+                </paragraph>
+                <paragraph label="1003-A-h2-h6-p27-6-d" marker="d.">
+                  <content>If the applicant or co-applicant is not a natural person or the applicant or co-applicant information is unavailable because the loan has been purchased by your institution, enter “NA.”</content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1003-A-h2-h7" marker="">
+            <title>E. Type of Purchaser</title>
+            <content/>
+            <paragraph label="1003-A-h2-h7-p46" marker="">
+              <content>Enter the applicable Code to indicate whether a loan that your institution originated or purchased was then sold to a secondary market entity within the same calendar year:</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h7-p47" marker="">
+              <content>Code 0—Loan was not originated or was not sold in calendar year covered by register</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h7-p48" marker="">
+              <content>Code 1—Fannie Mae</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h7-p49" marker="">
+              <content>Code 2—Ginnie Mae</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h7-p50" marker="">
+              <content>Code 3—Freddie Mac</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h7-p51" marker="">
+              <content>Code 4—Farmer Mac</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h7-p52" marker="">
+              <content>Code 5—Private securitization</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h7-p53" marker="">
+              <content>Code 6—Commercial bank, savings bank, or savings association</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h7-p54" marker="">
+              <content>Code 7—Life insurance company, credit union, mortgage bank, or finance company</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h7-p55" marker="">
+              <content>Code 8—Affiliate institution</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h7-p56" marker="">
+              <content>Code 9—Other type of purchaser</content>
+              <paragraph label="1003-A-h2-h7-p56-a" marker="a.">
+                <content>Use Code 0 for applications that were denied, withdrawn, or approved but not accepted by the applicant; and for files closed for incompleteness.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h7-p56-b" marker="b.">
+                <content>Use Code 0 if you originated or purchased a loan and did not sell it during that same calendar year. If you sell the loan in a succeeding year, you need not report the sale.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h7-p56-c" marker="c.">
+                <content>Use Code 2 if you conditionally assign a loan to Ginnie Mae in connection with a mortgage-backed security transaction.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h7-p56-d" marker="d.">
+                <content>Use Code 8 for loans sold to an institution affiliated with you, such as your subsidiary or a subsidiary of your parent corporation.</content>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1003-A-h2-h8" marker="">
+            <title>F. Reasons for Denial</title>
+            <content/>
+            <paragraph label="1003-A-h2-h8-1" marker="1.">
+              <content>You may report the reason for denial, and you may indicate up to three reasons, using the following Codes. Leave this column blank if the “action taken” on the application is not a denial. For example, do not complete this column if the application was withdrawn or the file was closed for incompleteness.</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h8-p57" marker="">
+              <content>Code 1—Debt-to-income ratio</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h8-p58" marker="">
+              <content>Code 2—Employment history</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h8-p59" marker="">
+              <content>Code 3—Credit history</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h8-p60" marker="">
+              <content>Code 4—Collateral</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h8-p61" marker="">
+              <content>Code 5—Insufficient cash (downpayment, closing costs)</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h8-p62" marker="">
+              <content>Code 6—Unverifiable information</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h8-p63" marker="">
+              <content>Code 7—Credit application incomplete</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h8-p64" marker="">
+              <content>Code 8—Mortgage insurance denied</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h8-p65" marker="">
+              <content>Code 9—Other</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h8-2" marker="2.">
+              <content>If your institution uses the model form for adverse action contained in appendix C to Regulation B (Form C-1, Sample Notification Form), use the foregoing Codes as follows:</content>
+              <paragraph label="1003-A-h2-h8-2-a" marker="a.">
+                <content>Code 1 for: Income insufficient for amount of credit requested, and Excessive obligations in relation to income.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h8-2-b" marker="b.">
+                <content>Code 2 for: Temporary or irregular employment, and Length of employment.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h8-2-c" marker="c.">
+                <content>Code 3 for: Insufficient number of credit references provided; Unacceptable type of credit references provided; No credit file; Limited credit experience; Poor credit performance with us; Delinquent past or present credit obligations with others; Garnishment, attachment, foreclosure, repossession, collection action, or judgment; and Bankruptcy.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h8-2-d" marker="d.">
+                <content>Code 4 for: Value or type of collateral not sufficient.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h8-2-e" marker="e.">
+                <content>Code 6 for: Unable to verify credit references; Unable to verify employment; Unable to verify income; and Unable to verify residence.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h8-2-f" marker="f.">
+                <content>Code 7 for: Credit application incomplete.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h8-2-g" marker="g.">
+                <content>Code 9 for: Length of residence; Temporary residence; and Other reasons specified on notice.</content>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1003-A-h2-h9" marker="">
+            <title>G. Pricing-Related Data</title>
+            <content/>
+            <paragraph label="1003-A-h2-h9-1" marker="1.">
+              <content>Rate Spread.</content>
+              <paragraph label="1003-A-h2-h9-1-a" marker="a.">
+                <content>For a home-purchase loan, a refinancing, or a dwelling-secured home improvement loan that you originated, report the spread between the annual percentage rate (APR) and the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> for a comparable transaction if the spread is equal to or greater than 1.5 percentage points for first-lien loans or 3.5 percentage points for subordinate-lien loans. To determine whether the rate spread meets this threshold, use the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> in effect for the type of transaction as of the date the interest rate was set, and use the APR for the loan, as calculated and disclosed to the consumer under §§ 1026.6 or 1026.18, as applicable, of Regulation Z (<ref target="CFR:12-1026" reftype="external">12 CFR part 1026</ref>). Current and historic <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> are set forth in the tables published on the FFIEC's Web site (http://www.ffiec.gov/hmda) entitled “<ref target="1003-4-a-12-ii" reftype="term">Average Prime Offer Rates</ref>-Fixed” and “<ref target="1003-4-a-12-ii" reftype="term">Average Prime Offer Rates</ref>-Adjustable.” Use the most recently available <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref>. “Most recently available” means the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> set forth in the applicable table with the most recent effective date as of the date the interest rate was set. Do not use an <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> before its effective date.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h9-1-b" marker="b.">
+                <content>If the loan is not subject to Regulation Z, or is a home improvement loan that is not dwelling-secured, or is a loan that you purchased, enter “NA.”</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h9-1-c" marker="c.">
+                <content>Enter “NA” in the case of an application that does not result in a loan origination.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h9-1-d" marker="d.">
+                <content>Enter the rate spread to two decimal places, and use a leading zero. For example, enter 03.29. If the difference between the APR and the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> is a figure with more than two decimal places, round the figure or truncate the digits beyond two decimal places.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h9-1-e" marker="e.">
+                <content>If the difference between the APR and the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> is less than 1.5 percentage points for a first-lien loan and less than 3.5 percentage points for a subordinate-lien loan, enter “NA.”</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1003-A-h2-h9-2" marker="2.">
+              <content>Date the interest rate was set. The relevant date to use to determine the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> for a comparable transaction is the date on which the loan's interest rate was set by the financial institution for the final time before closing. If an interest rate is set pursuant to a “lock-in” agreement between the lender and the borrower, then the date on which the agreement fixes the interest rate is the date the rate was set. If a rate is re-set after a lock-in agreement is executed (for example, because the borrower exercises a float-down option or the agreement expires), then the relevant date is the date the rate is re-set for the final time before closing. If no lock-in agreement is executed, then the relevant date is the date on which the institution sets the rate for the final time before closing.</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h9-3" marker="3.">
+              <content>HOEPA Status.</content>
+              <paragraph label="1003-A-h2-h9-3-a" marker="a.">
+                <content>For a loan that you originated or purchased that is subject to the Home Ownership and Equity Protection Act of 1994 (HOEPA), as implemented in Regulation Z (<ref target="CFR:12-1026-32" reftype="external">12 CFR 1026.32</ref>), because the APR or the points and fees on the loan exceed the HOEPA triggers, enter Code 1.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h9-3-b" marker="b.">
+                <content>Enter Code 2 in all other cases. For example, enter Code 2 for a loan that you originated or purchased that is not subject to the requirements of HOEPA for any reason; also enter Code 2 in the case of an application that does not result in a loan origination.</content>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1003-A-h2-h10" marker="">
+            <title>H. Lien Status</title>
+            <content/>
+            <paragraph label="1003-A-h2-h10-p66" marker="">
+              <content>Use the following Codes for loans that you originate and for applications that do not result in an origination:</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h10-p67" marker="">
+              <content>Code 1—Secured by a first lien.</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h10-p68" marker="">
+              <content>Code 2—Secured by a subordinate lien.</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h10-p69" marker="">
+              <content>Code 3—Not secured by a lien.</content>
+            </paragraph>
+            <paragraph label="1003-A-h2-h10-p70" marker="">
+              <content>Code 4—Not applicable (purchased loan).</content>
+              <paragraph label="1003-A-h2-h10-p70-a" marker="a.">
+                <content>Use Codes 1 through 3 for loans that you originate, as well as for applications that do not result in an origination (applications that are approved but not accepted, denied, withdrawn, or closed for incompleteness).</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h10-p70-b" marker="b.">
+                <content>Use Code 4 for loans that you purchase.</content>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="3" label="1003-A-h11">
+          <subject>II. Appropriate Federal Agencies for HMDA Reporting</subject>
+          <paragraph label="1003-A-h11-A" marker="A.">
+            <content>You are strongly encouraged to submit your loan/application register via email. If you elect to use this method of transmission and the appropriate Federal agency for your institution is the Bureau of Consumer Financial Protection, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, or the National Credit Union Administration, then you should submit your institution's files to the email address dedicated to that purpose by the Bureau, which can be found on the Web site of the FFIEC. If one of the foregoing agencies is the appropriate Federal agency for your institution and you elect to submit your data by regular mail, then use the following address: HMDA, Federal Reserve Board, Attention: HMDA Processing, (insert name of the appropriate Federal agency for your institution), 20th and Constitution Ave NW., MS N502, Washington, DC 20551-0001.</content>
+          </paragraph>
+          <paragraph label="1003-A-h11-B" marker="B.">
+            <content>If the Federal Reserve System (but not the Bureau of Consumer Financial Protection) is the appropriate Federal agency for your institution, you should use the email or regular mail address of your district bank indicated on the Web site of the FFIEC. If the Department of Housing and Urban Development is the appropriate Federal agency for your institution, then you should use the email or regular mail address indicated on the Web site of the FFIEC.</content>
+          </paragraph>
+          <paragraph label="1003-A-h11-p71" marker="">
+            <content>
+              <graphic>
+                <altText></altText>
+                <text>![](ER19DE11.016)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER19DE11.016/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1003-A-h11-p72" marker="">
+            <content>
+              <graphic>
+                <altText></altText>
+                <text>![](ER19DE11.017)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER19DE11.017/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1003-A-h11-p73" marker="">
+            <content>
+              <graphic>
+                <altText></altText>
+                <text>![](ER19DE11.018)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER19DE11.018/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+        </appendixSection>
+      </appendix>
+      <appendix appendixLetter="B" label="1003-B">
+        <appendixTitle>Appendix B to Part 1003—Form and Instructions for Data Collection on Ethnicity, Race, and Sex</appendixTitle>
+        <tableOfContents>
+          <tocAppEntry target="1003-B-h1">
+            <appendixLetter>h1</appendixLetter>
+            <appendixSubject>I. Instructions on Collection of Data on Ethnicity, Race, and Sex</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1003-B-h2">
+            <appendixLetter>h2</appendixLetter>
+            <appendixSubject>II. Procedures</appendixSubject>
+          </tocAppEntry>
+        </tableOfContents>
+        <appendixSection appendixSecNum="1" label="1003-B-h1">
+          <subject>I. Instructions on Collection of Data on Ethnicity, Race, and Sex</subject>
+          <paragraph label="1003-B-h1-p1" marker="">
+            <content>You may list questions regarding the ethnicity, race, and sex of the applicant on your loan application form, or on a separate form that refers to the application. (See the sample form below for model language.)</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="2" label="1003-B-h2">
+          <subject>II. Procedures</subject>
+          <paragraph label="1003-B-h2-A" marker="A.">
+            <content>You must ask the applicant for this information (but you cannot require the applicant to provide it) whether the application is taken in person, by mail or telephone, or on the internet. For applications taken by telephone, the information in the collection form must be stated orally by the lender, except for that information which pertains uniquely to applications taken in writing.</content>
+          </paragraph>
+          <paragraph label="1003-B-h2-B" marker="B.">
+            <content>Inform the applicant that the Federal government requests this information in order to monitor compliance with Federal statutes that prohibit lenders from discriminating against applicants on these bases. Inform the applicant that if the information is not provided where the application is taken in person, you are required to note the data on the basis of visual observation or surname.</content>
+          </paragraph>
+          <paragraph label="1003-B-h2-C" marker="C.">
+            <content>You must offer the applicant the option of selecting one or more racial designations.</content>
+          </paragraph>
+          <paragraph label="1003-B-h2-D" marker="D.">
+            <content>If the applicant chooses not to provide the information for an application taken in person, note this fact on the form and then note the applicant's ethnicity, race, and sex on the basis of visual observation and surname, to the extent possible.</content>
+          </paragraph>
+          <paragraph label="1003-B-h2-E" marker="E.">
+            <content>If the applicant declines to answer these questions or fails to provide the information on an application taken by mail or telephone or on the internet, the data need not be provided. In such a case, indicate that the application was received by mail, telephone, or Internet, if it is not otherwise evident on the face of the application.</content>
+          </paragraph>
+          <paragraph label="1003-B-h2-p2" marker="">
+            <content>
+              <graphic>
+                <altText></altText>
+                <text>![](ER19DE11.019)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER19DE11.019/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+        </appendixSection>
+      </appendix>
+      <interpretations label="1003-Interp">
+        <title>Supplement I to Part 1003—Staff Commentary</title>
+        <interpSection label="1003-Interp-h1">
+          <title>Introduction</title>
+          <interpParagraph label="1003-Interp-h1-1" target="1003-h1-1">
+            <content>Status. The commentary in this supplement is the vehicle by which the Bureau of Consumer Financial Protection issues formal staff interpretations of Regulation C (<ref target="CFR:12-1003" reftype="external">12 CFR part 1003</ref>).</content>
+          </interpParagraph>
+        </interpSection>
+        <interpSection label="1003-1-Interp" sectionNum="1">
+          <title>Section 1003.1—Authority, Purpose, and Scope</title>
+          <interpParagraph label="1003-1-Interp-1" target="1003-1-1">
+            <content>General. The comments in this section address issues affecting coverage of institutions and exemptions from coverage.</content>
+          </interpParagraph>
+          <interpParagraph label="1003-1-Interp-2" target="1003-1-2">
+            <content>The broker rule and the meaning of “broker” and “investor.” For the purposes of the guidance given in this commentary, an institution that takes and processes a loan application and arranges for another institution to acquire the loan at or after closing is acting as a “broker,” and an institution that acquires a loan from a broker at or after closing is acting as an “investor.” (The terms used in this commentary may have different meanings in certain parts of the mortgage lending industry, and other terms may be used in place of these terms, for example in the Federal Housing Administration mortgage insurance programs.) Depending on the facts, a broker may or may not make a credit decision on an application (and thus it may or may not have reporting responsibilities). If the broker makes a credit decision, it reports that decision; if it does not make a credit decision, it does not report. If an investor reviews an application and makes a credit decision prior to closing, the investor reports that decision. If the investor does not review the application prior to closing, it reports only the loans that it purchases; it does not report the loans it does not purchase. An institution that makes a credit decision on an application prior to closing reports that decision regardless of whose name the loan closes in.</content>
+          </interpParagraph>
+          <interpParagraph label="1003-1-Interp-3" target="1003-1-3">
+            <content>Illustrations of the broker rule. Assume that, prior to closing, four investors receive the same application from a broker; two deny it, one approves it, and one approves it and acquires the loan. In these circumstances, the first two report denials, the third reports the transaction as approved but not accepted, and the fourth reports an origination (whether the loan closes in the name of the broker or the investor). Alternatively, assume that the broker denies a loan before sending it to an investor; in this situation, the broker reports a denial.</content>
+          </interpParagraph>
+          <interpParagraph label="1003-1-Interp-4" target="1003-1-4">
+            <content>Broker's use of investor's underwriting criteria. If a broker makes a credit decision based on underwriting criteria set by an investor, but without the investor's review prior to closing, the broker has made the credit decision. The broker reports as an origination a loan that it approves and closes, and reports as a denial an application that it turns down (either because the application does not meet the investor's underwriting guidelines or for some other reason). The investor reports as purchases only those loans it purchases.</content>
+          </interpParagraph>
+          <interpParagraph label="1003-1-Interp-5" target="1003-1-5">
+            <content>Insurance and other criteria. If an institution evaluates an application based on the criteria or actions of a third party other than an investor (such as a government or private insurer or guarantor), the institution must report the action taken on the application (loan originated, approved but not accepted, or denied, for example).</content>
+          </interpParagraph>
+          <interpParagraph label="1003-1-Interp-6" target="1003-1-6">
+            <content>Credit decision of agent is decision of principal. If an institution approves loans through the actions of an agent, the institution must report the action taken on the application (loan originated, approved but not accepted, or denied, for example). State law determines whether one party is the agent of another.</content>
+          </interpParagraph>
+          <interpParagraph label="1003-1-Interp-7" target="1003-1-7">
+            <content>Affiliate bank underwriting (250.250 review). If an institution makes an independent evaluation of the creditworthiness of an applicant (for example, as part of a preclosing review by an affiliate bank under <ref target="CFR:12-250-250" reftype="external">12 CFR 250.250</ref>, a regulation of the Board of Governors of the Federal Reserve System that interprets section 23A of the Federal Reserve Act), the institution is making a credit decision. If the institution then acquires the loan, it reports the loan as an origination whether the loan closes in the name of the institution or its affiliate. An institution that does not acquire the loan but takes some other action reports that action.</content>
+          </interpParagraph>
+          <interpParagraph label="1003-1-Interp-8" target="1003-1-8">
+            <content>Participation loan. An institution that originates a loan and then sells partial interests to other institutions reports the loan as an origination. An institution that acquires only a partial interest in such a loan does not report the transaction even if it has participated in the underwriting and origination of the loan.</content>
+          </interpParagraph>
+          <interpParagraph label="1003-1-Interp-9" target="1003-1-9">
+            <content>Assumptions. An assumption occurs when an institution enters into a written agreement accepting a new borrower as the obligor on an existing obligation. An institution reports an assumption (or an application for an assumption) as a home purchase loan in the amount of the outstanding principal. If a transaction does not involve a written agreement between a new borrower and the institution, it is not an assumption for HMDA purposes and is not reported.</content>
+          </interpParagraph>
+        </interpSection>
+        <interpSection label="1003-2-Interp" sectionNum="2">
+          <title>Section 1003.2—Definitions</title>
+          <interpParagraph label="1003-2-Interp-1">
+          	<title>Consistency With Regulation B.</title>
+            <content>Consistency With Regulation B. Bureau interpretations that appear in the official staff commentary to Regulation B (Equal Credit Opportunity, 12 CFR part 1002, Supplement I) are generally applicable to the definition of an application under Regulation C. However, under Regulation C the definition of an application does not include prequalification requests.</content>
+          </interpParagraph>
+          <interpParagraph label="1003-2-Interp-2">
+          	<title>Prequalification</title>
+            <content>Prequalification. A prequalification request is a request by a prospective loan applicant (other than a request for preapproval) for a preliminary determination on whether the prospective applicant would likely qualify for credit under an institution's standards, or for a determination on the amount of credit for which the prospective applicant would likely qualify. Some institutions evaluate prequalification requests through a procedure that is separate from the institution's normal loan application process; others use the same process. In either case, Regulation C does not require an institution to report prequalification requests on the HMDA/LAR, even though these requests may constitute applications under Regulation B for purposes of adverse action notices.</content>
+          </interpParagraph>
+          <interpParagraph label="1003-2-Interp-3">
+          	<title>Requests for preapproval.</title>
+            <content>Requests for preapproval. To be a covered preapproval program, the written commitment issued under the program must result from a full review of the creditworthiness of the applicant, including such verification of income, resources and other matters as is typically done by the institution as part of its normal credit evaluation program. In addition to conditions involving the identification of a suitable property and verification that no material change has occurred in the applicant's financial condition or creditworthiness, the written commitment may be subject only to other conditions (unrelated to the financial condition or creditworthiness of the applicant) that the lender ordinarily attaches to a traditional home mortgage application approval. These conditions are limited to conditions such as requiring an acceptable title insurance binder or a certificate indicating clear termite inspection, and, in the case where the applicant plans to use the proceeds from the sale of the applicant's present home to purchase a new home, a settlement statement showing adequate proceeds from the sale of the present home.
+            </content>
+          </interpParagraph>
+          
+          <interpParagraph label="1003-2-p1-BranchOffice-Interp" target="1003-2-p1-BranchOffice">
+          	<title>Branch office</title>
+          	<content/>
+          	<interpParagraph label="1003-2-p1-BranchOffice-Interp-1" marker="1.">
+            	<content>Credit union. For purposes of Regulation C, a “branch” of a credit union is any office where member accounts are established or loans are made, whether or not the office has been approved as a branch by a Federal or state agency. (See 12 U.S.C. 1752.)</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-BranchOffice-Interp-2" marker="2.">
+            	<content>Depository institution. A branch of a depository institution does not include a loan-production office, the office of an affiliate, or the office of a third party such as a loan broker. (But see <ref target="1003-A" reftype="internal">appendix A</ref>, paragraph I.C.6, which requires certain depository institutions to report property location even for properties located outside those MSAs or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> in which the institution has a home or branch office.)</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-BranchOffice-Interp-3" marker="3.">
+            	<content>Nondepository institution. For a nondepository institution, “branch office” does not include the office of an affiliate or other third party such as a loan broker. (But note that certain nondepository institutions must report property location even in MSAs or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> where they do not have a physical location.)</content>
+          	</interpParagraph>
+          </interpParagraph>
+          
+          <interpParagraph label="1003-2-p1-Dwelling-Interp" target="1003-2-p1-Dwelling">
+          	<title>Dwelling.</title>
+          	<content/>
+          	<interpParagraph label="1003-2-p1-Dwelling-Interp-1">
+            	<content>Coverage. The definition of “dwelling” is not limited to the principal or other residence of the applicant or borrower, and thus includes vacation or second homes and rental properties. A dwelling also includes a multifamily structure such as an apartment building.</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-Dwelling-Interp-2">
+            	<content>Exclusions. Recreational vehicles such as boats or campers are not dwellings for purposes of HMDA. Also excluded are transitory residences such as hotels, hospitals, and college dormitories, whose occupants have principal residences elsewhere.</content>
+          	</interpParagraph>
+          </interpParagraph>
+          
+          <interpParagraph label="1003-2-p1-FinancialInstitution-Interp" target="1003-2-p1-FinancialInstitution">
+          	<title>Financial institution.</title>
+          	<content/>
+          	<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-1">
+            	<content>General. An institution that met the test for coverage under HMDA in year 1, and then ceases to meet the test (for example, because its assets fall below the threshold on December 31 of year 2) stops collecting HMDA data beginning with year 3. Similarly, an institution that did not meet the coverage test for a given year, and then meets the test in the succeeding year, begins collecting HMDA data in the calendar year following the year in which it meets the test for coverage. For example, a for-profit mortgage lending institution (other than a bank, savings association, or credit union) that, in year 1, falls below the thresholds specified in the definition of Financial institution in § 1003.2, but meets one of them in year 2, need not collect data in year 2, but begins collecting data in year 3.</content>
+          	</interpParagraph>
+	        <interpParagraph label="1003-2-p1-FinancialInstitution-Interp-2">
+	        	<content>Adjustment of exemption threshold for banks, savings associations, and credit unions. For data collection in 2013, the asset-size exemption threshold is $44 million. Banks, savings associations, and credit unions with assets at or below $44 million as of December 31, 2014, are exempt from collecting data for 2015.</content>
+	        </interpParagraph>
+	        
+          	<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-3">
+            	<content>Coverage after a merger. Several scenarios of data-collection responsibilities for the calendar year of a merger are described below. Under all the scenarios, if the merger results in a covered institution, that institution must begin data collection January 1 of the following calendar year.</content>
+            	<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-3-i">
+            		<content>Two institutions are not covered by Regulation C because of asset size. The institutions merge. No data collection is required for the year of the merger (even if the merger results in a covered institution).</content>
+          		</interpParagraph>
+          		<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-3-ii">
+            		<content>A covered institution and an exempt institution merge. The covered institution is the surviving institution. For the year of the merger, data collection is required for the covered institution's transactions. Data collection is optional for transactions handled in offices of the previously exempt institution.</content>
+          		</interpParagraph>
+          		<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-3-iii">
+            		<content>A covered institution and an exempt institution merge. The exempt institution is the surviving institution, or a new institution is formed. Data collection is required for transactions of the covered institution that take place prior to the merger. Data collection is optional for transactions taking place after the merger date.</content>
+          		</interpParagraph>
+          		<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-3-iv">
+            		<content>Two covered institutions merge. Data collection is required for the entire year. The surviving or resulting institution files either a consolidated submission or separate submissions for that year.</content>
+          		</interpParagraph>
+          	</interpParagraph>
+          	
+          	<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-4">
+            	<content>Originations. HMDA coverage depends in part on whether an institution has originated home purchase loans. To determine whether activities with respect to a particular loan constitute an origination, institutions should consult, among other parts of the staff commentary, the discussion of the broker rule under §§ <ref target="1003-1-c" reftype="internal">1003.1(c)</ref> and <ref target="1003-4-a" reftype="internal">1003.4(a)</ref>.</content>
+          	</interpParagraph>
+          	
+          	<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-5">
+            	<content>Branches of foreign banks—treated as banks. A Federal branch or a state-licensed insured branch of a foreign bank is a “bank” under section 3(a)(1) of the Federal Deposit Insurance Act (<ref target="USC:12-1813" reftype="external">12 U.S.C. 1813</ref>(a)), and is covered by HMDA if it meets the tests for a depository institution found in § <ref target="1003-2" reftype="internal">1003.2</ref> of Regulation C.</content>
+          	</interpParagraph>
+          	
+          	<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-6">
+            	<content>Branches and offices of foreign banks—treated as for-profit mortgage lending institutions. Federal agencies, state-licensed agencies, state-licensed uninsured branches of foreign banks, commercial lending companies owned or controlled by foreign banks, and entities operating under section 25 or 25A of the Federal Reserve Act, <ref target="USC:12-601" reftype="external">12 U.S.C. 601</ref> and 611 (Edge Act and agreement corporations) are not “banks” under the Federal Deposit Insurance Act. These entities are nonetheless covered by HMDA if they meet the tests for a for-profit nondepository mortgage lending institution found in § <ref target="1003-2" reftype="internal">1003.2</ref> of Regulation C.</content>
+          	</interpParagraph>
+          </interpParagraph>
+          
+          <interpParagraph label="1003-2-p1-HomeImprovementLoan-Interp" target="1003-2-p1-HomeImprovementLoan">
+          	<title>Home improvement loan.</title>
+          	<content/>
+          	<interpParagraph label="1003-2-p1-HomeImprovementLoan-Interp-1">
+            	<content>Classification requirement for loans not secured by a lien on a dwelling. An institution has “classified” a loan that is not secured by a lien on a dwelling as a home improvement loan if it has entered the loan on its books as a home improvement loan, or has otherwise coded or identified the loan as a home improvement loan. For example, an institution that has booked a loan or reported it on a “call report” as a home improvement loan has classified it as a home improvement loan. An institution may also classify loans as home improvement loans in other ways (for example, by color-coding loan files).</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-HomeImprovementLoan-Interp-2">
+            	<content>Improvements to real property. Home improvements include improvements both to a dwelling and to the real property on which the dwelling is located (for example, installation of a swimming pool, construction of a garage, or landscaping).</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-HomeImprovementLoan-Interp-3">
+            	<content>Commercial and other loans. A home improvement loan may include a loan originated outside an institution's residential mortgage lending division (such as a loan to improve an apartment building made through the commercial loan department).</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-HomeImprovementLoan-Interp-4">
+            	<content>Mixed-use property. A loan to improve property used for residential and commercial purposes (for example, a building containing apartment units and retail space) is a home improvement loan if the loan proceeds are used primarily to improve the residential portion of the property. If the loan proceeds are used to improve the entire property (for example, to replace the heating system), the loan is a home improvement loan if the property itself is primarily residential. An institution may use any reasonable standard to determine the primary use of the property, such as by square footage or by the income generated. An institution may select the standard to apply on a case-by-case basis. If the loan is unsecured, to report the loan as a home improvement loan the institution must also have classified it as such.</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-HomeImprovementLoan-Interp-5">
+            	<content>Multiple-category loans. If a loan is a home improvement loan as well as a refinancing, an institution reports the loan as a home improvement loan.</content>
+          	</interpParagraph>
+          </interpParagraph>
+          
+          <interpParagraph label="1003-2-p1-HomePurchaseLoan-Interp" target="1003-2-p1-HomePurchaseLoan">
+          	<title>Home purchase loan.</title>
+          	<content/>
+          	<interpParagraph label="1003-2-p1-HomePurchaseLoan-Interp-1">
+            	<content>Multiple properties. A home purchase loan includes a loan secured by one dwelling and used to purchase another dwelling.</content>
+         	 </interpParagraph>
+          	<interpParagraph label="1003-2-p1-HomePurchaseLoan-Interp-2">
+            	<content>Mixed-use property. A dwelling-secured loan to purchase property used primarily for residential purposes (for example, an apartment building containing a convenience store) is a home purchase loan. An institution may use any reasonable standard to determine the primary use of the property, such as by square footage or by the income generated. An institution may select the standard to apply on a case-by-case basis.</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-HomePurchaseLoan-Interp-3">
+            	<content>Farm loan. A loan to purchase property used primarily for agricultural purposes is not a home purchase loan even if the property includes a dwelling. An institution may use any reasonable standard to determine the primary use of the property, such as by reference to the exemption from Regulation X (Real Estate Settlement Procedures, <ref target="CFR:12-1024-5" reftype="external">12 CFR 1024.5</ref>(b)(1)) for a loan on property of 25 acres or more. An institution may select the standard to apply on a case-by-case basis.</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-HomePurchaseLoan-Interp-4">
+            	<content>Commercial and other loans. A home purchase loan may include a loan originated outside an institution's residential mortgage lending division (such as a loan for the purchase of an apartment building made through the commercial loan department).</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-HomePurchaseLoan-Interp-5">
+            	<content>Construction and permanent financing. A home purchase loan includes both a combined construction/permanent loan and the permanent financing that replaces a construction-only loan. It does not include a construction-only loan, which is considered “temporary financing” under Regulation C and is not reported.</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-HomePurchaseLoan-Interp-6">
+            	<content>Second mortgages that finance the downpayments on first mortgages. If an institution making a first mortgage loan to a home purchaser also makes a second mortgage loan to the same purchaser to finance part or all of the home purchaser's downpayment, the institution reports each loan separately as a home purchase loan.</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-HomePurchaseLoan-Interp-7">
+            	<content>Multiple-category loans. If a loan is a home purchase loan as well as a home improvement loan, or a refinancing, an institution reports the loan as a home purchase loan.</content>
+          	</interpParagraph>
+          </interpParagraph>
+          
+          <interpParagraph label="1003-2-p1-ManufacturedHome-Interp" target="1003-2-p1-ManufacturedHome">
+          	<title>Manufactured home.</title>
+          	<content/>
+          	<interpParagraph label="1003-2-p1-ManufacturedHome-Interp-1">
+          		<content>Definition of a manufactured home. The definition in § 1003.2 refers to the Federal building code for factory-built housing established by the Department of Housing and Urban Development (HUD). The HUD code requires generally that housing be essentially ready for occupancy upon leaving the factory and being transported to a building site. Modular homes that meet all of the HUD code standards are included in the definition because they are ready for occupancy upon leaving the factory. Other factory-built homes, such as panelized and pre-cut homes, generally do not meet the HUD code because they require a significant amount of construction on site before they are ready for occupancy. Loans and applications relating to manufactured homes that do not meet the HUD code should not be identified as manufactured housing under HMDA.</content>
+          	</interpParagraph>
+          </interpParagraph>
+
+		  <interpParagraph label="1003-2-p1-Metropolitan-Interp">
+		  	<title>Metropolitan Statistical Areas and Metropolitan Divisions</title>
+		  	<content>Use of terms “Metropolitan Statistical Area” and “Metropolitan Division.” The U.S. Office of Management and Budget defines Metropolitan Statistical Areas and Metropolitan Divisions to provide nationally consistent definitions for collecting, tabulating, and publishing Federal statistics for a set of geographic areas. OMB divides every Metropolitan Statistical Area (MSA) with a population of 2.5 million or more into Metropolitan Divisions (MDs); MSAs with populations under 2.5 million population are not so divided. 67 FR 82228 (December 27, 2000). For all purposes under Regulation C, if an MSA is divided by OMB into MDs, the appropriate geographic unit to be used is the MD; if an MSA is not so divided by OMB into MDs, the appropriate geographic unit to be used is the MSA.</content>
+		  </interpParagraph>
+        </interpSection>
+        <interpSection label="1003-4-Interp" sectionNum="4">
+          <title>Section 1003.4—Compilation of Loan Data</title>
+          <interpParagraph label="1003-4-a-Interp" target="1003-4-a">
+            <title>4(a) Data format and itemization.</title>
+            <content/>
+            <interpParagraph label="1003-4-a-Interp-1" target="1003-4-a-1">
+              <content>Reporting requirements.</content>
+              <interpParagraph label="1003-4-a-Interp-1-i" target="1003-4-a-1-i">
+                <content>An institution reports data on loans that it originated and loans that it purchased during the calendar year described in the report. An institution reports these data even if the loans were subsequently sold by the institution.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-Interp-1-ii" target="1003-4-a-1-ii">
+                <content>An institution reports the data for loan applications that did not result in originations—for example, applications that the institution denied or that the applicant withdrew during the calendar year covered by the report.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-Interp-1-iii" target="1003-4-a-1-iii">
+                <content>In the case of brokered loan applications or applications forwarded through a correspondent, the institution reports as originations the loans that it approved and subsequently acquired per a pre-closing arrangement (whether or not they closed in the institution's name). Additionally, the institution reports the data for all applications that did not result in originations—for example, applications that the institution denied or that the applicant withdrew during the calendar year covered by the report (whether or not they would have closed in the institution's name). For all of these loans and applications, the institution reports the required data regarding the borrower's or applicant's ethnicity, race, sex, and income.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-Interp-1-iv" target="1003-4-a-1-iv">
+                <content>Loan originations are to be reported only once. If the institution is the loan broker or correspondent, it does not report as originations the loans that it forwarded to another lender for approval prior to closing, and that were approved and subsequently acquired by that lender (whether or not they closed in the institution's name).</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-Interp-1-v" target="1003-4-a-1-v">
+                <content>An institution reports applications that were received in the previous calendar year but were acted upon during the calendar year covered by the current register.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-Interp-1-vi" target="1003-4-a-1-vi">
+                <content>A financial institution submits all required data to the appropriate Federal agency in one package, with the prescribed transmittal sheet. An officer of the institution certifies to the accuracy of the data.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-Interp-1-vii" target="1003-4-a-1-vii">
+                <content>The transmittal sheet states the total number of line entries contained in the accompanying data transmission.</content>
+              </interpParagraph>
+            </interpParagraph>
+            <interpParagraph label="1003-4-a-Interp-2" target="1003-4-a-2">
+              <content>Updating—agency requirements. Certain state or Federal regulations, such as the Federal Deposit Insurance Corporation's regulations, may require an institution to update its data more frequently than is required under Regulation C.</content>
+            </interpParagraph>
+            <interpParagraph label="1003-4-a-Interp-3" target="1003-4-a-3">
+              <content>Form of quarterly updating. An institution may maintain the quarterly updates of the HMDA/LAR in electronic or any other format, provided the institution can make the information available to its regulatory agency in a timely manner upon request.</content>
+            </interpParagraph>
+            <interpParagraph label="1003-4-a-1-Interp" target="1003-4-a-1">
+              <title>Paragraph 4(a)(1).</title>
+              <content/>
+              <interpParagraph label="1003-4-a-1-Interp-1" target="1003-4-a-1-1">
+                <content>Application date—consistency. In reporting the date of application, an institution reports the date the application was received or the date shown on the application. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans).</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-1-Interp-2" target="1003-4-a-1-2">
+                <content>Application date—application forwarded by a broker. For an application forwarded by a broker, an institution reports the date the application was received by the broker, the date the application was received by the institution, or the date shown on the application. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans).</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-1-Interp-3" target="1003-4-a-1-3">
+                <content>Application date—reinstated application. If, within the same calendar year, an applicant asks an institution to reinstate a counteroffer that the applicant previously did not accept (or asks the institution to reconsider an application that was denied, withdrawn, or closed for incompleteness), the institution may treat that request as the continuation of the earlier transaction or as a new transaction. If the institution treats the request for reinstatement or reconsideration as a new transaction, it reports the date of the request as the application date.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-1-Interp-4" target="1003-4-a-1-4">
+                <content>Application or loan number. An institution must ensure that each identifying number is unique within the institution. If an institution's register contains data for branch offices, for example, the institution could use a letter or a numerical code to identify the loans or applications of different branches, or could assign a certain series of numbers to particular branches to avoid duplicate numbers. Institutions are strongly encouraged not to use the applicant's or borrower's name or social security number, for privacy reasons.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-1-Interp-5" target="1003-4-a-1-5">
+                <content>Application—year action taken. An institution must report an application in the calendar year in which the institution takes final action on the application.</content>
+              </interpParagraph>
+            </interpParagraph>
+            <interpParagraph label="1003-4-a-3-Interp" target="1003-4-a-3">
+              <title>Paragraph 4(a)(3).</title>
+              <content/>
+              <interpParagraph label="1003-4-a-3-Interp-1" target="1003-4-a-3-1">
+                <content>Purpose—statement of applicant. An institution may rely on the oral or written statement of an applicant regarding the proposed use of loan proceeds. For example, a lender could use a check-box, or a purpose line, on a loan application to determine whether or not the applicant intends to use loan proceeds for home improvement purposes.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-3-Interp-2" target="1003-4-a-3-2">
+                <content>Purpose—multiple-purpose loan. If a loan is a home purchase loan as well as a home improvement loan, or a refinancing, an institution reports the loan as a home purchase loan. If a loan is a home improvement loan as well as a refinancing, an institution reports the loan as a home improvement loan.</content>
+              </interpParagraph>
+            </interpParagraph>
+            <interpParagraph label="1003-4-a-6-Interp" target="1003-4-a-6">
+              <title>Paragraph 4(a)(6).</title>
+              <content/>
+              <interpParagraph label="1003-4-a-6-Interp-1" target="1003-4-a-6-1">
+                <content>Occupancy—multiple properties. If a loan relates to multiple properties, the institution reports the owner occupancy status of the property for which property location is being reported. (See the comments to paragraph <ref target="1003-4-a-9" reftype="internal">4(a)(9)</ref>).</content>
+              </interpParagraph>
+            </interpParagraph>
+            <interpParagraph label="1003-4-a-7-Interp" target="1003-4-a-7">
+              <title>Paragraph 4(a)(7).</title>
+              <content/>
+              <interpParagraph label="1003-4-a-7-Interp-1" target="1003-4-a-7-1">
+                <content>Loan amount—counteroffer. If an applicant accepts a counteroffer for an amount different from the amount initially requested, the institution reports the loan amount granted. If an applicant does not accept a counteroffer or fails to respond, the institution reports the loan amount initially requested.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-7-Interp-2" target="1003-4-a-7-2">
+                <content>Loan amount—multiple-purpose loan. Except in the case of a home-equity line of credit, an institution reports the entire amount of the loan, even if only a part of the proceeds is intended for home purchase or home improvement.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-7-Interp-3" target="1003-4-a-7-3">
+                <content>Loan amount—home-equity line. An institution that has chosen to report home-equity lines of credit reports only the part that is intended for home-improvement or home-purchase purposes.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-7-Interp-4" target="1003-4-a-7-4">
+                <content>Loan amount—assumption. An institution that enters into a written agreement accepting a new party as the obligor on a loan reports the amount of the outstanding principal on the assumption as the loan amount.</content>
+              </interpParagraph>
+            </interpParagraph>
+            <interpParagraph label="1003-4-a-8-Interp" target="1003-4-a-8">
+              <title>Paragraph 4(a)(8).</title>
+              <content/>
+              <interpParagraph label="1003-4-a-8-Interp-1" target="1003-4-a-8-1">
+                <content>Action taken—counteroffers. If an institution makes a counteroffer to lend on terms different from the applicant's initial request (for example, for a shorter loan maturity or in a different amount) and the applicant does not accept the counteroffer or fails to respond, the institution reports the action taken as a denial on the original terms requested by the applicant.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-8-Interp-2" target="1003-4-a-8-2">
+                <content>Action taken—rescinded transactions. If a borrower rescinds a transaction after closing, the institution may report the transaction either as an origination or as an application that was approved but not accepted.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-8-Interp-3" target="1003-4-a-8-3">
+                <content>Action taken—purchased loans. An institution reports the loans that it purchased during the calendar year, and does not report the loans that it declined to purchase.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-8-Interp-4" target="1003-4-a-8-4">
+                <content>Action taken—conditional approvals. If an institution issues a loan approval subject to the applicant's meeting underwriting conditions (other than customary loan commitment or loan-closing conditions, such as a clear-title requirement or an acceptable property survey) and the applicant does not meet them, the institution reports the action taken as a denial.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-8-Interp-5" target="1003-4-a-8-5">
+                <content>Action taken date—approved but not accepted. For a loan approved by an institution but not accepted by the applicant, the institution reports any reasonable date, such as the approval date, the deadline for accepting the offer, or the date the file was closed. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans).</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-8-Interp-6" target="1003-4-a-8-6">
+                <content>Action taken date—originations. For loan originations, an institution generally reports the settlement or closing date. For loan originations that an institution acquires through a broker, the institution reports either the settlement or closing date, or the date the institution acquired the loan from the broker. If the disbursement of funds takes place on a date later than the settlement or closing date, the institution may use the date of disbursement. For a construction/permanent loan, the institution reports either the settlement or closing date, or the date the loan converts to the permanent financing. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans). Notwithstanding this flexibility regarding the use of the closing date in connection with reporting the date action was taken, the year in which an origination goes to closing is the year in which the institution must report the origination.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-8-Interp-7" target="1003-4-a-8-7">
+                <content>Action taken—pending applications. An institution does not report any loan application still pending at the end of the calendar year; it reports that application on its register for the year in which final action is taken.</content>
+              </interpParagraph>
+            </interpParagraph>
+            <interpParagraph label="1003-4-a-9-Interp" target="1003-4-a-9">
+              <title>Paragraph 4(a)(9).</title>
+              <content/>
+              <interpParagraph label="1003-4-a-9-Interp-1" target="1003-4-a-9-1">
+                <content>Property location—multiple properties (home improvement/refinance of home improvement). For a home improvement loan, an institution reports the property being improved. If more than one property is being improved, the institution reports the location of one of the properties or reports the loan using multiple entries on its HMDA/LAR (with unique identifiers) and allocating the loan amount among the properties.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-9-Interp-2" target="1003-4-a-9-2">
+                <content>Property location—multiple properties (home purchase/refinance of home purchase). For a home purchase loan, an institution reports the property taken as security. If an institution takes more than one property as security, the institution reports the location of the property being purchased if there is just one. If the loan is to purchase multiple properties and is secured by multiple properties, the institution reports the location of one of the properties or reports the loan using multiple entries on its HMDA/LAR (with unique identifiers) and allocating the loan amount among the properties.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-9-Interp-3" target="1003-4-a-9-3">
+                <content>Property location—loans purchased from another institution. The requirement to report the property location by census tract in an MSA or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref> where the institution has a home or branch office applies not only to loan applications and originations but also to loans purchased from another institution. This includes loans purchased from an institution that did not have a home or branch office in that MSA or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref> and did not collect the property-location information.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-9-Interp-4" target="1003-4-a-9-4">
+                <content>Property location—mobile or manufactured home. If information about the potential site of a mobile or manufactured home is not available, an institution reports using the Code for “not applicable.”</content>
+              </interpParagraph>
+            </interpParagraph>
+            <interpParagraph label="1003-4-a-10-Interp" target="1003-4-a-10">
+              <title>Paragraph 4(a)(10).</title>
+              <content/>
+              <interpParagraph label="1003-4-a-10-Interp-1" target="1003-4-a-10-1">
+                <content>Applicant data—completion by applicant. An institution reports the monitoring information as provided by the applicant. For example, if an applicant checks the “Asian” box the institution reports using the “Asian” Code.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-10-Interp-2" target="1003-4-a-10-2">
+                <content>Applicant data—completion by lender. If an applicant fails to provide the requested information for an application taken in person, the institution reports the data on the basis of visual observation or surname.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-10-Interp-3" target="1003-4-a-10-3">
+                <content>Applicant data—application completed in person. When an applicant meets in person with a lender to complete an application that was begun by mail, internet, or telephone, the institution must request the monitoring information. If the meeting occurs after the application process is complete, for example, at closing, the institution is not required to obtain monitoring information.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-10-Interp-4" target="1003-4-a-10-4">
+                <content>Applicant data—joint applicant. A joint applicant may enter the government monitoring information on behalf of an absent joint applicant. If the information is not provided, the institution reports using the Code for “information not provided by applicant in mail, internet, or telephone application.”</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-10-Interp-5" target="1003-4-a-10-5">
+                <content>Applicant data—video and other electronic-application processes. An institution that accepts applications through electronic media with a video component treats the applications as taken in person and collects the information about the ethnicity, race, and sex of applicants. An institution that accepts applications through electronic media without a video component (for example, the internet or facsimile) treats the applications as accepted by mail.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-10-Interp-6" target="1003-4-a-10-6">
+                <content>Income data—income relied on. An institution reports the gross annual income relied on in evaluating the creditworthiness of applicants. For example, if an institution relies on an applicant's salary to compute a debt-to-income ratio but also relies on the applicant's annual bonus to evaluate creditworthiness, the institution reports the salary and the bonus to the extent relied upon. Similarly, if an institution relies on the income of a cosigner to evaluate creditworthiness, the institution includes this income to the extent relied upon. But an institution does not include the income of a guarantor who is only secondarily liable.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-10-Interp-7" target="1003-4-a-10-7">
+                <content>Income data—co-applicant. If two persons jointly apply for a loan and both list income on the application, but the institution relies only on the income of one applicant in computing ratios and in evaluating creditworthiness, the institution reports only the income relied on.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-10-Interp-8" target="1003-4-a-10-8">
+                <content>Income data—loan to employee. An institution may report “NA” in the income field for loans to its employees to protect their privacy, even though the institution relied on their income in making its credit decisions.</content>
+              </interpParagraph>
+            </interpParagraph>
+            <interpParagraph label="1003-4-a-11-Interp" target="1003-4-a-11">
+              <title>Paragraph 4(a)(11).</title>
+              <content/>
+              <interpParagraph label="1003-4-a-11-Interp-1" target="1003-4-a-11-1">
+                <content>Type of purchaser—loan-participation interests sold to more than one entity. An institution that originates a loan, and then sells it to more than one entity, reports the “type of purchaser” based on the entity purchasing the greatest interest, if any. If an institution retains a majority interest, it does not report the sale.</content>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-11-Interp-2" target="1003-4-a-11-2">
+                <content>Type of purchaser—swapped loans. Loans “swapped” for mortgage-backed securities are to be treated as sales; the purchaser is the type of entity receiving the loans that are swapped.</content>
+              </interpParagraph>
+            </interpParagraph>
+            <interpParagraph label="1003-4-a-12-Interp" target="1003-4-a-12">
+              <content/>
+              <interpParagraph label="1003-4-a-12-ii-Interp" target="1003-4-a-12-ii">
+                <title>Paragraph 4(a)(12)(ii).</title>
+                <content/>
+                <interpParagraph label="1003-4-a-12-ii-Interp-1" target="1003-4-a-12-ii-1">
+                  <content><ref target="1003-4-a-12-ii" reftype="term">Average prime offer rate</ref>. <ref target="1003-4-a-12-ii" reftype="term">Average prime offer rates</ref> are annual percentage rates derived from average interest rates, points, and other loan pricing terms offered to borrowers by a representative sample of lenders for mortgage loans that have low-risk pricing characteristics. Other pricing terms include commonly used indices, margins, and initial fixed-rate periods for variable-rate transactions. Relevant pricing characteristics include a consumer's credit history and transaction characteristics such as the loan-to-value ratio, owner-occupant status, and purpose of the transaction. To obtain <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref>, the Bureau uses a survey of lenders that both meets the criteria of § <ref target="1003-4-a-12-ii" reftype="internal">1003.4(a)(12)(ii)</ref> and provides pricing terms for at least two types of variable-rate transactions and at least two types of non-variable-rate transactions. An example of such a survey is the Freddie Mac Primary Mortgage Market Survey®.</content>
+                </interpParagraph>
+                <interpParagraph label="1003-4-a-12-ii-Interp-2" target="1003-4-a-12-ii-2">
+                  <content>Comparable transaction. The rate spread reporting requirement applies to a reportable loan with an annual percentage rate that exceeds by the specified margin (or more) the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> for a comparable transaction as of the date the interest rate is set. The tables of <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> published by the Bureau (see comment <ref target="1003-4-a-12-ii-Interp-3" reftype="internal">4(a)(12)(ii)-3</ref>) indicate how to identify the comparable transaction.</content>
+                </interpParagraph>
+                <interpParagraph label="1003-4-a-12-ii-Interp-3" target="1003-4-a-12-ii-3">
+                  <content>Bureau tables. The Bureau publishes on the FFIEC's Web site (http://www.ffiec.gov/hmda), in table form, <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> for a wide variety of transaction types. The Bureau calculates an annual percentage rate, consistent with Regulation Z (see <ref target="CFR:12-1026-22" reftype="external">12 CFR 1026.22</ref> and part 1026, appendix J), for each transaction type for which pricing terms are available from the survey described in comment <ref target="1003-4-a-12-ii-Interp-1" reftype="internal">4(a)(12)(ii)-1</ref>. The Bureau estimates annual percentage rates for other types of transactions for which direct survey data are not available based on the loan pricing terms available in the survey and other information. The Bureau publishes on the FFIEC's Web site the methodology it uses to arrive at these estimates.</content>
+                </interpParagraph>
+              </interpParagraph>
+            </interpParagraph>
+            <interpParagraph label="1003-4-a-14-Interp" target="1003-4-a-14">
+              <title>Paragraph 4(a)(14).</title>
+              <content/>
+              <interpParagraph label="1003-4-a-14-Interp-1" target="1003-4-a-14-1">
+                <content>Determining lien status for applications and loans originated.</content>
+                <interpParagraph label="1003-4-a-14-Interp-1-i" target="1003-4-a-14-1-i">
+                  <content>Lenders are required to report lien status for loans they originate and applications that do not result in originations. Lien status is determined by reference to the best information readily available to the lender at the time final action is taken and to the lender's own procedures. Thus, lenders may rely on the title search they routinely perform as part of their underwriting procedures—for example, for home purchase loans. Regulation C does not require lenders to perform title searches solely to comply with HMDA reporting requirements. Lenders may rely on other information that is readily available to them at the time final action is taken and that they reasonably believe is accurate, such as the applicant's statement on the application or the applicant's credit report. For example, where the applicant indicates on the application that there is a mortgage on the property or where the applicant's credit report shows that the applicant has a mortgage—and that mortgage is not going to be paid off as part of the transaction—the lender may assume that the loan it originates is secured by a subordinate lien. If the same application did not result in an origination—for example, because the application is denied or withdrawn—the lender would report the application as an application for a subordinate-lien loan.</content>
+                </interpParagraph>
+                <interpParagraph label="1003-4-a-14-Interp-1-ii" target="1003-4-a-14-1-ii">
+                  <content>Lenders may also consider their established procedures when determining lien status for applications that do not result in originations. For example, a consumer applies to a lender to refinance a $100,000 first mortgage; the consumer also has a home equity line of credit for $20,000. If the lender's practice in such a case is to ensure that it will have first-lien position—through a subordination agreement with the holder of the mortgage on the home equity line—then the lender should report the application as an application for a first-lien loan.</content>
+                </interpParagraph>
+              </interpParagraph>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1003-4-c-Interp" target="1003-4-c">
+            <content/>
+            <interpParagraph label="1003-4-c-3-Interp" target="1003-4-c-3">
+              <title>Paragraph 4(c)(3).</title>
+              <content/>
+              <interpParagraph label="1003-4-c-3-Interp-1" target="1003-4-c-3-1">
+                <content>An institution that opts to report home-equity lines reports the disposition of all applications, not just originations.</content>
+              </interpParagraph>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1003-4-d-Interp" target="1003-4-d">
+            <title>4(d) Excluded data.</title>
+            <content/>
+            <interpParagraph label="1003-4-d-Interp-1" target="1003-4-d-1">
+              <content>Mergers, purchases in bulk, and branch acquisitions. If a covered institution acquires loans in bulk from another institution (for example, from the receiver for a failed institution) but no merger or acquisition of the institution, or acquisition of a branch, is involved, the institution reports the loans as purchased loans.</content>
+            </interpParagraph>
+          </interpParagraph>
+        </interpSection>
+        <interpSection label="1003-5-Interp" sectionNum="5">
+          <title/>
+          <interpParagraph label="1003-5-a-Interp" target="1003-5-a">
+            <title>Section 1003.5(a)—Disclosure and Reporting</title>
+            <content/>
+            <interpParagraph label="1003-5-a-Interp-1" target="1003-5-a-1">
+              <content>Submission of data. Institutions submit data to the appropriate Federal agencies in an automated, machine-readable form. The format must conform to that of the HMDA/LAR. An institution should contact the appropriate Federal agency for information regarding procedures and technical specifications for automated data submission; in some cases, agencies also make software available for automated data submission. The data are edited before submission, using the edits included in the agency-supplied software or equivalent edits in software available from vendors or developed in-house.</content>
+            </interpParagraph>
+            <interpParagraph label="1003-5-a-Interp-2" target="1003-5-a-2">
+              <content>Submission in paper form. Institutions that report twenty-five or fewer entries on their HMDA/LAR may collect and report the data in paper form. An institution that submits its register in non-automated form sends two copies that are typed or computer printed and must use the format of the HMDA/LAR (but need not use the form itself). Each page must be numbered along with the total number of pages (for example, “Page 1 of 3”).</content>
+            </interpParagraph>
+            <interpParagraph label="1003-5-a-Interp-3" target="1003-5-a-3">
+              <content>Procedures for entering data. The required data are entered in the register for each loan origination, each application acted on, and each loan purchased during the calendar year. The institution should decide on the procedure it wants to follow—for example, whether to begin entering the required data, when an application is received, or to wait until final action is taken (such as when a loan goes to closing or an application is denied).</content>
+            </interpParagraph>
+            <interpParagraph label="1003-5-a-Interp-4" target="1003-5-a-4">
+              <content>Options for collection. An institution may collect data on separate registers at different branches, or on separate registers for different loan types (such as for home purchase or home improvement loans, or for loans on multifamily dwellings). Entries need not be grouped on the register by MSA or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>, or chronologically, or by census tract numbers, or in any other particular order.</content>
+            </interpParagraph>
+            <interpParagraph label="1003-5-a-Interp-5" target="1003-5-a-5">
+              <content>Change in appropriate Federal agency. If the appropriate Federal agency for a covered institution changes (as a consequence of a merger or a change in the institution's charter, for example), the institution must report data to the new appropriate Federal agency beginning with the year of the change.</content>
+            </interpParagraph>
+            <interpParagraph label="1003-5-a-Interp-6" target="1003-5-a-6">
+              <content>Subsidiaries. An institution is a subsidiary of a bank or savings association (for purposes of reporting HMDA data to the same agency as the parent) if the bank or savings association holds or controls an ownership interest that is greater than 50 percent of the institution.</content>
+            </interpParagraph>
+            <interpParagraph label="1003-5-a-Interp-7" target="1003-5-a-7">
+              <content>Transmittal sheet—additional data submissions. If an additional data submission becomes necessary (for example, because the institution discovers that data were omitted from the initial submission, or because revisions are called for), that submission must be accompanied by a transmittal sheet.</content>
+            </interpParagraph>
+            <interpParagraph label="1003-5-a-Interp-8" target="1003-5-a-8">
+              <content>Transmittal sheet—revisions or deletions. If a data submission involves revisions or deletions of previously submitted data, it must state the total of all line entries contained in that submission, including both those representing revisions or deletions of previously submitted entries, and those that are being resubmitted unchanged or are being submitted for the first time. Depository institutions must provide a list of the MSAs or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> in which they have home or branch offices.</content>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1003-5-b-Interp" target="1003-5-b">
+            <title>5(b) Public disclosure of statement.</title>
+            <content/>
+            <interpParagraph label="1003-5-b-Interp-1" target="1003-5-b-1">
+              <content>Business day. For purposes of § <ref target="1003-5" reftype="internal">1003.5</ref>, a business day is any calendar day other than a Saturday, Sunday, or legal public holiday.</content>
+            </interpParagraph>
+            <interpParagraph label="1003-5-b-Interp-2" target="1003-5-b-2">
+              <content>Format. An institution may make the disclosure statement available in paper form or, if the person requesting the data agrees, in electronic form.</content>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1003-5-c-Interp" target="1003-5-c">
+            <title>5(c) Public disclosure of modified loan/application register.</title>
+            <content/>
+            <interpParagraph label="1003-5-c-Interp-1" target="1003-5-c-1">
+              <content>Format. An institution may make the modified register available in paper or electronic form. Although institutions are not required to make the modified register available in census tract order, they are strongly encouraged to do so in order to enhance its utility to users.</content>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1003-5-e-Interp" target="1003-5-e">
+            <title>5(e) Notice of availability.</title>
+            <content/>
+            <interpParagraph label="1003-5-e-Interp-1" target="1003-5-e-1">
+              <content>Poster&#8212;suggested text. An institution may use any text that meets the requirements of the regulation. Some of the Federal agencies that receive HMDA data provide HMDA posters that an institution can use to inform the public of the availability of its HMDA data, or the institution may create its own posters. If an institution prints its own, the following language is suggested but is not required:</content>
+              <interpParagraph label="1003-5-e-Interp-1-HMDANotice">
+              	<title>Home Mortgage Disclosure Act Notice</title>
+              	<content>The HMDA data about our residential mortgage lending are available online for review. The data show geographic distribution of loans and applications; ethnicity, race, sex, age, and income of applicants and borrowers; and information about loan approvals and denials. These data are available online at the Consumer Financial Protection Bureau's Web site (www.consumerfinance.gov/hmda). HMDA data for many other financial institutions are also available at this Web site.</content>
+              </interpParagraph>
+            </interpParagraph>
+          </interpParagraph>
+        </interpSection>
+        <interpSection label="1003-6-Interp" sectionNum="6">
+          <title>Section 1003.6—Enforcement</title>
+          <interpParagraph label="1003-6-b-Interp" target="1003-6-b">
+            <title>6(b) Bona fide errors.</title>
+            <content/>
+            <interpParagraph label="1003-6-b-Interp-1" target="1003-6-b-1">
+              <content>Bona fide error—information from third parties. An institution that obtains the property-location information for applications and loans from third parties (such as appraisers or vendors of “geocoding” services) is responsible for ensuring that the information reported on its HMDA/LAR is correct.</content>
+            </interpParagraph>
+          </interpParagraph>
+        </interpSection>
+      </interpretations>
+    </content>
+  </part>
+</regulation>
