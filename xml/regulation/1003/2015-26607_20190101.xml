@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<regulation xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs ../../eregs.xsd">
+<regulation xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
@@ -18,7 +18,7 @@
     <effectiveDate>2019-01-01</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/a/2015-26607</federalRegisterURL>
   </preamble>
-  <part partNumber="1003">
+  <part label="1003">
     <tableOfContents>
       <tocSecEntry target="1003-1">
         <sectionNum>1</sectionNum>
