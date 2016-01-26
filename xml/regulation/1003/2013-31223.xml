@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<regulation xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs ../../eregs.xsd">
+<regulation xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
@@ -986,47 +986,56 @@
         </interpSection>
         <interpSection label="1003-1-Interp" sectionNum="1">
           <title>Section 1003.1&#8212;Authority, Purpose, and Scope</title>
-          <interpParagraph label="1003-1-Interp-1" target="1003-1-1">
+          <interpParagraph label="1003-1-c-Interp" target="1003-1-c">
+          	<title>1(c) Scope</title>
+          	<content/>
+          	<interpParagraph label="1003-1-c-Interp-1">
             <content>General. The comments in this section address issues affecting coverage of institutions and exemptions from coverage.</content>
-          </interpParagraph>
-          <interpParagraph label="1003-1-Interp-2" target="1003-1-2">
-            <content>The broker rule and the meaning of &#8220;broker&#8221; and &#8220;investor.&#8221; For the purposes of the guidance given in this commentary, an institution that takes and processes a loan application and arranges for another institution to acquire the loan at or after closing is acting as a &#8220;broker,&#8221; and an institution that acquires a loan from a broker at or after closing is acting as an &#8220;investor.&#8221; (The terms used in this commentary may have different meanings in certain parts of the mortgage lending industry, and other terms may be used in place of these terms, for example in the Federal Housing Administration mortgage insurance programs.) Depending on the facts, a broker may or may not make a credit decision on an application (and thus it may or may not have reporting responsibilities). If the broker makes a credit decision, it reports that decision; if it does not make a credit decision, it does not report. If an investor reviews an application and makes a credit decision prior to closing, the investor reports that decision. If the investor does not review the application prior to closing, it reports only the loans that it purchases; it does not report the loans it does not purchase. An institution that makes a credit decision on an application prior to closing reports that decision regardless of whose name the loan closes in.</content>
-          </interpParagraph>
-          <interpParagraph label="1003-1-Interp-3" target="1003-1-3">
+          	</interpParagraph>
+	        <interpParagraph label="1003-1-c-Interp-2">
+	            <content>The broker rule and the meaning of &#8220;broker&#8221; and &#8220;investor.&#8221; For the purposes of the guidance given in this commentary, an institution that takes and processes a loan application and arranges for another institution to acquire the loan at or after closing is acting as a &#8220;broker,&#8221; and an institution that acquires a loan from a broker at or after closing is acting as an &#8220;investor.&#8221; (The terms used in this commentary may have different meanings in certain parts of the mortgage lending industry, and other terms may be used in place of these terms, for example in the Federal Housing Administration mortgage insurance programs.) Depending on the facts, a broker may or may not make a credit decision on an application (and thus it may or may not have reporting responsibilities). If the broker makes a credit decision, it reports that decision; if it does not make a credit decision, it does not report. If an investor reviews an application and makes a credit decision prior to closing, the investor reports that decision. If the investor does not review the application prior to closing, it reports only the loans that it purchases; it does not report the loans it does not purchase. An institution that makes a credit decision on an application prior to closing reports that decision regardless of whose name the loan closes in.</content>
+	          </interpParagraph>
+           <interpParagraph label="1003-1-Interp-3">
             <content>Illustrations of the broker rule. Assume that, prior to closing, four investors receive the same application from a broker; two deny it, one approves it, and one approves it and acquires the loan. In these circumstances, the first two report denials, the third reports the transaction as approved but not accepted, and the fourth reports an origination (whether the loan closes in the name of the broker or the investor). Alternatively, assume that the broker denies a loan before sending it to an investor; in this situation, the broker reports a denial.</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-1-Interp-4">
+            	<content>Broker's use of investor's underwriting criteria. If a broker makes a credit decision based on underwriting criteria set by an investor, but without the investor's review prior to closing, the broker has made the credit decision. The broker reports as an origination a loan that it approves and closes, and reports as a denial an application that it turns down (either because the application does not meet the investor's underwriting guidelines or for some other reason). The investor reports as purchases only those loans it purchases.</content>
+         	 </interpParagraph>
+          	<interpParagraph label="1003-1-Interp-5">
+            	<content>Insurance and other criteria. If an institution evaluates an application based on the criteria or actions of a third party other than an investor (such as a government or private insurer or guarantor), the institution must report the action taken on the application (loan originated, approved but not accepted, or denied, for example).</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-1-Interp-6">
+            	<content>Credit decision of agent is decision of principal. If an institution approves loans through the actions of an agent, the institution must report the action taken on the application (loan originated, approved but not accepted, or denied, for example). State law determines whether one party is the agent of another.</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-1-Interp-7">
+            	<content>Affiliate bank underwriting (250.250 review). If an institution makes an independent evaluation of the creditworthiness of an applicant (for example, as part of a preclosing review by an affiliate bank under <ref target="CFR:12-250-250" reftype="external">12 CFR 250.250</ref>, a regulation of the Board of Governors of the Federal Reserve System that interprets section 23A of the Federal Reserve Act), the institution is making a credit decision. If the institution then acquires the loan, it reports the loan as an origination whether the loan closes in the name of the institution or its affiliate. An institution that does not acquire the loan but takes some other action reports that action.</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-1-Interp-8">
+            	<content>Participation loan. An institution that originates a loan and then sells partial interests to other institutions reports the loan as an origination. An institution that acquires only a partial interest in such a loan does not report the transaction even if it has participated in the underwriting and origination of the loan.</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-1-Interp-9">
+            	<content>Assumptions. An assumption occurs when an institution enters into a written agreement accepting a new borrower as the obligor on an existing obligation. An institution reports an assumption (or an application for an assumption) as a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref> in the amount of the outstanding principal. If a transaction does not involve a written agreement between a new borrower and the institution, it is not an assumption for HMDA purposes and is not reported.</content></interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1003-1-Interp-4" target="1003-1-4">
-            <content>Broker's use of investor's underwriting criteria. If a broker makes a credit decision based on underwriting criteria set by an investor, but without the investor's review prior to closing, the broker has made the credit decision. The broker reports as an origination a loan that it approves and closes, and reports as a denial an application that it turns down (either because the application does not meet the investor's underwriting guidelines or for some other reason). The investor reports as purchases only those loans it purchases.</content>
-          </interpParagraph>
-          <interpParagraph label="1003-1-Interp-5" target="1003-1-5">
-            <content>Insurance and other criteria. If an institution evaluates an application based on the criteria or actions of a third party other than an investor (such as a government or private insurer or guarantor), the institution must report the action taken on the application (loan originated, approved but not accepted, or denied, for example).</content>
-          </interpParagraph>
-          <interpParagraph label="1003-1-Interp-6" target="1003-1-6">
-            <content>Credit decision of agent is decision of principal. If an institution approves loans through the actions of an agent, the institution must report the action taken on the application (loan originated, approved but not accepted, or denied, for example). State law determines whether one party is the agent of another.</content>
-          </interpParagraph>
-          <interpParagraph label="1003-1-Interp-7" target="1003-1-7">
-            <content>Affiliate bank underwriting (250.250 review). If an institution makes an independent evaluation of the creditworthiness of an applicant (for example, as part of a preclosing review by an affiliate bank under <ref target="CFR:12-250-250" reftype="external">12 CFR 250.250</ref>, a regulation of the Board of Governors of the Federal Reserve System that interprets section 23A of the Federal Reserve Act), the institution is making a credit decision. If the institution then acquires the loan, it reports the loan as an origination whether the loan closes in the name of the institution or its affiliate. An institution that does not acquire the loan but takes some other action reports that action.</content>
-          </interpParagraph>
-          <interpParagraph label="1003-1-Interp-8" target="1003-1-8">
-            <content>Participation loan. An institution that originates a loan and then sells partial interests to other institutions reports the loan as an origination. An institution that acquires only a partial interest in such a loan does not report the transaction even if it has participated in the underwriting and origination of the loan.</content>
-          </interpParagraph>
-          <interpParagraph label="1003-1-Interp-9" target="1003-1-9">
-            <content>Assumptions. An assumption occurs when an institution enters into a written agreement accepting a new borrower as the obligor on an existing obligation. An institution reports an assumption (or an application for an assumption) as a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref> in the amount of the outstanding principal. If a transaction does not involve a written agreement between a new borrower and the institution, it is not an assumption for HMDA purposes and is not reported.</content></interpParagraph>
+          
         </interpSection>
         <interpSection label="1003-2-Interp" sectionNum="2">
           <title>Section 1003.2&#8212;Definitions</title>
-          <interpParagraph label="1003-2-Interp-1">
-          	<title>Consistency With Regulation B.</title>
-            <content>Consistency With Regulation B. Bureau interpretations that appear in the official staff commentary to Regulation B (Equal Credit Opportunity, 12 CFR part 1002, Supplement I) are generally applicable to the definition of an application under Regulation C. However, under Regulation C the definition of an application does not include prequalification requests.</content>
-          </interpParagraph>
-          <interpParagraph label="1003-2-Interp-2">
-          	<title>Prequalification</title>
-            <content>Prequalification. A prequalification request is a request by a prospective loan applicant (other than a request for preapproval) for a preliminary determination on whether the prospective applicant would likely qualify for credit under an institution's standards, or for a determination on the amount of credit for which the prospective applicant would likely qualify. Some institutions evaluate prequalification requests through a procedure that is separate from the institution's normal loan application process; others use the same process. In either case, Regulation C does not require an institution to report prequalification requests on the HMDA/LAR, even though these requests may constitute applications under Regulation B for purposes of adverse action notices.</content>
-          </interpParagraph>
-          <interpParagraph label="1003-2-Interp-3">
-          	<title>Requests for preapproval.</title>
-            <content>Requests for preapproval. To be a covered preapproval program, the written commitment issued under the program must result from a full review of the creditworthiness of the applicant, including such verification of income, resources and other matters as is typically done by the institution as part of its normal credit evaluation program. In addition to conditions involving the identification of a suitable property and verification that no material change has occurred in the applicant's financial condition or creditworthiness, the written commitment may be subject only to other conditions (unrelated to the financial condition or creditworthiness of the applicant) that the lender ordinarily attaches to a traditional home mortgage application approval. These conditions are limited to conditions such as requiring an acceptable title insurance binder or a certificate indicating clear termite inspection, and, in the case where the applicant plans to use the proceeds from the sale of the applicant's present home to purchase a new home, a settlement statement showing adequate proceeds from the sale of the present home.
-            </content>
+          <interpParagraph label="1003-2-Application-Interp" target="1003-2-p1-Application">
+          	<title>Application.</title>
+          	<content/>
+          	<interpParagraph label="1003-2-p1-Application-Interp-1">
+          		<title>Consistency With Regulation B.</title>
+            	<content>Consistency With Regulation B. Bureau interpretations that appear in the official staff commentary to Regulation B (Equal Credit Opportunity, 12 CFR part 1002, Supplement I) are generally applicable to the definition of an application under Regulation C. However, under Regulation C the definition of an application does not include prequalification requests.</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-Application-Interp-2">
+          		<title>Prequalification</title>
+            	<content>Prequalification. A prequalification request is a request by a prospective loan applicant (other than a request for preapproval) for a preliminary determination on whether the prospective applicant would likely qualify for credit under an institution's standards, or for a determination on the amount of credit for which the prospective applicant would likely qualify. Some institutions evaluate prequalification requests through a procedure that is separate from the institution's normal loan application process; others use the same process. In either case, Regulation C does not require an institution to report prequalification requests on the HMDA/LAR, even though these requests may constitute applications under Regulation B for purposes of adverse action notices.</content>
+          	</interpParagraph>
+          	<interpParagraph label="1003-2-p1-Application-Interp-3">
+          		<title>Requests for preapproval.</title>
+            	<content>Requests for preapproval. To be a covered preapproval program, the written commitment issued under the program must result from a full review of the creditworthiness of the applicant, including such verification of income, resources and other matters as is typically done by the institution as part of its normal credit evaluation program. In addition to conditions involving the identification of a suitable property and verification that no material change has occurred in the applicant's financial condition or creditworthiness, the written commitment may be subject only to other conditions (unrelated to the financial condition or creditworthiness of the applicant) that the lender ordinarily attaches to a traditional home mortgage application approval. These conditions are limited to conditions such as requiring an acceptable title insurance binder or a certificate indicating clear termite inspection, and, in the case where the applicant plans to use the proceeds from the sale of the applicant's present home to purchase a new home, a settlement statement showing adequate proceeds from the sale of the present home.
+            	</content>
+          	</interpParagraph>
           </interpParagraph>
           
           <interpParagraph label="1003-2-p1-BranchOffice-Interp" target="1003-2-p1-BranchOffice">
@@ -1056,7 +1065,7 @@
           	<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-1">
             	<content>General. An institution that met the test for coverage under HMDA in year 1, and then ceases to meet the test (for example, because its assets fall below the threshold on December 31 of year 2) stops collecting HMDA data beginning with year 3. Similarly, an institution that did not meet the coverage test for a given year, and then meets the test in the succeeding year, begins collecting HMDA data in the calendar year following the year in which it meets the test for coverage. For example, a for-profit mortgage lending institution (other than a bank, savings association, or credit union) that, in year 1, falls below the thresholds specified in the definition of <ref target="1003-2-p1-FinancialInstitution" reftype="term">Financial institution</ref> in &#167; 1003.2, but meets one of them in year 2, need not collect data in year 2, but begins collecting data in year 3.</content></interpParagraph>
 	        <interpParagraph label="1003-2-p1-FinancialInstitution-Interp-2">
-	        	<content>Adjustment of exemption threshold for banks, savings associations, and credit unions. For data collection in 2014, the asset-size exemption threshold is $43 million. Banks, savings associations, and credit unions with assets at or below $43 million as of December 31, 2013, are exempt from collecting data for 2014.</content>
+	        	<content>Adjustment of exemption threshold for depository institutions. For data collection in 2014, the asset-size exemption threshold is $43 million. Banks, savings associations, and credit, unions with assets at or below $43 million as of December 31, 2013, are exempt from collecting data for 2014.</content>
 	        </interpParagraph>
 	        
           	<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-3">
@@ -1132,259 +1141,278 @@
 		  	<title>Metropolitan Statistical Areas and Metropolitan Divisions</title>
 		  	<content>Use of terms &#8220;Metropolitan Statistical Area&#8221; and &#8220;Metropolitan Division.&#8221; The U.S. Office of Management and Budget defines Metropolitan Statistical Areas and Metropolitan Divisions to provide nationally consistent definitions for collecting, tabulating, and publishing Federal statistics for a set of geographic areas. OMB divides every Metropolitan Statistical Area (<ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref>) with a population of 2.5 million or more into Metropolitan Divisions (<ref target="1003-2-p1-Metropolitan-2" reftype="term">MD</ref>s); <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref>s with populations under 2.5 million population are not so divided. 67 FR 82228 (December 27, 2000). For all purposes under Regulation C, if an <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> is divided by OMB into <ref target="1003-2-p1-Metropolitan-2" reftype="term">MD</ref>s, the appropriate geographic unit to be used is the <ref target="1003-2-p1-Metropolitan-2" reftype="term">MD</ref>; if an <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> is not so divided by OMB into <ref target="1003-2-p1-Metropolitan-2" reftype="term">MD</ref>s, the appropriate geographic unit to be used is the <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref>.</content></interpParagraph>
         </interpSection>
+        
         <interpSection label="1003-4-Interp" sectionNum="4">
           <title>Section 1003.4&#8212;Compilation of Loan Data</title>
           <interpParagraph label="1003-4-a-Interp" target="1003-4-a">
             <title>4(a) Data format and itemization.</title>
             <content/>
-            <interpParagraph label="1003-4-a-Interp-1" target="1003-4-a-1">
+            <interpParagraph label="1003-4-a-Interp-1">
               <content>Reporting requirements.</content>
-              <interpParagraph label="1003-4-a-Interp-1-i" target="1003-4-a-1-i">
+              <interpParagraph label="1003-4-a-Interp-1-i">
                 <content>An institution reports data on loans that it originated and loans that it purchased during the calendar year described in the report. An institution reports these data even if the loans were subsequently sold by the institution.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-Interp-1-ii" target="1003-4-a-1-ii">
+              <interpParagraph label="1003-4-a-Interp-1-ii">
                 <content>An institution reports the data for loan applications that did not result in originations&#8212;for example, applications that the institution denied or that the applicant withdrew during the calendar year covered by the report.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-Interp-1-iii" target="1003-4-a-1-iii">
+              <interpParagraph label="1003-4-a-Interp-1-iii">
                 <content>In the case of brokered loan applications or applications forwarded through a correspondent, the institution reports as originations the loans that it approved and subsequently acquired per a pre-closing arrangement (whether or not they closed in the institution's name). Additionally, the institution reports the data for all applications that did not result in originations&#8212;for example, applications that the institution denied or that the applicant withdrew during the calendar year covered by the report (whether or not they would have closed in the institution's name). For all of these loans and applications, the institution reports the required data regarding the borrower's or applicant's ethnicity, race, sex, and income.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-Interp-1-iv" target="1003-4-a-1-iv">
+              <interpParagraph label="1003-4-a-Interp-1-iv">
                 <content>Loan originations are to be reported only once. If the institution is the loan broker or correspondent, it does not report as originations the loans that it forwarded to another lender for approval prior to closing, and that were approved and subsequently acquired by that lender (whether or not they closed in the institution's name).</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-Interp-1-v" target="1003-4-a-1-v">
+              <interpParagraph label="1003-4-a-Interp-1-v">
                 <content>An institution reports applications that were received in the previous calendar year but were acted upon during the calendar year covered by the current register.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-Interp-1-vi" target="1003-4-a-1-vi">
+              <interpParagraph label="1003-4-a-Interp-1-vi">
                 <content>A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> submits all required data to the appropriate Federal agency in one package, with the prescribed transmittal sheet. An officer of the institution certifies to the accuracy of the data.</content></interpParagraph>
               <interpParagraph label="1003-4-a-Interp-1-vii" target="1003-4-a-1-vii">
                 <content>The transmittal sheet states the total number of line entries contained in the accompanying data transmission.</content>
               </interpParagraph>
             </interpParagraph>
-            <interpParagraph label="1003-4-a-Interp-2" target="1003-4-a-2">
+            <interpParagraph label="1003-4-a-Interp-2">
               <content>Updating&#8212;agency requirements. Certain state or Federal regulations, such as the Federal Deposit Insurance Corporation's regulations, may require an institution to update its data more frequently than is required under Regulation C.</content>
             </interpParagraph>
-            <interpParagraph label="1003-4-a-Interp-3" target="1003-4-a-3">
+            <interpParagraph label="1003-4-a-Interp-3">
               <content>Form of quarterly updating. An institution may maintain the quarterly updates of the HMDA/LAR in electronic or any other format, provided the institution can make the information available to its regulatory agency in a timely manner upon request.</content>
             </interpParagraph>
+           </interpParagraph>
+            
             <interpParagraph label="1003-4-a-1-Interp" target="1003-4-a-1">
               <title>Paragraph 4(a)(1).</title>
               <content/>
-              <interpParagraph label="1003-4-a-1-Interp-1" target="1003-4-a-1-1">
+              <interpParagraph label="1003-4-a-1-Interp-1">
                 <content><ref target="1003-2-p1-Application-1" reftype="term">Application</ref> date&#8212;consistency. In reporting the date of application, an institution reports the date the application was received or the date shown on the application. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans).</content></interpParagraph>
-              <interpParagraph label="1003-4-a-1-Interp-2" target="1003-4-a-1-2">
+              <interpParagraph label="1003-4-a-1-Interp-2">
                 <content>Application date&#8212;application forwarded by a broker. For an application forwarded by a broker, an institution reports the date the application was received by the broker, the date the application was received by the institution, or the date shown on the application. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans).</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-1-Interp-3" target="1003-4-a-1-3">
+              <interpParagraph label="1003-4-a-1-Interp-3">
                 <content>Application date&#8212;reinstated application. If, within the same calendar year, an applicant asks an institution to reinstate a counteroffer that the applicant previously did not accept (or asks the institution to reconsider an application that was denied, withdrawn, or closed for incompleteness), the institution may treat that request as the continuation of the earlier transaction or as a new transaction. If the institution treats the request for reinstatement or reconsideration as a new transaction, it reports the date of the request as the application date.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-1-Interp-4" target="1003-4-a-1-4">
+              <interpParagraph label="1003-4-a-1-Interp-4">
                 <content>Application or loan number. An institution must ensure that each identifying number is unique within the institution. If an institution's register contains data for <ref target="1003-2-p1-BranchOffice" reftype="term">branch offices</ref>, for example, the institution could use a letter or a numerical code to identify the loans or applications of different branches, or could assign a certain series of numbers to particular branches to avoid duplicate numbers. Institutions are strongly encouraged not to use the applicant's or borrower's name or social security number, for privacy reasons.</content></interpParagraph>
-              <interpParagraph label="1003-4-a-1-Interp-5" target="1003-4-a-1-5">
+              <interpParagraph label="1003-4-a-1-Interp-5">
                 <content>Application&#8212;year action taken. An institution must report an application in the calendar year in which the institution takes final action on the application.</content>
               </interpParagraph>
             </interpParagraph>
+            
             <interpParagraph label="1003-4-a-3-Interp" target="1003-4-a-3">
               <title>Paragraph 4(a)(3).</title>
               <content/>
-              <interpParagraph label="1003-4-a-3-Interp-1" target="1003-4-a-3-1">
+              <interpParagraph label="1003-4-a-3-Interp-1">
                 <content>Purpose&#8212;statement of applicant. An institution may rely on the oral or written statement of an applicant regarding the proposed use of loan proceeds. For example, a lender could use a check-box, or a purpose line, on a loan application to determine whether or not the applicant intends to use loan proceeds for home improvement purposes.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-3-Interp-2" target="1003-4-a-3-2">
+              <interpParagraph label="1003-4-a-3-Interp-2">
                 <content>Purpose&#8212;multiple-purpose loan. If a loan is a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref> as well as a <ref target="1003-2-p1-HomeImprovementLoan" reftype="term">home improvement loan</ref>, or a <ref target="1003-2-p1-Refinancing" reftype="term">refinancing</ref>, an institution reports the loan as a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref>. If a loan is a <ref target="1003-2-p1-HomeImprovementLoan" reftype="term">home improvement loan</ref> as well as a <ref target="1003-2-p1-Refinancing" reftype="term">refinancing</ref>, an institution reports the loan as a <ref target="1003-2-p1-HomeImprovementLoan" reftype="term">home improvement loan</ref>.</content></interpParagraph>
             </interpParagraph>
+            
             <interpParagraph label="1003-4-a-6-Interp" target="1003-4-a-6">
               <title>Paragraph 4(a)(6).</title>
               <content/>
-              <interpParagraph label="1003-4-a-6-Interp-1" target="1003-4-a-6-1">
+              <interpParagraph label="1003-4-a-6-Interp-1">
                 <content>Occupancy&#8212;multiple properties. If a loan relates to multiple properties, the institution reports the owner occupancy status of the property for which property location is being reported. (See the comments to paragraph <ref target="1003-4-a-9" reftype="internal">4(a)(9)</ref>).</content>
               </interpParagraph>
             </interpParagraph>
+            
             <interpParagraph label="1003-4-a-7-Interp" target="1003-4-a-7">
               <title>Paragraph 4(a)(7).</title>
               <content/>
-              <interpParagraph label="1003-4-a-7-Interp-1" target="1003-4-a-7-1">
+              <interpParagraph label="1003-4-a-7-Interp-1">
                 <content>Loan amount&#8212;counteroffer. If an applicant accepts a counteroffer for an amount different from the amount initially requested, the institution reports the loan amount granted. If an applicant does not accept a counteroffer or fails to respond, the institution reports the loan amount initially requested.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-7-Interp-2" target="1003-4-a-7-2">
+              <interpParagraph label="1003-4-a-7-Interp-2">
                 <content>Loan amount&#8212;multiple-purpose loan. Except in the case of a home-equity line of credit, an institution reports the entire amount of the loan, even if only a part of the proceeds is intended for home purchase or home improvement.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-7-Interp-3" target="1003-4-a-7-3">
+              <interpParagraph label="1003-4-a-7-Interp-3">
                 <content>Loan amount&#8212;home-equity line. An institution that has chosen to report home-equity lines of credit reports only the part that is intended for home-improvement or home-purchase purposes.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-7-Interp-4" target="1003-4-a-7-4">
+              <interpParagraph label="1003-4-a-7-Interp-4">
                 <content>Loan amount&#8212;assumption. An institution that enters into a written agreement accepting a new party as the obligor on a loan reports the amount of the outstanding principal on the assumption as the loan amount.</content>
               </interpParagraph>
             </interpParagraph>
+            
             <interpParagraph label="1003-4-a-8-Interp" target="1003-4-a-8">
               <title>Paragraph 4(a)(8).</title>
               <content/>
-              <interpParagraph label="1003-4-a-8-Interp-1" target="1003-4-a-8-1">
+              <interpParagraph label="1003-4-a-8-Interp-1">
                 <content>Action taken&#8212;counteroffers. If an institution makes a counteroffer to lend on terms different from the applicant's initial request (for example, for a shorter loan maturity or in a different amount) and the applicant does not accept the counteroffer or fails to respond, the institution reports the action taken as a denial on the original terms requested by the applicant.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-8-Interp-2" target="1003-4-a-8-2">
+              <interpParagraph label="1003-4-a-8-Interp-2">
                 <content>Action taken&#8212;rescinded transactions. If a borrower rescinds a transaction after closing, the institution may report the transaction either as an origination or as an application that was approved but not accepted.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-8-Interp-3" target="1003-4-a-8-3">
+              <interpParagraph label="1003-4-a-8-Interp-3">
                 <content>Action taken&#8212;purchased loans. An institution reports the loans that it purchased during the calendar year, and does not report the loans that it declined to purchase.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-8-Interp-4" target="1003-4-a-8-4">
+              <interpParagraph label="1003-4-a-8-Interp-4">
                 <content>Action taken&#8212;conditional approvals. If an institution issues a loan approval subject to the applicant's meeting underwriting conditions (other than customary loan commitment or loan-closing conditions, such as a clear-title requirement or an acceptable property survey) and the applicant does not meet them, the institution reports the action taken as a denial.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-8-Interp-5" target="1003-4-a-8-5">
+              <interpParagraph label="1003-4-a-8-Interp-5">
                 <content>Action taken date&#8212;approved but not accepted. For a loan approved by an institution but not accepted by the applicant, the institution reports any reasonable date, such as the approval date, the deadline for accepting the offer, or the date the file was closed. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans).</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-8-Interp-6" target="1003-4-a-8-6">
+              <interpParagraph label="1003-4-a-8-Interp-6">
                 <content>Action taken date&#8212;originations. For loan originations, an institution generally reports the settlement or closing date. For loan originations that an institution acquires through a broker, the institution reports either the settlement or closing date, or the date the institution acquired the loan from the broker. If the disbursement of funds takes place on a date later than the settlement or closing date, the institution may use the date of disbursement. For a construction/permanent loan, the institution reports either the settlement or closing date, or the date the loan converts to the permanent financing. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans). Notwithstanding this flexibility regarding the use of the closing date in connection with reporting the date action was taken, the year in which an origination goes to closing is the year in which the institution must report the origination.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-8-Interp-7" target="1003-4-a-8-7">
+              <interpParagraph label="1003-4-a-8-Interp-7">
                 <content>Action taken&#8212;pending applications. An institution does not report any loan application still pending at the end of the calendar year; it reports that application on its register for the year in which final action is taken.</content>
               </interpParagraph>
             </interpParagraph>
+            
             <interpParagraph label="1003-4-a-9-Interp" target="1003-4-a-9">
               <title>Paragraph 4(a)(9).</title>
               <content/>
-              <interpParagraph label="1003-4-a-9-Interp-1" target="1003-4-a-9-1">
+              <interpParagraph label="1003-4-a-9-Interp-1">
                 <content>Property location&#8212;multiple properties (home improvement/refinance of home improvement). For a <ref target="1003-2-p1-HomeImprovementLoan" reftype="term">home improvement loan</ref>, an institution reports the property being improved. If more than one property is being improved, the institution reports the location of one of the properties or reports the loan using multiple entries on its HMDA/LAR (with unique identifiers) and allocating the loan amount among the properties.</content></interpParagraph>
-              <interpParagraph label="1003-4-a-9-Interp-2" target="1003-4-a-9-2">
+              <interpParagraph label="1003-4-a-9-Interp-2">
                 <content>Property location&#8212;multiple properties (home purchase/refinance of home purchase). For a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref>, an institution reports the property taken as security. If an institution takes more than one property as security, the institution reports the location of the property being purchased if there is just one. If the loan is to purchase multiple properties and is secured by multiple properties, the institution reports the location of one of the properties or reports the loan using multiple entries on its HMDA/LAR (with unique identifiers) and allocating the loan amount among the properties.</content></interpParagraph>
-              <interpParagraph label="1003-4-a-9-Interp-3" target="1003-4-a-9-3">
+              <interpParagraph label="1003-4-a-9-Interp-3">
                 <content>Property location&#8212;loans purchased from another institution. The requirement to report the property location by census tract in an <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref> where the institution has a home or <ref target="1003-2-p1-BranchOffice" reftype="term">branch office</ref> applies not only to loan applications and originations but also to loans purchased from another institution. This includes loans purchased from an institution that did not have a home or <ref target="1003-2-p1-BranchOffice" reftype="term">branch office</ref> in that <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref> and did not collect the property-location information.</content></interpParagraph>
-              <interpParagraph label="1003-4-a-9-Interp-4" target="1003-4-a-9-4">
+              <interpParagraph label="1003-4-a-9-Interp-4">
                 <content>Property location&#8212;mobile or <ref target="1003-2-p1-ManufacturedHome" reftype="term">manufactured home</ref>. If information about the potential site of a mobile or <ref target="1003-2-p1-ManufacturedHome" reftype="term">manufactured home</ref> is not available, an institution reports using the Code for &#8220;not applicable.&#8221;</content></interpParagraph>
             </interpParagraph>
+            
             <interpParagraph label="1003-4-a-10-Interp" target="1003-4-a-10">
               <title>Paragraph 4(a)(10).</title>
               <content/>
-              <interpParagraph label="1003-4-a-10-Interp-1" target="1003-4-a-10-1">
+              <interpParagraph label="1003-4-a-10-Interp-1">
                 <content>Applicant data&#8212;completion by applicant. An institution reports the monitoring information as provided by the applicant. For example, if an applicant checks the &#8220;Asian&#8221; box the institution reports using the &#8220;Asian&#8221; Code.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-10-Interp-2" target="1003-4-a-10-2">
+              <interpParagraph label="1003-4-a-10-Interp-2">
                 <content>Applicant data&#8212;completion by lender. If an applicant fails to provide the requested information for an application taken in person, the institution reports the data on the basis of visual observation or surname.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-10-Interp-3" target="1003-4-a-10-3">
+              <interpParagraph label="1003-4-a-10-Interp-3">
                 <content>Applicant data&#8212;application completed in person. When an applicant meets in person with a lender to complete an application that was begun by mail, internet, or telephone, the institution must request the monitoring information. If the meeting occurs after the application process is complete, for example, at closing, the institution is not required to obtain monitoring information.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-10-Interp-4" target="1003-4-a-10-4">
+              <interpParagraph label="1003-4-a-10-Interp-4">
                 <content>Applicant data&#8212;joint applicant. A joint applicant may enter the government monitoring information on behalf of an absent joint applicant. If the information is not provided, the institution reports using the Code for &#8220;information not provided by applicant in mail, internet, or telephone application.&#8221;</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-10-Interp-5" target="1003-4-a-10-5">
+              <interpParagraph label="1003-4-a-10-Interp-5">
                 <content>Applicant data&#8212;video and other electronic-application processes. An institution that accepts applications through electronic media with a video component treats the applications as taken in person and collects the information about the ethnicity, race, and sex of applicants. An institution that accepts applications through electronic media without a video component (for example, the internet or facsimile) treats the applications as accepted by mail.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-10-Interp-6" target="1003-4-a-10-6">
+              <interpParagraph label="1003-4-a-10-Interp-6">
                 <content>Income data&#8212;income relied on. An institution reports the gross annual income relied on in evaluating the creditworthiness of applicants. For example, if an institution relies on an applicant's salary to compute a debt-to-income ratio but also relies on the applicant's annual bonus to evaluate creditworthiness, the institution reports the salary and the bonus to the extent relied upon. Similarly, if an institution relies on the income of a cosigner to evaluate creditworthiness, the institution includes this income to the extent relied upon. But an institution does not include the income of a guarantor who is only secondarily liable.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-10-Interp-7" target="1003-4-a-10-7">
+              <interpParagraph label="1003-4-a-10-Interp-7">
                 <content>Income data&#8212;co-applicant. If two persons jointly apply for a loan and both list income on the application, but the institution relies only on the income of one applicant in computing ratios and in evaluating creditworthiness, the institution reports only the income relied on.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-10-Interp-8" target="1003-4-a-10-8">
+              <interpParagraph label="1003-4-a-10-Interp-8">
                 <content>Income data&#8212;loan to employee. An institution may report &#8220;NA&#8221; in the income field for loans to its employees to protect their privacy, even though the institution relied on their income in making its credit decisions.</content>
               </interpParagraph>
             </interpParagraph>
+            
             <interpParagraph label="1003-4-a-11-Interp" target="1003-4-a-11">
               <title>Paragraph 4(a)(11).</title>
               <content/>
-              <interpParagraph label="1003-4-a-11-Interp-1" target="1003-4-a-11-1">
+              <interpParagraph label="1003-4-a-11-Interp-1">
                 <content>Type of purchaser&#8212;loan-participation interests sold to more than one entity. An institution that originates a loan, and then sells it to more than one entity, reports the &#8220;type of purchaser&#8221; based on the entity purchasing the greatest interest, if any. If an institution retains a majority interest, it does not report the sale.</content>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-11-Interp-2" target="1003-4-a-11-2">
+              <interpParagraph label="1003-4-a-11-Interp-2">
                 <content>Type of purchaser&#8212;swapped loans. Loans &#8220;swapped&#8221; for mortgage-backed securities are to be treated as sales; the purchaser is the type of entity receiving the loans that are swapped.</content>
               </interpParagraph>
             </interpParagraph>
-            <interpParagraph label="1003-4-a-12-Interp" target="1003-4-a-12">
+            
+            <interpParagraph label="1003-4-a-12-Interp">
               <content/>
               <interpParagraph label="1003-4-a-12-ii-Interp" target="1003-4-a-12-ii">
                 <title>Paragraph 4(a)(12)(ii).</title>
                 <content/>
-                <interpParagraph label="1003-4-a-12-ii-Interp-1" target="1003-4-a-12-ii-1">
+                <interpParagraph label="1003-4-a-12-ii-Interp-1">
                   <content><ref target="1003-4-a-12-ii" reftype="term">Average prime offer rate</ref>. <ref target="1003-4-a-12-ii" reftype="term">Average prime offer rates</ref> are annual percentage rates derived from average interest rates, points, and other loan pricing terms offered to borrowers by a representative sample of lenders for mortgage loans that have low-risk pricing characteristics. Other pricing terms include commonly used indices, margins, and initial fixed-rate periods for variable-rate transactions. Relevant pricing characteristics include a consumer's credit history and transaction characteristics such as the loan-to-value ratio, owner-occupant status, and purpose of the transaction. To obtain <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref>, the Bureau uses a survey of lenders that both meets the criteria of &#167; <ref target="1003-4-a-12-ii" reftype="internal">1003.4(a)(12)(ii)</ref> and provides pricing terms for at least two types of variable-rate transactions and at least two types of non-variable-rate transactions. An example of such a survey is the Freddie Mac Primary Mortgage Market Survey&#174;.</content>
                 </interpParagraph>
-                <interpParagraph label="1003-4-a-12-ii-Interp-2" target="1003-4-a-12-ii-2">
+                <interpParagraph label="1003-4-a-12-ii-Interp-2">
                   <content>Comparable transaction. The rate spread reporting requirement applies to a reportable loan with an annual percentage rate that exceeds by the specified margin (or more) the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> for a comparable transaction as of the date the interest rate is set. The tables of <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> published by the Bureau (see comment <ref target="1003-4-a-12-ii-Interp-3" reftype="internal">4(a)(12)(ii)-3</ref>) indicate how to identify the comparable transaction.</content>
                 </interpParagraph>
-                <interpParagraph label="1003-4-a-12-ii-Interp-3" target="1003-4-a-12-ii-3">
+                <interpParagraph label="1003-4-a-12-ii-Interp-3">
                   <content>Bureau tables. The Bureau publishes on the FFIEC's Web site (http://www.ffiec.gov/hmda), in table form, <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> for a wide variety of transaction types. The Bureau calculates an annual percentage rate, consistent with Regulation Z (see <ref target="CFR:12-1026-22" reftype="external">12 CFR 1026.22</ref> and part 1026, appendix J), for each transaction type for which pricing terms are available from the survey described in comment <ref target="1003-4-a-12-ii-Interp-1" reftype="internal">4(a)(12)(ii)-1</ref>. The Bureau estimates annual percentage rates for other types of transactions for which direct survey data are not available based on the loan pricing terms available in the survey and other information. The Bureau publishes on the FFIEC's Web site the methodology it uses to arrive at these estimates.</content>
                 </interpParagraph>
               </interpParagraph>
             </interpParagraph>
+            
             <interpParagraph label="1003-4-a-14-Interp" target="1003-4-a-14">
               <title>Paragraph 4(a)(14).</title>
               <content/>
-              <interpParagraph label="1003-4-a-14-Interp-1" target="1003-4-a-14-1">
+              <interpParagraph label="1003-4-a-14-Interp-1">
                 <content>Determining lien status for applications and loans originated.</content>
-                <interpParagraph label="1003-4-a-14-Interp-1-i" target="1003-4-a-14-1-i">
+                <interpParagraph label="1003-4-a-14-Interp-1-i">
                   <content>Lenders are required to report lien status for loans they originate and applications that do not result in originations. Lien status is determined by reference to the best information readily available to the lender at the time final action is taken and to the lender's own procedures. Thus, lenders may rely on the title search they routinely perform as part of their underwriting procedures&#8212;for example, for <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loans</ref>. Regulation C does not require lenders to perform title searches solely to comply with HMDA reporting requirements. Lenders may rely on other information that is readily available to them at the time final action is taken and that they reasonably believe is accurate, such as the applicant's statement on the application or the applicant's credit report. For example, where the applicant indicates on the application that there is a mortgage on the property or where the applicant's credit report shows that the applicant has a mortgage&#8212;and that mortgage is not going to be paid off as part of the transaction&#8212;the lender may assume that the loan it originates is secured by a subordinate lien. If the same application did not result in an origination&#8212;for example, because the application is denied or withdrawn&#8212;the lender would report the application as an application for a subordinate-lien loan.</content></interpParagraph>
-                <interpParagraph label="1003-4-a-14-Interp-1-ii" target="1003-4-a-14-1-ii">
-                  <content>Lenders may also consider their established procedures when determining lien status for applications that do not result in originations. For example, a consumer applies to a lender to refinance a $100,000 first mortgage; the consumer also has a <ref target="1003-2-p1-HomeEquityLineOfCredit" reftype="term">home equity line of credit</ref> for $20,000. If the lender's practice in such a case is to ensure that it will have first-lien position&#8212;through a subordination agreement with the holder of the mortgage on the home equity line&#8212;then the lender should report the application as an application for a first-lien loan.</content></interpParagraph>
+                <interpParagraph label="1003-4-a-14-Interp-1-ii">
+                  <content>Lenders may also consider their established procedures when determining lien status for applications that do not result in originations. For example, a consumer applies to a lender to refinance a $100,000 first mortgage; the consumer also has a <ref target="1003-2-p1-HomeEquityLineOfCredit" reftype="term">home equity line of credit</ref> for $20,000. If the lender's practice in such a case is to ensure that it will have first-lien position&#8212;through a subordination agreement with the holder of the mortgage on the home equity line&#8212;then the lender should report the application as an application for a first-lien loan.</content>
+                </interpParagraph>
               </interpParagraph>
             </interpParagraph>
-          </interpParagraph>
-          <interpParagraph label="1003-4-c-Interp" target="1003-4-c">
+
+          <interpParagraph label="1003-4-c-Interp">
             <content/>
             <interpParagraph label="1003-4-c-3-Interp" target="1003-4-c-3">
               <title>Paragraph 4(c)(3).</title>
               <content/>
-              <interpParagraph label="1003-4-c-3-Interp-1" target="1003-4-c-3-1">
+              <interpParagraph label="1003-4-c-3-Interp-1">
                 <content>An institution that opts to report home-equity lines reports the disposition of all applications, not just originations.</content>
               </interpParagraph>
             </interpParagraph>
           </interpParagraph>
+          
           <interpParagraph label="1003-4-d-Interp" target="1003-4-d">
             <title>4(d) Excluded data.</title>
             <content/>
-            <interpParagraph label="1003-4-d-Interp-1" target="1003-4-d-1">
+            <interpParagraph label="1003-4-d-Interp-1">
               <content>Mergers, purchases in bulk, and branch acquisitions. If a covered institution acquires loans in bulk from another institution (for example, from the receiver for a failed institution) but no merger or acquisition of the institution, or acquisition of a branch, is involved, the institution reports the loans as purchased loans.</content>
             </interpParagraph>
           </interpParagraph>
         </interpSection>
+        
         <interpSection label="1003-5-Interp" sectionNum="5">
           <title/>
           <interpParagraph label="1003-5-a-Interp" target="1003-5-a">
             <title>Section 1003.5(a)&#8212;Disclosure and Reporting</title>
             <content/>
-            <interpParagraph label="1003-5-a-Interp-1" target="1003-5-a-1">
+            <interpParagraph label="1003-5-a-Interp-1">
               <content>Submission of data. Institutions submit data to the appropriate Federal agencies in an automated, machine-readable form. The format must conform to that of the HMDA/LAR. An institution should contact the appropriate Federal agency for information regarding procedures and technical specifications for automated data submission; in some cases, agencies also make software available for automated data submission. The data are edited before submission, using the edits included in the agency-supplied software or equivalent edits in software available from vendors or developed in-house.</content>
             </interpParagraph>
-            <interpParagraph label="1003-5-a-Interp-2" target="1003-5-a-2">
+            <interpParagraph label="1003-5-a-Interp-2">
               <content>Submission in paper form. Institutions that report twenty-five or fewer entries on their HMDA/LAR may collect and report the data in paper form. An institution that submits its register in non-automated form sends two copies that are typed or computer printed and must use the format of the HMDA/LAR (but need not use the form itself). Each page must be numbered along with the total number of pages (for example, &#8220;Page 1 of 3&#8221;).</content>
             </interpParagraph>
-            <interpParagraph label="1003-5-a-Interp-3" target="1003-5-a-3">
+            <interpParagraph label="1003-5-a-Interp-3">
               <content>Procedures for entering data. The required data are entered in the register for each loan origination, each application acted on, and each loan purchased during the calendar year. The institution should decide on the procedure it wants to follow&#8212;for example, whether to begin entering the required data, when an application is received, or to wait until final action is taken (such as when a loan goes to closing or an application is denied).</content>
             </interpParagraph>
-            <interpParagraph label="1003-5-a-Interp-4" target="1003-5-a-4">
+            <interpParagraph label="1003-5-a-Interp-4">
               <content>Options for collection. An institution may collect data on separate registers at different branches, or on separate registers for different loan types (such as for home purchase or <ref target="1003-2-p1-HomeImprovementLoan" reftype="term">home improvement loans</ref>, or for loans on multifamily <ref target="1003-2-p1-Dwelling" reftype="term">dwellings</ref>). Entries need not be grouped on the register by <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>, or chronologically, or by census tract numbers, or in any other particular order.</content></interpParagraph>
-            <interpParagraph label="1003-5-a-Interp-5" target="1003-5-a-5">
+            <interpParagraph label="1003-5-a-Interp-5">
               <content>Change in appropriate Federal agency. If the appropriate Federal agency for a covered institution changes (as a consequence of a merger or a change in the institution's charter, for example), the institution must report data to the new appropriate Federal agency beginning with the year of the change.</content>
             </interpParagraph>
-            <interpParagraph label="1003-5-a-Interp-6" target="1003-5-a-6">
+            <interpParagraph label="1003-5-a-Interp-6">
               <content>Subsidiaries. An institution is a subsidiary of a bank or savings association (for purposes of reporting HMDA data to the same agency as the parent) if the bank or savings association holds or controls an ownership interest that is greater than 50 percent of the institution.</content>
             </interpParagraph>
-            <interpParagraph label="1003-5-a-Interp-7" target="1003-5-a-7">
+            <interpParagraph label="1003-5-a-Interp-7">
               <content>Transmittal sheet&#8212;additional data submissions. If an additional data submission becomes necessary (for example, because the institution discovers that data were omitted from the initial submission, or because revisions are called for), that submission must be accompanied by a transmittal sheet.</content>
             </interpParagraph>
-            <interpParagraph label="1003-5-a-Interp-8" target="1003-5-a-8">
-              <content>Transmittal sheet&#8212;revisions or deletions. If a data submission involves revisions or deletions of previously submitted data, it must state the total of all line entries contained in that submission, including both those representing revisions or deletions of previously submitted entries, and those that are being resubmitted unchanged or are being submitted for the first time. Depository institutions must provide a list of the <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref>s or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> in which they have home or <ref target="1003-2-p1-BranchOffice" reftype="term">branch offices</ref>.</content></interpParagraph>
+            <interpParagraph label="1003-5-a-Interp-8">
+              <content>Transmittal sheet&#8212;revisions or deletions. If a data submission involves revisions or deletions of previously submitted data, it must state the total of all line entries contained in that submission, including both those representing revisions or deletions of previously submitted entries, and those that are being resubmitted unchanged or are being submitted for the first time. Depository institutions must provide a list of the <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref>s or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> in which they have home or <ref target="1003-2-p1-BranchOffice" reftype="term">branch offices</ref>.</content>
+            </interpParagraph>
           </interpParagraph>
+          
           <interpParagraph label="1003-5-b-Interp" target="1003-5-b">
             <title>5(b) Public disclosure of statement.</title>
             <content/>
-            <interpParagraph label="1003-5-b-Interp-1" target="1003-5-b-1">
+            <interpParagraph label="1003-5-b-Interp-1">
               <content>Business day. For purposes of &#167; <ref target="1003-5" reftype="internal">1003.5</ref>, a business day is any calendar day other than a Saturday, Sunday, or legal public holiday.</content>
             </interpParagraph>
-            <interpParagraph label="1003-5-b-Interp-2" target="1003-5-b-2">
+            <interpParagraph label="1003-5-b-Interp-2">
               <content>Format. An institution may make the disclosure statement available in paper form or, if the person requesting the data agrees, in electronic form.</content>
             </interpParagraph>
           </interpParagraph>
+          
           <interpParagraph label="1003-5-c-Interp" target="1003-5-c">
             <title>5(c) Public disclosure of modified loan/application register.</title>
             <content/>
-            <interpParagraph label="1003-5-c-Interp-1" target="1003-5-c-1">
+            <interpParagraph label="1003-5-c-Interp-1">
               <content>Format. An institution may make the modified register available in paper or electronic form. Although institutions are not required to make the modified register available in census tract order, they are strongly encouraged to do so in order to enhance its utility to users.</content>
             </interpParagraph>
           </interpParagraph>
+          
           <interpParagraph label="1003-5-e-Interp" target="1003-5-e">
             <title>5(e) Notice of availability.</title>
             <content/>
-            <interpParagraph label="1003-5-e-Interp-1" target="1003-5-e-1">
+            <interpParagraph label="1003-5-e-Interp-1">
               <content>Poster&#8212;suggested text. An institution may use any text that meets the requirements of the regulation. Some of the Federal agencies that receive HMDA data provide HMDA posters that an institution can use to inform the public of the availability of its HMDA data, or the institution may create its own posters. If an institution prints its own, the following language is suggested but is not required:</content>
               <interpParagraph label="1003-5-e-Interp-1-HMDANotice">
               	<title>Home Mortgage Disclosure Act Notice</title>
@@ -1402,7 +1430,7 @@
           <interpParagraph label="1003-6-b-Interp" target="1003-6-b">
             <title>6(b) Bona fide errors.</title>
             <content/>
-            <interpParagraph label="1003-6-b-Interp-1" target="1003-6-b-1">
+            <interpParagraph label="1003-6-b-Interp-1">
               <content>Bona fide error&#8212;information from third parties. An institution that obtains the property-location information for applications and loans from third parties (such as appraisers or vendors of &#8220;geocoding&#8221; services) is responsible for ensuring that the information reported on its HMDA/LAR is correct.</content>
             </interpParagraph>
           </interpParagraph>
