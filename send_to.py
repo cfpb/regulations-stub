@@ -8,14 +8,15 @@ import argparse
 import json
 import urlparse
 import logging
-import boto
 from bs4 import BeautifulSoup
+
 
 logging.basicConfig(
         format='%(asctime)s %(levelname)s: %(message)s', 
         datefmt='%m/%d/%Y %I:%M:%S %p')
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
+
 
 def find_regulation_files(stub_base, regulation):
     """
@@ -95,25 +96,6 @@ def find_regulation_files(stub_base, regulation):
     return regulation_files
 
 
-def send_to_s3(bucket, stub_base, path):
-    """
-    Send the JSON at the given `path` to the given Amazon S3 `bucket`.
-    Path components will be appended to the bucket and will match the
-    path beneith `stub_base`.
-    """
-    relative_path = os.path.relpath(path, stub_base)
-    logger.info('sending {} to s3://{}/{}'.format(path, bucket.name, relative_path))
-
-    data = json.dumps(json.load(open(path, 'r')))
-
-    try:
-        k = boto.s3.key.Key(bucket)
-        k.key = relative_path
-        k.set_contents_from_string(data)
-    except boto.exception.S3ResponseError as e:
-        logger.error("error sending", exc_info=True)
-
-
 def send_to_server(api_base, stub_base, path):
     """
     Send the file at the given `path` to the given `api_base`. Path
@@ -150,9 +132,6 @@ if __name__ == '__main__':
     # We can either send to the regulations-core API 
     parser.add_argument('-a', '--api-base', action='store',
             help='the regulations-core API URL')
-    # Or to an Amazon S3 bucket
-    parser.add_argument('-b', '--s3-bucket', action='store',
-            help='an S3 bucket name')
 
     # We need to know where the JSON is coming from
     parser.add_argument('-s', '--stub-base', action='store',
@@ -191,16 +170,5 @@ if __name__ == '__main__':
     if args.api_base is not None:
         [send_to_server(args.api_base, args.stub_base, f) 
                 for f in args.files]
-    elif args.s3_bucket is not None:
-        # Set up our S3 connection and get the bucket
-        try:
-            conn = boto.connect_s3()
-            bucket = conn.get_bucket(args.s3_bucket)
-        except boto.exception.S3ResponseError as e:
-            logger.error("error connecting", exc_info=True)
-            sys.exit(1)
-
-        [send_to_s3(bucket, args.stub_base, f)
-                for f in args.files]
-
- 
+    else:
+        logger.error("No API URL provided. Use -a.")
