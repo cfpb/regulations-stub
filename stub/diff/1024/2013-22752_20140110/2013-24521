@@ -1,195 +1,192 @@
 {
-    "1024-39-c-Interp": {
-        "op": "deleted"
-    }, 
-    "1024-39-c-Interp-1": {
-        "op": "deleted"
-    }, 
-    "1024-39-d": {
-        "node": {
-            "child_labels": [
-                "1024-39-d-1", 
-                "1024-39-d-2"
-            ], 
-            "label": [
-                "1024", 
-                "39", 
-                "d"
-            ], 
-            "node_type": "regtext", 
-            "tagged_text": "(d)<E T=\"03\">Exemptions</E>\u2014", 
-            "text": "(d) Exemptions \u2014", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-d-1": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "d", 
-                "1"
-            ], 
-            "node_type": "regtext", 
-            "tagged_text": "(1)<E T=\"03\">Borrowers in bankruptcy.</E>A servicer is exempt fromthe requirements of this section for a mortgage loan while the borrower is a debtor in bankruptcy under Title 11 of the United States Code.", 
-            "text": "(1) Borrowers in bankruptcy. A servicer is exempt from the requirements of this section for a mortgage loan while the borrower is a debtor in bankruptcy under Title 11 of the United States Code.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-d-1-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-39-d-1-Interp-1", 
-                "1024-39-d-1-Interp-2", 
-                "1024-39-d-1-Interp-3"
-            ], 
-            "label": [
-                "1024", 
-                "39", 
-                "d", 
-                "1", 
-                "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": "39(d)(1) Borrowers in bankruptcy."
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-d-1-Interp-1": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "d", 
-                "1", 
-                "Interp", 
-                "1"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "\n              <E T=\"03\">1. Commencing a case.</E>The requirements of \u00a7 1024.39 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the borrower is a debtor.", 
-            "text": "1. Commencing a case. The requirements of \u00a7 1024.39 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the borrower is a debtor.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-d-1-Interp-2": {
-        "node": {
-            "child_labels": [
-                "1024-39-d-1-Interp-2-i", 
-                "1024-39-d-1-Interp-2-ii"
-            ], 
-            "label": [
-                "1024", 
-                "39", 
-                "d", 
-                "1", 
-                "Interp", 
-                "2"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "\n              <E T=\"03\">2. Obligation to resume early intervention requirements.</E>i. With respect to any portion of the mortgage debt that is not discharged, a servicer must resume compliance with \u00a7 1024.39 after the first delinquency that follows the earliest of any of three potential outcomes in the borrower's bankruptcy case: the case is dismissed, the case is closed, or the borrower receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume compliance with \u00a7 1024.39 does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of \u00a7 1024.39 in any manner believed necessary.", 
-            "text": "2. Obligation to resume early intervention requirements. ", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-d-1-Interp-2-i": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "d", 
-                "1", 
-                "Interp", 
-                "2", 
-                "i"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "i. With respect to any portion of the mortgage debt that is not discharged, a servicer must resume compliance with \u00a7 1024.39 after the first delinquency that follows the earliest of any of three potential outcomes in the borrower's bankruptcy case: the case is dismissed, the case is closed, or the borrower receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume compliance with \u00a7 1024.39 does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of \u00a7 1024.39 in any manner believed necessary.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-d-1-Interp-2-ii": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "d", 
-                "1", 
-                "Interp", 
-                "2", 
+    "1024-39-d-1-Interp-2-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Compliance with \u00a7 1024.39 is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the borrower's bankruptcy case is revived\u2014for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge\u2014the servicer is again exempt from the requirement in \u00a7 1024.39.",
+            "label":[
+                "1024",
+                "39",
+                "d",
+                "1",
+                "Interp",
+                "2",
                 "ii"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "ii. Compliance with \u00a7 1024.39 is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the borrower's bankruptcy case is revived\u2014for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge\u2014the servicer is again exempt from the requirement in \u00a7 1024.39.", 
-            "text": "ii. Compliance with \u00a7 1024.39 is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the borrower's bankruptcy case is revived\u2014for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge\u2014the servicer is again exempt from the requirement in \u00a7 1024.39.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-d-1-Interp-3": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "d", 
-                "1", 
-                "Interp", 
-                "3"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": "\n              <E T=\"03\">3. Joint obligors.</E>When two or more borrowers are joint obligors with primary liability on a mortgage loan subject to \u00a7 1024.39, the exemption in \u00a7 1024.39(d)(1) applies if any of the borrowers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from complying with \u00a7 1024.39 as to both the husband and the wife.", 
-            "text": "3. Joint obligors. When two or more borrowers are joint obligors with primary liability on a mortgage loan subject to \u00a7 1024.39, the exemption in \u00a7 1024.39(d)(1) applies if any of the borrowers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from complying with \u00a7 1024.39 as to both the husband and the wife.", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-d-2": {
-        "node": {
-            "child_labels": [], 
-            "label": [
-                "1024", 
-                "39", 
-                "d", 
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-39-c-Interp-1":{
+        "op":"deleted"
+    },
+    "1024-39-d-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(1) Borrowers in bankruptcy.A servicer is exempt from the requirements of this section for a mortgage loan while the borrower is a debtor in bankruptcy under Title 11 of the United States Code.",
+            "label":[
+                "1024",
+                "39",
+                "d",
+                "1"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-39-c-Interp":{
+        "op":"deleted"
+    },
+    "1024-39-d-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(2) Fair Debt Collections Practices Act.A servicer subject to the Fair Debt Collections Practices Act (FDCPA) (15 U.S.C. 1692 et seq.) with respect to a borrower is exempt from the requirements of this section with regard to a mortgage loan for which the borrower has sent a notification pursuant to FDCPA section 805(c) (15 U.S.C. 1692c(c)).",
+            "label":[
+                "1024",
+                "39",
+                "d",
                 "2"
-            ], 
-            "node_type": "regtext", 
-            "tagged_text": "(2)<E T=\"03\">Fair Debt Collections Practices Act.</E>A servicer subject to the Fair Debt Collections Practices Act (FDCPA) (15 U.S.C. 1692<E T=\"03\">et seq.</E>) with respect to a borrower is exempt from the requirements of this section with regard to a mortgage loan for which the borrower has sent a notification pursuant to FDCPA section 805(c) (15 U.S.C. 1692c(c)).", 
-            "text": "(2) Fair Debt Collections Practices Act. A servicer subject to the Fair Debt Collections Practices Act (FDCPA) (15 U.S.C. 1692 et seq.) with respect to a borrower is exempt from the requirements of this section with regard to a mortgage loan for which the borrower has sent a notification pursuant to FDCPA section 805(c) (15 U.S.C. 1692c(c)).", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-39-d-Interp": {
-        "node": {
-            "child_labels": [
-                "1024-39-d-1-Interp"
-            ], 
-            "label": [
-                "1024", 
-                "39", 
-                "d", 
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-39-d":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(d) Exemptions\u2014",
+            "label":[
+                "1024",
+                "39",
+                "d"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1024-39-d-1",
+                "1024-39-d-2"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-39-d-1-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Commencing a case.",
+            "text":"The requirements of \u00a7 1024.39 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the borrower is a debtor.",
+            "label":[
+                "1024",
+                "39",
+                "d",
+                "1",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-39-d-1-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"39(d)(1) Borrowers in bankruptcy.",
+            "text":"",
+            "label":[
+                "1024",
+                "39",
+                "d",
+                "1",
                 "Interp"
-            ], 
-            "node_type": "interp", 
-            "tagged_text": null, 
-            "text": "", 
-            "title": null
-        }, 
-        "op": "added"
-    }, 
-    "1024-41-d-1-Interp": {
-        "op": "deleted"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-39-d-1-Interp-1",
+                "1024-39-d-1-Interp-2",
+                "1024-39-d-1-Interp-3"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-39-d-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"",
+            "label":[
+                "1024",
+                "39",
+                "d",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-39-d-1-Interp"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-39-d-1-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Joint obligors.",
+            "text":"When two or more borrowers are joint obligors with primary liability on a mortgage loan subject to \u00a7 1024.39, the exemption in \u00a7 1024.39(d)(1) applies if any of the borrowers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from complying with \u00a7 1024.39 as to both the husband and the wife.",
+            "label":[
+                "1024",
+                "39",
+                "d",
+                "1",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-39-d-1-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Obligation to resume early intervention requirements.",
+            "text":"",
+            "label":[
+                "1024",
+                "39",
+                "d",
+                "1",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-39-d-1-Interp-2-i",
+                "1024-39-d-1-Interp-2-ii"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-39-d-1-Interp-2-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"With respect to any portion of the mortgage debt that is not discharged, a servicer must resume compliance with \u00a7 1024.39 after the first delinquency that follows the earliest of any of three potential outcomes in the borrower's bankruptcy case: the case is dismissed, the case is closed, or the borrower receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume compliance with \u00a7 1024.39 does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of \u00a7 1024.39 in any manner believed necessary.",
+            "label":[
+                "1024",
+                "39",
+                "d",
+                "1",
+                "Interp",
+                "2",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     }
 }
