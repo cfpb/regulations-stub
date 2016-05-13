@@ -15184,14 +15184,6 @@
                 [
                     146,
                     154
-                ],
-                [
-                    179,
-                    187
-                ],
-                [
-                    248,
-                    256
                 ]
             ],
             "ref":"servicer:1024-2-b-Servicer"
@@ -15208,6 +15200,15 @@
                 ]
             ],
             "ref":"servicing:1024-2-b-Servicing"
+        },
+        {
+            "offsets":[
+                [
+                    241,
+                    256
+                ]
+            ],
+            "ref":"loss mitigation option:1024-31-LossMitigationOption"
         },
         {
             "offsets":[
@@ -15295,10 +15296,6 @@
                 [
                     20,
                     28
-                ],
-                [
-                    131,
-                    139
                 ]
             ],
             "ref":"servicer:1024-2-b-Servicer"
@@ -15315,6 +15312,15 @@
                 ]
             ],
             "ref":"servicing:1024-2-b-Servicing"
+        },
+        {
+            "offsets":[
+                [
+                    124,
+                    139
+                ]
+            ],
+            "ref":"loss mitigation option:1024-31-LossMitigationOption"
         }
     ],
     "1024-31-TransfereeServicer":[
@@ -15582,11 +15588,11 @@
         {
             "offsets":[
                 [
-                    42,
+                    35,
                     51
                 ]
             ],
-            "ref":"servicer:1024-2-b-Servicer"
+            "ref":"loss mitigation option:1024-31-LossMitigationOption"
         },
         {
             "offsets":[
@@ -19434,19 +19440,24 @@
                     85
                 ],
                 [
-                    106,
-                    114
-                ],
-                [
                     224,
                     232
-                ],
-                [
-                    253,
-                    261
                 ]
             ],
             "ref":"servicer:1024-2-b-Servicer"
+        },
+        {
+            "offsets":[
+                [
+                    99,
+                    114
+                ],
+                [
+                    246,
+                    261
+                ]
+            ],
+            "ref":"loss mitigation option:1024-31-LossMitigationOption"
         },
         {
             "offsets":[
@@ -23327,10 +23338,6 @@
                     215
                 ],
                 [
-                    975,
-                    983
-                ],
-                [
                     1233,
                     1241
                 ]
@@ -23383,6 +23390,15 @@
                 ]
             ],
             "ref":"mortgage loan:1024-31-MortgageLoan"
+        },
+        {
+            "offsets":[
+                [
+                    968,
+                    983
+                ]
+            ],
+            "ref":"loss mitigation option:1024-31-LossMitigationOption"
         }
     ],
     "1024-36-a-Interp-2-i":[
@@ -28415,6 +28431,14 @@
             ],
             "reference":"1024-31-LossMitigationOption",
             "term":"loss mitigation option"
+        },
+        "master servicer:1024-31-LossMitigationOption":{
+            "position":[
+                172,
+                187
+            ],
+            "reference":"1024-31-LossMitigationOption",
+            "term":"master servicer"
         },
         "mortgage loan:1024-31-MortgageLoan":{
             "position":[

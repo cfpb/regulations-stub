@@ -4373,55 +4373,69 @@
         "op":"deleted"
     },
     "1024-23":{
-        "node":{
-            "tagged_text":null,
-            "title":"\u00a7 1024.23 ESIGN applicability.",
-            "text":"The Electronic Signatures in Global and National Commerce Act (\u201cESIGN\u201d), 15 U.S.C. 7001-7031, shall apply to this part.",
-            "label":[
-                "1024",
-                "23"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+        "text":[
+            [
+                "insert",
+                0,
+                "The Electronic Signatures in Global and National Commerce Act (\u201cESIGN\u201d), 15 U.S.C. 7001-7031, shall apply to this part."
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    10,
+                    20
+                ],
+                [
+                    "insert",
+                    10,
+                    "ESIGN applicability."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1024-22":{
-        "node":{
-            "tagged_text":null,
-            "title":"\u00a7 1024.22 Severability.",
-            "text":"If any particular provision of this part or the application of any particular provision to any person or circumstance is held invalid, the remainder of this part and the application of such provisions to other persons or circumstances shall not be affected by such holding.",
-            "label":[
-                "1024",
-                "22"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+        "text":[
+            [
+                "insert",
+                0,
+                "If any particular provision of this part or the application of any particular provision to any person or circumstance is held invalid, the remainder of this part and the application of such provisions to other persons or circumstances shall not be affected by such holding."
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    10,
+                    20
+                ],
+                [
+                    "insert",
+                    10,
+                    "Severability."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1024-21":{
-        "node":{
-            "tagged_text":null,
-            "title":"\u00a7 1024.21 Mortgage servicing transfers.",
-            "text":"",
-            "label":[
-                "1024",
-                "21"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1024-21-a",
-                "1024-21-b",
-                "1024-21-c",
-                "1024-21-d",
-                "1024-21-e",
-                "1024-21-f",
-                "1024-21-g",
-                "1024-21-h"
+        "title":[
+            [
+                [
+                    "delete",
+                    10,
+                    20
+                ],
+                [
+                    "insert",
+                    10,
+                    "Mortgage servicing transfers."
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1024-20":{
         "title":[
