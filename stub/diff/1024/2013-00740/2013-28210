@@ -1190,7 +1190,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Loss mitigation option means an alternative to foreclosure offered by the owner or assignee of a mortgage loan that is made available through the servicer to the borrower. Master servicer means the owner of the right to perform servicing. A master servicer may perform the servicing itself or do so through a subservicer.",
+            "text":"Loss mitigation option means an alternative to foreclosure offered by the owner or assignee of a mortgage loan that is made available through the servicer to the borrower.",
             "label":[
                 "1024",
                 "31",
@@ -1565,6 +1565,7 @@
                 "1024-31-HazardInsurance",
                 "1024-31-LossMitigationApplication",
                 "1024-31-LossMitigationOption",
+                "1024-31-MasterServicer",
                 "1024-31-MortgageLoan",
                 "1024-31-QualifiedWrittenRequest",
                 "1024-31-ReverseMortgageTransaction",
@@ -3747,6 +3748,21 @@
                 "1024-35-e-1-i-A",
                 "1024-35-e-1-i-B"
             ]
+        },
+        "op":"added"
+    },
+    "1024-31-MasterServicer":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Master servicer means the owner of the right to perform servicing. A master servicer may perform the servicing itself or do so through a subservicer.",
+            "label":[
+                "1024",
+                "31",
+                "MasterServicer"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
         },
         "op":"added"
     },

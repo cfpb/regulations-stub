@@ -15025,16 +15025,18 @@
                 ]
             ],
             "ref":"servicer:1024-2-b-Servicer"
-        },
+        }
+    ],
+    "1024-31-MasterServicer":[
         {
             "offsets":[
                 [
-                    228,
-                    237
+                    56,
+                    65
                 ],
                 [
-                    273,
-                    282
+                    101,
+                    110
                 ]
             ],
             "ref":"servicing:1024-2-b-Servicing"
@@ -15042,17 +15044,8 @@
         {
             "offsets":[
                 [
-                    241,
-                    256
-                ]
-            ],
-            "ref":"loss mitigation option:1024-31-LossMitigationOption"
-        },
-        {
-            "offsets":[
-                [
-                    309,
-                    320
+                    137,
+                    148
                 ]
             ],
             "ref":"subservicer:1024-31-Subservicer"
@@ -15158,7 +15151,7 @@
                     139
                 ]
             ],
-            "ref":"loss mitigation option:1024-31-LossMitigationOption"
+            "ref":"master servicer:1024-31-MasterServicer"
         }
     ],
     "1024-31-TransfereeServicer":[
@@ -15464,7 +15457,7 @@
                     51
                 ]
             ],
-            "ref":"loss mitigation option:1024-31-LossMitigationOption"
+            "ref":"master servicer:1024-31-MasterServicer"
         },
         {
             "offsets":[
@@ -19329,7 +19322,7 @@
                     261
                 ]
             ],
-            "ref":"loss mitigation option:1024-31-LossMitigationOption"
+            "ref":"master servicer:1024-31-MasterServicer"
         },
         {
             "offsets":[
@@ -23161,7 +23154,7 @@
                     983
                 ]
             ],
-            "ref":"loss mitigation option:1024-31-LossMitigationOption"
+            "ref":"master servicer:1024-31-MasterServicer"
         }
     ],
     "1024-36-a-Interp-2-i":[
@@ -27854,12 +27847,12 @@
             "reference":"1024-31-LossMitigationOption",
             "term":"loss mitigation option"
         },
-        "master servicer:1024-31-LossMitigationOption":{
+        "master servicer:1024-31-MasterServicer":{
             "position":[
-                172,
-                187
+                0,
+                15
             ],
-            "reference":"1024-31-LossMitigationOption",
+            "reference":"1024-31-MasterServicer",
             "term":"master servicer"
         },
         "mortgage loan:1024-31-MortgageLoan":{
