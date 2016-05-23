@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
 
-def find_regulation_files(stub_base, regulation):
+def find_regulation_files(stub_base, regulation, notice=None):
     """
     Find all JSON files in the `stub_base` belonging to the given
     `regulation`. Returns a list of paths relative to stub_base.
@@ -55,26 +55,36 @@ def find_regulation_files(stub_base, regulation):
     logger.info("getting files for regulation {}...".format(regulation))
     regulation_base = os.path.join(stub_base, 'regulation', regulation)
     if not os.path.isdir(regulation_base):
-        logger.error("Can't find regulation JSON for {} at {}".format(regulation, regulation_base))
+        logger.error("Can't find regulation JSON for {} at {}".format(
+            regulation, regulation_base))
         return []
     for dirname, subdirs, files in os.walk(regulation_base):
         notice_names = files
-        regulation_files.extend([os.path.join(dirname, f) for f in files])
+        regulation_files.extend([os.path.join(dirname, f) for f in files
+                                 if (notice is None or notice in f) and 
+                                    (os.path.join(dirname, f) 
+                                        not in regulation_files)])
 
     # Get notice JSON
     logger.info("getting notice files for regulation {}...".format(regulation))
     for dirname, subdirs, files in os.walk(os.path.join(stub_base, 'notice')):
-        # Notices did not used to be stored in a regulation-part-number
-        # subdirectory. Use notice_names, from above, to just grab the
-        # ones we want.
-        notice_files = [os.path.join(dirname, f) for f in files if f in notice_names]
-        regulation_files.extend(notice_files)
-
         # Check to see if we have newer-generated notices that *are*
         # in a regulation-part-number subdirectory.
         if dirname.endswith(regulation):
-            notice_files = [os.path.join(dirname, f) for f in files if f in notice_names]
+            notice_files = [os.path.join(dirname, f) for f in files if 
+                            (notice is None or notice in f) and 
+                            (f in notice_names) and
+                            (os.path.join(dirname, f) not in regulation_files)]
             regulation_files.extend(notice_files)
+
+        # Notices did not used to be stored in a regulation-part-number
+        # subdirectory. Use notice_names, from above, to just grab the
+        # ones we want.
+        notice_files = [os.path.join(dirname, f) for f in files if 
+                        (notice is None or notice in f) and 
+                        (f in notice_names) and
+                        (os.path.join(dirname, f) not in regulation_files)]
+        regulation_files.extend(notice_files)
 
     # Get layer JSON
     logger.info("getting layer files for regulation {}...".format(regulation))
@@ -82,15 +92,22 @@ def find_regulation_files(stub_base, regulation):
         # For layers, dig into each subdirectory of the layer path until
         # we find one with our regulation part number.
         if dirname.endswith(regulation):
-            layer_files = [os.path.join(dirname, f) for f in files if f in notice_names]
+            layer_files = [os.path.join(dirname, f) for f in files
+                           if (notice is None or notice in f) and 
+                              (os.path.join(dirname, f) 
+                                  not in regulation_files)]
             regulation_files.extend(layer_files)
 
     # Get diff JSON
     logger.info("getting diff files for regulation {}...".format(regulation))
-    for dirname, subdirs, files in os.walk(os.path.join(stub_base, 'diff', regulation)):
+    for dirname, subdirs, files in os.walk(os.path.join(stub_base, 
+                                                        'diff', 
+                                                        regulation)):
         # For diffs, each regulation directory has a notice directory
         # with json files corrosponding to each other notice. 
-        diff_files = [os.path.join(dirname, f) for f in files]
+        diff_files = [os.path.join(dirname, f) for f in files 
+                      if (notice is None or notice in f) and 
+                         (os.path.join(dirname, f) not in regulation_files)]
         regulation_files.extend(diff_files)
 
     return regulation_files
@@ -145,18 +162,24 @@ if __name__ == '__main__':
     parser.add_argument('-f', '--files', nargs='*', action='store',
             default=[], help='specific JSON files to upload')
 
+    # If we're uploading by regulation and not file, we can also specify
+    # a particular notice instead of the whole reg.
+    parser.add_argument('-n', '--notice', nargs='?', action='store',
+            help='the specific notice for a regulation to upload (eg: 2016-12345')
+    
     args = parser.parse_args()
 
     # We need a destination
-    if args.api_base is None and args.s3_bucket is None:
-        logger.error("ERROR: either -a api_base or -b s3_bucket is required.")
+    if args.api_base is None:
+        logger.error("ERROR: -a api_base is required.")
         parser.print_help()
         sys.exit(1)
 
     if args.regulation is not None:
         # If we're going to upload all the JSON for a single regulation, 
         # we need to fetch those files.
-        args.files = find_regulation_files(args.stub_base, args.regulation)
+        args.files = find_regulation_files(args.stub_base,
+                args.regulation, notice=args.notice)
 
     elif len(args.files) > 0:
         # We need to get the path to the files relative to stub_base
