@@ -105,8 +105,9 @@ def determine_regulation_paths(api_base, regulation):
     # Get diff JSON
     logger.info("generating diff paths for regulation {}...".format(regulation))
     for notice in notices:
-        regulation_paths.extend([os.path.join('diff', regulation,
-            notice, n) for n in notices])
+        diff_files = [os.path.join('diff', regulation, notice, n) 
+                      for n in notices if n != notice]
+        regulation_paths.extend(diff_files)
 
     return regulation_paths
 
