@@ -1,2381 +1,3707 @@
 {
-    "1003-1-b-1-i":[
+    "1003-A-h2-h6-p27-p30": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    30,
-                    52
+                    77, 
+                    88
                 ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
+            ]
         }
-    ],
-    "1003-1-c":[
+    ], 
+    "1003-4-a-1-Interp-2": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    40,
-                    62
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        },
-        {
-            "offsets":[
-                [
-                    277,
-                    296
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
-        {
-            "offsets":[
-                [
-                    298,
-                    320
-                ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
-        },
-        {
-            "offsets":[
-                [
-                    326,
-                    338
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
-        }
-    ],
-    "1003-2-p1-Application-1":[
-        {
-            "offsets":[
-                [
-                    67,
-                    85
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
-        {
-            "offsets":[
-                [
-                    89,
-                    110
-                ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
-        },
-        {
-            "offsets":[
-                [
-                    117,
-                    128
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
-        },
-        {
-            "offsets":[
-                [
-                    182,
-                    203
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-2-p1-Application-2":[
-        {
-            "offsets":[
-                [
-                    58,
-                    76
-                ],
-                [
-                    361,
-                    379
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
-        {
-            "offsets":[
-                [
-                    170,
-                    191
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-2-p1-BranchOffice-2":[
-        {
-            "offsets":[
-                [
-                    162,
-                    181
-                ],
-                [
-                    450,
-                    469
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
-        {
-            "offsets":[
-                [
-                    183,
-                    205
-                ],
-                [
-                    471,
-                    493
-                ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
-        },
-        {
-            "offsets":[
-                [
-                    210,
-                    222
-                ],
-                [
-                    498,
-                    510
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
-        },
-        {
-            "offsets":[
-                [
-                    291,
-                    304
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        },
-        {
-            "offsets":[
-                [
-                    311,
-                    314
-                ],
-                [
-                    547,
-                    550
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        }
-    ],
-    "1003-2-p1-Dwelling":[
-        {
-            "offsets":[
-                [
-                    277,
-                    294
-                ]
-            ],
-            "ref":"manufactured home:1003-2-p1-ManufacturedHome"
-        }
-    ],
-    "1003-2-p1-FinancialInstitution-1-ii":[
-        {
-            "offsets":[
-                [
-                    49,
-                    62
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        },
-        {
-            "offsets":[
-                [
-                    69,
-                    72
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        }
-    ],
-    "1003-2-p1-FinancialInstitution-1-iii":[
-        {
-            "offsets":[
-                [
-                    62,
-                    80
-                ],
-                [
-                    161,
-                    179
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
-        {
-            "offsets":[
-                [
-                    144,
-                    155
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
-        },
-        {
-            "offsets":[
-                [
-                    229,
-                    237
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-2-p1-FinancialInstitution-2-i-A":[
-        {
-            "offsets":[
-                [
-                    15,
-                    34
-                ],
-                [
-                    62,
-                    81
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
-        {
-            "offsets":[
-                [
-                    46,
-                    58
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
-        }
-    ],
-    "1003-2-p1-FinancialInstitution-2-i-B":[
-        {
-            "offsets":[
-                [
-                    15,
-                    34
-                ],
-                [
-                    62,
-                    81
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
-        {
-            "offsets":[
-                [
-                    46,
-                    58
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
-        }
-    ],
-    "1003-2-p1-FinancialInstitution-2-ii":[
-        {
-            "offsets":[
-                [
-                    49,
-                    62
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        },
-        {
-            "offsets":[
-                [
-                    69,
-                    72
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        }
-    ],
-    "1003-2-p1-FinancialInstitution-2-iii-B":[
-        {
-            "offsets":[
-                [
-                    60,
-                    79
-                ],
-                [
-                    107,
-                    126
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
-        {
-            "offsets":[
-                [
-                    91,
-                    103
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
-        }
-    ],
-    "1003-2-p1-HomeEquityLineOfCredit":[
-        {
-            "offsets":[
-                [
-                    70,
-                    78
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-2-p1-HomeImprovementLoan-1":[
-        {
-            "offsets":[
-                [
-                    34,
-                    42
-                ],
-                [
-                    146,
-                    154
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-2-p1-HomeImprovementLoan-2":[
-        {
-            "offsets":[
-                [
-                    10,
+                    7, 
                     18
-                ],
+                ], 
                 [
-                    135,
-                    143
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        },
-        {
-            "offsets":[
+                    78, 
+                    89
+                ], 
                 [
-                    219,
-                    240
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        },
-        {
-            "offsets":[
+                    131, 
+                    142
+                ], 
                 [
-                    246,
-                    267
+                    201, 
+                    212
                 ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
+            ]
         }
-    ],
-    "1003-2-p1-HomePurchaseLoan":[
+    ], 
+    "1003-4-a-1-Interp-1": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    84,
-                    92
+                    26, 
+                    37
+                ], 
+                [
+                    75, 
+                    86
+                ], 
+                [
+                    125, 
+                    136
                 ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
+            ]
         }
-    ],
-    "1003-2-p1-ManufacturedHome":[
+    ], 
+    "1003-1-Interp-9": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    143,
-                    160
-                ]
-            ],
-            "ref":"manufactured home:1003-2-p1-ManufacturedHome"
-        }
-    ],
-    "1003-2-p1-Metropolitan-1":[
-        {
-            "offsets":[
-                [
-                    49,
-                    78
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        }
-    ],
-    "1003-2-p1-Metropolitan-2":[
-        {
-            "offsets":[
-                [
-                    40,
-                    61
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
-        {
-            "offsets":[
-                [
-                    68,
-                    71
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        }
-    ],
-    "1003-2-p1-Refinancing-1":[
-        {
-            "offsets":[
-                [
-                    56,
-                    74
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
-        {
-            "offsets":[
-                [
-                    273,
-                    282
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-2-p1-Refinancing-2":[
-        {
-            "offsets":[
-                [
-                    104,
-                    113
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-3-a-1":[
-        {
-            "offsets":[
-                [
-                    40,
-                    61
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-3-a-2":[
-        {
-            "offsets":[
-                [
-                    49,
-                    70
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-4-a":[
-        {
-            "offsets":[
-                [
-                    35,
-                    56
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        },
-        {
-            "offsets":[
-                [
-                    139,
-                    158
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
-        {
-            "offsets":[
-                [
-                    160,
-                    182
-                ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
-        },
-        {
-            "offsets":[
-                [
-                    188,
-                    200
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
-        },
-        {
-            "offsets":[
-                [
-                    417,
-                    435
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        }
-    ],
-    "1003-4-a-9":[
-        {
-            "offsets":[
-                [
-                    88,
-                    109
-                ],
-                [
-                    215,
-                    236
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
-        {
-            "offsets":[
-                [
-                    186,
-                    199
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        }
-    ],
-    "1003-4-a-12-i":[
-        {
-            "offsets":[
-                [
-                    139,
-                    163
-                ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
-        },
-        {
-            "offsets":[
-                [
-                    342,
-                    350
-                ],
-                [
-                    447,
-                    455
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-4-a-12-ii":[
-        {
-            "offsets":[
-                [
-                    301,
-                    326
-                ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
-        }
-    ],
-    "1003-4-a-14":[
-        {
-            "offsets":[
-                [
-                    109,
-                    117
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-4-b-1":[
-        {
-            "offsets":[
-                [
-                    6,
-                    27
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-4-b-2":[
-        {
-            "offsets":[
-                [
-                    99,
-                    120
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-4-c":[
-        {
-            "offsets":[
-                [
-                    21,
-                    42
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-4-d":[
-        {
-            "offsets":[
-                [
-                    21,
-                    42
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-4-d-1":[
-        {
-            "offsets":[
-                [
-                    41,
-                    62
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-4-d-6":[
-        {
-            "offsets":[
-                [
-                    127,
-                    140
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        }
-    ],
-    "1003-4-e":[
-        {
-            "offsets":[
-                [
-                    449,
-                    452
-                ],
-                [
-                    550,
-                    553
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    458,
-                    480
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
-        {
-            "offsets":[
-                [
-                    520,
-                    533
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        }
-    ],
-    "1003-5-a-1":[
-        {
-            "offsets":[
-                [
-                    83,
-                    104
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-5-b-1":[
-        {
-            "offsets":[
-                [
-                    122,
-                    143
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-5-b-3-i":[
-        {
-            "offsets":[
-                [
-                    117,
-                    130
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        },
-        {
-            "offsets":[
-                [
-                    145,
-                    148
-                ],
-                [
-                    285,
-                    288
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    164,
-                    185
-                ],
-                [
-                    292,
-                    313
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        }
-    ],
-    "1003-5-b-3-ii":[
-        {
-            "offsets":[
-                [
-                    72,
-                    85
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        },
-        {
-            "offsets":[
-                [
-                    95,
-                    98
-                ],
-                [
-                    342,
-                    345
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    104,
-                    126
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
-        {
-            "offsets":[
-                [
-                    349,
-                    370
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        }
-    ],
-    "1003-5-c":[
-        {
-            "offsets":[
-                [
-                    63,
-                    84
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        },
-        {
-            "offsets":[
-                [
-                    627,
-                    630
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    634,
-                    655
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        }
-    ],
-    "1003-5-d":[
-        {
-            "offsets":[
-                [
-                    28,
-                    49
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-5-e":[
-        {
-            "offsets":[
-                [
-                    30,
-                    51
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        },
-        {
-            "offsets":[
-                [
-                    164,
-                    177
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        },
-        {
-            "offsets":[
-                [
-                    192,
+                    184, 
                     195
                 ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
+            ]
+        }, 
         {
-            "offsets":[
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
                 [
-                    200,
-                    221
+                    220, 
+                    238
                 ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
+            ]
         }
-    ],
-    "1003-5-f":[
+    ], 
+    "1003-4-a-1-Interp-4": [
         {
-            "offsets":[
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
                 [
-                    85,
-                    107
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        },
-        {
-            "offsets":[
-                [
-                    207,
-                    210
-                ],
-                [
-                    442,
-                    445
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    215,
-                    236
-                ],
-                [
-                    450,
-                    471
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        }
-    ],
-    "1003-A-h2-h3-1":[
-        {
-            "offsets":[
-                [
-                    3,
-                    14
-                ]
-            ],
-            "ref":"application:1003-2-p1-Application-1"
-        }
-    ],
-    "1003-A-h2-h3-2":[
-        {
-            "offsets":[
-                [
-                    8,
-                    19
-                ]
-            ],
-            "ref":"application:1003-2-p1-Application-1"
-        }
-    ],
-    "1003-A-h2-h3-p6":[
-        {
-            "offsets":[
-                [
-                    26,
-                    34
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-A-h2-h3-p8":[
-        {
-            "offsets":[
-                [
-                    19,
-                    27
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-A-h2-h3-p8-b":[
-        {
-            "offsets":[
-                [
-                    113,
-                    130
-                ]
-            ],
-            "ref":"manufactured home:1003-2-p1-ManufacturedHome"
-        }
-    ],
-    "1003-A-h2-h3-p11":[
-        {
-            "offsets":[
-                [
-                    7,
-                    18
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
-        }
-    ],
-    "1003-A-h2-h3-p11-a":[
-        {
-            "offsets":[
-                [
-                    19,
-                    30
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
-        }
-    ],
-    "1003-A-h2-h3-p12":[
-        {
-            "offsets":[
-                [
-                    37,
-                    45
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-A-h2-h3-p13":[
-        {
-            "offsets":[
-                [
-                    41,
-                    49
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-A-h2-h3-p14-c":[
-        {
-            "offsets":[
-                [
-                    73,
-                    81
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        },
-        {
-            "offsets":[
-                [
-                    104,
-                    107
-                ],
-                [
-                    129,
-                    132
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    139,
-                    141
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
-        {
-            "offsets":[
-                [
-                    193,
-                    206
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        }
-    ],
-    "1003-A-h2-h3-7-a":[
-        {
-            "offsets":[
-                [
-                    9,
-                    27
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        }
-    ],
-    "1003-A-h2-h3-7-b":[
-        {
-            "offsets":[
-                [
-                    9,
-                    27
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        }
-    ],
-    "1003-A-h2-h3-7-c":[
-        {
-            "offsets":[
-                [
-                    9,
-                    30
-                ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
-        }
-    ],
-    "1003-A-h2-h3-7-e":[
-        {
-            "offsets":[
-                [
-                    9,
-                    20
-                ],
-                [
-                    55,
-                    66
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
-        }
-    ],
-    "1003-A-h2-h3-8":[
-        {
-            "offsets":[
-                [
-                    133,
+                    137, 
                     151
                 ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        }
-    ],
-    "1003-A-h2-h3-p17-c":[
+            ]
+        }, 
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    66,
-                    77
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
-        }
-    ],
-    "1003-A-h2-h4-p19":[
-        {
-            "offsets":[
-                [
-                    7,
-                    18
-                ]
-            ],
-            "ref":"application:1003-2-p1-Application-1"
-        }
-    ],
-    "1003-A-h2-h4-p20":[
-        {
-            "offsets":[
-                [
-                    7,
-                    18
-                ]
-            ],
-            "ref":"application:1003-2-p1-Application-1"
-        }
-    ],
-    "1003-A-h2-h4-p21":[
-        {
-            "offsets":[
-                [
-                    7,
-                    18
-                ]
-            ],
-            "ref":"application:1003-2-p1-Application-1"
-        }
-    ],
-    "1003-A-h2-h5-p26":[
-        {
-            "offsets":[
-                [
-                    82,
-                    85
-                ],
-                [
-                    104,
-                    107
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    94,
-                    96
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
-        {
-            "offsets":[
-                [
-                    124,
-                    127
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        }
-    ],
-    "1003-A-h2-h5-p26-1":[
-        {
-            "offsets":[
-                [
-                    3,
-                    6
-                ],
-                [
-                    78,
-                    81
-                ],
-                [
-                    107,
-                    110
-                ],
-                [
-                    132,
-                    135
-                ],
-                [
-                    289,
-                    292
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    10,
-                    31
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
-        {
-            "offsets":[
-                [
-                    90,
-                    92
-                ],
-                [
-                    140,
-                    142
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
-        {
-            "offsets":[
-                [
-                    127,
-                    130
-                ],
-                [
-                    298,
-                    301
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        }
-    ],
-    "1003-A-h2-h5-p26-5":[
-        {
-            "offsets":[
-                [
-                    28,
-                    31
-                ],
-                [
-                    102,
-                    105
-                ],
-                [
-                    207,
-                    210
-                ],
-                [
-                    327,
-                    330
-                ],
-                [
-                    432,
-                    435
-                ],
-                [
-                    481,
-                    484
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    36,
-                    58
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
-        {
-            "offsets":[
-                [
-                    111,
-                    114
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
-        {
-            "offsets":[
-                [
-                    153,
-                    166
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        },
-        {
-            "offsets":[
-                [
-                    214,
-                    216
-                ],
-                [
-                    334,
-                    336
-                ],
-                [
-                    439,
-                    441
-                ],
-                [
-                    488,
-                    490
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        }
-    ],
-    "1003-A-h2-h5-p26-6":[
-        {
-            "offsets":[
-                [
-                    390,
-                    393
-                ],
-                [
-                    470,
-                    473
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    398,
-                    401
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
-        {
-            "offsets":[
-                [
-                    430,
-                    443
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        }
-    ],
-    "1003-A-h2-h6-p27-6-b":[
-        {
-            "offsets":[
-                [
-                    28,
-                    37
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-A-h2-h9-1-a":[
-        {
-            "offsets":[
-                [
-                    31,
-                    42
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
-        },
-        {
-            "offsets":[
-                [
-                    49,
-                    57
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        },
-        {
-            "offsets":[
-                [
-                    66,
-                    87
-                ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
-        },
-        {
-            "offsets":[
-                [
-                    176,
-                    200
-                ],
-                [
-                    435,
-                    459
-                ],
-                [
-                    949,
-                    973
-                ],
-                [
-                    1011,
-                    1035
-                ],
-                [
-                    1162,
-                    1186
-                ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
-        },
-        {
-            "offsets":[
-                [
-                    714,
-                    739
-                ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
-        },
-        {
-            "offsets":[
-                [
-                    840,
-                    865
-                ],
-                [
-                    878,
-                    903
-                ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
-        }
-    ],
-    "1003-A-h2-h9-1-b":[
-        {
-            "offsets":[
-                [
-                    55,
-                    76
-                ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
-        },
-        {
-            "offsets":[
-                [
-                    89,
-                    97
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-A-h2-h9-1-d":[
-        {
-            "offsets":[
-                [
-                    140,
-                    164
-                ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
-        }
-    ],
-    "1003-A-h2-h9-1-e":[
-        {
-            "offsets":[
-                [
-                    45,
-                    69
-                ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
-        }
-    ],
-    "1003-A-h2-h9-2":[
-        {
-            "offsets":[
-                [
-                    77,
-                    101
-                ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
-        },
-        {
-            "offsets":[
-                [
-                    192,
-                    213
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-1-Interp-9":[
-        {
-            "offsets":[
-                [
-                    233,
-                    251
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        }
-    ],
-    "1003-2-p1-BranchOffice-Interp-2":[
-        {
-            "offsets":[
-                [
-                    344,
-                    347
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    352,
-                    374
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
-        {
-            "offsets":[
-                [
-                    414,
-                    427
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        }
-    ],
-    "1003-2-p1-BranchOffice-Interp-3":[
-        {
-            "offsets":[
-                [
-                    64,
-                    77
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        },
-        {
-            "offsets":[
-                [
-                    255,
+                    246, 
                     258
                 ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    263,
-                    285
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
+            ]
         }
-    ],
-    "1003-2-p1-Dwelling-Interp-1":[
+    ], 
+    "1003-4-a-1-Interp-3": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    29,
-                    37
-                ],
+                    183, 
+                    194
+                ], 
                 [
-                    188,
-                    196
+                    504, 
+                    515
                 ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
+            ]
         }
-    ],
-    "1003-2-p1-Dwelling-Interp-2":[
+    ], 
+    "1003-A-h2-h6-p27-p38": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    67,
-                    76
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-2-p1-FinancialInstitution-Interp-1":[
-        {
-            "offsets":[
-                [
-                    669,
-                    690
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-2-p1-FinancialInstitution-Interp-4":[
-        {
-            "offsets":[
-                [
-                    85,
-                    104
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        }
-    ],
-    "1003-2-p1-HomeImprovementLoan-Interp-1":[
-        {
-            "offsets":[
-                [
-                    64,
-                    72
-                ],
-                [
-                    148,
-                    156
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        },
-        {
-            "offsets":[
-                [
-                    162,
-                    183
-                ],
-                [
-                    229,
-                    250
-                ],
-                [
-                    303,
-                    324
-                ],
-                [
-                    416,
-                    437
-                ],
-                [
-                    461,
-                    482
-                ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
-        },
-        {
-            "offsets":[
-                [
-                    526,
-                    548
-                ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
-        }
-    ],
-    "1003-2-p1-HomeImprovementLoan-Interp-2":[
-        {
-            "offsets":[
-                [
-                    80,
+                    77, 
                     88
-                ],
-                [
-                    127,
-                    135
                 ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
+            ]
         }
-    ],
-    "1003-2-p1-HomeImprovementLoan-Interp-3":[
+    ], 
+    "1003-1-Interp-4": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    30,
-                    51
+                    280, 
+                    291
+                ], 
+                [
+                    331, 
+                    342
                 ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
+            ]
         }
-    ],
-    "1003-2-p1-HomeImprovementLoan-Interp-4":[
+    ], 
+    "1003-A-h2-h6-p27-6-b": [
         {
-            "offsets":[
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
                 [
-                    167,
-                    188
-                ],
-                [
-                    402,
-                    423
-                ],
-                [
-                    743,
-                    764
+                    28, 
+                    37
                 ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
+            ]
         }
-    ],
-    "1003-2-p1-HomeImprovementLoan-Interp-5":[
+    ], 
+    "1003-4-d-6": [
         {
-            "offsets":[
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
                 [
-                    40,
-                    61
-                ],
-                [
-                    125,
-                    146
+                    127, 
+                    140
                 ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
-        },
-        {
-            "offsets":[
-                [
-                    75,
-                    86
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
+            ]
         }
-    ],
-    "1003-2-p1-HomePurchaseLoan-Interp-1":[
+    ], 
+    "1003-4-d-1": [
         {
-            "offsets":[
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
                 [
-                    23,
-                    41
+                    41, 
+                    62
                 ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
+            ]
+        }
+    ], 
+    "1003-1-Interp-3": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    73,
+                    63, 
+                    74
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h9-1-c": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    32, 
+                    43
+                ]
+            ]
+        }
+    ], 
+    "1003-2-FinancialInstitution-2-i-B": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    15, 
+                    34
+                ], 
+                [
+                    62, 
                     81
-                ],
-                [
-                    111,
-                    119
                 ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-2-p1-HomePurchaseLoan-Interp-2":[
+            ]
+        }, 
         {
-            "offsets":[
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
                 [
-                    22,
-                    30
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        },
-        {
-            "offsets":[
-                [
-                    178,
-                    196
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        }
-    ],
-    "1003-2-p1-HomePurchaseLoan-Interp-3":[
-        {
-            "offsets":[
-                [
-                    89,
-                    107
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
-        {
-            "offsets":[
-                [
-                    140,
-                    148
-                ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        }
-    ],
-    "1003-2-p1-HomePurchaseLoan-Interp-4":[
-        {
-            "offsets":[
-                [
-                    30,
-                    48
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        }
-    ],
-    "1003-2-p1-HomePurchaseLoan-Interp-5":[
-        {
-            "offsets":[
-                [
-                    40,
+                    46, 
                     58
                 ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
+            ]
         }
-    ],
-    "1003-2-p1-HomePurchaseLoan-Interp-6":[
+    ], 
+    "1003-B-h2-D": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    300,
-                    318
+                    66, 
+                    77
                 ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
+            ]
         }
-    ],
-    "1003-2-p1-HomePurchaseLoan-Interp-7":[
+    ], 
+    "1003-B-h2-E": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    40,
+                    97, 
+                    108
+                ], 
+                [
+                    221, 
+                    232
+                ], 
+                [
+                    329, 
+                    340
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-12-ii-Interp-3": [
+        {
+            "ref": "average prime offer rate:1003-4-a-12-ii", 
+            "offsets": [
+                [
+                    89, 
+                    114
+                ]
+            ]
+        }
+    ], 
+    "1003-B-h2-A": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    116, 
+                    127
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    194, 
+                    206
+                ], 
+                [
+                    358, 
+                    370
+                ]
+            ]
+        }
+    ], 
+    "1003-B-h2-B": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    279, 
+                    290
+                ]
+            ]
+        }
+    ], 
+    "1003-2-ManufacturedHome-Interp-1": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    666, 
+                    678
+                ]
+            ]
+        }, 
+        {
+            "ref": "manufactured home:1003-2-ManufacturedHome", 
+            "offsets": [
+                [
+                    691, 
+                    709
+                ]
+            ]
+        }
+    ], 
+    "1003-2-FinancialInstitution-2-i-A": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    15, 
+                    34
+                ], 
+                [
+                    62, 
+                    81
+                ]
+            ]
+        }, 
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    46, 
                     58
-                ],
-                [
-                    150,
-                    168
                 ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
-        {
-            "offsets":[
-                [
-                    72,
-                    93
-                ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
-        },
-        {
-            "offsets":[
-                [
-                    100,
-                    111
-                ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
+            ]
         }
-    ],
-    "1003-2-p1-ManufacturedHome-Interp-1":[
+    ], 
+    "1003-2-FinancialInstitution-1-iii": [
         {
-            "offsets":[
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
                 [
-                    16,
-                    33
-                ]
-            ],
-            "ref":"manufactured home:1003-2-p1-ManufacturedHome"
-        },
-        {
-            "offsets":[
+                    62, 
+                    80
+                ], 
                 [
-                    726,
-                    744
-                ]
-            ],
-            "ref":"manufactured home:1003-2-p1-ManufacturedHome"
-        }
-    ],
-    "1003-2-p1-Metropolitan-Interp":[
-        {
-            "offsets":[
-                [
-                    368,
-                    371
-                ],
-                [
-                    449,
-                    452
-                ],
-                [
-                    596,
-                    599
-                ],
-                [
-                    688,
-                    691
-                ],
-                [
-                    777,
-                    780
-                ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    443,
-                    445
-                ],
-                [
-                    623,
-                    625
-                ],
-                [
-                    678,
-                    680
-                ],
-                [
-                    722,
-                    724
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        }
-    ],
-    "1003-4-a-Interp-1-vi":[
-        {
-            "offsets":[
-                [
-                    2,
-                    23
-                ]
-            ],
-            "ref":"financial institution:1003-2-p1-FinancialInstitution"
-        }
-    ],
-    "1003-4-a-1-Interp-1":[
-        {
-            "offsets":[
-                [
-                    0,
-                    11
-                ]
-            ],
-            "ref":"application:1003-2-p1-Application-1"
-        }
-    ],
-    "1003-4-a-1-Interp-4":[
-        {
-            "offsets":[
-                [
-                    165,
+                    161, 
                     179
                 ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
-        }
-    ],
-    "1003-4-a-3-Interp-2":[
+            ]
+        }, 
         {
-            "offsets":[
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
                 [
-                    46,
-                    64
-                ],
-                [
-                    156,
-                    174
+                    144, 
+                    155
                 ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        },
+            ]
+        }, 
         {
-            "offsets":[
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
                 [
-                    78,
-                    99
-                ],
-                [
-                    191,
-                    212
-                ],
-                [
-                    276,
-                    297
-                ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
-        },
-        {
-            "offsets":[
-                [
-                    106,
-                    117
-                ],
-                [
-                    226,
+                    229, 
                     237
                 ]
-            ],
-            "ref":"refinancing:1003-2-p1-Refinancing"
+            ]
         }
-    ],
-    "1003-4-a-9-Interp-1":[
+    ], 
+    "1003-4-a-1-Interp-5": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    94,
-                    115
+                    30, 
+                    41
+                ], 
+                [
+                    114, 
+                    125
                 ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
+            ]
         }
-    ],
-    "1003-4-a-9-Interp-2":[
+    ], 
+    "1003-A-h2-h6-p27-p40-c": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    88,
-                    106
-                ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        }
-    ],
-    "1003-4-a-9-Interp-3":[
-        {
-            "offsets":[
-                [
-                    130,
+                    122, 
                     133
-                ],
-                [
-                    418,
-                    421
                 ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
-        {
-            "offsets":[
-                [
-                    137,
-                    158
-                ],
-                [
-                    425,
-                    446
-                ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
-        {
-            "offsets":[
-                [
-                    195,
-                    208
-                ],
-                [
-                    396,
-                    409
-                ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
+            ]
         }
-    ],
-    "1003-4-a-9-Interp-4":[
+    ], 
+    "1003-1-b-2": [
         {
-            "offsets":[
+            "ref": "act:1003-2-Act", 
+            "offsets": [
                 [
-                    28,
-                    45
-                ],
-                [
-                    102,
-                    119
+                    16, 
+                    19
                 ]
-            ],
-            "ref":"manufactured home:1003-2-p1-ManufacturedHome"
+            ]
         }
-    ],
-    "1003-4-a-12-ii-Interp-1":[
+    ], 
+    "1003-1-Interp-5": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    0,
-                    24
-                ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
-        },
-        {
-            "offsets":[
+                    31, 
+                    42
+                ], 
                 [
-                    26,
-                    51
+                    224, 
+                    235
                 ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
-        },
-        {
-            "offsets":[
-                [
-                    598,
-                    623
-                ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
+            ]
         }
-    ],
-    "1003-4-a-12-ii-Interp-2":[
+    ], 
+    "1003-4-a-7-Interp-2": [
         {
-            "offsets":[
+            "ref": "home equity line of credit:1003-2-HomeEquityLineOfCredit", 
+            "offsets": [
                 [
-                    173,
-                    197
+                    24, 
+                    50
                 ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
-        },
-        {
-            "offsets":[
-                [
-                    282,
-                    307
-                ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
+            ]
         }
-    ],
-    "1003-4-a-12-ii-Interp-3":[
+    ], 
+    "1003-2-FinancialInstitution-1-i": [
         {
-            "offsets":[
+            "ref": "act:1003-2-Act", 
+            "offsets": [
                 [
-                    104,
-                    129
+                    146, 
+                    149
                 ]
-            ],
-            "ref":"average prime offer rate:1003-4-a-12-ii"
+            ]
         }
-    ],
-    "1003-4-a-14-Interp-1-i":[
+    ], 
+    "1003-4-a-14-Interp-1-i": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    410,
+                    72, 
+                    84
+                ]
+            ]
+        }, 
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    410, 
                     429
                 ]
-            ],
-            "ref":"home purchase loan:1003-2-p1-HomePurchaseLoan"
-        }
-    ],
-    "1003-4-a-14-Interp-1-ii":[
+            ]
+        }, 
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    245,
-                    271
+                    739, 
+                    750
+                ], 
+                [
+                    835, 
+                    846
+                ], 
+                [
+                    1136, 
+                    1147
+                ], 
+                [
+                    1206, 
+                    1217
+                ], 
+                [
+                    1269, 
+                    1280
+                ], 
+                [
+                    1287, 
+                    1298
                 ]
-            ],
-            "ref":"home equity line of credit:1003-2-p1-HomeEquityLineOfCredit"
+            ]
         }
-    ],
-    "1003-5-a-Interp-4":[
+    ], 
+    "1003-1-Interp-6": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    181,
+                    118, 
+                    129
+                ]
+            ]
+        }
+    ], 
+    "1003-6-b-1": [
+        {
+            "ref": "act:1003-2-Act", 
+            "offsets": [
+                [
+                    75, 
+                    78
+                ]
+            ]
+        }
+    ], 
+    "1003-6-b-3": [
+        {
+            "ref": "act:1003-2-Act", 
+            "offsets": [
+                [
+                    293, 
+                    296
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    407, 
+                    418
+                ]
+            ]
+        }
+    ], 
+    "1003-6-b-2": [
+        {
+            "ref": "act:1003-2-Act", 
+            "offsets": [
+                [
+                    108, 
+                    111
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h8-p63": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    14, 
+                    25
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h4-p25-c": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    23, 
+                    34
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h4-p25-d": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    28, 
+                    39
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomePurchaseLoan": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    84, 
+                    92
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomeImprovementLoan-1": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    34, 
+                    42
+                ], 
+                [
+                    146, 
+                    154
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomeImprovementLoan-2": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    10, 
+                    18
+                ], 
+                [
+                    135, 
+                    143
+                ]
+            ]
+        }, 
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    219, 
+                    240
+                ]
+            ]
+        }, 
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    246, 
+                    267
+                ]
+            ]
+        }
+    ], 
+    "1003-2-FinancialInstitution-1-ii": [
+        {
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
+                [
+                    49, 
+                    62
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    69, 
+                    72
+                ]
+            ]
+        }
+    ], 
+    "1003-5-b-1": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    122, 
+                    143
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h9-2": [
+        {
+            "ref": "average prime offer rate:1003-4-a-12-ii", 
+            "offsets": [
+                [
+                    77, 
+                    101
+                ]
+            ]
+        }, 
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    192, 
+                    213
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-8-Interp-2": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    129, 
+                    140
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-p11": [
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    7, 
+                    18
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-p13": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    41, 
+                    49
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-p12": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    37, 
+                    45
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-5": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    22, 
+                    33
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    71, 
+                    82
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-6": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    76, 
+                    87
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-7": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    48, 
+                    59
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-12-i": [
+        {
+            "ref": "average prime offer rate:1003-4-a-12-ii", 
+            "offsets": [
+                [
+                    139, 
+                    163
+                ]
+            ]
+        }, 
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    342, 
+                    350
+                ], 
+                [
+                    447, 
+                    455
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-1": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    3, 
+                    14
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    111, 
+                    122
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-2": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    8, 
+                    19
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    54, 
+                    65
+                ], 
+                [
+                    183, 
+                    194
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-3": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    19, 
+                    30
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    61, 
+                    72
+                ]
+            ]
+        }
+    ], 
+    "1003-4-b-2": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    99, 
+                    120
+                ]
+            ]
+        }
+    ], 
+    "1003-4-b-1": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    6, 
+                    27
+                ]
+            ]
+        }
+    ], 
+    "1003-2-BranchOffice-2": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    129, 
+                    141
+                ], 
+                [
+                    394, 
+                    406
+                ]
+            ]
+        }, 
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    162, 
+                    181
+                ], 
+                [
+                    450, 
+                    469
+                ]
+            ]
+        }, 
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    183, 
+                    205
+                ], 
+                [
+                    471, 
+                    493
+                ]
+            ]
+        }, 
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    210, 
+                    222
+                ], 
+                [
+                    498, 
+                    510
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    311, 
+                    314
+                ], 
+                [
+                    547, 
+                    550
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    323, 
+                    344
+                ], 
+                [
+                    554, 
+                    575
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h5-p26-5": [
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    28, 
+                    31
+                ], 
+                [
+                    102, 
+                    105
+                ], 
+                [
+                    207, 
+                    210
+                ], 
+                [
+                    327, 
+                    330
+                ], 
+                [
+                    432, 
+                    435
+                ], 
+                [
+                    481, 
+                    484
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    36, 
+                    58
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    111, 
+                    114
+                ]
+            ]
+        }, 
+        {
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
+                [
+                    153, 
+                    166
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    214, 
+                    216
+                ], 
+                [
+                    334, 
+                    336
+                ], 
+                [
+                    439, 
+                    441
+                ], 
+                [
+                    488, 
+                    490
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h5-p26-7": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    76, 
+                    87
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h5-p26-6": [
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    390, 
+                    393
+                ], 
+                [
+                    470, 
+                    473
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    398, 
+                    401
+                ]
+            ]
+        }, 
+        {
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
+                [
+                    430, 
+                    443
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h5-p26-1": [
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    3, 
+                    6
+                ], 
+                [
+                    78, 
+                    81
+                ], 
+                [
+                    107, 
+                    110
+                ], 
+                [
+                    132, 
+                    135
+                ], 
+                [
+                    289, 
+                    292
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    10, 
+                    31
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    55, 
+                    66
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    90, 
+                    92
+                ], 
+                [
+                    140, 
+                    142
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    127, 
+                    130
+                ], 
+                [
+                    298, 
+                    301
+                ]
+            ]
+        }
+    ], 
+    "1003-2-FinancialInstitution-Interp-1": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    660, 
+                    681
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h9-1-d": [
+        {
+            "ref": "average prime offer rate:1003-4-a-12-ii", 
+            "offsets": [
+                [
+                    140, 
+                    164
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h9-1-e": [
+        {
+            "ref": "average prime offer rate:1003-4-a-12-ii", 
+            "offsets": [
+                [
+                    45, 
+                    69
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h9-1-b": [
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    55, 
+                    76
+                ]
+            ]
+        }, 
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    89, 
+                    97
+                ]
+            ]
+        }
+    ], 
+    "1003-2-FinancialInstitution-Interp-4": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    71, 
+                    90
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h9-1-a": [
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    31, 
+                    42
+                ]
+            ]
+        }, 
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    49, 
+                    57
+                ]
+            ]
+        }, 
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    66, 
+                    87
+                ]
+            ]
+        }, 
+        {
+            "ref": "average prime offer rate:1003-4-a-12-ii", 
+            "offsets": [
+                [
+                    176, 
+                    200
+                ], 
+                [
+                    435, 
+                    459
+                ], 
+                [
+                    949, 
+                    973
+                ], 
+                [
+                    1011, 
+                    1035
+                ], 
+                [
+                    1162, 
+                    1186
+                ]
+            ]
+        }, 
+        {
+            "ref": "average prime offer rate:1003-4-a-12-ii", 
+            "offsets": [
+                [
+                    714, 
+                    739
+                ]
+            ]
+        }, 
+        {
+            "ref": "average prime offer rate:1003-4-a-12-ii", 
+            "offsets": [
+                [
+                    840, 
+                    865
+                ], 
+                [
+                    878, 
+                    903
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-p8-b": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    88, 
+                    99
+                ]
+            ]
+        }, 
+        {
+            "ref": "manufactured home:1003-2-ManufacturedHome", 
+            "offsets": [
+                [
+                    113, 
+                    130
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h5-p26": [
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    82, 
+                    85
+                ], 
+                [
+                    104, 
+                    107
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    94, 
+                    96
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    124, 
+                    127
+                ]
+            ]
+        }
+    ], 
+    "1003-2-Application-Interp-3": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    712, 
+                    723
+                ]
+            ]
+        }
+    ], 
+    "1003-2-Application-Interp-2": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    476, 
+                    487
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    682, 
+                    694
+                ]
+            ]
+        }
+    ], 
+    "1003-2-Application-Interp-1": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    192, 
+                    203
+                ], 
+                [
+                    273, 
+                    284
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h4-1": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    60, 
+                    71
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-9": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    54, 
+                    65
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    78, 
+                    81
+                ], 
+                [
+                    208, 
+                    211
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    88, 
+                    109
+                ], 
+                [
+                    215, 
+                    236
+                ]
+            ]
+        }, 
+        {
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
+                [
+                    186, 
+                    199
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomePurchaseLoan-Interp-1": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    2, 
+                    20
+                ]
+            ]
+        }, 
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    52, 
+                    60
+                ], 
+                [
+                    90, 
+                    98
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-3-Interp-1": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    192, 
                     203
                 ]
-            ],
-            "ref":"home improvement loan:1003-2-p1-HomeImprovementLoan"
-        },
+            ]
+        }
+    ], 
+    "1003-4-a-3-Interp-2": [
         {
-            "offsets":[
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
                 [
-                    233,
-                    242
+                    15, 
+                    33
+                ], 
+                [
+                    125, 
+                    143
                 ]
-            ],
-            "ref":"dwelling:1003-2-p1-Dwelling"
-        },
+            ]
+        }, 
         {
-            "offsets":[
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
                 [
-                    292,
+                    47, 
+                    68
+                ], 
+                [
+                    160, 
+                    181
+                ], 
+                [
+                    245, 
+                    266
+                ]
+            ]
+        }, 
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    75, 
+                    86
+                ], 
+                [
+                    195, 
+                    206
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomeImprovementLoan-Interp-4": [
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    147, 
+                    168
+                ], 
+                [
+                    382, 
+                    403
+                ], 
+                [
+                    723, 
+                    744
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-8-Interp-7": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    40, 
+                    51
+                ], 
+                [
+                    115, 
+                    126
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-p8": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    19, 
+                    27
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomeImprovementLoan-Interp-5": [
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    15, 
+                    36
+                ], 
+                [
+                    100, 
+                    121
+                ]
+            ]
+        }, 
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    50, 
+                    61
+                ]
+            ]
+        }
+    ], 
+    "1003-5-b-3-ii": [
+        {
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
+                [
+                    72, 
+                    85
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    95, 
+                    98
+                ], 
+                [
+                    342, 
+                    345
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    104, 
+                    126
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    349, 
+                    370
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-9-Interp-2": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    6, 
+                    24
+                ]
+            ]
+        }
+    ], 
+    "1003-4-e": [
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    448, 
+                    451
+                ], 
+                [
+                    549, 
+                    552
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    457, 
+                    479
+                ]
+            ]
+        }, 
+        {
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
+                [
+                    519, 
+                    532
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-9-Interp-1": [
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    6, 
+                    27
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    34, 
+                    55
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    85, 
+                    97
+                ]
+            ]
+        }, 
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    138, 
+                    157
+                ]
+            ]
+        }, 
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    159, 
+                    181
+                ]
+            ]
+        }, 
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    187, 
+                    199
+                ]
+            ]
+        }, 
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    416, 
+                    434
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    654, 
+                    665
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-9-Interp-4": [
+        {
+            "ref": "manufactured home:1003-2-ManufacturedHome", 
+            "offsets": [
+                [
+                    55, 
+                    72
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-p6": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    26, 
+                    34
+                ]
+            ]
+        }
+    ], 
+    "referenced": {
+        "home improvement loan:1003-2-HomeImprovementLoan": {
+            "position": [
+                0, 
+                21
+            ], 
+            "term": "home improvement loan", 
+            "reference": "1003-2-HomeImprovementLoan"
+        }, 
+        "msa:1003-2-Metropolitan-1": {
+            "position": [
+                37, 
+                40
+            ], 
+            "term": "MSA", 
+            "reference": "1003-2-Metropolitan-1"
+        }, 
+        "md-highlight:1003-2-Metropolitan": {
+            "position": [
+                41, 
+                68
+            ], 
+            "term": "md-highlight", 
+            "reference": "1003-2-Metropolitan"
+        }, 
+        "act:1003-2-Act": {
+            "position": [
+                0, 
+                3
+            ], 
+            "term": "act", 
+            "reference": "1003-2-Act"
+        }, 
+        "home equity line of credit:1003-2-HomeEquityLineOfCredit": {
+            "position": [
+                0, 
+                26
+            ], 
+            "term": "home equity line of credit", 
+            "reference": "1003-2-HomeEquityLineOfCredit"
+        }, 
+        "application:1003-2-Application": {
+            "position": [
+                0, 
+                11
+            ], 
+            "term": "application", 
+            "reference": "1003-2-Application"
+        }, 
+        "financial institution:1003-2-FinancialInstitution": {
+            "position": [
+                0, 
+                21
+            ], 
+            "term": "financial institution", 
+            "reference": "1003-2-FinancialInstitution"
+        }, 
+        "branch office:1003-2-BranchOffice": {
+            "position": [
+                0, 
+                13
+            ], 
+            "term": "branch office", 
+            "reference": "1003-2-BranchOffice"
+        }, 
+        "metropolitan division:1003-2-Metropolitan-2": {
+            "position": [
+                4, 
+                25
+            ], 
+            "term": "metropolitan division", 
+            "reference": "1003-2-Metropolitan-2"
+        }, 
+        "home purchase loan:1003-2-HomePurchaseLoan": {
+            "position": [
+                0, 
+                18
+            ], 
+            "term": "home purchase loan", 
+            "reference": "1003-2-HomePurchaseLoan"
+        }, 
+        "refinancing:1003-2-Refinancing": {
+            "position": [
+                0, 
+                11
+            ], 
+            "term": "refinancing", 
+            "reference": "1003-2-Refinancing"
+        }, 
+        "dwelling:1003-2-Dwelling": {
+            "position": [
+                0, 
+                8
+            ], 
+            "term": "dwelling", 
+            "reference": "1003-2-Dwelling"
+        }, 
+        "md:1003-2-Metropolitan-2": {
+            "position": [
+                29, 
+                31
+            ], 
+            "term": "MD", 
+            "reference": "1003-2-Metropolitan-2"
+        }, 
+        "hmda:1003-2-Act": {
+            "position": [
+                44, 
+                48
+            ], 
+            "term": "hmda", 
+            "reference": "1003-2-Act"
+        }, 
+        "manufactured home:1003-2-ManufacturedHome": {
+            "position": [
+                0, 
+                17
+            ], 
+            "term": "manufactured home", 
+            "reference": "1003-2-ManufacturedHome"
+        }, 
+        "average prime offer rate:1003-4-a-12-ii": {
+            "position": [
+                6, 
+                30
+            ], 
+            "term": "average prime offer rate", 
+            "reference": "1003-4-a-12-ii"
+        }, 
+        "msa-highlight:1003-2-Metropolitan": {
+            "position": [
+                0, 
+                36
+            ], 
+            "term": "msa-highlight", 
+            "reference": "1003-2-Metropolitan"
+        }, 
+        "metropolitan statistical area:1003-2-Metropolitan-1": {
+            "position": [
+                4, 
+                33
+            ], 
+            "term": "metropolitan statistical area", 
+            "reference": "1003-2-Metropolitan-1"
+        }
+    }, 
+    "1003-5-a-1": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    83, 
+                    104
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    134, 
+                    145
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h6-p27-2": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    32, 
+                    44
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    55, 
+                    67
+                ], 
+                [
+                    79, 
+                    91
+                ], 
+                [
+                    233, 
+                    245
+                ], 
+                [
+                    391, 
+                    403
+                ], 
+                [
+                    801, 
+                    813
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    473, 
+                    484
+                ], 
+                [
+                    622, 
+                    633
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h6-p27-1": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    86, 
+                    98
+                ]
+            ]
+        }
+    ], 
+    "1003-5-a-2": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    81, 
+                    92
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-14": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    36, 
+                    47
+                ]
+            ]
+        }, 
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    109, 
+                    117
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomePurchaseLoan-Interp-7": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    15, 
+                    33
+                ], 
+                [
+                    125, 
+                    143
+                ]
+            ]
+        }, 
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    47, 
+                    68
+                ]
+            ]
+        }, 
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    75, 
+                    86
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-10": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    120, 
+                    131
+                ]
+            ]
+        }
+    ], 
+    "1003-6-b-Interp-1": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    66, 
+                    78
+                ]
+            ]
+        }
+    ], 
+    "1003-2-FinancialInstitution-2-iii-B": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    60, 
+                    79
+                ], 
+                [
+                    107, 
+                    126
+                ]
+            ]
+        }, 
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    91, 
+                    103
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomeImprovementLoan-Interp-3": [
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    2, 
+                    23
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomeEquityLineOfCredit": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    70, 
+                    78
+                ]
+            ]
+        }
+    ], 
+    "1003-2-Application-2": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    57, 
+                    75
+                ], 
+                [
+                    360, 
+                    378
+                ]
+            ]
+        }, 
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    169, 
+                    190
+                ]
+            ]
+        }
+    ], 
+    "1003-2-Application-1": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    66, 
+                    84
+                ]
+            ]
+        }, 
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    88, 
+                    109
+                ]
+            ]
+        }, 
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    116, 
+                    127
+                ]
+            ]
+        }, 
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    181, 
+                    202
+                ]
+            ]
+        }
+    ], 
+    "1003-5-c": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    62, 
+                    83
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    104, 
+                    115
+                ], 
+                [
+                    216, 
+                    227
+                ], 
+                [
+                    262, 
+                    273
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    626, 
+                    629
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    633, 
+                    654
+                ]
+            ]
+        }
+    ], 
+    "1003-5-e": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    29, 
+                    50
+                ]
+            ]
+        }, 
+        {
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
+                [
+                    163, 
+                    176
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    191, 
+                    194
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    199, 
+                    220
+                ]
+            ]
+        }
+    ], 
+    "1003-5-d": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    27, 
+                    48
+                ]
+            ]
+        }
+    ], 
+    "1003-5-f": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    84, 
+                    106
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    206, 
+                    209
+                ], 
+                [
+                    441, 
+                    444
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    214, 
+                    235
+                ], 
+                [
+                    449, 
+                    470
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-4": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    16, 
+                    27
+                ]
+            ]
+        }
+    ], 
+    "1003-2-Metropolitan-Interp-1": [
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    14, 
+                    43
+                ], 
+                [
+                    337, 
+                    366
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    50, 
+                    71
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    123, 
+                    153
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    158, 
+                    180
+                ], 
+                [
+                    419, 
+                    441
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    368, 
+                    371
+                ], 
+                [
+                    449, 
+                    452
+                ], 
+                [
+                    596, 
+                    599
+                ], 
+                [
+                    688, 
+                    691
+                ], 
+                [
+                    777, 
+                    780
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    443, 
+                    445
+                ], 
+                [
+                    623, 
+                    625
+                ], 
+                [
+                    678, 
+                    680
+                ], 
+                [
+                    722, 
+                    724
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-6": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    68, 
+                    79
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-1": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    47, 
+                    58
+                ], 
+                [
+                    77, 
+                    88
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-2": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    24, 
+                    35
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-3": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    31, 
+                    42
+                ]
+            ]
+        }
+    ], 
+    "1003-1-c-Interp-2": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    106, 
+                    117
+                ], 
+                [
+                    646, 
+                    657
+                ], 
+                [
+                    870, 
+                    881
+                ], 
+                [
+                    1000, 
+                    1011
+                ], 
+                [
+                    1176, 
+                    1187
+                ]
+            ]
+        }
+    ], 
+    "1003-6-a": [
+        {
+            "ref": "act:1003-2-Act", 
+            "offsets": [
+                [
+                    50, 
+                    53
+                ], 
+                [
+                    140, 
+                    143
+                ], 
+                [
+                    282, 
+                    285
+                ]
+            ]
+        }
+    ], 
+    "1003-2-Dwelling-Interp-2": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    55, 
+                    64
+                ]
+            ]
+        }
+    ], 
+    "1003-2-Dwelling-Interp-1": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    19, 
+                    27
+                ], 
+                [
+                    178, 
+                    186
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h11-A": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    51, 
+                    62
+                ]
+            ]
+        }
+    ], 
+    "1003-2-Metropolitan-2": [
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    68, 
+                    71
+                ]
+            ]
+        }
+    ], 
+    "1003-5-e-Interp-1-HMDANotice": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    130, 
+                    142
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h10-p70-a": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    70, 
+                    82
+                ], 
+                [
+                    121, 
+                    133
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h6-p27-p45-b": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    122, 
+                    133
+                ]
+            ]
+        }
+    ], 
+    "1003-B-h1": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    92, 
+                    103
+                ], 
+                [
+                    151, 
+                    162
+                ]
+            ]
+        }
+    ], 
+    "1003-2-Refinancing-2": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    104, 
+                    113
+                ]
+            ]
+        }
+    ], 
+    "1003-2-Refinancing-1": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    56, 
+                    74
+                ]
+            ]
+        }, 
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    273, 
+                    282
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h4-2-c": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    7, 
+                    19
+                ], 
+                [
+                    45, 
+                    57
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h4-2-d": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    7, 
+                    19
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-Interp-1-ii": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    41, 
+                    53
+                ], 
+                [
+                    103, 
+                    115
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-7-f": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    14, 
+                    25
+                ]
+            ]
+        }
+    ], 
+    "1003-2-BranchOffice-Interp-3": [
+        {
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
+                [
+                    34, 
+                    47
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    225, 
+                    228
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    233, 
+                    255
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-7-e": [
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    9, 
+                    20
+                ], 
+                [
+                    55, 
+                    66
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-7-b": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    9, 
+                    27
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-7-c": [
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    9, 
+                    30
+                ]
+            ]
+        }
+    ], 
+    "1003-4-c-3-Interp-1": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    84, 
+                    96
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-12-ii-Interp-1": [
+        {
+            "ref": "average prime offer rate:1003-4-a-12-ii", 
+            "offsets": [
+                [
+                    0, 
+                    25
+                ]
+            ]
+        }, 
+        {
+            "ref": "average prime offer rate:1003-4-a-12-ii", 
+            "offsets": [
+                [
+                    572, 
+                    597
+                ]
+            ]
+        }
+    ], 
+    "1003-5-a-Interp-3": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    78, 
+                    89
+                ], 
+                [
+                    282, 
+                    293
+                ], 
+                [
+                    389, 
+                    400
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-12-ii-Interp-2": [
+        {
+            "ref": "average prime offer rate:1003-4-a-12-ii", 
+            "offsets": [
+                [
+                    149, 
+                    173
+                ]
+            ]
+        }, 
+        {
+            "ref": "average prime offer rate:1003-4-a-12-ii", 
+            "offsets": [
+                [
+                    258, 
+                    283
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-Interp-1-v": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    23, 
+                    35
+                ]
+            ]
+        }
+    ], 
+    "1003-5-a-Interp-4": [
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    157, 
+                    179
+                ]
+            ]
+        }, 
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    209, 
+                    218
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    268, 
+                    271
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    275, 
+                    296
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-p17-c": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    20, 
+                    32
+                ]
+            ]
+        }, 
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    66, 
+                    77
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h7-p56-a": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    18, 
+                    30
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-p14-a": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    64, 
+                    75
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-p14-c": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    73, 
+                    81
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    104, 
+                    107
+                ], 
+                [
+                    129, 
+                    132
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    139, 
+                    141
+                ]
+            ]
+        }, 
+        {
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
+                [
+                    193, 
+                    206
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-7-a": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    9, 
+                    27
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-Interp-1-iii": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    29, 
+                    41
+                ], 
+                [
+                    45, 
+                    57
+                ], 
+                [
+                    327, 
+                    339
+                ], 
+                [
+                    389, 
+                    401
+                ], 
+                [
+                    602, 
+                    614
+                ]
+            ]
+        }
+    ], 
+    "1003-5-b-3-i": [
+        {
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
+                [
+                    117, 
+                    130
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    145, 
+                    148
+                ], 
+                [
+                    285, 
+                    288
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    164, 
+                    185
+                ], 
+                [
+                    292, 
+                    313
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-p11-a": [
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    19, 
+                    30
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-14-Interp-1-ii": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    88, 
+                    100
+                ]
+            ]
+        }, 
+        {
+            "ref": "home equity line of credit:1003-2-HomeEquityLineOfCredit", 
+            "offsets": [
+                [
+                    245, 
+                    271
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    500, 
+                    511
+                ], 
+                [
+                    518, 
+                    529
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h4-p21": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    7, 
+                    18
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h4-p20": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    7, 
+                    18
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-10-Interp-7": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    68, 
+                    79
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-10-Interp-5": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    28, 
+                    40
+                ], 
+                [
+                    100, 
+                    112
+                ], 
+                [
+                    239, 
+                    251
+                ], 
+                [
+                    355, 
+                    367
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-10-Interp-4": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    256, 
+                    267
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-10-Interp-3": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    63, 
+                    74
+                ], 
+                [
+                    212, 
+                    223
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-10-Interp-2": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    66, 
+                    77
+                ]
+            ]
+        }
+    ], 
+    "1003-1-c": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    39, 
+                    61
+                ]
+            ]
+        }, 
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    276, 
                     295
                 ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
+            ]
+        }, 
         {
-            "offsets":[
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
                 [
-                    299,
+                    297, 
+                    319
+                ]
+            ]
+        }, 
+        {
+            "ref": "refinancing:1003-2-Refinancing", 
+            "offsets": [
+                [
+                    325, 
+                    337
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    396, 
+                    408
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomeImprovementLoan-Interp-2": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    49, 
+                    57
+                ], 
+                [
+                    96, 
+                    104
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-9-Interp-3": [
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    70, 
+                    73
+                ], 
+                [
+                    358, 
+                    361
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    77, 
+                    98
+                ], 
+                [
+                    365, 
+                    386
+                ]
+            ]
+        }, 
+        {
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
+                [
+                    135, 
+                    148
+                ], 
+                [
+                    336, 
+                    349
+                ]
+            ]
+        }, 
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    174, 
+                    186
+                ]
+            ]
+        }
+    ], 
+    "1003-2-Dwelling": [
+        {
+            "ref": "manufactured home:1003-2-ManufacturedHome", 
+            "offsets": [
+                [
+                    277, 
+                    294
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h3-8": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    73, 
+                    84
+                ]
+            ]
+        }, 
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    133, 
+                    151
+                ]
+            ]
+        }
+    ], 
+    "1003-4-c-1": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    33, 
+                    44
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-12-ii": [
+        {
+            "ref": "average prime offer rate:1003-4-a-12-ii", 
+            "offsets": [
+                [
+                    301, 
+                    326
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h9-3-b": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    207, 
+                    218
+                ]
+            ]
+        }
+    ], 
+    "1003-1-b-1-i": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    30, 
+                    52
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h8-2-f": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    22, 
+                    33
+                ]
+            ]
+        }
+    ], 
+    "1003-3-a-2": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    49, 
+                    70
+                ]
+            ]
+        }
+    ], 
+    "1003-3-a-1": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    40, 
+                    61
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h4-p19": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    7, 
+                    18
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h6-p27-p43": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    77, 
+                    88
+                ]
+            ]
+        }
+    ], 
+    "1003-2-FinancialInstitution-2-ii": [
+        {
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
+                [
+                    49, 
+                    62
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    69, 
+                    72
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-Interp-1-vi": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    2, 
+                    23
+                ]
+            ]
+        }
+    ], 
+    "1003-4-d": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    20, 
+                    41
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomePurchaseLoan-Interp-2": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    2, 
+                    10
+                ]
+            ]
+        }, 
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    158, 
+                    176
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomePurchaseLoan-Interp-3": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    78, 
+                    96
+                ]
+            ]
+        }, 
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    129, 
+                    137
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomePurchaseLoan-Interp-4": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    2, 
+                    20
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomePurchaseLoan-Interp-5": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    2, 
+                    20
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomePurchaseLoan-Interp-6": [
+        {
+            "ref": "home purchase loan:1003-2-HomePurchaseLoan", 
+            "offsets": [
+                [
+                    233, 
+                    251
+                ]
+            ]
+        }
+    ], 
+    "1003-2-HomeImprovementLoan-Interp-1": [
+        {
+            "ref": "dwelling:1003-2-Dwelling", 
+            "offsets": [
+                [
+                    74, 
+                    82
+                ]
+            ]
+        }, 
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    88, 
+                    109
+                ], 
+                [
+                    155, 
+                    176
+                ], 
+                [
+                    229, 
+                    250
+                ], 
+                [
+                    342, 
+                    363
+                ], 
+                [
+                    387, 
+                    408
+                ]
+            ]
+        }, 
+        {
+            "ref": "home improvement loan:1003-2-HomeImprovementLoan", 
+            "offsets": [
+                [
+                    452, 
+                    474
+                ]
+            ]
+        }
+    ], 
+    "1003-A-h2-h10-p66": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    61, 
+                    73
+                ]
+            ]
+        }
+    ], 
+    "1003-4-a-5": [
+        {
+            "ref": "application:1003-2-Application", 
+            "offsets": [
+                [
+                    43, 
+                    54
+                ]
+            ]
+        }
+    ], 
+    "1003-2-BranchOffice-Interp-2": [
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    317, 
                     320
                 ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        }
-    ],
-    "1003-5-a-Interp-8":[
+            ]
+        }, 
         {
-            "offsets":[
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
                 [
-                    430,
-                    433
+                    325, 
+                    347
                 ]
-            ],
-            "ref":"metropolitan statistical area:1003-2-p1-Metropolitan-1"
-        },
+            ]
+        }, 
         {
-            "offsets":[
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
                 [
-                    438,
+                    387, 
+                    400
+                ]
+            ]
+        }
+    ], 
+    "1003-5-a-Interp-8": [
+        {
+            "ref": "metropolitan statistical area:1003-2-Metropolitan-1", 
+            "offsets": [
+                [
+                    388, 
+                    391
+                ]
+            ]
+        }, 
+        {
+            "ref": "metropolitan division:1003-2-Metropolitan-2", 
+            "offsets": [
+                [
+                    396, 
+                    418
+                ]
+            ]
+        }, 
+        {
+            "ref": "branch office:1003-2-BranchOffice", 
+            "offsets": [
+                [
+                    446, 
                     460
                 ]
-            ],
-            "ref":"metropolitan division:1003-2-p1-Metropolitan-2"
-        },
+            ]
+        }
+    ], 
+    "1003-A-h2-h8-1": [
         {
-            "offsets":[
+            "ref": "application:1003-2-Application", 
+            "offsets": [
                 [
-                    488,
-                    502
+                    163, 
+                    174
+                ], 
+                [
+                    240, 
+                    251
                 ]
-            ],
-            "ref":"branch office:1003-2-p1-BranchOffice"
+            ]
         }
-    ],
-    "referenced":{
-        "application:1003-2-p1-Application-1":{
-            "position":[
-                16,
-                27
-            ],
-            "reference":"1003-2-p1-Application-1",
-            "term":"Application"
-        },
-        "branch office:1003-2-p1-BranchOffice":{
-            "position":[
-                0,
-                13
-            ],
-            "reference":"1003-2-p1-BranchOffice",
-            "term":"branch office"
-        },
-        "dwelling:1003-2-p1-Dwelling":{
-            "position":[
-                0,
-                8
-            ],
-            "reference":"1003-2-p1-Dwelling",
-            "term":"dwelling"
-        },
-        "financial institution:1003-2-p1-FinancialInstitution":{
-            "position":[
-                0,
-                21
-            ],
-            "reference":"1003-2-p1-FinancialInstitution",
-            "term":"financial institution"
-        },
-        "home equity line of credit:1003-2-p1-HomeEquityLineOfCredit":{
-            "position":[
-                0,
-                26
-            ],
-            "reference":"1003-2-p1-HomeEquityLineOfCredit",
-            "term":"home equity line of credit"
-        },
-        "home improvement loan:1003-2-p1-HomeImprovementLoan":{
-            "position":[
-                0,
-                21
-            ],
-            "reference":"1003-2-p1-HomeImprovementLoan",
-            "term":"home improvement loan"
-        },
-        "home purchase loan:1003-2-p1-HomePurchaseLoan":{
-            "position":[
-                0,
-                18
-            ],
-            "reference":"1003-2-p1-HomePurchaseLoan",
-            "term":"home purchase loan"
-        },
-        "manufactured home:1003-2-p1-ManufacturedHome":{
-            "position":[
-                0,
-                17
-            ],
-            "reference":"1003-2-p1-ManufacturedHome",
-            "term":"manufactured home"
-        },
-        "metropolitan statistical area:1003-2-p1-Metropolitan-1":{
-            "position":[
-                4,
-                33
-            ],
-            "reference":"1003-2-p1-Metropolitan-1",
-            "term":"metropolitan statistical area"
-        },
-        "msa:1003-2-p1-Metropolitan-1":{
-            "position":[
-                37,
-                40
-            ],
-            "reference":"1003-2-p1-Metropolitan-1",
-            "term":"MSA"
-        },
-        "metropolitan division:1003-2-p1-Metropolitan-2":{
-            "position":[
-                4,
-                25
-            ],
-            "reference":"1003-2-p1-Metropolitan-2",
-            "term":"metropolitan division"
-        },
-        "md:1003-2-p1-Metropolitan-2":{
-            "position":[
-                29,
-                31
-            ],
-            "reference":"1003-2-p1-Metropolitan-2",
-            "term":"MD"
-        },
-        "refinancing:1003-2-p1-Refinancing":{
-            "position":[
-                0,
-                11
-            ],
-            "reference":"1003-2-p1-Refinancing",
-            "term":"refinancing"
-        },
-        "average prime offer rate:1003-4-a-12-ii":{
-            "position":[
-                6,
-                30
-            ],
-            "reference":"1003-4-a-12-ii",
-            "term":"average prime offer rate"
+    ], 
+    "1003-4-c": [
+        {
+            "ref": "financial institution:1003-2-FinancialInstitution", 
+            "offsets": [
+                [
+                    20, 
+                    41
+                ]
+            ]
         }
-    }
+    ]
 }

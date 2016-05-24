@@ -1,65 +1,79 @@
 {
-    "1003-2-p1-Application":{
-        "text":[
+    "1003-2-FinancialInstitution-Interp-2": {
+        "text": [
             [
                 [
-                    "delete",
-                    0,
-                    11
-                ],
+                    "delete", 
+                    23, 
+                    28
+                ], 
                 [
-                    "insert",
-                    0,
-                    "Application-"
+                    "insert", 
+                    23, 
+                    "2011,"
                 ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-2-p1-FinancialInstitution-Interp-2":{
-        "text":[
+            ], 
             [
                 [
-                    "delete",
-                    38,
-                    44
-                ],
+                    "delete", 
+                    67, 
+                    70
+                ], 
                 [
-                    "insert",
-                    38,
-                    "depository institutions. For data collection in 2011, the asset-size exemption threshold is $40 million. Banks,"
+                    "insert", 
+                    67, 
+                    "$40"
                 ]
-            ],
+            ], 
             [
                 [
-                    "delete",
-                    71,
-                    89
-                ],
+                    "delete", 
+                    80, 
+                    126
+                ], 
                 [
-                    "insert",
-                    71,
-                    "credit, unions with assets at or below $40 million as of December 31, 2010, are exempt from collecting"
+                    "insert", 
+                    80, 
+                    "Depository institutions"
                 ]
-            ],
-            [
-                "delete",
-                95,
-                306
-            ],
+            ], 
             [
                 [
-                    "delete",
-                    310,
-                    315
-                ],
+                    "delete", 
+                    151, 
+                    154
+                ], 
                 [
-                    "insert",
-                    310,
+                    "insert", 
+                    151, 
+                    "$40"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    182, 
+                    187
+                ], 
+                [
+                    "insert", 
+                    182, 
+                    "2010,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    224, 
+                    229
+                ], 
+                [
+                    "insert", 
+                    224, 
                     "2011."
                 ]
             ]
-        ],
-        "op":"modified"
+        ], 
+        "op": "modified"
     }
 }
