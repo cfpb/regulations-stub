@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 from __future__ import print_function
+from __future__ import unicode_literals
 
 import sys
 import os
@@ -143,20 +144,20 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
     # We can get from the regulations-core API 
-    parser.add_argument('-a', '--api-base', action='store',
+    parser.add_argument('-a', '--api-base', action='store', type=str,
             help='the regulations-core API URL')
 
     # We need to know where the JSON is going to 
-    parser.add_argument('-s', '--stub-base', action='store',
+    parser.add_argument('-s', '--stub-base', action='store', type=str,
             default=os.path.join(os.getcwd(), 'stub'), 
             help='the base filesystem path for regulations JSON (default: ./stub)')
 
     # We need to know what we're fetching, either a whole regulation's
     # worth of JSON or a specific file or files
     parser.add_argument('-r', '--regulation', nargs='?', action='store',
-            help='the specific regulation part number to get (eg: 1026)')
+            type=str, help='the specific regulation part number to get')
     parser.add_argument('-p', '--paths', nargs='*', action='store',
-            default=[], help='specific JSON paths to get')
+            type=str, default=[], help='specific JSON paths to get')
 
     args = parser.parse_args()
 

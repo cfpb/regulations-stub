@@ -147,24 +147,25 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
     # We can either send to the regulations-core API 
-    parser.add_argument('-a', '--api-base', action='store',
+    parser.add_argument('-a', '--api-base', action='store', type=str,
             help='the regulations-core API URL')
 
     # We need to know where the JSON is coming from
-    parser.add_argument('-s', '--stub-base', action='store',
+    parser.add_argument('-s', '--stub-base', action='store', type=str,
             default=os.path.join(os.getcwd(), 'stub'), 
             help='the base filesystem path for regulations JSON (default: ./stub)')
 
     # We need to know what we're uploading, either a whole regulation's
     # worth of JSON or a specific file or files
-    parser.add_argument('-r', '--regulation', nargs='?', action='store',
+    parser.add_argument('-r', '--regulation', nargs='?', action='store', 
+            type=str,
             help='the specific regulation part number to upload (eg: 1026)')
     parser.add_argument('-f', '--files', nargs='*', action='store',
-            default=[], help='specific JSON files to upload')
+            type=str, default=[], help='specific JSON files to upload')
 
     # If we're uploading by regulation and not file, we can also specify
     # a particular notice instead of the whole reg.
-    parser.add_argument('-n', '--notice', nargs='?', action='store',
+    parser.add_argument('-n', '--notice', nargs='?', action='store', type=str,
             help='the specific notice for a regulation to upload (eg: 2016-12345')
     
     args = parser.parse_args()
