@@ -6010,7 +6010,7 @@
         "node":{
             "tagged_text":null,
             "title":"Table I\u2014Alphabetic To Numeric Conversion Table",
-            "text":"",
+            "text":"The alphabetic characters are not case-sensitive and each letter, whether it is capitalized or in lower-case, is equal to the same value as each letter illustrates in the conversion table. For example, A and a are each equal to 10.",
             "label":[
                 "1003",
                 "C",
@@ -6018,7 +6018,9 @@
                 "p4"
             ],
             "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1003-C-1-p4-t1"
+            ]
         },
         "op":"added"
     },
@@ -7010,6 +7012,23 @@
                 "1003-2-g-2-ii-A",
                 "1003-2-g-2-ii-B"
             ]
+        },
+        "op":"added"
+    },
+    "1003-C-1-p4-t1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"",
+            "label":[
+                "1003",
+                "C",
+                "1",
+                "p4",
+                "t1"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
         },
         "op":"added"
     },
