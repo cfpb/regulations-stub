@@ -1,7 +1,7 @@
 #!/bin/sh
 
-COMMIT_MESSAGE=$1
-REG='1026'
+REG=$1
+COMMIT_MESSAGE=$2
 FILES=`git status --porcelain | grep $REG | grep -v \? | sed 's/\s*[MADRCU]\s*//'`
 
 # Commit them one at a time
