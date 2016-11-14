@@ -58,13 +58,6 @@
         "op":"modified"
     },
     "1005-A-37":{
-        "text":[
-            [
-                "delete",
-                0,
-                230
-            ]
-        ],
         "title":[
             [
                 [
@@ -96,6 +89,23 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1005-36-Interp":{
+        "title":[
+            [
+                [
+                    "delete",
+                    36,
+                    63
+                ],
+                [
+                    "insert",
+                    36,
+                    "in Advance"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-33-a-Interp-7":{
         "text":[
@@ -159,9 +169,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1005-A-37-p4":{
-        "op":"deleted"
     },
     "1005-30-c-Interp-2-ii":{
         "text":[
@@ -258,89 +265,98 @@
         ],
         "op":"modified"
     },
-    "1005-A-37-p5":{
-        "op":"deleted"
-    },
     "1005-33-a-Interp-9":{
         "text":[
             [
-                "insert",
-                0,
-                "Under \u00a7 1005.33(a)(2)(iii), a change requested by the designated recipient that the remittance transfer provider or others involved in the remittance transfer decide to accommodate is not considered an error. The exception under \u00a7 1005.33(a)(2)(iii) is available only if the change is made solely because the designated recipient requested the change. "
+                [
+                    "delete",
+                    0,
+                    14
+                ],
+                [
+                    "insert",
+                    0,
+                    "Under \u00a7 1005.33(a)(2)(iii), a change requested by the designated recipient that the remittance transfer provider"
+                ]
             ],
             [
                 [
                     "delete",
-                    4,
-                    29
+                    18,
+                    51
                 ],
                 [
                     "insert",
-                    4,
+                    18,
+                    "others involved in the remittance transfer decide to accommodate is not considered an error. The exception under \u00a7 1005.33(a)(2)(iii) is available only if the change is made solely because the designated recipient requested the change."
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    56,
+                    81
+                ],
+                [
+                    "insert",
+                    56,
                     "example, if a sender requests to send US$100 to a designated recipient at a designated location, but the designated recipient requests the amount"
                 ]
             ],
             [
                 [
                     "delete",
-                    33,
-                    81
+                    85,
+                    133
                 ],
                 [
                     "insert",
-                    33,
+                    85,
                     "a different currency (either at the sender-designated location or another location requested by the recipient)"
                 ]
             ],
             [
                 [
                     "delete",
-                    86,
-                    503
+                    138,
+                    555
                 ],
                 [
                     "insert",
-                    86,
+                    138,
                     "the remittance transfer provider accommodates the"
                 ]
             ],
             [
                 [
                     "delete",
-                    516,
-                    559
+                    568,
+                    611
                 ],
                 [
                     "insert",
-                    516,
+                    568,
                     "request, the change does not constitute"
                 ]
             ],
             [
                 [
                     "delete",
-                    563,
-                    986
+                    615,
+                    1038
                 ],
                 [
                     "insert",
-                    563,
+                    615,
                     "error."
                 ]
             ]
         ],
         "title":[
             [
-                [
-                    "delete",
-                    0,
-                    51
-                ],
-                [
-                    "insert",
-                    0,
-                    "Recipient-requested changes."
-                ]
+                "insert",
+                0,
+                "Recipient-requested changes."
             ]
         ],
         "op":"modified"
@@ -541,64 +557,52 @@
     "1005-36-Interp-1":{
         "text":[
             [
-                "insert",
-                0,
-                "Applicability of subpart B. "
-            ],
-            [
                 [
                     "delete",
-                    81,
-                    91
+                    109,
+                    119
                 ],
                 [
                     "insert",
-                    81,
+                    109,
                     "\u00a7 1005.36,"
                 ]
             ],
             [
                 [
                     "delete",
-                    111,
-                    120
+                    139,
+                    148
                 ],
                 [
                     "insert",
-                    111,
+                    139,
                     "\u00a7 1005.36"
                 ]
             ],
             [
                 [
                     "delete",
-                    218,
-                    230
+                    246,
+                    258
                 ],
                 [
                     "insert",
-                    218,
+                    246,
                     "\u00a7 1005.31(g)"
                 ]
             ],
             [
                 [
                     "delete",
-                    315,
-                    331
+                    343,
+                    359
                 ],
                 [
                     "insert",
-                    315,
+                    343,
                     "\u00a7 1005.36(a)(2)."
                 ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                27
             ]
         ],
         "op":"modified"
@@ -726,40 +730,28 @@
     "1005-33-g-Interp-1":{
         "text":[
             [
-                "insert",
-                0,
-                "Record retention requirements. "
-            ],
-            [
                 [
                     "delete",
-                    12,
-                    28
+                    43,
+                    59
                 ],
                 [
                     "insert",
-                    12,
+                    43,
                     "\u00a7 1005.31(g)(2),"
                 ]
             ],
             [
                 [
                     "delete",
-                    114,
-                    124
+                    145,
+                    155
                 ],
                 [
                     "insert",
-                    114,
+                    145,
                     "\u00a7 1005.13."
                 ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                30
             ]
         ],
         "op":"modified"
@@ -1287,27 +1279,7 @@
         ],
         "op":"modified"
     },
-    "1005-36-Interp":{
-        "title":[
-            [
-                [
-                    "delete",
-                    36,
-                    63
-                ],
-                [
-                    "insert",
-                    36,
-                    "in Advance"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1005-A-37-p2":{
-        "op":"deleted"
-    },
-    "1005-A-37-p3":{
+    "1005-A-37-p1":{
         "op":"deleted"
     }
 }

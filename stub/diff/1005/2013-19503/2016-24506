@@ -15,13 +15,6 @@
         "op":"modified"
     },
     "1005-A-37":{
-        "text":[
-            [
-                "insert",
-                0,
-                "You have a right to dispute errors in your transaction. If you think there is an error, contact us within 180 days at [insert telephone number] or [insert website]. You can also contact us for a written explanation of your rights."
-            ]
-        ],
         "title":[
             [
                 [
@@ -40,6 +33,23 @@
     },
     "1005-A-37-p12":{
         "op":"deleted"
+    },
+    "1005-36-Interp":{
+        "title":[
+            [
+                [
+                    "delete",
+                    36,
+                    46
+                ],
+                [
+                    "insert",
+                    36,
+                    "before the Date of Transfer"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-33-a-Interp-7":{
         "text":[
@@ -113,22 +123,6 @@
         ],
         "op":"modified"
     },
-    "1005-A-37-p4":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"State Regulatory Agency, 800-111-2222, www.stateregulatoryagency.gov",
-            "label":[
-                "1005",
-                "A",
-                "37",
-                "p4"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-30-c-Interp-2-ii":{
         "text":[
             [
@@ -138,22 +132,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1005-A-37-p5":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Consumer Financial Protection Bureau, 855-411-2372, 855-729-2372 (TTY/TDD), www.consumerfinance.gov",
-            "label":[
-                "1005",
-                "A",
-                "37",
-                "p5"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1005-33-a-Interp-9":{
         "text":[
@@ -166,7 +144,7 @@
                 [
                     "insert",
                     0,
-                    "For purposes of the exception in \u00a7\u20091005.33(a)(1)(iv)(D), the terms account number and recipient institution identifier refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs) and other similar account or institution identifiers used to route a transaction. In addition and for purposes of this exception, the term designated recipient's account in \u00a7\u20091005.33(a)(1)(iv)(D) refers to an asset account, regardless of whether it is a consumer asset account, established for any purpose and held"
+                    "Account number or recipient institution identifier. For purposes of the exception in \u00a7\u20091005.33(a)(1)(iv)(D), the terms account number and recipient institution identifier refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs) and other similar account or institution identifiers used to route a transaction. In addition and for purposes of this exception, the term designated recipient's account in \u00a7\u20091005.33(a)(1)(iv)(D) refers to an asset account, regardless of whether it is a consumer asset account, established for any purpose and held"
                 ]
             ],
             [
@@ -213,16 +191,9 @@
         ],
         "title":[
             [
-                [
-                    "delete",
-                    0,
-                    28
-                ],
-                [
-                    "insert",
-                    0,
-                    "Account number or recipient institution identifier."
-                ]
+                "delete",
+                0,
+                28
             ]
         ],
         "op":"modified"
@@ -361,60 +332,38 @@
             [
                 [
                     "delete",
-                    0,
-                    16
+                    109,
+                    119
                 ],
                 [
                     "insert",
-                    0,
-                    "The requirements set forth in"
+                    109,
+                    "\u00a7\u20091005.36,"
                 ]
             ],
             [
                 [
                     "delete",
-                    25,
-                    31
+                    139,
+                    148
                 ],
                 [
                     "insert",
-                    25,
-                    "B apply to remittance transfers subject to \u00a7\u20091005.36, to the extent that \u00a7\u20091005.36 does not modify those requirements. For example, the foreign language disclosure"
-                ]
-            ],
-            [
-                "delete",
-                45,
-                55
-            ],
-            [
-                [
-                    "delete",
-                    58,
-                    67
-                ],
-                [
-                    "insert",
-                    58,
-                    "\u00a7\u20091005.31(g) and related commentary continue to"
+                    139,
+                    "\u00a7\u20091005.36"
                 ]
             ],
             [
                 [
                     "delete",
-                    77,
-                    242
+                    246,
+                    258
                 ],
                 [
                     "insert",
-                    77,
-                    "disclosures provided"
+                    246,
+                    "\u00a7\u20091005.31(g)"
                 ]
-            ],
-            [
-                "delete",
-                246,
-                327
             ],
             [
                 [
@@ -427,13 +376,6 @@
                     343,
                     "\u00a7\u20091005.36(a)(2)."
                 ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Applicability of Subpart B."
             ]
         ],
         "op":"modified"
@@ -575,101 +517,26 @@
             [
                 [
                     "delete",
-                    0,
-                    6
-                ],
-                [
-                    "insert",
-                    0,
-                    "As noted in \u00a7\u20091005.33(g)(2), remittance transfer providers are subject to the record"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    17,
+                    43,
                     59
                 ],
                 [
                     "insert",
-                    17,
-                    "requirements under \u00a7\u20091005.13. Therefore,"
+                    43,
+                    "\u00a7\u20091005.33(g)(2),"
                 ]
             ],
             [
                 [
                     "delete",
-                    90,
-                    101
+                    145,
+                    155
                 ],
                 [
                     "insert",
-                    90,
-                    "must retain documentation, including documentation related"
+                    145,
+                    "\u00a7\u20091005.13."
                 ]
-            ],
-            [
-                "insert",
-                105,
-                "error investigations, for a period of not less than two years from "
-            ],
-            [
-                [
-                    "delete",
-                    109,
-                    166
-                ],
-                [
-                    "insert",
-                    109,
-                    "date a notice of error was submitted to the provider or action was required to be taken by the provider. A"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    187,
-                    201
-                ],
-                [
-                    "insert",
-                    187,
-                    "provider need not maintain records of individual disclosures that it has provided to each sender; it need only"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    209,
-                    293
-                ],
-                [
-                    "insert",
-                    209,
-                    "evidence demonstrating that its procedures reasonably ensure the sender's receipt"
-                ]
-            ],
-            [
-                "delete",
-                297,
-                397
-            ],
-            [
-                "delete",
-                406,
-                506
-            ],
-            [
-                "delete",
-                518,
-                681
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Record retention requirements."
             ]
         ],
         "op":"modified"
@@ -1179,49 +1046,16 @@
         ],
         "op":"modified"
     },
-    "1005-36-Interp":{
-        "title":[
-            [
-                [
-                    "delete",
-                    36,
-                    46
-                ],
-                [
-                    "insert",
-                    36,
-                    "before the Date of Transfer"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1005-A-37-p2":{
+    "1005-A-37-p1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"You can cancel for a full refund within 30 minutes of payment, unless the funds have been picked up or deposited.",
+            "text":"![](ER22MY13.253)",
             "label":[
                 "1005",
                 "A",
                 "37",
-                "p2"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-A-37-p3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"For questions or complaints about [insert name of remittance transfer provider], contact:",
-            "label":[
-                "1005",
-                "A",
-                "37",
-                "p3"
+                "p1"
             ],
             "node_type":"appendix",
             "child_labels":[]

@@ -1,139 +1,119 @@
 {
-    "1005-33-g-Interp-1":{
+    "1005-33-a-Interp-9":{
         "text":[
             [
+                [
+                    "delete",
+                    85,
+                    108
+                ],
+                [
+                    "insert",
+                    85,
+                    "\u00a7 1005.33(a)(1)(iv)(D),"
+                ]
+            ],
+            [
                 "insert",
-                0,
-                "Record retention requirements. "
+                276,
+                " naccount"
             ],
             [
                 [
                     "delete",
-                    12,
-                    28
+                    399,
+                    409
                 ],
                 [
                     "insert",
-                    12,
+                    399,
+                    "(BICs)) and"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    487,
+                    488
+                ],
+                [
+                    "insert",
+                    487,
+                    "  "
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    579,
+                    601
+                ],
+                [
+                    "insert",
+                    579,
+                    "\u00a7 1005.30(h)(2)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    793,
+                    794
+                ],
+                [
+                    "insert",
+                    793,
+                    "  "
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1005-36-Interp":{
+        "title":[
+            [
+                [
+                    "delete",
+                    36,
+                    63
+                ],
+                [
+                    "insert",
+                    36,
+                    "in Advance"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1005-33-g-Interp-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    43,
+                    59
+                ],
+                [
+                    "insert",
+                    43,
                     "\u00a7 1005.31(g)(2),"
                 ]
             ],
             [
                 [
                     "delete",
-                    114,
-                    124
+                    145,
+                    155
                 ],
                 [
                     "insert",
-                    114,
+                    145,
                     "\u00a7 1005.13."
                 ]
             ]
         ],
-        "title":[
-            [
-                "delete",
-                0,
-                30
-            ]
-        ],
         "op":"modified"
-    },
-    "1005-36-Interp-1":{
-        "text":[
-            [
-                "insert",
-                0,
-                "Applicability of subpart B. "
-            ],
-            [
-                [
-                    "delete",
-                    81,
-                    91
-                ],
-                [
-                    "insert",
-                    81,
-                    "\u00a7 1005.36,"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    111,
-                    120
-                ],
-                [
-                    "insert",
-                    111,
-                    "\u00a7 1005.36"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    218,
-                    230
-                ],
-                [
-                    "insert",
-                    218,
-                    "\u00a7 1005.31(g)"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    315,
-                    331
-                ],
-                [
-                    "insert",
-                    315,
-                    "\u00a7 1005.36(a)(2)."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                27
-            ]
-        ],
-        "op":"modified"
-    },
-    "1005-A-37":{
-        "text":[
-            [
-                "delete",
-                0,
-                230
-            ]
-        ],
-        "title":[
-            [
-                [
-                    "delete",
-                    74,
-                    94
-                ],
-                [
-                    "insert",
-                    74,
-                    "(\u00a7 1005.31(b)(2)(iv)"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1005-A-37-p4":{
-        "op":"deleted"
-    },
-    "1005-A-37-p5":{
-        "op":"deleted"
     },
     "1005-A-37-p12":{
         "node":{
@@ -151,93 +131,75 @@
         },
         "op":"added"
     },
-    "1005-33-a-Interp-9":{
-        "text":[
-            [
-                "insert",
-                0,
-                "Account number or recipient institution identifier. "
-            ],
-            [
-                [
-                    "delete",
-                    33,
-                    56
-                ],
-                [
-                    "insert",
-                    33,
-                    "\u00a7 1005.33(a)(1)(iv)(D),"
-                ]
-            ],
-            [
-                "insert",
-                224,
-                " naccount"
-            ],
-            [
-                [
-                    "delete",
-                    347,
-                    357
-                ],
-                [
-                    "insert",
-                    347,
-                    "(BICs)) and"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    435,
-                    436
-                ],
-                [
-                    "insert",
-                    435,
-                    "  "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    527,
-                    549
-                ],
-                [
-                    "insert",
-                    527,
-                    "\u00a7 1005.30(h)(2)"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    741,
-                    742
-                ],
-                [
-                    "insert",
-                    741,
-                    "  "
-                ]
-            ]
-        ],
+    "1005-A-37":{
         "title":[
             [
-                "delete",
-                0,
-                51
+                [
+                    "delete",
+                    74,
+                    94
+                ],
+                [
+                    "insert",
+                    74,
+                    "(\u00a7 1005.31(b)(2)(iv)"
+                ]
             ]
         ],
         "op":"modified"
     },
-    "1005-A-37-p2":{
-        "op":"deleted"
-    },
-    "1005-A-37-p3":{
-        "op":"deleted"
+    "1005-36-Interp-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    109,
+                    119
+                ],
+                [
+                    "insert",
+                    109,
+                    "\u00a7 1005.36,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    139,
+                    148
+                ],
+                [
+                    "insert",
+                    139,
+                    "\u00a7 1005.36"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    246,
+                    258
+                ],
+                [
+                    "insert",
+                    246,
+                    "\u00a7 1005.31(g)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    343,
+                    359
+                ],
+                [
+                    "insert",
+                    343,
+                    "\u00a7 1005.36(a)(2)."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-7-b-11":{
         "text":[
@@ -275,21 +237,7 @@
         ],
         "op":"modified"
     },
-    "1005-36-Interp":{
-        "title":[
-            [
-                [
-                    "delete",
-                    36,
-                    63
-                ],
-                [
-                    "insert",
-                    36,
-                    "in Advance"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1005-A-37-p1":{
+        "op":"deleted"
     }
 }
