@@ -2789,6 +2789,23 @@
         },
         "op":"added"
     },
+    "1026-M2-p2-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    1733,
+                    1735
+                ],
+                [
+                    "insert",
+                    1733,
+                    " periodic rate;\n"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1026-32-b-1-i-D-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -2809,18 +2826,18 @@
         },
         "op":"added"
     },
-    "1026-43-b-4-Interp-3":{
+    "1026-43-f-2-Interp-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Rate set.A transaction's annual percentage rate is compared to the average prime offer rate as of the date the transaction's interest rate is set (or \u201clocked\u201d) before consummation. Sometimes a creditor sets the interest rate initially and then re-sets it at a different level before consummation. The creditor should use the last date the interest rate is set before consummation.",
+            "text":"Requirement to hold in portfolio.Creditors generally must hold a balloon-payment qualified mortgage in portfolio to maintain the transaction's status as a qualified mortgage under \u00a7 1026.43(f)(1), subject to four exceptions. Unless one of these exceptions applies, a balloon-payment qualified mortgage is no longer a qualified mortgage under \u00a7 1026.43(f)(1) once legal title to the debt obligation is sold, assigned, or otherwise transferred to another person. Accordingly, unless one of the exceptions applies, the transferee could not benefit from the presumption of compliance for qualified mortgages under \u00a7 1026.43(f)(1) unless the loan also met the requirements of another qualified mortgage definition.",
             "label":[
                 "1026",
                 "43",
-                "b",
-                "4",
+                "f",
+                "2",
                 "Interp",
-                "3"
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -5468,7 +5485,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).Show citation box",
+            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).",
             "label":[
                 "1026",
                 "36",
@@ -9871,6 +9888,16 @@
                     309,
                     "1026.35(e)(1)."
                 ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1026-1-d-7":{
+        "text":[
+            [
+                "delete",
+                699,
+                711
             ]
         ],
         "op":"modified"
@@ -14664,8 +14691,20 @@
                 277
             ],
             [
+                [
+                    "delete",
+                    288,
+                    291
+                ],
+                [
+                    "insert",
+                    288,
+                    "make"
+                ]
+            ],
+            [
                 "insert",
-                408,
+                407,
                 "the consumer's "
             ]
         ],
@@ -16097,6 +16136,24 @@
                 "b"
             ],
             "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-43-b-4-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Rate set.A transaction's annual percentage rate is compared to the average prime offer rate as of the date the transaction's interest rate is set (or \u201clocked\u201d) before consummation. Sometimes a creditor sets the interest rate initially and then re-sets it at a different level before consummation. The creditor should use the last date the interest rate is set before consummation.",
+            "label":[
+                "1026",
+                "43",
+                "b",
+                "4",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -18110,23 +18167,15 @@
         },
         "op":"added"
     },
-    "1026-43-f-2-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Requirement to hold in portfolio.Creditors generally must hold a balloon-payment qualified mortgage in portfolio to maintain the transaction's status as a qualified mortgage under \u00a7 1026.43(f)(1), subject to four exceptions. Unless one of these exceptions applies, a balloon-payment qualified mortgage is no longer a qualified mortgage under \u00a7 1026.43(f)(1) once legal title to the debt obligation is sold, assigned, or otherwise transferred to another person. Accordingly, unless one of the exceptions applies, the transferee could not benefit from the presumption of compliance for qualified mortgages under \u00a7 1026.43(f)(1) unless the loan also met the requirements of another qualified mortgage definition.",
-            "label":[
-                "1026",
-                "43",
-                "f",
-                "2",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-1-c-4":{
+        "text":[
+            [
+                "delete",
+                83,
+                115
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-e-3-i":{
         "node":{
@@ -23284,6 +23333,23 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-5-a-1-ii-B":{
+        "text":[
+            [
+                [
+                    "delete",
+                    204,
+                    217
+                ],
+                [
+                    "insert",
+                    204,
+                    "solicitationssolicitations"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-g-2-ii-A":{
         "node":{
