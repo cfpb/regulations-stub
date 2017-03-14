@@ -974,6 +974,26 @@
         },
         "op":"added"
     },
+    "1026-36-d-1-Interp-2-ii-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Assume a creditor pays a loan originator a higher commission for transactions to be held by the creditor in portfolio than for transactions sold by the creditor into the secondary market. The creditor holds in portfolio only extensions of credit that have a fixed interest rate and a five-year term with a final balloon payment. The creditor sells into the secondary market all other extensions of credit, which typically have a higher fixed interest rate and a 30-year term. Thus, whether an extension of credit is held in portfolio or sold into the secondary market for this creditor consistently varies with the interest rate and whether the credit has a five-year term or a 30-year term (which are terms of the transaction) over a significant number of transactions. Also, the loan originator has the ability to change the factor by, for example, advising the consumer to choose an extension of credit a five-year term. Therefore, under these circumstances, whether or not an extension of credit will be held in portfolio is a proxy for a term of a transaction.",
+            "label":[
+                "1026",
+                "36",
+                "d",
+                "1",
+                "Interp",
+                "2",
+                "ii",
+                "A"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-43-d-5-i-Interp-7-iv-A":{
         "node":{
             "tagged_text":null,
@@ -2825,6 +2845,23 @@
             ]
         },
         "op":"added"
+    },
+    "1026-M2-p2-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    1733,
+                    1735
+                ],
+                [
+                    "insert",
+                    1733,
+                    " periodic rate;\n"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-32-b-1-i-D-Interp-4":{
         "node":{
@@ -5025,23 +5062,24 @@
         ],
         "op":"modified"
     },
-    "1026-36-d-1-Interp-2-ii-A":{
+    "1026-Q-h1-D-6-a":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Assume a creditor pays a loan originator a higher commission for transactions to be held by the creditor in portfolio than for transactions sold by the creditor into the secondary market. The creditor holds in portfolio only extensions of credit that have a fixed interest rate and a five-year term with a final balloon payment. The creditor sells into the secondary market all other extensions of credit, which typically have a higher fixed interest rate and a 30-year term. Thus, whether an extension of credit is held in portfolio or sold into the secondary market for this creditor consistently varies with the interest rate and whether the credit has a five-year term or a 30-year term (which are terms of the transaction) over a significant number of transactions. Also, the loan originator has the ability to change the factor by, for example, advising the consumer to choose an extension of credit a five-year term. Therefore, under these circumstances, whether or not an extension of credit will be held in portfolio is a proxy for a term of a transaction.",
+            "text":"a. To determine if the business is expected to generate sufficient income for the consumer's needs, the creditor must carefully analyze the business's financial strength, including the:",
             "label":[
                 "1026",
-                "36",
-                "d",
-                "1",
-                "Interp",
-                "2",
-                "ii",
-                "A"
+                "Q",
+                "h1",
+                "D",
+                "6",
+                "a"
             ],
-            "node_type":"interp",
-            "child_labels":[]
+            "node_type":"appendix",
+            "child_labels":[
+                "1026-Q-h1-D-6-a-i",
+                "1026-Q-h1-D-6-a-ii"
+            ]
         },
         "op":"added"
     },
@@ -5636,7 +5674,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).Show citation box",
+            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).",
             "label":[
                 "1026",
                 "36",
@@ -7209,6 +7247,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-K-b-p14":{
+        "op":"deleted"
     },
     "1026-36-d-2-i-A-2":{
         "node":{
@@ -14911,8 +14952,20 @@
                 277
             ],
             [
+                [
+                    "delete",
+                    288,
+                    291
+                ],
+                [
+                    "insert",
+                    288,
+                    "make"
+                ]
+            ],
+            [
                 "insert",
-                408,
+                407,
                 "the consumer's "
             ]
         ],
@@ -21352,6 +21405,27 @@
         },
         "op":"added"
     },
+    "1026-52-a-1-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Application.The 25 percent limit in \u00a7 1026.52(a)(1) applies to fees that the card issuer charges to the account as well as to fees that the card issuer requires the consumer to pay with respect to the account through other means (such as through a payment from the consumer's asset account to the card issuer or from another credit account provided by the card issuer). For example:",
+            "label":[
+                "1026",
+                "52",
+                "a",
+                "1",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-52-a-1-Interp-1-i",
+                "1026-52-a-1-Interp-1-ii"
+            ]
+        },
+        "op":"added"
+    },
     "1026-Q-h1-F-2-a":{
         "node":{
             "tagged_text":null,
@@ -23377,27 +23451,6 @@
         },
         "op":"added"
     },
-    "1026-Q-h1-D-6-a":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"a. To determine if the business is expected to generate sufficient income for the consumer's needs, the creditor must carefully analyze the business's financial strength, including the:",
-            "label":[
-                "1026",
-                "Q",
-                "h1",
-                "D",
-                "6",
-                "a"
-            ],
-            "node_type":"appendix",
-            "child_labels":[
-                "1026-Q-h1-D-6-a-i",
-                "1026-Q-h1-D-6-a-ii"
-            ]
-        },
-        "op":"added"
-    },
     "1026-Q-h5-1-c":{
         "node":{
             "tagged_text":null,
@@ -23605,26 +23658,22 @@
         },
         "op":"added"
     },
-    "1026-52-a-1-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Application.The 25 percent limit in \u00a7 1026.52(a)(1) applies to fees that the card issuer charges to the account as well as to fees that the card issuer requires the consumer to pay with respect to the account through other means (such as through a payment from the consumer's asset account to the card issuer or from another credit account provided by the card issuer). For example:",
-            "label":[
-                "1026",
-                "52",
-                "a",
-                "1",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-52-a-1-Interp-1-i",
-                "1026-52-a-1-Interp-1-ii"
+    "1026-5-a-1-ii-B":{
+        "text":[
+            [
+                [
+                    "delete",
+                    204,
+                    217
+                ],
+                [
+                    "insert",
+                    204,
+                    "solicitationssolicitations"
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1026-43-g-2-ii-A":{
         "node":{
@@ -25034,6 +25083,23 @@
             ]
         },
         "op":"added"
+    },
+    "1026-K-a":{
+        "text":[
+            [
+                [
+                    "delete",
+                    452,
+                    465
+                ],
+                [
+                    "insert",
+                    452,
+                    "Transactions);"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-f-1-iv":{
         "node":{
