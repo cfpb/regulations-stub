@@ -119,120 +119,6 @@
         },
         "op":"added"
     },
-    "1026-41-e-4-iii-Interp-3":{
-        "text":[
-            [
-                "insert",
-                14,
-                " not considered in determining whether a servicer is a small servicer.Mortgage loans"
-            ],
-            [
-                "insert",
-                38,
-                " pursuant to \u00a7 1026.41(e)(4)(iii) in applying \u00a7 1026.41(e)(4)(ii)(A) are not considered either"
-            ],
-            [
-                "delete",
-                43,
-                55
-            ],
-            [
-                "insert",
-                85,
-                " (together with any affiliates) services 5,000 or fewer mortgage loans or whether a servicer"
-            ],
-            [
-                [
-                    "delete",
-                    89,
-                    90
-                ],
-                [
-                    "insert",
-                    89,
-                    "servicing only mortgage loans that it (or an affiliate) owns or originated. For example, assume a servicer services 5,400 mortgage loans. Of these mortgage loans, the servicer owns or originated 4,800 mortgage loans, voluntarily services 300 mortgage loans that neither it (nor an affiliate) owns or originated and for which the servicer does not receive any compensation or fees, and services 300 reverse mortgage transactions. The voluntarily serviced mortgage loans and reverse mortgage loans are not considered in determining whether the servicer qualifies as a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    120,
-                    138
-                ],
-                [
-                    "insert",
-                    120,
-                    "1026.41(e)(4)(iii)(A). Thus, because only the 4,800 mortgage loans owned or originated by the servicer"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    143,
-                    168
-                ],
-                [
-                    "insert",
-                    143,
-                    "considered in"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    189,
-                    190
-                ],
-                [
-                    "insert",
-                    189,
-                    "the servicer qualifies as a small"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    201,
-                    209
-                ],
-                [
-                    "insert",
-                    201,
-                    "the servicer satisfies \u00a7 1026.41(e)(4)(ii)(A)"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    215,
-                    329
-                ],
-                [
-                    "insert",
-                    215,
-                    "regard to all 5,400 mortgage loans"
-                ]
-            ],
-            [
-                "delete",
-                333,
-                1019
-            ],
-            [
-                "delete",
-                1028,
-                1758
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                84
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-41-e-4-iii":{
         "text":[
             [
@@ -334,14 +220,109 @@
         },
         "op":"added"
     },
-    "1026-41-e-4-iii-b":{
-        "op":"deleted"
+    "1026-41-e-4-iii-Interp-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    1
+                ],
+                [
+                    "insert",
+                    0,
+                    "Assume a"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    11,
+                    15
+                ],
+                [
+                    "insert",
+                    11,
+                    "(that as of January 1 of the current year qualifies as a small servicer)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    64,
+                    91
+                ],
+                [
+                    "insert",
+                    64,
+                    "on October 1, and services"
+                ]
+            ],
+            [
+                "insert",
+                97,
+                "than 5,000 "
+            ],
+            [
+                "insert",
+                112,
+                "as of January 1 of the following year. The servicer would no longer be considered a small servicer on January 1 of the following year and would have to comply with any requirements from which "
+            ],
+            [
+                [
+                    "delete",
+                    115,
+                    149
+                ],
+                [
+                    "insert",
+                    115,
+                    "is no longer exempt as a small servicer"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    153,
+                    288
+                ],
+                [
+                    "insert",
+                    153,
+                    "April 1"
+                ]
+            ],
+            [
+                "delete",
+                292,
+                305
+            ],
+            [
+                "delete",
+                319,
+                538
+            ]
+        ],
+        "op":"modified"
     },
-    "1026-41-e-4-iii-c":{
-        "op":"deleted"
-    },
-    "1026-41-e-4-iii-a":{
-        "op":"deleted"
+    "1026-41-e-4-iii-Interp-5":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Limited role of voluntarily serviced mortgage loans.Reverse mortgages and mortgage loans secured by consumers' interests in timeshare plans, in addition to not being considered in determining small servicer qualification, are also exempt from the requirements of \u00a7 1026.41. In contrast, although voluntarily serviced mortgage loans, as defined by \u00a7 1026.41(e)(4)(iii)(A), are likewise not considered in determining small servicer status, they are not exempt from the requirements of \u00a7 1026.41. Thus, a servicer that does not qualify as a small servicer would not have to provide periodic statements for reverse mortgages and timeshare plans because they are exempt from the rule, but would have to provide periodic statements for mortgage loans it voluntarily services.",
+            "label":[
+                "1026",
+                "41",
+                "e",
+                "4",
+                "iii",
+                "Interp",
+                "5"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-43-a-3-vii-D":{
         "node":{
@@ -465,8 +446,24 @@
         },
         "op":"added"
     },
-    "1026-41-e-4-ii-Interp-2-i":{
-        "op":"deleted"
+    "1026-43-e-3-iv-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Relationship to RESPA tolerance cure.Under Regulation X (12 CFR 1024.7(i)), if any charges at settlement exceed the charges listed on the good faith estimate of settlement costs by more than the amounts permitted under 12 CFR 1024.7(e), the loan originator may cure the tolerance violation by reimbursing the amount by which the tolerance was exceeded at settlement or within 30 calendar days after settlement. Similarly, under \u00a7 1026.19(f)(2)(v), if amounts paid by the consumer exceed the amounts specified under \u00a7 1026.19(e)(3)(i) or (ii), the creditor complies with \u00a7 1026.19(e)(1)(i) if the creditor refunds the excess to the consumer no later than 60 days after consummation. The amount paid to the consumer pursuant to \u00a7 1026.43(e)(3)(iv) may be offset by the amount paid to the consumer pursuant to 12 CFR 1024.7(i) or \u00a7 1026.19(f)(2)(v), to the extent that the amount paid to the consumer pursuant to 12 CFR 1024.7(i) or \u00a7 1026.19(f)(2)(v) is being applied to fees or charges included in points and fees pursuant to \u00a7 1026.32(b)(1). However, a creditor or assignee has not satisfied \u00a7 1026.43(e)(3)(iii) unless the total amount described in \u00a7 1026.43(e)(3)(iv), including any offset due to a payment made pursuant to 12 CFR 1024.7(i) or \u00a7 1026.19(f)(2)(v), is paid to the consumer within 210 days after consummation and prior to the occurrence of any of the events in \u00a7 1026.43(e)(3)(iii)(B)(1) through (3).",
+            "label":[
+                "1026",
+                "43",
+                "e",
+                "3",
+                "iv",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-43-e-3-iv-Interp-1":{
         "node":{
@@ -776,8 +773,119 @@
         ],
         "op":"modified"
     },
-    "1026-41-e-4-ii-Interp-2-ii":{
-        "op":"deleted"
+    "1026-41-e-4-iii-Interp-3":{
+        "text":[
+            [
+                "insert",
+                14,
+                " not considered in determining whether a servicer is a small servicer.Mortgage loans"
+            ],
+            [
+                "insert",
+                38,
+                " pursuant to \u00a7 1026.41(e)(4)(iii) in applying \u00a7 1026.41(e)(4)(ii)(A) are not considered either"
+            ],
+            [
+                "delete",
+                43,
+                55
+            ],
+            [
+                "insert",
+                85,
+                " (together with any affiliates) services 5,000 or fewer mortgage loans or whether a servicer"
+            ],
+            [
+                [
+                    "delete",
+                    89,
+                    90
+                ],
+                [
+                    "insert",
+                    89,
+                    "servicing only mortgage loans that it (or an affiliate) owns or originated. For example, assume a servicer services 5,400 mortgage loans. Of these mortgage loans, the servicer owns or originated 4,800 mortgage loans, voluntarily services 300 mortgage loans that neither it (nor an affiliate) owns or originated and for which the servicer does not receive any compensation or fees, and services 300 reverse mortgage transactions. The voluntarily serviced mortgage loans and reverse mortgage loans are not considered in determining whether the servicer qualifies as a"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    120,
+                    138
+                ],
+                [
+                    "insert",
+                    120,
+                    "1026.41(e)(4)(iii)(A). Thus, because only the 4,800 mortgage loans owned or originated by the servicer"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    143,
+                    168
+                ],
+                [
+                    "insert",
+                    143,
+                    "considered in"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    189,
+                    190
+                ],
+                [
+                    "insert",
+                    189,
+                    "the servicer qualifies as a small"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    201,
+                    209
+                ],
+                [
+                    "insert",
+                    201,
+                    "the servicer satisfies \u00a7 1026.41(e)(4)(ii)(A)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    215,
+                    329
+                ],
+                [
+                    "insert",
+                    215,
+                    "regard to all 5,400 mortgage loans"
+                ]
+            ],
+            [
+                "delete",
+                333,
+                1019
+            ],
+            [
+                "delete",
+                1028,
+                1758
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                84
+            ]
+        ],
+        "op":"modified"
     },
     "1026-41-e-4-iii-Interp-4":{
         "node":{
@@ -1079,25 +1187,6 @@
         },
         "op":"added"
     },
-    "1026-41-e-4-iii-Interp-5":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Limited role of voluntarily serviced mortgage loans.Reverse mortgages and mortgage loans secured by consumers' interests in timeshare plans, in addition to not being considered in determining small servicer qualification, are also exempt from the requirements of \u00a7 1026.41. In contrast, although voluntarily serviced mortgage loans, as defined by \u00a7 1026.41(e)(4)(iii)(A), are likewise not considered in determining small servicer status, they are not exempt from the requirements of \u00a7 1026.41. Thus, a servicer that does not qualify as a small servicer would not have to provide periodic statements for reverse mortgages and timeshare plans because they are exempt from the rule, but would have to provide periodic statements for mortgage loans it voluntarily services.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "Interp",
-                "5"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-41-e-4-ii-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -1235,91 +1324,6 @@
         },
         "op":"added"
     },
-    "1026-41-e-4-iii-Interp-2-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    1
-                ],
-                [
-                    "insert",
-                    0,
-                    "Assume a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    11,
-                    15
-                ],
-                [
-                    "insert",
-                    11,
-                    "(that as of January 1 of the current year qualifies as a small servicer)"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    64,
-                    91
-                ],
-                [
-                    "insert",
-                    64,
-                    "on October 1, and services"
-                ]
-            ],
-            [
-                "insert",
-                97,
-                "than 5,000 "
-            ],
-            [
-                "insert",
-                112,
-                "as of January 1 of the following year. The servicer would no longer be considered a small servicer on January 1 of the following year and would have to comply with any requirements from which "
-            ],
-            [
-                [
-                    "delete",
-                    115,
-                    149
-                ],
-                [
-                    "insert",
-                    115,
-                    "is no longer exempt as a small servicer"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    153,
-                    288
-                ],
-                [
-                    "insert",
-                    153,
-                    "April 1"
-                ]
-            ],
-            [
-                "delete",
-                292,
-                305
-            ],
-            [
-                "delete",
-                319,
-                538
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-43-e-3-iii-Interp-2-i":{
         "node":{
             "tagged_text":null,
@@ -1393,25 +1397,6 @@
                 "1"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-43-e-3-iv-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Relationship to RESPA tolerance cure.Under Regulation X (12 CFR 1024.7(i)), if any charges at settlement exceed the charges listed on the good faith estimate of settlement costs by more than the amounts permitted under 12 CFR 1024.7(e), the loan originator may cure the tolerance violation by reimbursing the amount by which the tolerance was exceeded at settlement or within 30 calendar days after settlement. Similarly, under \u00a7 1026.19(f)(2)(v), if amounts paid by the consumer exceed the amounts specified under \u00a7 1026.19(e)(3)(i) or (ii), the creditor complies with \u00a7 1026.19(e)(1)(i) if the creditor refunds the excess to the consumer no later than 60 days after consummation. The amount paid to the consumer pursuant to \u00a7 1026.43(e)(3)(iv) may be offset by the amount paid to the consumer pursuant to 12 CFR 1024.7(i) or \u00a7 1026.19(f)(2)(v), to the extent that the amount paid to the consumer pursuant to 12 CFR 1024.7(i) or \u00a7 1026.19(f)(2)(v) is being applied to fees or charges included in points and fees pursuant to \u00a7 1026.32(b)(1). However, a creditor or assignee has not satisfied \u00a7 1026.43(e)(3)(iii) unless the total amount described in \u00a7 1026.43(e)(3)(iv), including any offset due to a payment made pursuant to 12 CFR 1024.7(i) or \u00a7 1026.19(f)(2)(v), is paid to the consumer within 210 days after consummation and prior to the occurrence of any of the events in \u00a7 1026.43(e)(3)(iii)(B)(1) through (3).",
-            "label":[
-                "1026",
-                "43",
-                "e",
-                "3",
-                "iv",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
