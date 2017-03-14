@@ -2654,26 +2654,21 @@
         },
         "op":"added"
     },
-    "1026-36-d-2-i-Interp-2":{
+    "1026-43-f-2-Interp-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Compensation received directly from a consumer.",
+            "text":"Requirement to hold in portfolio.Creditors generally must hold a balloon-payment qualified mortgage in portfolio to maintain the transaction's status as a qualified mortgage under \u00a7 1026.43(f)(1), subject to four exceptions. Unless one of these exceptions applies, a balloon-payment qualified mortgage is no longer a qualified mortgage under \u00a7 1026.43(f)(1) once legal title to the debt obligation is sold, assigned, or otherwise transferred to another person. Accordingly, unless one of the exceptions applies, the transferee could not benefit from the presumption of compliance for qualified mortgages under \u00a7 1026.43(f)(1) unless the loan also met the requirements of another qualified mortgage definition.",
             "label":[
                 "1026",
-                "36",
-                "d",
+                "43",
+                "f",
                 "2",
-                "i",
                 "Interp",
-                "2"
+                "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1026-36-d-2-i-Interp-2-i",
-                "1026-36-d-2-i-Interp-2-ii",
-                "1026-36-d-2-i-Interp-2-iii"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -2891,6 +2886,27 @@
                 "Interp",
                 "2",
                 "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-43-d-5-i-Interp-5-iv-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The remaining loan term as of March 1, 2016, the date of the recast, which is 28 years (336 monthly payments).",
+            "label":[
+                "1026",
+                "43",
+                "d",
+                "5",
+                "i",
+                "Interp",
+                "5",
+                "iv",
+                "C"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -9236,26 +9252,15 @@
         },
         "op":"added"
     },
-    "1026-43-d-5-i-Interp-5-iv-C":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The remaining loan term as of March 1, 2016, the date of the recast, which is 28 years (336 monthly payments).",
-            "label":[
-                "1026",
-                "43",
-                "d",
-                "5",
-                "i",
-                "Interp",
-                "5",
-                "iv",
-                "C"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-1-d-7":{
+        "text":[
+            [
+                "delete",
+                699,
+                711
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-d-5-i-Interp-5-iv-B":{
         "node":{
@@ -10403,24 +10408,22 @@
         },
         "op":"added"
     },
-    "1026-32-b-1-iv-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Credit property insurance.Credit property insurance includes insurance against loss of or damage to personal property, such as a houseboat or manufactured home. Credit property insurance covers the creditor's security interest in the property. Credit property insurance does not include homeowners' insurance, which, unlike credit property insurance, typically covers not only the dwelling but its contents and protects the consumer's interest in the property.",
-            "label":[
-                "1026",
-                "32",
-                "b",
-                "1",
-                "iv",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-M2-p2-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    1733,
+                    1735
+                ],
+                [
+                    "insert",
+                    1733,
+                    " periodic rate;\n"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-b-7-ii":{
         "node":{
@@ -10575,23 +10578,15 @@
         },
         "op":"added"
     },
-    "1026-43-b-4-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Rate set.A transaction's annual percentage rate is compared to the average prime offer rate as of the date the transaction's interest rate is set (or \u201clocked\u201d) before consummation. Sometimes a creditor sets the interest rate initially and then re-sets it at a different level before consummation. The creditor should use the last date the interest rate is set before consummation.",
-            "label":[
-                "1026",
-                "43",
-                "b",
-                "4",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-1-c-4":{
+        "text":[
+            [
+                "delete",
+                83,
+                115
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-b-4-Interp-2":{
         "node":{
@@ -11635,18 +11630,18 @@
         },
         "op":"added"
     },
-    "1026-43-f-2-Interp-1":{
+    "1026-43-b-4-Interp-3":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Requirement to hold in portfolio.Creditors generally must hold a balloon-payment qualified mortgage in portfolio to maintain the transaction's status as a qualified mortgage under \u00a7 1026.43(f)(1), subject to four exceptions. Unless one of these exceptions applies, a balloon-payment qualified mortgage is no longer a qualified mortgage under \u00a7 1026.43(f)(1) once legal title to the debt obligation is sold, assigned, or otherwise transferred to another person. Accordingly, unless one of the exceptions applies, the transferee could not benefit from the presumption of compliance for qualified mortgages under \u00a7 1026.43(f)(1) unless the loan also met the requirements of another qualified mortgage definition.",
+            "text":"Rate set.A transaction's annual percentage rate is compared to the average prime offer rate as of the date the transaction's interest rate is set (or \u201clocked\u201d) before consummation. Sometimes a creditor sets the interest rate initially and then re-sets it at a different level before consummation. The creditor should use the last date the interest rate is set before consummation.",
             "label":[
                 "1026",
                 "43",
-                "f",
-                "2",
+                "b",
+                "4",
                 "Interp",
-                "1"
+                "3"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -11676,26 +11671,22 @@
         },
         "op":"added"
     },
-    "1026-32-b-6-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Fees that are not prepayment penalties; closed-end credit transactions.For purposes of \u00a7 1026.32(b)(6)(i), fees that are not prepayment penalties include, for example:",
-            "label":[
-                "1026",
-                "32",
-                "b",
-                "6",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-32-b-6-Interp-2-i",
-                "1026-32-b-6-Interp-2-ii"
+    "1026-5-a-1-ii-B":{
+        "text":[
+            [
+                [
+                    "delete",
+                    204,
+                    217
+                ],
+                [
+                    "insert",
+                    204,
+                    "solicitationssolicitations"
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1026-43-b-8-Interp-3":{
         "node":{
@@ -12114,6 +12105,25 @@
                 "b"
             ],
             "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-32-b-1-iv-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Credit property insurance.Credit property insurance includes insurance against loss of or damage to personal property, such as a houseboat or manufactured home. Credit property insurance covers the creditor's security interest in the property. Credit property insurance does not include homeowners' insurance, which, unlike credit property insurance, typically covers not only the dwelling but its contents and protects the consumer's interest in the property.",
+            "label":[
+                "1026",
+                "32",
+                "b",
+                "1",
+                "iv",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -15579,6 +15589,29 @@
         },
         "op":"added"
     },
+    "1026-36-d-2-i-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Compensation received directly from a consumer.",
+            "label":[
+                "1026",
+                "36",
+                "d",
+                "2",
+                "i",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-36-d-2-i-Interp-2-i",
+                "1026-36-d-2-i-Interp-2-ii",
+                "1026-36-d-2-i-Interp-2-iii"
+            ]
+        },
+        "op":"added"
+    },
     "1026-36-f-3-ii-A-2-ii":{
         "node":{
             "tagged_text":null,
@@ -16393,20 +16426,24 @@
         ],
         "op":"modified"
     },
-    "1026-32-b-6-i":{
+    "1026-Q-h1-D-6-a":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) Closed-end credit transactions.For a closed-end credit transaction, prepayment penalty means a charge imposed for paying all or part of the transaction's principal before the date on which the principal is due, other than a waived, bona fide third-party charge that the creditor imposes if the consumer prepays all of the transaction's principal sooner than 36 months after consummation, provided, however, that interest charged consistent with the monthly interest accrual amortization method is not a prepayment penalty for extensions of credit insured by the Federal Housing Administration that are consummated before January 21, 2015.",
+            "text":"a. To determine if the business is expected to generate sufficient income for the consumer's needs, the creditor must carefully analyze the business's financial strength, including the:",
             "label":[
                 "1026",
-                "32",
-                "b",
+                "Q",
+                "h1",
+                "D",
                 "6",
-                "i"
+                "a"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"appendix",
+            "child_labels":[
+                "1026-Q-h1-D-6-a-i",
+                "1026-Q-h1-D-6-a-ii"
+            ]
         },
         "op":"added"
     },
@@ -18373,7 +18410,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).Show citation box",
+            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).",
             "label":[
                 "1026",
                 "36",
@@ -22032,6 +22069,27 @@
         },
         "op":"added"
     },
+    "1026-32-b-6-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Fees that are not prepayment penalties; closed-end credit transactions.For purposes of \u00a7 1026.32(b)(6)(i), fees that are not prepayment penalties include, for example:",
+            "label":[
+                "1026",
+                "32",
+                "b",
+                "6",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-32-b-6-Interp-2-i",
+                "1026-32-b-6-Interp-2-ii"
+            ]
+        },
+        "op":"added"
+    },
     "1026-43-a-3-i":{
         "node":{
             "tagged_text":null,
@@ -22580,24 +22638,20 @@
         },
         "op":"added"
     },
-    "1026-Q-h1-D-6-a":{
+    "1026-32-b-6-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"a. To determine if the business is expected to generate sufficient income for the consumer's needs, the creditor must carefully analyze the business's financial strength, including the:",
+            "text":"(i) Closed-end credit transactions.For a closed-end credit transaction, prepayment penalty means a charge imposed for paying all or part of the transaction's principal before the date on which the principal is due, other than a waived, bona fide third-party charge that the creditor imposes if the consumer prepays all of the transaction's principal sooner than 36 months after consummation, provided, however, that interest charged consistent with the monthly interest accrual amortization method is not a prepayment penalty for extensions of credit insured by the Federal Housing Administration that are consummated before January 21, 2015.",
             "label":[
                 "1026",
-                "Q",
-                "h1",
-                "D",
+                "32",
+                "b",
                 "6",
-                "a"
+                "i"
             ],
-            "node_type":"appendix",
-            "child_labels":[
-                "1026-Q-h1-D-6-a-i",
-                "1026-Q-h1-D-6-a-ii"
-            ]
+            "node_type":"regtext",
+            "child_labels":[]
         },
         "op":"added"
     },
