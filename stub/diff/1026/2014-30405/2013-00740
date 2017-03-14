@@ -1584,9 +1584,21 @@
     "1026-43-e-1-i":{
         "text":[
             [
+                [
+                    "delete",
+                    20,
+                    25
+                ],
+                [
+                    "insert",
+                    20,
+                    "transactions"
+                ]
+            ],
+            [
                 "delete",
-                170,
-                186
+                163,
+                179
             ]
         ],
         "op":"modified"
@@ -2269,6 +2281,9 @@
         "op":"deleted"
     },
     "1026-35-c-2-v":{
+        "op":"deleted"
+    },
+    "1026-35-c-2-ii-Interp-3":{
         "op":"deleted"
     },
     "1026-35-c-2-ii-Interp-2":{
