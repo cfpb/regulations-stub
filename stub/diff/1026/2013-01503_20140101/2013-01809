@@ -469,39 +469,28 @@
         },
         "op":"added"
     },
-    "1026-32-a-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    10
-                ],
-                [
-                    "insert",
-                    4,
-                    "The requirements of this section apply to a high-cost mortgage, which is any consumer credit transaction that is secured by the consumer's principal dwelling, other than"
-                ]
+    "1026-43-e-2-iv-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Interest rate adjustment caps.For an adjustable-rate mortgage, creditors should assume the interest rate increases after consummation as rapidly as possible, taking into account the terms of the legal obligation. That is, creditors should account for any periodic interest rate adjustment cap that may limit how quickly the interest rate can increase under the terms of the legal obligation. Where a range for the maximum interest rate during the first five years is provided, the highest rate in that range is the maximum interest rate for purposes of \u00a7 1026.43(e)(2)(iv). Where the terms of the legal obligation are not based on an index plus margin or formula, the creditor must use the maximum interest rate that occurs during the first five years after the date on which the first regular periodic payment will be due. To illustrate:",
+            "label":[
+                "1026",
+                "43",
+                "e",
+                "2",
+                "iv",
+                "Interp",
+                "3"
             ],
-            [
-                "delete",
-                60,
-                186
-            ],
-            [
-                [
-                    "delete",
-                    193,
-                    206
-                ],
-                [
-                    "insert",
-                    193,
-                    "which:"
-                ]
+            "node_type":"interp",
+            "child_labels":[
+                "1026-43-e-2-iv-Interp-3-i",
+                "1026-43-e-2-iv-Interp-3-ii",
+                "1026-43-e-2-iv-Interp-3-iii"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1026-35-c-2-ii":{
         "node":{
@@ -1562,6 +1551,25 @@
                 "a"
             ],
             "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-43-e-2-iv-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Maximum interest rate during the first five years.For a qualified mortgage, the creditor must underwrite the loan using a periodic payment of principal and interest based on the maximum interest rate that may apply during the first five years after the date on which the first regular periodic payment will be due. Creditors must use the maximum rate that could apply at any time during the first five years after the date on which the first regular periodic payment will be due, regardless of whether the maximum rate is reached at the first or subsequent adjustment during the five year period.",
+            "label":[
+                "1026",
+                "43",
+                "e",
+                "2",
+                "iv",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -3761,6 +3769,23 @@
         },
         "op":"added"
     },
+    "1026-M2-p2-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    1733,
+                    1735
+                ],
+                [
+                    "insert",
+                    1733,
+                    " periodic rate;\n"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1026-32-b-1-i-D-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -3846,23 +3871,15 @@
         },
         "op":"added"
     },
-    "1026-43-b-4-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Rate set.A transaction's annual percentage rate is compared to the average prime offer rate as of the date the transaction's interest rate is set (or \u201clocked\u201d) before consummation. Sometimes a creditor sets the interest rate initially and then re-sets it at a different level before consummation. The creditor should use the last date the interest rate is set before consummation.",
-            "label":[
-                "1026",
-                "43",
-                "b",
-                "4",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-1-c-4":{
+        "text":[
+            [
+                "delete",
+                83,
+                115
+            ]
+        ],
+        "op":"modified"
     },
     "1026-20-c-2-vi":{
         "node":{
@@ -7467,28 +7484,39 @@
         },
         "op":"added"
     },
-    "1026-43-e-2-iv-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Interest rate adjustment caps.For an adjustable-rate mortgage, creditors should assume the interest rate increases after consummation as rapidly as possible, taking into account the terms of the legal obligation. That is, creditors should account for any periodic interest rate adjustment cap that may limit how quickly the interest rate can increase under the terms of the legal obligation. Where a range for the maximum interest rate during the first five years is provided, the highest rate in that range is the maximum interest rate for purposes of \u00a7 1026.43(e)(2)(iv). Where the terms of the legal obligation are not based on an index plus margin or formula, the creditor must use the maximum interest rate that occurs during the first five years after the date on which the first regular periodic payment will be due. To illustrate:",
-            "label":[
-                "1026",
-                "43",
-                "e",
-                "2",
-                "iv",
-                "Interp",
-                "3"
+    "1026-32-a-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    10
+                ],
+                [
+                    "insert",
+                    4,
+                    "The requirements of this section apply to a high-cost mortgage, which is any consumer credit transaction that is secured by the consumer's principal dwelling, other than"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-43-e-2-iv-Interp-3-i",
-                "1026-43-e-2-iv-Interp-3-ii",
-                "1026-43-e-2-iv-Interp-3-iii"
+            [
+                "delete",
+                60,
+                186
+            ],
+            [
+                [
+                    "delete",
+                    193,
+                    206
+                ],
+                [
+                    "insert",
+                    193,
+                    "which:"
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1026-43-d-5-i-A":{
         "node":{
@@ -7508,22 +7536,23 @@
         },
         "op":"added"
     },
-    "1026-43-e-2-iv-Interp-1":{
+    "1026-32-a-3":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Maximum interest rate during the first five years.For a qualified mortgage, the creditor must underwrite the loan using a periodic payment of principal and interest based on the maximum interest rate that may apply during the first five years after the date on which the first regular periodic payment will be due. Creditors must use the maximum rate that could apply at any time during the first five years after the date on which the first regular periodic payment will be due, regardless of whether the maximum rate is reached at the first or subsequent adjustment during the five year period.",
+            "title":"Determination of annual percentage rate.",
+            "text":"(3) For purposes of paragraph (a)(1)(i) of this section, a creditor shall determine the annual percentage rate for a closed- or open-end credit transaction based on the following:",
             "label":[
                 "1026",
-                "43",
-                "e",
-                "2",
-                "iv",
-                "Interp",
-                "1"
+                "32",
+                "a",
+                "3"
             ],
-            "node_type":"interp",
-            "child_labels":[]
+            "node_type":"regtext",
+            "child_labels":[
+                "1026-32-a-3-i",
+                "1026-32-a-3-ii",
+                "1026-32-a-3-iii"
+            ]
         },
         "op":"added"
     },
@@ -7671,7 +7700,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).Show citation box",
+            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).",
             "label":[
                 "1026",
                 "36",
@@ -8474,7 +8503,7 @@
                 [
                     "insert",
                     301,
-                    "1026.32(g)."
+                    "1026.43(g)."
                 ]
             ]
         ],
@@ -13402,7 +13431,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) Safe harbor for transactions that are not higher-priced covered transactions.A creditor or assignee of a qualified mortgage, as defined in paragraphs (e)(2), (e)(4), (e)(5), (e)(6), or (f) of this section, that is not a higher-priced covered transaction, as defined in paragraph (b)(4) of this section, complies with the repayment ability requirements of paragraph (c) of this section.",
+            "text":"(i) Safe harbor for loans that are not higher-priced covered transactions.A creditor or assignee of a qualified mortgage, as defined in paragraphs (e)(2), (e)(4), (e)(5), (e)(6), or (f) of this section, that is not a higher-priced covered transaction, as defined in paragraph (b)(4) of this section, complies with the repayment ability requirements of paragraph (c) of this section.",
             "label":[
                 "1026",
                 "43",
@@ -14113,6 +14142,16 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-1-d-7":{
+        "text":[
+            [
+                "delete",
+                699,
+                711
+            ]
+        ],
+        "op":"modified"
     },
     "1026-32-a-2-ii":{
         "text":[
@@ -16750,6 +16789,24 @@
         },
         "op":"added"
     },
+    "1026-43-f-2-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Requirement to hold in portfolio.Creditors generally must hold a balloon-payment qualified mortgage in portfolio to maintain the transaction's status as a qualified mortgage under \u00a7 1026.43(f)(1), subject to four exceptions. Unless one of these exceptions applies, a balloon-payment qualified mortgage is no longer a qualified mortgage under \u00a7 1026.43(f)(1) once legal title to the debt obligation is sold, assigned, or otherwise transferred to another person. Accordingly, unless one of the exceptions applies, the transferee could not benefit from the presumption of compliance for qualified mortgages under \u00a7 1026.43(f)(1) unless the loan also met the requirements of another qualified mortgage definition.",
+            "label":[
+                "1026",
+                "43",
+                "f",
+                "2",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-35-c-4-i-B":{
         "node":{
             "tagged_text":null,
@@ -17718,6 +17775,9 @@
             ]
         ],
         "op":"modified"
+    },
+    "1026-32-c-3-Interp-1-i-C":{
+        "op":"deleted"
     },
     "1026-43-c-5-ii-C-Interp-1":{
         "node":{
@@ -24729,18 +24789,18 @@
         },
         "op":"added"
     },
-    "1026-43-f-2-Interp-1":{
+    "1026-43-b-4-Interp-3":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Requirement to hold in portfolio.Creditors generally must hold a balloon-payment qualified mortgage in portfolio to maintain the transaction's status as a qualified mortgage under \u00a7 1026.43(f)(1), subject to four exceptions. Unless one of these exceptions applies, a balloon-payment qualified mortgage is no longer a qualified mortgage under \u00a7 1026.43(f)(1) once legal title to the debt obligation is sold, assigned, or otherwise transferred to another person. Accordingly, unless one of the exceptions applies, the transferee could not benefit from the presumption of compliance for qualified mortgages under \u00a7 1026.43(f)(1) unless the loan also met the requirements of another qualified mortgage definition.",
+            "text":"Rate set.A transaction's annual percentage rate is compared to the average prime offer rate as of the date the transaction's interest rate is set (or \u201clocked\u201d) before consummation. Sometimes a creditor sets the interest rate initially and then re-sets it at a different level before consummation. The creditor should use the last date the interest rate is set before consummation.",
             "label":[
                 "1026",
                 "43",
-                "f",
-                "2",
+                "b",
+                "4",
                 "Interp",
-                "1"
+                "3"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -32308,8 +32368,22 @@
         },
         "op":"added"
     },
-    "1026-32-c-3-Interp-1-i-C":{
-        "op":"deleted"
+    "1026-5-a-1-ii-B":{
+        "text":[
+            [
+                [
+                    "delete",
+                    204,
+                    217
+                ],
+                [
+                    "insert",
+                    204,
+                    "solicitationssolicitations"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-g-2-ii-A":{
         "node":{
@@ -36943,26 +37017,6 @@
             ],
             "node_type":"interp",
             "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-32-a-3":{
-        "node":{
-            "tagged_text":null,
-            "title":"Determination of annual percentage rate.",
-            "text":"(3) For purposes of paragraph (a)(1)(i) of this section, a creditor shall determine the annual percentage rate for a closed- or open-end credit transaction based on the following:",
-            "label":[
-                "1026",
-                "32",
-                "a",
-                "3"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1026-32-a-3-i",
-                "1026-32-a-3-ii",
-                "1026-32-a-3-iii"
-            ]
         },
         "op":"added"
     },
