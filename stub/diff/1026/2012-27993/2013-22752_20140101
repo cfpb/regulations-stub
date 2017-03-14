@@ -859,26 +859,22 @@
     "1026-35-b-3-iv":{
         "op":"deleted"
     },
-    "1026-36-a-Interp-4-ii":{
+    "1026-36-d-1-Interp-10-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Responding to consumer inquiries and providing general information.The definition of loan originator does not include persons who:",
+            "text":"The maximum proceeds available to the consumer under the loan; or",
             "label":[
                 "1026",
                 "36",
-                "a",
+                "d",
+                "1",
                 "Interp",
-                "4",
-                "ii"
+                "10",
+                "i"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1026-36-a-Interp-4-ii-A",
-                "1026-36-a-Interp-4-ii-B",
-                "1026-36-a-Interp-4-ii-C",
-                "1026-36-a-Interp-4-ii-D"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -1195,26 +1191,22 @@
         ],
         "op":"modified"
     },
-    "1026-52-a-1-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Application.The 25 percent limit in \u00a7 1026.52(a)(1) applies to fees that the card issuer charges to the account as well as to fees that the card issuer requires the consumer to pay with respect to the account through other means (such as through a payment from the consumer's asset account to the card issuer or from another credit account provided by the card issuer). For example:",
-            "label":[
-                "1026",
-                "52",
-                "a",
-                "1",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-52-a-1-Interp-1-i",
-                "1026-52-a-1-Interp-1-ii"
+    "1026-5-a-1-ii-B":{
+        "text":[
+            [
+                [
+                    "delete",
+                    204,
+                    217
+                ],
+                [
+                    "insert",
+                    204,
+                    "solicitationssolicitations"
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1026-36-d-1-Interp-3-iv":{
         "text":[
@@ -2512,6 +2504,29 @@
         },
         "op":"added"
     },
+    "1026-36-a-Interp-4-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Responding to consumer inquiries and providing general information.The definition of loan originator does not include persons who:",
+            "label":[
+                "1026",
+                "36",
+                "a",
+                "Interp",
+                "4",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-36-a-Interp-4-ii-A",
+                "1026-36-a-Interp-4-ii-B",
+                "1026-36-a-Interp-4-ii-C",
+                "1026-36-a-Interp-4-ii-D"
+            ]
+        },
+        "op":"added"
+    },
     "1026-36-d-1-i":{
         "text":[
             [
@@ -3183,6 +3198,16 @@
         ],
         "op":"modified"
     },
+    "1026-1-d-7":{
+        "text":[
+            [
+                "delete",
+                699,
+                711
+            ]
+        ],
+        "op":"modified"
+    },
     "1026-36-f-3-ii-Interp":{
         "node":{
             "tagged_text":null,
@@ -3540,6 +3565,23 @@
         ],
         "op":"modified"
     },
+    "1026-M2-p2-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    1733,
+                    1735
+                ],
+                [
+                    "insert",
+                    1733,
+                    " periodic rate;\n"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1026-36-f-3-i":{
         "node":{
             "tagged_text":null,
@@ -3560,6 +3602,16 @@
             ]
         },
         "op":"added"
+    },
+    "1026-1-c-4":{
+        "text":[
+            [
+                "delete",
+                83,
+                115
+            ]
+        ],
+        "op":"modified"
     },
     "1026-35-a-1-i":{
         "node":{
@@ -5267,25 +5319,6 @@
     "1026-35-b-2-ii-C-Interp-2-i":{
         "op":"deleted"
     },
-    "1026-36-d-1-Interp-10-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The maximum proceeds available to the consumer under the loan; or",
-            "label":[
-                "1026",
-                "36",
-                "d",
-                "1",
-                "Interp",
-                "10",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-36-a-Interp-5-iii":{
         "node":{
             "tagged_text":null,
@@ -6251,7 +6284,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).Show citation box",
+            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).",
             "label":[
                 "1026",
                 "36",
@@ -8297,8 +8330,20 @@
                 277
             ],
             [
+                [
+                    "delete",
+                    288,
+                    291
+                ],
+                [
+                    "insert",
+                    288,
+                    "make"
+                ]
+            ],
+            [
                 "insert",
-                408,
+                407,
                 "the consumer's "
             ]
         ],
@@ -8321,6 +8366,27 @@
             ],
             "node_type":"regtext",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-52-a-1-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Application.The 25 percent limit in \u00a7 1026.52(a)(1) applies to fees that the card issuer charges to the account as well as to fees that the card issuer requires the consumer to pay with respect to the account through other means (such as through a payment from the consumer's asset account to the card issuer or from another credit account provided by the card issuer). For example:",
+            "label":[
+                "1026",
+                "52",
+                "a",
+                "1",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-52-a-1-Interp-1-i",
+                "1026-52-a-1-Interp-1-ii"
+            ]
         },
         "op":"added"
     },
