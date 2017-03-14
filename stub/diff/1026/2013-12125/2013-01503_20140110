@@ -759,25 +759,6 @@
         },
         "op":"added"
     },
-    "1026-32-b-2-i-C-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) If the premium or other charge is payable at or before account opening, the portion of any such premium or other charge that is not in excess of the amount payable under policies in effect at the time of account opening under section 203(c)(2)(A) of the National Housing Act (12 U.S.C. 1709(c)(2)(A)), provided that the premium or charge is required to be refundable on a pro rata basis and the refund is automatically issued upon notification of the satisfaction of the underlying mortgage transaction;",
-            "label":[
-                "1026",
-                "32",
-                "b",
-                "2",
-                "i",
-                "C",
-                "2"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-Q-h1-G-2-b":{
         "node":{
             "tagged_text":null,
@@ -3692,6 +3673,23 @@
         },
         "op":"added"
     },
+    "1026-M2-p2-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    1733,
+                    1735
+                ],
+                [
+                    "insert",
+                    1733,
+                    " periodic rate;\n"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1026-32-b-1-i-D-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -3758,23 +3756,15 @@
     "1026-32-d-7-iv-Interp-1-iii":{
         "op":"deleted"
     },
-    "1026-43-b-4-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Rate set.A transaction's annual percentage rate is compared to the average prime offer rate as of the date the transaction's interest rate is set (or \u201clocked\u201d) before consummation. Sometimes a creditor sets the interest rate initially and then re-sets it at a different level before consummation. The creditor should use the last date the interest rate is set before consummation.",
-            "label":[
-                "1026",
-                "43",
-                "b",
-                "4",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-1-c-4":{
+        "text":[
+            [
+                "delete",
+                83,
+                115
+            ]
+        ],
+        "op":"modified"
     },
     "1026-20-c-2-vi":{
         "node":{
@@ -3811,20 +3801,21 @@
         },
         "op":"added"
     },
-    "1026-43-f-2-Interp-2":{
+    "1026-32-b-2-i-C-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Application to subsequent transferees.The exceptions contained in \u00a7 1026.43(f)(2) apply not only to an initial sale, assignment, or other transfer by the originating creditor but to subsequent sales, assignments, and other transfers as well. For example, assume Creditor A originates a qualified mortgage under \u00a7 1026.43(f)(1). Six months after consummation, Creditor A sells the qualified mortgage to Creditor B pursuant to \u00a7 1026.43(f)(2)(ii) and the loan retains its qualified mortgage status because Creditor B complies with the limits on operating predominantly in rural or underserved areas, asset size, and number of transactions. If Creditor B sells the qualified mortgage, it will lose its qualified mortgage status under \u00a7 1026.43(f)(1) unless the sale qualifies for one of the \u00a7 1026.43(f)(2) exceptions for sales three or more years after consummation, to another qualifying institution, as required by supervisory action, or pursuant to a merger or acquisition.",
+            "text":"(2) If the premium or other charge is payable at or before account opening, the portion of any such premium or other charge that is not in excess of the amount payable under policies in effect at the time of account opening under section 203(c)(2)(A) of the National Housing Act (12 U.S.C. 1709(c)(2)(A)), provided that the premium or charge is required to be refundable on a pro rata basis and the refund is automatically issued upon notification of the satisfaction of the underlying mortgage transaction;",
             "label":[
                 "1026",
-                "43",
-                "f",
+                "32",
+                "b",
                 "2",
-                "Interp",
+                "i",
+                "C",
                 "2"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -7217,7 +7208,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).Show citation box",
+            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).",
             "label":[
                 "1026",
                 "36",
@@ -13436,6 +13427,16 @@
         },
         "op":"added"
     },
+    "1026-1-d-7":{
+        "text":[
+            [
+                "delete",
+                699,
+                711
+            ]
+        ],
+        "op":"modified"
+    },
     "1026-32-a-2-ii":{
         "text":[
             [
@@ -17025,6 +17026,9 @@
             ]
         ],
         "op":"modified"
+    },
+    "1026-32-c-3-Interp-1-i-C":{
+        "op":"deleted"
     },
     "1026-43-c-5-ii-C-Interp-1":{
         "node":{
@@ -21188,6 +21192,24 @@
         },
         "op":"added"
     },
+    "1026-43-f-2-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Requirement to hold in portfolio.Creditors generally must hold a balloon-payment qualified mortgage in portfolio to maintain the transaction's status as a qualified mortgage under \u00a7 1026.43(f)(1), subject to four exceptions. Unless one of these exceptions applies, a balloon-payment qualified mortgage is no longer a qualified mortgage under \u00a7 1026.43(f)(1) once legal title to the debt obligation is sold, assigned, or otherwise transferred to another person. Accordingly, unless one of the exceptions applies, the transferee could not benefit from the presumption of compliance for qualified mortgages under \u00a7 1026.43(f)(1) unless the loan also met the requirements of another qualified mortgage definition.",
+            "label":[
+                "1026",
+                "43",
+                "f",
+                "2",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-36-c-1-ii-Interp":{
         "title":[
             [
@@ -24231,18 +24253,18 @@
         },
         "op":"added"
     },
-    "1026-43-f-2-Interp-1":{
+    "1026-43-b-4-Interp-3":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Requirement to hold in portfolio.Creditors generally must hold a balloon-payment qualified mortgage in portfolio to maintain the transaction's status as a qualified mortgage under \u00a7 1026.43(f)(1), subject to four exceptions. Unless one of these exceptions applies, a balloon-payment qualified mortgage is no longer a qualified mortgage under \u00a7 1026.43(f)(1) once legal title to the debt obligation is sold, assigned, or otherwise transferred to another person. Accordingly, unless one of the exceptions applies, the transferee could not benefit from the presumption of compliance for qualified mortgages under \u00a7 1026.43(f)(1) unless the loan also met the requirements of another qualified mortgage definition.",
+            "text":"Rate set.A transaction's annual percentage rate is compared to the average prime offer rate as of the date the transaction's interest rate is set (or \u201clocked\u201d) before consummation. Sometimes a creditor sets the interest rate initially and then re-sets it at a different level before consummation. The creditor should use the last date the interest rate is set before consummation.",
             "label":[
                 "1026",
                 "43",
-                "f",
-                "2",
+                "b",
+                "4",
                 "Interp",
-                "1"
+                "3"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -24497,70 +24519,23 @@
         ],
         "op":"modified"
     },
-    "1026-32-a-1-i-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    17
-                ],
-                [
-                    "insert",
-                    0,
-                    "Comparable transaction.Guidance for determining a comparable transaction is set forth in comments 35(a)(1)-1 and 35(a)(2)-2 and -3, which direct creditors to published tables of average prime offer rates for fixed- and variable-rate closed-end credit transactions. Creditors opening open-end credit plans must compare the annual percentage rate for the plan to the average prime offer rate for the most closely comparable closed-end transaction. To identify the most closely comparable closed-end transaction, the creditor should identify whether the credit plan is fixed- or variable-rate; if the plan is fixed-rate, the term of the plan to maturity; if the plan is variable-rate, the duration of any initial, fixed-rate period; and the date the interest rate for the plan is set. If a fixed-rate plan has no definite plan length, a creditor must use the average prime offer rate for a 30-year fixed-rate loan. If a variable-rate plan has an optional, fixed-rate feature, a creditor must use the rate table for variable-rate transactions. If a variable-rate plan has an initial, fixed-rate period that is"
-                ]
+    "1026-43-f-2-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Application to subsequent transferees.The exceptions contained in \u00a7 1026.43(f)(2) apply not only to an initial sale, assignment, or other transfer by the originating creditor but to subsequent sales, assignments, and other transfers as well. For example, assume Creditor A originates a qualified mortgage under \u00a7 1026.43(f)(1). Six months after consummation, Creditor A sells the qualified mortgage to Creditor B pursuant to \u00a7 1026.43(f)(2)(ii) and the loan retains its qualified mortgage status because Creditor B complies with the limits on operating predominantly in rural or underserved areas, asset size, and number of transactions. If Creditor B sells the qualified mortgage, it will lose its qualified mortgage status under \u00a7 1026.43(f)(1) unless the sale qualifies for one of the \u00a7 1026.43(f)(2) exceptions for sales three or more years after consummation, to another qualifying institution, as required by supervisory action, or pursuant to a merger or acquisition.",
+            "label":[
+                "1026",
+                "43",
+                "f",
+                "2",
+                "Interp",
+                "2"
             ],
-            [
-                [
-                    "delete",
-                    22,
-                    52
-                ],
-                [
-                    "insert",
-                    22,
-                    "in whole years, a creditor must identify the most closely-comparable transaction by using the number"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    56,
-                    149
-                ],
-                [
-                    "insert",
-                    56,
-                    "whole years closest to the actual fixed-rate period. For example, if a variable-rate plan has an initial fixed-rate period of 20 months, a creditor must"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    158,
-                    166
-                ],
-                [
-                    "insert",
-                    158,
-                    "average prime offer rate for a two-year adjustable-rate loan. If a variable-rate plan has no initial fixed-rate period, or if it has an initial fixed-rate period"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    170,
-                    218
-                ],
-                [
-                    "insert",
-                    170,
-                    "less than one year, a creditor must use the average prime offer rate for a one-year adjustable-rate loan. Thus, for example, if the initial fixed-rate period is six months, a creditor must use the average prime offer rate for a one-year adjustable-rate loan."
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-43-e-4-iii":{
         "node":{
@@ -27688,25 +27663,70 @@
         },
         "op":"added"
     },
-    "1026-34-a-6-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"34(a)(6) Recommended default.",
-            "text":"",
-            "label":[
-                "1026",
-                "34",
-                "a",
-                "6",
-                "Interp"
+    "1026-32-a-1-i-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    17
+                ],
+                [
+                    "insert",
+                    0,
+                    "Comparable transaction.Guidance for determining a comparable transaction is set forth in comments 35(a)(1)-1 and 35(a)(2)-2 and -3, which direct creditors to published tables of average prime offer rates for fixed- and variable-rate closed-end credit transactions. Creditors opening open-end credit plans must compare the annual percentage rate for the plan to the average prime offer rate for the most closely comparable closed-end transaction. To identify the most closely comparable closed-end transaction, the creditor should identify whether the credit plan is fixed- or variable-rate; if the plan is fixed-rate, the term of the plan to maturity; if the plan is variable-rate, the duration of any initial, fixed-rate period; and the date the interest rate for the plan is set. If a fixed-rate plan has no definite plan length, a creditor must use the average prime offer rate for a 30-year fixed-rate loan. If a variable-rate plan has an optional, fixed-rate feature, a creditor must use the rate table for variable-rate transactions. If a variable-rate plan has an initial, fixed-rate period that is"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-34-a-6-Interp-1",
-                "1026-34-a-6-Interp-2"
+            [
+                [
+                    "delete",
+                    22,
+                    52
+                ],
+                [
+                    "insert",
+                    22,
+                    "in whole years, a creditor must identify the most closely-comparable transaction by using the number"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    56,
+                    149
+                ],
+                [
+                    "insert",
+                    56,
+                    "whole years closest to the actual fixed-rate period. For example, if a variable-rate plan has an initial fixed-rate period of 20 months, a creditor must"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    158,
+                    166
+                ],
+                [
+                    "insert",
+                    158,
+                    "average prime offer rate for a two-year adjustable-rate loan. If a variable-rate plan has no initial fixed-rate period, or if it has an initial fixed-rate period"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    170,
+                    218
+                ],
+                [
+                    "insert",
+                    170,
+                    "less than one year, a creditor must use the average prime offer rate for a one-year adjustable-rate loan. Thus, for example, if the initial fixed-rate period is six months, a creditor must use the average prime offer rate for a one-year adjustable-rate loan."
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1026-43-g-3-iii":{
         "node":{
@@ -31745,8 +31765,22 @@
         },
         "op":"added"
     },
-    "1026-32-c-3-Interp-1-i-C":{
-        "op":"deleted"
+    "1026-5-a-1-ii-B":{
+        "text":[
+            [
+                [
+                    "delete",
+                    204,
+                    217
+                ],
+                [
+                    "insert",
+                    204,
+                    "solicitationssolicitations"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-g-2-ii-A":{
         "node":{
@@ -34480,6 +34514,26 @@
     },
     "1026-20-c-4-Interp-1":{
         "op":"deleted"
+    },
+    "1026-34-a-6-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"34(a)(6) Recommended default.",
+            "text":"",
+            "label":[
+                "1026",
+                "34",
+                "a",
+                "6",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-34-a-6-Interp-1",
+                "1026-34-a-6-Interp-2"
+            ]
+        },
+        "op":"added"
     },
     "1026-32-b-1-ii-Interp-4":{
         "node":{
