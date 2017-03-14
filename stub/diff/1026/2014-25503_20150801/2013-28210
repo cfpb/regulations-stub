@@ -31,93 +31,6 @@
     "1026-43-e-3-iii-Interp":{
         "op":"deleted"
     },
-    "1026-41-e-4-iii-Interp-3":{
-        "text":[
-            [
-                [
-                    "delete",
-                    15,
-                    18
-                ],
-                [
-                    "insert",
-                    15,
-                    "that are not"
-                ]
-            ],
-            [
-                "insert",
-                30,
-                "for purposes of determining whether a servicer is a small servicer pursuant to \u00a7 1026.41(e)(4)(iii) are not considered either for determining whether a servicer, together with any affiliates, services 5,000 or fewer mortgage loans or whether a servicer is servicing only mortgage loans that it owns or originated. For example, assume a servicer services 5,400 mortgage loans. Of these mortgage loans, the servicer owns or originated 4,800 mortgage loans, voluntarily services 300 mortgage loans that it does not own or did not originate for an unaffiliated nonprofit organization for which the servicer does not receive any compensation or fees, and services 300 reverse mortgage transactions that it does not own and did not originate. Because the only mortgage loans considered are the 4,800 mortgage loans owned or originated by the servicer, the servicer is considered a small servicer and qualifies for the small servicer exemption with regard to all 5,400 mortgage loans it services. Note that reverse mortgages and mortgage loans secured by consumers' interests "
-            ],
-            [
-                "insert",
-                33,
-                "timeshare plans, in addition to not being considered in "
-            ],
-            [
-                "delete",
-                45,
-                69
-            ],
-            [
-                [
-                    "delete",
-                    75,
-                    98
-                ],
-                [
-                    "insert",
-                    75,
-                    "servicer qualification, are also exempt from the requirements of \u00a7 1026.41. In contrast, although charitably serviced mortgage loans, as defined by \u00a7 1026.41(e)(4)(iii), are likewise not considered in determining small servicer qualification, they are not exempt from the requirements of \u00a7 1026.41. Thus, a servicer"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    104,
-                    131
-                ],
-                [
-                    "insert",
-                    104,
-                    "does not qualify as a small servicer would not have"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    135,
-                    381
-                ],
-                [
-                    "insert",
-                    135,
-                    "provide periodic statements for reverse mortgages and timeshare plans because they are exempt from the rule, but would have to provide periodic statements for mortgage loans"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    385,
-                    1215
-                ],
-                [
-                    "insert",
-                    385,
-                    "charitably"
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Mortgage loans not considered in determining whether a servicer is a small servicer."
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-41-e-4-iii":{
         "text":[
             [
@@ -216,59 +129,64 @@
     "1026-41-e-4-ii-C-1":{
         "op":"deleted"
     },
-    "1026-41-e-4-iii-b":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(b) Reverse mortgage transactions.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "b"
+    "1026-41-e-4-iii-Interp-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    6
+                ],
+                [
+                    "insert",
+                    0,
+                    "A servicer that begins servicing more than 5,000 mortgage loans (or begins servicing one or more mortgage loans it does not own or did not originate) on October 1, and services more than 5,000 mortgage loans (or services one or more mortgage loans it does not own or did not originate) as of January 1 of the following year, would no longer be considered"
+                ]
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                "insert",
+                9,
+                "small "
+            ],
+            [
+                [
+                    "delete",
+                    18,
+                    23
+                ],
+                [
+                    "insert",
+                    18,
+                    "on January 1 of that following year and would have to comply with any requirements from which it is no longer exempt"
+                ]
+            ],
+            [
+                "insert",
+                27,
+                "a small servicer on April 1 "
+            ],
+            [
+                [
+                    "delete",
+                    30,
+                    219
+                ],
+                [
+                    "insert",
+                    30,
+                    "that"
+                ]
+            ],
+            [
+                "delete",
+                235,
+                465
+            ]
+        ],
+        "op":"modified"
     },
-    "1026-41-e-4-iii-c":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(c) Mortgage loans secured by consumers\u2019 interests in timeshare plans.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "c"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-41-e-4-iii-a":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(a) Mortgage loans voluntarily serviced by the servicer for a creditor or assignee that is not an affiliate of the servicer and for which the servicer does not receive any compensation or fees.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "a"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-41-e-4-iii-Interp-5":{
+        "op":"deleted"
     },
     "1026-43-a-3-vii-D":{
         "op":"deleted"
@@ -288,25 +206,8 @@
     "1026-43-a-3-vii-C":{
         "op":"deleted"
     },
-    "1026-41-e-4-ii-Interp-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A servicer services 3,000 mortgage loans, all of which it or an affiliate owns or originated. An affiliate of the servicer services 4,000 other mortgage loans, all of which it or an affiliate owns or originated. Because the number of mortgage loans serviced by a servicer is determined by counting the mortgage loans serviced by a servicer together with any affiliates, both of these servicers are considered to be servicing 7,000 mortgage loans and neither servicer is a small servicer.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "ii",
-                "Interp",
-                "2",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-43-e-3-iv-Interp-2":{
+        "op":"deleted"
     },
     "1026-43-e-3-iv-Interp-1":{
         "op":"deleted"
@@ -534,25 +435,92 @@
         ],
         "op":"modified"
     },
-    "1026-41-e-4-ii-Interp-2-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A service services 3,100 mortgage loans\u20143,000 mortgage loans it owns or originated and 100 mortgage loans it neither owns nor originated, but for which it owns the mortgage servicing rights. The servicer is not a small servicer because it services mortgage loans for which the servicer (or an affiliate) is not the creditor or assignee, notwithstanding that the servicer services fewer than 5,000 mortgage loans.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "ii",
-                "Interp",
-                "2",
-                "ii"
+    "1026-41-e-4-iii-Interp-3":{
+        "text":[
+            [
+                [
+                    "delete",
+                    15,
+                    18
+                ],
+                [
+                    "insert",
+                    15,
+                    "that are not"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                "insert",
+                30,
+                "for purposes of determining whether a servicer is a small servicer pursuant to \u00a7 1026.41(e)(4)(iii) are not considered either for determining whether a servicer, together with any affiliates, services 5,000 or fewer mortgage loans or whether a servicer is servicing only mortgage loans that it owns or originated. For example, assume a servicer services 5,400 mortgage loans. Of these mortgage loans, the servicer owns or originated 4,800 mortgage loans, voluntarily services 300 mortgage loans that it does not own or did not originate for an unaffiliated nonprofit organization for which the servicer does not receive any compensation or fees, and services 300 reverse mortgage transactions that it does not own and did not originate. Because the only mortgage loans considered are the 4,800 mortgage loans owned or originated by the servicer, the servicer is considered a small servicer and qualifies for the small servicer exemption with regard to all 5,400 mortgage loans it services. Note that reverse mortgages and mortgage loans secured by consumers' interests "
+            ],
+            [
+                "insert",
+                33,
+                "timeshare plans, in addition to not being considered in "
+            ],
+            [
+                "delete",
+                45,
+                69
+            ],
+            [
+                [
+                    "delete",
+                    75,
+                    98
+                ],
+                [
+                    "insert",
+                    75,
+                    "servicer qualification, are also exempt from the requirements of \u00a7 1026.41. In contrast, although charitably serviced mortgage loans, as defined by \u00a7 1026.41(e)(4)(iii), are likewise not considered in determining small servicer qualification, they are not exempt from the requirements of \u00a7 1026.41. Thus, a servicer"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    104,
+                    131
+                ],
+                [
+                    "insert",
+                    104,
+                    "does not qualify as a small servicer would not have"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    135,
+                    381
+                ],
+                [
+                    "insert",
+                    135,
+                    "provide periodic statements for reverse mortgages and timeshare plans because they are exempt from the rule, but would have to provide periodic statements for mortgage loans"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    385,
+                    1215
+                ],
+                [
+                    "insert",
+                    385,
+                    "charitably"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Mortgage loans not considered in determining whether a servicer is a small servicer."
+            ]
+        ],
+        "op":"modified"
     },
     "1026-41-e-4-iii-Interp-4":{
         "op":"deleted"
@@ -623,9 +591,6 @@
     "1026-43-a-3-vii":{
         "op":"deleted"
     },
-    "1026-41-e-4-iii-Interp-5":{
-        "op":"deleted"
-    },
     "1026-41-e-4-ii-Interp-4":{
         "op":"deleted"
     },
@@ -647,62 +612,6 @@
     "1026-43-e-3-iii-A":{
         "op":"deleted"
     },
-    "1026-41-e-4-iii-Interp-2-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    6
-                ],
-                [
-                    "insert",
-                    0,
-                    "A servicer that begins servicing more than 5,000 mortgage loans (or begins servicing one or more mortgage loans it does not own or did not originate) on October 1, and services more than 5,000 mortgage loans (or services one or more mortgage loans it does not own or did not originate) as of January 1 of the following year, would no longer be considered"
-                ]
-            ],
-            [
-                "insert",
-                9,
-                "small "
-            ],
-            [
-                [
-                    "delete",
-                    18,
-                    23
-                ],
-                [
-                    "insert",
-                    18,
-                    "on January 1 of that following year and would have to comply with any requirements from which it is no longer exempt"
-                ]
-            ],
-            [
-                "insert",
-                27,
-                "a small servicer on April 1 "
-            ],
-            [
-                [
-                    "delete",
-                    30,
-                    219
-                ],
-                [
-                    "insert",
-                    30,
-                    "that"
-                ]
-            ],
-            [
-                "delete",
-                235,
-                465
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-43-e-3-iii-Interp-2-i":{
         "op":"deleted"
     },
@@ -713,9 +622,6 @@
         "op":"deleted"
     },
     "1026-43-a-3-vii-B-1":{
-        "op":"deleted"
-    },
-    "1026-43-e-3-iv-Interp-2":{
         "op":"deleted"
     },
     "1026-43-e-3-iv":{
