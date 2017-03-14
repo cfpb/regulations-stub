@@ -267,7 +267,81 @@
         "op":"modified"
     },
     "1026-19-g-2-Interp-3":{
-        "op":"deleted"
+        "text":[
+            [
+                "insert",
+                0,
+                "Permissible changes to title of booklets in use before August 1, 2015.\n            "
+            ],
+            [
+                [
+                    "delete",
+                    118,
+                    128
+                ],
+                [
+                    "insert",
+                    118,
+                    "19(g)(1)\u20131"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    546,
+                    556
+                ],
+                [
+                    "insert",
+                    546,
+                    "August 1,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    682,
+                    692
+                ],
+                [
+                    "insert",
+                    682,
+                    "August 1,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    772,
+                    781
+                ],
+                [
+                    "insert",
+                    772,
+                    "1(d)(5)\u20131"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    872,
+                    882
+                ],
+                [
+                    "insert",
+                    872,
+                    "August 1,"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                71
+            ]
+        ],
+        "op":"modified"
     },
     "1026-41-e-4-iii-Interp-2-ii":{
         "text":[
@@ -1631,26 +1705,6 @@
         ],
         "op":"modified"
     },
-    "1026-41-e-4-ii-Interp-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A servicer services 3,000 mortgage loans, all of which it or an affiliate owns or originated. An affiliate of the servicer services 4,000 other mortgage loans, all of which it or an affiliate owns or originated. Because the number of mortgage loans serviced by a servicer is determined by counting the mortgage loans serviced by a servicer together with any affiliates, both of these servicers are considered to be servicing 7,000 mortgage loans and neither servicer is a small servicer.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "ii",
-                "Interp",
-                "2",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-36-g-2-ii":{
         "text":[
             [
@@ -2171,56 +2225,21 @@
         ],
         "op":"modified"
     },
-    "1026-41-e-4-iii-b":{
+    "1026-1-c-5-Interp-1-iii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(b) Reverse mortgage transactions.",
+            "text":"Request for preemption determination.Assume a creditor submits a request to the Bureau under \u00a7 1026.28(a)(1) for a determination of whether a State law is inconsistent with the disclosure requirements of the TILA\u2013RESPA Final Rule on August 1, 2015. Because the amendments to \u00a7 1026.28(a)(1) are effective on that date and do not depend on whether the creditor has received an application as defined under \u00a7 1026.2(a)(3) of the TILA\u2013RESPA Final Rule, \u00a7 1026.28(a)(1), as amended by the TILA\u2013RESPA Final Rule, is applicable to the request on that date and the Bureau would make a determination based on the amendments of the TILA\u2013 RESPA Final Rule, including, for example, the requirements of \u00a7 1026.37.",
             "label":[
                 "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "b"
+                "1",
+                "c",
+                "5",
+                "Interp",
+                "1",
+                "iii"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-41-e-4-iii-c":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(c) Mortgage loans secured by consumers\u2019 interests in timeshare plans.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "c"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-41-e-4-iii-a":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(a) Mortgage loans voluntarily serviced by the servicer for a creditor or assignee that is not an affiliate of the servicer and for which the servicer does not receive any compensation or fees.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "a"
-            ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -2260,25 +2279,6 @@
         ],
         "op":"modified"
     },
-    "1026-1-c-5-Interp-1-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Request for preemption determination.Assume a creditor submits a request to the Bureau under \u00a7 1026.28(a)(1) for a determination of whether a State law is inconsistent with the disclosure requirements of the TILA\u2013RESPA Final Rule on August 1, 2015. Because the amendments to \u00a7 1026.28(a)(1) are effective on that date and do not depend on whether the creditor has received an application as defined under \u00a7 1026.2(a)(3) of the TILA\u2013RESPA Final Rule, \u00a7 1026.28(a)(1), as amended by the TILA\u2013RESPA Final Rule, is applicable to the request on that date and the Bureau would make a determination based on the amendments of the TILA\u2013 RESPA Final Rule, including, for example, the requirements of \u00a7 1026.37.",
-            "label":[
-                "1026",
-                "1",
-                "c",
-                "5",
-                "Interp",
-                "1",
-                "iii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-19-e-3-iv-D":{
         "text":[
             [
@@ -2314,26 +2314,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1026-41-e-4-ii-Interp-2-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A service services 3,100 mortgage loans\u20143,000 mortgage loans it owns or originated and 100 mortgage loans it neither owns nor originated, but for which it owns the mortgage servicing rights. The servicer is not a small servicer because it services mortgage loans for which the servicer (or an affiliate) is not the creditor or assignee, notwithstanding that the servicer services fewer than 5,000 mortgage loans.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "ii",
-                "Interp",
-                "2",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1026-37-c-2-iii-Interp-1":{
         "text":[
