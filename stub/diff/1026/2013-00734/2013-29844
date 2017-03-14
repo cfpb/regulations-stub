@@ -2344,24 +2344,15 @@
         },
         "op":"added"
     },
-    "1026-36-d-1-Interp-10-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The maximum proceeds available to the consumer under the loan; or",
-            "label":[
-                "1026",
-                "36",
-                "d",
-                "1",
-                "Interp",
-                "10",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-1-d-7":{
+        "text":[
+            [
+                "delete",
+                699,
+                711
+            ]
+        ],
+        "op":"modified"
     },
     "1026-36-a-Interp-1-ii":{
         "text":[
@@ -2550,6 +2541,25 @@
                 "Interp",
                 "2",
                 "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-36-d-1-Interp-10-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The maximum proceeds available to the consumer under the loan; or",
+            "label":[
+                "1026",
+                "36",
+                "d",
+                "1",
+                "Interp",
+                "10",
+                "i"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -3905,6 +3915,23 @@
         },
         "op":"added"
     },
+    "1026-M2-p2-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    1733,
+                    1735
+                ],
+                [
+                    "insert",
+                    1733,
+                    " periodic rate;\n"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1026-36-d-2-i-Interp-2-i":{
         "node":{
             "tagged_text":null,
@@ -3945,6 +3972,23 @@
             ]
         },
         "op":"added"
+    },
+    "1026-5-a-1-ii-B":{
+        "text":[
+            [
+                [
+                    "delete",
+                    204,
+                    217
+                ],
+                [
+                    "insert",
+                    204,
+                    "solicitationssolicitations"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-36-d-1-Interp-5":{
         "text":[
@@ -4278,23 +4322,15 @@
         ],
         "op":"modified"
     },
-    "1026-36-f-3-ii-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(B) Has demonstrated financial responsibility, character, and general fitness such as to warrant a determination that the individual loan originator will operate honestly, fairly, and efficiently; and",
-            "label":[
-                "1026",
-                "36",
-                "f",
-                "3",
-                "ii",
-                "B"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-1-c-4":{
+        "text":[
+            [
+                "delete",
+                83,
+                115
+            ]
+        ],
+        "op":"modified"
     },
     "1026-35-b-2-iii-D-1":{
         "text":[
@@ -4345,6 +4381,71 @@
             ]
         },
         "op":"added"
+    },
+    "1026-36-d-1-Interp-3-iv":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    20
+                ],
+                [
+                    "insert",
+                    0,
+                    "Under both \u00a7 1026.36(d)(1)(iii), with regard to contributions made to a defined contribution plan that"
+                ]
+            ],
+            [
+                "insert",
+                24,
+                "a designated tax-advantaged plan, and \u00a7 1026.36(d)(1)(iv)(A), with regard to compensation under a non-deferred profits-based compensation plan, the payment of compensation to "
+            ],
+            [
+                [
+                    "delete",
+                    27,
+                    44
+                ],
+                [
+                    "insert",
+                    27,
+                    "individual loan originator may not be directly or indirectly based on the terms"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    48,
+                    60
+                ],
+                [
+                    "insert",
+                    48,
+                    "that individual loan originator's transaction"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    64,
+                    79
+                ],
+                [
+                    "insert",
+                    64,
+                    "transactions. Consequently, for example, where an individual loan originator makes loans that vary in their interest rate spread, the compensation payment may not take into account the average interest rate spread on the individual loan originator's transactions during the relevant calendar year."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Compensation based on terms of an individual loan originator's transactions."
+            ]
+        ],
+        "op":"modified"
     },
     "1026-25-c-2-Interp-1-i":{
         "node":{
@@ -5221,70 +5322,23 @@
         },
         "op":"added"
     },
-    "1026-36-d-1-Interp-3-iv":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    20
-                ],
-                [
-                    "insert",
-                    0,
-                    "Under both \u00a7 1026.36(d)(1)(iii), with regard to contributions made to a defined contribution plan that"
-                ]
+    "1026-36-f-3-ii-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(B) Has demonstrated financial responsibility, character, and general fitness such as to warrant a determination that the individual loan originator will operate honestly, fairly, and efficiently; and",
+            "label":[
+                "1026",
+                "36",
+                "f",
+                "3",
+                "ii",
+                "B"
             ],
-            [
-                "insert",
-                24,
-                "a designated tax-advantaged plan, and \u00a7 1026.36(d)(1)(iv)(A), with regard to compensation under a non-deferred profits-based compensation plan, the payment of compensation to "
-            ],
-            [
-                [
-                    "delete",
-                    27,
-                    44
-                ],
-                [
-                    "insert",
-                    27,
-                    "individual loan originator may not be directly or indirectly based on the terms"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    48,
-                    60
-                ],
-                [
-                    "insert",
-                    48,
-                    "that individual loan originator's transaction"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    64,
-                    79
-                ],
-                [
-                    "insert",
-                    64,
-                    "transactions. Consequently, for example, where an individual loan originator makes loans that vary in their interest rate spread, the compensation payment may not take into account the average interest rate spread on the individual loan originator's transactions during the relevant calendar year."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Compensation based on terms of an individual loan originator's transactions."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-36-f-3-ii-A-1":{
         "node":{
@@ -5309,7 +5363,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).Show citation box",
+            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).",
             "label":[
                 "1026",
                 "36",
