@@ -5200,7 +5200,7 @@
             ],
             "node_type":"regtext",
             "child_labels":[
-                "1026-38-g-1-i-A-1",
+                "1026-38-i-1-i-A-1",
                 "1026-38-g-1-iii-A-2",
                 "1026-38-g-1-iii-A-3"
             ]
@@ -7536,7 +7536,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(3) If the increase exceeds the limitations on increases in closing costs under \u00a7 1026.19(f)(2)(v), a statement that such increase exceeds the legal limits by the dollar amount of the excess and if any refund is provided pursuant to \u00a7 1026.19(f)(2)(v), a statement directing the consumer to the disclosure required under paragraph (h)(3) of this section. Such dollar amount shall equal the sum total of all excesses of the limitations on increases in closing costs under \u00a7 1026.19(f)(2)(v), taking into account the different methods of calculating excesses of the limitations on increases in closing costs under \u00a7 1026.19(f)(2)(v)(i) and (ii).",
+            "text":"(3) If the increase exceeds the limitations on increases in closing costs under \u00a7 1026.19(e)(3), a statement that such increase exceeds the legal limits by the dollar amount of the excess and if any refund is provided pursuant to \u00a7 1026.19(f)(2)(v), a statement directing the consumer to the disclosure required under paragraph (h)(3) of this section. Such dollar amount shall equal the sum total of all excesses of the limitations on increases in closing costs under \u00a7 1026.19(e)(3), taking into account the different methods of calculating excesses of the limitations on increases in closing costs under \u00a7 1026.19(e)(3)(i) and (ii).",
             "label":[
                 "1026",
                 "38",
@@ -23003,25 +23003,6 @@
             "child_labels":[
                 "1026-37-o-4-i-B-Interp-1"
             ]
-        },
-        "op":"added"
-    },
-    "1026-38-g-1-i-A-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) A statement of that fact;",
-            "label":[
-                "1026",
-                "38",
-                "g",
-                "1",
-                "i",
-                "A",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -46504,9 +46485,7 @@
             "node_type":"interp",
             "child_labels":[
                 "1026-19-e-3-iv-A-Interp-1-i",
-                "1026-19-e-3-iv-A-Interp-1-ii",
-                "1026-19-e-3-iv-A-Interp-2",
-                "1026-19-e-3-iv-A-Interp-3"
+                "1026-19-e-3-iv-A-Interp-1-ii"
             ]
         },
         "op":"added"
@@ -63143,7 +63122,9 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1026-19-e-3-iv-A-Interp-1"
+                "1026-19-e-3-iv-A-Interp-1",
+                "1026-19-e-3-iv-A-Interp-2",
+                "1026-19-e-3-iv-A-Interp-3"
             ]
         },
         "op":"added"
@@ -68729,7 +68710,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Personal property.Where personal property also secures the credit transaction, a description of that property may be disclosed, at the creditor\u2019s option pursuant to \u00a7 1026.37(a)(6), if a description fits in the space provided on form H\u201324 for the disclosure required by \u00a7 1026.37(a)(6). An additional page may not be appended to the form to disclose a description of personal property. 3. Multiple properties. Where more than one property secures the credit transaction, \u00a7 1026.37(a)(6) requires disclosure of all properties. If the addresses of all properties securing the transaction do not fit in the space allocated on the Loan Estimate, an additional page with that information with respect to real properties may be appended to the end of the form.",
+            "text":"Personal property.Where personal property also secures the credit transaction, a description of that property may be disclosed, at the creditor\u2019s option pursuant to \u00a7 1026.37(a)(6), if a description fits in the space provided on form H\u201324 for the disclosure required by \u00a7 1026.37(a)(6). An additional page may not be appended to the form to disclose a description of personal property.",
             "label":[
                 "1026",
                 "37",
@@ -78672,6 +78653,25 @@
                 "F"
             ],
             "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-38-i-1-i-A-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(1) A statement of that fact;",
+            "label":[
+                "1026",
+                "38",
+                "i",
+                "1",
+                "i",
+                "A",
+                "1"
+            ],
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
