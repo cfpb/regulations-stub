@@ -1238,7 +1238,7 @@
     "1026-43-b-4-Interp-1":{
         "op":"deleted"
     },
-    "1026-43-f-2-Interp-2":{
+    "1026-43-e-4":{
         "op":"deleted"
     },
     "1026-32-a-3-Interp-3-iii":{
@@ -1255,6 +1255,35 @@
     },
     "1026-Q-h2-E-3-a-iii":{
         "op":"deleted"
+    },
+    "1026-32-a-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    13
+                ],
+                [
+                    "insert",
+                    6,
+                    "residential"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    23,
+                    56
+                ],
+                [
+                    "insert",
+                    23,
+                    "transaction."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-d-1-i-A":{
         "op":"deleted"
@@ -1868,34 +1897,11 @@
     "1026-32-b-2-viii-Interp-1":{
         "op":"deleted"
     },
-    "1026-32-a-2-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    6,
-                    13
-                ],
-                [
-                    "insert",
-                    6,
-                    "residential"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    23,
-                    56
-                ],
-                [
-                    "insert",
-                    23,
-                    "transaction."
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1026-36-j-2":{
+        "op":"deleted"
+    },
+    "1026-36-j-1":{
+        "op":"deleted"
     },
     "1026-43-b-3-Interp":{
         "op":"deleted"
@@ -5814,9 +5820,6 @@
     "1026-41-e-4-iii-Interp":{
         "op":"deleted"
     },
-    "1026-43-e-4":{
-        "op":"deleted"
-    },
     "1026-43-c-5-ii-C-Interp-3-i-C":{
         "op":"deleted"
     },
@@ -8338,75 +8341,8 @@
         ],
         "op":"modified"
     },
-    "1026-32-a-1-i-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    47
-                ],
-                [
-                    "insert",
-                    0,
-                    "When fifteenth is not"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    50,
-                    72
-                ],
-                [
-                    "insert",
-                    50,
-                    "business day.If the 15th day of the month immediately preceding the application date"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    76,
-                    174
-                ],
-                [
-                    "insert",
-                    76,
-                    "not a business day, the creditor must use the yield as"
-                ]
-            ],
-            [
-                "delete",
-                178,
-                318
-            ],
-            [
-                [
-                    "delete",
-                    322,
-                    348
-                ],
-                [
-                    "insert",
-                    322,
-                    "business day immediately preceding"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    353,
-                    1798
-                ],
-                [
-                    "insert",
-                    353,
-                    "15th."
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1026-43-f-2-Interp-2":{
+        "op":"deleted"
     },
     "1026-43-e-4-iii":{
         "op":"deleted"
@@ -9817,8 +9753,75 @@
     "1026-Q-h1-A-4-a":{
         "op":"deleted"
     },
-    "1026-34-a-6-Interp":{
-        "op":"deleted"
+    "1026-32-a-1-i-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    47
+                ],
+                [
+                    "insert",
+                    0,
+                    "When fifteenth is not"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    50,
+                    72
+                ],
+                [
+                    "insert",
+                    50,
+                    "business day.If the 15th day of the month immediately preceding the application date"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    76,
+                    174
+                ],
+                [
+                    "insert",
+                    76,
+                    "not a business day, the creditor must use the yield as"
+                ]
+            ],
+            [
+                "delete",
+                178,
+                318
+            ],
+            [
+                [
+                    "delete",
+                    322,
+                    348
+                ],
+                [
+                    "insert",
+                    322,
+                    "business day immediately preceding"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    353,
+                    1798
+                ],
+                [
+                    "insert",
+                    353,
+                    "15th."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-35-c-4-iii":{
         "op":"deleted"
@@ -10379,7 +10382,7 @@
                 [
                     "delete",
                     4,
-                    936
+                    791
                 ],
                 [
                     "insert",
@@ -12424,6 +12427,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-34-a-6-Interp":{
+        "op":"deleted"
     },
     "1026-32-b-1-ii-Interp-4":{
         "op":"deleted"
