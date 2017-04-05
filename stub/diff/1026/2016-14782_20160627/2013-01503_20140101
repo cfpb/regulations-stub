@@ -1137,6 +1137,9 @@
     "1026-20-e-5-iii":{
         "op":"deleted"
     },
+    "1026-43-e-5-ii-D":{
+        "op":"deleted"
+    },
     "1026-19-f-4-iv":{
         "op":"deleted"
     },
@@ -2359,7 +2362,7 @@
     "1026-43-d-2-iv-Interp":{
         "op":"deleted"
     },
-    "1026-38-g-1-i":{
+    "1026-20-c-2-ii":{
         "op":"deleted"
     },
     "1026-35-c-5-Interp":{
@@ -2680,23 +2683,6 @@
     },
     "1026-Q-h2-E-3-a-iii":{
         "op":"deleted"
-    },
-    "1026-H-9-h8-p88":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    30
-                ],
-                [
-                    "insert",
-                    0,
-                    "Consumer's Signature_____"
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1026-19-e-1-iii-A":{
         "op":"deleted"
@@ -4716,20 +4702,33 @@
         "op":"deleted"
     },
     "1026-36-j-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) For purposes of this paragraph (j), \u201cdepository institution\u201d has the meaning in section 1503(2) of the SAFE Act, 12 U.S.C. 5102(2). For purposes of this paragraph (j), \u201csubsidiary\u201d has the meaning in section 3 of the Federal Deposit Insurance Act, 12 U.S.C. 1813.",
-            "label":[
-                "1026",
-                "36",
-                "j",
-                "2"
+        "text":[
+            [
+                [
+                    "delete",
+                    92,
+                    99
+                ],
+                [
+                    "insert",
+                    92,
+                    "1503(2)"
+                ]
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    127,
+                    135
+                ],
+                [
+                    "insert",
+                    127,
+                    "5102(2)."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-20-d-2-iii-Interp":{
         "op":"deleted"
@@ -4737,21 +4736,22 @@
     "1026-17-f-Interp-1-i-C":{
         "op":"deleted"
     },
-    "1026-36-j-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) A depository institution must establish and maintain written policies and procedures reasonably designed to ensure and monitor the compliance of the depository institution, its employees, its subsidiaries, and its subsidiaries' employees with the requirements of paragraphs (d), (e), (f), and (g) of this section. These written policies and procedures must be appropriate to the nature, size, complexity, and scope of the mortgage lending activities of the depository institution and its subsidiaries.",
-            "label":[
-                "1026",
-                "36",
-                "j",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-H-9-h8-p88":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    30
+                ],
+                [
+                    "insert",
+                    0,
+                    "Consumer's Signature_____"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-H-28(B)-p2":{
         "op":"deleted"
@@ -5349,6 +5349,9 @@
     "1026-37-b-4-Interp-5":{
         "op":"deleted"
     },
+    "1026-37-c-1-ii-Interp":{
+        "op":"deleted"
+    },
     "1026-37-f-Interp":{
         "op":"deleted"
     },
@@ -5370,7 +5373,7 @@
     "1026-36-d-1-ii-B":{
         "op":"deleted"
     },
-    "1026-43-e-5-ii-D":{
+    "1026-Q-h1-E-1":{
         "op":"deleted"
     },
     "1026-36-d-1-ii-A":{
@@ -5451,7 +5454,7 @@
     "1026-Q-h2-C-2-b":{
         "op":"deleted"
     },
-    "1026-20-c-2-ii":{
+    "1026-38-g-1-i":{
         "op":"deleted"
     },
     "1026-Q-h2-E-3-a-ii":{
@@ -6631,22 +6634,16 @@
     "1026-Q-h1-B-5-a-ii":{
         "op":"deleted"
     },
-    "1026-25-c-1-i":{
-        "op":"deleted"
-    },
     "1026-43-a-3-v-Interp":{
         "op":"deleted"
     },
     "1026-43-c-2-ii":{
         "op":"deleted"
     },
-    "1026-25-c-1-ii-C":{
+    "1026-H-24(F)-p2":{
         "op":"deleted"
     },
-    "1026-25-c-1-ii-B":{
-        "op":"deleted"
-    },
-    "1026-25-c-1-ii-A":{
+    "1026-H-24(B)":{
         "op":"deleted"
     },
     "1026-38-i-8-Interp":{
@@ -7401,9 +7398,6 @@
         "op":"deleted"
     },
     "1026-3-h-4":{
-        "op":"deleted"
-    },
-    "1026-H-24(F)-p2":{
         "op":"deleted"
     },
     "1026-3-h-6":{
@@ -9074,9 +9068,6 @@
     "1026-19-f-2-iv-Interp-1":{
         "op":"deleted"
     },
-    "1026-38-f-5":{
-        "op":"deleted"
-    },
     "1026-35-b-2-iii-Interp-1-ii-B":{
         "op":"deleted"
     },
@@ -9164,8 +9155,66 @@
     "1026-43-b-13-i-Interp-1":{
         "op":"deleted"
     },
-    "1026-H-24(B)":{
-        "op":"deleted"
+    "1026-36-d-1-Interp-1-iii-D":{
+        "text":[
+            [
+                "insert",
+                150,
+                "either "
+            ],
+            [
+                [
+                    "delete",
+                    165,
+                    174
+                ],
+                [
+                    "insert",
+                    165,
+                    "Estimate and"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    179,
+                    185
+                ],
+                [
+                    "insert",
+                    179,
+                    "HUD-1"
+                ]
+            ],
+            [
+                "insert",
+                189,
+                "HUD-1A (and subsequently in any integrated disclosures promulgated by "
+            ],
+            [
+                [
+                    "delete",
+                    193,
+                    259
+                ],
+                [
+                    "insert",
+                    193,
+                    "Bureau under TILA section 105(b) (15 U.S.C. 1604(b)) and RESPA section 4 (12 U.S.C. 2603) as amended"
+                ]
+            ],
+            [
+                "insert",
+                263,
+                "sections 1098 and 1100A of "
+            ],
+            [
+                "delete",
+                267,
+                402
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-e-1-Interp":{
         "op":"deleted"
@@ -9714,9 +9763,19 @@
     "1026-1-d-5":{
         "text":[
             [
+                "insert",
+                149,
+                "loans that have rates or fees above specified amounts. Section 1026.33 requires special disclosures, including the total annual loan cost rate, for reverse mortgage transactions. Section 1026.34 prohibits specific acts and practices in connection with closed-end mortgage transactions that are subject to \u00a7 1026.32. Section 1026.35 prohibits specific acts and practices in connection with closed-end higher-priced mortgage loans, as defined in \u00a7 1026.35(a). Section 1026.36 prohibits specific acts and practices in connection with an extension of "
+            ],
+            [
                 "delete",
-                725,
-                895
+                156,
+                760
+            ],
+            [
+                "delete",
+                782,
+                952
             ]
         ],
         "op":"modified"
@@ -9828,8 +9887,24 @@
     "1026-19-e-1-v-Interp":{
         "op":"deleted"
     },
-    "1026-38-e-3-iii-B-Interp":{
-        "op":"deleted"
+    "1026-25-c-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(2) Records related to requirements for loan originator compensation.Notwithstanding paragraph (a) of this section, for transactions subject to \u00a7 1026.36:",
+            "label":[
+                "1026",
+                "25",
+                "c",
+                "2"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1026-25-c-2-i",
+                "1026-25-c-2-ii"
+            ]
+        },
+        "op":"added"
     },
     "1026-34-a-5-i":{
         "op":"deleted"
@@ -10134,6 +10209,9 @@
         "op":"modified"
     },
     "1026-35-c-2-v":{
+        "op":"deleted"
+    },
+    "1026-Q-h1-A-2-a-i":{
         "op":"deleted"
     },
     "1026-38-t-5-vii-Interp-1":{
@@ -10939,7 +11017,7 @@
     "1026-38-f-4":{
         "op":"deleted"
     },
-    "1026-Q-h1-E-1":{
+    "1026-38-f-5":{
         "op":"deleted"
     },
     "1026-37-f-3-Interp":{
@@ -14322,9 +14400,6 @@
     "1026-38-g-2-Interp-4":{
         "op":"deleted"
     },
-    "1026-25-c-1-ii":{
-        "op":"deleted"
-    },
     "1026-37-o-5-Interp-6":{
         "op":"deleted"
     },
@@ -14844,8 +14919,22 @@
     "1026-35-c-2-ii-Interp-1-iii":{
         "op":"deleted"
     },
-    "1026-37-c-1-ii-Interp":{
-        "op":"deleted"
+    "1026-25-c-2-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(ii) A loan originator organization, as defined in \u00a7 1026.36(a)(1)(iii), shall maintain records sufficient to evidence all compensation it receives from a creditor, a consumer, or another person; all compensation it pays to any individual loan originator, as defined in \u00a7 1026.36(a)(1)(ii); and the compensation agreement that governs each such receipt or payment, for three years after the date of each such receipt or payment.",
+            "label":[
+                "1026",
+                "25",
+                "c",
+                "2",
+                "ii"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-32-b-1-ii-Interp-2":{
         "text":[
@@ -17013,67 +17102,6 @@
     "1026-43-c-2-vii-Interp":{
         "op":"deleted"
     },
-    "1026-36-d-1-Interp-1-iii-D":{
-        "text":[
-            [
-                "insert",
-                150,
-                "either "
-            ],
-            [
-                [
-                    "delete",
-                    165,
-                    174
-                ],
-                [
-                    "insert",
-                    165,
-                    "Estimate and"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    179,
-                    185
-                ],
-                [
-                    "insert",
-                    179,
-                    "HUD-1"
-                ]
-            ],
-            [
-                "insert",
-                189,
-                "HUD-1A (and subsequently in any integrated disclosures promulgated by "
-            ],
-            [
-                [
-                    "delete",
-                    193,
-                    259
-                ],
-                [
-                    "insert",
-                    193,
-                    "Bureau under TILA section 105(b) (15 U.S.C. 1604(b)) and RESPA section 4 (12 U.S.C. 2603) as amended"
-                ]
-            ],
-            [
-                "insert",
-                263,
-                "sections 1098 and 1100A of "
-            ],
-            [
-                "delete",
-                267,
-                402
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-20-d-2-vi-A":{
         "op":"deleted"
     },
@@ -19069,6 +19097,9 @@
     "1026-43-c-2-v-Interp-5-i":{
         "op":"deleted"
     },
+    "1026-38-e-3-iii-B-Interp":{
+        "op":"deleted"
+    },
     "1026-20-e-3-Interp":{
         "op":"deleted"
     },
@@ -19179,8 +19210,22 @@
     "1026-43-d-3-i":{
         "op":"deleted"
     },
-    "1026-Q-h1-A-2-a-i":{
-        "op":"deleted"
+    "1026-25-c-2-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(i) A creditor shall maintain records sufficient to evidence all compensation it pays to a loan originator, as defined in \u00a7 1026.36(a)(1), and the compensation agreement that governs those payments for three years after the date of payment.",
+            "label":[
+                "1026",
+                "25",
+                "c",
+                "2",
+                "i"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-43-e-4-Interp":{
         "op":"deleted"
@@ -19639,7 +19684,7 @@
                 [
                     "delete",
                     4,
-                    31
+                    27
                 ],
                 [
                     "insert",
@@ -19650,42 +19695,95 @@
             [
                 [
                     "delete",
-                    36,
-                    53
+                    32,
+                    60
                 ],
                 [
                     "insert",
-                    36,
+                    32,
                     "(i) of this section apply to"
                 ]
             ],
             [
-                "insert",
-                106,
-                " dwelling. This section does not apply to a home equity line of credit subject to \u00a7 1026.40, except that paragraphs (h) and (i) of this section apply to such credit when secured by the"
+                [
+                    "delete",
+                    114,
+                    124
+                ],
+                [
+                    "insert",
+                    114,
+                    "dwelling. This section does not apply to a home equity line of credit subject to \u00a7 1026.40, except that paragraphs (h) and (i) of this section apply to such credit when secured by the consumer's"
+                ]
+            ],
+            [
+                "delete",
+                145,
+                242
             ],
             [
                 [
                     "delete",
-                    138,
-                    269
+                    253,
+                    264
                 ],
                 [
                     "insert",
-                    138,
-                    "Paragraphs (d), (e), (f), (g), (h), and (i) of this section do not apply to a loan that is secured by a"
+                    253,
+                    "(d), (e), (f), (g), (h), and"
                 ]
             ],
             [
                 [
                     "delete",
-                    281,
-                    936
+                    285,
+                    374
                 ],
                 [
                     "insert",
-                    281,
-                    "interest in a timeshare plan described in 11 U.S.C. 101(53D)."
+                    285,
+                    "do"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    390,
+                    445
+                ],
+                [
+                    "insert",
+                    390,
+                    "loan"
+                ]
+            ],
+            [
+                "delete",
+                451,
+                704
+            ],
+            [
+                [
+                    "delete",
+                    720,
+                    730
+                ],
+                [
+                    "insert",
+                    720,
+                    "consumer's"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    776,
+                    791
+                ],
+                [
+                    "insert",
+                    776,
+                    "U.S.C. 101(53D)."
                 ]
             ]
         ],
@@ -19733,23 +19831,6 @@
     },
     "1026-36-k":{
         "op":"deleted"
-    },
-    "1026-36-j":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    14
-                ],
-                [
-                    "insert",
-                    4,
-                    "Policies and procedures to ensure and monitor compliance."
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1026-Q-h2-D-1-a-i":{
         "op":"deleted"
@@ -22005,9 +22086,6 @@
     "1026-43-e-2-i":{
         "op":"deleted"
     },
-    "1026-32-a-3-Interp":{
-        "op":"deleted"
-    },
     "1026-43-c-5-ii-C-1":{
         "op":"deleted"
     },
@@ -23785,28 +23863,27 @@
         ],
         "op":"modified"
     },
-    "1026-25-c-3":{
+    "1026-32-a-3-Interp":{
         "op":"deleted"
     },
     "1026-36-k-2-i":{
         "op":"deleted"
     },
     "1026-25-c-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    71
-                ],
-                [
-                    "insert",
-                    4,
-                    "[Reserved]"
-                ]
-            ]
-        ],
-        "op":"modified"
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(1) [Reserved]",
+            "label":[
+                "1026",
+                "25",
+                "c",
+                "1"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-34-b-Interp-1-i":{
         "op":"deleted"
