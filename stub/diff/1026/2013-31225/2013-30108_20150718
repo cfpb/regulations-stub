@@ -4146,35 +4146,6 @@
         },
         "op":"added"
     },
-    "1026-32-a-2-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    6,
-                    17
-                ],
-                [
-                    "insert",
-                    6,
-                    "reverse"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    27,
-                    39
-                ],
-                [
-                    "insert",
-                    27,
-                    "transaction subject to \u00a7 1026.33;"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-43-d-1-i-A":{
         "node":{
             "tagged_text":null,
@@ -5630,11 +5601,34 @@
         },
         "op":"added"
     },
-    "1026-36-j-2":{
-        "op":"deleted"
-    },
-    "1026-36-j-1":{
-        "op":"deleted"
+    "1026-32-a-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    17
+                ],
+                [
+                    "insert",
+                    6,
+                    "reverse"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    27,
+                    39
+                ],
+                [
+                    "insert",
+                    27,
+                    "transaction subject to \u00a7 1026.33;"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-b-3-Interp":{
         "node":{
@@ -8566,17 +8560,17 @@
         },
         "op":"added"
     },
-    "1026-43-a-3-i":{
+    "1026-43-a-3-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) A reverse mortgage subject to \u00a7 1026.33;",
+            "text":"(ii) A temporary or \u201cbridge\u201d loan with a term of 12 months or less, such as a loan to finance the purchase of a new dwelling where the consumer plans to sell a current dwelling within 12 months or a loan to finance the initial construction of a dwelling;",
             "label":[
                 "1026",
                 "43",
                 "a",
                 "3",
-                "i"
+                "ii"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -10359,17 +10353,17 @@
     "1026-32-c-3-Interp-1-i":{
         "op":"deleted"
     },
-    "1026-43-a-3-ii":{
+    "1026-43-a-3-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(ii) A temporary or \u201cbridge\u201d loan with a term of 12 months or less, such as a loan to finance the purchase of a new dwelling where the consumer plans to sell a current dwelling within 12 months or a loan to finance the initial construction of a dwelling;",
+            "text":"(i) A reverse mortgage subject to \u00a7 1026.33;",
             "label":[
                 "1026",
                 "43",
                 "a",
                 "3",
-                "ii"
+                "i"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -17509,20 +17503,21 @@
     "1026-32-d-7-iii-Interp":{
         "op":"deleted"
     },
-    "1026-36-i-2-i-B":{
+    "1026-43-e-1-ii-Interp-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) Excludes credit unemployment insurance for which the unemployment insurance premiums are reasonable, the creditor receives no direct or indirect compensation in connection with the unemployment insurance premiums, and the unemployment insurance premiums are paid pursuant to a separate insurance contract and are not paid to an affiliate of the creditor;",
+            "text":"General.Under \u00a7 1026.43(e)(1)(ii), a creditor or assignee of a qualified mortgage under \u00a7 1026.43(e)(2), (e)(4), or (f) that is a higher-priced covered transaction is presumed to comply with the repayment ability requirements of \u00a7 1026.43(c). To rebut the presumption, it must be proven that, despite meeting the standards for a qualified mortgage (including either the debt-to-income standard in \u00a7 1026.43(e)(2)(vi) or the standards of one of the entities specified in \u00a7 1026.43(e)(4)(ii)), the creditor did not have a reasonable and good faith belief in the consumer's repayment ability. Specifically, it must be proven that, at the time of consummation, based on the information available to the creditor, the consumer's income, debt obligations, alimony, child support, and the consumer's monthly payment (including mortgage-related obligations) on the covered transaction and on any simultaneous loans of which the creditor was aware at consummation would leave the consumer with insufficient residual income or assets other than the value of the dwelling (including any real property attached to the dwelling) that secures the loan with which to meet living expenses, including any recurring and material non-debt obligations of which the creditor was aware at the time of consummation, and that the creditor thereby did not make a reasonable and good faith determination of the consumer's repayment ability. For example, a consumer may rebut the presumption with evidence demonstrating that the consumer's residual income was insufficient to meet living expenses, such as food, clothing, gasoline, and health care, including the payment of recurring medical expenses of which the creditor was aware at the time of consummation, and after taking into account the consumer's assets other than the value of the dwelling securing the loan, such as a savings account. In addition, the longer the period of time that the consumer has demonstrated actual ability to repay the loan by making timely payments, without modification or accommodation, after consummation or, for an adjustable-rate mortgage, after recast, the less likely the consumer will be able to rebut the presumption based on insufficient residual income and prove that, at the time the loan was made, the creditor failed to make a reasonable and good faith determination that the consumer had the reasonable ability to repay the loan.",
             "label":[
                 "1026",
-                "36",
-                "i",
-                "2",
-                "i",
-                "B"
+                "43",
+                "e",
+                "1",
+                "ii",
+                "Interp",
+                "1"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -25019,21 +25014,20 @@
         },
         "op":"added"
     },
-    "1026-43-e-1-ii-Interp-1":{
+    "1026-36-i-2-i-B":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"General.Under \u00a7 1026.43(e)(1)(ii), a creditor or assignee of a qualified mortgage under \u00a7 1026.43(e)(2), (e)(4), or (f) that is a higher-priced covered transaction is presumed to comply with the repayment ability requirements of \u00a7 1026.43(c). To rebut the presumption, it must be proven that, despite meeting the standards for a qualified mortgage (including either the debt-to-income standard in \u00a7 1026.43(e)(2)(vi) or the standards of one of the entities specified in \u00a7 1026.43(e)(4)(ii)), the creditor did not have a reasonable and good faith belief in the consumer's repayment ability. Specifically, it must be proven that, at the time of consummation, based on the information available to the creditor, the consumer's income, debt obligations, alimony, child support, and the consumer's monthly payment (including mortgage-related obligations) on the covered transaction and on any simultaneous loans of which the creditor was aware at consummation would leave the consumer with insufficient residual income or assets other than the value of the dwelling (including any real property attached to the dwelling) that secures the loan with which to meet living expenses, including any recurring and material non-debt obligations of which the creditor was aware at the time of consummation, and that the creditor thereby did not make a reasonable and good faith determination of the consumer's repayment ability. For example, a consumer may rebut the presumption with evidence demonstrating that the consumer's residual income was insufficient to meet living expenses, such as food, clothing, gasoline, and health care, including the payment of recurring medical expenses of which the creditor was aware at the time of consummation, and after taking into account the consumer's assets other than the value of the dwelling securing the loan, such as a savings account. In addition, the longer the period of time that the consumer has demonstrated actual ability to repay the loan by making timely payments, without modification or accommodation, after consummation or, for an adjustable-rate mortgage, after recast, the less likely the consumer will be able to rebut the presumption based on insufficient residual income and prove that, at the time the loan was made, the creditor failed to make a reasonable and good faith determination that the consumer had the reasonable ability to repay the loan.",
+            "text":"(B) Excludes credit unemployment insurance for which the unemployment insurance premiums are reasonable, the creditor receives no direct or indirect compensation in connection with the unemployment insurance premiums, and the unemployment insurance premiums are paid pursuant to a separate insurance contract and are not paid to an affiliate of the creditor;",
             "label":[
                 "1026",
-                "43",
-                "e",
-                "1",
-                "ii",
-                "Interp",
-                "1"
+                "36",
+                "i",
+                "2",
+                "i",
+                "B"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -29581,23 +29575,6 @@
             ]
         },
         "op":"added"
-    },
-    "1026-36-j":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    61
-                ],
-                [
-                    "insert",
-                    4,
-                    "[Reserved]"
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1026-Q-h2-D-1-a-i":{
         "node":{
