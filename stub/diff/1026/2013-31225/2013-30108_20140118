@@ -450,28 +450,39 @@
         },
         "op":"added"
     },
-    "1026-43-e-2-iv-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Interest rate adjustment caps.For an adjustable-rate mortgage, creditors should assume the interest rate increases after consummation as rapidly as possible, taking into account the terms of the legal obligation. That is, creditors should account for any periodic interest rate adjustment cap that may limit how quickly the interest rate can increase under the terms of the legal obligation. Where a range for the maximum interest rate during the first five years is provided, the highest rate in that range is the maximum interest rate for purposes of \u00a7 1026.43(e)(2)(iv). Where the terms of the legal obligation are not based on an index plus margin or formula, the creditor must use the maximum interest rate that occurs during the first five years after the date on which the first regular periodic payment will be due. To illustrate:",
-            "label":[
-                "1026",
-                "43",
-                "e",
-                "2",
-                "iv",
-                "Interp",
-                "3"
+    "1026-32-a-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    10
+                ],
+                [
+                    "insert",
+                    4,
+                    "The requirements of this section apply to a high-cost mortgage, which is any consumer credit transaction that is secured by the consumer's principal dwelling, other than"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-43-e-2-iv-Interp-3-i",
-                "1026-43-e-2-iv-Interp-3-ii",
-                "1026-43-e-2-iv-Interp-3-iii"
+            [
+                "delete",
+                60,
+                186
+            ],
+            [
+                [
+                    "delete",
+                    193,
+                    206
+                ],
+                [
+                    "insert",
+                    193,
+                    "which:"
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1026-35-c-2-ii":{
         "node":{
@@ -4050,35 +4061,6 @@
         },
         "op":"added"
     },
-    "1026-32-a-2-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    6,
-                    17
-                ],
-                [
-                    "insert",
-                    6,
-                    "reverse"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    27,
-                    39
-                ],
-                [
-                    "insert",
-                    27,
-                    "transaction subject to \u00a7 1026.33;"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-43-d-1-i-A":{
         "node":{
             "tagged_text":null,
@@ -5533,11 +5515,34 @@
         },
         "op":"added"
     },
-    "1026-36-j-2":{
-        "op":"deleted"
-    },
-    "1026-36-j-1":{
-        "op":"deleted"
+    "1026-32-a-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    17
+                ],
+                [
+                    "insert",
+                    6,
+                    "reverse"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    27,
+                    39
+                ],
+                [
+                    "insert",
+                    27,
+                    "transaction subject to \u00a7 1026.33;"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-b-3-Interp":{
         "node":{
@@ -6792,39 +6797,28 @@
         },
         "op":"added"
     },
-    "1026-32-a-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    10
-                ],
-                [
-                    "insert",
-                    4,
-                    "The requirements of this section apply to a high-cost mortgage, which is any consumer credit transaction that is secured by the consumer's principal dwelling, other than"
-                ]
+    "1026-43-e-2-iv-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Interest rate adjustment caps.For an adjustable-rate mortgage, creditors should assume the interest rate increases after consummation as rapidly as possible, taking into account the terms of the legal obligation. That is, creditors should account for any periodic interest rate adjustment cap that may limit how quickly the interest rate can increase under the terms of the legal obligation. Where a range for the maximum interest rate during the first five years is provided, the highest rate in that range is the maximum interest rate for purposes of \u00a7 1026.43(e)(2)(iv). Where the terms of the legal obligation are not based on an index plus margin or formula, the creditor must use the maximum interest rate that occurs during the first five years after the date on which the first regular periodic payment will be due. To illustrate:",
+            "label":[
+                "1026",
+                "43",
+                "e",
+                "2",
+                "iv",
+                "Interp",
+                "3"
             ],
-            [
-                "delete",
-                60,
-                186
-            ],
-            [
-                [
-                    "delete",
-                    193,
-                    206
-                ],
-                [
-                    "insert",
-                    193,
-                    "which:"
-                ]
+            "node_type":"interp",
+            "child_labels":[
+                "1026-43-e-2-iv-Interp-3-i",
+                "1026-43-e-2-iv-Interp-3-ii",
+                "1026-43-e-2-iv-Interp-3-iii"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1026-43-d-5-i-A":{
         "node":{
@@ -8448,17 +8442,17 @@
         },
         "op":"added"
     },
-    "1026-43-a-3-i":{
+    "1026-43-a-3-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) A reverse mortgage subject to \u00a7 1026.33;",
+            "text":"(ii) A temporary or \u201cbridge\u201d loan with a term of 12 months or less, such as a loan to finance the purchase of a new dwelling where the consumer plans to sell a current dwelling within 12 months or a loan to finance the initial construction of a dwelling;",
             "label":[
                 "1026",
                 "43",
                 "a",
                 "3",
-                "i"
+                "ii"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -10201,17 +10195,17 @@
     "1026-32-c-3-Interp-1-i":{
         "op":"deleted"
     },
-    "1026-43-a-3-ii":{
+    "1026-43-a-3-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(ii) A temporary or \u201cbridge\u201d loan with a term of 12 months or less, such as a loan to finance the purchase of a new dwelling where the consumer plans to sell a current dwelling within 12 months or a loan to finance the initial construction of a dwelling;",
+            "text":"(i) A reverse mortgage subject to \u00a7 1026.33;",
             "label":[
                 "1026",
                 "43",
                 "a",
                 "3",
-                "ii"
+                "i"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -28764,23 +28758,6 @@
             ]
         },
         "op":"added"
-    },
-    "1026-36-j":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    61
-                ],
-                [
-                    "insert",
-                    4,
-                    "[Reserved]"
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1026-Q-h2-D-1-a-i":{
         "node":{
