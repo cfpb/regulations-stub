@@ -488,7 +488,7 @@
     "1026-36-d-2-i-C":{
         "op":"deleted"
     },
-    "1026-43-c-2-ii-Interp":{
+    "1026-36-d-2-i-B":{
         "op":"deleted"
     },
     "1026-36-d-2-i-A":{
@@ -863,7 +863,7 @@
     "1026-36-f-3-i-B":{
         "op":"deleted"
     },
-    "1026-35-b-2-iii-A":{
+    "1026-36-f-3-i-C":{
         "op":"deleted"
     },
     "1026-32-d-7-iii":{
@@ -1347,6 +1347,35 @@
     },
     "1026-Q-h2-E-3-a-iii":{
         "op":"deleted"
+    },
+    "1026-32-a-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    13
+                ],
+                [
+                    "insert",
+                    6,
+                    "residential"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    23,
+                    56
+                ],
+                [
+                    "insert",
+                    23,
+                    "transaction."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-d-1-i-A":{
         "op":"deleted"
@@ -1979,34 +2008,11 @@
         },
         "op":"added"
     },
-    "1026-32-a-2-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    6,
-                    13
-                ],
-                [
-                    "insert",
-                    6,
-                    "residential"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    23,
-                    56
-                ],
-                [
-                    "insert",
-                    23,
-                    "transaction."
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1026-36-j-2":{
+        "op":"deleted"
+    },
+    "1026-36-j-1":{
+        "op":"deleted"
     },
     "1026-43-b-3-Interp":{
         "op":"deleted"
@@ -2674,7 +2680,7 @@
     "1026-20-d-2":{
         "op":"deleted"
     },
-    "1026-36-d-2-i-B":{
+    "1026-43-c-2-ii-Interp":{
         "op":"deleted"
     },
     "1026-23-a-3-ii":{
@@ -5920,7 +5926,7 @@
         ],
         "op":"modified"
     },
-    "1026-36-f-3-i-C":{
+    "1026-35-b-2-iii-A":{
         "op":"deleted"
     },
     "1026-43-b-6-Interp-1":{
@@ -6966,82 +6972,8 @@
     "1026-36-g":{
         "op":"deleted"
     },
-    "1026-36-f":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    48
-                ],
-                [
-                    "insert",
-                    4,
-                    "This section does not apply to a home-equity line of credit subject to \u00a7 1026.40. Section 1026.36(d) and (e) do not apply to a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    54,
-                    68
-                ],
-                [
-                    "insert",
-                    54,
-                    "that is secured by"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    71,
-                    109
-                ],
-                [
-                    "insert",
-                    71,
-                    "consumer's interest in"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    112,
-                    203
-                ],
-                [
-                    "insert",
-                    112,
-                    "timeshare plan described"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    207,
-                    325
-                ],
-                [
-                    "insert",
-                    207,
-                    "11"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    333,
-                    582
-                ],
-                [
-                    "insert",
-                    333,
-                    "101(53D)."
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1026-43-c-2-i-Interp-5":{
+        "op":"deleted"
     },
     "1026-32-a-2-ii-Interp-1":{
         "op":"deleted"
@@ -11420,8 +11352,82 @@
     "1026-43-c-2-i-Interp-4":{
         "op":"deleted"
     },
-    "1026-43-c-2-i-Interp-5":{
-        "op":"deleted"
+    "1026-36-f":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    48
+                ],
+                [
+                    "insert",
+                    4,
+                    "This section does not apply to a home-equity line of credit subject to \u00a7 1026.40. Section 1026.36(d) and (e) do not apply to a"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    54,
+                    68
+                ],
+                [
+                    "insert",
+                    54,
+                    "that is secured by"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    71,
+                    109
+                ],
+                [
+                    "insert",
+                    71,
+                    "consumer's interest in"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    112,
+                    203
+                ],
+                [
+                    "insert",
+                    112,
+                    "timeshare plan described"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    207,
+                    325
+                ],
+                [
+                    "insert",
+                    207,
+                    "11"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    333,
+                    582
+                ],
+                [
+                    "insert",
+                    333,
+                    "101(53D)."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-36-i":{
         "op":"deleted"
@@ -15485,7 +15491,7 @@
                 [
                     "delete",
                     4,
-                    936
+                    791
                 ],
                 [
                     "insert",
