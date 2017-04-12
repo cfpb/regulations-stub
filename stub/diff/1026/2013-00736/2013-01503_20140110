@@ -6055,30 +6055,59 @@
         },
         "op":"added"
     },
-    "1026-32-a-2-i":{
+    "1026-34-a-4-i":{
         "text":[
+            [
+                "delete",
+                105,
+                114
+            ],
             [
                 [
                     "delete",
-                    6,
-                    17
+                    123,
+                    129
                 ],
                 [
                     "insert",
-                    6,
-                    "reverse"
+                    123,
+                    "taxes;"
                 ]
             ],
             [
                 [
                     "delete",
-                    27,
-                    39
+                    139,
+                    169
                 ],
                 [
                     "insert",
-                    27,
-                    "transaction subject to \u00a7 1026.33;"
+                    139,
+                    "and similar charges identified in \u00a7 1026.4(b)(5), (7), (8), and (10) that are"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    186,
+                    224
+                ],
+                [
+                    "insert",
+                    186,
+                    "creditor; fees"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    229,
+                    246
+                ],
+                [
+                    "insert",
+                    229,
+                    "special assessments imposed by a condominium, cooperative, or homeowners association; ground rent; and leasehold payments."
                 ]
             ]
         ],
@@ -7249,9 +7278,6 @@
         ],
         "op":"modified"
     },
-    "1026-32-d-7-iii-Interp-1":{
-        "op":"deleted"
-    },
     "1026-20-d-1-Interp":{
         "node":{
             "tagged_text":null,
@@ -7494,7 +7520,7 @@
         },
         "op":"added"
     },
-    "1026-36-j-2":{
+    "1026-32-d-7-iii-Interp-1":{
         "op":"deleted"
     },
     "1026-32-d-7-iii-Interp-2":{
@@ -8257,8 +8283,34 @@
         },
         "op":"added"
     },
-    "1026-36-j-1":{
-        "op":"deleted"
+    "1026-32-a-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    17
+                ],
+                [
+                    "insert",
+                    6,
+                    "reverse"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    27,
+                    39
+                ],
+                [
+                    "insert",
+                    27,
+                    "transaction subject to \u00a7 1026.33;"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-36-g-1-Interp-1":{
         "node":{
@@ -10427,23 +10479,6 @@
                 "1026-20-c-2-ii-B",
                 "1026-20-c-2-ii-C"
             ]
-        },
-        "op":"added"
-    },
-    "1026-41-d-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Close proximity.Paragraph (d) requires several disclosures to be provided in close proximity to one another. To meet this requirement, the items to be provided in close proximity must be grouped together, and set off from the other groupings of items. This could be accomplished in a variety of ways, for example, by presenting the information in boxes, or by arranging the items on the document and including spacing between the groupings. Items in close proximity may not have any intervening text between them.",
-            "label":[
-                "1026",
-                "41",
-                "d",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -13300,63 +13335,22 @@
         ],
         "op":"modified"
     },
-    "1026-34-a-4-i":{
-        "text":[
-            [
-                "delete",
-                105,
-                114
+    "1026-41-d-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Close proximity.Paragraph (d) requires several disclosures to be provided in close proximity to one another. To meet this requirement, the items to be provided in close proximity must be grouped together, and set off from the other groupings of items. This could be accomplished in a variety of ways, for example, by presenting the information in boxes, or by arranging the items on the document and including spacing between the groupings. Items in close proximity may not have any intervening text between them.",
+            "label":[
+                "1026",
+                "41",
+                "d",
+                "Interp",
+                "1"
             ],
-            [
-                [
-                    "delete",
-                    123,
-                    129
-                ],
-                [
-                    "insert",
-                    123,
-                    "taxes;"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    139,
-                    169
-                ],
-                [
-                    "insert",
-                    139,
-                    "and similar charges identified in \u00a7 1026.4(b)(5), (7), (8), and (10) that are"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    186,
-                    224
-                ],
-                [
-                    "insert",
-                    186,
-                    "creditor; fees"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    229,
-                    246
-                ],
-                [
-                    "insert",
-                    229,
-                    "special assessments imposed by a condominium, cooperative, or homeowners association; ground rent; and leasehold payments."
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-41-d-Interp-2":{
         "node":{
@@ -13705,23 +13699,6 @@
             ]
         },
         "op":"added"
-    },
-    "1026-36-j":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    61
-                ],
-                [
-                    "insert",
-                    4,
-                    "[Reserved]"
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1026-32-a-1-iii-Interp":{
         "node":{
