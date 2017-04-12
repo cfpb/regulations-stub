@@ -4123,35 +4123,6 @@
         },
         "op":"added"
     },
-    "1026-32-a-2-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    6,
-                    17
-                ],
-                [
-                    "insert",
-                    6,
-                    "reverse"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    27,
-                    39
-                ],
-                [
-                    "insert",
-                    27,
-                    "transaction subject to \u00a7 1026.33;"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-43-d-1-i-A":{
         "node":{
             "tagged_text":null,
@@ -5607,11 +5578,34 @@
         },
         "op":"added"
     },
-    "1026-36-j-2":{
-        "op":"deleted"
-    },
-    "1026-36-j-1":{
-        "op":"deleted"
+    "1026-32-a-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    17
+                ],
+                [
+                    "insert",
+                    6,
+                    "reverse"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    27,
+                    39
+                ],
+                [
+                    "insert",
+                    27,
+                    "transaction subject to \u00a7 1026.33;"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-b-3-Interp":{
         "node":{
@@ -8543,38 +8537,19 @@
         },
         "op":"added"
     },
-    "1026-43-a-3-i":{
+    "1026-43-a-3-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) A reverse mortgage subject to \u00a7 1026.33;",
+            "text":"(ii) A temporary or \u201cbridge\u201d loan with a term of 12 months or less, such as a loan to finance the purchase of a new dwelling where the consumer plans to sell a current dwelling within 12 months or a loan to finance the initial construction of a dwelling;",
             "label":[
                 "1026",
                 "43",
                 "a",
                 "3",
-                "i"
+                "ii"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-43-e-2-ii-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"General.The 30-year term limitation in \u00a7 1026.43(e)(2)(ii) is applied without regard to any interim period between consummation and the beginning of the first full unit period of the repayment schedule. For example, assume a covered transaction is consummated on March 20, 2014 and the due date of the first regular periodic payment is April 30, 2014. The beginning of the first full unit period of the repayment schedule is April 1, 2014 and the loan term therefore ends on April 1, 2044. The transaction would comply with the 30-year term limitation in \u00a7 1026.43(e)(2)(ii).",
-            "label":[
-                "1026",
-                "43",
-                "e",
-                "2",
-                "ii",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -10315,17 +10290,17 @@
     "1026-32-c-3-Interp-1-i":{
         "op":"deleted"
     },
-    "1026-43-a-3-ii":{
+    "1026-43-a-3-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(ii) A temporary or \u201cbridge\u201d loan with a term of 12 months or less, such as a loan to finance the purchase of a new dwelling where the consumer plans to sell a current dwelling within 12 months or a loan to finance the initial construction of a dwelling;",
+            "text":"(i) A reverse mortgage subject to \u00a7 1026.33;",
             "label":[
                 "1026",
                 "43",
                 "a",
                 "3",
-                "ii"
+                "i"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -13486,19 +13461,21 @@
         },
         "op":"added"
     },
-    "1026-34-a-5-vi":{
+    "1026-43-e-2-ii-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Steering prohibited.",
-            "text":"(vi) A creditor that extends a high-cost mortgage shall not steer or otherwise direct a consumer to choose a particular counselor or counseling organization for the counseling required under this paragraph (a)(5).",
+            "title":null,
+            "text":"General.The 30-year term limitation in \u00a7 1026.43(e)(2)(ii) is applied without regard to any interim period between consummation and the beginning of the first full unit period of the repayment schedule. For example, assume a covered transaction is consummated on March 20, 2014 and the due date of the first regular periodic payment is April 30, 2014. The beginning of the first full unit period of the repayment schedule is April 1, 2014 and the loan term therefore ends on April 1, 2044. The transaction would comply with the 30-year term limitation in \u00a7 1026.43(e)(2)(ii).",
             "label":[
                 "1026",
-                "34",
-                "a",
-                "5",
-                "vi"
+                "43",
+                "e",
+                "2",
+                "ii",
+                "Interp",
+                "1"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -16319,22 +16296,23 @@
         },
         "op":"added"
     },
-    "1026-43-c-5-i-Interp-4":{
+    "1026-43-e-2-ii-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Substantially equal.In determining whether monthly, fully amortizing payments are substantially equal, creditors should disregard minor variations due to payment-schedule irregularities and odd periods, such as a long or short first or last payment period. That is, monthly payments of principal and interest that repay the loan amount over the loan term need not be equal, but the monthly payments should be substantially the same without significant variation in the monthly combined payments of both principal and interest. For example, where no two monthly payments vary from each other by more than 1 percent (excluding odd periods, such as a long or short first or last payment period), such monthly payments would be considered substantially equal for purposes of this section. In general, creditors should determine whether the monthly, fully amortizing payments are substantially equal based on guidance provided in \u00a7 1026.17(c)(3) (discussing minor variations), and \u00a7 1026.17(c)(4)(i) through (iii) (discussing payment-schedule irregularities and measuring odd periods due to a long or short first period) and associated commentary.",
+            "title":"Paragraph 43(e)(2)(ii).",
+            "text":"",
             "label":[
                 "1026",
                 "43",
-                "c",
-                "5",
-                "i",
-                "Interp",
-                "4"
+                "e",
+                "2",
+                "ii",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1026-43-e-2-ii-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -20179,23 +20157,22 @@
         },
         "op":"added"
     },
-    "1026-43-e-2-ii-Interp":{
+    "1026-43-c-5-i-Interp-4":{
         "node":{
             "tagged_text":null,
-            "title":"Paragraph 43(e)(2)(ii).",
-            "text":"",
+            "title":null,
+            "text":"Substantially equal.In determining whether monthly, fully amortizing payments are substantially equal, creditors should disregard minor variations due to payment-schedule irregularities and odd periods, such as a long or short first or last payment period. That is, monthly payments of principal and interest that repay the loan amount over the loan term need not be equal, but the monthly payments should be substantially the same without significant variation in the monthly combined payments of both principal and interest. For example, where no two monthly payments vary from each other by more than 1 percent (excluding odd periods, such as a long or short first or last payment period), such monthly payments would be considered substantially equal for purposes of this section. In general, creditors should determine whether the monthly, fully amortizing payments are substantially equal based on guidance provided in \u00a7 1026.17(c)(3) (discussing minor variations), and \u00a7 1026.17(c)(4)(i) through (iii) (discussing payment-schedule irregularities and measuring odd periods due to a long or short first period) and associated commentary.",
             "label":[
                 "1026",
                 "43",
-                "e",
-                "2",
-                "ii",
-                "Interp"
+                "c",
+                "5",
+                "i",
+                "Interp",
+                "4"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1026-43-e-2-ii-Interp-1"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -23455,6 +23432,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-36-Interp-1":{
+        "op":"deleted"
     },
     "1026-43-g-4-ii-B":{
         "node":{
@@ -29289,23 +29269,6 @@
         },
         "op":"added"
     },
-    "1026-36-j":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    61
-                ],
-                [
-                    "insert",
-                    4,
-                    "[Reserved]"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-Q-h2-D-1-a-i":{
         "node":{
             "tagged_text":null,
@@ -32276,8 +32239,22 @@
         },
         "op":"added"
     },
-    "1026-36-Interp-1":{
-        "op":"deleted"
+    "1026-34-a-5-vi":{
+        "node":{
+            "tagged_text":null,
+            "title":"Steering prohibited.",
+            "text":"(vi) A creditor that extends a high-cost mortgage shall not steer or otherwise direct a consumer to choose a particular counselor or counseling organization for the counseling required under this paragraph (a)(5).",
+            "label":[
+                "1026",
+                "34",
+                "a",
+                "5",
+                "vi"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-25-c-Interp":{
         "title":[
