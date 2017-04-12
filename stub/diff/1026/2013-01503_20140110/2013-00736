@@ -3035,30 +3035,40 @@
     "1026-36-k-1":{
         "op":"deleted"
     },
-    "1026-32-a-2-i":{
+    "1026-34-a-4-i":{
         "text":[
             [
-                [
-                    "delete",
-                    6,
-                    13
-                ],
-                [
-                    "insert",
-                    6,
-                    "residential"
-                ]
+                "insert",
+                105,
+                "expected "
             ],
             [
                 [
                     "delete",
-                    23,
-                    56
+                    114,
+                    120
                 ],
                 [
                     "insert",
-                    23,
-                    "transaction."
+                    114,
+                    "taxes,"
+                ]
+            ],
+            [
+                "insert",
+                130,
+                "for mortgage-related insurance required by the creditor as set forth in \u00a7 1026.35(b), "
+            ],
+            [
+                [
+                    "delete",
+                    142,
+                    365
+                ],
+                [
+                    "insert",
+                    142,
+                    "expenses."
                 ]
             ]
         ],
@@ -3839,25 +3849,6 @@
         ],
         "op":"modified"
     },
-    "1026-32-d-7-iii-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Calculating debt-to-income ratio.\u201cDebt\u201d does not include amounts paid by the borrower in cash at closing or amounts from the loan proceeds that directly repay an existing debt. Creditors may consider combined debt-to-income ratios for transactions involving joint applicants. For more information about obligations and inflows that may constitute \u201cdebt\u201d or \u201cincome\u201d for purposes of \u00a7 1026.32(d)(7)(iii), see comment 34(a)(4)-6 and comment 34(a)(4)(iii)(C)-1.",
-            "label":[
-                "1026",
-                "32",
-                "d",
-                "7",
-                "iii",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-20-d-1-Interp":{
         "op":"deleted"
     },
@@ -3897,18 +3888,21 @@
     "1026-32-a-2-iii-Interp":{
         "op":"deleted"
     },
-    "1026-36-j-2":{
+    "1026-32-d-7-iii-Interp-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(2) For purposes of this paragraph (j), \u201cdepository institution\u201d has the meaning in section 1503(3) of the SAFE Act, 12 U.S.C. 5102(3). For purposes of this paragraph (j), \u201csubsidiary\u201d has the meaning in section 3 of the Federal Deposit Insurance Act, 12 U.S.C. 1813.",
+            "text":"Calculating debt-to-income ratio.\u201cDebt\u201d does not include amounts paid by the borrower in cash at closing or amounts from the loan proceeds that directly repay an existing debt. Creditors may consider combined debt-to-income ratios for transactions involving joint applicants. For more information about obligations and inflows that may constitute \u201cdebt\u201d or \u201cincome\u201d for purposes of \u00a7 1026.32(d)(7)(iii), see comment 34(a)(4)-6 and comment 34(a)(4)(iii)(C)-1.",
             "label":[
                 "1026",
-                "36",
-                "j",
-                "2"
+                "32",
+                "d",
+                "7",
+                "iii",
+                "Interp",
+                "1"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -4230,21 +4224,34 @@
     "1026-20-d-2-x":{
         "op":"deleted"
     },
-    "1026-36-j-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) A depository institution must establish and maintain written policies and procedures reasonably designed to ensure and monitor the compliance of the depository institution, its employees, its subsidiaries, and its subsidiaries' employees with the requirements of paragraphs (d), (e), (f), and (g) of this section. These written policies and procedures must be appropriate to the nature, size, complexity, and scope of the mortgage lending activities of the depository institution and its subsidiaries.",
-            "label":[
-                "1026",
-                "36",
-                "j",
-                "1"
+    "1026-32-a-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    13
+                ],
+                [
+                    "insert",
+                    6,
+                    "residential"
+                ]
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    23,
+                    56
+                ],
+                [
+                    "insert",
+                    23,
+                    "transaction."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-36-g-1-Interp-1":{
         "op":"deleted"
@@ -5460,9 +5467,6 @@
         "op":"deleted"
     },
     "1026-20-c-2-ii":{
-        "op":"deleted"
-    },
-    "1026-41-d-Interp-1":{
         "op":"deleted"
     },
     "1026-32-b-2-i-C-2":{
@@ -7034,44 +7038,8 @@
         ],
         "op":"modified"
     },
-    "1026-34-a-4-i":{
-        "text":[
-            [
-                "insert",
-                105,
-                "expected "
-            ],
-            [
-                [
-                    "delete",
-                    114,
-                    120
-                ],
-                [
-                    "insert",
-                    114,
-                    "taxes,"
-                ]
-            ],
-            [
-                "insert",
-                130,
-                "for mortgage-related insurance required by the creditor as set forth in \u00a7 1026.35(b), "
-            ],
-            [
-                [
-                    "delete",
-                    142,
-                    365
-                ],
-                [
-                    "insert",
-                    142,
-                    "expenses."
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1026-41-d-Interp-1":{
+        "op":"deleted"
     },
     "1026-41-d-Interp-2":{
         "op":"deleted"
@@ -7276,23 +7244,6 @@
     },
     "1026-36-k":{
         "op":"deleted"
-    },
-    "1026-36-j":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    14
-                ],
-                [
-                    "insert",
-                    4,
-                    "Policies and procedures to ensure and monitor compliance."
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1026-32-a-1-iii-Interp":{
         "op":"deleted"
