@@ -932,7 +932,7 @@
     "1026-36-f-3-i-B":{
         "op":"deleted"
     },
-    "1026-35-b-2-iii-A":{
+    "1026-36-f-3-i-C":{
         "op":"deleted"
     },
     "1026-32-d-7-iii":{
@@ -1533,6 +1533,35 @@
     },
     "1026-Q-h2-E-3-a-iii":{
         "op":"deleted"
+    },
+    "1026-32-a-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    13
+                ],
+                [
+                    "insert",
+                    6,
+                    "residential"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    23,
+                    56
+                ],
+                [
+                    "insert",
+                    23,
+                    "transaction."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-d-1-i-A":{
         "op":"deleted"
@@ -2189,34 +2218,11 @@
         },
         "op":"added"
     },
-    "1026-32-a-2-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    6,
-                    13
-                ],
-                [
-                    "insert",
-                    6,
-                    "residential"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    23,
-                    56
-                ],
-                [
-                    "insert",
-                    23,
-                    "transaction."
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1026-36-j-2":{
+        "op":"deleted"
+    },
+    "1026-36-j-1":{
+        "op":"deleted"
     },
     "1026-43-b-3-Interp":{
         "op":"deleted"
@@ -6275,7 +6281,7 @@
         ],
         "op":"modified"
     },
-    "1026-36-f-3-i-C":{
+    "1026-35-b-2-iii-A":{
         "op":"deleted"
     },
     "1026-43-b-6-Interp-1":{
@@ -9315,22 +9321,6 @@
     "1026-43-f-1-i-Interp-1":{
         "op":"deleted"
     },
-    "1026-36-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Scope of coverage.Sections 1026.36(b) and (c) apply to closed-end consumer credit transactions secured by a consumer's principal dwelling. Sections 1026.36(d) and (e) apply to closed-end consumer credit transactions secured by a dwelling. Sections 1026.36(d) and (e) apply to closed-end loans secured by first or subordinate liens, and reverse mortgages that are not home-equity lines of credit under \u00a7 1026.40. See \u00a7 1026.36(f) for additional restrictions on the scope of this section, and \u00a7\u00a7 1026.1(c) and 1026.3(a) and corresponding commentary for further discussion of extensions of credit subject to Regulation Z.",
-            "label":[
-                "1026",
-                "36",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-43-g-4-ii-B":{
         "op":"deleted"
     },
@@ -10227,6 +10217,9 @@
         "op":"modified"
     },
     "1026-36-a-1-i-B-Interp-1-iv":{
+        "op":"deleted"
+    },
+    "1026-41-e-3-Interp-2":{
         "op":"deleted"
     },
     "1026-Q-h1-B-6-b":{
@@ -11634,7 +11627,7 @@
     "1026-41-e-3-Interp-3":{
         "op":"deleted"
     },
-    "1026-41-e-3-Interp-2":{
+    "1026-34-a-5-vi":{
         "op":"deleted"
     },
     "1026-25-c-2-i":{
@@ -11793,7 +11786,7 @@
                 [
                     "delete",
                     4,
-                    936
+                    791
                 ],
                 [
                     "insert",
@@ -13318,8 +13311,21 @@
     "1026-32-b-1-i-C-Interp-1-ii":{
         "op":"deleted"
     },
-    "1026-34-a-5-vi":{
-        "op":"deleted"
+    "1026-36-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Scope of coverage.Sections 1026.36(b) and (c) apply to closed-end consumer credit transactions secured by a consumer's principal dwelling. Sections 1026.36(d) and (e) apply to closed-end consumer credit transactions secured by a dwelling. Sections 1026.36(d) and (e) apply to closed-end loans secured by first or subordinate liens, and reverse mortgages that are not home-equity lines of credit under \u00a7 1026.40. See \u00a7 1026.36(f) for additional restrictions on the scope of this section, and \u00a7\u00a7 1026.1(c) and 1026.3(a) and corresponding commentary for further discussion of extensions of credit subject to Regulation Z.",
+            "label":[
+                "1026",
+                "36",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-25-c-Interp":{
         "op":"deleted"
