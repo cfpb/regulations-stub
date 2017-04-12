@@ -763,25 +763,6 @@
         },
         "op":"added"
     },
-    "1026-32-b-2-i-C-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) If the premium or other charge is payable at or before account opening, the portion of any such premium or other charge that is not in excess of the amount payable under policies in effect at the time of account opening under section 203(c)(2)(A) of the National Housing Act (12 U.S.C. 1709(c)(2)(A)), provided that the premium or charge is required to be refundable on a pro rata basis and the refund is automatically issued upon notification of the satisfaction of the underlying mortgage transaction;",
-            "label":[
-                "1026",
-                "32",
-                "b",
-                "2",
-                "i",
-                "C",
-                "2"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-Q-h1-G-2-b":{
         "node":{
             "tagged_text":null,
@@ -2725,34 +2706,23 @@
         },
         "op":"added"
     },
-    "1026-35-b-2-iii-A":{
-        "text":[
-            [
-                [
-                    "delete",
-                    217,
-                    227
-                ],
-                [
-                    "insert",
-                    217,
-                    "that are"
-                ]
+    "1026-36-f-3-i-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(C) Information from the NMLSR about any administrative, civil, or criminal findings by any government jurisdiction or, in the case of an individual loan originator who is not a registered loan originator under the NMLSR, such information from the individual loan originator;",
+            "label":[
+                "1026",
+                "36",
+                "f",
+                "3",
+                "i",
+                "C"
             ],
-            [
-                [
-                    "delete",
-                    246,
-                    274
-                ],
-                [
-                    "insert",
-                    246,
-                    "\u201cunderserved,\u201d"
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-32-d-7-iii":{
         "op":"deleted"
@@ -3836,20 +3806,21 @@
         },
         "op":"added"
     },
-    "1026-43-f-2-Interp-2":{
+    "1026-32-b-2-i-C-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Application to subsequent transferees.The exceptions contained in \u00a7 1026.43(f)(2) apply not only to an initial sale, assignment, or other transfer by the originating creditor but to subsequent sales, assignments, and other transfers as well. For example, assume Creditor A originates a qualified mortgage under \u00a7 1026.43(f)(1). Six months after consummation, Creditor A sells the qualified mortgage to Creditor B pursuant to \u00a7 1026.43(f)(2)(ii) and the loan retains its qualified mortgage status because Creditor B complies with the limits on operating predominantly in rural or underserved areas, asset size, and number of transactions. If Creditor B sells the qualified mortgage, it will lose its qualified mortgage status under \u00a7 1026.43(f)(1) unless the sale qualifies for one of the \u00a7 1026.43(f)(2) exceptions for sales three or more years after consummation, to another qualifying institution, as required by supervisory action, or pursuant to a merger or acquisition.",
+            "text":"(2) If the premium or other charge is payable at or before account opening, the portion of any such premium or other charge that is not in excess of the amount payable under policies in effect at the time of account opening under section 203(c)(2)(A) of the National Housing Act (12 U.S.C. 1709(c)(2)(A)), provided that the premium or charge is required to be refundable on a pro rata basis and the refund is automatically issued upon notification of the satisfaction of the underlying mortgage transaction;",
             "label":[
                 "1026",
-                "43",
-                "f",
+                "32",
+                "b",
                 "2",
-                "Interp",
+                "i",
+                "C",
                 "2"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -3896,6 +3867,35 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-32-a-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    17
+                ],
+                [
+                    "insert",
+                    6,
+                    "reverse"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    27,
+                    39
+                ],
+                [
+                    "insert",
+                    27,
+                    "transaction subject to \u00a7 1026.33;"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-d-1-i-A":{
         "node":{
@@ -5765,34 +5765,37 @@
         },
         "op":"added"
     },
-    "1026-32-a-2-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    6,
-                    17
-                ],
-                [
-                    "insert",
-                    6,
-                    "reverse"
-                ]
+    "1026-36-j-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(2) For purposes of this paragraph (j), \u201cdepository institution\u201d has the meaning in section 1503(3) of the SAFE Act, 12 U.S.C. 5102(3). For purposes of this paragraph (j), \u201csubsidiary\u201d has the meaning in section 3 of the Federal Deposit Insurance Act, 12 U.S.C. 1813.",
+            "label":[
+                "1026",
+                "36",
+                "j",
+                "2"
             ],
-            [
-                [
-                    "delete",
-                    27,
-                    39
-                ],
-                [
-                    "insert",
-                    27,
-                    "transaction subject to \u00a7 1026.33;"
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-36-j-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(1) A depository institution must establish and maintain written policies and procedures reasonably designed to ensure and monitor the compliance of the depository institution, its employees, its subsidiaries, and its subsidiaries' employees with the requirements of paragraphs (d), (e), (f), and (g) of this section. These written policies and procedures must be appropriate to the nature, size, complexity, and scope of the mortgage lending activities of the depository institution and its subsidiaries.",
+            "label":[
+                "1026",
+                "36",
+                "j",
+                "1"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-43-b-3-Interp":{
         "node":{
@@ -15547,23 +15550,34 @@
         },
         "op":"added"
     },
-    "1026-36-f-3-i-C":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(C) Information from the NMLSR about any administrative, civil, or criminal findings by any government jurisdiction or, in the case of an individual loan originator who is not a registered loan originator under the NMLSR, such information from the individual loan originator;",
-            "label":[
-                "1026",
-                "36",
-                "f",
-                "3",
-                "i",
-                "C"
+    "1026-35-b-2-iii-A":{
+        "text":[
+            [
+                [
+                    "delete",
+                    217,
+                    227
+                ],
+                [
+                    "insert",
+                    217,
+                    "that are"
+                ]
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    246,
+                    274
+                ],
+                [
+                    "insert",
+                    246,
+                    "\u201cunderserved,\u201d"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-b-6-Interp-1":{
         "node":{
@@ -24678,70 +24692,23 @@
         ],
         "op":"modified"
     },
-    "1026-32-a-1-i-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    17
-                ],
-                [
-                    "insert",
-                    0,
-                    "Comparable transaction.Guidance for determining a comparable transaction is set forth in comments 35(a)(1)-1 and 35(a)(2)-2 and -3, which direct creditors to published tables of average prime offer rates for fixed- and variable-rate closed-end credit transactions. Creditors opening open-end credit plans must compare the annual percentage rate for the plan to the average prime offer rate for the most closely comparable closed-end transaction. To identify the most closely comparable closed-end transaction, the creditor should identify whether the credit plan is fixed- or variable-rate; if the plan is fixed-rate, the term of the plan to maturity; if the plan is variable-rate, the duration of any initial, fixed-rate period; and the date the interest rate for the plan is set. If a fixed-rate plan has no definite plan length, a creditor must use the average prime offer rate for a 30-year fixed-rate loan. If a variable-rate plan has an optional, fixed-rate feature, a creditor must use the rate table for variable-rate transactions. If a variable-rate plan has an initial, fixed-rate period that is"
-                ]
+    "1026-43-f-2-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Application to subsequent transferees.The exceptions contained in \u00a7 1026.43(f)(2) apply not only to an initial sale, assignment, or other transfer by the originating creditor but to subsequent sales, assignments, and other transfers as well. For example, assume Creditor A originates a qualified mortgage under \u00a7 1026.43(f)(1). Six months after consummation, Creditor A sells the qualified mortgage to Creditor B pursuant to \u00a7 1026.43(f)(2)(ii) and the loan retains its qualified mortgage status because Creditor B complies with the limits on operating predominantly in rural or underserved areas, asset size, and number of transactions. If Creditor B sells the qualified mortgage, it will lose its qualified mortgage status under \u00a7 1026.43(f)(1) unless the sale qualifies for one of the \u00a7 1026.43(f)(2) exceptions for sales three or more years after consummation, to another qualifying institution, as required by supervisory action, or pursuant to a merger or acquisition.",
+            "label":[
+                "1026",
+                "43",
+                "f",
+                "2",
+                "Interp",
+                "2"
             ],
-            [
-                [
-                    "delete",
-                    22,
-                    52
-                ],
-                [
-                    "insert",
-                    22,
-                    "in whole years, a creditor must identify the most closely-comparable transaction by using the number"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    56,
-                    149
-                ],
-                [
-                    "insert",
-                    56,
-                    "whole years closest to the actual fixed-rate period. For example, if a variable-rate plan has an initial fixed-rate period of 20 months, a creditor must"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    158,
-                    166
-                ],
-                [
-                    "insert",
-                    158,
-                    "average prime offer rate for a two-year adjustable-rate loan. If a variable-rate plan has no initial fixed-rate period, or if it has an initial fixed-rate period"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    170,
-                    218
-                ],
-                [
-                    "insert",
-                    170,
-                    "less than one year, a creditor must use the average prime offer rate for a one-year adjustable-rate loan. Thus, for example, if the initial fixed-rate period is six months, a creditor must use the average prime offer rate for a one-year adjustable-rate loan."
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-43-e-4-iii":{
         "node":{
@@ -27932,25 +27899,70 @@
         },
         "op":"added"
     },
-    "1026-34-a-6-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"34(a)(6) Recommended default.",
-            "text":"",
-            "label":[
-                "1026",
-                "34",
-                "a",
-                "6",
-                "Interp"
+    "1026-32-a-1-i-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    17
+                ],
+                [
+                    "insert",
+                    0,
+                    "Comparable transaction.Guidance for determining a comparable transaction is set forth in comments 35(a)(1)-1 and 35(a)(2)-2 and -3, which direct creditors to published tables of average prime offer rates for fixed- and variable-rate closed-end credit transactions. Creditors opening open-end credit plans must compare the annual percentage rate for the plan to the average prime offer rate for the most closely comparable closed-end transaction. To identify the most closely comparable closed-end transaction, the creditor should identify whether the credit plan is fixed- or variable-rate; if the plan is fixed-rate, the term of the plan to maturity; if the plan is variable-rate, the duration of any initial, fixed-rate period; and the date the interest rate for the plan is set. If a fixed-rate plan has no definite plan length, a creditor must use the average prime offer rate for a 30-year fixed-rate loan. If a variable-rate plan has an optional, fixed-rate feature, a creditor must use the rate table for variable-rate transactions. If a variable-rate plan has an initial, fixed-rate period that is"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-34-a-6-Interp-1",
-                "1026-34-a-6-Interp-2"
+            [
+                [
+                    "delete",
+                    22,
+                    52
+                ],
+                [
+                    "insert",
+                    22,
+                    "in whole years, a creditor must identify the most closely-comparable transaction by using the number"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    56,
+                    149
+                ],
+                [
+                    "insert",
+                    56,
+                    "whole years closest to the actual fixed-rate period. For example, if a variable-rate plan has an initial fixed-rate period of 20 months, a creditor must"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    158,
+                    166
+                ],
+                [
+                    "insert",
+                    158,
+                    "average prime offer rate for a two-year adjustable-rate loan. If a variable-rate plan has no initial fixed-rate period, or if it has an initial fixed-rate period"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    170,
+                    218
+                ],
+                [
+                    "insert",
+                    170,
+                    "less than one year, a creditor must use the average prime offer rate for a one-year adjustable-rate loan. Thus, for example, if the initial fixed-rate period is six months, a creditor must use the average prime offer rate for a one-year adjustable-rate loan."
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1026-43-g-3-iii":{
         "node":{
@@ -29908,14 +29920,17 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(j) [Reserved]",
+            "text":"(j) Policies and procedures to ensure and monitor compliance.",
             "label":[
                 "1026",
                 "36",
                 "j"
             ],
             "node_type":"regtext",
-            "child_labels":[]
+            "child_labels":[
+                "1026-36-j-1",
+                "1026-36-j-2"
+            ]
         },
         "op":"added"
     },
@@ -34813,6 +34828,26 @@
     },
     "1026-20-c-4-Interp-1":{
         "op":"deleted"
+    },
+    "1026-34-a-6-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"34(a)(6) Recommended default.",
+            "text":"",
+            "label":[
+                "1026",
+                "34",
+                "a",
+                "6",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-34-a-6-Interp-1",
+                "1026-34-a-6-Interp-2"
+            ]
+        },
+        "op":"added"
     },
     "1026-32-b-1-ii-Interp-4":{
         "node":{
@@ -40068,7 +40103,7 @@
                 [
                     "insert",
                     4,
-                    "Scope.Section 1026.36(c)(1) and (c)(2) applies to closed-end consumer credit transactions secured by a consumer's principal dwelling. Section 1026.36(c)(3) applies to a consumer credit transaction, including home equity lines of credit under \u00a7 1026.40, secured by a consumer's dwelling. Paragraphs (h) and (i) of \u00a7 1026.36 apply to home equity lines of credit under \u00a7 1026.40 secured by a consumer's principal dwelling. Paragraphs (d), (e), (f), (g), (h), and (i) of \u00a7 1026.36 apply to closed-end consumer credit transactions secured by a dwelling. Closed-end consumer credit transactions include transactions secured by first or subordinate liens, and reverse mortgages that are not home equity lines of credit under \u00a7 1026.40. See \u00a7 1026.36(b) for additional restrictions on the scope of \u00a7 1026.36, and \u00a7\u00a7 1026.1(c) and 1026.3(a) and corresponding commentary for further discussion of extensions of credit subject to Regulation Z."
+                    "Scope.Paragraphs (c)(1) and (2) of this section apply to closed-end consumer credit transactions secured by a consumer\u2019s principal dwelling. Paragraph (c)(3) of this section applies to a consumer credit transaction secured by a dwelling. Paragraphs (d) through (i) of this section apply to closed-end consumer credit transactions secured by a dwelling. This section does not apply to a home equity line of credit subject to \u00a7 1026.40, except that paragraphs (h) and (i) of this section apply to such credit when secured by the consumer\u2019s principal dwelling and paragraph (c)(3) applies to such credit when secured by a dwelling. Paragraphs (d) through (i) of this section do not apply to a loan that is secured by a consumer\u2019s interest in a timeshare plan described in 11 U.S.C.101(53D)."
                 ]
             ]
         ],
