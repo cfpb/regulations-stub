@@ -4458,6 +4458,35 @@
         },
         "op":"added"
     },
+    "1026-32-a-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    17
+                ],
+                [
+                    "insert",
+                    6,
+                    "reverse"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    27,
+                    39
+                ],
+                [
+                    "insert",
+                    27,
+                    "transaction subject to \u00a7 1026.33;"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1026-43-d-1-i-A":{
         "node":{
             "tagged_text":null,
@@ -6335,34 +6364,37 @@
         },
         "op":"added"
     },
-    "1026-32-a-2-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    6,
-                    17
-                ],
-                [
-                    "insert",
-                    6,
-                    "reverse"
-                ]
+    "1026-36-j-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(2) For purposes of this paragraph (j), \u201cdepository institution\u201d has the meaning in section 1503(3) of the SAFE Act, 12 U.S.C. 5102(3). For purposes of this paragraph (j), \u201csubsidiary\u201d has the meaning in section 3 of the Federal Deposit Insurance Act, 12 U.S.C. 1813.",
+            "label":[
+                "1026",
+                "36",
+                "j",
+                "2"
             ],
-            [
-                [
-                    "delete",
-                    27,
-                    39
-                ],
-                [
-                    "insert",
-                    27,
-                    "transaction subject to \u00a7 1026.33;"
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-36-j-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(1) A depository institution must establish and maintain written policies and procedures reasonably designed to ensure and monitor the compliance of the depository institution, its employees, its subsidiaries, and its subsidiaries' employees with the requirements of paragraphs (d), (e), (f), and (g) of this section. These written policies and procedures must be appropriate to the nature, size, complexity, and scope of the mortgage lending activities of the depository institution and its subsidiaries.",
+            "label":[
+                "1026",
+                "36",
+                "j",
+                "1"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-43-b-3-Interp":{
         "node":{
@@ -9687,17 +9719,17 @@
         },
         "op":"added"
     },
-    "1026-43-a-3-ii":{
+    "1026-43-a-3-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(ii) A temporary or \u201cbridge\u201d loan with a term of 12 months or less, such as a loan to finance the purchase of a new dwelling where the consumer plans to sell a current dwelling within 12 months or a loan to finance the initial construction of a dwelling;",
+            "text":"(i) A reverse mortgage subject to \u00a7 1026.33;",
             "label":[
                 "1026",
                 "43",
                 "a",
                 "3",
-                "ii"
+                "i"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -11799,17 +11831,17 @@
     "1026-32-c-3-Interp-1-i":{
         "op":"deleted"
     },
-    "1026-43-a-3-i":{
+    "1026-43-a-3-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) A reverse mortgage subject to \u00a7 1026.33;",
+            "text":"(ii) A temporary or \u201cbridge\u201d loan with a term of 12 months or less, such as a loan to finance the purchase of a new dwelling where the consumer plans to sell a current dwelling within 12 months or a loan to finance the initial construction of a dwelling;",
             "label":[
                 "1026",
                 "43",
                 "a",
                 "3",
-                "i"
+                "ii"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -27292,21 +27324,20 @@
         },
         "op":"added"
     },
-    "1026-43-d-2-iv-Interp-1":{
+    "1026-43-g-4-ii-A":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Late payment\u201412 months prior to application.Under \u00a7 1026.43(d)(2)(iv), the exemptions in \u00a7 1026.43(d)(3) apply to a covered transaction only if, during the 12 months immediately preceding the creditor's receipt of the consumer's written application for a refinancing, the consumer has made no more than one payment on the non-standard mortgage more than 30 days late. (For an explanation of \u201cwritten application,\u201d see comment 43(d)(2)-1.) For example, assume a consumer applies for a refinancing on May 1, 2014. Assume also that the consumer made a non-standard mortgage payment on August 15, 2013, that was 45 days late. The consumer made no other late payments on the non-standard mortgage between May 1, 2013, and May 1, 2014. In this example, the requirement under \u00a7 1026.43(d)(2)(iv) is met because the consumer made only one payment that was over 30 days late within the 12 months prior to applying for the refinancing (i.e., eight and one-half months prior to application).",
+            "text":"(A) The creditor; or",
             "label":[
                 "1026",
                 "43",
-                "d",
-                "2",
-                "iv",
-                "Interp",
-                "1"
+                "g",
+                "4",
+                "ii",
+                "A"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -28220,6 +28251,25 @@
                 "c",
                 "3",
                 "i",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-43-d-2-iv-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Late payment\u201412 months prior to application.Under \u00a7 1026.43(d)(2)(iv), the exemptions in \u00a7 1026.43(d)(3) apply to a covered transaction only if, during the 12 months immediately preceding the creditor's receipt of the consumer's written application for a refinancing, the consumer has made no more than one payment on the non-standard mortgage more than 30 days late. (For an explanation of \u201cwritten application,\u201d see comment 43(d)(2)-1.) For example, assume a consumer applies for a refinancing on May 1, 2014. Assume also that the consumer made a non-standard mortgage payment on August 15, 2013, that was 45 days late. The consumer made no other late payments on the non-standard mortgage between May 1, 2013, and May 1, 2014. In this example, the requirement under \u00a7 1026.43(d)(2)(iv) is met because the consumer made only one payment that was over 30 days late within the 12 months prior to applying for the refinancing (i.e., eight and one-half months prior to application).",
+            "label":[
+                "1026",
+                "43",
+                "d",
+                "2",
+                "iv",
                 "Interp",
                 "1"
             ],
@@ -33821,14 +33871,17 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(j) [Reserved]",
+            "text":"(j) Policies and procedures to ensure and monitor compliance.",
             "label":[
                 "1026",
                 "36",
                 "j"
             ],
             "node_type":"regtext",
-            "child_labels":[]
+            "child_labels":[
+                "1026-36-j-1",
+                "1026-36-j-2"
+            ]
         },
         "op":"added"
     },
@@ -42264,24 +42317,6 @@
         ],
         "op":"modified"
     },
-    "1026-43-g-4-ii-A":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(A) The creditor; or",
-            "label":[
-                "1026",
-                "43",
-                "g",
-                "4",
-                "ii",
-                "A"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-20-c":{
         "text":[
             [
@@ -45665,7 +45700,7 @@
                 [
                     "insert",
                     4,
-                    "Scope.Section 1026.36(c)(1) and (c)(2) applies to closed-end consumer credit transactions secured by a consumer's principal dwelling. Section 1026.36(c)(3) applies to a consumer credit transaction, including home equity lines of credit under \u00a7 1026.40, secured by a consumer's dwelling. Paragraphs (h) and (i) of \u00a7 1026.36 apply to home equity lines of credit under \u00a7 1026.40 secured by a consumer's principal dwelling. Paragraphs (d), (e), (f), (g), (h), and (i) of \u00a7 1026.36 apply to closed-end consumer credit transactions secured by a dwelling. Closed-end consumer credit transactions include transactions secured by first or subordinate liens, and reverse mortgages that are not home equity lines of credit under \u00a7 1026.40. See \u00a7 1026.36(b) for additional restrictions on the scope of \u00a7 1026.36, and \u00a7\u00a7 1026.1(c) and 1026.3(a) and corresponding commentary for further discussion of extensions of credit subject to Regulation Z."
+                    "Scope.Paragraphs (c)(1) and (2) of this section apply to closed-end consumer credit transactions secured by a consumer\u2019s principal dwelling. Paragraph (c)(3) of this section applies to a consumer credit transaction secured by a dwelling. Paragraphs (d) through (i) of this section apply to closed-end consumer credit transactions secured by a dwelling. This section does not apply to a home equity line of credit subject to \u00a7 1026.40, except that paragraphs (h) and (i) of this section apply to such credit when secured by the consumer\u2019s principal dwelling and paragraph (c)(3) applies to such credit when secured by a dwelling. Paragraphs (d) through (i) of this section do not apply to a loan that is secured by a consumer\u2019s interest in a timeshare plan described in 11 U.S.C.101(53D)."
                 ]
             ]
         ],
