@@ -1065,35 +1065,6 @@
     "1026-Q-h2-E-3-a-iii":{
         "op":"deleted"
     },
-    "1026-32-a-2-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    6,
-                    13
-                ],
-                [
-                    "insert",
-                    6,
-                    "residential"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    23,
-                    56
-                ],
-                [
-                    "insert",
-                    23,
-                    "transaction."
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-43-d-1-i-A":{
         "op":"deleted"
     },
@@ -1466,37 +1437,34 @@
     "1026-32-b-2-viii-Interp-1":{
         "op":"deleted"
     },
-    "1026-36-j-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) For purposes of this paragraph (j), \u201cdepository institution\u201d has the meaning in section 1503(3) of the SAFE Act, 12 U.S.C. 5102(3). For purposes of this paragraph (j), \u201csubsidiary\u201d has the meaning in section 3 of the Federal Deposit Insurance Act, 12 U.S.C. 1813.",
-            "label":[
-                "1026",
-                "36",
-                "j",
-                "2"
+    "1026-32-a-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    13
+                ],
+                [
+                    "insert",
+                    6,
+                    "residential"
+                ]
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-36-j-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) A depository institution must establish and maintain written policies and procedures reasonably designed to ensure and monitor the compliance of the depository institution, its employees, its subsidiaries, and its subsidiaries' employees with the requirements of paragraphs (d), (e), (f), and (g) of this section. These written policies and procedures must be appropriate to the nature, size, complexity, and scope of the mortgage lending activities of the depository institution and its subsidiaries.",
-            "label":[
-                "1026",
-                "36",
-                "j",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    23,
+                    56
+                ],
+                [
+                    "insert",
+                    23,
+                    "transaction."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-b-3-Interp":{
         "op":"deleted"
@@ -2939,24 +2907,6 @@
     },
     "1026-36-g-Interp":{
         "op":"deleted"
-    },
-    "1026-20-c-1-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Current and prior interest rates.The requirements under this paragraph are satisfied by disclosing the interest rate used to compute the new adjusted payment amount (\u201ccurrent rate\u201d) and the adjusted interest rate that was disclosed in the last adjustment notice, as well as all other interest rates applied to the transaction in the period since the last notice (\u201cprior rates\u201d). (If there has been no prior adjustment notice, the prior rates are the interest rate applicable to the transaction at consummation, as well as all other interest rates applied to the transaction in the period since consummation.) If no payment adjustment has been made in a year, the current rate is the new adjusted interest rate for the transaction, and the prior rates are the adjusted interest rate applicable to the loan at the time of the last adjustment notice, and all other rates applied to the transaction in the period between the current and last adjustment notices. In disclosing all other rates applied to the transaction during the period between notices, a creditor may disclose a range of the highest and lowest rates applied during that period.",
-            "label":[
-                "1026",
-                "20",
-                "c",
-                "1",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1026-43-b-3-Interp-2":{
         "op":"deleted"
@@ -7481,6 +7431,9 @@
     "1026-Q-h2-C-1-a":{
         "op":"deleted"
     },
+    "1026-Q-h1-A-4-c":{
+        "op":"deleted"
+    },
     "1026-43-d-5-i-Interp-10-iv-B":{
         "op":"deleted"
     },
@@ -7499,8 +7452,23 @@
     "1026-Q-h1-A-4-b":{
         "op":"deleted"
     },
-    "1026-Q-h1-A-4-c":{
-        "op":"deleted"
+    "1026-20-c-1-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Current and prior interest rates.The requirements under this paragraph are satisfied by disclosing the interest rate used to compute the new adjusted payment amount (\u201ccurrent rate\u201d) and the adjusted interest rate that was disclosed in the last adjustment notice, as well as all other interest rates applied to the transaction in the period since the last notice (\u201cprior rates\u201d). (If there has been no prior adjustment notice, the prior rates are the interest rate applicable to the transaction at consummation, as well as all other interest rates applied to the transaction in the period since consummation.) If no payment adjustment has been made in a year, the current rate is the new adjusted interest rate for the transaction, and the prior rates are the adjusted interest rate applicable to the loan at the time of the last adjustment notice, and all other rates applied to the transaction in the period between the current and last adjustment notices. In disclosing all other rates applied to the transaction during the period between notices, a creditor may disclose a range of the highest and lowest rates applied during that period.",
+            "label":[
+                "1026",
+                "20",
+                "c",
+                "1",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-Q-h1-A-4-a":{
         "op":"deleted"
@@ -8035,23 +8003,6 @@
     },
     "1026-36-k":{
         "op":"deleted"
-    },
-    "1026-36-j":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    14
-                ],
-                [
-                    "insert",
-                    4,
-                    "Policies and procedures to ensure and monitor compliance."
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1026-Q-h2-D-1-a-i":{
         "op":"deleted"
