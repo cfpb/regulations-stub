@@ -1536,25 +1536,6 @@
         },
         "op":"added"
     },
-    "1026-43-e-2-iv-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Maximum interest rate during the first five years.For a qualified mortgage, the creditor must underwrite the loan using a periodic payment of principal and interest based on the maximum interest rate that may apply during the first five years after the date on which the first regular periodic payment will be due. Creditors must use the maximum rate that could apply at any time during the first five years after the date on which the first regular periodic payment will be due, regardless of whether the maximum rate is reached at the first or subsequent adjustment during the five year period.",
-            "label":[
-                "1026",
-                "43",
-                "e",
-                "2",
-                "iv",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-25-a-Interp-5":{
         "op":"deleted"
     },
@@ -4123,35 +4104,6 @@
         },
         "op":"added"
     },
-    "1026-32-a-2-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    6,
-                    17
-                ],
-                [
-                    "insert",
-                    6,
-                    "reverse"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    27,
-                    39
-                ],
-                [
-                    "insert",
-                    27,
-                    "transaction subject to \u00a7 1026.33;"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-43-d-1-i-A":{
         "node":{
             "tagged_text":null,
@@ -5607,11 +5559,34 @@
         },
         "op":"added"
     },
-    "1026-36-j-2":{
-        "op":"deleted"
-    },
-    "1026-36-j-1":{
-        "op":"deleted"
+    "1026-32-a-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    17
+                ],
+                [
+                    "insert",
+                    6,
+                    "reverse"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    27,
+                    39
+                ],
+                [
+                    "insert",
+                    27,
+                    "transaction subject to \u00a7 1026.33;"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-b-3-Interp":{
         "node":{
@@ -6918,23 +6893,22 @@
         },
         "op":"added"
     },
-    "1026-32-a-3":{
+    "1026-43-e-2-iv-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Determination of annual percentage rate.",
-            "text":"(3) For purposes of paragraph (a)(1)(i) of this section, a creditor shall determine the annual percentage rate for a closed- or open-end credit transaction based on the following:",
+            "title":null,
+            "text":"Maximum interest rate during the first five years.For a qualified mortgage, the creditor must underwrite the loan using a periodic payment of principal and interest based on the maximum interest rate that may apply during the first five years after the date on which the first regular periodic payment will be due. Creditors must use the maximum rate that could apply at any time during the first five years after the date on which the first regular periodic payment will be due, regardless of whether the maximum rate is reached at the first or subsequent adjustment during the five year period.",
             "label":[
                 "1026",
-                "32",
-                "a",
-                "3"
+                "43",
+                "e",
+                "2",
+                "iv",
+                "Interp",
+                "1"
             ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1026-32-a-3-i",
-                "1026-32-a-3-ii",
-                "1026-32-a-3-iii"
-            ]
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -8543,17 +8517,17 @@
         },
         "op":"added"
     },
-    "1026-43-a-3-i":{
+    "1026-43-a-3-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) A reverse mortgage subject to \u00a7 1026.33;",
+            "text":"(ii) A temporary or \u201cbridge\u201d loan with a term of 12 months or less, such as a loan to finance the purchase of a new dwelling where the consumer plans to sell a current dwelling within 12 months or a loan to finance the initial construction of a dwelling;",
             "label":[
                 "1026",
                 "43",
                 "a",
                 "3",
-                "i"
+                "ii"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -10296,17 +10270,17 @@
     "1026-32-c-3-Interp-1-i":{
         "op":"deleted"
     },
-    "1026-43-a-3-ii":{
+    "1026-43-a-3-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(ii) A temporary or \u201cbridge\u201d loan with a term of 12 months or less, such as a loan to finance the purchase of a new dwelling where the consumer plans to sell a current dwelling within 12 months or a loan to finance the initial construction of a dwelling;",
+            "text":"(i) A reverse mortgage subject to \u00a7 1026.33;",
             "label":[
                 "1026",
                 "43",
                 "a",
                 "3",
-                "ii"
+                "i"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -29092,23 +29066,6 @@
         },
         "op":"added"
     },
-    "1026-36-j":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    61
-                ],
-                [
-                    "insert",
-                    4,
-                    "[Reserved]"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-Q-h2-D-1-a-i":{
         "node":{
             "tagged_text":null,
@@ -35576,6 +35533,26 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-32-a-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Determination of annual percentage rate.",
+            "text":"(3) For purposes of paragraph (a)(1)(i) of this section, a creditor shall determine the annual percentage rate for a closed- or open-end credit transaction based on the following:",
+            "label":[
+                "1026",
+                "32",
+                "a",
+                "3"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1026-32-a-3-i",
+                "1026-32-a-3-ii",
+                "1026-32-a-3-iii"
+            ]
         },
         "op":"added"
     },
