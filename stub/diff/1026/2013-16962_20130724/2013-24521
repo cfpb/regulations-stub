@@ -2866,20 +2866,23 @@
         },
         "op":"added"
     },
-    "1026-43-e-3-i-C":{
+    "1026-43-e-2-iv-Interp-7-iii-A":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(C) For a loan amount greater than or equal to $20,000 (indexed for inflation) but less than $60,000 (indexed for inflation): 5 percent of the total loan amount;",
+            "text":"A loan in an amount of $200,000 has a 30-year loan term. The loan agreement provides for a discounted interest rate of 6 percent that is fixed for an initial period of five years, after which the interest rate will adjust annually based on a specified index plus a margin of 3 percent, subject to a 2 percent annual interest rate adjustment cap. The index value in effect at consummation is 4.5 percent. The loan consummates on March 15, 2014 and the first regular periodic payment is due May 1, 2014. Under the terms of the loan agreement, the first rate adjustment to no more than 8 percent (6 percent plus 2 percent annual interest rate adjustment cap) is on April 1, 2019 (the due date of the 60th monthly payment), which occurs less than five years after the date on which the first regular periodic payment will be due. Thus, the maximum interest rate under the terms of the loan during the first five years after the date on which the first regular periodic payment will be due is 8 percent.",
             "label":[
                 "1026",
                 "43",
                 "e",
-                "3",
-                "i",
-                "C"
+                "2",
+                "iv",
+                "Interp",
+                "7",
+                "iii",
+                "A"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -4087,6 +4090,35 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-32-a-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    17
+                ],
+                [
+                    "insert",
+                    6,
+                    "reverse"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    27,
+                    39
+                ],
+                [
+                    "insert",
+                    27,
+                    "transaction subject to \u00a7 1026.33;"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-d-1-i-A":{
         "node":{
@@ -5888,34 +5920,37 @@
         },
         "op":"added"
     },
-    "1026-32-a-2-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    6,
-                    17
-                ],
-                [
-                    "insert",
-                    6,
-                    "reverse"
-                ]
+    "1026-36-j-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(2) For purposes of this paragraph (j), \u201cdepository institution\u201d has the meaning in section 1503(3) of the SAFE Act, 12 U.S.C. 5102(3). For purposes of this paragraph (j), \u201csubsidiary\u201d has the meaning in section 3 of the Federal Deposit Insurance Act, 12 U.S.C. 1813.",
+            "label":[
+                "1026",
+                "36",
+                "j",
+                "2"
             ],
-            [
-                [
-                    "delete",
-                    27,
-                    39
-                ],
-                [
-                    "insert",
-                    27,
-                    "transaction subject to \u00a7 1026.33;"
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-36-j-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(1) A depository institution must establish and maintain written policies and procedures reasonably designed to ensure and monitor the compliance of the depository institution, its employees, its subsidiaries, and its subsidiaries' employees with the requirements of paragraphs (d), (e), (f), and (g) of this section. These written policies and procedures must be appropriate to the nature, size, complexity, and scope of the mortgage lending activities of the depository institution and its subsidiaries.",
+            "label":[
+                "1026",
+                "36",
+                "j",
+                "1"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-43-b-3-Interp":{
         "node":{
@@ -7669,23 +7704,20 @@
         },
         "op":"added"
     },
-    "1026-43-e-2-iv-Interp-7-iii-A":{
+    "1026-43-e-3-i-C":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"A loan in an amount of $200,000 has a 30-year loan term. The loan agreement provides for a discounted interest rate of 6 percent that is fixed for an initial period of five years, after which the interest rate will adjust annually based on a specified index plus a margin of 3 percent, subject to a 2 percent annual interest rate adjustment cap. The index value in effect at consummation is 4.5 percent. The loan consummates on March 15, 2014 and the first regular periodic payment is due May 1, 2014. Under the terms of the loan agreement, the first rate adjustment to no more than 8 percent (6 percent plus 2 percent annual interest rate adjustment cap) is on April 1, 2019 (the due date of the 60th monthly payment), which occurs less than five years after the date on which the first regular periodic payment will be due. Thus, the maximum interest rate under the terms of the loan during the first five years after the date on which the first regular periodic payment will be due is 8 percent.",
+            "text":"(C) For a loan amount greater than or equal to $20,000 (indexed for inflation) but less than $60,000 (indexed for inflation): 5 percent of the total loan amount;",
             "label":[
                 "1026",
                 "43",
                 "e",
-                "2",
-                "iv",
-                "Interp",
-                "7",
-                "iii",
-                "A"
+                "3",
+                "i",
+                "C"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -30647,14 +30679,17 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(j) [Reserved]",
+            "text":"(j) Policies and procedures to ensure and monitor compliance.",
             "label":[
                 "1026",
                 "36",
                 "j"
             ],
             "node_type":"regtext",
-            "child_labels":[]
+            "child_labels":[
+                "1026-36-j-1",
+                "1026-36-j-2"
+            ]
         },
         "op":"added"
     },
@@ -41381,7 +41416,7 @@
                 [
                     "insert",
                     4,
-                    "Scope.Section 1026.36(c)(1) and (c)(2) applies to closed-end consumer credit transactions secured by a consumer's principal dwelling. Section 1026.36(c)(3) applies to a consumer credit transaction, including home equity lines of credit under \u00a7 1026.40, secured by a consumer's dwelling. Paragraphs (h) and (i) of \u00a7 1026.36 apply to home equity lines of credit under \u00a7 1026.40 secured by a consumer's principal dwelling. Paragraphs (d), (e), (f), (g), (h), and (i) of \u00a7 1026.36 apply to closed-end consumer credit transactions secured by a dwelling. Closed-end consumer credit transactions include transactions secured by first or subordinate liens, and reverse mortgages that are not home equity lines of credit under \u00a7 1026.40. See \u00a7 1026.36(b) for additional restrictions on the scope of \u00a7 1026.36, and \u00a7\u00a7 1026.1(c) and 1026.3(a) and corresponding commentary for further discussion of extensions of credit subject to Regulation Z."
+                    "Scope.Paragraphs (c)(1) and (2) of this section apply to closed-end consumer credit transactions secured by a consumer\u2019s principal dwelling. Paragraph (c)(3) of this section applies to a consumer credit transaction secured by a dwelling. Paragraphs (d) through (i) of this section apply to closed-end consumer credit transactions secured by a dwelling. This section does not apply to a home equity line of credit subject to \u00a7 1026.40, except that paragraphs (h) and (i) of this section apply to such credit when secured by the consumer\u2019s principal dwelling and paragraph (c)(3) applies to such credit when secured by a dwelling. Paragraphs (d) through (i) of this section do not apply to a loan that is secured by a consumer\u2019s interest in a timeshare plan described in 11 U.S.C.101(53D)."
                 ]
             ]
         ],
