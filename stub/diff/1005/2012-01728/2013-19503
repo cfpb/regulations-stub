@@ -104,7 +104,7 @@
     "1005-A-35-p119":{
         "op":"deleted"
     },
-    "1005-A-34-h4-p86":{
+    "1005-A-31-h2-p29":{
         "op":"deleted"
     },
     "1005-A-35-p115":{
@@ -3296,13 +3296,13 @@
             [
                 [
                     "delete",
-                    49,
+                    14,
                     60
                 ],
                 [
                     "insert",
-                    49,
-                    "countries\u2014 \u2014"
+                    14,
+                    "exceptions \u2014 \u2014"
                 ]
             ]
         ],
@@ -3737,6 +3737,28 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1005-33-a-Interp-3-iii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    282,
+                    284
+                ],
+                [
+                    "insert",
+                    282,
+                    "in"
+                ]
+            ],
+            [
+                "insert",
+                319,
+                "covered third-party "
+            ]
+        ],
+        "op":"modified"
     },
     "1005-33-c-Interp-12-i":{
         "node":{
@@ -4505,7 +4527,7 @@
     "1005-A-31-h2-p26":{
         "op":"deleted"
     },
-    "1005-A-31-h2-p29":{
+    "1005-A-34-h4-p86":{
         "op":"deleted"
     },
     "1005-A-34-h4-p87":{
@@ -5616,6 +5638,62 @@
         },
         "op":"added"
     },
+    "1005-33-a-Interp-3-ii":{
+        "text":[
+            [
+                "insert",
+                261,
+                "the "
+            ],
+            [
+                [
+                    "delete",
+                    299,
+                    306
+                ],
+                [
+                    "insert",
+                    299,
+                    "collected"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    326,
+                    343
+                ],
+                [
+                    "insert",
+                    326,
+                    "transfer but does include"
+                ]
+            ],
+            [
+                "insert",
+                348,
+                "statement required by \u00a7\u20091005.31(b)(1)(viii). If the "
+            ],
+            [
+                "insert",
+                444,
+                "solely "
+            ],
+            [
+                [
+                    "delete",
+                    470,
+                    479
+                ],
+                [
+                    "insert",
+                    470,
+                    "taxes that the provider was not required to disclose, no"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1005-A-35-p117":{
         "op":"deleted"
     },
@@ -5676,22 +5754,34 @@
         ],
         "op":"modified"
     },
-    "1005-36-a-1-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(ii) If any of the disclosures provided pursuant to paragraph (a)(1)(i) of this section contain estimates as permitted by \u00a7 1005.32(b)(2), mail or deliver to the sender an additional receipt meeting the requirements described in \u00a7 1005.31(b)(2) no later than one business day after the date of the transfer. If the transfer involves the transfer of funds from the sender's account held by the provider, the receipt required by this paragraph may be provided on or with the next periodic statement for that account, or within 30 days after the date of the transfer if a periodic statement is not provided.",
-            "label":[
-                "1005",
-                "36",
-                "a",
-                "1",
-                "ii"
+    "1005-33-c-2-ii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    5,
+                    7
+                ],
+                [
+                    "insert",
+                    5,
+                    "Except as provided in paragraph (c)(2)(iii) of this section, in"
+                ]
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    64,
+                    72
+                ],
+                [
+                    "insert",
+                    64,
+                    "section"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-30-f-Interp-2-i":{
         "node":{
@@ -6402,6 +6492,24 @@
         },
         "op":"added"
     },
+    "1005-33-a-1-iv-D":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(D) The sender having provided the remittance transfer provider an incorrect account number or recipient institution identifier for the designated recipient's account or institution, provided that the remittance transfer provider meets the conditions set forth in paragraph (h) of this section;",
+            "label":[
+                "1005",
+                "33",
+                "a",
+                "1",
+                "iv",
+                "D"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-32-c-1-Interp-1":{
         "text":[
             [
@@ -6452,7 +6560,7 @@
                 [
                     "insert",
                     4,
-                    "General.Permanent exception"
+                    "Permanent exception"
                 ]
             ],
             [
@@ -6563,6 +6671,90 @@
                 "insert",
                 0,
                 "Sender account number or recipient institution identifier error."
+            ]
+        ],
+        "op":"modified"
+    },
+    "1005-33-a-Interp-4":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    9
+                ],
+                [
+                    "insert",
+                    0,
+                    "Under \u00a7\u20091005.33(a)(1)(iii)(B), a remittance transfer provider's failure to make available to a designated recipient the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    29,
+                    118
+                ],
+                [
+                    "insert",
+                    29,
+                    "disclosed pursuant to \u00a7\u20091005.31(b)(1)(vii) and stated in the disclosure provided pursuant to \u00a7\u20091005.31(b)(2) or (3) for the remittance transfer is not an error if such failure was caused by extraordinary circumstances outside the remittance transfer"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    130,
+                    182
+                ],
+                [
+                    "insert",
+                    130,
+                    "control that could not have been reasonably anticipated. Examples of extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated under \u00a7\u20091005.33(a)(1)(iii)(B) include circumstances such as war or civil unrest, natural disaster, garnishment or attachment of some of the funds after the transfer is sent, and government actions or restrictions that could not have been reasonably anticipated"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    190,
+                    220
+                ],
+                [
+                    "insert",
+                    190,
+                    "remittance transfer provider, such as the imposition of foreign currency controls or foreign taxes unknown at the time the receipt or combined disclosure"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    224,
+                    533
+                ],
+                [
+                    "insert",
+                    224,
+                    "provided"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    540,
+                    991
+                ],
+                [
+                    "insert",
+                    540,
+                    "\u00a7\u20091005.31(b)(2) or"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Incorrect amount of currency received\u2014extraordinary circumstances."
             ]
         ],
         "op":"modified"
@@ -6817,34 +7009,22 @@
         },
         "op":"added"
     },
-    "1005-33-c-2-ii":{
-        "text":[
-            [
-                [
-                    "delete",
-                    5,
-                    7
-                ],
-                [
-                    "insert",
-                    5,
-                    "Except as provided in paragraph (c)(2)(iii) of this section, in"
-                ]
+    "1005-36-a-1-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(ii) If any of the disclosures provided pursuant to paragraph (a)(1)(i) of this section contain estimates as permitted by \u00a7 1005.32(b)(2), mail or deliver to the sender an additional receipt meeting the requirements described in \u00a7 1005.31(b)(2) no later than one business day after the date of the transfer. If the transfer involves the transfer of funds from the sender's account held by the provider, the receipt required by this paragraph may be provided on or with the next periodic statement for that account, or within 30 days after the date of the transfer if a periodic statement is not provided.",
+            "label":[
+                "1005",
+                "36",
+                "a",
+                "1",
+                "ii"
             ],
-            [
-                [
-                    "delete",
-                    64,
-                    72
-                ],
-                [
-                    "insert",
-                    64,
-                    "section"
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-36-a-2-Interp":{
         "node":{
@@ -6920,13 +7100,13 @@
             [
                 [
                     "delete",
-                    9,
+                    4,
                     58
                 ],
                 [
                     "insert",
-                    9,
-                    "harbor.Permanent exception for transfers scheduled before"
+                    4,
+                    "Permanent exception for transfers scheduled before"
                 ]
             ],
             [

@@ -102,6 +102,28 @@
     "1005-A-34-p9":{
         "op":"deleted"
     },
+    "1005-33-a-Interp-3-iii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    282,
+                    284
+                ],
+                [
+                    "insert",
+                    282,
+                    "on"
+                ]
+            ],
+            [
+                "delete",
+                319,
+                339
+            ]
+        ],
+        "op":"modified"
+    },
     "1005-A-41-p1":{
         "node":{
             "tagged_text":null,
@@ -1298,6 +1320,33 @@
     "1005-A-33-p8":{
         "op":"deleted"
     },
+    "1005-33-a-Interp-3-ii":{
+        "text":[
+            [
+                "insert",
+                261,
+                "additional foreign taxes that will be imposed in Colombia on "
+            ],
+            [
+                "insert",
+                265,
+                "transfer. Because the designated recipient will receive less than the amount of currency disclosed on the receipt due to the "
+            ],
+            [
+                [
+                    "delete",
+                    284,
+                    599
+                ],
+                [
+                    "insert",
+                    284,
+                    "taxes, an"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1005-33-h-Interp-2-ii":{
         "op":"deleted"
     },
@@ -1661,7 +1710,7 @@
     "1005-33-h-4":{
         "op":"deleted"
     },
-    "1005-30-h-Interp-2-ii-A":{
+    "1005-33-h-5":{
         "op":"deleted"
     },
     "1005-A-30-p1":{
@@ -1742,8 +1791,21 @@
         },
         "op":"added"
     },
-    "1005-33-h-5":{
-        "op":"deleted"
+    "1005-A-30-p2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"1000 XYZ Avenue",
+            "label":[
+                "1005",
+                "A",
+                "30",
+                "p2"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-30-h-Interp-1":{
         "op":"deleted"
@@ -2249,22 +2311,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1005-A-30-p2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"1000 XYZ Avenue",
-            "label":[
-                "1005",
-                "A",
-                "30",
-                "p2"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1005-32-b-3-Interp":{
         "op":"deleted"
@@ -3007,6 +3053,9 @@
     "1005-33-a-Interp-10":{
         "op":"deleted"
     },
+    "1005-33-a-1-iv-D":{
+        "op":"deleted"
+    },
     "1005-32-c-3":{
         "text":[
             [
@@ -3028,6 +3077,9 @@
         "op":"modified"
     },
     "1005-A-30(a)-p1":{
+        "op":"deleted"
+    },
+    "1005-30-h-Interp-2-ii-A":{
         "op":"deleted"
     },
     "1005-33-c-Interp-2-i":{
@@ -3114,6 +3166,93 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1005-33-a-Interp-4":{
+        "text":[
+            [
+                "insert",
+                0,
+                "Incorrect amount of currency received\u2014extraordinary circumstances. "
+            ],
+            [
+                [
+                    "delete",
+                    6,
+                    30
+                ],
+                [
+                    "insert",
+                    6,
+                    "\u00a7 1005.33(a)(1)(iv)(B),"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    75,
+                    92
+                ],
+                [
+                    "insert",
+                    75,
+                    "deliver or transmit"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    95,
+                    129
+                ],
+                [
+                    "insert",
+                    95,
+                    "remittance transfer by the disclosed date of availability is not an error if such failure was caused by extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated. Examples of extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated under \u00a7 1005.33(a)(1)(iv)(B) include circumstances such as war or civil unrest, natural disaster, garnishment or attachment of some of the funds after the transfer is sent, and government actions or restrictions that could not have been reasonably anticipated by the remittance transfer provider, such as the imposition of foreign"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    139,
+                    199
+                ],
+                [
+                    "insert",
+                    139,
+                    "controls or foreign taxes unknown at the time the receipt or combined"
+                ]
+            ],
+            [
+                "insert",
+                211,
+                "is "
+            ],
+            [
+                "delete",
+                220,
+                596
+            ],
+            [
+                [
+                    "delete",
+                    602,
+                    1054
+                ],
+                [
+                    "insert",
+                    602,
+                    "\u00a7 1005.31(b)(2) or"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                66
+            ]
+        ],
+        "op":"modified"
     },
     "1005-33-a-Interp-9":{
         "op":"deleted"

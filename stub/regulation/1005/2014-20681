@@ -6185,7 +6185,7 @@
                                         "1"
                                     ],
                                     "node_type":"regtext",
-                                    "text":"(1) General.Permanent exception for transfers to certain countries.",
+                                    "text":"(1) Permanent exception for transfers to certain countries.",
                                     "marker":"(1)"
                                 },
                                 {
@@ -6237,7 +6237,7 @@
                                         "2"
                                     ],
                                     "node_type":"regtext",
-                                    "text":"(2) Safe harbor.Permanent exception for transfers scheduled before the date of transfer.",
+                                    "text":"(2) Permanent exception for transfers scheduled before the date of transfer.",
                                     "marker":"(2)"
                                 }
                             ],
@@ -6247,7 +6247,7 @@
                                 "b"
                             ],
                             "node_type":"regtext",
-                            "text":"(b) Permanent exception for transfers to certain countries\u2014 \u2014",
+                            "text":"(b) Permanent exceptions \u2014 \u2014",
                             "marker":"(b)"
                         },
                         {
@@ -6557,6 +6557,20 @@
                                                     "node_type":"regtext",
                                                     "text":"(C) The remittance transfer being made with fraudulent intent by the sender or any person acting in concert with the sender; or",
                                                     "marker":"(C)"
+                                                },
+                                                {
+                                                    "children":[],
+                                                    "label":[
+                                                        "1005",
+                                                        "33",
+                                                        "a",
+                                                        "1",
+                                                        "iv",
+                                                        "D"
+                                                    ],
+                                                    "node_type":"regtext",
+                                                    "text":"(D) The sender having provided the remittance transfer provider an incorrect account number or recipient institution identifier for the designated recipient's account or institution, provided that the remittance transfer provider meets the conditions set forth in paragraph (h) of this section;",
+                                                    "marker":"(D)"
                                                 }
                                             ],
                                             "label":[
@@ -20960,7 +20974,7 @@
                                                 "ii"
                                             ],
                                             "node_type":"interp",
-                                            "text":"A consumer requests to send funds to a relative in Colombia to be received in local currency. The remittance transfer provider provides the sender a receipt stating an amount of currency that will be received by the designated recipient, which does not reflect additional foreign taxes that will be imposed in Colombia on the transfer. Because the designated recipient will receive less than the amount of currency disclosed on the receipt due to the additional foreign taxes, an error has occurred.",
+                                            "text":"A consumer requests to send funds to a relative in Colombia to be received in local currency. The remittance transfer provider provides the sender a receipt stating an amount of currency that will be received by the designated recipient, which does not reflect the additional foreign taxes that will be collected in Colombia on the transfer but does include the statement required by \u00a7\u20091005.31(b)(1)(viii). If the designated recipient will receive less than the amount of currency disclosed on the receipt due solely to the additional foreign taxes that the provider was not required to disclose, no error has occurred.",
                                             "marker":"ii."
                                         },
                                         {
@@ -20974,7 +20988,7 @@
                                                 "iii"
                                             ],
                                             "node_type":"interp",
-                                            "text":"Same facts as in ii., except that the receipt provided by the remittance transfer provider does not reflect additional fees that are imposed by the receiving agent in Colombia on the transfer. Because the designated recipient will receive less than the amount of currency disclosed on the receipt due to the additional fees, an error has occurred.",
+                                            "text":"Same facts as in ii., except that the receipt provided by the remittance transfer provider does not reflect additional fees that are imposed by the receiving agent in Colombia on the transfer. Because the designated recipient will receive less than the amount of currency disclosed in the receipt due to the additional covered third-party fees, an error has occurred.",
                                             "marker":"iii."
                                         },
                                         {
@@ -21027,7 +21041,8 @@
                                         "4"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Incorrect amount of currency received\u2014extraordinary circumstances. Under \u00a7 1005.33(a)(1)(iv)(B), a remittance transfer provider's failure to deliver or transmit a remittance transfer by the disclosed date of availability is not an error if such failure was caused by extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated. Examples of extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated under \u00a7 1005.33(a)(1)(iv)(B) include circumstances such as war or civil unrest, natural disaster, garnishment or attachment of some of the funds after the transfer is sent, and government actions or restrictions that could not have been reasonably anticipated by the remittance transfer provider, such as the imposition of foreign currency controls or foreign taxes unknown at the time the receipt or combined disclosure is provided under \u00a7 1005.31(b)(2) or (3).",
+                                    "text":"Under \u00a7\u20091005.33(a)(1)(iii)(B), a remittance transfer provider's failure to make available to a designated recipient the amount of currency disclosed pursuant to \u00a7\u20091005.31(b)(1)(vii) and stated in the disclosure provided pursuant to \u00a7\u20091005.31(b)(2) or (3) for the remittance transfer is not an error if such failure was caused by extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated. Examples of extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated under \u00a7\u20091005.33(a)(1)(iii)(B) include circumstances such as war or civil unrest, natural disaster, garnishment or attachment of some of the funds after the transfer is sent, and government actions or restrictions that could not have been reasonably anticipated by the remittance transfer provider, such as the imposition of foreign currency controls or foreign taxes unknown at the time the receipt or combined disclosure is provided under \u00a7\u20091005.31(b)(2) or (3).",
+                                    "title":"Incorrect amount of currency received\u2014extraordinary circumstances.",
                                     "marker":"4."
                                 },
                                 {
