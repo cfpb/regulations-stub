@@ -5482,6 +5482,9 @@
         },
         "op":"added"
     },
+    "1005-33-c-2-iii":{
+        "op":"deleted"
+    },
     "1005-31-a-5-iii":{
         "text":[
             [
@@ -5631,22 +5634,34 @@
         ],
         "op":"modified"
     },
-    "1005-36-a-1-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(ii) If any of the disclosures provided pursuant to paragraph (a)(1)(i) of this section contain estimates as permitted by \u00a7 1005.32(b)(2), mail or deliver to the sender an additional receipt meeting the requirements described in \u00a7 1005.31(b)(2) no later than one business day after the date of the transfer. If the transfer involves the transfer of funds from the sender's account held by the provider, the receipt required by this paragraph may be provided on or with the next periodic statement for that account, or within 30 days after the date of the transfer if a periodic statement is not provided.",
-            "label":[
-                "1005",
-                "36",
-                "a",
-                "1",
-                "ii"
+    "1005-33-c-2-ii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    5,
+                    7
+                ],
+                [
+                    "insert",
+                    5,
+                    "Except as provided in paragraph (c)(2)(iii) of this section, in"
+                ]
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    64,
+                    72
+                ],
+                [
+                    "insert",
+                    64,
+                    "section"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-30-f-Interp-2-i":{
         "node":{
@@ -6874,34 +6889,39 @@
         },
         "op":"added"
     },
-    "1005-33-c-2-ii":{
-        "text":[
-            [
-                [
-                    "delete",
-                    5,
-                    7
-                ],
-                [
-                    "insert",
-                    5,
-                    "Except as provided in paragraph (c)(2)(iii) of this section, in"
-                ]
+    "1005-36-a-1-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(ii) If any of the disclosures provided pursuant to paragraph (a)(1)(i) of this section contain estimates as permitted by \u00a7 1005.32(b)(2), mail or deliver to the sender an additional receipt meeting the requirements described in \u00a7 1005.31(b)(2) no later than one business day after the date of the transfer. If the transfer involves the transfer of funds from the sender's account held by the provider, the receipt required by this paragraph may be provided on or with the next periodic statement for that account, or within 30 days after the date of the transfer if a periodic statement is not provided.",
+            "label":[
+                "1005",
+                "36",
+                "a",
+                "1",
+                "ii"
             ],
-            [
-                [
-                    "delete",
-                    64,
-                    72
-                ],
-                [
-                    "insert",
-                    64,
-                    "section"
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-33-c-2-iv":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(iv) In the case of a request under paragraph (a)(1)(v) of this section, providing the requested documentation, information, or clarification.",
+            "label":[
+                "1005",
+                "33",
+                "c",
+                "2",
+                "iv"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-36-a-2-Interp":{
         "node":{

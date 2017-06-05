@@ -3214,7 +3214,8 @@
             "child_labels":[
                 "1005-33-c-2-i",
                 "1005-33-c-2-ii",
-                "1005-33-c-2-iii"
+                "1005-33-c-2-iii",
+                "1005-33-c-2-iv"
             ]
         },
         "op":"added"
@@ -9522,18 +9523,17 @@
         },
         "op":"added"
     },
-    "1005-30-f-Interp-2-iv":{
+    "1005-30-b-Interp-3":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Example of safe harbor and transition period. Assume that a person provided 90 remittance transfers in 2012 and 90 such transfers in 2013. The safe harbor will apply to the person's transfers in 2013, as well as the person's first 100 remittance transfers in 2014. However, if the person provides a 101st transfer on September 5, the facts and circumstances determine whether the person provides remittance transfers in the normal course of business and is thus a remittance transfer provider for the 101st and any subsequent remittance transfers that it provides in 2014. Furthermore, the person would not qualify for the safe harbor described in \u00a7 1005.30(f)(2)(i) in 2015 because the person did not provide 100 or fewer remittance transfers in 2014. However, for the 101st remittance transfer provided in 2014, as well as additional remittance transfers provided thereafter in 2014 and 2015, if that person is then providing remittance transfers for a consumer in the normal course of business, the person will have a reasonable period of time, not to exceed six months, to come into compliance with subpart B. Assume that in this case, a reasonable period of time is six months. Thus, compliance with subpart B is not required for remittance transfers made on or before March 5, 2015 (i.e., six months after September 5, 2014). After March 5, 2015, the person is required to comply with subpart B if, based on the facts and circumstances, the person provides remittance transfers in the normal course of business and is thus a remittance transfer provider.",
+            "text":"Short hours. A provider may determine, at its election, whether an abbreviated day is a business day. For example, if a provider engages in substantially all business functions until noon on Saturdays instead of its usual 3 p.m. closing, it may consider Saturday a business day.",
             "label":[
                 "1005",
                 "30",
-                "f",
+                "b",
                 "Interp",
-                "2",
-                "iv"
+                "3"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -10003,6 +10003,23 @@
     "1005-16-c-2":{
         "op":"deleted"
     },
+    "1005-33-c-2-iv":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(iv) In the case of a request under paragraph (a)(1)(v) of this section, providing the requested documentation, information, or clarification.",
+            "label":[
+                "1005",
+                "33",
+                "c",
+                "2",
+                "iv"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-16-c-1":{
         "op":"deleted"
     },
@@ -10100,17 +10117,18 @@
         },
         "op":"added"
     },
-    "1005-30-b-Interp-3":{
+    "1005-30-f-Interp-2-iv":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Short hours. A provider may determine, at its election, whether an abbreviated day is a business day. For example, if a provider engages in substantially all business functions until noon on Saturdays instead of its usual 3 p.m. closing, it may consider Saturday a business day.",
+            "text":"Example of safe harbor and transition period. Assume that a person provided 90 remittance transfers in 2012 and 90 such transfers in 2013. The safe harbor will apply to the person's transfers in 2013, as well as the person's first 100 remittance transfers in 2014. However, if the person provides a 101st transfer on September 5, the facts and circumstances determine whether the person provides remittance transfers in the normal course of business and is thus a remittance transfer provider for the 101st and any subsequent remittance transfers that it provides in 2014. Furthermore, the person would not qualify for the safe harbor described in \u00a7 1005.30(f)(2)(i) in 2015 because the person did not provide 100 or fewer remittance transfers in 2014. However, for the 101st remittance transfer provided in 2014, as well as additional remittance transfers provided thereafter in 2014 and 2015, if that person is then providing remittance transfers for a consumer in the normal course of business, the person will have a reasonable period of time, not to exceed six months, to come into compliance with subpart B. Assume that in this case, a reasonable period of time is six months. Thus, compliance with subpart B is not required for remittance transfers made on or before March 5, 2015 (i.e., six months after September 5, 2014). After March 5, 2015, the person is required to comply with subpart B if, based on the facts and circumstances, the person provides remittance transfers in the normal course of business and is thus a remittance transfer provider.",
             "label":[
                 "1005",
                 "30",
-                "b",
+                "f",
                 "Interp",
-                "3"
+                "2",
+                "iv"
             ],
             "node_type":"interp",
             "child_labels":[]
