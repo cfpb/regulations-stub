@@ -246,28 +246,6 @@
         },
         "op":"added"
     },
-    "1024-41-d-1-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"",
-            "label":[
-                "1024",
-                "41",
-                "d",
-                "1",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-41-d-1-Interp-1",
-                "1024-41-d-1-Interp-2",
-                "1024-41-d-1-Interp-3",
-                "1024-41-d-Interp-4"
-            ]
-        },
-        "op":"added"
-    },
     "1024-40-b-1-iv":{
         "node":{
             "tagged_text":null,
@@ -824,21 +802,22 @@
         },
         "op":"added"
     },
-    "1024-35-b-Interp":{
+    "1024-36-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"35(b) Scope of error resolution.",
+            "title":"\u00a7 1024.36\u2014Requests for Information",
             "text":"",
             "label":[
                 "1024",
-                "35",
-                "b",
+                "36",
                 "Interp"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-35-b-Interp-1",
-                "1024-35-b-Interp-2"
+                "1024-36-a-Interp",
+                "1024-36-b-Interp",
+                "1024-36-d-Interp",
+                "1024-36-f-Interp"
             ]
         },
         "op":"added"
@@ -2022,6 +2001,26 @@
             ],
             "node_type":"regtext",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-g-3-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 41(g)(3).",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "g",
+                "3",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-g-3-Interp-1",
+                "1024-41-g-3-Interp-2"
+            ]
         },
         "op":"added"
     },
@@ -3223,7 +3222,10 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-41-d-1-Interp"
+                "1024-41-d-Interp-1",
+                "1024-41-d-Interp-2",
+                "1024-41-d-Interp-3",
+                "1024-41-d-Interp-4"
             ]
         },
         "op":"added"
@@ -4601,6 +4603,25 @@
             ],
             "node_type":"appendix",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-d-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Net present value calculation.If a trial or permanent loan modification is denied because of a net present value calculation, the specific reasons in the notice provided to the borrower must include the inputs used in the net present value calculation.",
+            "label":[
+                "1024",
+                "41",
+                "d",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-d-1-Interp-2-p1"
+            ]
         },
         "op":"added"
     },
@@ -6572,7 +6593,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) In general.Except as set forth in paragraph (c)(2)(ii) of this section, a servicer shall not evade the requirement to evaluate a complete loss mitigation option for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation application.",
+            "text":"(i) In general.Except as set forth in paragraph (c)(2)(ii) of this section, a servicer shall not evade the requirement to evaluate a complete loss mitigation application for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation application.",
             "label":[
                 "1024",
                 "41",
@@ -7755,24 +7776,6 @@
         },
         "op":"added"
     },
-    "1024-41-d-1-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Determination not to offer a loan modification option constitutes a denial.A servicer's determination not to offer a borrower a loan modification available to the borrower constitutes a denial of the borrower for that loan modification option, notwithstanding whether a servicer offers a borrower a different loan modification option or other loss mitigation option.",
-            "label":[
-                "1024",
-                "41",
-                "d",
-                "1",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-41-b-3-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -8679,23 +8682,20 @@
         },
         "op":"added"
     },
-    "1024-41-g-3-Interp":{
+    "1024-41-d-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Paragraph 41(g)(3).",
-            "text":"",
+            "title":null,
+            "text":"Investor requirements.If a trial or permanent loan modification option is denied because of a requirement of an owner or assignee of a mortgage loan, the specific reasons in the notice provided to the borrower must identify the owner or assignee of the mortgage loan and the requirement that is the basis of the denial. A statement that the denial of a loan modification option is based on an investor requirement, without additional information specifically identifying the relevant investor or guarantor and the specific applicable requirement, is insufficient. However, where an owner or assignee has established an evaluation criteria that sets an order ranking for evaluation of loan modification options (commonly known as a waterfall) and a borrower has qualified for a particular loan modification option in the ranking established by the owner or assignee, it is sufficient for the servicer to inform the borrower, with respect to other loan modification options ranked below any such option offered to a borrower, that the investor's requirements include the use of such a ranking and that an offer of a loan modification option necessarily results in a denial for any other loan modification options below the option for which the borrower is eligible in the ranking.",
             "label":[
                 "1024",
                 "41",
-                "g",
-                "3",
-                "Interp"
+                "d",
+                "Interp",
+                "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-41-g-3-Interp-1",
-                "1024-41-g-3-Interp-2"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -9600,19 +9600,22 @@
     "1024-21-d-2-iii":{
         "op":"deleted"
     },
-    "1024-41-d-1":{
+    "1024-35-b-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(1) The specific reasons for the servicer's determination for each such trial or permanent loan modification option; and",
+            "title":"35(b) Scope of error resolution.",
+            "text":"",
             "label":[
                 "1024",
-                "41",
-                "d",
-                "1"
+                "35",
+                "b",
+                "Interp"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1024-35-b-Interp-1",
+                "1024-35-b-Interp-2"
+            ]
         },
         "op":"added"
     },
@@ -12246,24 +12249,6 @@
         },
         "op":"added"
     },
-    "1024-41-d-1-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Investor requirements.If a trial or permanent loan modification option is denied because of a requirement of an owner or assignee of a mortgage loan, the specific reasons in the notice provided to the borrower must identify the owner or assignee of the mortgage loan and the requirement that is the basis of the denial. A statement that the denial of a loan modification option is based on an investor requirement, without additional information specifically identifying the relevant investor or guarantor and the specific applicable requirement, is insufficient. However, where an owner or assignee has established an evaluation criteria that sets an order ranking for evaluation of loan modification options (commonly known as a waterfall) and a borrower has qualified for a particular loan modification option in the ranking established by the owner or assignee, it is sufficient for the servicer to inform the borrower, with respect to other loan modification options ranked below any such option offered to a borrower, that the investor's requirements include the use of such a ranking and that an offer of a loan modification option necessarily results in a denial for any other loan modification options below the option for which the borrower is eligible in the ranking.",
-            "label":[
-                "1024",
-                "41",
-                "d",
-                "1",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-33-b-3-ii":{
         "node":{
             "tagged_text":null,
@@ -12929,26 +12914,6 @@
         },
         "op":"added"
     },
-    "1024-41-d-1-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Net present value calculation.If a trial or permanent loan modification is denied because of a net present value calculation, the specific reasons in the notice provided to the borrower must include the inputs used in the net present value calculation.",
-            "label":[
-                "1024",
-                "41",
-                "d",
-                "1",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-41-d-1-Interp-2-p1"
-            ]
-        },
-        "op":"added"
-    },
     "1024-36-d-2-i-B":{
         "node":{
             "tagged_text":null,
@@ -13378,10 +13343,7 @@
                 "d"
             ],
             "node_type":"regtext",
-            "child_labels":[
-                "1024-41-d-1",
-                "1024-41-d-2"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -14922,26 +14884,6 @@
     "1024-MS2-h1-h2-p10":{
         "op":"deleted"
     },
-    "1024-36-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"\u00a7 1024.36\u2014Requests for Information",
-            "text":"",
-            "label":[
-                "1024",
-                "36",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-36-a-Interp",
-                "1024-36-b-Interp",
-                "1024-36-d-Interp",
-                "1024-36-f-Interp"
-            ]
-        },
-        "op":"added"
-    },
     "1024-38-b-1-v":{
         "node":{
             "tagged_text":null,
@@ -15163,22 +15105,6 @@
                 "41",
                 "b",
                 "3"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-41-d-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) If applicable pursuant to paragraph (h) of this section, that the borrower may appeal the servicer's determination for any such trial or permanent loan modification option, the deadline for the borrower to make an appeal, and any requirements for making an appeal.",
-            "label":[
-                "1024",
-                "41",
-                "d",
-                "2"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -16012,6 +15938,23 @@
                 "a",
                 "Interp",
                 "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-d-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Determination not to offer a loan modification option constitutes a denial.A servicer's determination not to offer a borrower a loan modification available to the borrower constitutes a denial of the borrower for that loan modification option, notwithstanding whether a servicer offers a borrower a different loan modification option or other loss mitigation option.",
+            "label":[
+                "1024",
+                "41",
+                "d",
+                "Interp",
+                "3"
             ],
             "node_type":"interp",
             "child_labels":[]
