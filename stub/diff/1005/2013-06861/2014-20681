@@ -1186,23 +1186,6 @@
         },
         "op":"added"
     },
-    "1005-33-c-Interp-7":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Remedies for incorrect amount paid. If an error under \u00a7 1005.33(a)(1)(i) occurred, the sender may request the remittance transfer provider refund the amount necessary to resolve the error under \u00a7 1005.33(c)(2)(i)(A) or that the remittance transfer provider make the amount necessary to resolve the error available to the designated recipient at no additional cost under \u00a7 1005.33(c)(2)(i)(B).",
-            "label":[
-                "1005",
-                "33",
-                "c",
-                "Interp",
-                "7"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-33-b-1-i":{
         "node":{
             "tagged_text":null,
@@ -1774,21 +1757,19 @@
         },
         "op":"added"
     },
-    "1005-32-c-3":{
+    "1005-A-30(b)":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(3) Other fees.Covered third-party fees.",
+            "title":"A-30(b)\u2014Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(1))",
+            "text":"",
             "label":[
                 "1005",
-                "32",
-                "c",
-                "3"
+                "A",
+                "30(b)"
             ],
-            "node_type":"regtext",
+            "node_type":"appendix",
             "child_labels":[
-                "1005-32-c-3-i",
-                "1005-32-c-3-ii"
+                "1005-A-30(b)-p2"
             ]
         },
         "op":"added"
@@ -2011,19 +1992,24 @@
         },
         "op":"added"
     },
-    "1005-A-38-p13":{
+    "1005-33-a-1-iii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"![](ER22MY13.254)",
+            "text":"(iii) The failure to make available to a designated recipient the amount of currency disclosed pursuant to \u00a7 1005.31(b)(1)(vii) and stated in the disclosure provided to the sender under \u00a7 1005.31(b)(2) or (3) for the remittance transfer, unless:",
             "label":[
                 "1005",
-                "A",
-                "38",
-                "p13"
+                "33",
+                "a",
+                "1",
+                "iii"
             ],
-            "node_type":"appendix",
-            "child_labels":[]
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-33-a-1-iii-A",
+                "1005-33-a-1-iii-B",
+                "1005-33-a-1-iii-C"
+            ]
         },
         "op":"added"
     },
@@ -2534,20 +2520,21 @@
         },
         "op":"added"
     },
-    "1005-A-32":{
+    "1005-32":{
         "node":{
             "tagged_text":null,
-            "title":"A-32\u2014Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(3))",
+            "title":"\u00a7 1005.32 Estimates.",
             "text":"",
             "label":[
                 "1005",
-                "A",
                 "32"
             ],
-            "node_type":"appendix",
+            "node_type":"regtext",
             "child_labels":[
-                "1005-A-32-p6",
-                "1005-A-32-p7"
+                "1005-32-a",
+                "1005-32-b",
+                "1005-32-c",
+                "1005-32-d"
             ]
         },
         "op":"added"
@@ -2889,24 +2876,53 @@
         },
         "op":"added"
     },
-    "1005-30-h-Interp-2-ii":{
+    "1005-Subpart-A-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Examples of covered third-party fees include:",
+            "title":"Supplement I to Part 1005\u2014Official Interpretations",
+            "text":"",
             "label":[
                 "1005",
-                "30",
-                "h",
-                "Interp",
-                "2",
-                "ii"
+                "Subpart",
+                "A",
+                "Interp"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1005-30-h-Interp-2-ii-A",
-                "1005-30-h-Interp-2-ii-B"
+                "1005-2-Interp",
+                "1005-3-Interp",
+                "1005-4-Interp",
+                "1005-5-Interp",
+                "1005-6-Interp",
+                "1005-7-Interp",
+                "1005-8-Interp",
+                "1005-9-Interp",
+                "1005-10-Interp",
+                "1005-11-Interp",
+                "1005-12-Interp",
+                "1005-13-Interp",
+                "1005-14-Interp",
+                "1005-17-Interp",
+                "1005-18-Interp",
+                "1005-20-Interp"
             ]
+        },
+        "op":"added"
+    },
+    "1005-30-g-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Determining whether a consumer is located in a State. Under \u00a7 1005.30(g), the definition of \u201csender\u201d means a consumer in a State who, primarily for personal, family, or household purposes, requests a remittance transfer provider to send a remittance transfer to a designated recipient. A sender located on a U.S. military installation that is physically located in a foreign country is located in a State. For transfers from a consumer's account, whether a consumer is located in a State depends on where the consumer's account is located. If the account iaccount is located in a State, the consumerconsumer will be located in a State for purposes of the definition of \u201csender\u201d in \u00a7 1005.30(g), notwithstanding comment 3(a)-3. Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State. Where a transfer is requested electronically or by telephone and the transfer is not from an account, the provider may make the determination of whether a consumer is located in a State based on information that is provided by the consumer and on any records associated with the consumer that the provider may have, such as an address provided by the consumer.",
+            "label":[
+                "1005",
+                "30",
+                "g",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -3217,6 +3233,9 @@
         },
         "op":"added"
     },
+    "1005-Interp":{
+        "op":"deleted"
+    },
     "1005-36-c-Interp":{
         "node":{
             "tagged_text":null,
@@ -3397,24 +3416,19 @@
         },
         "op":"added"
     },
-    "1005-33-a-1-iii":{
+    "1005-A-38-p13":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(iii) The failure to make available to a designated recipient the amount of currency disclosed pursuant to \u00a7 1005.31(b)(1)(vii) and stated in the disclosure provided to the sender under \u00a7 1005.31(b)(2) or (3) for the remittance transfer, unless:",
+            "text":"![](ER22MY13.254)",
             "label":[
                 "1005",
-                "33",
-                "a",
-                "1",
-                "iii"
+                "A",
+                "38",
+                "p13"
             ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1005-33-a-1-iii-A",
-                "1005-33-a-1-iii-B",
-                "1005-33-a-1-iii-C"
-            ]
+            "node_type":"appendix",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -3544,22 +3558,20 @@
         },
         "op":"added"
     },
-    "1005-32":{
+    "1005-33-c-Interp-7":{
         "node":{
             "tagged_text":null,
-            "title":"\u00a7 1005.32 Estimates.",
-            "text":"",
+            "title":null,
+            "text":"Remedies for incorrect amount paid. If an error under \u00a7 1005.33(a)(1)(i) occurred, the sender may request the remittance transfer provider refund the amount necessary to resolve the error under \u00a7 1005.33(c)(2)(i)(A) or that the remittance transfer provider make the amount necessary to resolve the error available to the designated recipient at no additional cost under \u00a7 1005.33(c)(2)(i)(B).",
             "label":[
                 "1005",
-                "32"
+                "33",
+                "c",
+                "Interp",
+                "7"
             ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1005-32-a",
-                "1005-32-b",
-                "1005-32-c",
-                "1005-32-d"
-            ]
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -4276,41 +4288,34 @@
         },
         "op":"added"
     },
-    "1005-31-b-1-iv-Interp-3":{
+    "1005-A-39-p14":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Exchange rate used. The exchange rate used by the provider for the remittance transfer need not be set by that provider. For example, an exchange rate set by an intermediary institution and applied to the remittance transfer would be the exchange rate used for the remittance transfer and must be disclosed by the provider.",
+            "text":"![](ER22MY13.255)",
             "label":[
                 "1005",
-                "31",
-                "b",
-                "1",
-                "iv",
-                "Interp",
-                "3"
+                "A",
+                "39",
+                "p14"
             ],
-            "node_type":"interp",
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
     },
-    "1005-31-g-1-Interp-2-ii-A":{
+    "1005-A-31-p5":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Communicating in a foreign language (whether by telephone, electronically, or otherwise) about remittance transfer services in response to a consumer-initiated inquiry.",
+            "text":"![](ER22MY13.246)",
             "label":[
                 "1005",
+                "A",
                 "31",
-                "g",
-                "1",
-                "Interp",
-                "2",
-                "ii",
-                "A"
+                "p5"
             ],
-            "node_type":"interp",
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
@@ -5232,6 +5237,24 @@
         },
         "op":"added"
     },
+    "1005-A-32":{
+        "node":{
+            "tagged_text":null,
+            "title":"A-32\u2014Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(3))",
+            "text":"",
+            "label":[
+                "1005",
+                "A",
+                "32"
+            ],
+            "node_type":"appendix",
+            "child_labels":[
+                "1005-A-32-p6",
+                "1005-A-32-p7"
+            ]
+        },
+        "op":"added"
+    },
     "1005-Subpart-B":{
         "node":{
             "tagged_text":null,
@@ -5575,20 +5598,17 @@
         },
         "op":"added"
     },
-    "1005-31-b-3-Interp-2":{
+    "1005-30-d":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Confirmation of scheduling. As discussed in comment 31(e)-2, payment is considered to be made when payment is authorized for purposes of various timing requirements in subpart B, including with regard to the timing requirement for provision of the proof of payment described in \u00a7 1005.31(b)(3)(i). However, where a transfer (whether a one-time remittance transfer or the first in a series of preauthorized remittance transfers) is scheduled before the date of transfer and the provider does not intend to process payment until at or near the date of transfer, the provider may provide a confirmation of scheduling in lieu of the proof of payment required by \u00a7 1005.31(b)(3)(i). No further proof of payment is required when payment is later processed.",
+            "text":"(d) \u201cPreauthorized remittance transfer\u201d means a remittance transfer authorized in advance to recur at substantially regular intervals.",
             "label":[
                 "1005",
-                "31",
-                "b",
-                "3",
-                "Interp",
-                "2"
+                "30",
+                "d"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -5790,18 +5810,22 @@
         },
         "op":"added"
     },
-    "1005-A-31-p5":{
+    "1005-31-g-1-Interp-2-ii-A":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"![](ER22MY13.246)",
+            "text":"Communicating in a foreign language (whether by telephone, electronically, or otherwise) about remittance transfer services in response to a consumer-initiated inquiry.",
             "label":[
                 "1005",
-                "A",
                 "31",
-                "p5"
+                "g",
+                "1",
+                "Interp",
+                "2",
+                "ii",
+                "A"
             ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -6126,17 +6150,20 @@
         },
         "op":"added"
     },
-    "1005-30-d":{
+    "1005-31-b-3-Interp-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(d) \u201cPreauthorized remittance transfer\u201d means a remittance transfer authorized in advance to recur at substantially regular intervals.",
+            "text":"Confirmation of scheduling. As discussed in comment 31(e)-2, payment is considered to be made when payment is authorized for purposes of various timing requirements in subpart B, including with regard to the timing requirement for provision of the proof of payment described in \u00a7 1005.31(b)(3)(i). However, where a transfer (whether a one-time remittance transfer or the first in a series of preauthorized remittance transfers) is scheduled before the date of transfer and the provider does not intend to process payment until at or near the date of transfer, the provider may provide a confirmation of scheduling in lieu of the proof of payment required by \u00a7 1005.31(b)(3)(i). No further proof of payment is required when payment is later processed.",
             "label":[
                 "1005",
-                "30",
-                "d"
+                "31",
+                "b",
+                "3",
+                "Interp",
+                "2"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -6350,23 +6377,6 @@
                 "d",
                 "Interp",
                 "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-36-c-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Concurrent cancellation obligations. A financial institution that is also a remittance transfer provider may have both stop payment obligations under \u00a7 1005.10 and cancellation obligations under \u00a7 1005.36. If a sender cancels a remittance transfer under \u00a7 1005.36 with a remittance transfer provider that holds the sender's account, and the transfer is a preauthorized transfer under \u00a7 1005.10, then the cancellation provisions of \u00a7 1005.36 exclusively apply.",
-            "label":[
-                "1005",
-                "36",
-                "c",
-                "Interp",
-                "3"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -7020,6 +7030,30 @@
         },
         "op":"added"
     },
+    "1005-Subpart-B-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Interpretations for Subpart B - Requirements for Remittance Transfers",
+            "text":"",
+            "label":[
+                "1005",
+                "Subpart",
+                "B",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-30-Interp",
+                "1005-31-Interp",
+                "1005-32-Interp",
+                "1005-33-Interp",
+                "1005-34-Interp",
+                "1005-35-Interp",
+                "1005-36-Interp"
+            ]
+        },
+        "op":"added"
+    },
     "1005-31-a-3-Interp-2":{
         "node":{
             "tagged_text":null,
@@ -7353,18 +7387,21 @@
         },
         "op":"added"
     },
-    "1005-A-39-p14":{
+    "1005-31-b-1-iv-Interp-3":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"![](ER22MY13.255)",
+            "text":"Exchange rate used. The exchange rate used by the provider for the remittance transfer need not be set by that provider. For example, an exchange rate set by an intermediary institution and applied to the remittance transfer would be the exchange rate used for the remittance transfer and must be disclosed by the provider.",
             "label":[
                 "1005",
-                "A",
-                "39",
-                "p14"
+                "31",
+                "b",
+                "1",
+                "iv",
+                "Interp",
+                "3"
             ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -7501,20 +7538,24 @@
         },
         "op":"added"
     },
-    "1005-30-g-Interp-1":{
+    "1005-30-h-Interp-2-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Determining whether a consumer is located in a State. Under \u00a7 1005.30(g), the definition of \u201csender\u201d means a consumer in a State who, primarily for personal, family, or household purposes, requests a remittance transfer provider to send a remittance transfer to a designated recipient. A sender located on a U.S. military installation that is physically located in a foreign country is located in a State. For transfers from a consumer's account, whether a consumer is located in a State depends on where the consumer's account is located. If the account iaccount is located in a State, the consumerconsumer will be located in a State for purposes of the definition of \u201csender\u201d in \u00a7 1005.30(g), notwithstanding comment 3(a)-3. Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State. Where a transfer is requested electronically or by telephone and the transfer is not from an account, the provider may make the determination of whether a consumer is located in a State based on information that is provided by the consumer and on any records associated with the consumer that the provider may have, such as an address provided by the consumer.",
+            "text":"Examples of covered third-party fees include:",
             "label":[
                 "1005",
                 "30",
-                "g",
+                "h",
                 "Interp",
-                "1"
+                "2",
+                "ii"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1005-30-h-Interp-2-ii-A",
+                "1005-30-h-Interp-2-ii-B"
+            ]
         },
         "op":"added"
     },
@@ -7842,19 +7883,24 @@
         },
         "op":"added"
     },
-    "1005-A-30b":{
+    "1005-31-b-1-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"A-30(b)\u2014Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(1))(",
-            "text":"",
+            "title":null,
+            "text":"Fees and taxes.",
             "label":[
                 "1005",
-                "A",
-                "30b"
+                "31",
+                "b",
+                "1",
+                "Interp",
+                "1"
             ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[
-                "1005-A-30b-p1"
+                "1005-31-b-1-Interp-1-i",
+                "1005-31-b-1-Interp-1-ii",
+                "1005-31-b-1-Interp-1-iii"
             ]
         },
         "op":"added"
@@ -8197,25 +8243,20 @@
         },
         "op":"added"
     },
-    "1005-31-b-1-Interp-1":{
+    "1005-36-c-Interp-3":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Fees and taxes.",
+            "text":"Concurrent cancellation obligations. A financial institution that is also a remittance transfer provider may have both stop payment obligations under \u00a7 1005.10 and cancellation obligations under \u00a7 1005.36. If a sender cancels a remittance transfer under \u00a7 1005.36 with a remittance transfer provider that holds the sender's account, and the transfer is a preauthorized transfer under \u00a7 1005.10, then the cancellation provisions of \u00a7 1005.36 exclusively apply.",
             "label":[
                 "1005",
-                "31",
-                "b",
-                "1",
+                "36",
+                "c",
                 "Interp",
-                "1"
+                "3"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1005-31-b-1-Interp-1-i",
-                "1005-31-b-1-Interp-1-ii",
-                "1005-31-b-1-Interp-1-iii"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -8501,6 +8542,23 @@
         },
         "op":"added"
     },
+    "1005-A-30b":{
+        "node":{
+            "tagged_text":null,
+            "title":"A-30(b)\u2014Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(1))(",
+            "text":"",
+            "label":[
+                "1005",
+                "A",
+                "30b"
+            ],
+            "node_type":"appendix",
+            "child_labels":[
+                "1005-A-30b-p1"
+            ]
+        },
+        "op":"added"
+    },
     "1005-32-a-1-Interp":{
         "node":{
             "tagged_text":null,
@@ -8558,19 +8616,21 @@
         },
         "op":"added"
     },
-    "1005-A-30(b)":{
+    "1005-32-c-3":{
         "node":{
             "tagged_text":null,
-            "title":"A-30(b)\u2014Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(1))",
-            "text":"",
+            "title":null,
+            "text":"(3) Other fees.Covered third-party fees.",
             "label":[
                 "1005",
-                "A",
-                "30(b)"
+                "32",
+                "c",
+                "3"
             ],
-            "node_type":"appendix",
+            "node_type":"regtext",
             "child_labels":[
-                "1005-A-30(b)-p2"
+                "1005-32-c-3-i",
+                "1005-32-c-3-ii"
             ]
         },
         "op":"added"

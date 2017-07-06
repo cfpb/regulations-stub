@@ -37,50 +37,6 @@
         },
         "op":"added"
     },
-    "1005-32-a-1-Interp-3-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Other taxes. An insured institution can determine the exact taxes required to be disclosed under \u00a7 1005.31(b)(1)(vi) if:",
-            "label":[
-                "1005",
-                "32",
-                "a",
-                "1",
-                "Interp",
-                "3",
-                "iii"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-32-a-1-Interp-3-iii-A",
-                "1005-32-a-1-Interp-3-iii-B"
-            ]
-        },
-        "op":"added"
-    },
-    "1005-34-a-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"34(a) Sender Right of Cancellation and Refund",
-            "text":"",
-            "label":[
-                "1005",
-                "34",
-                "a",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-34-a-Interp-1",
-                "1005-34-a-Interp-2",
-                "1005-34-a-Interp-3",
-                "1005-34-a-Interp-4",
-                "1005-34-a-Interp-5"
-            ]
-        },
-        "op":"added"
-    },
     "1005-34-a-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -372,27 +328,37 @@
         },
         "op":"added"
     },
-    "1005-31-b-1-Interp":{
+    "1005-31-b-1-ii":{
         "node":{
             "tagged_text":null,
-            "title":"31(b)(1) Pre-Payment Disclosures",
-            "text":"",
+            "title":null,
+            "text":"(ii) Any fees and taxes imposed on the remittance transfer by the provider, in the currency in which the remittance transfer is funded, using the terms \u201cTransfer Fees\u201d for fees and \u201cTransfer Taxes\u201d for taxes, or substantially similar terms;",
             "label":[
                 "1005",
                 "31",
                 "b",
                 "1",
-                "Interp"
+                "ii"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-30-c-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Sender as designated recipient. A \u201csender,\u201d as defined in \u00a7 1005.30(g), may also be a designated recipient if the sender meets the definition of \u201cdesignated recipient\u201d in \u00a7 1005.30(c). For example, a sender may request that a provider send an electronic transfer of funds from the sender's checking account in a State to the sender's checking account located in a foreign country. In this case, the sender would also be a designated recipient.",
+            "label":[
+                "1005",
+                "30",
+                "c",
+                "Interp",
+                "3"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1005-31-b-1-Interp-1",
-                "1005-31-b-1-Interp-2",
-                "1005-31-b-1-Interp-3",
-                "1005-31-b-1-iv-Interp",
-                "1005-31-b-1-vi-Interp",
-                "1005-31-b-1-vii-Interp"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -480,18 +446,19 @@
         },
         "op":"added"
     },
-    "1005-A-32-b":{
+    "1005-33-b-Interp-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"![](ER22MY13.248)",
+            "text":"Content of error notice. The notice of error is effective so long as the remittance transfer provider is able to identify the elements in \u00a7 1005.33(b)(1)(ii). For example, the sender could provide the confirmation number or code that would be used by the designated recipient to pick up the transfer, or other identification number or code supplied by the remittance transfer provider in connection with the transfer, if such number or code is sufficient for the remittance transfer provider to identify the sender (and contact information), designated recipient, and the transfer in question. For an account-based remittance transfer, the notice of error is effective even if it does not contain the sender's account number, so long as the remittance transfer provider is able to identify the account and the transfer in question.",
             "label":[
                 "1005",
-                "A",
-                "32",
-                "b"
+                "33",
+                "b",
+                "Interp",
+                "2"
             ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -513,18 +480,19 @@
         },
         "op":"added"
     },
-    "1005-A-32-a":{
+    "1005-33-b-Interp-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"![](ER22MY13.247)",
+            "text":"Person asserting or discovering error. The error resolution procedures of this section apply only when a notice of error is received from the sender, and not when a notice of error is received from the designated recipient or when the remittance transfer provider itself discovers and corrects an error.",
             "label":[
                 "1005",
-                "A",
-                "32",
-                "a"
+                "33",
+                "b",
+                "Interp",
+                "1"
             ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -874,20 +842,25 @@
         },
         "op":"added"
     },
-    "1005-30-c-Interp-3":{
+    "1005-32-c-1-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Sender as designated recipient. A \u201csender,\u201d as defined in \u00a7 1005.30(g), may also be a designated recipient if the sender meets the definition of \u201cdesignated recipient\u201d in \u00a7 1005.30(c). For example, a sender may request that a provider send an electronic transfer of funds from the sender's checking account in a State to the sender's checking account located in a foreign country. In this case, the sender would also be a designated recipient.",
+            "title":"32(c)(1) Exchange Rate",
+            "text":"",
             "label":[
                 "1005",
-                "30",
+                "32",
                 "c",
-                "Interp",
-                "3"
+                "1",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1005-32-c-1-Interp-1",
+                "1005-32-c-1-Interp-2",
+                "1005-32-c-1-Interp-3",
+                "1005-32-c-1-Interp-4"
+            ]
         },
         "op":"added"
     },
@@ -915,19 +888,18 @@
         },
         "op":"added"
     },
-    "1005-33-c-Interp-7":{
+    "1005-A-30-p3":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Remedies for incorrect amount paid. If an error under \u00a7 1005.33(a)(1)(i) occurred, the sender may request the remittance transfer provider refund the amount necessary to resolve the error under \u00a7 1005.33(c)(2)(i)(A) or that the remittance transfer provider make the amount necessary to resolve the error available to the designated recipient at no additional cost under \u00a7 1005.33(c)(2)(i)(B).",
+            "text":"Anytown, Anystate 12345",
             "label":[
                 "1005",
-                "33",
-                "c",
-                "Interp",
-                "7"
+                "A",
+                "30",
+                "p3"
             ],
-            "node_type":"interp",
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
@@ -949,19 +921,18 @@
         },
         "op":"added"
     },
-    "1005-33-c-Interp-6":{
+    "1005-A-30-p2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Form of refund. For a refund provided under \u00a7 1005.33(c)(2)(i)(A), (c)(2)(ii)(A)(1), or (c)(2)(ii)(B), a remittance transfer provider may generally, at its discretion, issue a refund either in cash or in the same form of payment that was initially provided by the sender for the remittance transfer. For example, if the sender originally provided a credit card as payment for the transfer, the remittance transfer provider may issue a credit to the sender's credit card account in the appropriate amount. However, if a sender initially provided cash for the remittance transfer, a provider may issue a refund by check. For example, if the sender originally provided cash as payment for the transfer, the provider may mail a check to the sender in the amount of the payment.",
+            "text":"1000 XYZ Avenue",
             "label":[
                 "1005",
-                "33",
-                "c",
-                "Interp",
-                "6"
+                "A",
+                "30",
+                "p2"
             ],
-            "node_type":"interp",
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
@@ -1322,6 +1293,24 @@
         },
         "op":"added"
     },
+    "1005-31-b-2-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Agencies required to be disclosed. A remittance transfer provider must only disclose information about a State agency that licenses or charters the remittance transfer provider with respect to the remittance transfer as applicable. For example, if a financial institution is solely regulated by a Federal agency, and not licensed or chartered by a State agency, then the institution need not disclose information about a State agency. A remittance transfer provider must disclose information about the Consumer Financial Protection Bureau, whether or not the Consumer Financial Protection Bureau is the provider's primary Federal regulator.",
+            "label":[
+                "1005",
+                "31",
+                "b",
+                "2",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-A-30c-p1":{
         "node":{
             "tagged_text":null,
@@ -1354,24 +1343,6 @@
                 "1005-30-e-Interp-1",
                 "1005-30-e-Interp-2",
                 "1005-30-e-Interp-3"
-            ]
-        },
-        "op":"added"
-    },
-    "1005-33-g-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"33(g) Error Resolution Standards and Recordkeeping Requirements",
-            "text":"",
-            "label":[
-                "1005",
-                "33",
-                "g",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-33-g-Interp-1"
             ]
         },
         "op":"added"
@@ -1670,21 +1641,25 @@
         },
         "op":"added"
     },
-    "1005-31-b-2-Interp-2":{
+    "1005-32-a-1-Interp-3-iii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Agencies required to be disclosed. A remittance transfer provider must only disclose information about a State agency that licenses or charters the remittance transfer provider with respect to the remittance transfer as applicable. For example, if a financial institution is solely regulated by a Federal agency, and not licensed or chartered by a State agency, then the institution need not disclose information about a State agency. A remittance transfer provider must disclose information about the Consumer Financial Protection Bureau, whether or not the Consumer Financial Protection Bureau is the provider's primary Federal regulator.",
+            "text":"Other taxes. An insured institution can determine the exact taxes required to be disclosed under \u00a7 1005.31(b)(1)(vi) if:",
             "label":[
                 "1005",
-                "31",
-                "b",
-                "2",
+                "32",
+                "a",
+                "1",
                 "Interp",
-                "2"
+                "3",
+                "iii"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1005-32-a-1-Interp-3-iii-A",
+                "1005-32-a-1-Interp-3-iii-B"
+            ]
         },
         "op":"added"
     },
@@ -1723,19 +1698,21 @@
         },
         "op":"added"
     },
-    "1005-A-34-p1":{
+    "1005-33-g-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"![](ER22MY13.250)",
+            "title":"33(g) Error Resolution Standards and Recordkeeping Requirements",
+            "text":"",
             "label":[
                 "1005",
-                "A",
-                "34",
-                "p1"
+                "33",
+                "g",
+                "Interp"
             ],
-            "node_type":"appendix",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1005-33-g-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -1955,20 +1932,19 @@
         },
         "op":"added"
     },
-    "1005-32-b-Interp-1-i":{
+    "1005-32-b-1-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Set by the government of the recipient country after the remittance transfer provider sends the remittance transfer, or",
+            "text":"(ii) The method by which transactions are made in the recipient country does not permit such determination.",
             "label":[
                 "1005",
                 "32",
                 "b",
-                "Interp",
                 "1",
-                "i"
+                "ii"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -2175,6 +2151,39 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-Subpart-A-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Supplement I to Part 1005\u2014Official Interpretations",
+            "text":"",
+            "label":[
+                "1005",
+                "Subpart",
+                "A",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-2-Interp",
+                "1005-3-Interp",
+                "1005-4-Interp",
+                "1005-5-Interp",
+                "1005-6-Interp",
+                "1005-7-Interp",
+                "1005-8-Interp",
+                "1005-9-Interp",
+                "1005-10-Interp",
+                "1005-11-Interp",
+                "1005-12-Interp",
+                "1005-13-Interp",
+                "1005-14-Interp",
+                "1005-17-Interp",
+                "1005-18-Interp",
+                "1005-20-Interp"
+            ]
         },
         "op":"added"
     },
@@ -2445,6 +2454,9 @@
         },
         "op":"added"
     },
+    "1005-Interp":{
+        "op":"deleted"
+    },
     "1005-36-c-Interp":{
         "node":{
             "tagged_text":null,
@@ -2625,18 +2637,19 @@
         },
         "op":"added"
     },
-    "1005-A-30-p1":{
+    "1005-33-c-Interp-5":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"ABC Company",
+            "text":"Amount appropriate to resolve the error. For purposes of the remedies set forth in \u00a7 1005.33(c)(2)(i)(A), (c)(2)(i)(B), (c)(2)(ii)(A)(1), and (c)(2)(i)(A)(2) the amount appropriate to resolve the error is the specific amount of transferred funds that should have been received if the remittance transfer had been effected without error. The amount appropriate to resolve the error does not include consequential damages.",
             "label":[
                 "1005",
-                "A",
-                "30",
-                "p1"
+                "33",
+                "c",
+                "Interp",
+                "5"
             ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -2658,34 +2671,36 @@
         },
         "op":"added"
     },
-    "1005-A-30-p3":{
+    "1005-33-c-Interp-7":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Anytown, Anystate 12345",
+            "text":"Remedies for incorrect amount paid. If an error under \u00a7 1005.33(a)(1)(i) occurred, the sender may request the remittance transfer provider refund the amount necessary to resolve the error under \u00a7 1005.33(c)(2)(i)(A) or that the remittance transfer provider make the amount necessary to resolve the error available to the designated recipient at no additional cost under \u00a7 1005.33(c)(2)(i)(B).",
             "label":[
                 "1005",
-                "A",
-                "30",
-                "p3"
+                "33",
+                "c",
+                "Interp",
+                "7"
             ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
     },
-    "1005-A-30-p2":{
+    "1005-33-c-Interp-6":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"1000 XYZ Avenue",
+            "text":"Form of refund. For a refund provided under \u00a7 1005.33(c)(2)(i)(A), (c)(2)(ii)(A)(1), or (c)(2)(ii)(B), a remittance transfer provider may generally, at its discretion, issue a refund either in cash or in the same form of payment that was initially provided by the sender for the remittance transfer. For example, if the sender originally provided a credit card as payment for the transfer, the remittance transfer provider may issue a credit to the sender's credit card account in the appropriate amount. However, if a sender initially provided cash for the remittance transfer, a provider may issue a refund by check. For example, if the sender originally provided cash as payment for the transfer, the provider may mail a check to the sender in the amount of the payment.",
             "label":[
                 "1005",
-                "A",
-                "30",
-                "p2"
+                "33",
+                "c",
+                "Interp",
+                "6"
             ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -3121,20 +3136,20 @@
         },
         "op":"added"
     },
-    "1005-A-30b":{
+    "1005-31-b-2-i":{
         "node":{
             "tagged_text":null,
-            "title":"A-30(b)\u2014Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(1))(",
-            "text":"",
+            "title":null,
+            "text":"(i) The disclosures described in paragraphs (b)(1)(i) through (vii) of this section;",
             "label":[
                 "1005",
-                "A",
-                "30b"
+                "31",
+                "b",
+                "2",
+                "i"
             ],
-            "node_type":"appendix",
-            "child_labels":[
-                "1005-A-30b-p1"
-            ]
+            "node_type":"regtext",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -3741,19 +3756,18 @@
         },
         "op":"added"
     },
-    "1005-33-b-Interp-2":{
+    "1005-A-32-b":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Content of error notice. The notice of error is effective so long as the remittance transfer provider is able to identify the elements in \u00a7 1005.33(b)(1)(ii). For example, the sender could provide the confirmation number or code that would be used by the designated recipient to pick up the transfer, or other identification number or code supplied by the remittance transfer provider in connection with the transfer, if such number or code is sufficient for the remittance transfer provider to identify the sender (and contact information), designated recipient, and the transfer in question. For an account-based remittance transfer, the notice of error is effective even if it does not contain the sender's account number, so long as the remittance transfer provider is able to identify the account and the transfer in question.",
+            "text":"![](ER22MY13.248)",
             "label":[
                 "1005",
-                "33",
-                "b",
-                "Interp",
-                "2"
+                "A",
+                "32",
+                "b"
             ],
-            "node_type":"interp",
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
@@ -3793,20 +3807,25 @@
         },
         "op":"added"
     },
-    "1005-33-b-Interp-1":{
+    "1005-34-a-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Person asserting or discovering error. The error resolution procedures of this section apply only when a notice of error is received from the sender, and not when a notice of error is received from the designated recipient or when the remittance transfer provider itself discovers and corrects an error.",
+            "title":"34(a) Sender Right of Cancellation and Refund",
+            "text":"",
             "label":[
                 "1005",
-                "33",
-                "b",
-                "Interp",
-                "1"
+                "34",
+                "a",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1005-34-a-Interp-1",
+                "1005-34-a-Interp-2",
+                "1005-34-a-Interp-3",
+                "1005-34-a-Interp-4",
+                "1005-34-a-Interp-5"
+            ]
         },
         "op":"added"
     },
@@ -4036,6 +4055,22 @@
         },
         "op":"added"
     },
+    "1005-A-30-p1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"ABC Company",
+            "label":[
+                "1005",
+                "A",
+                "30",
+                "p1"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-30-e-2-ii":{
         "node":{
             "tagged_text":null,
@@ -4085,6 +4120,22 @@
             "child_labels":[
                 "1005-31-c-1-Interp-1"
             ]
+        },
+        "op":"added"
+    },
+    "1005-A-32-a":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"![](ER22MY13.247)",
+            "label":[
+                "1005",
+                "A",
+                "32",
+                "a"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -5028,20 +5079,20 @@
         },
         "op":"added"
     },
-    "1005-32-c-1-Interp-4":{
+    "1005-33-a-1-iv-B":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Most recent. For the purposes of \u00a7 1005.32(c)(1)(ii) and (iii), if the exchange rate with respect to a particular currency is published or provided multiple times throughout the day because the exchange rate fluctuates throughout the day, a remittance transfer provider may use any exchange rate available on that day to determine the most recent exchange rate.",
+            "text":"(B) Delays related to the remittance transfer provider's fraud screening procedures or in accordance with the Bank Secrecy Act, 31 U.S.C. 5311 et seq., Office of Foreign Assets Control requirements, or similar laws or requirements; or",
             "label":[
                 "1005",
-                "32",
-                "c",
+                "33",
+                "a",
                 "1",
-                "Interp",
-                "4"
+                "iv",
+                "B"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -5190,20 +5241,27 @@
         },
         "op":"added"
     },
-    "1005-31-b-1-ii":{
+    "1005-31-b-1-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(ii) Any fees and taxes imposed on the remittance transfer by the provider, in the currency in which the remittance transfer is funded, using the terms \u201cTransfer Fees\u201d for fees and \u201cTransfer Taxes\u201d for taxes, or substantially similar terms;",
+            "title":"31(b)(1) Pre-Payment Disclosures",
+            "text":"",
             "label":[
                 "1005",
                 "31",
                 "b",
                 "1",
-                "ii"
+                "Interp"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1005-31-b-1-Interp-1",
+                "1005-31-b-1-Interp-2",
+                "1005-31-b-1-Interp-3",
+                "1005-31-b-1-iv-Interp",
+                "1005-31-b-1-vi-Interp",
+                "1005-31-b-1-vii-Interp"
+            ]
         },
         "op":"added"
     },
@@ -5364,6 +5422,22 @@
         },
         "op":"added"
     },
+    "1005-A-34-p1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"![](ER22MY13.250)",
+            "label":[
+                "1005",
+                "A",
+                "34",
+                "p1"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-A-38-p1":{
         "node":{
             "tagged_text":null,
@@ -5435,20 +5509,27 @@
         },
         "op":"added"
     },
-    "1005-33-c-Interp-5":{
+    "1005-Subpart-B-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Amount appropriate to resolve the error. For purposes of the remedies set forth in \u00a7 1005.33(c)(2)(i)(A), (c)(2)(i)(B), (c)(2)(ii)(A)(1), and (c)(2)(i)(A)(2) the amount appropriate to resolve the error is the specific amount of transferred funds that should have been received if the remittance transfer had been effected without error. The amount appropriate to resolve the error does not include consequential damages.",
+            "title":"Interpretations for Subpart B - Requirements for Remittance Transfers",
+            "text":"",
             "label":[
                 "1005",
-                "33",
-                "c",
-                "Interp",
-                "5"
+                "Subpart",
+                "B",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1005-30-Interp",
+                "1005-31-Interp",
+                "1005-32-Interp",
+                "1005-33-Interp",
+                "1005-34-Interp",
+                "1005-35-Interp",
+                "1005-36-Interp"
+            ]
         },
         "op":"added"
     },
@@ -5820,28 +5901,6 @@
         },
         "op":"added"
     },
-    "1005-32-c-1-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"32(c)(1) Exchange Rate",
-            "text":"",
-            "label":[
-                "1005",
-                "32",
-                "c",
-                "1",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-32-c-1-Interp-1",
-                "1005-32-c-1-Interp-2",
-                "1005-32-c-1-Interp-3",
-                "1005-32-c-1-Interp-4"
-            ]
-        },
-        "op":"added"
-    },
     "1005-31-b-3-Interp":{
         "node":{
             "tagged_text":null,
@@ -5944,23 +6003,6 @@
                 "2",
                 "i",
                 "A"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-31-b-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(i) The disclosures described in paragraphs (b)(1)(i) through (vii) of this section;",
-            "label":[
-                "1005",
-                "31",
-                "b",
-                "2",
-                "i"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -6992,6 +7034,23 @@
         },
         "op":"added"
     },
+    "1005-A-30b":{
+        "node":{
+            "tagged_text":null,
+            "title":"A-30(b)\u2014Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(1))(",
+            "text":"",
+            "label":[
+                "1005",
+                "A",
+                "30b"
+            ],
+            "node_type":"appendix",
+            "child_labels":[
+                "1005-A-30b-p1"
+            ]
+        },
+        "op":"added"
+    },
     "1005-31-d":{
         "node":{
             "tagged_text":null,
@@ -7160,19 +7219,20 @@
         },
         "op":"added"
     },
-    "1005-32-b-1-ii":{
+    "1005-32-b-Interp-1-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(ii) The method by which transactions are made in the recipient country does not permit such determination.",
+            "text":"Set by the government of the recipient country after the remittance transfer provider sends the remittance transfer, or",
             "label":[
                 "1005",
                 "32",
                 "b",
+                "Interp",
                 "1",
-                "ii"
+                "i"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -7798,20 +7858,20 @@
         },
         "op":"added"
     },
-    "1005-33-a-1-iv-B":{
+    "1005-32-c-1-Interp-4":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) Delays related to the remittance transfer provider's fraud screening procedures or in accordance with the Bank Secrecy Act, 31 U.S.C. 5311 et seq., Office of Foreign Assets Control requirements, or similar laws or requirements; or",
+            "text":"Most recent. For the purposes of \u00a7 1005.32(c)(1)(ii) and (iii), if the exchange rate with respect to a particular currency is published or provided multiple times throughout the day because the exchange rate fluctuates throughout the day, a remittance transfer provider may use any exchange rate available on that day to determine the most recent exchange rate.",
             "label":[
                 "1005",
-                "33",
-                "a",
+                "32",
+                "c",
                 "1",
-                "iv",
-                "B"
+                "Interp",
+                "4"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"

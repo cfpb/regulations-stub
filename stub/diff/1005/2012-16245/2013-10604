@@ -1512,7 +1512,38 @@
         "op":"added"
     },
     "1005-33-c-2-iii":{
-        "op":"deleted"
+        "text":[
+            [
+                "insert",
+                20,
+                " an error under paragraph (a)(1)(iv) of this section that occurred because the sender provided incorrect or insufficient information in connection with the remittance transfer, the remittance transfer provider shall refund to the sender the amount of funds provided by the sender in connection with the remittance transfer that was not properly transmitted, or the amount appropriate to resolve the error, within three business days of providing the report required by paragraph (c)(1) or (d)(1) of this section except that the provider may agree to the sender's request, upon receiving the results of the error investigation, that the funds be applied towards"
+            ],
+            [
+                [
+                    "delete",
+                    23,
+                    125
+                ],
+                [
+                    "insert",
+                    23,
+                    "new remittance transfer, rather than be refunded, if the provider has not yet processed a refund. The provider may deduct from the amount refunded"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    129,
+                    143
+                ],
+                [
+                    "insert",
+                    129,
+                    "applied towards a new transfer any fees actually imposed on or, to the extent not prohibited by law, taxes actually collected on the remittance transfer as part of the first unsuccessful remittance transfer attempt."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-31-a-5-iii":{
         "text":[

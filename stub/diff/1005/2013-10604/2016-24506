@@ -878,21 +878,91 @@
         "op":"modified"
     },
     "1005-33-c-2-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(iii) In the case of an error under paragraph (a)(1)(iv) of this section that occurred because the sender provided incorrect or insufficient information in connection with the remittance transfer, the remittance transfer provider shall provide the remedies required by paragraphs (c)(2)(ii)(A)(1) and (c)(2)(ii)(B) of this section within three business days of providing the report required by paragraph (c)(1) or (d)(1) of this section except that the provider may agree to the sender's request, upon receiving the results of the error investigation, that the funds be applied towards a new remittance transfer, rather than be refunded, if the provider has not yet processed a refund. The provider may deduct from the amount refunded or applied towards a new transfer any fees actually imposed on or, to the extent not prohibited by law, taxes actually collected on the remittance transfer as part of the first unsuccessful remittance transfer attempt except that the provider shall not deduct its own fee.",
-            "label":[
-                "1005",
-                "33",
-                "c",
-                "2",
-                "iii"
+        "text":[
+            [
+                [
+                    "delete",
+                    236,
+                    242
+                ],
+                [
+                    "insert",
+                    236,
+                    "provide the remedies required by paragraphs (c)(2)(ii)(A)(1) and (c)(2)(ii)(B) of this section within three business days of providing the report required by paragraph (c)(1) or (d)(1) of this section except that the provider may agree"
+                ]
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    250,
+                    260
+                ],
+                [
+                    "insert",
+                    250,
+                    "sender's request, upon receiving the results of the error investigation, that the funds be applied towards a new remittance transfer, rather than be refunded, if the provider has not yet processed a refund. The provider may deduct from the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    268,
+                    285
+                ],
+                [
+                    "insert",
+                    268,
+                    "refunded or applied towards a new transfer any fees actually imposed on or, to the extent not prohibited"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    289,
+                    333
+                ],
+                [
+                    "insert",
+                    289,
+                    "law, taxes actually collected on the remittance"
+                ]
+            ],
+            [
+                "insert",
+                343,
+                "as part of the first unsuccessful remittance transfer attempt except "
+            ],
+            [
+                [
+                    "delete",
+                    348,
+                    351
+                ],
+                [
+                    "insert",
+                    348,
+                    "the provider shall"
+                ]
+            ],
+            [
+                "delete",
+                356,
+                798
+            ],
+            [
+                [
+                    "delete",
+                    805,
+                    1048
+                ],
+                [
+                    "insert",
+                    805,
+                    "its own fee."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-31-b-2-Interp-5":{
         "text":[
