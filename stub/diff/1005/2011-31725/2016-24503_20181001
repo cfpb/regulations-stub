@@ -2062,22 +2062,27 @@
         },
         "op":"added"
     },
-    "1005-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    3
-                ],
-                [
-                    "insert",
-                    0,
-                    "Except as otherwise provided in subpart B, for"
-                ]
+    "1005-18-b-2-ix-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(A) Determination of which additional fee types to disclose.The two fee types that generate the highest revenue from consumers for the prepaid account program or across prepaid account programs that share the same fee schedule during the time period provided in paragraphs (b)(2)(ix)(D) and (E) of this section, excluding:",
+            "label":[
+                "1005",
+                "18",
+                "b",
+                "2",
+                "ix",
+                "A"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-18-b-2-ix-A-1",
+                "1005-18-b-2-ix-A-2",
+                "1005-18-b-2-ix-A-3"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1005-31-a-1-Interp":{
         "node":{
@@ -15598,28 +15603,6 @@
         },
         "op":"added"
     },
-    "1005-18-b-2-ix-A":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(A) Determination of which additional fee types to disclose.The two fee types that generate the highest revenue from consumers for the prepaid account program or across prepaid account programs that share the same fee schedule during the time period provided in paragraphs (b)(2)(ix)(D) and (E) of this section, excluding:",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "2",
-                "ix",
-                "A"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1005-18-b-2-ix-A-1",
-                "1005-18-b-2-ix-A-2",
-                "1005-18-b-2-ix-A-3"
-            ]
-        },
-        "op":"added"
-    },
     "1005-1-b":{
         "text":[
             [
@@ -17884,6 +17867,23 @@
             ]
         },
         "op":"added"
+    },
+    "1005-2-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    3
+                ],
+                [
+                    "insert",
+                    0,
+                    "Except as otherwise provided in subpart B, for"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-32-a-1-Interp-1":{
         "node":{
