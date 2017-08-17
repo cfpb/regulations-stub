@@ -4774,30 +4774,6 @@
         },
         "op":"added"
     },
-    "1026-51-b-1-i-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Examples of considering income for young consumers.Assume that an applicant is not employed and the applicant is under the age of 21 so \u00a7 1026.51(b) applies.",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-51-b-1-i-Interp-3-i",
-                "1026-51-b-1-i-Interp-3-ii",
-                "1026-51-b-1-i-Interp-3-iii",
-                "1026-51-b-1-i-Interp-3-iv"
-            ]
-        },
-        "op":"added"
-    },
     "1026-41-d-8":{
         "node":{
             "tagged_text":null,
@@ -8251,26 +8227,6 @@
         },
         "op":"added"
     },
-    "1026-51-b-1-i-Interp-3-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The non-applicant's salary or other income is deposited into an account to which the applicant does not have access. However, the non-applicant regularly uses that income to pay for the applicant's expenses. A card issuer is not permitted to consider the non-applicant's income that is used regularly to pay for the applicant's expenses as the applicant's current or reasonably expected income for purposes of \u00a7 1026.51(b)(1)(i), unless a Federal or State statute or regulation grants the applicant an ownership interest in such income.",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "3",
-                "iii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-37-k-Interp":{
         "node":{
             "tagged_text":null,
@@ -10767,6 +10723,9 @@
         },
         "op":"added"
     },
+    "1026-51-b-1-Interp":{
+        "op":"deleted"
+    },
     "1026-35-b-3-v":{
         "op":"deleted"
     },
@@ -10891,6 +10850,28 @@
                 "3",
                 "Interp",
                 "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-35-b-2-iii-Interp-1-iii-E-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For calendar year 2014, the asset threshold was $2,028,000,000. Creditors that had total assets of less than $2,028,000,000 on December 31, 2013, satisfied this criterion for purposes of the exemption during 2014.",
+            "label":[
+                "1026",
+                "35",
+                "b",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii",
+                "E",
+                "2"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -14074,6 +14055,28 @@
                 "p2"
             ],
             "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-35-b-2-iii-Interp-1-iii-E-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For calendar year 2015, the asset threshold was $2,060,000,000. Creditors that had total assets of less than $2,060,000,000 on December 31, 2014, satisfied this criterion for purposes of any loan consummated in 2015 and, if the creditor's assets together with the assets of its affiliates that regularly extended first-lien covered transactions during calendar year 2014 were less than that amount, for purposes of any loan consummated in 2016 for which the application was received before April 1, 2016.",
+            "label":[
+                "1026",
+                "35",
+                "b",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii",
+                "E",
+                "3"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -22985,7 +22988,7 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1026-35-c-2-vii-A-Interp",
+                "1026-35-c-2-vii-A-1-Interp",
                 "1026-35-c-2-vii-B-Interp",
                 "1026-35-c-2-vii-C-Interp"
             ]
@@ -24665,26 +24668,6 @@
         ],
         "op":"modified"
     },
-    "1026-51-b-1-i-Interp-3-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The non-applicant's salary or other income is deposited into an account to which the applicant does not have access. However, the non-applicant regularly transfers a portion of that income into the applicant's individual deposit account. A card issuer is permitted to consider the amount of the non-applicant's income that is being transferred regularly into the applicant's account to be the applicant's current or reasonably expected income for purposes of \u00a7 1026.51(b)(1)(i).",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "3",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-32-d-2-Interp-1":{
         "text":[
             [
@@ -25925,26 +25908,6 @@
                 "3",
                 "Interp",
                 "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-51-b-1-i-Interp-2-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Information obtained through third parties (subject to any applicable information-sharing rules).",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "2",
-                "iii"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -32937,28 +32900,6 @@
         ],
         "op":"modified"
     },
-    "1026-51-b-1-i-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Paragraph 51(b)(1)(i).",
-            "text":"",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-51-b-1-i-Interp-1",
-                "1026-51-b-1-i-Interp-2",
-                "1026-51-b-1-i-Interp-3"
-            ]
-        },
-        "op":"added"
-    },
     "1026-32-b-1-Interp-1-iii":{
         "node":{
             "tagged_text":null,
@@ -37972,27 +37913,6 @@
             "child_labels":[
                 "1026-37-o-1-i",
                 "1026-37-o-1-ii"
-            ]
-        },
-        "op":"added"
-    },
-    "1026-35-c-2-vii-A-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"",
-            "label":[
-                "1026",
-                "35",
-                "c",
-                "2",
-                "vii",
-                "A",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-35-c-2-vii-A-1-Interp"
             ]
         },
         "op":"added"
@@ -49489,6 +49409,9 @@
             ],
             "node_type":"interp",
             "child_labels":[
+                "1026-35-b-2-iii-Interp-1-iii-E-1",
+                "1026-35-b-2-iii-Interp-1-iii-E-2",
+                "1026-35-b-2-iii-Interp-1-iii-E-3",
                 "1026-35-b-2-iii-Interp-1-iii-E-4"
             ]
         },
@@ -50351,26 +50274,6 @@
             ],
             "node_type":"appendix",
             "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-51-b-1-ii-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Paragraph 51(b)(1)(ii).",
-            "text":"",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "ii",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-51-b-1-ii-Interp-1"
-            ]
         },
         "op":"added"
     },
@@ -53124,26 +53027,6 @@
         ],
         "op":"modified"
     },
-    "1026-51-b-1-i-Interp-2-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Information provided by the consumer in connection with any other financial relationship the card issuer or its affiliates have with the consumer (subject to any applicable information-sharing rules).",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "2",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-36-d-2-i-Interp-2-ii":{
         "node":{
             "tagged_text":null,
@@ -53257,26 +53140,6 @@
                 "Interp",
                 "1",
                 "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-51-b-1-i-Interp-2-iv":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Information obtained through any empirically derived, demonstrably and statistically sound model that reasonably estimates a consumer's income or assets.",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "2",
-                "iv"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -54045,53 +53908,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1026-51-b-1-i-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Information regarding income and assets for young consumers.For purposes of \u00a7 1026.51(b)(1)(i), a card issuer may consider the consumer's current or reasonably expected income and assets based on the following information:",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-51-b-1-i-Interp-2-i",
-                "1026-51-b-1-i-Interp-2-ii",
-                "1026-51-b-1-i-Interp-2-iii",
-                "1026-51-b-1-i-Interp-2-iv"
-            ]
-        },
-        "op":"added"
-    },
-    "1026-51-b-1-i-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Consideration of income and assets for young consumers.For purposes of \u00a7 1026.51(b)(1)(i):",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-51-b-1-i-Interp-1-i",
-                "1026-51-b-1-i-Interp-1-ii",
-                "1026-51-b-1-i-Interp-1-iii"
-            ]
-        },
-        "op":"added"
     },
     "1026-32-b-4-i-Interp-1-iii":{
         "node":{
@@ -63425,6 +63241,28 @@
         },
         "op":"added"
     },
+    "1026-35-b-2-iii-Interp-1-iii-E-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For calendar year 2013, the asset threshold was $2,000,000,000. Creditors that had total assets of less than $2,000,000,000 on December 31, 2012, satisfied this criterion for purposes of the exemption during 2013.",
+            "label":[
+                "1026",
+                "35",
+                "b",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii",
+                "E",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-43-d-5-i-Interp-10-i":{
         "node":{
             "tagged_text":null,
@@ -65847,26 +65685,6 @@
         },
         "op":"added"
     },
-    "1026-51-b-1-i-Interp-1-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Current or reasonably expected income includes, for example, current or expected salary, wages, bonus pay, tips, and commissions. Employment may be full-time, part-time, seasonal, irregular, military, or self-employment. Other sources of income include interest or dividends, retirement benefits, public assistance, alimony, child support, and separate maintenance payments. Proceeds from student loans may be considered as current or reasonably expected income only to the extent that those proceeds exceed the amount disbursed or owed to an educational institution for tuition and other expenses. Current or reasonably expected income includes income that is being deposited regularly into an account on which the consumer is an accountholder (e.g., an individual deposit account or a joint account). Assets include, for example, savings accounts and investments. Current or reasonably expected income and assets does not include income and assets to which the consumer only has a reasonable expectation of access.",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "1",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-38-g-4-Interp-3":{
         "node":{
             "tagged_text":null,
@@ -66256,7 +66074,7 @@
     "1026-19-e-1-iii-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"19(e)(1)(iii) .",
+            "title":"19(e)(1)(iii) Timing.",
             "text":"",
             "label":[
                 "1026",
@@ -66817,8 +66635,8 @@
     "1026-41-d-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"TerminologyA servicer may use terminology other than that found on the sample periodic statements in appendix H-30, so long as the new terminology is commonly understood. For example, servicers may take into consideration regional differences in terminology and refer to the account for the collection of taxes and insurance, referred to in \u00a7 1026.41(d) as the \u201cescrow account,\u201d as an \u201cimpound account.\u201d",
+            "title":"Terminology",
+            "text":"A servicer may use terminology other than that found on the sample periodic statements in appendix H-30, so long as the new terminology is commonly understood. For example, servicers may take into consideration regional differences in terminology and refer to the account for the collection of taxes and insurance, referred to in \u00a7 1026.41(d) as the \u201cescrow account,\u201d as an \u201cimpound account.\u201d",
             "label":[
                 "1026",
                 "41",
@@ -69296,26 +69114,6 @@
                 "a"
             ],
             "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-51-b-1-i-Interp-3-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"If a non-applicant's salary or other income is deposited regularly into a joint account shared with the applicant, a card issuer is permitted to consider the amount of the non-applicant's income that is being deposited regularly into the account to be the applicant's current or reasonably expected income for purposes of \u00a7 1026.51(b)(1)(i).",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "3",
-                "i"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -76070,25 +75868,6 @@
         },
         "op":"added"
     },
-    "1026-51-b-1-ii-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Financial information.Information regarding income and assets that satisfies the requirements of \u00a7 1026.51(a) also satisfies the requirements of \u00a7 1026.51(b)(1)(ii)(B) and card issuers may rely on the guidance in comments 51(a)(1)-4, -5, and -6 for purposes of determining whether a cosigner, guarantor, or joint applicant who is at least 21 years old has the ability to make the required minimum periodic payments in accordance with \u00a7 1026.51(b)(1)(ii)(B).",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "ii",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-19-f-3-ii-C":{
         "node":{
             "tagged_text":null,
@@ -82013,26 +81792,6 @@
         },
         "op":"added"
     },
-    "1026-51-b-1-i-Interp-1-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A card issuer may consider any current or reasonably expected income or assets of the consumer or consumers who are applying for a new account or will be liable for debts incurred on that account, including a cosigner or guarantor. However, because \u00a7 1026.51(b)(1)(i) requires that the consumer who has not attained the age of 21 have an independent ability to make the required minimum periodic payments, the card issuer may only consider the applicant's current or reasonably expected income or assets under \u00a7 1026.51(b)(1)(i). The card issuer may not consider income or assets to which an applicant, joint applicant, cosigner, or guarantor, in each case who is under the age of 21 and is or will be liable for debts incurred on the account, has only a reasonable expectation of access.",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "1",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-43-e-6-i-B":{
         "node":{
             "tagged_text":null,
@@ -82161,26 +81920,6 @@
                 "1"
             ],
             "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-51-b-1-i-Interp-1-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Consideration of the income and assets of authorized users, household members, or other persons who are not liable for debts incurred on the account does not satisfy the requirement to consider the consumer's current or reasonably expected income or assets, unless a Federal or State statute or regulation grants a consumer who is liable for debts incurred on the account an ownership interest in such income or assets (e.g., joint ownership granted under State community property laws), or the income is being deposited regularly into an account on which the consumer is an accountholder (e.g., an individual deposit account or a joint account). See comment 51(b)(1)(i)-3 for examples of income that may be relied upon as a consumer's current or reasonably expected income.",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "1",
-                "iii"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -88146,26 +87885,6 @@
         },
         "op":"added"
     },
-    "1026-51-b-1-i-Interp-3-iv":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The non-applicant's salary or other income is deposited into an account to which the applicant does not have access, the non-applicant does not regularly use that income to pay for the applicant's expenses, and no Federal or State statute or regulation grants the applicant an ownership interest in that income. The card issuer is not permitted to consider the non-applicant's income to be the applicant's current or reasonably expected income for purposes of \u00a7 1026.51(b)(1)(i).",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "3",
-                "iv"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-43-f-2-iv-Interp":{
         "node":{
             "tagged_text":null,
@@ -89050,26 +88769,6 @@
                 "Interp",
                 "1",
                 "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-51-b-1-i-Interp-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Information provided by the consumer in connection with the account, including information provided by the consumer through the application process. For example, card issuers may rely without further inquiry on information provided by applicants in response to a request for \u201csalary,\u201d \u201cincome,\u201d \u201cpersonal income,\u201d \u201cindividual income,\u201d \u201cassets,\u201d or other language requesting that the applicant provide information regarding his or her current or reasonably expected income or assets. However, card issuers may not rely solely on information provided in response to a request for \u201chousehold income.\u201d Nor may they rely solely on information provided in response to a request for \u201cavailable income,\u201d \u201caccessible income,\u201d or other language requesting that the applicant provide any income or assets to which the applicant has a reasonable expectation of access. In such cases, the card issuer would need to obtain additional information about an applicant's current or reasonably expected income (such as by contacting the applicant). See comments 51(b)(1)(i)-1, -2, and -3 for additional guidance on determining the consumer's current or reasonably expected income under \u00a7 1026.51(b)(1)(i). See comment 51(a)(1)-9 for guidance regarding the use of a single, common application for all credit card applicants, regardless of age.",
-            "label":[
-                "1026",
-                "51",
-                "b",
-                "1",
-                "i",
-                "Interp",
-                "2",
-                "i"
             ],
             "node_type":"interp",
             "child_labels":[]

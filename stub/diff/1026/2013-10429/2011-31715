@@ -1,11 +1,5 @@
 {
-    "1026-51-b-1-i-Interp-2-i":{
-        "op":"deleted"
-    },
     "1026-51-b-2-Interp-2":{
-        "op":"deleted"
-    },
-    "1026-51-b-1-i-Interp-3-i":{
         "op":"deleted"
     },
     "1026-K-a":{
@@ -25,13 +19,7 @@
         ],
         "op":"modified"
     },
-    "1026-51-b-1-ii-Interp-1":{
-        "op":"deleted"
-    },
     "1026-51-a-1-i-Interp-5-iv":{
-        "op":"deleted"
-    },
-    "1026-51-b-1-i-Interp-1-i":{
         "op":"deleted"
     },
     "1026-52-a-2-Interp-1":{
@@ -73,9 +61,6 @@
     "1026-51-b-2-i-B":{
         "op":"deleted"
     },
-    "1026-51-b-1-i-Interp-1-iii":{
-        "op":"deleted"
-    },
     "1026-51-a-1-i-Interp-4":{
         "text":[
             [
@@ -105,8 +90,22 @@
         ],
         "op":"modified"
     },
-    "1026-51-b-1-i-Interp-3-iii":{
-        "op":"deleted"
+    "1026-52-a-1-Interp-3-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    20,
+                    28
+                ],
+                [
+                    "insert",
+                    20,
+                    "limit. If"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-51-a-1-i-Interp-4-ii":{
         "text":[
@@ -198,28 +197,6 @@
     },
     "1026-51-a-1-i-Interp-6-iv":{
         "op":"deleted"
-    },
-    "1026-51-b-1-i-Interp-3-ii":{
-        "op":"deleted"
-    },
-    "1026-52-a-1-Interp-1-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Assume that, on January 1 of year one, a consumer is required to pay a $100 fee in order to apply for a credit card account. On January 5, the card issuer approves the consumer's application, assigns the account a credit limit of $1,000, and provides the consumer with account-opening disclosures consistent with \u00a7 1026.6. The date on which the account may first be used by the consumer to engage in transactions is January 5. The consumer is required to pay $150 in fees for the issuance or availability of credit, which \u00a7 1026.52(a)(1) permits the card issuer to charge to the account on January 5. However, because the $100 application fee is subject to the 25 percent limit in \u00a7 1026.52(a)(1), the card issuer is prohibited from requiring the consumer to pay any additional non-exempt fees with respect to the account until January 5 of year two.",
-            "label":[
-                "1026",
-                "52",
-                "a",
-                "1",
-                "Interp",
-                "1",
-                "iii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1026-51-a-1-i-Interp-4-iii":{
         "text":[
@@ -384,9 +361,6 @@
     "1026-51-a-1-i-Interp-6-iii":{
         "op":"deleted"
     },
-    "1026-51-b-1-i-Interp-2-ii":{
-        "op":"deleted"
-    },
     "1026-51-b-Interp-7":{
         "op":"deleted"
     },
@@ -435,9 +409,6 @@
         ],
         "op":"modified"
     },
-    "1026-51-b-1-i-Interp":{
-        "op":"deleted"
-    },
     "1026-51-a-1-i-Interp-4-i-C":{
         "node":{
             "tagged_text":null,
@@ -459,13 +430,7 @@
         },
         "op":"added"
     },
-    "1026-51-b-1-i-Interp-3-iv":{
-        "op":"deleted"
-    },
-    "1026-51-b-1-i-Interp-2-iv":{
-        "op":"deleted"
-    },
-    "1026-51-b-1-ii-Interp":{
+    "1026-52-a-1-Interp-1":{
         "op":"deleted"
     },
     "1026-1-a":{
@@ -577,22 +542,25 @@
     "1026-51-a-1-i-Interp-6-ii":{
         "op":"deleted"
     },
-    "1026-52-a-1-Interp-3-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    20,
-                    28
-                ],
-                [
-                    "insert",
-                    20,
-                    "limit. If"
-                ]
+    "1026-51-b-1-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"51(b)(1) Applications from young consumers",
+            "text":"",
+            "label":[
+                "1026",
+                "51",
+                "b",
+                "1",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-51-b-1-Interp-1",
+                "1026-51-b-1-Interp-2"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1026-32-a-1-ii-Interp-2-xviii":{
         "op":"deleted"
@@ -610,8 +578,24 @@
     "1026-1-c-5":{
         "op":"deleted"
     },
-    "1026-51-b-1-i-Interp-1-ii":{
-        "op":"deleted"
+    "1026-52-a-1-Interp-1-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Assume that, on January 1 of year one, a consumer is required to pay a $100 fee in order to apply for a credit card account. On January 5, the card issuer approves the consumer's application, assigns the account a credit limit of $1,000, and provides the consumer with account-opening disclosures consistent with \u00a7 1026.6. The date on which the account may first be used by the consumer to engage in transactions is January 5. The consumer is required to pay $150 in fees for the issuance or availability of credit, which \u00a7 1026.52(a)(1) permits the card issuer to charge to the account on January 5. However, because the $100 application fee is subject to the 25 percent limit in \u00a7 1026.52(a)(1), the card issuer is prohibited from requiring the consumer to pay any additional non-exempt fees with respect to the account until January 5 of year two.",
+            "label":[
+                "1026",
+                "52",
+                "a",
+                "1",
+                "Interp",
+                "1",
+                "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-52-a-1-Interp-3-ii-A":{
         "node":{
@@ -768,9 +752,6 @@
     "1026-51-a-1-i-Interp-6-i":{
         "op":"deleted"
     },
-    "1026-52-a-1-Interp-1":{
-        "op":"deleted"
-    },
     "1026-51-a-1-i-Interp-6":{
         "text":[
             [
@@ -910,9 +891,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1026-51-b-1-i-Interp-2-iii":{
-        "op":"deleted"
     },
     "1026-51-a-1-i-Interp-1":{
         "text":[
@@ -1075,15 +1053,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1026-51-b-1-i-Interp-3":{
-        "op":"deleted"
-    },
-    "1026-51-b-1-i-Interp-2":{
-        "op":"deleted"
-    },
-    "1026-51-b-1-i-Interp-1":{
-        "op":"deleted"
     },
     "1026-1-c-5-Interp":{
         "op":"deleted"

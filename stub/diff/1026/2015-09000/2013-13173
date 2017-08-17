@@ -1365,9 +1365,6 @@
         ],
         "op":"modified"
     },
-    "1026-35-c-2-vii-A-Interp":{
-        "op":"deleted"
-    },
     "1026-35-c-4-Interp-1":{
         "op":"deleted"
     },
@@ -3872,7 +3869,7 @@
                 [
                     "delete",
                     0,
-                    12
+                    1
                 ],
                 [
                     "insert",
@@ -3883,14 +3880,21 @@
             [
                 [
                     "delete",
-                    87,
-                    97
+                    76,
+                    86
                 ],
                 [
                     "insert",
-                    87,
+                    76,
                     "statement"
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                11
             ]
         ],
         "op":"modified"

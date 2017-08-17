@@ -1148,6 +1148,72 @@
         },
         "op":"added"
     },
+    "1026-35-b-2-iii-Interp-1-iii-E-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For calendar year 2013, the asset threshold was $2,000,000,000. Creditors that had total assets of less than $2,000,000,000 on December 31, 2012, satisfied this criterion for purposes of the exemption during 2013.",
+            "label":[
+                "1026",
+                "35",
+                "b",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii",
+                "E",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-35-b-2-iii-Interp-1-iii-E-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For calendar year 2014, the asset threshold was $2,028,000,000. Creditors that had total assets of less than $2,028,000,000 on December 31, 2013, satisfied this criterion for purposes of the exemption during 2014.",
+            "label":[
+                "1026",
+                "35",
+                "b",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii",
+                "E",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-35-b-2-iii-Interp-1-iii-E-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For calendar year 2015, the asset threshold was $2,060,000,000. Creditors that had total assets of less than $2,060,000,000 on December 31, 2014, satisfied this criterion for purposes of any loan consummated in 2015 and, if the creditor's assets together with the assets of its affiliates that regularly extended first-lien covered transactions during calendar year 2014 were less than that amount, for purposes of any loan consummated in 2016 for which the application was received before April 1, 2016.",
+            "label":[
+                "1026",
+                "35",
+                "b",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii",
+                "E",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-35-b-2-iii-Interp-1-iii-E-4":{
         "node":{
             "tagged_text":null,
@@ -1861,21 +1927,19 @@
         },
         "op":"added"
     },
-    "1026-35-b-2-iii-Interp-1-iii-C":{
+    "1026-35-c-2-ii-Interp-4":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"If multiple creditors share ownership of a company that regularly extended first-lien covered transactions, the assets of the company count toward the asset limit for a co-owner creditor if the company is an \u201caffiliate,\u201d as defined in \u00a7 1026.32(b)(5), of the co-owner creditor. Assuming the company is not an affiliate of the co-owner creditor by virtue of any other aspect of the definition (such as by the company and co-owner creditor being under common control), the company's assets are included toward the asset limit of the co-owner creditor only if the company is controlled by the co-owner creditor, \u201cas set forth in the Bank Holding Company Act.\u201d If the co-owner creditor and the company are affiliates (by virtue of any aspect of the definition), the co-owner creditor counts all of the company's assets toward the asset limit, regardless of the co-owner creditor's ownership share. Further, because the co-owner and the company are mutual affiliates the company also would count all of the co-owner's assets towards its own asset limit. See comment 35(b)(2)(iii)-1.ii.C for discussion of the definition of \u201caffiliate.\u201d",
+            "text":"Qualifying for exemption\u2014in general.A transaction is exempt under \u00a7\u20091026.35(c)(2)(ii) if the creditor makes an extension of credit at consummation that is equal to or below the threshold amount in effect at the time of consummation.",
             "label":[
                 "1026",
                 "35",
-                "b",
+                "c",
                 "2",
-                "iii",
+                "ii",
                 "Interp",
-                "1",
-                "iii",
-                "C"
+                "4"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -2970,6 +3034,9 @@
             ],
             "node_type":"interp",
             "child_labels":[
+                "1026-35-b-2-iii-Interp-1-iii-E-1",
+                "1026-35-b-2-iii-Interp-1-iii-E-2",
+                "1026-35-b-2-iii-Interp-1-iii-E-3",
                 "1026-35-b-2-iii-Interp-1-iii-E-4"
             ]
         },
@@ -3192,19 +3259,21 @@
         },
         "op":"added"
     },
-    "1026-35-c-2-ii-Interp-4":{
+    "1026-35-b-2-iii-Interp-1-iii-C":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Qualifying for exemption\u2014in general.A transaction is exempt under \u00a7\u20091026.35(c)(2)(ii) if the creditor makes an extension of credit at consummation that is equal to or below the threshold amount in effect at the time of consummation.",
+            "text":"If multiple creditors share ownership of a company that regularly extended first-lien covered transactions, the assets of the company count toward the asset limit for a co-owner creditor if the company is an \u201caffiliate,\u201d as defined in \u00a7 1026.32(b)(5), of the co-owner creditor. Assuming the company is not an affiliate of the co-owner creditor by virtue of any other aspect of the definition (such as by the company and co-owner creditor being under common control), the company's assets are included toward the asset limit of the co-owner creditor only if the company is controlled by the co-owner creditor, \u201cas set forth in the Bank Holding Company Act.\u201d If the co-owner creditor and the company are affiliates (by virtue of any aspect of the definition), the co-owner creditor counts all of the company's assets toward the asset limit, regardless of the co-owner creditor's ownership share. Further, because the co-owner and the company are mutual affiliates the company also would count all of the co-owner's assets towards its own asset limit. See comment 35(b)(2)(iii)-1.ii.C for discussion of the definition of \u201caffiliate.\u201d",
             "label":[
                 "1026",
                 "35",
-                "c",
+                "b",
                 "2",
-                "ii",
+                "iii",
                 "Interp",
-                "4"
+                "1",
+                "iii",
+                "C"
             ],
             "node_type":"interp",
             "child_labels":[]

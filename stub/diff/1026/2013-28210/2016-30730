@@ -1147,6 +1147,64 @@
         ],
         "op":"modified"
     },
+    "1026-35-c-2-ii-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    10
+                ],
+                [
+                    "insert",
+                    0,
+                    "No increase in the CPI-W.If the CPI-W in effect on June 1 does not increase from the CPI-W in effect on June 1 of the previous year, the threshold amount effective the following January 1 through December 31 will not change from the previous year. When this occurs,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    15,
+                    49
+                ],
+                [
+                    "insert",
+                    15,
+                    "the years that follow, the threshold"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    53,
+                    85
+                ],
+                [
+                    "insert",
+                    53,
+                    "calculated based on the annual percentage change in the CPI-W applied to the dollar amount that would have resulted, after rounding,"
+                ]
+            ],
+            [
+                "insert",
+                89,
+                "decreases and any subsequent increases in "
+            ],
+            [
+                [
+                    "delete",
+                    93,
+                    233
+                ],
+                [
+                    "insert",
+                    93,
+                    "CPI-W had been taken into account."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1026-37-m-8":{
         "node":{
             "tagged_text":null,
@@ -1282,6 +1340,50 @@
             ]
         ],
         "op":"modified"
+    },
+    "1026-35-b-2-iii-Interp-1-iii-E-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For calendar year 2014, the asset threshold was $2,028,000,000. Creditors that had total assets of less than $2,028,000,000 on December 31, 2013, satisfied this criterion for purposes of the exemption during 2014.",
+            "label":[
+                "1026",
+                "35",
+                "b",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii",
+                "E",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-35-b-2-iii-Interp-1-iii-E-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For calendar year 2015, the asset threshold was $2,060,000,000. Creditors that had total assets of less than $2,060,000,000 on December 31, 2014, satisfied this criterion for purposes of any loan consummated in 2015 and, if the creditor's assets together with the assets of its affiliates that regularly extended first-lien covered transactions during calendar year 2014 were less than that amount, for purposes of any loan consummated in 2016 for which the application was received before April 1, 2016.",
+            "label":[
+                "1026",
+                "35",
+                "b",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii",
+                "E",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-35-b-2-iii-Interp-1-iii-E-4":{
         "node":{
@@ -1984,63 +2086,27 @@
         ],
         "op":"modified"
     },
-    "1026-35-c-2-ii-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    10
-                ],
-                [
-                    "insert",
-                    0,
-                    "No increase in the CPI-W.If the CPI-W in effect on June 1 does not increase from the CPI-W in effect on June 1 of the previous year, the threshold amount effective the following January 1 through December 31 will not change from the previous year. When this occurs,"
-                ]
+    "1026-35-b-2-iii-Interp-1-iii-E-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For calendar year 2013, the asset threshold was $2,000,000,000. Creditors that had total assets of less than $2,000,000,000 on December 31, 2012, satisfied this criterion for purposes of the exemption during 2013.",
+            "label":[
+                "1026",
+                "35",
+                "b",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii",
+                "E",
+                "1"
             ],
-            [
-                [
-                    "delete",
-                    15,
-                    49
-                ],
-                [
-                    "insert",
-                    15,
-                    "the years that follow, the threshold"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    53,
-                    85
-                ],
-                [
-                    "insert",
-                    53,
-                    "calculated based on the annual percentage change in the CPI-W applied to the dollar amount that would have resulted, after rounding,"
-                ]
-            ],
-            [
-                "insert",
-                89,
-                "decreases and any subsequent increases in "
-            ],
-            [
-                [
-                    "delete",
-                    93,
-                    233
-                ],
-                [
-                    "insert",
-                    93,
-                    "CPI-W had been taken into account."
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-17-c-1-Interp-2-i":{
         "text":[
@@ -4583,6 +4649,9 @@
             ],
             "node_type":"interp",
             "child_labels":[
+                "1026-35-b-2-iii-Interp-1-iii-E-1",
+                "1026-35-b-2-iii-Interp-1-iii-E-2",
+                "1026-35-b-2-iii-Interp-1-iii-E-3",
                 "1026-35-b-2-iii-Interp-1-iii-E-4"
             ]
         },

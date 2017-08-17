@@ -14,7 +14,7 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1026-35-c-2-vii-A-Interp",
+                "1026-35-c-2-vii-A-1-Interp",
                 "1026-35-c-2-vii-B-Interp",
                 "1026-35-c-2-vii-C-Interp"
             ]
@@ -953,35 +953,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1026-41-d-Interp-3":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    13
-                ],
-                [
-                    "insert",
-                    0,
-                    "TerminologyA"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    88,
-                    97
-                ],
-                [
-                    "insert",
-                    88,
-                    "statements"
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1026-35-b-2-i-D":{
         "text":[
@@ -2212,24 +2183,22 @@
         },
         "op":"added"
     },
-    "1026-35-c-2-vii-A-Interp":{
+    "1026-35-c-3-ii-Interp-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"",
+            "text":"Safe harbor.A creditor that satisfies the safe harbor conditions in \u00a7 1026.35(c)(3)(ii)(A) through (D) complies with the appraisal requirements of \u00a7 1026.35(c)(3)(i). A creditor that does not satisfy the safe harbor conditions in \u00a7 1026.35(c)(3)(ii)(A) through (D) does not necessarily violate the appraisal requirements of \u00a7 1026.35(c)(3)(i).",
             "label":[
                 "1026",
                 "35",
                 "c",
-                "2",
-                "vii",
-                "A",
-                "Interp"
+                "3",
+                "ii",
+                "Interp",
+                "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1026-35-c-2-vii-A-1-Interp"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -6294,24 +6263,41 @@
         ],
         "op":"modified"
     },
-    "1026-35-c-3-ii-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Safe harbor.A creditor that satisfies the safe harbor conditions in \u00a7 1026.35(c)(3)(ii)(A) through (D) complies with the appraisal requirements of \u00a7 1026.35(c)(3)(i). A creditor that does not satisfy the safe harbor conditions in \u00a7 1026.35(c)(3)(ii)(A) through (D) does not necessarily violate the appraisal requirements of \u00a7 1026.35(c)(3)(i).",
-            "label":[
-                "1026",
-                "35",
-                "c",
-                "3",
-                "ii",
-                "Interp",
-                "1"
+    "1026-41-d-Interp-3":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    13
+                ],
+                [
+                    "insert",
+                    0,
+                    "A"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    88,
+                    97
+                ],
+                [
+                    "insert",
+                    88,
+                    "statements"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Terminology"
+            ]
+        ],
+        "op":"modified"
     },
     "1026-35-c-2-viii-C-3-Interp-3":{
         "node":{

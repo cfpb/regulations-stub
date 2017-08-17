@@ -19,17 +19,11 @@
         },
         "op":"added"
     },
-    "1026-35-c-2-ii-Interp-1-i":{
-        "op":"deleted"
-    },
-    "1026-35-b-2-iii-Interp-1-iii-E-1":{
-        "op":"deleted"
-    },
-    "1026-35-c-2-ii-Interp-3-iv":{
+    "1026-35-c-2-ii-Interp-5":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"From January 1, 2017, through December 31, 2017, the threshold amount is $25,500.",
+            "text":"Qualifying for exemption\u2014subsequent changes.A transaction does not meet the condition for an exemption under \u00a7\u20091026.35(c)(2)(ii) merely because it is used to satisfy and replace an existing exempt loan, unless the amount of the new extension of credit is equal to or less than the applicable threshold amount. For example, assume a closed-end loan that qualified for a \u00a7\u20091026.35(c)(2)(ii) exemption at consummation in year one is refinanced in year ten and that the new loan amount is greater than the threshold amount in effect in year ten. In these circumstances, the creditor must comply with all of the applicable requirements of \u00a7\u20091026.35(c) with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan, unless another exemption from the requirements of \u00a7\u20091026.35(c) applies. See \u00a7\u20091026.35(c)(2) and (c)(4)(vii).",
             "label":[
                 "1026",
                 "35",
@@ -37,13 +31,70 @@
                 "2",
                 "ii",
                 "Interp",
-                "3",
-                "iv"
+                "5"
             ],
             "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-35-c-2-ii-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    10
+                ],
+                [
+                    "insert",
+                    0,
+                    "No increase in the CPI-W.If the CPI-W in effect on June 1 does not increase from the CPI-W in effect on June 1 of the previous year, the threshold amount effective the following January 1 through December 31 will not change from the previous year. When this occurs,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    15,
+                    49
+                ],
+                [
+                    "insert",
+                    15,
+                    "the years that follow, the threshold"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    53,
+                    85
+                ],
+                [
+                    "insert",
+                    53,
+                    "calculated based on the annual percentage change in the CPI-W applied to the dollar amount that would have resulted, after rounding,"
+                ]
+            ],
+            [
+                "insert",
+                89,
+                "decreases and any subsequent increases in "
+            ],
+            [
+                [
+                    "delete",
+                    93,
+                    233
+                ],
+                [
+                    "insert",
+                    93,
+                    "CPI-W had been taken into account."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-35-c-2-ii-Interp-3-iii":{
         "node":{
@@ -64,6 +115,131 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-35-c-2-ii-Interp-2-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Net increases.If the resulting amount calculated, after rounding, is greater than the current threshold, then the threshold effective January 1 the following year will increase accordingly.",
+            "label":[
+                "1026",
+                "35",
+                "c",
+                "2",
+                "ii",
+                "Interp",
+                "2",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-35-c-2-ii-Interp-2-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Net decreases.If the resulting amount calculated, after rounding, is equal to or less than the current threshold, then the threshold effective January 1 the following year will not change, but future increases will be calculated based on the amount that would have resulted.",
+            "label":[
+                "1026",
+                "35",
+                "c",
+                "2",
+                "ii",
+                "Interp",
+                "2",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-35-c-2-ii-Interp-3":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    10
+                ],
+                [
+                    "insert",
+                    0,
+                    "Threshold.For purposes of \u00a7\u20091026.35(c)(2)(ii), the threshold amount in effect during a particular period is the amount stated below"
+                ]
+            ],
+            [
+                "delete",
+                15,
+                348
+            ],
+            [
+                [
+                    "delete",
+                    353,
+                    869
+                ],
+                [
+                    "insert",
+                    353,
+                    "period."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1026-35-b-2-iii-Interp-1-iii-E":{
+        "text":[
+            [
+                "insert",
+                442,
+                " 2017, the asset threshold is $2,069,000,000. A creditor that together with the assets of its affiliates that regularly extended first-lien covered transactions during calendar year 2016 has total assets of less than $2,069,000,000 on December 31,"
+            ],
+            [
+                "delete",
+                449,
+                696
+            ],
+            [
+                [
+                    "delete",
+                    761,
+                    765
+                ],
+                [
+                    "insert",
+                    761,
+                    "2017"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    810,
+                    818
+                ],
+                [
+                    "insert",
+                    810,
+                    "2018 for"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    870,
+                    875
+                ],
+                [
+                    "insert",
+                    870,
+                    "2018."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-35-c-2-ii-Interp-1":{
         "text":[
@@ -205,117 +381,6 @@
         ],
         "op":"modified"
     },
-    "1026-35-c-2-ii-Interp-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Net increases.If the resulting amount calculated, after rounding, is greater than the current threshold, then the threshold effective January 1 the following year will increase accordingly.",
-            "label":[
-                "1026",
-                "35",
-                "c",
-                "2",
-                "ii",
-                "Interp",
-                "2",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-35-c-2-ii-Interp-3":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    10
-                ],
-                [
-                    "insert",
-                    0,
-                    "Threshold.For purposes of \u00a7\u20091026.35(c)(2)(ii), the threshold amount in effect during a particular period is the amount stated below"
-                ]
-            ],
-            [
-                "delete",
-                15,
-                348
-            ],
-            [
-                [
-                    "delete",
-                    353,
-                    869
-                ],
-                [
-                    "insert",
-                    353,
-                    "period."
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1026-35-b-2-iii-Interp-1-iii-E":{
-        "text":[
-            [
-                "insert",
-                442,
-                " 2017, the asset threshold is $2,069,000,000. A creditor that together with the assets of its affiliates that regularly extended first-lien covered transactions during calendar year 2016 has total assets of less than $2,069,000,000 on December 31,"
-            ],
-            [
-                "delete",
-                449,
-                696
-            ],
-            [
-                [
-                    "delete",
-                    761,
-                    765
-                ],
-                [
-                    "insert",
-                    761,
-                    "2017"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    810,
-                    818
-                ],
-                [
-                    "insert",
-                    810,
-                    "2018 for"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    870,
-                    875
-                ],
-                [
-                    "insert",
-                    870,
-                    "2018."
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1026-35-b-2-iii-Interp-1-iii-E-2":{
-        "op":"deleted"
-    },
-    "1026-35-b-2-iii-Interp-1-iii-E-3":{
-        "op":"deleted"
-    },
     "1026-35-b-2-iii-Interp-1-iii-E-4":{
         "node":{
             "tagged_text":null,
@@ -341,24 +406,8 @@
     "1026-35-c-2-ii-Interp-1-iii":{
         "op":"deleted"
     },
-    "1026-35-c-2-ii-Interp-5":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Qualifying for exemption\u2014subsequent changes.A transaction does not meet the condition for an exemption under \u00a7\u20091026.35(c)(2)(ii) merely because it is used to satisfy and replace an existing exempt loan, unless the amount of the new extension of credit is equal to or less than the applicable threshold amount. For example, assume a closed-end loan that qualified for a \u00a7\u20091026.35(c)(2)(ii) exemption at consummation in year one is refinanced in year ten and that the new loan amount is greater than the threshold amount in effect in year ten. In these circumstances, the creditor must comply with all of the applicable requirements of \u00a7\u20091026.35(c) with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan, unless another exemption from the requirements of \u00a7\u20091026.35(c) applies. See \u00a7\u20091026.35(c)(2) and (c)(4)(vii).",
-            "label":[
-                "1026",
-                "35",
-                "c",
-                "2",
-                "ii",
-                "Interp",
-                "5"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-35-c-2-ii-Interp-1-i":{
+        "op":"deleted"
     },
     "1026-35-c-2-ii-Interp-4":{
         "node":{
@@ -399,11 +448,11 @@
         },
         "op":"added"
     },
-    "1026-35-c-2-ii-Interp-2-ii":{
+    "1026-35-c-2-ii-Interp-3-iv":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Net decreases.If the resulting amount calculated, after rounding, is equal to or less than the current threshold, then the threshold effective January 1 the following year will not change, but future increases will be calculated based on the amount that would have resulted.",
+            "text":"From January 1, 2017, through December 31, 2017, the threshold amount is $25,500.",
             "label":[
                 "1026",
                 "35",
@@ -411,8 +460,8 @@
                 "2",
                 "ii",
                 "Interp",
-                "2",
-                "ii"
+                "3",
+                "iv"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -421,63 +470,5 @@
     },
     "1026-35-c-2-ii-Interp-1-ii":{
         "op":"deleted"
-    },
-    "1026-35-c-2-ii-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    10
-                ],
-                [
-                    "insert",
-                    0,
-                    "No increase in the CPI-W.If the CPI-W in effect on June 1 does not increase from the CPI-W in effect on June 1 of the previous year, the threshold amount effective the following January 1 through December 31 will not change from the previous year. When this occurs,"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    15,
-                    49
-                ],
-                [
-                    "insert",
-                    15,
-                    "the years that follow, the threshold"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    53,
-                    85
-                ],
-                [
-                    "insert",
-                    53,
-                    "calculated based on the annual percentage change in the CPI-W applied to the dollar amount that would have resulted, after rounding,"
-                ]
-            ],
-            [
-                "insert",
-                89,
-                "decreases and any subsequent increases in "
-            ],
-            [
-                [
-                    "delete",
-                    93,
-                    233
-                ],
-                [
-                    "insert",
-                    93,
-                    "CPI-W had been taken into account."
-                ]
-            ]
-        ],
-        "op":"modified"
     }
 }

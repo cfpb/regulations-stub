@@ -14,7 +14,7 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1026-35-c-2-vii-A-Interp",
+                "1026-35-c-2-vii-A-1-Interp",
                 "1026-35-c-2-vii-B-Interp",
                 "1026-35-c-2-vii-C-Interp"
             ]
@@ -2760,27 +2760,6 @@
             "node_type":"interp",
             "child_labels":[
                 "1026-43-a-3-iv-Interp-1"
-            ]
-        },
-        "op":"added"
-    },
-    "1026-35-c-2-vii-A-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"",
-            "label":[
-                "1026",
-                "35",
-                "c",
-                "2",
-                "vii",
-                "A",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-35-c-2-vii-A-1-Interp"
             ]
         },
         "op":"added"
@@ -9531,7 +9510,7 @@
                 [
                     "insert",
                     0,
-                    "TerminologyA"
+                    "A"
                 ]
             ],
             [
@@ -9545,6 +9524,13 @@
                     88,
                     "statements"
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Terminology"
             ]
         ],
         "op":"modified"

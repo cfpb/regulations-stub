@@ -3797,7 +3797,8 @@
             "node_type":"interp",
             "child_labels":[
                 "1026-32-a-1-ii-Interp-3-i",
-                "1026-32-a-1-ii-Interp-3-ii"
+                "1026-32-a-1-ii-Interp-3-ii",
+                "1026-32-a-1-ii-Interp-3-iii"
             ]
         },
         "op":"added"
@@ -17162,22 +17163,28 @@
     "1026-32-d-7-iv-Interp":{
         "op":"deleted"
     },
-    "1026-20-e-2-Interp":{
+    "1026-43-e-3-ii-Interp-1-iii":{
         "node":{
             "tagged_text":null,
-            "title":"20(e)(2) Content requirements.",
-            "text":"",
+            "title":null,
+            "text":"For 2017, reflecting a 1.1 percent increase in the CPI-U that was reported on the preceding June 1, a covered transaction is not a qualified mortgage unless the transactions total points and fees do not exceed:",
             "label":[
                 "1026",
-                "20",
+                "43",
                 "e",
-                "2",
-                "Interp"
+                "3",
+                "ii",
+                "Interp",
+                "1",
+                "iii"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1026-20-e-2-Interp-1",
-                "1026-20-e-2-i-Interp"
+                "1026-43-e-3-ii-Interp-1-iii-A",
+                "1026-43-e-3-ii-Interp-1-iii-B",
+                "1026-43-e-3-ii-Interp-1-iii-C",
+                "1026-43-e-3-ii-Interp-1-iii-D",
+                "1026-43-e-3-ii-Interp-1-iii-E"
             ]
         },
         "op":"added"
@@ -21228,7 +21235,7 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1026-35-c-2-vii-A-Interp",
+                "1026-35-c-2-vii-A-1-Interp",
                 "1026-35-c-2-vii-B-Interp",
                 "1026-35-c-2-vii-C-Interp"
             ]
@@ -22820,6 +22827,84 @@
                 "delete",
                 397,
                 505
+            ]
+        ],
+        "op":"modified"
+    },
+    "1026-32-d-2-Interp-1":{
+        "text":[
+            [
+                "insert",
+                73,
+                "high-cost "
+            ],
+            [
+                [
+                    "delete",
+                    82,
+                    89
+                ],
+                [
+                    "insert",
+                    82,
+                    "does not preclude reasonable increases in the principal balance that result from events permitted"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    93,
+                    120
+                ],
+                [
+                    "insert",
+                    93,
+                    "the legal obligation unrelated to the payment schedule. For example, when a consumer fails to obtain property insurance and the creditor purchases insurance, the creditor may add a"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    132,
+                    144
+                ],
+                [
+                    "insert",
+                    132,
+                    "premium to"
+                ]
+            ],
+            [
+                "insert",
+                149,
+                "consumer\u2019s "
+            ],
+            [
+                [
+                    "delete",
+                    159,
+                    190
+                ],
+                [
+                    "insert",
+                    159,
+                    "balance, to the extent"
+                ]
+            ],
+            [
+                "insert",
+                204,
+                "applicable law and "
+            ],
+            [
+                "insert",
+                208,
+                "consumer\u2019s "
+            ],
+            [
+                "delete",
+                214,
+                478
             ]
         ],
         "op":"modified"
@@ -35161,27 +35246,6 @@
         },
         "op":"added"
     },
-    "1026-35-c-2-vii-A-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"",
-            "label":[
-                "1026",
-                "35",
-                "c",
-                "2",
-                "vii",
-                "A",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-35-c-2-vii-A-1-Interp"
-            ]
-        },
-        "op":"added"
-    },
     "1026-37-o-4":{
         "node":{
             "tagged_text":null,
@@ -36975,7 +37039,8 @@
             "child_labels":[
                 "1026-52-b-1-ii-Interp-2-i-A",
                 "1026-52-b-1-ii-Interp-2-i-B",
-                "1026-52-b-1-ii-Interp-2-i-C"
+                "1026-52-b-1-ii-Interp-2-i-C",
+                "1026-52-b-1-ii-Interp-2-i-D"
             ]
         },
         "op":"added"
@@ -39360,6 +39425,26 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-20-e-2-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"20(e)(2) Content requirements.",
+            "text":"",
+            "label":[
+                "1026",
+                "20",
+                "e",
+                "2",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-20-e-2-Interp-1",
+                "1026-20-e-2-i-Interp"
+            ]
         },
         "op":"added"
     },
@@ -48305,6 +48390,27 @@
     "1026-32-c-3-Interp-1-i":{
         "op":"deleted"
     },
+    "1026-52-b-1-ii-Interp-2-i-D":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Card issuers were permitted to impose a fee for violating the terms of an agreement if the fee did not exceed $27 under \u00a7\u20091026.52(b)(1)(ii)(A), through December 31, 2016. Card issuers were permitted to impose a fee for violating the terms of an agreement if the fee did not exceed $37 under \u00a7\u20091026.52(b)(1)(ii)(B), through June 26, 2016, and $38 under \u00a7\u20091026.52(b)(1)(ii)(B) from June 27, 2016 through December 31, 2016.",
+            "label":[
+                "1026",
+                "52",
+                "b",
+                "1",
+                "ii",
+                "Interp",
+                "2",
+                "i",
+                "D"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-43-d-2-ii-Interp":{
         "node":{
             "tagged_text":null,
@@ -53611,6 +53717,26 @@
         },
         "op":"added"
     },
+    "1026-32-a-1-ii-Interp-3-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For 2017, $20,579, reflecting a 1.1 percent increase in the CPI-U from June 2015 to June 2016, rounded to the nearest whole dollar.",
+            "label":[
+                "1026",
+                "32",
+                "a",
+                "1",
+                "ii",
+                "Interp",
+                "3",
+                "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-19-f-1-iii-Interp":{
         "node":{
             "tagged_text":null,
@@ -58486,7 +58612,8 @@
             "node_type":"interp",
             "child_labels":[
                 "1026-43-e-3-ii-Interp-1-i",
-                "1026-43-e-3-ii-Interp-1-ii"
+                "1026-43-e-3-ii-Interp-1-ii",
+                "1026-43-e-3-ii-Interp-1-iii"
             ]
         },
         "op":"added"
@@ -58801,6 +58928,69 @@
         },
         "op":"added"
     },
+    "1026-43-e-3-ii-Interp-1-iii-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For a loan amount greater than or equal to $20,579 but less than $61,737: 5 percent of the total loan amount;",
+            "label":[
+                "1026",
+                "43",
+                "e",
+                "3",
+                "ii",
+                "Interp",
+                "1",
+                "iii",
+                "C"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-43-e-3-ii-Interp-1-iii-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For a loan amount greater than or equal to $61,737 but less than $102,894: $3,087;",
+            "label":[
+                "1026",
+                "43",
+                "e",
+                "3",
+                "ii",
+                "Interp",
+                "1",
+                "iii",
+                "B"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-43-e-3-ii-Interp-1-iii-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For a loan amount greater than or equal to $102,894: 3 percent of the total loan amount;",
+            "label":[
+                "1026",
+                "43",
+                "e",
+                "3",
+                "ii",
+                "Interp",
+                "1",
+                "iii",
+                "A"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-38-j-2-iv-Interp":{
         "node":{
             "tagged_text":null,
@@ -58859,83 +59049,47 @@
         },
         "op":"added"
     },
-    "1026-32-d-2-Interp-1":{
-        "text":[
-            [
-                "insert",
-                73,
-                "high-cost "
+    "1026-43-e-3-ii-Interp-1-iii-E":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For a loan amount less than $12,862: 8 percent of the total loan amount.",
+            "label":[
+                "1026",
+                "43",
+                "e",
+                "3",
+                "ii",
+                "Interp",
+                "1",
+                "iii",
+                "E"
             ],
-            [
-                [
-                    "delete",
-                    82,
-                    89
-                ],
-                [
-                    "insert",
-                    82,
-                    "does not preclude reasonable increases in the principal balance that result from events permitted"
-                ]
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-43-e-3-ii-Interp-1-iii-D":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For a loan amount greater than or equal to $12,862 but less than $20,579: $1,029;",
+            "label":[
+                "1026",
+                "43",
+                "e",
+                "3",
+                "ii",
+                "Interp",
+                "1",
+                "iii",
+                "D"
             ],
-            [
-                [
-                    "delete",
-                    93,
-                    120
-                ],
-                [
-                    "insert",
-                    93,
-                    "the legal obligation unrelated to the payment schedule. For example, when a consumer fails to obtain property insurance and the creditor purchases insurance, the creditor may add a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    132,
-                    144
-                ],
-                [
-                    "insert",
-                    132,
-                    "premium to"
-                ]
-            ],
-            [
-                "insert",
-                149,
-                "consumer\u2019s "
-            ],
-            [
-                [
-                    "delete",
-                    159,
-                    190
-                ],
-                [
-                    "insert",
-                    159,
-                    "balance, to the extent"
-                ]
-            ],
-            [
-                "insert",
-                204,
-                "applicable law and "
-            ],
-            [
-                "insert",
-                208,
-                "consumer\u2019s "
-            ],
-            [
-                "delete",
-                214,
-                478
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-Q-h4-5":{
         "node":{
@@ -60552,7 +60706,7 @@
     "1026-19-e-1-iii-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"19(e)(1)(iii) .",
+            "title":"19(e)(1)(iii) Timing.",
             "text":"",
             "label":[
                 "1026",
@@ -61056,8 +61210,8 @@
     "1026-41-d-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"TerminologyA servicer may use terminology other than that found on the sample periodic statements in appendix H-30, so long as the new terminology is commonly understood. For example, servicers may take into consideration regional differences in terminology and refer to the account for the collection of taxes and insurance, referred to in \u00a7 1026.41(d) as the \u201cescrow account,\u201d as an \u201cimpound account.\u201d",
+            "title":"Terminology",
+            "text":"A servicer may use terminology other than that found on the sample periodic statements in appendix H-30, so long as the new terminology is commonly understood. For example, servicers may take into consideration regional differences in terminology and refer to the account for the collection of taxes and insurance, referred to in \u00a7 1026.41(d) as the \u201cescrow account,\u201d as an \u201cimpound account.\u201d",
             "label":[
                 "1026",
                 "41",
@@ -69955,7 +70109,45 @@
         "op":"added"
     },
     "1026-32-a-1-ii-Interp-1-iii":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    2
+                ],
+                [
+                    "insert",
+                    0,
+                    "For 2017, $1,029, reflecting a 1.1 percent increase in"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    7,
+                    84
+                ],
+                [
+                    "insert",
+                    7,
+                    "CPI-U from June 2015 to June 2016, rounded to"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    89,
+                    418
+                ],
+                [
+                    "insert",
+                    89,
+                    "nearest whole dollar."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-36-g-1-Interp-1":{
         "node":{
