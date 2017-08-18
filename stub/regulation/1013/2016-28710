@@ -2310,6 +2310,19 @@
                                     "marker":"8."
                                 },
                                 {
+                                    "children":[],
+                                    "label":[
+                                        "1013",
+                                        "2",
+                                        "e",
+                                        "Interp",
+                                        "9"
+                                    ],
+                                    "node_type":"interp",
+                                    "text":"Threshold amount.A consumer lease is exempt from the requirements of this part if the total contractual obligation exceeds the threshold amount in effect at the time of consummation. The threshold amount in effect during a particular time period is the amount stated in comment 2(e)-11 for that period. The threshold amount is adjusted effective January 1 of each year by any annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) that was in effect on the preceding June 1. Comment 2(e)-11 will be amended to provide the threshold amount for the upcoming year after the annual percentage change in the CPI-W that was in effect on June 1 becomes available. Any increase in the threshold amount will be rounded to the nearest $100 increment. For example, if the annual percentage increase in the CPI-W would result in a $950 increase in the threshold amount, the threshold amount will be increased by $1,000. However, if the annual percentage increase in the CPI-W would result in a $949 increase in the threshold amount, the threshold amount will be increased by $900. If a consumer lease is exempt from the requirements of this part because the total contractual obligation exceeds the threshold amount in effect at the time of consummation, the lease remains exempt regardless of a subsequent increase in the threshold amount.",
+                                    "marker":"9."
+                                },
+                                {
                                     "children":[
                                         {
                                             "children":[],
@@ -2318,7 +2331,49 @@
                                                 "2",
                                                 "e",
                                                 "Interp",
-                                                "9",
+                                                "10",
+                                                "i"
+                                            ],
+                                            "node_type":"interp",
+                                            "text":"Net increases.If the resulting amount calculated, after rounding, is greater than the current threshold, then the threshold effective January 1 the following year will increase accordingly.",
+                                            "marker":"i."
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1013",
+                                                "2",
+                                                "e",
+                                                "Interp",
+                                                "10",
+                                                "ii"
+                                            ],
+                                            "node_type":"interp",
+                                            "text":"Net decreases.If the resulting amount calculated, after rounding, is equal to or less than the current threshold, then the threshold effective January 1 the following year will not change, but future increases will be calculated based on the amount that would have resulted.",
+                                            "marker":"ii."
+                                        }
+                                    ],
+                                    "label":[
+                                        "1013",
+                                        "2",
+                                        "e",
+                                        "Interp",
+                                        "10"
+                                    ],
+                                    "node_type":"interp",
+                                    "text":"No increase in the CPI-W.If the CPI-W in effect on June 1 does not increase from the CPI-W in effect on June 1 of the previous year, the threshold amount effective the following January 1 through December 31 will not change from the previous year. When this occurs, for the years that follow, the threshold is calculated based on the annual percentage change in the CPI-W applied to the dollar amount that would have resulted, after rounding, if decreases and any subsequent increases in the CPI-W had been taken into account.",
+                                    "marker":"10."
+                                },
+                                {
+                                    "children":[
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1013",
+                                                "2",
+                                                "e",
+                                                "Interp",
+                                                "11",
                                                 "i"
                                             ],
                                             "node_type":"interp",
@@ -2332,7 +2387,7 @@
                                                 "2",
                                                 "e",
                                                 "Interp",
-                                                "9",
+                                                "11",
                                                 "ii"
                                             ],
                                             "node_type":"interp",
@@ -2346,7 +2401,7 @@
                                                 "2",
                                                 "e",
                                                 "Interp",
-                                                "9",
+                                                "11",
                                                 "iii"
                                             ],
                                             "node_type":"interp",
@@ -2360,12 +2415,68 @@
                                                 "2",
                                                 "e",
                                                 "Interp",
-                                                "9",
+                                                "11",
                                                 "iv"
                                             ],
                                             "node_type":"interp",
                                             "text":"From January 1, 2013 through December 31, 2013, the threshold amount is $53,000.",
                                             "marker":"iv."
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1013",
+                                                "2",
+                                                "e",
+                                                "Interp",
+                                                "11",
+                                                "v"
+                                            ],
+                                            "node_type":"interp",
+                                            "text":"From January 1, 2014 through December 31, 2014, the threshold amount is $53,500.",
+                                            "marker":"v."
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1013",
+                                                "2",
+                                                "e",
+                                                "Interp",
+                                                "11",
+                                                "vi"
+                                            ],
+                                            "node_type":"interp",
+                                            "text":"From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.",
+                                            "marker":"vi."
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1013",
+                                                "2",
+                                                "e",
+                                                "Interp",
+                                                "11",
+                                                "vii"
+                                            ],
+                                            "node_type":"interp",
+                                            "text":"From January 1, 2016 through December 31, 2016, the threshold amount is $54,600.",
+                                            "marker":"vii."
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1013",
+                                                "2",
+                                                "e",
+                                                "Interp",
+                                                "11",
+                                                "viii"
+                                            ],
+                                            "node_type":"interp",
+                                            "text":"From January 1, 2017 through December 31, 2017, the threshold amount is $54,600.",
+                                            "marker":"viii."
                                         }
                                     ],
                                     "label":[
@@ -2373,11 +2484,11 @@
                                         "2",
                                         "e",
                                         "Interp",
-                                        "9"
+                                        "11"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Threshold amount.A consumer lease is exempt from the requirements of this part if the total contractual obligation exceeds the threshold amount in effect at the time of consummation. The threshold amount in effect during a particular time period is the amount stated below for that period. The threshold amount is adjusted effective January 1 of each year by any annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) that was in effect on the preceding June 1. This comment will be amended to provide the threshold amount for the upcoming year after the annual percentage change in the CPI-W that was in effect on June 1 becomes available. Any increase in the threshold amount will be rounded to the nearest $100 increment. For example, if the annual percentage increase in the CPI-W would result in a $950 increase in the threshold amount, the threshold amount will be increased by $1,000. However, if the annual percentage increase in the CPI-W would result in a $949 increase in the threshold amount, the threshold amount will be increased by $900. If a consumer lease is exempt from the requirements of this part because the total contractual obligation exceeds the threshold amount in effect at the time of consummation, the lease remains exempt regardless of a subsequent increase in the threshold amount.",
-                                    "marker":"9."
+                                    "text":"Threshold.For purposes of \u00a7\u20091013.2(e)(1), the threshold amount in effect during a particular period is the amount stated below for that period.",
+                                    "marker":"11."
                                 }
                             ],
                             "label":[
