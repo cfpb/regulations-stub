@@ -1,4 +1,53 @@
 {
+    "1003-2-j-Interp-4":{
+        "text":[
+            [
+                "insert",
+                0,
+                " "
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-6-a":{
+        "text":[
+            [
+                "insert",
+                46,
+                "Act or this part is subject to administrative sanctions as provided in section 305 of Act (12 U.S.C. 2804), including "
+            ],
+            [
+                [
+                    "delete",
+                    50,
+                    66
+                ],
+                [
+                    "insert",
+                    50,
+                    "imposition of civil money penalties, where applicable. Compliance"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    70,
+                    117
+                ],
+                [
+                    "insert",
+                    70,
+                    "enforced by the agencies listed"
+                ]
+            ],
+            [
+                "delete",
+                140,
+                299
+            ]
+        ],
+        "op":"modified"
+    },
     "1003-2-g-1-iv-A":{
         "node":{
             "tagged_text":null,
@@ -70,7 +119,31 @@
         },
         "op":"added"
     },
-    "1003-2-m-Interp-1":{
+    "1003-1-c":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    14
+                ],
+                [
+                    "insert",
+                    4,
+                    "This"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Scope"
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-2-b-Interp-1":{
         "text":[
             [
                 "insert",
@@ -78,11 +151,38 @@
                 " "
             ]
         ],
+        "op":"modified"
+    },
+    "1003-2-m-Interp-1":{
         "title":[
             [
                 "delete",
                 84,
                 85
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-2-d-Interp-1":{
+        "text":[
+            [
+                "insert",
+                0,
+                ". "
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    17
+                ],
+                [
+                    "insert",
+                    0,
+                    "Dwelling-secured"
+                ]
             ]
         ],
         "op":"modified"
@@ -127,6 +227,16 @@
         },
         "op":"added"
     },
+    "1003-3-c-9-Interp-1":{
+        "title":[
+            [
+                "insert",
+                64,
+                " "
+            ]
+        ],
+        "op":"modified"
+    },
     "1003-2-g-1-i":{
         "node":{
             "tagged_text":null,
@@ -163,22 +273,22 @@
         },
         "op":"added"
     },
-    "1003-2-g-1-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(ii) On the preceding December 31, had a home or branch office in an MSA;",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "1",
-                "ii"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-2":{
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    21
+                ],
+                [
+                    "insert",
+                    0,
+                    "Definitions"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-g-2-ii":{
         "node":{
@@ -200,12 +310,60 @@
         },
         "op":"added"
     },
+    "1003-2-b-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    26
+                ],
+                [
+                    "insert",
+                    4,
+                    "Application"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "In general."
+            ]
+        ],
+        "op":"modified"
+    },
     "1003-6-c-2":{
         "text":[
             [
                 "insert",
                 365,
                 "the "
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-2-b-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    26
+                ],
+                [
+                    "insert",
+                    4,
+                    "A"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Preapproval programs."
             ]
         ],
         "op":"modified"
@@ -349,6 +507,50 @@
         },
         "op":"added"
     },
+    "1003-3":{
+        "title":[
+            [
+                "delete",
+                0,
+                9
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-4-a-10-i-Interp-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    9,
+                    17
+                ],
+                [
+                    "insert",
+                    9,
+                    "Appendix"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-3-c":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    12
+                ],
+                [
+                    "insert",
+                    4,
+                    "Exempt institutions and excluded"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1003-2-g":{
         "node":{
             "tagged_text":null,
@@ -367,44 +569,22 @@
         },
         "op":"added"
     },
-    "1003-6-a":{
-        "text":[
-            [
-                "insert",
-                46,
-                "Act or this part is subject to administrative sanctions as provided in section 305 of Act (12 U.S.C. 2804), including "
+    "1003-2-g-1-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(ii) On the preceding December 31, had a home or branch office in an MSA;",
+            "label":[
+                "1003",
+                "2",
+                "g",
+                "1",
+                "ii"
             ],
-            [
-                [
-                    "delete",
-                    50,
-                    66
-                ],
-                [
-                    "insert",
-                    50,
-                    "imposition of civil money penalties, where applicable. Compliance"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    70,
-                    117
-                ],
-                [
-                    "insert",
-                    70,
-                    "enforced by the agencies listed"
-                ]
-            ],
-            [
-                "delete",
-                140,
-                299
-            ]
-        ],
-        "op":"modified"
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-2-n":{
         "node":{
@@ -458,7 +638,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(m) Metropolitan Statistical Area (MSA) and Metropolitan Division (MD).",
+            "text":"(m) Metropolitan Statistical Area (MSA) and Metropolitan Division(MD).",
             "label":[
                 "1003",
                 "2",

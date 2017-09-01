@@ -200,19 +200,18 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h6-p27-6-c":{
+    "1003-A-h2-h3-7-a":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"c. If no income information is asked for or relied on in the credit decision, enter \u201cNA.\u201d",
+            "text":"a. For a home purchase loan that you originated, enter the principal amount of the loan.",
             "label":[
                 "1003",
                 "A",
                 "h2",
-                "h6",
-                "p27",
-                "6",
-                "c"
+                "h3",
+                "7",
+                "a"
             ],
             "node_type":"appendix",
             "child_labels":[]
@@ -582,7 +581,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by Act, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;",
+            "text":"(i) On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by the Act, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;",
             "label":[
                 "1003",
                 "2",
@@ -609,28 +608,6 @@
             ],
             "node_type":"interp",
             "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-g-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) Depository financial institution means a bank, savings association, or credit union that:",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-g-1-i",
-                "1003-2-g-1-ii",
-                "1003-2-g-1-iii",
-                "1003-2-g-1-iv",
-                "1003-2-g-1-v"
-            ]
         },
         "op":"added"
     },
@@ -681,6 +658,25 @@
                 "h2",
                 "h10",
                 "p68"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-A-h2-h6-p27-6-c":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"c. If no income information is asked for or relied on in the credit decision, enter \u201cNA.\u201d",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h6",
+                "p27",
+                "6",
+                "c"
             ],
             "node_type":"appendix",
             "child_labels":[]
@@ -870,6 +866,31 @@
         ],
         "op":"modified"
     },
+    "1003-A-h2-h8-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"2. If your institution uses the model form for adverse action contained in appendix C to Regulation B (Form C-1, Sample Notification Form), use the foregoing Codes as follows:",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h8",
+                "2"
+            ],
+            "node_type":"appendix",
+            "child_labels":[
+                "1003-A-h2-h8-2-a",
+                "1003-A-h2-h8-2-b",
+                "1003-A-h2-h8-2-c",
+                "1003-A-h2-h8-2-d",
+                "1003-A-h2-h8-2-e",
+                "1003-A-h2-h8-2-f",
+                "1003-A-h2-h8-2-g"
+            ]
+        },
+        "op":"added"
+    },
     "1003-5-a-Interp-1-i":{
         "op":"deleted"
     },
@@ -1031,20 +1052,19 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h8-2-g":{
+    "1003-2-g-1-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"g. Code 9 for: Length of residence; Temporary residence; and Other reasons specified on notice.",
+            "text":"(ii) On the preceding December 31, had a home or branch office in an MSA;",
             "label":[
                 "1003",
-                "A",
-                "h2",
-                "h8",
                 "2",
-                "g"
+                "g",
+                "1",
+                "ii"
             ],
-            "node_type":"appendix",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -1742,23 +1762,53 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h6":{
-        "node":{
-            "tagged_text":null,
-            "title":"D. Applicant Information\u2014Ethnicity, Race, Sex, and Income",
-            "text":"",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h6"
-            ],
-            "node_type":"appendix",
-            "child_labels":[
-                "1003-A-h2-h6-p27"
+    "1003-2-b-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    26
+                ],
+                [
+                    "insert",
+                    4,
+                    "Application"
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "In general."
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-2-b-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    26
+                ],
+                [
+                    "insert",
+                    4,
+                    "A"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Preapproval programs."
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-g-1-iii":{
         "node":{
@@ -1918,6 +1968,23 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1003-3-c":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    12
+                ],
+                [
+                    "insert",
+                    4,
+                    "Exempt institutions and excluded"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-A-h2-h5-p26":{
         "node":{
@@ -2516,8 +2583,99 @@
         ],
         "op":"modified"
     },
-    "1003-5-a-Interp-1-iii":{
-        "op":"deleted"
+    "1003-5-e":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    10
+                ],
+                [
+                    "insert",
+                    4,
+                    "Notice of availability.A financial institution shall post a general"
+                ]
+            ],
+            [
+                "insert",
+                18,
+                "about the availability "
+            ],
+            [
+                [
+                    "delete",
+                    21,
+                    33
+                ],
+                [
+                    "insert",
+                    21,
+                    "its HMDA data in the lobby"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    37,
+                    53
+                ],
+                [
+                    "insert",
+                    37,
+                    "its home office and of each branch office located in an MSA and Metropolitan Division. An"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    72,
+                    99
+                ],
+                [
+                    "insert",
+                    72,
+                    "provide promptly upon request"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    104,
+                    116
+                ],
+                [
+                    "insert",
+                    104,
+                    "location"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    120,
+                    133
+                ],
+                [
+                    "insert",
+                    120,
+                    "the institution's offices where the statement is available for inspection and copying, or it may include the location"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    147,
+                    371
+                ],
+                [
+                    "insert",
+                    147,
+                    "notice."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-5-f":{
         "text":[
@@ -2550,10 +2708,10 @@
             "child_labels":[
                 "1003-A-h11-A",
                 "1003-A-h11-B",
-                "1003-A-h11-C",
                 "1003-A-h11-p71",
                 "1003-A-h11-p72",
-                "1003-A-h11-p73"
+                "1003-A-h11-p73",
+                "1003-A-h11-C"
             ]
         },
         "op":"added"
@@ -2837,6 +2995,24 @@
         },
         "op":"added"
     },
+    "1003-A-h2-h8-2-f":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"f. Code 7 for: Credit application incomplete.",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h8",
+                "2",
+                "f"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-A-h2-h3-7-f":{
         "node":{
             "tagged_text":null,
@@ -2978,21 +3154,25 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h3-7-a":{
+    "1003-2-g-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"a. For a home purchase loan that you originated, enter the principal amount of the loan.",
+            "text":"(1) Depository financial institution means a bank, savings association, or credit union that:",
             "label":[
                 "1003",
-                "A",
-                "h2",
-                "h3",
-                "7",
-                "a"
+                "2",
+                "g",
+                "1"
             ],
-            "node_type":"appendix",
-            "child_labels":[]
+            "node_type":"regtext",
+            "child_labels":[
+                "1003-2-g-1-i",
+                "1003-2-g-1-ii",
+                "1003-2-g-1-iii",
+                "1003-2-g-1-iv",
+                "1003-2-g-1-v"
+            ]
         },
         "op":"added"
     },
@@ -3436,6 +3616,9 @@
         },
         "op":"added"
     },
+    "1003-5-a-Interp-1-iii":{
+        "op":"deleted"
+    },
     "1003-A-h2-h3-p11-a":{
         "node":{
             "tagged_text":null,
@@ -3654,19 +3837,17 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h8-1":{
+    "1003-2-h":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"1. You may report the reason for denial, and you may indicate up to three reasons, using the following Codes. Leave this column blank if the \u201caction taken\u201d on the application is not a denial. For example, do not complete this column if the application was withdrawn or the file was closed for incompleteness.",
+            "text":"(h) [Reserved]",
             "label":[
                 "1003",
-                "A",
-                "h2",
-                "h8",
-                "1"
+                "2",
+                "h"
             ],
-            "node_type":"appendix",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -3712,27 +3893,20 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h8-2":{
+    "1003-A-h2-h6":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"2. If your institution uses the model form for adverse action contained in Appendix C to Regulation B (Form C-1, Sample Notification Form), use the foregoing Codes as follows:",
+            "title":"D. Applicant Information\u2014Ethnicity, Race, Sex, and Income",
+            "text":"",
             "label":[
                 "1003",
                 "A",
                 "h2",
-                "h8",
-                "2"
+                "h6"
             ],
             "node_type":"appendix",
             "child_labels":[
-                "1003-A-h2-h8-2-a",
-                "1003-A-h2-h8-2-b",
-                "1003-A-h2-h8-2-c",
-                "1003-A-h2-h8-2-d",
-                "1003-A-h2-h8-2-e",
-                "1003-A-h2-h8-2-f",
-                "1003-A-h2-h8-2-g"
+                "1003-A-h2-h6-p27"
             ]
         },
         "op":"added"
@@ -3830,40 +4004,32 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h8-2-f":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"f. Code 7 for: Credit application incomplete.",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h8",
-                "2",
-                "f"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-3":{
+        "title":[
+            [
+                "delete",
+                0,
+                9
+            ]
+        ],
+        "op":"modified"
     },
-    "1003-2-g-1-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(ii) On the preceding December 31, had a home or branch office in an MSA;",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "1",
-                "ii"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-2":{
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    21
+                ],
+                [
+                    "insert",
+                    0,
+                    "Definitions"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-A-h2-h8-2-a":{
         "node":{
@@ -4087,6 +4253,23 @@
         ],
         "op":"modified"
     },
+    "1003-A-h2-h8-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"1. You may report the reason for denial, and you may indicate up to three reasons, using the following Codes. Leave this column blank if the \u201caction taken\u201d on the application is not a denial. For example, do not complete this column if the application was withdrawn or the file was closed for incompleteness.",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h8",
+                "1"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-2-m-1":{
         "node":{
             "tagged_text":null,
@@ -4261,7 +4444,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(m) Metropolitan Statistical Area (MSA) and Metropolitan Division (MD).",
+            "text":"(m) Metropolitan Statistical Area (MSA) and Metropolitan Division(MD).",
             "label":[
                 "1003",
                 "2",
@@ -4305,20 +4488,29 @@
         },
         "op":"added"
     },
-    "1003-2-h":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(h) [Reserved]",
-            "label":[
-                "1003",
-                "2",
-                "h"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-1-c":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    14
+                ],
+                [
+                    "insert",
+                    4,
+                    "This"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Scope"
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-i":{
         "node":{
@@ -4395,6 +4587,24 @@
                 "q"
             ],
             "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-A-h2-h8-2-g":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"g. Code 9 for: Length of residence; Temporary residence; and Other reasons specified on notice.",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h8",
+                "2",
+                "g"
+            ],
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"

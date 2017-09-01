@@ -211,21 +211,6 @@
     "1003-2-FinancialInstitution-1-v":{
         "op":"deleted"
     },
-    "1003-2-k":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(k) Loan/Application Register means both the record of information required to be collected pursuant to \u00a7 1003.4 and the record submitted annually or quarterly, as applicable, pursuant to \u00a7 1003.5(a).",
-            "label":[
-                "1003",
-                "2",
-                "k"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-Interp":{
         "title":[
             [
@@ -246,9 +231,16 @@
     "1003-5-Interp":{
         "title":[
             [
-                "insert",
-                0,
-                "Section 1003.5\u2014Disclosure and Reporting"
+                [
+                    "delete",
+                    8,
+                    25
+                ],
+                [
+                    "insert",
+                    8,
+                    "1003.5\u2014Disclosure"
+                ]
             ]
         ],
         "op":"modified"
@@ -299,7 +291,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by Act, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;",
+            "text":"(i) On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by the Act, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;",
             "label":[
                 "1003",
                 "2",
@@ -471,14 +463,45 @@
         ],
         "op":"modified"
     },
-    "1003-2-Interp-1":{
-        "op":"deleted"
+    "1003-4-a-33-i-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"General.",
+            "text":"Section 4(a)(33)(i) requires a financial institution to indicate whether the applicant or borrower submitted the application directly to the financial institution that is reporting the covered loan or application. The following scenarios demonstrate whether an application was submitted directly to the financial institution that is reporting the covered loan or application.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "33",
+                "i",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-33-i-Interp-1-i",
+                "1003-4-a-33-i-Interp-1-ii",
+                "1003-4-a-33-i-Interp-1-iii"
+            ]
+        },
+        "op":"added"
     },
-    "1003-2-Interp-2":{
-        "op":"deleted"
-    },
-    "1003-2-Interp-3":{
-        "op":"deleted"
+    "1003-4-a-7-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(i) For a closed-end mortgage loan, other than a purchased loan, an assumption, or a reverse mortgage, the amount to be repaid as disclosed on the legal obligation. For a purchased closed-end mortgage loan or an assumption of a closed-end mortgage loan, the unpaid principal balance at the time of purchase or assumption.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "7",
+                "i"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-26-Interp-4":{
         "node":{
@@ -555,21 +578,24 @@
     "1003-2-FinancialInstitution-1-iv":{
         "op":"deleted"
     },
-    "1003-4-a-Interp-3-vi":{
+    "1003-4-a-21-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Financial Institution A reviewed and made the credit decision on an application based on the criteria of a third-party insurer or guarantor (for example, a government or private insurer or guarantor). Financial Institution A reports the action taken on the application.",
+            "title":"Paragraph 4(a)(21)",
+            "text":"",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "Interp",
-                "3",
-                "vi"
+                "21",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1003-4-a-21-Interp-1",
+                "1003-4-a-21-Interp-2",
+                "1003-4-a-21-Interp-3"
+            ]
         },
         "op":"added"
     },
@@ -806,40 +832,24 @@
     "1003-2-FinancialInstitution-1-ii":{
         "op":"deleted"
     },
-    "1003-4-a-16-Interp-4":{
+    "1003-4-a-10-iii-Interp-9":{
         "node":{
             "tagged_text":null,
-            "title":"Reason for denial\u2014not applicable.",
-            "text":"A financial institution complies with \u00a7 1003.4(a)(16) by reporting that the requirement is not applicable if the action taken on the application, pursuant to \u00a7 1003.4(a)(8), is not a denial. For example, a financial institution complies with \u00a7 1003.4(a)(16) by reporting that the requirement is not applicable if the loan is originated or purchased by the financial institution, or the application or preapproval request was approved but not accepted, or the application was withdrawn before a credit decision was made, or the file was closed for incompleteness.",
+            "title":"Income data\u2014purchased loans.",
+            "text":"A financial institution complies with \u00a7 1003.4(a)(10)(iii) by reporting that the requirement is not applicable when reporting a purchased covered loan for which the institution chooses not to report the income.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "16",
+                "10",
+                "iii",
                 "Interp",
-                "4"
+                "9"
             ],
             "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1003-5-a-Interp-3":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    442
-                ],
-                [
-                    "insert",
-                    0,
-                    "[Reserved]"
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1003-4-a-17-i-Interp":{
         "node":{
@@ -862,6 +872,36 @@
             ]
         },
         "op":"added"
+    },
+    "1003-5-b-Interp-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    18,
+                    25
+                ],
+                [
+                    "insert",
+                    18,
+                    "1003.5(b),"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                13,
+                14
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-1-c-Interp-2":{
+        "op":"deleted"
+    },
+    "1003-1-c-Interp-1":{
+        "op":"deleted"
     },
     "1003-4-a-12-i":{
         "text":[
@@ -991,18 +1031,6 @@
             [
                 [
                     "delete",
-                    128,
-                    136
-                ],
-                [
-                    "insert",
-                    128,
-                    "Appendix"
-                ]
-            ],
-            [
-                [
-                    "delete",
                     139,
                     141
                 ],
@@ -1112,6 +1140,24 @@
         },
         "op":"added"
     },
+    "1003-4-a-Interp-3-vi":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Financial Institution A reviewed and made the credit decision on an application based on the criteria of a third-party insurer or guarantor (for example, a government or private insurer or guarantor). Financial Institution A reports the action taken on the application.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "Interp",
+                "3",
+                "vi"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-2-b-2-iii":{
         "node":{
             "tagged_text":null,
@@ -1132,8 +1178,8 @@
     "1003-2-b-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(1) In general.Application means an oral or written request for a covered loan that is made in accordance with procedures used by a financial institution for the type of credit requested.",
+            "title":"In general.",
+            "text":"(1) Application means an oral or written request for a covered loan that is made in accordance with procedures used by a financial institution for the type of credit requested.",
             "label":[
                 "1003",
                 "2",
@@ -1148,8 +1194,8 @@
     "1003-2-b-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(2) Preapproval programs.A request for preapproval for a home purchase loan, other than a home purchase loan that will be an open-end line of credit, a reverse mortgage, or secured by a multifamily dwelling, is an application under this section if the request is reviewed under a program in which the financial institution, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:",
+            "title":"Preapproval programs.",
+            "text":"(2) A request for preapproval for a home purchase loan, other than a home purchase loan that will be an open-end line of credit, a reverse mortgage, or secured by a multifamily dwelling, is an application under this section if the request is reviewed under a program in which the financial institution, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:",
             "label":[
                 "1003",
                 "2",
@@ -1286,18 +1332,18 @@
         },
         "op":"added"
     },
-    "1003-4-a-35-Interp-4":{
+    "1003-4-a-24-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Transactions for which an automated underwriting system was not used to evaluate the application.",
-            "text":"Section 1003.4(a)(35) does not require a financial institution to evaluate an application using an automated underwriting system (AUS), as defined in \u00a7 1003.4(a)(35)(ii). For example, if a financial institution only manually underwrites an application and does not use an AUS to evaluate the application, the financial institution complies with \u00a7 1003.4(a)(35) by reporting that the requirement is not applicable since an AUS was not used to evaluate the application.",
+            "title":"General.",
+            "text":"Section 1003.4(a)(24) requires a financial institution to report, except for purchased covered loans, the ratio of the total amount of debt secured by the property to the value of the property (combined loan-to-value ratio) relied on in making the credit decision. For example, if a financial institution calculated a combined loan-to-value ratio twice\u2014once according to the financial institution's own requirements and once according to the requirements of a secondary market investor\u2014and the financial institution relied on the combined loan-to-value ratio calculated according to the secondary market investor's requirements in making the credit decision, \u00a7 1003.4(a)(24) requires the financial institution to report the combined loan-to-value ratio calculated according to the requirements of the secondary market investor.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "35",
+                "24",
                 "Interp",
-                "4"
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -1537,6 +1583,24 @@
         },
         "op":"added"
     },
+    "1003-4-a-35-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":"Transactions for which an automated underwriting system was not used to evaluate the application.",
+            "text":"Section 1003.4(a)(35) does not require a financial institution to evaluate an application using an automated underwriting system (AUS), as defined in \u00a7 1003.4(a)(35)(ii). For example, if a financial institution only manually underwrites an application and does not use an AUS to evaluate the application, the financial institution complies with \u00a7 1003.4(a)(35) by reporting that the requirement is not applicable since an AUS was not used to evaluate the application.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "35",
+                "Interp",
+                "4"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-4-a-8-i-Interp-13-iii":{
         "node":{
             "tagged_text":null,
@@ -1558,6 +1622,9 @@
         "op":"added"
     },
     "1003-5-b-3-ii":{
+        "op":"deleted"
+    },
+    "1003-4-d-Interp-1":{
         "op":"deleted"
     },
     "1003-2-j-Interp-5":{
@@ -1611,78 +1678,22 @@
         },
         "op":"added"
     },
-    "1003-5-a-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    189,
-                    197
-                ],
-                [
-                    "insert",
-                    189,
-                    "Appendix"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-A-h2-h6-p27-2":{
-        "text":[
-            [
-                "insert",
-                181,
-                " Appendix B regarding ethnicity, race, and sex. For applications taken by telephone, the information in the collection form must be stated orally by the lender, except for information that pertains uniquely to applications taken in writing. If the applicant does not provide these data in an application taken by mail or telephone or on the internet, enter the Code for \u201cinformation not provided by applicant in mail, internet, or telephone application\u201d specified in paragraphs I.D.3., 4., and 5. of this appendix. (See"
+    "1003-2-j-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Multiple properties.",
+            "text":"A home purchase loan includes a closed-end mortgage loan or an open-end line of credit secured by one dwelling and used to purchase another dwelling. For example, if a person obtains a home-equity loan or a reverse mortgage secured by dwelling A to purchase dwelling B, the home-equity loan or the reverse mortgage is a home purchase loan under \u00a7 1003.2(j).",
+            "label":[
+                "1003",
+                "2",
+                "j",
+                "Interp",
+                "1"
             ],
-            [
-                [
-                    "delete",
-                    193,
-                    269
-                ],
-                [
-                    "insert",
-                    193,
-                    "for complete"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    282,
-                    288
-                ],
-                [
-                    "insert",
-                    282,
-                    "on the"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    300,
-                    455
-                ],
-                [
-                    "insert",
-                    300,
-                    "of"
-                ]
-            ],
-            [
-                "delete",
-                469,
-                592
-            ],
-            [
-                "delete",
-                599,
-                778
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-2-j-Interp-3":{
         "node":{
@@ -1743,13 +1754,20 @@
                 [
                     "delete",
                     0,
-                    429
+                    403
                 ],
                 [
                     "insert",
                     0,
                     "[Reserved]"
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                26
             ]
         ],
         "op":"modified"
@@ -1778,19 +1796,14 @@
             [
                 [
                     "delete",
-                    0,
-                    32
+                    18,
+                    25
                 ],
                 [
                     "insert",
-                    0,
-                    "5(a)"
+                    18,
+                    "Agency"
                 ]
-            ],
-            [
-                "insert",
-                42,
-                " to Agency"
             ]
         ],
         "op":"modified"
@@ -2381,8 +2394,37 @@
         "text":[
             [
                 "insert",
-                0,
-                "The HMDA data about our residential mortgage lending are available online for review. The data show geographic distribution of loans and applications; ethnicity, race, sex, age, and income of applicants and borrowers; and information about loan approvals and denials. HMDA data for many other financial institutions are also available online. For more information, visit the Consumer Financial Protection Bureau's Web site (www.consumerfinance.gov/hmda)."
+                67,
+                "online "
+            ],
+            [
+                "insert",
+                166,
+                "age, "
+            ],
+            [
+                [
+                    "delete",
+                    256,
+                    288
+                ],
+                [
+                    "insert",
+                    256,
+                    "HMDA data for many other financial institutions are also available online. For more information, visit"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    293,
+                    336
+                ],
+                [
+                    "insert",
+                    293,
+                    "Consumer Financial Protection Bureau's Web site (www.consumerfinance.gov/hmda)."
+                ]
             ]
         ],
         "op":"modified"
@@ -2405,18 +2447,19 @@
         },
         "op":"added"
     },
-    "1003-4-a-18-Interp-3":{
+    "1003-4-a-17-ii-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Revised disclosures.",
-            "text":"If the total amount of borrower-paid origination charges changes because a financial institution provides a revised version of the disclosures required under Regulation Z, 12 CFR 1026.19(f), pursuant to Regulation Z, 12 CFR 1026.19(f)(2), the financial institution complies with \u00a7 1003.4(a)(18) by reporting the revised amount, provided that the revised disclosure was provided to the borrower during the same reporting period in which closing occurred. For example, in the case of a financial institution's quarterly submission made pursuant to \u00a7 1003.5(a)(1)(ii), if the financial institution provides a corrected disclosure to reflect a refund made pursuant to Regulation Z, 12 CFR 1026.19(f)(2)(v), the financial institution reports the corrected amount of origination charges only if the corrected disclosure was provided prior to the end of the quarter in which closing occurred. The financial institution does not report the corrected amount of origination charges in its quarterly submission if the corrected disclosure was provided after the end of the quarter, even if the corrected disclosure was provided prior to the deadline for timely submission of the financial institution's quarterly data. However, the financial institution reports the corrected amount of origination charges on its annual loan/application register.",
+            "title":"Total points and fees\u2014not applicable.",
+            "text":"Section 1003.4(a)(17)(ii) does not require financial institutions to report the total points and fees for transactions not subject to Regulation Z, 12 CFR 1026.43(c), such as open-end lines of credit, reverse mortgages, or loans or lines of credit made primarily for business or commercial purposes, or for applications or purchased covered loans. In these cases, a financial institution complies with \u00a7 1003.4(a)(17)(ii) by reporting that the requirement is not applicable to the transaction.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "18",
+                "17",
+                "ii",
                 "Interp",
-                "3"
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -2466,21 +2509,25 @@
         "op":"added"
     },
     "1003-4-a-14-Interp-1":{
-        "text":[
-            [
-                "delete",
-                0,
-                62
+        "node":{
+            "tagged_text":null,
+            "title":"Determining lien status for applications and covered loans originated and purchased.",
+            "text":"",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "14",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-14-Interp-1-i",
+                "1003-4-a-14-Interp-1-ii"
             ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Determining lien status for applications and covered loans originated and purchased."
-            ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1003-4-c-3-Interp-1":{
         "op":"deleted"
@@ -2515,24 +2562,6 @@
     },
     "1003-4-a-Interp-1-v":{
         "op":"deleted"
-    },
-    "1003-4-a-11-Interp-10":{
-        "node":{
-            "tagged_text":null,
-            "title":"Type of purchaser\u2014not applicable.",
-            "text":"A financial institution reports that the requirement is not applicable for applications that were denied, withdrawn, closed for incompleteness or approved but not accepted by the applicant; and for preapproval requests that were denied or approved but not accepted by the applicant. A financial institution also reports that the requirement is not applicable if the institution originated or purchased a covered loan and did not sell it during that same calendar year.",
-            "label":[
-                "1003",
-                "4",
-                "a",
-                "11",
-                "Interp",
-                "10"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1003-2-FinancialInstitution-Interp-3-iv":{
         "op":"deleted"
@@ -2603,11 +2632,11 @@
         },
         "op":"added"
     },
-    "1003-4-a-8-i-Interp-6":{
+    "1003-4-a-8-i-Interp-13":{
         "node":{
             "tagged_text":null,
-            "title":"Action taken\u2014file closed for incompleteness.",
-            "text":"A financial institution reports that the file was closed for incompleteness if the financial institution sent a written notice of incompleteness under Regulation B, 12 CFR 1002.9(c)(2), and the applicant did not respond to the request for additional information within the period of time specified in the notice before the applicant satisfies all underwriting or creditworthiness conditions. See comment 4(a)(8)(i)-13. If a financial institution then provides a notification of adverse action on the basis of incompleteness under Regulation B, 12 CFR 1002.9(c)(i), the financial institution may report the action taken as either file closed for incompleteness or application denied. A preapproval request that is closed for incompleteness is not reportable under HMDA. See \u00a7 1003.4(a).",
+            "title":"Action taken\u2014conditional approvals.",
+            "text":"If an institution issues an approval other than a commitment pursuant to a preapproval program as defined under \u00a7 1003.2(b)(2), and that approval is subject to the applicant meeting certain conditions, the institution reports the action taken as provided below dependent on whether the conditions are solely customary commitment or closing conditions or if the conditions include any underwriting or creditworthiness conditions.",
             "label":[
                 "1003",
                 "4",
@@ -2615,10 +2644,14 @@
                 "8",
                 "i",
                 "Interp",
-                "6"
+                "13"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1003-4-a-8-i-Interp-13-i",
+                "1003-4-a-8-i-Interp-13-ii",
+                "1003-4-a-8-i-Interp-13-iii"
+            ]
         },
         "op":"added"
     },
@@ -2683,24 +2716,6 @@
     "1003-2-FinancialInstitution-Interp-3-ii":{
         "op":"deleted"
     },
-    "1003-4-a-12-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Bureau tables.",
-            "text":"The Bureau publishes on the FFIEC's Web site (http://www.ffiec.gov/hmda), in tables entitled \u201cAverage Prime Offer Rates-Fixed\u201d and \u201cAverage Prime Offer Rates-Adjustable,\u201d current and historic average prime offer rates for a wide variety of closed-end transaction types. The Bureau calculates an annual percentage rate, consistent with Regulation Z (see 12 CFR 1026.22 and Part 1026, Appendix J), for each transaction type for which pricing terms are available from the survey described in comment 4(a)(12)-1. The Bureau uses loan pricing terms available in the survey and other information to estimate annual percentage rates for other types of transactions for which direct survey data are not available. The Bureau publishes on the FFIEC's Web site the methodology it uses to arrive at these estimates. A financial institution may either use the average prime offer rates published by the Bureau or may determine average prime offer rates itself by employing the methodology published on the FFIEC Web site. A financial institution that determines average prime offer rates itself, however, is responsible for correctly determining the rates in accordance with the published methodology.",
-            "label":[
-                "1003",
-                "4",
-                "a",
-                "12",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-4-a-6-Interp-3":{
         "node":{
             "tagged_text":null,
@@ -2738,52 +2753,22 @@
         "op":"added"
     },
     "1003-4-a-6-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    51
-                ],
-                [
-                    "insert",
-                    0,
-                    "See comment 4(a)(9)-2 regarding transactions involving"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":"Multiple properties.",
+            "text":"See comment 4(a)(9)-2 regarding transactions involving multiple properties with more than one property taken as security.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "6",
+                "Interp",
+                "1"
             ],
-            [
-                [
-                    "delete",
-                    61,
-                    130
-                ],
-                [
-                    "insert",
-                    61,
-                    "properties with more than one"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    140,
-                    227
-                ],
-                [
-                    "insert",
-                    140,
-                    "taken as security."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Multiple properties."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-9-ii-C-Interp":{
         "node":{
@@ -3135,22 +3120,25 @@
         },
         "op":"added"
     },
-    "1003-4-a-35-Interp-3-ii":{
+    "1003-4-a-9-i-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"If a financial institution obtains two or more AUS results and the AUS generating one of those results corresponds to the purchaser, insurer, or guarantor, if any, the financial institution complies with \u00a7 1003.4(a)(35) by reporting that AUS name and result. For example, if a financial institution evaluates an application with the AUS of Securitizer A and subsequently evaluates the application with the AUS of Securitizer B, but the financial institution ultimately originates a covered loan that it sells within the same calendar year to Securitizer A, the financial institution complies with \u00a7 1003.4(a)(35) by reporting the name of Securitizer A's AUS and the result generated by that system. If a financial institution obtains two or more AUS results and more than one of those AUS results is generated by a system that corresponds to the purchaser, insurer, or guarantor, if any, the financial institution identifies which AUS result should be reported by following the principle set forth below in comment 4(a)(35)-3.iii.",
+            "title":"Paragraph 4(a)(9)(i)",
+            "text":"",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "35",
-                "Interp",
-                "3",
-                "ii"
+                "9",
+                "i",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1003-4-a-9-i-Interp-1",
+                "1003-4-a-9-i-Interp-2",
+                "1003-4-a-9-i-Interp-3"
+            ]
         },
         "op":"added"
     },
@@ -3302,29 +3290,22 @@
         "op":"added"
     },
     "1003-4-a-8-Interp":{
-        "title":[
-            [
-                "delete",
-                0,
-                18
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-4-a-7-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) For a closed-end mortgage loan, other than a purchased loan, an assumption, or a reverse mortgage, the amount to be repaid as disclosed on the legal obligation. For a purchased closed-end mortgage loan or an assumption of a closed-end mortgage loan, the unpaid principal balance at the time of purchase or assumption.",
+            "text":"",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "7",
-                "i"
+                "8",
+                "Interp"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-8-i-Interp",
+                "1003-4-a-8-ii-Interp"
+            ]
         },
         "op":"added"
     },
@@ -3334,7 +3315,7 @@
                 [
                     "delete",
                     0,
-                    25
+                    2
                 ],
                 [
                     "insert",
@@ -3345,91 +3326,103 @@
             [
                 [
                     "delete",
-                    42,
-                    45
+                    19,
+                    22
                 ],
                 [
                     "insert",
-                    42,
+                    19,
                     "post"
                 ]
             ],
             [
                 "insert",
-                86,
+                63,
                 "\u00a7 1003.5(e). The Bureau or other appropriate Federal agency for a financial institution may provide a notice that "
             ],
             [
                 [
                     "delete",
-                    90,
-                    106
+                    67,
+                    83
                 ],
                 [
                     "insert",
-                    90,
+                    67,
                     "institution can post to inform the public"
                 ]
             ],
             [
                 [
                     "delete",
-                    114,
-                    143
+                    91,
+                    120
                 ],
                 [
                     "insert",
-                    114,
+                    91,
                     "availability of its"
                 ]
             ],
             [
                 [
                     "delete",
-                    149,
-                    179
+                    126,
+                    156
                 ],
                 [
                     "insert",
-                    149,
+                    126,
                     "data, or"
                 ]
             ],
             [
                 [
                     "delete",
-                    195,
-                    246
+                    172,
+                    223
                 ],
                 [
                     "insert",
-                    195,
+                    172,
                     "may create"
                 ]
             ],
             [
                 "delete",
-                251,
-                296
+                228,
+                273
             ],
             [
                 [
                     "delete",
-                    300,
-                    346
+                    277,
+                    323
                 ],
                 [
                     "insert",
-                    300,
+                    277,
                     "notice. The"
                 ]
             ]
         ],
         "title":[
             [
-                "insert",
-                0,
-                "Posted notice\u2014suggested text."
+                [
+                    "delete",
+                    0,
+                    16
+                ],
+                [
+                    "insert",
+                    0,
+                    "Posted notice\u2014suggested"
+                ]
+            ],
+            [
+                "delete",
+                22,
+                23
             ]
         ],
         "op":"modified"
@@ -3437,42 +3430,49 @@
     "1003-5-e-Interp-2":{
         "op":"deleted"
     },
-    "1003-4-d-Interp-1":{
-        "op":"deleted"
+    "1003-4-a-12-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 4(a)(12)",
+            "text":"",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "12",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-12-Interp-1",
+                "1003-4-a-12-Interp-2",
+                "1003-4-a-12-Interp-3",
+                "1003-4-a-12-Interp-4",
+                "1003-4-a-12-Interp-5",
+                "1003-4-a-12-Interp-6",
+                "1003-4-a-12-Interp-7",
+                "1003-4-a-12-Interp-8"
+            ]
+        },
+        "op":"added"
     },
     "1003-4-a-11-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    38
-                ],
-                [
-                    "insert",
-                    0,
-                    "Covered loans"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":"Type of purchaser\u2014swapped covered loans.",
+            "text":"Covered loans \u201cswapped\u201d for mortgage-backed securities are to be treated as sales; the purchaser is the entity receiving the covered loans that are swapped.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "11",
+                "Interp",
+                "2"
             ],
-            [
-                "delete",
-                129,
-                137
-            ],
-            [
-                "insert",
-                158,
-                "covered "
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Type of purchaser\u2014swapped covered loans."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-11-Interp-3":{
         "node":{
@@ -3621,18 +3621,18 @@
         },
         "op":"added"
     },
-    "1003-4-a-Interp-3-ii":{
+    "1003-4-a-11-Interp-10":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Financial Institution A received an application for a covered loan from an applicant and forwarded that application to Financial Institution B. Financial Institution B reviewed the application before the loan would have closed, but the application did not result in an origination because Financial Institution B denied the application. Financial Institution B was not acting as Financial Institution A's agent. Since Financial Institution B made the credit decision, Financial Institution B reports the application as a denial. Financial Institution A does not report the application. If, under the same facts, the application was withdrawn before Financial Institution B made a credit decision, Financial Institution B would report the application as withdrawn and Financial Institution A would not report the application.",
+            "title":"Type of purchaser\u2014not applicable.",
+            "text":"A financial institution reports that the requirement is not applicable for applications that were denied, withdrawn, closed for incompleteness or approved but not accepted by the applicant; and for preapproval requests that were denied or approved but not accepted by the applicant. A financial institution also reports that the requirement is not applicable if the institution originated or purchased a covered loan and did not sell it during that same calendar year.",
             "label":[
                 "1003",
                 "4",
                 "a",
+                "11",
                 "Interp",
-                "3",
-                "ii"
+                "10"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -3806,21 +3806,24 @@
         "op":"added"
     },
     "1003-4-a-14-Interp":{
-        "title":[
-            [
-                [
-                    "delete",
-                    10,
-                    19
-                ],
-                [
-                    "insert",
-                    10,
-                    "4(a)(14)"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 4(a)(14)",
+            "text":"",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "14",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-14-Interp-1",
+                "1003-4-a-14-Interp-2"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1003-4-a-18":{
         "node":{
@@ -3866,7 +3869,7 @@
                 [
                     "delete",
                     0,
-                    72
+                    42
                 ],
                 [
                     "insert",
@@ -3876,39 +3879,46 @@
             ],
             [
                 "insert",
-                76,
+                46,
                 "defined by \u00a7 1003.2(g). The same principles apply if any of "
             ],
             [
                 [
                     "delete",
-                    80,
-                    159
+                    50,
+                    129
                 ],
                 [
                     "insert",
-                    80,
+                    50,
                     "parties is not a financial institution. Comment 4(a)-3 provides examples of transactions involving more than one institution, and comment 4(a)-4 discusses how"
                 ]
             ],
             [
                 [
                     "delete",
-                    163,
-                    231
+                    133,
+                    201
                 ],
                 [
                     "insert",
-                    163,
+                    133,
                     "report actions taken by agents."
                 ]
             ]
         ],
         "title":[
             [
-                "insert",
-                0,
-                "Originations and applications involving more than one institution."
+                [
+                    "delete",
+                    0,
+                    29
+                ],
+                [
+                    "insert",
+                    0,
+                    "Originations and applications involving more than one institution."
+                ]
             ]
         ],
         "op":"modified"
@@ -3919,67 +3929,88 @@
                 [
                     "delete",
                     0,
-                    4
+                    2
                 ],
                 [
                     "insert",
                     0,
-                    "The following scenarios illustrate how an institution reports a particular application or covered loan. The illustrations assume that all"
+                    "The following scenarios illustrate how an"
                 ]
-            ],
-            [
-                "delete",
-                8,
-                56
             ],
             [
                 [
                     "delete",
-                    60,
-                    77
+                    15,
+                    27
                 ],
                 [
                     "insert",
-                    60,
+                    15,
+                    "reports a particular application or covered loan. The illustrations assume that all of"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    32,
+                    49
+                ],
+                [
+                    "insert",
+                    32,
                     "parties are financial institutions as defined by \u00a7 1003.2(g). However, the same principles apply if any"
                 ]
             ],
             [
                 [
                     "delete",
-                    85,
-                    216
+                    57,
+                    188
                 ],
                 [
                     "insert",
-                    85,
+                    57,
                     "parties is not"
                 ]
             ],
             [
                 [
                     "delete",
-                    219,
-                    246
+                    191,
+                    218
                 ],
                 [
                     "insert",
-                    219,
+                    191,
                     "financial institution."
                 ]
             ]
         ],
         "title":[
             [
-                "insert",
-                0,
-                "Examples\u2014originations and applications involving more than one institution."
+                [
+                    "delete",
+                    0,
+                    28
+                ],
+                [
+                    "insert",
+                    0,
+                    "Examples\u2014originations and applications involving more than one institution."
+                ]
             ]
         ],
         "op":"modified"
     },
     "1003-4-a-Interp-1":{
         "text":[
+            [
+                "insert",
+                0,
+                "Section 1003.4(a) describes a financial institution's obligation to collect data on applications it received, on covered loans that it originated, and on covered loans that it purchased during the calendar year covered by the loan/application register."
+            ]
+        ],
+        "title":[
             [
                 [
                     "delete",
@@ -3989,15 +4020,8 @@
                 [
                     "insert",
                     0,
-                    "Section 1003.4(a) describes a financial institution's obligation to collect data on applications it received, on covered loans that it originated, and on covered loans that it purchased during the calendar year covered by the loan/application register."
+                    "General."
                 ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "General."
             ]
         ],
         "op":"modified"
@@ -4103,21 +4127,27 @@
         "op":"added"
     },
     "1003-4-a-3-Interp":{
-        "title":[
-            [
-                [
-                    "delete",
-                    10,
-                    18
-                ],
-                [
-                    "insert",
-                    10,
-                    "4(a)(3)"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 4(a)(3)",
+            "text":"",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "3",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-3-Interp-1",
+                "1003-4-a-3-Interp-2",
+                "1003-4-a-3-Interp-3",
+                "1003-4-a-3-Interp-4",
+                "1003-4-a-3-Interp-5"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1003-4-a-Interp-5-i":{
         "node":{
@@ -4321,21 +4351,31 @@
         "op":"modified"
     },
     "1003-4-a-7-Interp":{
-        "title":[
-            [
-                [
-                    "delete",
-                    10,
-                    18
-                ],
-                [
-                    "insert",
-                    10,
-                    "4(a)(7)"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 4(a)(7)",
+            "text":"",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "7",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-7-Interp-1",
+                "1003-4-a-7-Interp-2",
+                "1003-4-a-7-Interp-3",
+                "1003-4-a-7-Interp-4",
+                "1003-4-a-7-Interp-5",
+                "1003-4-a-7-Interp-6",
+                "1003-4-a-7-Interp-7",
+                "1003-4-a-7-Interp-8",
+                "1003-4-a-7-Interp-9"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1003-3-c-10-Interp-4-iii":{
         "node":{
@@ -4649,129 +4689,11 @@
         "op":"added"
     },
     "1003-5-a-Interp-7":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    28
-                ],
-                [
-                    "insert",
-                    0,
-                    "If an additional"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    34,
-                    63
-                ],
-                [
-                    "insert",
-                    34,
-                    "submission becomes necessary (for example, because the institution discovers that"
-                ]
-            ],
-            [
-                "insert",
-                69,
-                "were omitted from the initial submission, or because revisions are called for), that "
-            ],
-            [
-                "delete",
-                80,
-                252
-            ]
-        ],
         "title":[
             [
-                "insert",
-                0,
-                "Transmittal sheet\u2014additional data submissions."
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-5-e":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    10
-                ],
-                [
-                    "insert",
-                    4,
-                    "Posted notice"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    14,
-                    28
-                ],
-                [
-                    "insert",
-                    14,
-                    "availability of data.A"
-                ]
-            ],
-            [
-                "insert",
-                177,
-                "physically "
-            ],
-            [
-                [
-                    "delete",
-                    188,
-                    190
-                ],
-                [
-                    "insert",
-                    188,
-                    "each"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    199,
-                    272
-                ],
-                [
-                    "insert",
-                    199,
-                    "each MD. This notice must clearly convey that"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    277,
-                    288
-                ],
-                [
-                    "insert",
-                    277,
-                    "institution's HMDA data is available on"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    293,
-                    427
-                ],
-                [
-                    "insert",
-                    293,
-                    "Bureau's Web site at www.consumerfinance.gov/hmda."
-                ]
+                "delete",
+                46,
+                47
             ]
         ],
         "op":"modified"
@@ -4870,7 +4792,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(c) Excluded transactions.The requirements of this part do not apply to:",
+            "text":"(c) Exempt institutions and excluded transactions.The requirements of this part do not apply to:",
             "label":[
                 "1003",
                 "3",
@@ -4894,22 +4816,36 @@
         },
         "op":"added"
     },
-    "1003-4-a-17-ii-Interp-1":{
+    "1003-4-a-8-i-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"Total points and fees\u2014not applicable.",
-            "text":"Section 1003.4(a)(17)(ii) does not require financial institutions to report the total points and fees for transactions not subject to Regulation Z, 12 CFR 1026.43(c), such as open-end lines of credit, reverse mortgages, or loans or lines of credit made primarily for business or commercial purposes, or for applications or purchased covered loans. In these cases, a financial institution complies with \u00a7 1003.4(a)(17)(ii) by reporting that the requirement is not applicable to the transaction.",
+            "title":"Paragraph 4(a)(8)(i)",
+            "text":"",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "17",
-                "ii",
-                "Interp",
-                "1"
+                "8",
+                "i",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1003-4-a-8-i-Interp-1",
+                "1003-4-a-8-i-Interp-2",
+                "1003-4-a-8-i-Interp-3",
+                "1003-4-a-8-i-Interp-4",
+                "1003-4-a-8-i-Interp-5",
+                "1003-4-a-8-i-Interp-6",
+                "1003-4-a-8-i-Interp-7",
+                "1003-4-a-8-i-Interp-8",
+                "1003-4-a-8-i-Interp-9",
+                "1003-4-a-8-i-Interp-10",
+                "1003-4-a-8-i-Interp-11",
+                "1003-4-a-8-i-Interp-12",
+                "1003-4-a-8-i-Interp-13",
+                "1003-4-a-8-i-Interp-14"
+            ]
         },
         "op":"added"
     },
@@ -4961,6 +4897,24 @@
                 "Interp",
                 "2",
                 "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-4-a-16-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":"Reason for denial\u2014not applicable.",
+            "text":"A financial institution complies with \u00a7 1003.4(a)(16) by reporting that the requirement is not applicable if the action taken on the application, pursuant to \u00a7 1003.4(a)(8), is not a denial. For example, a financial institution complies with \u00a7 1003.4(a)(16) by reporting that the requirement is not applicable if the loan is originated or purchased by the financial institution, or the application or preapproval request was approved but not accepted, or the application was withdrawn before a credit decision was made, or the file was closed for incompleteness.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "16",
+                "Interp",
+                "4"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -5086,6 +5040,16 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1003":{
+        "title":[
+            [
+                "insert",
+                0,
+                "HOME MORTGAGE DISCLOSURE"
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-a":{
         "text":[
@@ -5480,9 +5444,6 @@
     "1003-2-FinancialInstitution-2-iii-B":{
         "op":"deleted"
     },
-    "1003-5-e-Interp-1-HMDANotice-1":{
-        "op":"deleted"
-    },
     "1003-2-FinancialInstitution-2-iii-A":{
         "op":"deleted"
     },
@@ -5870,14 +5831,24 @@
         "op":"added"
     },
     "1003-4-a-1-Interp":{
-        "title":[
-            [
-                "delete",
-                0,
-                18
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "1",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-1-i-Interp",
+                "1003-4-a-1-ii-Interp"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1003-4-a-18-Interp":{
         "node":{
@@ -6173,108 +6144,23 @@
         "op":"added"
     },
     "1003-4-a-14-Interp-1-ii":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    7
-                ],
-                [
-                    "insert",
-                    0,
-                    "Financial institutions"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Financial institutions may also consider their established procedures when determining lien status for applications that do not result in originations. For example, assume an applicant applies to a financial institution to refinance a $100,000 first mortgage; the applicant also has an open-end line of credit for $20,000. If the financial institution's practice in such a case is to ensure that it will have first-lien position\u2014through a subordination agreement with the holder of the lien securing the open-end line of credit\u2014then the financial institution should report the application as an application for a first-lien covered loan.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "14",
+                "Interp",
+                "1",
+                "ii"
             ],
-            [
-                "insert",
-                150,
-                "assume an applicant applies to "
-            ],
-            [
-                [
-                    "delete",
-                    152,
-                    168
-                ],
-                [
-                    "insert",
-                    152,
-                    "financial institution"
-                ]
-            ],
-            [
-                "insert",
-                172,
-                "refinance "
-            ],
-            [
-                [
-                    "delete",
-                    174,
-                    180
-                ],
-                [
-                    "insert",
-                    174,
-                    "$100,000 first mortgage; the applicant also has an open-end line of credit for $20,000. If the financial institution's practice in such a case is"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    184,
-                    193
-                ],
-                [
-                    "insert",
-                    184,
-                    "ensure that it will have first-lien position\u2014through"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    196,
-                    220
-                ],
-                [
-                    "insert",
-                    196,
-                    "subordination agreement with"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    225,
-                    242
-                ],
-                [
-                    "insert",
-                    225,
-                    "holder of the lien securing the open-end line of credit\u2014then the financial institution should report the application as an application for"
-                ]
-            ],
-            [
-                "delete",
-                245,
-                356
-            ],
-            [
-                [
-                    "delete",
-                    367,
-                    546
-                ],
-                [
-                    "insert",
-                    367,
-                    "covered"
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-3-c-10-Interp-3-iii":{
         "node":{
@@ -6322,7 +6208,7 @@
     "1003-4-a-10-Interp-6":{
         "op":"deleted"
     },
-    "1003-4-a-10-Interp-5":{
+    "1003-2-Application-Interp":{
         "op":"deleted"
     },
     "1003-4-a-10-Interp-4":{
@@ -6406,25 +6292,6 @@
                 "B",
                 "Interp",
                 "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-4-a-10-iii-Interp-5":{
-        "node":{
-            "tagged_text":null,
-            "title":"Income data\u2014credit decision not made.",
-            "text":"Section 1003.4(a)(10)(iii) requires a financial institution to report the gross annual income relied on in processing the application if a credit decision was not made. For example, assume an institution received an application that included an applicant's self-reported income, but the application was withdrawn before a credit decision that would have considered income was made. The financial institution reports the income information relied on in processing the application at the time that the application was withdrawn or the file was closed for incompleteness.",
-            "label":[
-                "1003",
-                "4",
-                "a",
-                "10",
-                "iii",
-                "Interp",
-                "5"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -6856,7 +6723,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(m) Metropolitan Statistical Area (MSA) and Metropolitan Division (MD).",
+            "text":"(m) Metropolitan Statistical Area (MSA) and Metropolitan Division(MD).",
             "label":[
                 "1003",
                 "2",
@@ -6885,25 +6752,35 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h8-2":{
+    "1003-2-k":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(k) Loan/Application Register means both the record of information required to be collected pursuant to \u00a7 1003.4 and the record submitted annually or quarterly, as applicable, pursuant to \u00a7 1003.5(a).",
+            "label":[
+                "1003",
+                "2",
+                "k"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-1-c":{
         "text":[
             [
                 [
                     "delete",
-                    75,
-                    83
+                    4,
+                    14
                 ],
                 [
                     "insert",
-                    75,
-                    "Appendix"
+                    4,
+                    "This"
                 ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-1-c":{
-        "text":[
+            ],
             [
                 "insert",
                 31,
@@ -6978,6 +6855,13 @@
                     446,
                     "Commonwealth of Puerto Rico."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Scope"
             ]
         ],
         "op":"modified"
@@ -7115,24 +6999,29 @@
         },
         "op":"added"
     },
-    "1003-4-a-10-iii-Interp-9":{
-        "node":{
-            "tagged_text":null,
-            "title":"Income data\u2014purchased loans.",
-            "text":"A financial institution complies with \u00a7 1003.4(a)(10)(iii) by reporting that the requirement is not applicable when reporting a purchased covered loan for which the institution chooses not to report the income.",
-            "label":[
-                "1003",
-                "4",
-                "a",
-                "10",
-                "iii",
-                "Interp",
-                "9"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-5-a-Interp-3":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    412
+                ],
+                [
+                    "insert",
+                    0,
+                    "[Reserved]"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                30
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-ManufacturedHome-Interp-1":{
         "op":"deleted"
@@ -7195,7 +7084,7 @@
                 [
                     "delete",
                     0,
-                    403
+                    379
                 ],
                 [
                     "insert",
@@ -7204,67 +7093,32 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "delete",
+                0,
+                24
+            ]
+        ],
         "op":"modified"
     },
     "1003-4-a-7-Interp-4":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    26
-                ],
-                [
-                    "insert",
-                    0,
-                    "A financial"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":"Covered loan amount\u2014multiple-purpose loan.",
+            "text":"A financial institution reports the entire amount of the covered loan, even if only a part of the proceeds is intended for home purchase, home improvement, or refinancing.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "7",
+                "Interp",
+                "4"
             ],
-            [
-                [
-                    "delete",
-                    39,
-                    55
-                ],
-                [
-                    "insert",
-                    39,
-                    "reports the entire amount of the covered loan, even if only"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    58,
-                    100
-                ],
-                [
-                    "insert",
-                    58,
-                    "part of"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    105,
-                    208
-                ],
-                [
-                    "insert",
-                    105,
-                    "proceeds is intended for home purchase, home improvement, or refinancing."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Covered loan amount\u2014multiple-purpose loan."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-7-Interp-5":{
         "node":{
@@ -7321,137 +7175,58 @@
         "op":"added"
     },
     "1003-4-a-7-Interp-1":{
-        "text":[
-            [
-                "delete",
-                0,
-                26
+        "node":{
+            "tagged_text":null,
+            "title":"Covered loan amount\u2014counteroffer.",
+            "text":"If an applicant accepts a counteroffer for an amount different from the amount for which the applicant applied, the financial institution reports the covered loan amount granted. If an applicant does not accept a counteroffer or fails to respond, the institution reports the amount initially requested.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "7",
+                "Interp",
+                "1"
             ],
-            [
-                "insert",
-                105,
-                "for which the applicant applied, the financial institution reports the covered loan amount granted. If an applicant does not accept a counteroffer or fails to respond, the institution reports the amount "
-            ],
-            [
-                "delete",
-                115,
-                293
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Covered loan amount\u2014counteroffer."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-7-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    44
-                ],
-                [
-                    "insert",
-                    0,
-                    "A financial institution reports"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":"Covered loan amount\u2014application approved but not accepted or preapproval request approved but not accepted.",
+            "text":"A financial institution reports the covered loan amount that was approved.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "7",
+                "Interp",
+                "2"
             ],
-            [
-                [
-                    "delete",
-                    49,
-                    120
-                ],
-                [
-                    "insert",
-                    49,
-                    "covered loan"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    128,
-                    227
-                ],
-                [
-                    "insert",
-                    128,
-                    "that was approved."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Covered loan amount\u2014application approved but not accepted or preapproval request approved but not accepted."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-7-Interp-3":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    32
-                ],
-                [
-                    "insert",
-                    0,
-                    "For a preapproval request that was denied, and for an application that was denied, closed for incompleteness, or withdrawn, a financial"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":"Covered loan amount\u2014preapproval request denied, application denied, closed for incompleteness or withdrawn.",
+            "text":"For a preapproval request that was denied, and for an application that was denied, closed for incompleteness, or withdrawn, a financial institution reports the amount for which the applicant applied.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "7",
+                "Interp",
+                "3"
             ],
-            [
-                "delete",
-                45,
-                99
-            ],
-            [
-                "delete",
-                107,
-                112
-            ],
-            [
-                [
-                    "delete",
-                    116,
-                    137
-                ],
-                [
-                    "insert",
-                    116,
-                    "amount"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    142,
-                    185
-                ],
-                [
-                    "insert",
-                    142,
-                    "which the applicant applied."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Covered loan amount\u2014preapproval request denied, application denied, closed for incompleteness or withdrawn."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-3-c-1-Interp":{
         "node":{
@@ -7472,18 +7247,18 @@
         },
         "op":"added"
     },
-    "1003-4-a-Interp-2-ii":{
+    "1003-4-a-7-Interp-8":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"In the case of an application for a covered loan that did not result in an origination, a financial institution reports the action it took on that application if it made a credit decision on the application or was reviewing the application when the application was withdrawn or closed for incompleteness. It is not relevant whether the financial institution received the application from the applicant or from another institution, such as a broker, or whether another financial institution also reviewed and reported an action taken on the same application.",
+            "title":"Covered loan amount\u2014home improvement loan.",
+            "text":"A financial institution reports the entire amount of a home improvement loan, even if only a part of the proceeds is intended for home improvement.",
             "label":[
                 "1003",
                 "4",
                 "a",
+                "7",
                 "Interp",
-                "2",
-                "ii"
+                "8"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -7905,36 +7680,21 @@
         ],
         "op":"modified"
     },
-    "1003-4-a-8-i-Interp":{
+    "1003-4-a-30-Interp-6":{
         "node":{
             "tagged_text":null,
-            "title":"Paragraph 4(a)(8)(i)",
-            "text":"",
+            "title":"Scope of requirement.",
+            "text":"A financial institution reports that the requirement is not applicable for a covered loan where the dwelling related to the property identified in \u00a7 1003.4(a)(9) is not a manufactured home.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "8",
-                "i",
-                "Interp"
+                "30",
+                "Interp",
+                "6"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1003-4-a-8-i-Interp-1",
-                "1003-4-a-8-i-Interp-2",
-                "1003-4-a-8-i-Interp-3",
-                "1003-4-a-8-i-Interp-4",
-                "1003-4-a-8-i-Interp-5",
-                "1003-4-a-8-i-Interp-6",
-                "1003-4-a-8-i-Interp-7",
-                "1003-4-a-8-i-Interp-8",
-                "1003-4-a-8-i-Interp-9",
-                "1003-4-a-8-i-Interp-10",
-                "1003-4-a-8-i-Interp-11",
-                "1003-4-a-8-i-Interp-12",
-                "1003-4-a-8-i-Interp-13",
-                "1003-4-a-8-i-Interp-14"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -7943,6 +7703,24 @@
     },
     "1003-2-HomeImprovementLoan-2":{
         "op":"deleted"
+    },
+    "1003-4-a-Interp-3-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Financial Institution A received an application for a covered loan from an applicant and forwarded that application to Financial Institution B. Financial Institution B reviewed the application before the loan would have closed, but the application did not result in an origination because Financial Institution B denied the application. Financial Institution B was not acting as Financial Institution A's agent. Since Financial Institution B made the credit decision, Financial Institution B reports the application as a denial. Financial Institution A does not report the application. If, under the same facts, the application was withdrawn before Financial Institution B made a credit decision, Financial Institution B would report the application as withdrawn and Financial Institution A would not report the application.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "Interp",
+                "3",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-1-i-Interp":{
         "node":{
@@ -8158,56 +7936,14 @@
         },
         "op":"added"
     },
-    "1003-4-f-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":"Form of quarterly records.",
-            "text":"A financial institution may maintain the records required by \u00a7 1003.4(f) in electronic or any other format, provided the institution can make the information available to its regulatory agency in a timely manner upon request.",
-            "label":[
-                "1003",
-                "4",
-                "f",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-2-Application-Interp-3":{
+        "op":"deleted"
     },
-    "1003-4-f-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Agency requirements.",
-            "text":"Certain State or Federal regulations may require a financial institution to record its data more frequently than is required under Regulation C.",
-            "label":[
-                "1003",
-                "4",
-                "f",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-2-Application-Interp-2":{
+        "op":"deleted"
     },
-    "1003-4-f-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"General.",
-            "text":"Section 1003.4(f) requires a financial institution to record the data collected pursuant to \u00a7 1003.4 on a loan/application register within 30 calendar days after the end of the calendar quarter in which final action is taken. Section 1003.4(f) does not require a financial institution to record data on a single loan/application register on a quarterly basis. Rather, for purposes of \u00a7 1003.4(f), a financial institution may record data on a single loan/application register or separately for different branches or different loan types (such as home purchase or home improvement loans, or loans on multifamily dwellings).",
-            "label":[
-                "1003",
-                "4",
-                "f",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-2-Application-Interp-1":{
+        "op":"deleted"
     },
     "1003-2-b-Interp":{
         "node":{
@@ -8225,28 +7961,6 @@
                 "1003-2-b-Interp-1",
                 "1003-2-b-Interp-2",
                 "1003-2-b-Interp-3"
-            ]
-        },
-        "op":"added"
-    },
-    "1003-4-a-9-i-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Paragraph 4(a)(9)(i)",
-            "text":"",
-            "label":[
-                "1003",
-                "4",
-                "a",
-                "9",
-                "i",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1003-4-a-9-i-Interp-1",
-                "1003-4-a-9-i-Interp-2",
-                "1003-4-a-9-i-Interp-3"
             ]
         },
         "op":"added"
@@ -8308,18 +8022,18 @@
         },
         "op":"added"
     },
-    "1003-4-a-30-Interp-4":{
+    "1003-4-a-3-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Manufactured home community.",
-            "text":"A manufactured home community that is a multifamily dwelling is not considered a manufactured home for purposes of \u00a7 1003.4(a)(30).",
+            "title":"Purpose\u2014statement of applicant.",
+            "text":"A financial institution may rely on the oral or written statement of an applicant regarding the proposed use of covered loan proceeds. For example, a lender could use a check-box or a purpose line on a loan application to determine whether the applicant intends to use covered loan proceeds for home improvement purposes. If an applicant provides no statement as to the proposed use of covered loan proceeds and the covered loan is not a home purchase loan, cash-out refinancing, or refinancing, a financial institution reports the covered loan as for a purpose other than home purchase, home improvement, refinancing, or cash-out refinancing for purposes of \u00a7 1003.4(a)(3).",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "30",
+                "3",
                 "Interp",
-                "4"
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -8327,144 +8041,57 @@
         "op":"added"
     },
     "1003-4-a-3-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    33
-                ],
-                [
-                    "insert",
-                    0,
-                    "Section 1003.4(a)(3) requires"
-                ]
-            ],
-            [
-                "insert",
-                36,
-                "financial institution to report whether a covered "
-            ],
-            [
-                "insert",
-                41,
-                "is, or an application "
-            ],
-            [
-                "insert",
-                44,
-                "for, "
-            ],
-            [
-                [
-                    "delete",
-                    46,
-                    59
-                ],
-                [
-                    "insert",
-                    46,
-                    "refinancing or a cash-out refinancing. A financial institution reports a covered"
-                ]
-            ],
-            [
-                "insert",
-                65,
-                "or an application "
-            ],
-            [
-                [
-                    "delete",
-                    68,
-                    72
-                ],
-                [
-                    "insert",
-                    68,
-                    "a cash-out refinancing if it is a refinancing"
-                ]
-            ],
-            [
-                "insert",
-                76,
-                "defined by \u00a7 1003.2(p) and the institution considered it to be "
-            ],
-            [
-                [
-                    "delete",
-                    78,
-                    100
-                ],
-                [
-                    "insert",
-                    78,
-                    "cash-out refinancing in processing the application"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    104,
-                    118
-                ],
-                [
-                    "insert",
-                    104,
-                    "setting the terms (such as the interest rate or origination charges) under its guidelines or"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    122,
-                    298
-                ],
-                [
-                    "insert",
-                    122,
-                    "investor's guidelines. For example:"
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Purpose\u2014refinancing and cash-out refinancing."
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-4-a-30-Interp-6":{
         "node":{
             "tagged_text":null,
-            "title":"Scope of requirement.",
-            "text":"A financial institution reports that the requirement is not applicable for a covered loan where the dwelling related to the property identified in \u00a7 1003.4(a)(9) is not a manufactured home.",
+            "title":"Purpose\u2014refinancing and cash-out refinancing.",
+            "text":"Section 1003.4(a)(3) requires a financial institution to report whether a covered loan is, or an application is for, a refinancing or a cash-out refinancing. A financial institution reports a covered loan or an application as a cash-out refinancing if it is a refinancing as defined by \u00a7 1003.2(p) and the institution considered it to be a cash-out refinancing in processing the application or setting the terms (such as the interest rate or origination charges) under its guidelines or an investor's guidelines. For example:",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "30",
+                "3",
                 "Interp",
-                "6"
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-3-Interp-2-i",
+                "1003-4-a-3-Interp-2-ii",
+                "1003-4-a-3-Interp-2-iii"
+            ]
+        },
+        "op":"added"
+    },
+    "1003-4-a-3-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Purpose\u2014multiple-purpose loan.",
+            "text":"Section 1003.4(a)(3) requires a financial institution to report the purpose of a covered loan or application. If a covered loan is a home purchase loan as well as a home improvement loan, a refinancing, or a cash-out refinancing, an institution complies with \u00a7 1003.4(a)(3) by reporting the loan as a home purchase loan. If a covered loan is a home improvement loan as well as a refinancing or cash-out refinancing, but the covered loan is not a home purchase loan, an institution complies with \u00a7 1003.4(a)(3) by reporting the covered loan as a refinancing or a cash-out refinancing, as appropriate. If a covered loan is a refinancing or cash-out refinancing as well as for another purpose, such as for the purpose of paying educational expenses, but the covered loan is not a home purchase loan, an institution complies with \u00a7 1003.4(a)(3) by reporting the covered loan as a refinancing or a cash-out refinancing, as appropriate. See comment 4(a)(3)-2. If a covered loan is a home improvement loan as well as for another purpose, but the covered loan is not a home purchase loan, a refinancing, or cash-out refinancing, an institution complies with \u00a7 1003.4(a)(3) by reporting the covered loan as a home improvement loan. See comment 2(i)-1.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "3",
+                "Interp",
+                "3"
             ],
             "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
     },
-    "1003-4-a-30-Interp-1":{
+    "1003-4-a-3-Interp-4":{
         "node":{
             "tagged_text":null,
-            "title":"Indirect land ownership.",
-            "text":"Indirect land ownership can occur when the applicant or borrower is or will be a member of a resident-owned community structured as a housing cooperative in which the occupants own an entity that holds the underlying land of the manufactured home community. In such communities, the applicant or borrower may still have a lease and pay rent for the lot on which his or her manufactured home is or will be located, but the property interest type for such an arrangement should be reported as indirect ownership if the applicant is or will be a member of the cooperative that owns the underlying land of the manufactured home community. If an applicant resides or will reside in such a community but is not a member, the property interest type should be reported as a paid leasehold.",
+            "title":"Purpose\u2014other.",
+            "text":"If a covered loan is not, or an application is not for, a home purchase loan, a home improvement loan, a refinancing, or a cash-out refinancing, a financial institution complies with \u00a7 1003.4(a)(3) by reporting the covered loan or application as for a purpose other than home purchase, home improvement, refinancing, or cash-out refinancing. For example, if a covered loan is for the purpose of paying educational expenses, the financial institution complies with \u00a7 1003.4(a)(3) by reporting the covered loan as for a purpose other than home purchase, home improvement, refinancing, or cash-out refinancing. Section 1003.4(a)(3) also requires an institution to report a covered loan or application as for a purpose other than home purchase, home improvement, refinancing, or cash-out refinancing if it is a refinancing but, under the terms of the agreement, the financial institution was unconditionally obligated to refinance the obligation subject to conditions within the borrower's control.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "30",
+                "3",
                 "Interp",
-                "1"
+                "4"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -8529,113 +8156,34 @@
         "op":"added"
     },
     "1003-4-a-9-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    26
-                ],
-                [
-                    "insert",
-                    0,
-                    "If more than one property is taken or, in the case of an application, proposed to be taken as security for a single covered loan, a financial institution reports the covered loan or application in a single entry on its loan/application register and provides the information required by \u00a7 1003.4(a)(9) for one of the"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    38,
-                    62
-                ],
-                [
-                    "insert",
-                    38,
-                    "taken as security that contains a dwelling. A financial institution does not report information about the other properties taken as security. If an institution is required to report specific information about the property identified in \u00a7 1003.4(a)(9), the institution reports the information that relates to the property identified in \u00a7 1003.4(a)(9). For example, Financial Institution A originated a covered loan that is secured by both property A and property B, each"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    66,
-                    81
-                ],
-                [
-                    "insert",
-                    66,
-                    "which contains a dwelling. Financial Institution A reports the loan as one entry on its loan/application register, reporting the information required by \u00a7 1003.4(a)(9) for either property A or property B. If Financial Institution A elects to report the information required by \u00a7 1003.4(a)(9) about property A, Financial Institution A also reports the information required by \u00a7 1003.4(a)(5), (6), (14), (29), and (30) related to property A."
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    86,
-                    122
-                ],
-                [
-                    "insert",
-                    86,
-                    "aspects of the entries that do not refer to the property identified in \u00a7 1003.4(a)(9) (i.e., \u00a7 1003.4(a)(1) through (4), (7), (8), (10) through (13), (15) through (28), (31) through (38)), Financial Institution A"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    135,
-                    320
-                ],
-                [
-                    "insert",
-                    135,
-                    "information applicable to the covered"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    326,
-                    360
-                ],
-                [
-                    "insert",
-                    326,
-                    "or application"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    365,
-                    599
-                ],
-                [
-                    "insert",
-                    365,
-                    "not information that relates only to the property identified in \u00a7 1003.4(a)(9)."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Multiple properties with more than one property taken as security."
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-4-a-19-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Discount points\u2014not applicable.",
-            "text":"Section 1003.4(a)(19) does not require financial institutions to report the discount points for applications, or for transactions not subject to Regulation Z, 12 CFR 1026.19(f), such as open-end lines of credit, reverse mortgages, or loans or lines of credit made primarily for business or commercial purposes. In these cases, a financial institution complies with \u00a7 1003.4(a)(19) by reporting that the requirement is not applicable to the transaction.",
+            "title":"Multiple properties with more than one property taken as security.",
+            "text":"If more than one property is taken or, in the case of an application, proposed to be taken as security for a single covered loan, a financial institution reports the covered loan or application in a single entry on its loan/application register and provides the information required by \u00a7 1003.4(a)(9) for one of the properties taken as security that contains a dwelling. A financial institution does not report information about the other properties taken as security. If an institution is required to report specific information about the property identified in \u00a7 1003.4(a)(9), the institution reports the information that relates to the property identified in \u00a7 1003.4(a)(9). For example, Financial Institution A originated a covered loan that is secured by both property A and property B, each of which contains a dwelling. Financial Institution A reports the loan as one entry on its loan/application register, reporting the information required by \u00a7 1003.4(a)(9) for either property A or property B. If Financial Institution A elects to report the information required by \u00a7 1003.4(a)(9) about property A, Financial Institution A also reports the information required by \u00a7 1003.4(a)(5), (6), (14), (29), and (30) related to property A. For aspects of the entries that do not refer to the property identified in \u00a7 1003.4(a)(9) (i.e., \u00a7 1003.4(a)(1) through (4), (7), (8), (10) through (13), (15) through (28), (31) through (38)), Financial Institution A reports the information applicable to the covered loan or application and not information that relates only to the property identified in \u00a7 1003.4(a)(9).",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "19",
+                "9",
                 "Interp",
-                "1"
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-4-f-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Form of quarterly records.",
+            "text":"A financial institution may maintain the records required by \u00a7 1003.4(f) in electronic or any other format, provided the institution can make the information available to its regulatory agency in a timely manner upon request.",
+            "label":[
+                "1003",
+                "4",
+                "f",
+                "Interp",
+                "3"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -8660,18 +8208,18 @@
         },
         "op":"added"
     },
-    "1003-4-a-19-Interp-3":{
+    "1003-4-a-9-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Revised disclosures.",
-            "text":"If the amount of discount points changes because a financial institution provides a revised version of the disclosures required under Regulation Z, 12 CFR 1026.19(f), pursuant to Regulation Z, 12 CFR 1026.19(f)(2), the financial institution complies with \u00a7 1003.4(a)(19) by reporting the revised amount, provided that the revised disclosure was provided to the borrower during the same reporting period in which closing occurred. For example, in the case of a financial institution's quarterly submission made pursuant to \u00a7 1003.5(a)(ii), if the financial institution provides a corrected disclosure to reflect a refund made pursuant to Regulation Z, 12 CFR 1026.19(f)(2)(v), the financial institution reports the corrected amount of discount points only if the corrected disclosure was provided prior to the end of the quarter in which closing occurred. The financial institution does not report the corrected amount of discount points in its quarterly submission if the corrected disclosure was provided after the end of the quarter, even if the corrected disclosure was provided prior to the deadline for timely submission of the financial institution's quarterly data. However, the financial institution reports the corrected amount of discount points on its annual loan/application register.",
+            "title":"Multiple properties with one property taken as security.",
+            "text":"If a covered loan is related to more than one property, but only one property is taken as security (or, in the case of an application, proposed to be taken as security), a financial institution reports the information required by \u00a7 1003.4(a)(9) for the property taken as or proposed to be taken as security. A financial institution does not report the information required by \u00a7 1003.4(a)(9) for the property or properties related to the loan that are not taken as or proposed to be taken as security. For example, if a covered loan is secured by property A, and the proceeds are used to purchase or rehabilitate (or to refinance home purchase or home improvement loans related to) property B, the institution reports the information required by \u00a7 1003.4(a)(9) for property A and does not report the information required by \u00a7 1003.4(a)(9) for property B.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "19",
+                "9",
                 "Interp",
-                "3"
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -8716,18 +8264,17 @@
         },
         "op":"added"
     },
-    "1003-4-a-9-Interp-5":{
+    "1003-4-f-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":"Manufactured home.",
-            "text":"If the site of a manufactured home has not been identified, a financial institution complies by reporting that the information required by \u00a7 1003.4(a)(9) is not applicable.",
+            "title":"Agency requirements.",
+            "text":"Certain State or Federal regulations may require a financial institution to record its data more frequently than is required under Regulation C.",
             "label":[
                 "1003",
                 "4",
-                "a",
-                "9",
+                "f",
                 "Interp",
-                "5"
+                "2"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -8753,75 +8300,50 @@
         },
         "op":"added"
     },
+    "1003-4-f-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"General.",
+            "text":"Section 1003.4(f) requires a financial institution to record the data collected pursuant to \u00a7 1003.4 on a loan/application register within 30 calendar days after the end of the calendar quarter in which final action is taken. Section 1003.4(f) does not require a financial institution to record data on a single loan/application register on a quarterly basis. Rather, for purposes of \u00a7 1003.4(f), a financial institution may record data on a single loan/application register or separately for different branches or different loan types (such as home purchase or home improvement loans, or loans on multifamily dwellings).",
+            "label":[
+                "1003",
+                "4",
+                "f",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-4-a-10-Interp":{
-        "title":[
-            [
-                "delete",
-                0,
-                19
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "10",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-10-i-Interp",
+                "1003-4-a-10-ii-Interp",
+                "1003-4-a-10-iii-Interp"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1003-6-b-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    27
-                ],
-                [
-                    "insert",
-                    0,
-                    "An institution that obtains the property-location information for applications and loans"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    39,
-                    62
-                ],
-                [
-                    "insert",
-                    39,
-                    "parties (such as appraisers or vendors of \u201cgeocoding\u201d services) is responsible for ensuring"
-                ]
-            ],
-            [
-                "delete",
-                68,
-                76
-            ],
-            [
-                "delete",
-                80,
-                98
-            ],
-            [
-                [
-                    "delete",
-                    110,
-                    211
-                ],
-                [
-                    "insert",
-                    110,
-                    "reported on its HMDA/LAR"
-                ]
-            ],
-            [
-                "delete",
-                215,
-                289
-            ]
-        ],
         "title":[
             [
-                "insert",
-                0,
-                "Bona fide error\u2014information from third parties."
+                "delete",
+                47,
+                48
             ]
         ],
         "op":"modified"
@@ -8894,26 +8416,23 @@
         },
         "op":"added"
     },
-    "1003-4-a-33-i-Interp-1":{
+    "1003-4-a-9-i-Interp-2-i":{
         "node":{
             "tagged_text":null,
-            "title":"General.",
-            "text":"Section 4(a)(33)(i) requires a financial institution to indicate whether the applicant or borrower submitted the application directly to the financial institution that is reporting the covered loan or application. The following scenarios demonstrate whether an application was submitted directly to the financial institution that is reporting the covered loan or application.",
+            "title":"Street address.",
+            "text":"When reporting the street address of the property, a financial institution complies by including, as applicable, the primary address number, the predirectional, the street name, street prefixes and/or suffixes, the postdirectional, the secondary address identifier, and the secondary address, as applicable. For example, 100 N Main ST Apt 1.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "33",
+                "9",
                 "i",
                 "Interp",
-                "1"
+                "2",
+                "i"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1003-4-a-33-i-Interp-1-i",
-                "1003-4-a-33-i-Interp-1-ii",
-                "1003-4-a-33-i-Interp-1-iii"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -8989,19 +8508,18 @@
         },
         "op":"added"
     },
-    "1003-4-a-1-i-Interp-3":{
+    "1003-4-a-12-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":"ULI\u2014purchased covered loan.",
-            "text":"If a financial institution has previously reported a covered loan with a ULI under this part, a financial institution that purchases that covered loan must use the ULI that was previously reported under this part. For example, if a loan origination was previously reported under this part with a ULI, the financial institution that purchases the covered loan would report the purchase of the covered loan using the same ULI. A financial institution that purchases a covered loan must use the ULI that was assigned by the financial institution that originated the covered loan. For example, if a financial institution that submits an annual loan/application register pursuant to \u00a7 1003.5(a)(1)(i) originates a covered loan that is purchased by a financial institution that submits a quarterly loan/application register pursuant to \u00a7 1003.5(a)(1)(ii), the financial institution that purchased the covered loan must use the ULI that was assigned by the financial institution that originated the covered loan. A financial institution that purchases a covered loan assigns a ULI and records and submits it in its loan/application register pursuant to \u00a7 1003.5(a)(1)(i) or (ii), whichever is applicable, if the covered loan was not assigned a ULI by the financial institution that originated the loan because, for example, the loan was originated prior to January 1, 2018.",
+            "title":"Bureau tables.",
+            "text":"The Bureau publishes on the FFIEC's Web site (http://www.ffiec.gov/hmda), in tables entitled \u201cAverage Prime Offer Rates-Fixed\u201d and \u201cAverage Prime Offer Rates-Adjustable,\u201d current and historic average prime offer rates for a wide variety of closed-end transaction types. The Bureau calculates an annual percentage rate, consistent with Regulation Z (see 12 CFR 1026.22 and Part 1026, Appendix J), for each transaction type for which pricing terms are available from the survey described in comment 4(a)(12)-1. The Bureau uses loan pricing terms available in the survey and other information to estimate annual percentage rates for other types of transactions for which direct survey data are not available. The Bureau publishes on the FFIEC's Web site the methodology it uses to arrive at these estimates. A financial institution may either use the average prime offer rates published by the Bureau or may determine average prime offer rates itself by employing the methodology published on the FFIEC Web site. A financial institution that determines average prime offer rates itself, however, is responsible for correctly determining the rates in accordance with the published methodology.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "1",
-                "i",
+                "12",
                 "Interp",
-                "3"
+                "2"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -9144,6 +8662,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1003-4-a-10-Interp-5":{
+        "op":"deleted"
     },
     "1003-4-a-8-i-Interp-9":{
         "node":{
@@ -9367,18 +8888,19 @@
         },
         "op":"added"
     },
-    "1003-4-a-24-Interp-1":{
+    "1003-4-a-8-i-Interp-6":{
         "node":{
             "tagged_text":null,
-            "title":"General.",
-            "text":"Section 1003.4(a)(24) requires a financial institution to report, except for purchased covered loans, the ratio of the total amount of debt secured by the property to the value of the property (combined loan-to-value ratio) relied on in making the credit decision. For example, if a financial institution calculated a combined loan-to-value ratio twice\u2014once according to the financial institution's own requirements and once according to the requirements of a secondary market investor\u2014and the financial institution relied on the combined loan-to-value ratio calculated according to the secondary market investor's requirements in making the credit decision, \u00a7 1003.4(a)(24) requires the financial institution to report the combined loan-to-value ratio calculated according to the requirements of the secondary market investor.",
+            "title":"Action taken\u2014file closed for incompleteness.",
+            "text":"A financial institution reports that the file was closed for incompleteness if the financial institution sent a written notice of incompleteness under Regulation B, 12 CFR 1002.9(c)(2), and the applicant did not respond to the request for additional information within the period of time specified in the notice before the applicant satisfies all underwriting or creditworthiness conditions. See comment 4(a)(8)(i)-13. If a financial institution then provides a notification of adverse action on the basis of incompleteness under Regulation B, 12 CFR 1002.9(c)(i), the financial institution may report the action taken as either file closed for incompleteness or application denied. A preapproval request that is closed for incompleteness is not reportable under HMDA. See \u00a7 1003.4(a).",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "24",
+                "8",
+                "i",
                 "Interp",
-                "1"
+                "6"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -9500,24 +9022,22 @@
         },
         "op":"added"
     },
-    "1003-4-a-21-Interp":{
+    "1003-4-a-10-iii-Interp-5":{
         "node":{
             "tagged_text":null,
-            "title":"Paragraph 4(a)(21)",
-            "text":"",
+            "title":"Income data\u2014credit decision not made.",
+            "text":"Section 1003.4(a)(10)(iii) requires a financial institution to report the gross annual income relied on in processing the application if a credit decision was not made. For example, assume an institution received an application that included an applicant's self-reported income, but the application was withdrawn before a credit decision that would have considered income was made. The financial institution reports the income information relied on in processing the application at the time that the application was withdrawn or the file was closed for incompleteness.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "21",
-                "Interp"
+                "10",
+                "iii",
+                "Interp",
+                "5"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1003-4-a-21-Interp-1",
-                "1003-4-a-21-Interp-2",
-                "1003-4-a-21-Interp-3"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -9576,6 +9096,64 @@
         },
         "op":"added"
     },
+    "1003-4-a-Interp-1-iv":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    50
+                ],
+                [
+                    "insert",
+                    0,
+                    "A financial institution reports"
+                ]
+            ],
+            [
+                "insert",
+                55,
+                "data for an application on the loan/application register for the calendar year during which the application was acted upon even if the "
+            ],
+            [
+                [
+                    "delete",
+                    67,
+                    69
+                ],
+                [
+                    "insert",
+                    67,
+                    "received"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    74,
+                    307
+                ],
+                [
+                    "insert",
+                    74,
+                    "application"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    311,
+                    335
+                ],
+                [
+                    "insert",
+                    311,
+                    "a previous calendar year."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1003-3-c-2-Interp":{
         "node":{
             "tagged_text":null,
@@ -9595,101 +9173,41 @@
         },
         "op":"added"
     },
-    "1003-4-a-3-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    34
-                ],
-                [
-                    "insert",
-                    0,
-                    "A financial"
-                ]
+    "1003-4-a-30-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":"Manufactured home community.",
+            "text":"A manufactured home community that is a multifamily dwelling is not considered a manufactured home for purposes of \u00a7 1003.4(a)(30).",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "30",
+                "Interp",
+                "4"
             ],
-            [
-                [
-                    "delete",
-                    135,
-                    139
-                ],
-                [
-                    "insert",
-                    135,
-                    "covered loan"
-                ]
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-4-a-28-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Transactions for which no credit decision was made.",
+            "text":"If a file was closed for incompleteness or the application was withdrawn before a credit decision was made, the financial institution complies with \u00a7 1003.4(a)(28) by reporting that the requirement is not applicable, even if the financial institution had obtained a property value. For example, if a file is closed for incompleteness and is so reported in accordance with \u00a7 1003.4(a)(8), the financial institution complies with \u00a7 1003.4(a)(28) by reporting that the requirement is not applicable, even if the financial institution had obtained a property value. Similarly, if an application was withdrawn by the applicant before a credit decision was made and is so reported in accordance with \u00a7 1003.4(a)(8), the financial institution complies with \u00a7 1003.4(a)(28) by reporting that the requirement is not applicable, even if the financial institution had obtained a property value.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "28",
+                "Interp",
+                "3"
             ],
-            [
-                [
-                    "delete",
-                    184,
-                    199
-                ],
-                [
-                    "insert",
-                    184,
-                    "check-box or a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    208,
-                    213
-                ],
-                [
-                    "insert",
-                    208,
-                    "line"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    257,
-                    259
-                ],
-                [
-                    "insert",
-                    257,
-                    "the applicant intends to use covered loan proceeds for home improvement purposes. If an applicant provides no statement as to the proposed use of covered loan proceeds and the covered loan is"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    264,
-                    306
-                ],
-                [
-                    "insert",
-                    264,
-                    "a home purchase loan, cash-out refinancing, or refinancing, a financial institution reports the covered loan as"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    311,
-                    337
-                ],
-                [
-                    "insert",
-                    311,
-                    "a purpose other than home purchase, home improvement, refinancing, or cash-out refinancing for purposes of \u00a7 1003.4(a)(3)."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Purpose\u2014statement of applicant."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-9-ii":{
         "node":{
@@ -9840,28 +9358,18 @@
         },
         "op":"added"
     },
-    "1003-4-a-12-Interp":{
-        "title":[
-            [
-                "insert",
-                0,
-                "Paragraph 4(a)(12)"
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-4-a-3-Interp-4":{
+    "1003-4-a-30-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Purpose\u2014other.",
-            "text":"If a covered loan is not, or an application is not for, a home purchase loan, a home improvement loan, a refinancing, or a cash-out refinancing, a financial institution complies with \u00a7 1003.4(a)(3) by reporting the covered loan or application as for a purpose other than home purchase, home improvement, refinancing, or cash-out refinancing. For example, if a covered loan is for the purpose of paying educational expenses, the financial institution complies with \u00a7 1003.4(a)(3) by reporting the covered loan as for a purpose other than home purchase, home improvement, refinancing, or cash-out refinancing. Section 1003.4(a)(3) also requires an institution to report a covered loan or application as for a purpose other than home purchase, home improvement, refinancing, or cash-out refinancing if it is a refinancing but, under the terms of the agreement, the financial institution was unconditionally obligated to refinance the obligation subject to conditions within the borrower's control.",
+            "title":"Indirect land ownership.",
+            "text":"Indirect land ownership can occur when the applicant or borrower is or will be a member of a resident-owned community structured as a housing cooperative in which the occupants own an entity that holds the underlying land of the manufactured home community. In such communities, the applicant or borrower may still have a lease and pay rent for the lot on which his or her manufactured home is or will be located, but the property interest type for such an arrangement should be reported as indirect ownership if the applicant is or will be a member of the cooperative that owns the underlying land of the manufactured home community. If an applicant resides or will reside in such a community but is not a member, the property interest type should be reported as a paid leasehold.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "3",
+                "30",
                 "Interp",
-                "4"
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -9869,156 +9377,23 @@
         "op":"added"
     },
     "1003-4-a-14-Interp-1-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    7
-                ],
-                [
-                    "insert",
-                    0,
-                    "Financial institutions"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Financial institutions are required to report lien status for covered loans they originate and purchase and applications that do not result in originations (preapproval requests that are approved but not accepted, preapproval requests that are denied, applications that are approved but not accepted, denied, withdrawn, or closed for incompleteness). For covered loans purchased by a financial institution, lien status is determined by reference to the best information readily available to the financial institution at the time of purchase. For covered loans that a financial institution originates and applications that do not result in originations, lien status is determined by reference to the best information readily available to the financial institution at the time final action is taken and to the financial institution's own procedures. Thus, financial institutions may rely on the title search they routinely perform as part of their underwriting procedures\u2014for example, for home purchase loans. Regulation C does not require financial institutions to perform title searches solely to comply with HMDA reporting requirements. Financial institutions may rely on other information that is readily available to them at the time final action is taken and that they reasonably believe is accurate, such as the applicant's statement on the application or the applicant's credit report. For example, where the applicant indicates on the application that there is a mortgage on the property or where the applicant's credit report shows that the applicant has a mortgage\u2014and that mortgage will not be paid off as part of the transaction\u2014the financial institution may assume that the loan it originates is secured by a subordinate lien. If the same application did not result in an origination\u2014for example, because the application was denied or withdrawn\u2014the financial institution would report the application as an application for a subordinate-lien loan.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "14",
+                "Interp",
+                "1",
+                "i"
             ],
-            [
-                "insert",
-                47,
-                "covered "
-            ],
-            [
-                "insert",
-                72,
-                "purchase and "
-            ],
-            [
-                [
-                    "delete",
-                    107,
-                    125
-                ],
-                [
-                    "insert",
-                    107,
-                    "originations (preapproval requests that are approved but not accepted, preapproval requests that are denied, applications that are approved but not accepted, denied, withdrawn, or closed for incompleteness). For covered loans purchased by a financial institution, lien"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    209,
-                    215
-                ],
-                [
-                    "insert",
-                    209,
-                    "financial institution"
-                ]
-            ],
-            [
-                "insert",
-                228,
-                "of purchase. For covered loans that a financial institution originates and applications that do not result in originations, lien status is determined by reference to the best information readily available to the financial institution at the time "
-            ],
-            [
-                [
-                    "delete",
-                    261,
-                    269
-                ],
-                [
-                    "insert",
-                    261,
-                    "financial institution's"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    292,
-                    299
-                ],
-                [
-                    "insert",
-                    292,
-                    "financial institutions"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    461,
-                    471
-                ],
-                [
-                    "insert",
-                    461,
-                    "financial institutions to"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    546,
-                    553
-                ],
-                [
-                    "insert",
-                    546,
-                    "Financial institutions"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    985,
-                    1000
-                ],
-                [
-                    "insert",
-                    985,
-                    "will not"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    1044,
-                    1050
-                ],
-                [
-                    "insert",
-                    1044,
-                    "financial institution"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    1218,
-                    1220
-                ],
-                [
-                    "insert",
-                    1218,
-                    "was"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    1245,
-                    1251
-                ],
-                [
-                    "insert",
-                    1245,
-                    "financial institution"
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-3-Interp-5":{
         "node":{
@@ -10081,81 +9456,22 @@
         "op":"added"
     },
     "1003-4-a-9-Interp-3":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    85
-                ],
-                [
-                    "insert",
-                    0,
-                    "A single multifamily dwelling may have more than one postal address. For example, three apartment buildings, each with a different street address, comprise a single multifamily dwelling that secures a covered loan. For"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":"Multifamily dwellings.",
+            "text":"A single multifamily dwelling may have more than one postal address. For example, three apartment buildings, each with a different street address, comprise a single multifamily dwelling that secures a covered loan. For the purposes of \u00a7 1003.4(a)(9), a financial institution reports the information required by \u00a7 1003.4(a)(9) in the same manner described in comment 4(a)(9)-2.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "9",
+                "Interp",
+                "3"
             ],
-            [
-                [
-                    "delete",
-                    90,
-                    107
-                ],
-                [
-                    "insert",
-                    90,
-                    "purposes of \u00a7 1003.4(a)(9), a financial institution reports the information required"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    111,
-                    123
-                ],
-                [
-                    "insert",
-                    111,
-                    "\u00a7 1003.4(a)(9)"
-                ]
-            ],
-            [
-                "delete",
-                127,
-                165
-            ],
-            [
-                [
-                    "delete",
-                    169,
-                    409
-                ],
-                [
-                    "insert",
-                    169,
-                    "same manner described"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    413,
-                    501
-                ],
-                [
-                    "insert",
-                    413,
-                    "comment 4(a)(9)-2."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Multifamily dwellings."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-2-Dwelling":{
         "op":"deleted"
@@ -10286,98 +9602,26 @@
         },
         "op":"added"
     },
-    "1003-4-a-7-Interp-8":{
+    "1003-1-c-Interp":{
+        "op":"deleted"
+    },
+    "1003-4-a-11-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Covered loan amount\u2014home improvement loan.",
-            "text":"A financial institution reports the entire amount of a home improvement loan, even if only a part of the proceeds is intended for home improvement.",
+            "title":"Type of purchaser\u2014loan-participation interests sold to more than one entity.",
+            "text":"A financial institution that originates a covered loan, and then sells it to more than one entity, reports the \u201ctype of purchaser\u201d based on the entity purchasing the greatest interest, if any. For purposes of \u00a7 1003.4(a)(11), if a financial institution sells some interest or interests in a covered loan but retains a majority interest in that loan, it does not report the sale.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "7",
+                "11",
                 "Interp",
-                "8"
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1003-4-a-11-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    4
-                ],
-                [
-                    "insert",
-                    0,
-                    "A financial institution that originates a covered loan, and then sells it to more than one entity, reports the \u201ctype"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    8,
-                    36
-                ],
-                [
-                    "insert",
-                    8,
-                    "purchaser\u201d based on the entity purchasing the greatest interest, if any. For purposes of \u00a7 1003.4(a)(11), if a financial institution sells some interest or"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    47,
-                    91
-                ],
-                [
-                    "insert",
-                    47,
-                    "in a covered loan but retains a majority interest in"
-                ]
-            ],
-            [
-                "delete",
-                97,
-                110
-            ],
-            [
-                "delete",
-                116,
-                131
-            ],
-            [
-                [
-                    "delete",
-                    134,
-                    166
-                ],
-                [
-                    "insert",
-                    134,
-                    "does not report"
-                ]
-            ],
-            [
-                "delete",
-                171,
-                323
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Type of purchaser\u2014loan-participation interests sold to more than one entity."
-            ]
-        ],
-        "op":"modified"
     },
     "1003-2-m-Interp":{
         "node":{
@@ -10566,6 +9810,24 @@
     "1003-2-HomeImprovementLoan-Interp-1":{
         "op":"deleted"
     },
+    "1003-4-a-18-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Revised disclosures.",
+            "text":"If the total amount of borrower-paid origination charges changes because a financial institution provides a revised version of the disclosures required under Regulation Z, 12 CFR 1026.19(f), pursuant to Regulation Z, 12 CFR 1026.19(f)(2), the financial institution complies with \u00a7 1003.4(a)(18) by reporting the revised amount, provided that the revised disclosure was provided to the borrower during the same reporting period in which closing occurred. For example, in the case of a financial institution's quarterly submission made pursuant to \u00a7 1003.5(a)(1)(ii), if the financial institution provides a corrected disclosure to reflect a refund made pursuant to Regulation Z, 12 CFR 1026.19(f)(2)(v), the financial institution reports the corrected amount of origination charges only if the corrected disclosure was provided prior to the end of the quarter in which closing occurred. The financial institution does not report the corrected amount of origination charges in its quarterly submission if the corrected disclosure was provided after the end of the quarter, even if the corrected disclosure was provided prior to the deadline for timely submission of the financial institution's quarterly data. However, the financial institution reports the corrected amount of origination charges on its annual loan/application register.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "18",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-4-a-1-i-A-1":{
         "node":{
             "tagged_text":null,
@@ -10621,89 +9883,23 @@
         },
         "op":"added"
     },
-    "1003-4-a-9-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    26
-                ],
-                [
-                    "insert",
-                    0,
-                    "If a covered loan is related to more than one property, but only one property is taken as security (or, in the case of an application, proposed to be taken as security), a financial institution reports the information required by \u00a7 1003.4(a)(9) for the property taken as or proposed to be taken as security. A financial institution does not report the information required by \u00a7 1003.4(a)(9) for the property or"
-                ]
+    "1003-4-a-19-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Revised disclosures.",
+            "text":"If the amount of discount points changes because a financial institution provides a revised version of the disclosures required under Regulation Z, 12 CFR 1026.19(f), pursuant to Regulation Z, 12 CFR 1026.19(f)(2), the financial institution complies with \u00a7 1003.4(a)(19) by reporting the revised amount, provided that the revised disclosure was provided to the borrower during the same reporting period in which closing occurred. For example, in the case of a financial institution's quarterly submission made pursuant to \u00a7 1003.5(a)(ii), if the financial institution provides a corrected disclosure to reflect a refund made pursuant to Regulation Z, 12 CFR 1026.19(f)(2)(v), the financial institution reports the corrected amount of discount points only if the corrected disclosure was provided prior to the end of the quarter in which closing occurred. The financial institution does not report the corrected amount of discount points in its quarterly submission if the corrected disclosure was provided after the end of the quarter, even if the corrected disclosure was provided prior to the deadline for timely submission of the financial institution's quarterly data. However, the financial institution reports the corrected amount of discount points on its annual loan/application register.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "19",
+                "Interp",
+                "3"
             ],
-            [
-                [
-                    "delete",
-                    38,
-                    68
-                ],
-                [
-                    "insert",
-                    38,
-                    "related to the loan that are not taken as or proposed to be taken as security. For example, if a covered loan is secured by property A, and the proceeds are used to purchase or rehabilitate (or to refinance"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    74,
-                    93
-                ],
-                [
-                    "insert",
-                    74,
-                    "purchase or"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    111,
-                    119
-                ],
-                [
-                    "insert",
-                    111,
-                    "loans related to) property B, the"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    144,
-                    360
-                ],
-                [
-                    "insert",
-                    144,
-                    "information required by \u00a7 1003.4(a)(9) for property A"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    365,
-                    413
-                ],
-                [
-                    "insert",
-                    365,
-                    "does not report the information required by \u00a7 1003.4(a)(9) for property B."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Multiple properties with one property taken as security."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-12-Interp-5-iii":{
         "node":{
@@ -10765,72 +9961,41 @@
         },
         "op":"added"
     },
-    "1003-4-a-8-ii-Interp-6":{
+    "1003-4-a-9-Interp-4":{
         "node":{
             "tagged_text":null,
-            "title":"Action taken date\u2014loan purchased.",
-            "text":"For covered loans purchased, a financial institution reports the date of purchase.",
+            "title":"Loans purchased from another institution.",
+            "text":"The requirement to report the property location information required by \u00a7 1003.4(a)(9) applies not only to applications and originations but also to purchased covered loans.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "8",
-                "ii",
+                "9",
                 "Interp",
-                "6"
+                "4"
             ],
             "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
     },
-    "1003-4-a-9-Interp-4":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    49
-                ],
-                [
-                    "insert",
-                    0,
-                    "The requirement to report the property location"
-                ]
+    "1003-4-a-9-Interp-5":{
+        "node":{
+            "tagged_text":null,
+            "title":"Manufactured home.",
+            "text":"If the site of a manufactured home has not been identified, a financial institution complies by reporting that the information required by \u00a7 1003.4(a)(9) is not applicable.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "9",
+                "Interp",
+                "5"
             ],
-            [
-                [
-                    "delete",
-                    62,
-                    122
-                ],
-                [
-                    "insert",
-                    62,
-                    "required by \u00a7 1003.4(a)(9) applies"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    127,
-                    197
-                ],
-                [
-                    "insert",
-                    127,
-                    "only to applications and originations but also to purchased covered loans."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Loans purchased from another institution."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-29-Interp":{
         "node":{
@@ -10893,9 +10058,6 @@
     "1003-1-Interp-6":{
         "op":"deleted"
     },
-    "1003-1-Interp-1":{
-        "op":"deleted"
-    },
     "1003-3-c-12-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -10917,9 +10079,6 @@
     "1003-1-Interp-3":{
         "op":"deleted"
     },
-    "1003-1-Interp-2":{
-        "op":"deleted"
-    },
     "1003-4-a-35-Interp-3-i":{
         "node":{
             "tagged_text":null,
@@ -10939,39 +10098,30 @@
         },
         "op":"added"
     },
-    "1003-2-j-Interp-1":{
+    "1003-4-a-9-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"Multiple properties.",
-            "text":"A home purchase loan includes a closed-end mortgage loan or an open-end line of credit secured by one dwelling and used to purchase another dwelling. For example, if a person obtains a home-equity loan or a reverse mortgage secured by dwelling A to purchase dwelling B, the home-equity loan or the reverse mortgage is a home purchase loan under \u00a7 1003.2(j).",
+            "title":"Paragraph 4(a)(9)",
+            "text":"",
             "label":[
                 "1003",
-                "2",
-                "j",
-                "Interp",
-                "1"
+                "4",
+                "a",
+                "9",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1003-4-a-9-Interp-1",
+                "1003-4-a-9-Interp-2",
+                "1003-4-a-9-Interp-3",
+                "1003-4-a-9-Interp-4",
+                "1003-4-a-9-Interp-5",
+                "1003-4-a-9-i-Interp",
+                "1003-4-a-9-ii-Interp"
+            ]
         },
         "op":"added"
-    },
-    "1003-4-a-9-Interp":{
-        "title":[
-            [
-                [
-                    "delete",
-                    10,
-                    18
-                ],
-                [
-                    "insert",
-                    10,
-                    "4(a)(9)"
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1003-2-d-Interp-2-i":{
         "node":{
@@ -10991,31 +10141,19 @@
         },
         "op":"added"
     },
-    "1003-5-b-Interp-1":{
-        "text":[
-            [
-                "delete",
-                0,
-                14
-            ],
+    "1003-2":{
+        "title":[
             [
                 [
                     "delete",
-                    32,
-                    39
+                    0,
+                    21
                 ],
                 [
                     "insert",
-                    32,
-                    "1003.5(b),"
+                    0,
+                    "Definitions"
                 ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Business day."
             ]
         ],
         "op":"modified"
@@ -11064,23 +10202,22 @@
         },
         "op":"added"
     },
-    "1003-4-a-33-i-Interp":{
+    "1003-4-a-1-i-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":"Paragraph 4(a)(33)(i)",
-            "text":"",
+            "title":"ULI\u2014purchased covered loan.",
+            "text":"If a financial institution has previously reported a covered loan with a ULI under this part, a financial institution that purchases that covered loan must use the ULI that was previously reported under this part. For example, if a loan origination was previously reported under this part with a ULI, the financial institution that purchases the covered loan would report the purchase of the covered loan using the same ULI. A financial institution that purchases a covered loan must use the ULI that was assigned by the financial institution that originated the covered loan. For example, if a financial institution that submits an annual loan/application register pursuant to \u00a7 1003.5(a)(1)(i) originates a covered loan that is purchased by a financial institution that submits a quarterly loan/application register pursuant to \u00a7 1003.5(a)(1)(ii), the financial institution that purchased the covered loan must use the ULI that was assigned by the financial institution that originated the covered loan. A financial institution that purchases a covered loan assigns a ULI and records and submits it in its loan/application register pursuant to \u00a7 1003.5(a)(1)(i) or (ii), whichever is applicable, if the covered loan was not assigned a ULI by the financial institution that originated the loan because, for example, the loan was originated prior to January 1, 2018.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "33",
+                "1",
                 "i",
-                "Interp"
+                "Interp",
+                "3"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1003-4-a-33-i-Interp-1"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -11287,26 +10424,6 @@
         },
         "op":"added"
     },
-    "1003-4-a-9-i-Interp-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":"Street address.",
-            "text":"When reporting the street address of the property, a financial institution complies by including, as applicable, the primary address number, the predirectional, the street name, street prefixes and/or suffixes, the postdirectional, the secondary address identifier, and the secondary address, as applicable. For example, 100 N Main ST Apt 1.",
-            "label":[
-                "1003",
-                "4",
-                "a",
-                "9",
-                "i",
-                "Interp",
-                "2",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-3-c-Interp":{
         "node":{
             "tagged_text":null,
@@ -11331,6 +10448,24 @@
                 "1003-3-c-11-Interp",
                 "1003-3-c-12-Interp"
             ]
+        },
+        "op":"added"
+    },
+    "1003-4-a-Interp-2-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"In the case of an application for a covered loan that did not result in an origination, a financial institution reports the action it took on that application if it made a credit decision on the application or was reviewing the application when the application was withdrawn or closed for incompleteness. It is not relevant whether the financial institution received the application from the applicant or from another institution, such as a broker, or whether another financial institution also reviewed and reported an action taken on the same application.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "Interp",
+                "2",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -11946,6 +11081,24 @@
         },
         "op":"added"
     },
+    "1003-4-a-19-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Discount points\u2014not applicable.",
+            "text":"Section 1003.4(a)(19) does not require financial institutions to report the discount points for applications, or for transactions not subject to Regulation Z, 12 CFR 1026.19(f), such as open-end lines of credit, reverse mortgages, or loans or lines of credit made primarily for business or commercial purposes. In these cases, a financial institution complies with \u00a7 1003.4(a)(19) by reporting that the requirement is not applicable to the transaction.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "19",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-4-a-38":{
         "node":{
             "tagged_text":null,
@@ -12095,21 +11248,32 @@
         "op":"added"
     },
     "1003-4-a-11-Interp":{
-        "title":[
-            [
-                [
-                    "delete",
-                    10,
-                    19
-                ],
-                [
-                    "insert",
-                    10,
-                    "4(a)(11)"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 4(a)(11)",
+            "text":"",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "11",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-11-Interp-1",
+                "1003-4-a-11-Interp-2",
+                "1003-4-a-11-Interp-3",
+                "1003-4-a-11-Interp-4",
+                "1003-4-a-11-Interp-5",
+                "1003-4-a-11-Interp-6",
+                "1003-4-a-11-Interp-7",
+                "1003-4-a-11-Interp-8",
+                "1003-4-a-11-Interp-9",
+                "1003-4-a-11-Interp-10"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1003-C-1-p18":{
         "node":{
@@ -12128,21 +11292,27 @@
         "op":"added"
     },
     "1003-4-a-6-Interp":{
-        "title":[
-            [
-                [
-                    "delete",
-                    10,
-                    18
-                ],
-                [
-                    "insert",
-                    10,
-                    "4(a)(6)"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 4(a)(6)",
+            "text":"",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "6",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-6-Interp-1",
+                "1003-4-a-6-Interp-2",
+                "1003-4-a-6-Interp-3",
+                "1003-4-a-6-Interp-4",
+                "1003-4-a-6-Interp-5"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1003-3-c-5":{
         "node":{
@@ -12512,7 +11682,7 @@
                 [
                     "delete",
                     0,
-                    10
+                    2
                 ],
                 [
                     "insert",
@@ -12523,33 +11693,40 @@
             [
                 [
                     "delete",
-                    36,
-                    56
+                    28,
+                    48
                 ],
                 [
                     "insert",
-                    36,
+                    28,
                     "written notice required under \u00a7 1003.5(b)(2)"
                 ]
             ],
             [
                 [
                     "delete",
-                    76,
-                    129
+                    68,
+                    121
                 ],
                 [
                     "insert",
-                    76,
+                    68,
                     "or"
                 ]
             ]
         ],
         "title":[
             [
-                "insert",
-                0,
-                "Format of notice."
+                [
+                    "delete",
+                    0,
+                    8
+                ],
+                [
+                    "insert",
+                    0,
+                    "Format of notice."
+                ]
             ]
         ],
         "op":"modified"
@@ -12703,24 +11880,6 @@
         },
         "op":"added"
     },
-    "1003-4-a-3-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":"Purpose\u2014multiple-purpose loan.",
-            "text":"Section 1003.4(a)(3) requires a financial institution to report the purpose of a covered loan or application. If a covered loan is a home purchase loan as well as a home improvement loan, a refinancing, or a cash-out refinancing, an institution complies with \u00a7 1003.4(a)(3) by reporting the loan as a home purchase loan. If a covered loan is a home improvement loan as well as a refinancing or cash-out refinancing, but the covered loan is not a home purchase loan, an institution complies with \u00a7 1003.4(a)(3) by reporting the covered loan as a refinancing or a cash-out refinancing, as appropriate. If a covered loan is a refinancing or cash-out refinancing as well as for another purpose, such as for the purpose of paying educational expenses, but the covered loan is not a home purchase loan, an institution complies with \u00a7 1003.4(a)(3) by reporting the covered loan as a refinancing or a cash-out refinancing, as appropriate. See comment 4(a)(3)-2. If a covered loan is a home improvement loan as well as for another purpose, but the covered loan is not a home purchase loan, a refinancing, or cash-out refinancing, an institution complies with \u00a7 1003.4(a)(3) by reporting the covered loan as a home improvement loan. See comment 2(i)-1.",
-            "label":[
-                "1003",
-                "4",
-                "a",
-                "3",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-4-a-25-Interp-5":{
         "node":{
             "tagged_text":null,
@@ -12846,7 +12005,7 @@
                 [
                     "delete",
                     194,
-                    893
+                    891
                 ],
                 [
                     "insert",
@@ -13022,78 +12181,11 @@
         "op":"added"
     },
     "1003-5-a-Interp-8":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    27
-                ],
-                [
-                    "insert",
-                    0,
-                    "If a data submission involves revisions"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    31,
-                    44
-                ],
-                [
-                    "insert",
-                    31,
-                    "deletions of previously submitted data, it must state the total of all line entries contained in that submission, including both those representing revisions or deletions of previously submitted entries, and those that are being resubmitted unchanged or are being submitted for the first time. Depository institutions must provide"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    47,
-                    81
-                ],
-                [
-                    "insert",
-                    47,
-                    "list of the MSAs"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    85,
-                    178
-                ],
-                [
-                    "insert",
-                    85,
-                    "Metropolitan Divisions"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    182,
-                    242
-                ],
-                [
-                    "insert",
-                    182,
-                    "which they have home"
-                ]
-            ],
-            [
-                "delete",
-                246,
-                488
-            ]
-        ],
         "title":[
             [
-                "insert",
-                0,
-                "Transmittal sheet\u2014revisions or deletions."
+                "delete",
+                41,
+                42
             ]
         ],
         "op":"modified"
@@ -13104,13 +12196,20 @@
                 [
                     "delete",
                     0,
-                    585
+                    565
                 ],
                 [
                     "insert",
                     0,
                     "[Reserved]"
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                20
             ]
         ],
         "op":"modified"
@@ -13197,64 +12296,11 @@
         "op":"deleted"
     },
     "1003-5-a-Interp-5":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    6
-                ],
-                [
-                    "insert",
-                    0,
-                    "If the appropriate Federal agency for a covered institution changes (as a consequence of a merger or a change"
-                ]
-            ],
-            [
-                "insert",
-                10,
-                "the institution's charter, for example), the institution must report data to the new "
-            ],
-            [
-                [
-                    "delete",
-                    30,
-                    40
-                ],
-                [
-                    "insert",
-                    30,
-                    "agency beginning with"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    45,
-                    123
-                ],
-                [
-                    "insert",
-                    45,
-                    "year"
-                ]
-            ],
-            [
-                "delete",
-                127,
-                151
-            ],
-            [
-                "delete",
-                155,
-                294
-            ]
-        ],
         "title":[
             [
-                "insert",
-                0,
-                "Change in appropriate Federal agency."
+                "delete",
+                37,
+                38
             ]
         ],
         "op":"modified"
@@ -13298,18 +12344,11 @@
         "op":"added"
     },
     "1003-5-a-Interp-6":{
-        "text":[
-            [
-                "delete",
-                0,
-                14
-            ]
-        ],
         "title":[
             [
-                "insert",
-                0,
-                "Subsidiaries."
+                "delete",
+                13,
+                14
             ]
         ],
         "op":"modified"
@@ -13438,18 +12477,19 @@
         },
         "op":"added"
     },
-    "1003-4-a-28-Interp-3":{
+    "1003-4-a-8-ii-Interp-6":{
         "node":{
             "tagged_text":null,
-            "title":"Transactions for which no credit decision was made.",
-            "text":"If a file was closed for incompleteness or the application was withdrawn before a credit decision was made, the financial institution complies with \u00a7 1003.4(a)(28) by reporting that the requirement is not applicable, even if the financial institution had obtained a property value. For example, if a file is closed for incompleteness and is so reported in accordance with \u00a7 1003.4(a)(8), the financial institution complies with \u00a7 1003.4(a)(28) by reporting that the requirement is not applicable, even if the financial institution had obtained a property value. Similarly, if an application was withdrawn by the applicant before a credit decision was made and is so reported in accordance with \u00a7 1003.4(a)(8), the financial institution complies with \u00a7 1003.4(a)(28) by reporting that the requirement is not applicable, even if the financial institution had obtained a property value.",
+            "title":"Action taken date\u2014loan purchased.",
+            "text":"For covered loans purchased, a financial institution reports the date of purchase.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "28",
+                "8",
+                "ii",
                 "Interp",
-                "3"
+                "6"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -13812,63 +12852,24 @@
         },
         "op":"added"
     },
-    "1003-4-a-Interp-1-iv":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    50
-                ],
-                [
-                    "insert",
-                    0,
-                    "A financial institution reports"
-                ]
+    "1003-4-a-35-Interp-3-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"If a financial institution obtains two or more AUS results and the AUS generating one of those results corresponds to the purchaser, insurer, or guarantor, if any, the financial institution complies with \u00a7 1003.4(a)(35) by reporting that AUS name and result. For example, if a financial institution evaluates an application with the AUS of Securitizer A and subsequently evaluates the application with the AUS of Securitizer B, but the financial institution ultimately originates a covered loan that it sells within the same calendar year to Securitizer A, the financial institution complies with \u00a7 1003.4(a)(35) by reporting the name of Securitizer A's AUS and the result generated by that system. If a financial institution obtains two or more AUS results and more than one of those AUS results is generated by a system that corresponds to the purchaser, insurer, or guarantor, if any, the financial institution identifies which AUS result should be reported by following the principle set forth below in comment 4(a)(35)-3.iii.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "35",
+                "Interp",
+                "3",
+                "ii"
             ],
-            [
-                "insert",
-                55,
-                "data for an application on the loan/application register for the calendar year during which the application was acted upon even if the "
-            ],
-            [
-                [
-                    "delete",
-                    67,
-                    69
-                ],
-                [
-                    "insert",
-                    67,
-                    "received"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    74,
-                    307
-                ],
-                [
-                    "insert",
-                    74,
-                    "application"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    311,
-                    335
-                ],
-                [
-                    "insert",
-                    311,
-                    "a previous calendar year."
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-Interp-1-i":{
         "text":[
@@ -14004,20 +13005,8 @@
         "text":[
             [
                 "delete",
-                0,
-                8
-            ],
-            [
-                "delete",
-                124,
-                130
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Status"
+                116,
+                122
             ]
         ],
         "op":"modified"
@@ -14060,31 +13049,33 @@
         },
         "op":"added"
     },
-    "1003-4-a-8-i-Interp-13":{
+    "1003-4-a-33-i-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"Action taken\u2014conditional approvals.",
-            "text":"If an institution issues an approval other than a commitment pursuant to a preapproval program as defined under \u00a7 1003.2(b)(2), and that approval is subject to the applicant meeting certain conditions, the institution reports the action taken as provided below dependent on whether the conditions are solely customary commitment or closing conditions or if the conditions include any underwriting or creditworthiness conditions.",
+            "title":"Paragraph 4(a)(33)(i)",
+            "text":"",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "8",
+                "33",
                 "i",
-                "Interp",
-                "13"
+                "Interp"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1003-4-a-8-i-Interp-13-i",
-                "1003-4-a-8-i-Interp-13-ii",
-                "1003-4-a-8-i-Interp-13-iii"
+                "1003-4-a-33-i-Interp-1"
             ]
         },
         "op":"added"
     },
     "1003-3":{
         "title":[
+            [
+                "delete",
+                0,
+                9
+            ],
             [
                 [
                     "delete",
@@ -14356,7 +13347,7 @@
                 [
                     "delete",
                     0,
-                    10
+                    2
                 ],
                 [
                     "insert",
@@ -14367,26 +13358,33 @@
             [
                 [
                     "delete",
-                    36,
-                    53
+                    28,
+                    45
                 ],
                 [
                     "insert",
-                    36,
+                    28,
                     "written notice required under \u00a7 1003.5(c)(1)"
                 ]
             ],
             [
                 "delete",
-                92,
-                274
+                84,
+                266
             ]
         ],
         "title":[
             [
-                "insert",
-                0,
-                "Format of notice."
+                [
+                    "delete",
+                    0,
+                    8
+                ],
+                [
+                    "insert",
+                    0,
+                    "Format of notice."
+                ]
             ]
         ],
         "op":"modified"

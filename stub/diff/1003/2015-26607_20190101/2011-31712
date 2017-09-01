@@ -187,9 +187,16 @@
     "1003-5-Interp":{
         "title":[
             [
-                "delete",
-                0,
-                39
+                [
+                    "delete",
+                    8,
+                    25
+                ],
+                [
+                    "insert",
+                    8,
+                    "1003.5-Disclosure"
+                ]
             ]
         ],
         "op":"modified"
@@ -5133,79 +5140,98 @@
     "1003-1-c":{
         "text":[
             [
+                [
+                    "delete",
+                    4,
+                    8
+                ],
+                [
+                    "insert",
+                    4,
+                    "Scope.This"
+                ]
+            ],
+            [
                 "insert",
-                31,
+                25,
                 "certain "
             ],
             [
                 [
                     "delete",
-                    41,
-                    53
+                    35,
+                    47
                 ],
                 [
                     "insert",
-                    41,
+                    35,
                     "institutions, including banks, savings associations, credit unions, and other mortgage lending institutions,"
                 ]
             ],
             [
                 [
                     "delete",
-                    70,
-                    90
+                    64,
+                    84
                 ],
                 [
                     "insert",
-                    70,
+                    64,
                     "1003.2. The regulation"
                 ]
             ],
             [
                 [
                     "delete",
-                    100,
-                    111
+                    94,
+                    105
                 ],
                 [
                     "insert",
-                    100,
+                    94,
                     "an"
                 ]
             ],
             [
                 [
                     "delete",
-                    127,
-                    133
+                    121,
+                    127
                 ],
                 [
                     "insert",
-                    127,
+                    121,
                     "report"
                 ]
             ],
             [
                 "insert",
-                173,
+                167,
                 "about home purchase loans, home improvement loans, and refinancings that it originates or purchases, or "
             ],
             [
                 "insert",
-                177,
+                171,
                 "which it receives applications; and to disclose certain data to "
             ],
             [
                 [
                     "delete",
-                    181,
-                    540
+                    175,
+                    534
                 ],
                 [
                     "insert",
-                    181,
+                    175,
                     "public."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                5
             ]
         ],
         "op":"modified"
@@ -6611,6 +6637,23 @@
     "1003-4-a-30-Interp-2":{
         "op":"deleted"
     },
+    "1003-A-h2-h7-p54":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Code 7\u2014Life insurance company, credit union, mortgage bank, or finance company",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h7",
+                "p54"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-4-a-9-Interp-2":{
         "op":"deleted"
     },
@@ -6661,17 +6704,19 @@
     "1003-4-a-10-Interp":{
         "op":"deleted"
     },
-    "1003-A-h2-h7-p50":{
+    "1003-A-h2-h6-p27-p40-a":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Code 3\u2014Freddie Mac",
+            "text":"a. If an applicant selects more than one racial designation, enter all Codes corresponding to the applicant's selections.",
             "label":[
                 "1003",
                 "A",
                 "h2",
-                "h7",
-                "p50"
+                "h6",
+                "p27",
+                "p40",
+                "a"
             ],
             "node_type":"appendix",
             "child_labels":[]
@@ -7869,17 +7914,17 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h7-p54":{
+    "1003-A-h2-h7-p50":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Code 7\u2014Life insurance company, credit union, mortgage bank, or finance company",
+            "text":"Code 3\u2014Freddie Mac",
             "label":[
                 "1003",
                 "A",
                 "h2",
                 "h7",
-                "p54"
+                "p50"
             ],
             "node_type":"appendix",
             "child_labels":[]
@@ -7925,24 +7970,22 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h6-p27-p40-a":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"a. If an applicant selects more than one racial designation, enter all Codes corresponding to the applicant's selections.",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h6",
-                "p27",
-                "p40",
-                "a"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-2":{
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    11
+                ],
+                [
+                    "insert",
+                    0,
+                    "\u00a7 1003.2 Definitions."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-A-h2-h6-p27-p40-b":{
         "node":{
@@ -9926,14 +9969,19 @@
     "1003-3":{
         "title":[
             [
+                "insert",
+                0,
+                "\u00a7 1003.3 "
+            ],
+            [
                 [
                     "delete",
-                    16,
-                    55
+                    7,
+                    46
                 ],
                 [
                     "insert",
-                    16,
+                    7,
                     "institutions."
                 ]
             ]

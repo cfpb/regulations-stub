@@ -208,21 +208,6 @@
         },
         "op":"added"
     },
-    "1003-2-k":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(k) Loan/Application Register means both the record of information required to be collected pursuant to \u00a7 1003.4 and the record submitted annually or quarterly, as applicable, pursuant to \u00a7 1003.5(a).",
-            "label":[
-                "1003",
-                "2",
-                "k"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-Interp":{
         "title":[
             [
@@ -243,9 +228,16 @@
     "1003-5-Interp":{
         "title":[
             [
-                "insert",
-                0,
-                "Section 1003.5\u2014Disclosure and Reporting"
+                [
+                    "delete",
+                    8,
+                    25
+                ],
+                [
+                    "insert",
+                    8,
+                    "1003.5\u2014Disclosure"
+                ]
             ]
         ],
         "op":"modified"
@@ -296,7 +288,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by Act, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;",
+            "text":"(i) On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by the Act, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;",
             "label":[
                 "1003",
                 "2",
@@ -878,6 +870,30 @@
         },
         "op":"added"
     },
+    "1003-5-b-Interp-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    18,
+                    25
+                ],
+                [
+                    "insert",
+                    18,
+                    "1003.5(b),"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                13,
+                14
+            ]
+        ],
+        "op":"modified"
+    },
     "1003-1-c-Interp-2":{
         "op":"deleted"
     },
@@ -1159,8 +1175,8 @@
     "1003-2-b-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(1) In general.Application means an oral or written request for a covered loan that is made in accordance with procedures used by a financial institution for the type of credit requested.",
+            "title":"In general.",
+            "text":"(1) Application means an oral or written request for a covered loan that is made in accordance with procedures used by a financial institution for the type of credit requested.",
             "label":[
                 "1003",
                 "2",
@@ -1175,8 +1191,8 @@
     "1003-2-b-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(2) Preapproval programs.A request for preapproval for a home purchase loan, other than a home purchase loan that will be an open-end line of credit, a reverse mortgage, or secured by a multifamily dwelling, is an application under this section if the request is reviewed under a program in which the financial institution, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:",
+            "title":"Preapproval programs.",
+            "text":"(2) A request for preapproval for a home purchase loan, other than a home purchase loan that will be an open-end line of credit, a reverse mortgage, or secured by a multifamily dwelling, is an application under this section if the request is reviewed under a program in which the financial institution, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:",
             "label":[
                 "1003",
                 "2",
@@ -4679,88 +4695,6 @@
         ],
         "op":"modified"
     },
-    "1003-5-e":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    10
-                ],
-                [
-                    "insert",
-                    4,
-                    "Posted notice"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    14,
-                    28
-                ],
-                [
-                    "insert",
-                    14,
-                    "availability of data.A"
-                ]
-            ],
-            [
-                "insert",
-                177,
-                "physically "
-            ],
-            [
-                [
-                    "delete",
-                    188,
-                    190
-                ],
-                [
-                    "insert",
-                    188,
-                    "each"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    199,
-                    272
-                ],
-                [
-                    "insert",
-                    199,
-                    "each MD. This notice must clearly convey that"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    277,
-                    288
-                ],
-                [
-                    "insert",
-                    277,
-                    "institution's HMDA data is available on"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    293,
-                    427
-                ],
-                [
-                    "insert",
-                    293,
-                    "Bureau's Web site at www.consumerfinance.gov/hmda."
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1003-4-a-29-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -4855,7 +4789,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(c) Excluded transactions.The requirements of this part do not apply to:",
+            "text":"(c) Exempt institutions and excluded transactions.The requirements of this part do not apply to:",
             "label":[
                 "1003",
                 "3",
@@ -6776,7 +6710,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(m) Metropolitan Statistical Area (MSA) and Metropolitan Division (MD).",
+            "text":"(m) Metropolitan Statistical Area (MSA) and Metropolitan Division(MD).",
             "label":[
                 "1003",
                 "2",
@@ -6805,25 +6739,35 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h8-2":{
+    "1003-2-k":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(k) Loan/Application Register means both the record of information required to be collected pursuant to \u00a7 1003.4 and the record submitted annually or quarterly, as applicable, pursuant to \u00a7 1003.5(a).",
+            "label":[
+                "1003",
+                "2",
+                "k"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-1-c":{
         "text":[
             [
                 [
                     "delete",
-                    75,
-                    83
+                    4,
+                    14
                 ],
                 [
                     "insert",
-                    75,
-                    "Appendix"
+                    4,
+                    "This"
                 ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-1-c":{
-        "text":[
+            ],
             [
                 "insert",
                 31,
@@ -6898,6 +6842,13 @@
                     446,
                     "Commonwealth of Puerto Rico."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Scope"
             ]
         ],
         "op":"modified"
@@ -10177,26 +10128,19 @@
         },
         "op":"added"
     },
-    "1003-5-b-Interp-1":{
-        "text":[
+    "1003-2":{
+        "title":[
             [
                 [
                     "delete",
-                    18,
-                    25
+                    0,
+                    21
                 ],
                 [
                     "insert",
-                    18,
-                    "1003.5(b),"
+                    0,
+                    "Definitions"
                 ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                13,
-                14
             ]
         ],
         "op":"modified"
@@ -13114,6 +13058,11 @@
     },
     "1003-3":{
         "title":[
+            [
+                "delete",
+                0,
+                9
+            ],
             [
                 [
                     "delete",

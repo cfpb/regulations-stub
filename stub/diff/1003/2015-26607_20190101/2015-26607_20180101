@@ -238,16 +238,6 @@
         },
         "op":"added"
     },
-    "1003-2-j-Interp-4":{
-        "text":[
-            [
-                "insert",
-                0,
-                " "
-            ]
-        ],
-        "op":"modified"
-    },
     "1003-A-h2-h6-p27-3":{
         "node":{
             "tagged_text":null,
@@ -265,16 +255,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1003-2-b-Interp-1":{
-        "text":[
-            [
-                "insert",
-                0,
-                " "
-            ]
-        ],
-        "op":"modified"
     },
     "1003-A-h2-h8-p65":{
         "node":{
@@ -505,22 +485,22 @@
         },
         "op":"added"
     },
-    "1003-4-a-10-i-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    9,
-                    17
-                ],
-                [
-                    "insert",
-                    9,
-                    "Appendix"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1003-5-a-Interp-7":{
+        "node":{
+            "tagged_text":null,
+            "title":"Transmittal sheet\u2014additional data submissions.",
+            "text":"If an additional data submission becomes necessary (for example, because the institution discovers that data were omitted from the initial submission, or because revisions are called for), that submission must be accompanied by a transmittal sheet.",
+            "label":[
+                "1003",
+                "5",
+                "a",
+                "Interp",
+                "7"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-A-h2-h6-p27-6-a":{
         "node":{
@@ -540,50 +520,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1003-2-g-1-i":{
-        "text":[
-            [
-                "insert",
-                142,
-                "Act, based on "
-            ],
-            [
-                [
-                    "delete",
-                    146,
-                    159
-                ],
-                [
-                    "insert",
-                    146,
-                    "year-to-year change in"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    164,
-                    183
-                ],
-                [
-                    "insert",
-                    164,
-                    "average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending"
-                ]
-            ],
-            [
-                "insert",
-                187,
-                "November, with rounding to "
-            ],
-            [
-                "delete",
-                191,
-                367
-            ]
-        ],
-        "op":"modified"
     },
     "1003-5-a-Interp-6":{
         "node":{
@@ -1474,16 +1410,6 @@
         },
         "op":"added"
     },
-    "1003-3-c-9-Interp-1":{
-        "title":[
-            [
-                "insert",
-                64,
-                " "
-            ]
-        ],
-        "op":"modified"
-    },
     "1003-A-h2-h9-1-d":{
         "node":{
             "tagged_text":null,
@@ -1628,23 +1554,6 @@
     },
     "1003-5-a-1-ii":{
         "op":"deleted"
-    },
-    "1003-5-a-Interp-7":{
-        "node":{
-            "tagged_text":null,
-            "title":"Transmittal sheet\u2014additional data submissions.",
-            "text":"If an additional data submission becomes necessary (for example, because the institution discovers that data were omitted from the initial submission, or because revisions are called for), that submission must be accompanied by a transmittal sheet.",
-            "label":[
-                "1003",
-                "5",
-                "a",
-                "Interp",
-                "7"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1003-A-h2-h4-2":{
         "node":{
@@ -2249,42 +2158,99 @@
         },
         "op":"added"
     },
-    "1003-2-m-Interp-1":{
+    "1003-5-e":{
         "text":[
-            [
-                "delete",
-                0,
-                1
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-2-d-Interp-1":{
-        "text":[
-            [
-                "insert",
-                0,
-                ". "
-            ]
-        ],
-        "title":[
             [
                 [
                     "delete",
-                    0,
-                    17
+                    4,
+                    10
                 ],
                 [
                     "insert",
-                    0,
-                    "Dwelling-secured"
+                    4,
+                    "Notice of availability.A financial institution shall post a general"
+                ]
+            ],
+            [
+                "insert",
+                18,
+                "about the availability "
+            ],
+            [
+                [
+                    "delete",
+                    21,
+                    33
+                ],
+                [
+                    "insert",
+                    21,
+                    "its HMDA data in the lobby"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    37,
+                    53
+                ],
+                [
+                    "insert",
+                    37,
+                    "its home office and of each branch office located in an MSA and Metropolitan Division. An"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    72,
+                    99
+                ],
+                [
+                    "insert",
+                    72,
+                    "provide promptly upon request"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    104,
+                    116
+                ],
+                [
+                    "insert",
+                    104,
+                    "location"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    120,
+                    133
+                ],
+                [
+                    "insert",
+                    120,
+                    "the institution's offices where the statement is available for inspection and copying, or it may include the location"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    147,
+                    371
+                ],
+                [
+                    "insert",
+                    147,
+                    "notice."
                 ]
             ]
         ],
         "op":"modified"
-    },
-    "1003-5-a-Interp-1-iii":{
-        "op":"deleted"
     },
     "1003-5-f":{
         "text":[
@@ -2317,10 +2283,10 @@
             "child_labels":[
                 "1003-A-h11-A",
                 "1003-A-h11-B",
-                "1003-A-h11-C",
                 "1003-A-h11-p71",
                 "1003-A-h11-p72",
-                "1003-A-h11-p73"
+                "1003-A-h11-p73",
+                "1003-A-h11-C"
             ]
         },
         "op":"added"
@@ -3133,6 +3099,9 @@
     "1003-5-a-3-ii":{
         "op":"deleted"
     },
+    "1003-5-a-Interp-1-iii":{
+        "op":"deleted"
+    },
     "1003-A-h2-h3-p11-a":{
         "node":{
             "tagged_text":null,
@@ -3376,7 +3345,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"2. If your institution uses the model form for adverse action contained in Appendix C to Regulation B (Form C-1, Sample Notification Form), use the foregoing Codes as follows:",
+            "text":"2. If your institution uses the model form for adverse action contained in appendix C to Regulation B (Form C-1, Sample Notification Form), use the foregoing Codes as follows:",
             "label":[
                 "1003",
                 "A",

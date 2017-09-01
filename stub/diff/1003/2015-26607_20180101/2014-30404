@@ -161,9 +161,6 @@
     "1003-2-g-1-v":{
         "op":"deleted"
     },
-    "1003-2-k":{
-        "op":"deleted"
-    },
     "1003-Interp":{
         "title":[
             [
@@ -184,9 +181,16 @@
     "1003-5-Interp":{
         "title":[
             [
-                "delete",
-                0,
-                39
+                [
+                    "delete",
+                    8,
+                    25
+                ],
+                [
+                    "insert",
+                    8,
+                    "1003.5-Disclosure"
+                ]
             ]
         ],
         "op":"modified"
@@ -464,6 +468,30 @@
     },
     "1003-4-a-17-i-Interp":{
         "op":"deleted"
+    },
+    "1003-5-b-Interp-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    18,
+                    28
+                ],
+                [
+                    "insert",
+                    18,
+                    "1003.5,"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                13,
+                " "
+            ]
+        ],
+        "op":"modified"
     },
     "1003-1-c-Interp-2":{
         "node":{
@@ -2347,100 +2375,6 @@
         ],
         "op":"modified"
     },
-    "1003-5-e":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    10
-                ],
-                [
-                    "insert",
-                    4,
-                    "Notice of availability.A financial institution shall post a general"
-                ]
-            ],
-            [
-                "insert",
-                18,
-                "about the availability "
-            ],
-            [
-                [
-                    "delete",
-                    21,
-                    33
-                ],
-                [
-                    "insert",
-                    21,
-                    "its HMDA data in the lobby"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    37,
-                    53
-                ],
-                [
-                    "insert",
-                    37,
-                    "its home office and of each branch office located in an MSA and Metropolitan Division. An"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    72,
-                    99
-                ],
-                [
-                    "insert",
-                    72,
-                    "provide promptly upon request"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    104,
-                    116
-                ],
-                [
-                    "insert",
-                    104,
-                    "location"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    120,
-                    133
-                ],
-                [
-                    "insert",
-                    120,
-                    "the institution's offices where the statement is available for inspection and copying, or it may include the location"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    147,
-                    371
-                ],
-                [
-                    "insert",
-                    147,
-                    "notice."
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1003-4-a-29-Interp-4":{
         "op":"deleted"
     },
@@ -3571,99 +3505,104 @@
     "1003-2-j":{
         "op":"deleted"
     },
-    "1003-A-h2-h8-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    75,
-                    83
-                ],
-                [
-                    "insert",
-                    75,
-                    "appendix"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1003-2-k":{
+        "op":"deleted"
     },
     "1003-1-c":{
         "text":[
             [
+                [
+                    "delete",
+                    4,
+                    8
+                ],
+                [
+                    "insert",
+                    4,
+                    "Scope.This"
+                ]
+            ],
+            [
                 "insert",
-                31,
+                25,
                 "certain "
             ],
             [
                 [
                     "delete",
-                    41,
-                    53
+                    35,
+                    47
                 ],
                 [
                     "insert",
-                    41,
+                    35,
                     "institutions, including banks, savings associations, credit unions, and other mortgage lending institutions,"
                 ]
             ],
             [
                 [
                     "delete",
-                    70,
-                    90
+                    64,
+                    84
                 ],
                 [
                     "insert",
-                    70,
+                    64,
                     "1003.2. The regulation"
                 ]
             ],
             [
                 [
                     "delete",
-                    100,
-                    111
+                    94,
+                    105
                 ],
                 [
                     "insert",
-                    100,
+                    94,
                     "an"
                 ]
             ],
             [
                 [
                     "delete",
-                    127,
-                    133
+                    121,
+                    127
                 ],
                 [
                     "insert",
-                    127,
+                    121,
                     "report"
                 ]
             ],
             [
                 "insert",
-                173,
+                167,
                 "about home purchase loans, home improvement loans, and refinancings that it originates or purchases, or "
             ],
             [
                 "insert",
-                177,
+                171,
                 "which it receives applications; and to disclose certain data to "
             ],
             [
                 [
                     "delete",
-                    181,
-                    540
+                    175,
+                    534
                 ],
                 [
                     "insert",
-                    181,
+                    175,
                     "public."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                5
             ]
         ],
         "op":"modified"
@@ -4900,26 +4839,19 @@
     "1003-2-d-Interp-2-i":{
         "op":"deleted"
     },
-    "1003-5-b-Interp-1":{
-        "text":[
+    "1003-2":{
+        "title":[
             [
                 [
                     "delete",
-                    18,
-                    28
+                    0,
+                    11
                 ],
                 [
                     "insert",
-                    18,
-                    "1003.5,"
+                    0,
+                    "\u00a7 1003.2 Definitions."
                 ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                13,
-                " "
             ]
         ],
         "op":"modified"
@@ -6265,14 +6197,19 @@
     "1003-3":{
         "title":[
             [
+                "insert",
+                0,
+                "\u00a7 1003.3 "
+            ],
+            [
                 [
                     "delete",
-                    16,
-                    55
+                    7,
+                    46
                 ],
                 [
                     "insert",
-                    16,
+                    7,
                     "institutions."
                 ]
             ]

@@ -282,9 +282,16 @@
     "1003-5-Interp":{
         "title":[
             [
-                "insert",
-                0,
-                "Section 1003.5\u2014Disclosure and Reporting"
+                [
+                    "delete",
+                    8,
+                    25
+                ],
+                [
+                    "insert",
+                    8,
+                    "1003.5\u2014Disclosure"
+                ]
             ]
         ],
         "op":"modified"
