@@ -108,6 +108,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "delete",
+                0,
+                10
+            ]
+        ],
         "op":"modified"
     },
     "1026-3-b-Interp-2":{
@@ -123,6 +130,13 @@
                     0,
                     "Open-end credit.\n              "
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                26
             ]
         ],
         "op":"modified"
@@ -2493,6 +2507,13 @@
                     89,
                     "terms of the account. See also comment 3(b)-4."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                14
             ]
         ],
         "op":"modified"
@@ -5568,6 +5589,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "delete",
+                0,
+                14
+            ]
+        ],
         "op":"modified"
     },
     "1026-43-a-3-vii":{
@@ -5716,7 +5744,19 @@
             [
                 "insert",
                 0,
-                "3(b) Credit Over Applicable Threshold Amount"
+                "3(b) Credit Over Applicable "
+            ],
+            [
+                [
+                    "delete",
+                    10,
+                    17
+                ],
+                [
+                    "insert",
+                    10,
+                    "Amount"
+                ]
             ]
         ],
         "op":"modified"

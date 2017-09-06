@@ -389,76 +389,6 @@
     "1026-52-b-1-ii-Interp-2-i":{
         "op":"deleted"
     },
-    "1026-36-d-1-ii":{
-        "text":[
-            [
-                "insert",
-                5,
-                "For purposes of this paragraph (d)(1) only, a \u201cterm of a transaction\u201d is any right or obligation of the parties to a credit transaction. "
-            ],
-            [
-                [
-                    "delete",
-                    9,
-                    20
-                ],
-                [
-                    "insert",
-                    9,
-                    "amount of credit extended is not a term of a transaction or a proxy for a term of a transaction, provided that compensation received by or paid to a loan originator, directly or indirectly, is based"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    24,
-                    43
-                ],
-                [
-                    "insert",
-                    24,
-                    "a fixed percentage"
-                ]
-            ],
-            [
-                "insert",
-                47,
-                "the amount of credit extended; however, such "
-            ],
-            [
-                [
-                    "delete",
-                    60,
-                    123
-                ],
-                [
-                    "insert",
-                    60,
-                    "may be subject to a minimum"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    127,
-                    987
-                ],
-                [
-                    "insert",
-                    127,
-                    "maximum dollar amount."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                32
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-52-b-1-ii-B":{
         "text":[
             [
@@ -782,8 +712,54 @@
         ],
         "op":"modified"
     },
-    "1026-36-d-1-ii-B":{
-        "op":"deleted"
+    "1026-36-a-Interp-1-i-A-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    111,
+                    113
+                ],
+                [
+                    "insert",
+                    111,
+                    "includes any oral or written action directed to a consumer that can affirmatively influence the consumer to select a particular loan originator or creditor to obtain"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    117,
+                    145
+                ],
+                [
+                    "insert",
+                    117,
+                    "extension"
+                ]
+            ],
+            [
+                "insert",
+                149,
+                "credit when "
+            ],
+            [
+                "insert",
+                153,
+                "consumer will pay for such credit. See comment 36(a)-4 with respect to certain "
+            ],
+            [
+                "delete",
+                164,
+                340
+            ],
+            [
+                "delete",
+                345,
+                574
+            ]
+        ],
+        "op":"modified"
     },
     "1026-35-b-2-iii-Interp-1-i":{
         "text":[
@@ -935,8 +911,44 @@
         ],
         "op":"modified"
     },
-    "1026-36-d-1-ii-A":{
-        "op":"deleted"
+    "1026-36-a-Interp-1-i-A-2":{
+        "text":[
+            [
+                "delete",
+                161,
+                172
+            ],
+            [
+                [
+                    "delete",
+                    179,
+                    193
+                ],
+                [
+                    "insert",
+                    179,
+                    "terms, assisting the consumer to apply for credit, taking an application, offering"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    197,
+                    341
+                ],
+                [
+                    "insert",
+                    197,
+                    "negotiating credit terms, or otherwise obtaining or making"
+                ]
+            ],
+            [
+                "delete",
+                345,
+                529
+            ]
+        ],
+        "op":"modified"
     },
     "1026-36-d-1-Interp-3-v-C":{
         "text":[
@@ -1236,23 +1248,6 @@
     "1026-36-a-1-i-B-Interp-1-iii":{
         "op":"deleted"
     },
-    "1026-5-a-1-ii-B":{
-        "text":[
-            [
-                [
-                    "delete",
-                    204,
-                    230
-                ],
-                [
-                    "insert",
-                    204,
-                    "solicitations"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-36-a-1-i-B":{
         "text":[
             [
@@ -1360,51 +1355,58 @@
     "1026-36-a-1-i-B-Interp-1-iv":{
         "op":"deleted"
     },
-    "1026-36-a-Interp-1-i-A-1":{
+    "1026-36-d-1-Interp-3-v-G":{
         "text":[
             [
                 [
                     "delete",
-                    111,
-                    113
+                    0,
+                    2
                 ],
                 [
                     "insert",
-                    111,
-                    "includes any oral or written action directed to a consumer that can affirmatively influence the consumer to select a particular loan originator or creditor to obtain"
+                    0,
+                    "Reasonable reliance by"
                 ]
+            ],
+            [
+                "insert",
+                30,
+                "on accounting or statement by person paying compensation.An individual loan originator "
+            ],
+            [
+                "insert",
+                295,
+                "profits-based "
+            ],
+            [
+                "insert",
+                314,
+                "\u00a7 1026.36(d)(1)(iv)(B)(1) and where the statement or accounting is provided within "
             ],
             [
                 [
                     "delete",
-                    117,
-                    145
+                    316,
+                    408
                 ],
                 [
                     "insert",
-                    117,
-                    "extension"
+                    316,
+                    "reasonable time period following"
                 ]
             ],
             [
-                "insert",
-                149,
-                "credit when "
-            ],
-            [
-                "insert",
-                153,
-                "consumer will pay for such credit. See comment 36(a)-4 with respect to certain "
-            ],
+                "delete",
+                413,
+                495
+            ]
+        ],
+        "title":[
             [
                 "delete",
-                164,
-                340
-            ],
-            [
-                "delete",
-                345,
-                574
+                0,
+                107
             ]
         ],
         "op":"modified"
@@ -1776,41 +1778,169 @@
         ],
         "op":"modified"
     },
-    "1026-36-a-Interp-1-i-A-2":{
+    "1026-36-d-1-Interp-3-v-D":{
         "text":[
             [
-                "delete",
-                161,
-                172
-            ],
-            [
                 [
                     "delete",
-                    179,
-                    193
+                    0,
+                    2
                 ],
                 [
                     "insert",
-                    179,
-                    "terms, assisting the consumer to apply for credit, taking an application, offering"
+                    0,
+                    "Awards of merchandise, services, trips, or similar prizes or incentives.If"
                 ]
             ],
             [
                 [
                     "delete",
-                    197,
-                    341
+                    218,
+                    236
                 ],
                 [
                     "insert",
-                    197,
-                    "negotiating credit terms, or otherwise obtaining or making"
+                    218,
+                    "calculations of the"
+                ]
+            ],
+            [
+                "insert",
+                439,
+                "$44,000 in commissions, "
+            ],
+            [
+                [
+                    "delete",
+                    443,
+                    466
+                ],
+                [
+                    "insert",
+                    443,
+                    "other benefits that have a cash value of $1,000."
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    586,
+                    596
+                ],
+                [
+                    "insert",
+                    586,
+                    "originator. Neither individual loan originator is paid any other form of compensation by the creditor. In December of the calendar year, the creditor rewards both individual loan originators for their performance"
+                ]
+            ],
+            [
+                "insert",
+                604,
+                "the calendar year out of a bonus pool established with reference to the profits of the mortgage origination business unit. Individual loan originator A is paid a $10,000 cash bonus, meaning "
+            ],
+            [
+                "insert",
+                609,
+                "individual loan originator A's total compensation is $100,000. Individual loan originator B is paid a $7,500 cash bonus and awarded a vacation package with a cash value of $3,000, meaning that individual loan originator B's total compensation is $100,500. Under \u00a7 1026.36(d)(1)(iv)(B)(1), individual loan originator A's $10,000 bonus is permissible because the bonus would not constitute more than 10 percent of the individual loan originator A's total compensation for the "
+            ],
+            [
+                [
+                    "delete",
+                    618,
+                    623
+                ],
+                [
+                    "insert",
+                    618,
+                    "year. The creditor may not pay individual loan originator B the $7,500 bonus and award the vacation package, however, because the total value of the bonus and the vacation package would be $10,500,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    630,
+                    649
+                ],
+                [
+                    "insert",
+                    630,
+                    "is greater than 10 percent (10.45 percent) of individual loan originator B's total compensation for the calendar year. One way"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    653,
+                    929
+                ],
+                [
+                    "insert",
+                    653,
+                    "comply with \u00a7 1026.36(d)(1)(iv)(B)(1) would be if the amount of the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    936,
+                    967
+                ],
+                [
+                    "insert",
+                    936,
+                    "were reduced"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    971,
+                    1072
+                ],
+                [
+                    "insert",
+                    971,
+                    "$7,000 or less or the vacation package were structured such that its"
                 ]
             ],
             [
                 "delete",
-                345,
-                529
+                1078,
+                1346
+            ],
+            [
+                "delete",
+                1352,
+                1636
+            ],
+            [
+                "delete",
+                1642,
+                1934
+            ],
+            [
+                [
+                    "delete",
+                    1937,
+                    2178
+                ],
+                [
+                    "insert",
+                    1937,
+                    "$2,500"
+                ]
+            ],
+            [
+                "delete",
+                2182,
+                2271
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                72
             ]
         ],
         "op":"modified"
@@ -2149,62 +2279,6 @@
         ],
         "op":"modified"
     },
-    "1026-36-d-1-Interp-3-v-G":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    2
-                ],
-                [
-                    "insert",
-                    0,
-                    "Reasonable reliance by"
-                ]
-            ],
-            [
-                "insert",
-                30,
-                "on accounting or statement by person paying compensation.An individual loan originator "
-            ],
-            [
-                "insert",
-                295,
-                "profits-based "
-            ],
-            [
-                "insert",
-                314,
-                "\u00a7 1026.36(d)(1)(iv)(B)(1) and where the statement or accounting is provided within "
-            ],
-            [
-                [
-                    "delete",
-                    316,
-                    408
-                ],
-                [
-                    "insert",
-                    316,
-                    "reasonable time period following"
-                ]
-            ],
-            [
-                "delete",
-                413,
-                495
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                107
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-36-a-Interp-1-i-A":{
         "text":[
             [
@@ -2371,173 +2445,6 @@
                 "delete",
                 124,
                 324
-            ]
-        ],
-        "op":"modified"
-    },
-    "1026-36-d-1-Interp-3-v-D":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    2
-                ],
-                [
-                    "insert",
-                    0,
-                    "Awards of merchandise, services, trips, or similar prizes or incentives.If"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    218,
-                    236
-                ],
-                [
-                    "insert",
-                    218,
-                    "calculations of the"
-                ]
-            ],
-            [
-                "insert",
-                439,
-                "$44,000 in commissions, "
-            ],
-            [
-                [
-                    "delete",
-                    443,
-                    466
-                ],
-                [
-                    "insert",
-                    443,
-                    "other benefits that have a cash value of $1,000."
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    586,
-                    596
-                ],
-                [
-                    "insert",
-                    586,
-                    "originator. Neither individual loan originator is paid any other form of compensation by the creditor. In December of the calendar year, the creditor rewards both individual loan originators for their performance"
-                ]
-            ],
-            [
-                "insert",
-                604,
-                "the calendar year out of a bonus pool established with reference to the profits of the mortgage origination business unit. Individual loan originator A is paid a $10,000 cash bonus, meaning "
-            ],
-            [
-                "insert",
-                609,
-                "individual loan originator A's total compensation is $100,000. Individual loan originator B is paid a $7,500 cash bonus and awarded a vacation package with a cash value of $3,000, meaning that individual loan originator B's total compensation is $100,500. Under \u00a7 1026.36(d)(1)(iv)(B)(1), individual loan originator A's $10,000 bonus is permissible because the bonus would not constitute more than 10 percent of the individual loan originator A's total compensation for the "
-            ],
-            [
-                [
-                    "delete",
-                    618,
-                    623
-                ],
-                [
-                    "insert",
-                    618,
-                    "year. The creditor may not pay individual loan originator B the $7,500 bonus and award the vacation package, however, because the total value of the bonus and the vacation package would be $10,500,"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    630,
-                    649
-                ],
-                [
-                    "insert",
-                    630,
-                    "is greater than 10 percent (10.45 percent) of individual loan originator B's total compensation for the calendar year. One way"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    653,
-                    929
-                ],
-                [
-                    "insert",
-                    653,
-                    "comply with \u00a7 1026.36(d)(1)(iv)(B)(1) would be if the amount of the"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    936,
-                    967
-                ],
-                [
-                    "insert",
-                    936,
-                    "were reduced"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    971,
-                    1072
-                ],
-                [
-                    "insert",
-                    971,
-                    "$7,000 or less or the vacation package were structured such that its"
-                ]
-            ],
-            [
-                "delete",
-                1078,
-                1346
-            ],
-            [
-                "delete",
-                1352,
-                1636
-            ],
-            [
-                "delete",
-                1642,
-                1934
-            ],
-            [
-                [
-                    "delete",
-                    1937,
-                    2178
-                ],
-                [
-                    "insert",
-                    1937,
-                    "$2,500"
-                ]
-            ],
-            [
-                "delete",
-                2182,
-                2271
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                72
             ]
         ],
         "op":"modified"

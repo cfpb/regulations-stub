@@ -2128,7 +2128,7 @@
     "1026-32-b-1-i-D":{
         "op":"deleted"
     },
-    "1026-43-c-5-ii-C-2":{
+    "1026-32-b-1-i-E":{
         "op":"deleted"
     },
     "1026-32-b-1-i-B":{
@@ -2709,13 +2709,7 @@
     "1026-32-b-2-iv-Interp-1":{
         "op":"deleted"
     },
-    "1026-36-d-1-ii-B":{
-        "op":"deleted"
-    },
     "1026-43-e-5-ii-D":{
-        "op":"deleted"
-    },
-    "1026-36-d-1-ii-A":{
         "op":"deleted"
     },
     "1026-43-e-5-ii-A":{
@@ -6230,7 +6224,7 @@
     "1026-35-c-4-vi-B-Interp-1":{
         "op":"deleted"
     },
-    "1026-43-b-3-Interp-1":{
+    "1026-32-b-2-i-Interp-1":{
         "op":"deleted"
     },
     "1026-41-b-Interp-2":{
@@ -6479,9 +6473,6 @@
         "op":"deleted"
     },
     "1026-41-d-8-i":{
-        "op":"deleted"
-    },
-    "1026-32-b-1-Interp-1-i":{
         "op":"deleted"
     },
     "1026-Q-h1-C":{
@@ -6870,26 +6861,6 @@
         ],
         "op":"modified"
     },
-    "1026-32-c-3-Interp-1-i-C":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"In discounted or premium variable-rate transactions where the creditor sets the initial interest rate and later rate adjustments are determined by an index or formula, the creditor must disclose both the initial payment based on the discount or premium and the payment that will be in effect thereafter. Additional explanatory material which does not detract from the required disclosures may accompany the disclosed amounts. For example, if a monthly payment is $250 for the first six months and then increases based on an index and margin, the creditor could use language such as the following: \u201cYour regular monthly payment will be $250 for six months. After six months your regular monthly payment will be based on an index and margin, which currently would make your payment $350. Your actual payment at that time may be higher or lower.\u201d",
-            "label":[
-                "1026",
-                "32",
-                "c",
-                "3",
-                "Interp",
-                "1",
-                "i",
-                "C"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-43-c-5-ii-C-Interp-1":{
         "op":"deleted"
     },
@@ -6900,6 +6871,9 @@
         "op":"deleted"
     },
     "1026-Q-h2-A-2-i":{
+        "op":"deleted"
+    },
+    "1026-43-c-5-ii-C-2":{
         "op":"deleted"
     },
     "1026-Q-h1-F-3-a-ii":{
@@ -8916,62 +8890,48 @@
             [
                 [
                     "delete",
-                    5,
-                    20
+                    36,
+                    48
                 ],
                 [
                     "insert",
-                    5,
-                    "For purposes of this paragraph (d)(1), the amount of credit extended is not deemed to be a transaction term or condition, provided compensation received by or paid to a loan originator, directly or indirectly, is based"
+                    36,
+                    "(d)(1), the amount of credit extended is not deemed to be"
                 ]
             ],
             [
                 [
                     "delete",
-                    24,
-                    43
+                    51,
+                    56
                 ],
                 [
                     "insert",
-                    24,
-                    "a fixed percentage"
+                    51,
+                    "transaction term or condition, provided compensation received by or paid to a loan originator, directly or indirectly, is based on a fixed percentage"
                 ]
             ],
             [
                 "insert",
-                47,
-                "the amount of credit extended; however, such "
+                60,
+                "the amount of credit extended; however, such compensation may be subject to "
             ],
             [
                 [
                     "delete",
-                    60,
-                    123
+                    62,
+                    87
                 ],
                 [
                     "insert",
-                    60,
-                    "may be subject to a minimum"
+                    62,
+                    "minimum"
                 ]
             ],
-            [
-                [
-                    "delete",
-                    127,
-                    987
-                ],
-                [
-                    "insert",
-                    127,
-                    "maximum dollar amount."
-                ]
-            ]
-        ],
-        "title":[
             [
                 "delete",
-                0,
-                32
+                91,
+                459
             ]
         ],
         "op":"modified"
@@ -9308,6 +9268,22 @@
     "1026-43-f-1-i-Interp-1":{
         "op":"deleted"
     },
+    "1026-36-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Scope of coverage.Sections 1026.36(b) and (c) apply to closed-end consumer credit transactions secured by a consumer's principal dwelling. Sections 1026.36(d) and (e) apply to closed-end consumer credit transactions secured by a dwelling. Sections 1026.36(d) and (e) apply to closed-end loans secured by first or subordinate liens, and reverse mortgages that are not home-equity lines of credit under \u00a7 1026.40. See \u00a7 1026.36(f) for additional restrictions on the scope of this section, and \u00a7\u00a7 1026.1(c) and 1026.3(a) and corresponding commentary for further discussion of extensions of credit subject to Regulation Z.",
+            "label":[
+                "1026",
+                "36",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-43-g-4-ii-B":{
         "op":"deleted"
     },
@@ -9353,7 +9329,7 @@
     "1026-43-b-8-Interp-3":{
         "op":"deleted"
     },
-    "1026-32-b-1-i-E":{
+    "1026-43-b-3-Interp-1":{
         "op":"deleted"
     },
     "1026-20-c-5-Interp":{
@@ -10204,9 +10180,6 @@
         "op":"modified"
     },
     "1026-36-a-1-i-B-Interp-1-iv":{
-        "op":"deleted"
-    },
-    "1026-41-e-3-Interp-2":{
         "op":"deleted"
     },
     "1026-Q-h1-B-6-b":{
@@ -11614,7 +11587,7 @@
     "1026-41-e-3-Interp-3":{
         "op":"deleted"
     },
-    "1026-34-a-5-vi":{
+    "1026-41-e-3-Interp-2":{
         "op":"deleted"
     },
     "1026-25-c-2-i":{
@@ -11682,7 +11655,7 @@
     "1026-43-b-7-Interp-3-i-B":{
         "op":"deleted"
     },
-    "1026-32-b-2-i-Interp-1":{
+    "1026-32-b-1-Interp-1-i":{
         "op":"deleted"
     },
     "1026-43-c-2-ii-Interp-1":{
@@ -12756,22 +12729,25 @@
     "1026-43-g-2-ii-B":{
         "op":"deleted"
     },
-    "1026-5-a-1-ii-B":{
-        "text":[
-            [
-                [
-                    "delete",
-                    204,
-                    230
-                ],
-                [
-                    "insert",
-                    204,
-                    "solicitations"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1026-32-c-3-Interp-1-i-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"In discounted or premium variable-rate transactions where the creditor sets the initial interest rate and later rate adjustments are determined by an index or formula, the creditor must disclose both the initial payment based on the discount or premium and the payment that will be in effect thereafter. Additional explanatory material which does not detract from the required disclosures may accompany the disclosed amounts. For example, if a monthly payment is $250 for the first six months and then increases based on an index and margin, the creditor could use language such as the following: \u201cYour regular monthly payment will be $250 for six months. After six months your regular monthly payment will be based on an index and margin, which currently would make your payment $350. Your actual payment at that time may be higher or lower.\u201d",
+            "label":[
+                "1026",
+                "32",
+                "c",
+                "3",
+                "Interp",
+                "1",
+                "i",
+                "C"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-43-g-2-ii-A":{
         "op":"deleted"
@@ -13292,21 +13268,8 @@
     "1026-32-b-1-i-C-Interp-1-ii":{
         "op":"deleted"
     },
-    "1026-36-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Scope of coverage.Sections 1026.36(b) and (c) apply to closed-end consumer credit transactions secured by a consumer's principal dwelling. Sections 1026.36(d) and (e) apply to closed-end consumer credit transactions secured by a dwelling. Sections 1026.36(d) and (e) apply to closed-end loans secured by first or subordinate liens, and reverse mortgages that are not home-equity lines of credit under \u00a7 1026.40. See \u00a7 1026.36(f) for additional restrictions on the scope of this section, and \u00a7\u00a7 1026.1(c) and 1026.3(a) and corresponding commentary for further discussion of extensions of credit subject to Regulation Z.",
-            "label":[
-                "1026",
-                "36",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-34-a-5-vi":{
+        "op":"deleted"
     },
     "1026-25-c-Interp":{
         "op":"deleted"

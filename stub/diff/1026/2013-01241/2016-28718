@@ -10516,6 +10516,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Net increases."
+            ]
+        ],
         "op":"modified"
     },
     "1026-43-e-5-ii-C":{
@@ -19071,6 +19078,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Net decreases."
+            ]
+        ],
         "op":"modified"
     },
     "1026-3-h-5-iii":{
@@ -27411,7 +27425,19 @@
             [
                 "delete",
                 0,
-                44
+                28
+            ],
+            [
+                [
+                    "delete",
+                    38,
+                    44
+                ],
+                [
+                    "insert",
+                    38,
+                    "amount."
+                ]
             ]
         ],
         "op":"modified"
@@ -39011,6 +39037,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "No increases in the CPI-W."
+            ]
+        ],
         "op":"modified"
     },
     "1026-19-a-5-Interp":{
@@ -41289,6 +41322,13 @@
                     0,
                     "For purposes of \u00a7 1026.3(b), the threshold amount in effect during a particular period is the amount stated below for that period."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Threshold."
             ]
         ],
         "op":"modified"

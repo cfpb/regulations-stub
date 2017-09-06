@@ -3404,6 +3404,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "delete",
+                0,
+                14
+            ]
+        ],
         "op":"modified"
     },
     "1026-37-Interp-2":{
@@ -5802,6 +5809,13 @@
                     89,
                     "terms of the account. See also comment 3(b)-4."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                14
             ]
         ],
         "op":"modified"
@@ -8233,7 +8247,19 @@
             [
                 "insert",
                 0,
-                "3(b) Credit Over Applicable Threshold Amount"
+                "3(b) Credit Over Applicable "
+            ],
+            [
+                [
+                    "delete",
+                    10,
+                    17
+                ],
+                [
+                    "insert",
+                    10,
+                    "Amount"
+                ]
             ]
         ],
         "op":"modified"
@@ -11156,6 +11182,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "delete",
+                0,
+                26
+            ]
+        ],
         "op":"modified"
     },
     "1026-19-a-5-Interp":{
@@ -11733,6 +11766,13 @@
                     0,
                     "Closed-end credit.\n              "
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                10
             ]
         ],
         "op":"modified"

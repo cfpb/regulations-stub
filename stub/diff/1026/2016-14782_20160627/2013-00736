@@ -5384,9 +5384,6 @@
         },
         "op":"added"
     },
-    "1026-43-e-3-ii-Interp-1-iii":{
-        "op":"deleted"
-    },
     "1026-32-b-2-iii-Interp-1":{
         "op":"deleted"
     },
@@ -6997,9 +6994,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1026-43-e-3-ii-Interp-1-iii-E":{
-        "op":"deleted"
     },
     "1026-35-c-4-ii-Interp-1":{
         "op":"deleted"
@@ -13607,9 +13601,6 @@
     "1026-38-j-2-vii":{
         "op":"deleted"
     },
-    "1026-52-b-1-ii-Interp-2-i-D":{
-        "op":"deleted"
-    },
     "1026-35-c-3-ii-Interp-2":{
         "op":"deleted"
     },
@@ -15151,9 +15142,6 @@
         "op":"deleted"
     },
     "1026-37-g-2-i":{
-        "op":"deleted"
-    },
-    "1026-32-a-1-ii-Interp-3-iii":{
         "op":"deleted"
     },
     "1026-19-f-1-iii-Interp":{
@@ -16785,15 +16773,6 @@
         },
         "op":"added"
     },
-    "1026-43-e-3-ii-Interp-1-iii-C":{
-        "op":"deleted"
-    },
-    "1026-43-e-3-ii-Interp-1-iii-B":{
-        "op":"deleted"
-    },
-    "1026-43-e-3-ii-Interp-1-iii-A":{
-        "op":"deleted"
-    },
     "1026-38-j-2-iv-Interp":{
         "op":"deleted"
     },
@@ -16836,9 +16815,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1026-43-e-3-ii-Interp-1-iii-D":{
-        "op":"deleted"
     },
     "1026-20-d-2-iii":{
         "op":"deleted"
@@ -19610,45 +19586,24 @@
         "op":"deleted"
     },
     "1026-32-a-1-ii-Interp-1-iii":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    28
-                ],
-                [
-                    "insert",
-                    0,
-                    "If the consumer finances"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"If the consumer finances a $300 fee for an appraisal conducted by someone other than the creditor or an affiliate, the $300 fee is not included with other points and fees under \u00a7 1026.32(b)(1)(iii). The amount financed under \u00a7 1026.18(b) is $9,900 ($10,000 plus the $300 fee for an independently-conducted appraisal that is financed by the creditor, less the $400 paid in cash and deducted as prepaid finance charges).",
+            "label":[
+                "1026",
+                "32",
+                "a",
+                "1",
+                "ii",
+                "Interp",
+                "1",
+                "iii"
             ],
-            [
-                [
-                    "delete",
-                    31,
-                    51
-                ],
-                [
-                    "insert",
-                    31,
-                    "$300 fee for an appraisal conducted by someone other than the creditor or an affiliate, the $300 fee is not included with other points and fees under \u00a7 1026.32(b)(1)(iii). The amount financed under \u00a7 1026.18(b) is $9,900 ($10,000 plus the $300 fee for an independently-conducted appraisal that is financed by the creditor, less the $400 paid"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    55,
-                    130
-                ],
-                [
-                    "insert",
-                    55,
-                    "cash and deducted as prepaid finance charges)."
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-36-g-1-Interp-1":{
         "op":"deleted"

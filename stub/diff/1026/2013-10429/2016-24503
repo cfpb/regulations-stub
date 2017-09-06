@@ -2166,6 +2166,9 @@
         },
         "op":"added"
     },
+    "1026-3-b-Interp-2-i-A-1":{
+        "op":"deleted"
+    },
     "1026-37-l-3-Interp-3":{
         "node":{
             "tagged_text":null,
@@ -3653,6 +3656,25 @@
         },
         "op":"added"
     },
+    "1026-25-c-2-Interp-1-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Compensation agreement.For purposes of \u00a7 1026.25(c)(2), a compensation agreement includes any agreement, whether oral, written, or based on a course of conduct that establishes a compensation arrangement between the parties (e.g., a brokerage agreement between a creditor and a mortgage broker, provisions of employment contracts between a creditor and an individual loan originator employee addressing payment of compensation). Where a compensation agreement is oral or based on a course of conduct and cannot itself be maintained, the records to be maintained are those, if any, evidencing the existence or terms of the oral or course of conduct compensation agreement. Creditors and loan originators are free to specify what transactions are governed by a particular compensation agreement as they see fit. For example, they may provide, by the terms of the agreement, that the agreement governs compensation payable on transactions consummated on or after some future effective date (in which case, a prior agreement governs transactions consummated in the meantime). For purposes of applying the record retention requirement to transaction-specific commissions, the relevant compensation agreement for a given transaction is the agreement pursuant to which compensation for that transaction is determined.",
+            "label":[
+                "1026",
+                "25",
+                "c",
+                "2",
+                "Interp",
+                "1",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-Q-h2-E-3-b":{
         "node":{
             "tagged_text":null,
@@ -4507,6 +4529,25 @@
             ]
         ],
         "op":"modified"
+    },
+    "1026-32-b-3-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"32(b)(3) Bona fide discount point.",
+            "text":"",
+            "label":[
+                "1026",
+                "32",
+                "b",
+                "3",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-32-b-3-i-Interp"
+            ]
+        },
+        "op":"added"
     },
     "1026-38-j-2-ii-Interp-2":{
         "node":{
@@ -6396,51 +6437,45 @@
         },
         "op":"added"
     },
-    "1026-17-c-1-Interp-4-ii":{
-        "text":[
-            [
-                "insert",
-                493,
-                "disclosure of the finance charge and other "
+    "1026-3-b-Interp-4-iv-B-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Same facts as in paragraph iv.B(1) above except that the consumer uses the account for an initial extension of $30,000 on July 1 of year two and for an extension of $22,000 on July 15 of year two. In these circumstances, the account is not exempt under \u00a7 226.3(b) based on the $30,000 initial extension of credit because that extension did not exceed the applicable threshold amount ($51,000), although the account remains exempt based on the firm commitment to extend $55,000 in credit.",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "4",
+                "iv",
+                "B",
+                "2"
             ],
-            [
-                [
-                    "delete",
-                    505,
-                    508
-                ],
-                [
-                    "insert",
-                    505,
-                    "affected by it for"
-                ]
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-3-b-Interp-4-iv-B-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Same facts as in paragraph iv.B(1) above except that, on April 1 of year two, the creditor reduces the firm commitment to $50,000, which is below the $51,000 threshold then in effect. Because the account ceases to qualify for a \u00a7 226.3(b) exemption on April 1 of year two, the account does not qualify for a \u00a7 226.3(b) exemption based on a $52,000 initial extension of credit on July 1 of year two.",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "4",
+                "iv",
+                "B",
+                "3"
             ],
-            [
-                [
-                    "delete",
-                    617,
-                    621
-                ],
-                [
-                    "insert",
-                    617,
-                    "See"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    688,
-                    698
-                ],
-                [
-                    "insert",
-                    688,
-                    "buydowns."
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-35-e-2-ii-C-Interp-2-i":{
         "node":{
@@ -7231,6 +7266,16 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-17-f-Interp-2":{
+        "text":[
+            [
+                "insert",
+                135,
+                " See \u00a7 1026.19(e) and (f) to determine when new disclosures are required for transactions secured by real property, other than reverse mortgages."
+            ]
+        ],
+        "op":"modified"
     },
     "1026-17-c-1-Interp-10":{
         "text":[
@@ -8631,6 +8676,25 @@
         ],
         "op":"modified"
     },
+    "1026-52-a-1-Interp-1-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Assume that a consumer opens a prepaid account accessed by a prepaid card on January 1 of year one and opens a covered separate credit feature accessible by a hybrid prepaid-credit card as defined by \u00a7\u20091026.61 that is a credit card account under an open-end (not home-secured) consumer credit plan on March 1 of year one. Assume that, under the terms of the covered separate credit feature accessible by the hybrid prepaid-credit card, a consumer is required to pay $50 in fees for the issuance or availability of credit at account opening. At credit account opening on March 1 of year one, the credit limit for the account is $200. Section 1026.52(a)(1) permits the card issuer to charge the $50 in fees to the credit account. However, \u00a7\u20091026.52(a)(1) prohibits the card issuer from requiring the consumer to make payments to the card issuer for additional non-exempt fees with respect to the credit account during the first year after account opening. Section 1026.52(a)(1) also prohibits the card issuer from requiring the consumer to open an additional credit feature with the card issuer to fund the payment of additional non-exempt fees during the first year after the covered separate credit feature is opened.",
+            "label":[
+                "1026",
+                "52",
+                "a",
+                "1",
+                "Interp",
+                "1",
+                "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-19-f-2-i":{
         "node":{
             "tagged_text":null,
@@ -9394,18 +9458,18 @@
         "op":"added"
     },
     "1026-52-a":{
-        "text":[
-            [
-                "insert",
-                3,
-                " Limitations during first year after account opening\u2014"
-            ]
-        ],
         "title":[
             [
-                "delete",
-                0,
-                52
+                [
+                    "delete",
+                    44,
+                    52
+                ],
+                [
+                    "insert",
+                    44,
+                    "opening\u2014"
+                ]
             ]
         ],
         "op":"modified"
@@ -10349,19 +10413,20 @@
         },
         "op":"added"
     },
-    "1026-19-e-3-iv-Interp-2":{
+    "1026-3-b-Interp-4-iv-B-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Actual increase.The revised disclosures may reflect increased charges only to the extent that the reason for revision, as identified in \u00a7 1026.19(e)(3)(iv)(A) through (F), actually increased the particular charge. For example, if a consumer requests a rate lock extension, then the revised disclosures may reflect a new rate lock extension fee, but the fee may be no more than the rate lock extension fee charged by the creditor in its usual course of business, and other charges unrelated to the rate lock extension may not change.",
+            "text":"Assume that, at account opening in year one, the threshold amount in effect is $50,000 and the account is exempt under \u00a7 226.3(b) based on the creditor's firm commitment to extend $55,000 in credit. The account is not used for an extension of credit during year one. On January 1 of year two, the threshold amount is increased to $51,000 pursuant to \u00a7 226.3(b)(1)(ii) as a result of an increase in the CPI-W. On July 1 of year two, the consumer uses the account for an initial extension of $52,000. As a result of this extension of credit, the account remains exempt under \u00a7 226.3(b) even if, after July 1 of year two, the creditor reduces the firm commitment to $51,000 or less.",
             "label":[
                 "1026",
-                "19",
-                "e",
                 "3",
-                "iv",
+                "b",
                 "Interp",
-                "2"
+                "4",
+                "iv",
+                "B",
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -10546,19 +10611,18 @@
         },
         "op":"added"
     },
-    "1026-52-a-1-Interp-1-iii":{
+    "1026-3-b-Interp-5-ii":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Assume that a consumer opens a prepaid account accessed by a prepaid card on January 1 of year one and opens a covered separate credit feature accessible by a hybrid prepaid-credit card as defined by \u00a7\u20091026.61 that is a credit card account under an open-end (not home-secured) consumer credit plan on March 1 of year one. Assume that, under the terms of the covered separate credit feature accessible by the hybrid prepaid-credit card, a consumer is required to pay $50 in fees for the issuance or availability of credit at account opening. At credit account opening on March 1 of year one, the credit limit for the account is $200. Section 1026.52(a)(1) permits the card issuer to charge the $50 in fees to the credit account. However, \u00a7\u20091026.52(a)(1) prohibits the card issuer from requiring the consumer to make payments to the card issuer for additional non-exempt fees with respect to the credit account during the first year after account opening. Section 1026.52(a)(1) also prohibits the card issuer from requiring the consumer to open an additional credit feature with the card issuer to fund the payment of additional non-exempt fees during the first year after the covered separate credit feature is opened.",
+            "title":"Subsequent changes.",
+            "text":"If a creditor makes a closed-end extension of credit or commitment to extend closed-end credit that exceeds the threshold amount in effect at the time of consummation, the closed-end loan remains exempt under \u00a7 226.3(b) regardless of a subsequent increase in the threshold amount. However, a closed-end loan is not exempt under \u00a7 226.3(b) merely because it is used to satisfy and replace an existing exempt loan, unless the new extension of credit is itself exempt under the applicable threshold amount. For example, assume a closed-end loan that qualified for a \u00a7 226.3(b) exemption at consummation in year one is refinanced in year ten and that the new loan amount is less than the threshold amount in effect in year ten. In these circumstances, the creditor must comply with all of the applicable requirements of this part with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan, which is not exempt under \u00a7 226.3(b). See also comment 3(b)-6.\n\n",
             "label":[
                 "1026",
-                "52",
-                "a",
-                "1",
+                "3",
+                "b",
                 "Interp",
-                "1",
-                "iii"
+                "5",
+                "ii"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -11144,6 +11208,28 @@
         },
         "op":"added"
     },
+    "1026-35-b-2-iii-Interp-1-iii-E-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For calendar year 2014, the asset threshold was $2,028,000,000. Creditors that had total assets of less than $2,028,000,000 on December 31, 2013, satisfied this criterion for purposes of the exemption during 2014.",
+            "label":[
+                "1026",
+                "35",
+                "b",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii",
+                "E",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-35-b-3-i":{
         "text":[
             [
@@ -11639,6 +11725,9 @@
         },
         "op":"added"
     },
+    "1026-3-b-Interp-1-ii":{
+        "op":"deleted"
+    },
     "1026-35-b-2-iii-Interp-1-iv":{
         "node":{
             "tagged_text":null,
@@ -11789,25 +11878,8 @@
         },
         "op":"added"
     },
-    "1026-36-d-1-Interp-3-v-C":{
-        "node":{
-            "tagged_text":null,
-            "title":"Time period for which the compensation under the non-deferred profits-based compensation plan is paid and to which the total compensation corresponds.",
-            "text":"Under \u00a7 1026.36(d)(1)(iv)(B)(1), determination of whether payment of compensation under a non-deferred profits-based compensation plan complies with the 10-percent limit requires a calculation of the ratio of the compensation under the non-deferred profits-based compensation plan (i.e., the compensation subject to the 10-percent limit) and the total compensation corresponding to the relevant time period. For compensation subject to the 10-percent limit, the relevant time period is the time period for which a person makes reference to profits in determining the compensation (i.e., when the compensation was earned). It does not matter whether the compensation is actually paid during that particular time period. For total compensation, the relevant time period is the same time period, but only certain types of compensation may be included in the total compensation amount for that time period (see comment 36(d)(1)-3.v.A). For example, assume that during calendar year 2014 a creditor pays an individual loan originator compensation in the following amounts: $80,000 in commissions based on the individual loan originator's performance and volume of loans generated during the calendar year; and $10,000 in an employer contribution to a designated tax-advantaged defined contribution plan on behalf of the individual loan originator. The creditor desires to pay the individual loan originator a year-end bonus of $10,000 under a non-deferred profits-based compensation plan. The commissions are paid and employer contributions to the designated tax-advantaged defined contribution plan are made during calendar year 2014, but the year-end bonus will be paid in January 2015. For purposes of the 10-percent limit, the year-end bonus is counted toward the 10-percent limit for calendar year 2014, even though it is not actually paid until 2015. Therefore, for calendar year 2014 the individual loan originator's compensation that is subject to the 10-percent limit would be $10,000 (i.e., the year-end bonus) and the total compensation would be $100,000 (i.e., the sum of the commissions, the designated tax-advantaged plan contribution (assuming the creditor elects to include it in total compensation for calendar year 2014), and the bonus (assuming the creditor elects to include it in total compensation for calendar year 2014)); the bonus would be permissible under \u00a7 1026.36(d)(1)(iv) because it does not exceed 10 percent of total compensation. The determination of total compensation corresponding to 2014 also would not take into account any compensation subject to the 10-percent limit that is actually paid in 2014 but is earned during a different calendar year (e.g., an annual bonus determined with reference to mortgage-related business profits for calendar year 2013 that is paid in January 2014). If the employer contribution to the designated tax-advantaged plan is earned in 2014 but actually made in 2015, however, it may not be included in total compensation for 2014. A company, business unit, or affiliate, as applicable, may pay compensation subject to the 10-percent limit during different time periods falling within its annual accounting period for keeping records and reporting income and expenses,which may be a calendar year or a fiscal year depending on the annual accounting period. In such instances, however, the 10-percent limit applies both as to each time period and cumulatively as to the annual accounting period. For example, assume that a creditor uses a calendar-year accounting period. If the creditor pays an individual loan originator a bonus at the end of each quarter under a non-deferred profits-based compensation plan, the payment of each quarterly bonus is subject to the 10-percent limit measured with respect to each quarter. The creditor can also pay an annual bonus under the non-deferred profits-based compensation plan that does not exceed the difference of 10 percent of the individual loan originator's total compensation corresponding to the calendar year and the aggregate amount of the quarterly bonuses.",
-            "label":[
-                "1026",
-                "36",
-                "d",
-                "1",
-                "Interp",
-                "3",
-                "v",
-                "C"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-36-d-1-Interp-3-vii":{
+        "op":"deleted"
     },
     "1026-43-e-3-ii-Interp-1-ii-A":{
         "node":{
@@ -14481,6 +14553,28 @@
         },
         "op":"added"
     },
+    "1026-35-b-2-iii-Interp-1-iii-E-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For calendar year 2015, the asset threshold was $2,060,000,000. Creditors that had total assets of less than $2,060,000,000 on December 31, 2014, satisfied this criterion for purposes of any loan consummated in 2015 and, if the creditor's assets together with the assets of its affiliates that regularly extended first-lien covered transactions during calendar year 2014 were less than that amount, for purposes of any loan consummated in 2016 for which the application was received before April 1, 2016.",
+            "label":[
+                "1026",
+                "35",
+                "b",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii",
+                "E",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-38-j-2-v-Interp":{
         "node":{
             "tagged_text":null,
@@ -16489,6 +16583,26 @@
         ],
         "op":"modified"
     },
+    "1026-3-b-Interp-4-i-A-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Assume that the threshold amount in effect on January 1 is $50,000. On February 1, an account is opened but the creditor does not make an initial extension of credit at that time. On July 1, the creditor makes an initial extension of credit of $50,000 or less. In this circumstance, the account is not exempt and the creditor must have satisfied all of the applicable requirements of this part from the date the account was opened (or earlier, if applicable).",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "4",
+                "i",
+                "A",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-34-b-Interp-1":{
         "text":[
             [
@@ -16647,6 +16761,26 @@
                 "1026-61-a-5-iii-Interp-1",
                 "1026-61-a-5-iii-Interp-2"
             ]
+        },
+        "op":"added"
+    },
+    "1026-3-b-Interp-4-i-A-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Assume that the threshold amount in effect on January 1 is $50,000. On February 1, an account is opened but the creditor does not make an initial extension of credit at that time. On July 1, the creditor makes an initial extension of credit of $60,000. In this circumstance, no requirements of this part apply to the account.",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "4",
+                "i",
+                "A",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -17081,6 +17215,64 @@
         },
         "op":"added"
     },
+    "1026-3-b-Interp-2-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    45
+                ],
+                [
+                    "insert",
+                    0,
+                    "If the resulting amount calculated, after rounding,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    49,
+                    166
+                ],
+                [
+                    "insert",
+                    49,
+                    "greater than"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    171,
+                    214
+                ],
+                [
+                    "insert",
+                    171,
+                    "current threshold, then"
+                ]
+            ],
+            [
+                "insert",
+                219,
+                "threshold effective January 1 the "
+            ],
+            [
+                [
+                    "delete",
+                    229,
+                    247
+                ],
+                [
+                    "insert",
+                    229,
+                    "year will increase accordingly."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1026-43-e-5-ii-C":{
         "node":{
             "tagged_text":null,
@@ -17429,6 +17621,23 @@
                 "1",
                 "iii",
                 "A"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-31-h-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Notice requirements.",
+            "text":"Notice of a violation pursuant to \u00a7 1026.31(h)(1) or (2) should be in writing. The notice should make the consumer aware of the choices available under \u00a7 1026.31(h)(1)(iii) and (2)(iii). For notice to be adequate, the consumer should have at least 60 days in which to consider the available options and communicate a choice to the creditor or assignee.",
+            "label":[
+                "1026",
+                "31",
+                "h",
+                "Interp",
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -17998,6 +18207,24 @@
             ]
         ],
         "op":"modified"
+    },
+    "1026-3-b-Interp-3-iv":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"From January 1, 2013 through December 31, 2013, the threshold amount is $53,000.",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "3",
+                "iv"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-43-e-3-ii-Interp-1-ii-E":{
         "node":{
@@ -19568,6 +19795,29 @@
         },
         "op":"added"
     },
+    "1026-60-b-8-Interp-4-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"If the cash advance fee is the same dollar amount as the transaction charge for purchases described in \u00a7\u20091026.60(b)(4), the card issuer may disclose the fee amount under a heading that indicates the fee applies to both purchase transactions and cash advances. Examples of how fees for purchase transactions described in \u00a7\u20091026.60(b)(4) and fees for cash advances described in \u00a7\u20091026.60(b)(8) must be disclosed are as follows. Assume that all the fees in the examples below are charged on the covered separate credit feature.",
+            "label":[
+                "1026",
+                "60",
+                "b",
+                "8",
+                "Interp",
+                "4",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-60-b-8-Interp-4-ii-A",
+                "1026-60-b-8-Interp-4-ii-B",
+                "1026-60-b-8-Interp-4-ii-C"
+            ]
+        },
+        "op":"added"
+    },
     "1026-Q-h1-B-3-a":{
         "node":{
             "tagged_text":null,
@@ -20474,19 +20724,18 @@
         },
         "op":"added"
     },
-    "1026-12-c-Interp-5-i-B":{
+    "1026-3-b-Interp-8-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"A consumer uses a hybrid prepaid-credit card as defined in \u00a7\u20091026.61 to make a purchase to obtain goods or services from a merchant and credit is transferred from a covered separate credit feature accessed by the hybrid prepaid-credit card into the asset feature of the prepaid account to cover the amount of the purchase. For example, assume the same facts as above, except that the $15 will be transferred from a covered separate credit feature to the asset feature, and a transaction of $25 is debited from the asset feature of the prepaid account. In this case, the consumer is using credit accessed by the hybrid prepaid-credit card to purchase property or services because credit is transferred to the asset feature of the prepaid account to cover the amount of a purchase made with the card. This is true even though the $15 credit transaction is treated as \u201cnonsale credit\u201d under \u00a7\u20091026.8(b). See comments 8(a)-9.ii and 8(b)-1.vi.",
+            "text":"Assume that, on July 20, 2011, the account is exempt under \u00a7 226.3(b) based on the creditor's firm commitment to extend $30,000 in credit. On November 1, 2011, the creditor increases the firm commitment on the account to $55,000. In these circumstances, the account remains exempt under \u00a7 226.3(b)(1) regardless of subsequent increases in the threshold amount as a result of increases in the CPI-W.",
             "label":[
                 "1026",
-                "12",
-                "c",
+                "3",
+                "b",
                 "Interp",
-                "5",
-                "i",
-                "B"
+                "8",
+                "i"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -21283,23 +21532,8 @@
         },
         "op":"added"
     },
-    "1026-13-i-Interp-4-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"If the transaction solely involves an extension of credit under a covered separate credit feature and does not access funds from the asset feature of the prepaid account, the error resolution requirements of Regulation Z apply. To illustrate, assume that there is $0 in the asset feature of the prepaid account, and the consumer makes a $25 transaction with the card. The error resolution requirements of Regulation Z apply to the transaction. This is true regardless of whether the $25 of credit is drawn directly from the covered separate credit feature without a transfer to the asset feature of the prepaid account to cover the amount of the transaction, or whether the $25 of credit is transferred from the covered separate credit feature to the asset feature of the prepaid account to cover the amount of the transaction.",
-            "label":[
-                "1026",
-                "13",
-                "i",
-                "Interp",
-                "4",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-3-b-Interp-1-iii":{
+        "op":"deleted"
     },
     "1026-25-c-1-i":{
         "node":{
@@ -21704,6 +21938,52 @@
         },
         "op":"added"
     },
+    "1026-17-c-1-Interp-4-ii":{
+        "text":[
+            [
+                "insert",
+                493,
+                "disclosure of the finance charge and other "
+            ],
+            [
+                [
+                    "delete",
+                    505,
+                    508
+                ],
+                [
+                    "insert",
+                    505,
+                    "affected by it for"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    617,
+                    621
+                ],
+                [
+                    "insert",
+                    617,
+                    "See"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    688,
+                    698
+                ],
+                [
+                    "insert",
+                    688,
+                    "buydowns."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1026-H-25(F)":{
         "node":{
             "tagged_text":null,
@@ -21890,6 +22170,24 @@
             ]
         ],
         "op":"modified"
+    },
+    "1026-13-i-Interp-4-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"If the transaction solely involves an extension of credit under a covered separate credit feature and does not access funds from the asset feature of the prepaid account, the error resolution requirements of Regulation Z apply. To illustrate, assume that there is $0 in the asset feature of the prepaid account, and the consumer makes a $25 transaction with the card. The error resolution requirements of Regulation Z apply to the transaction. This is true regardless of whether the $25 of credit is drawn directly from the covered separate credit feature without a transfer to the asset feature of the prepaid account to cover the amount of the transaction, or whether the $25 of credit is transferred from the covered separate credit feature to the asset feature of the prepaid account to cover the amount of the transaction.",
+            "label":[
+                "1026",
+                "13",
+                "i",
+                "Interp",
+                "4",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-38-a-5-Interp-1":{
         "node":{
@@ -22266,6 +22564,25 @@
         },
         "op":"added"
     },
+    "1026-20-c-1-ii-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Short-term ARMs.Under \u00a7 1026.20(c)(1)(ii), construction, home improvement, bridge, and other loans with terms of one year or less are not subject to the requirements in \u00a7 1026.20(c). In determining the term of a construction loan that may be permanently financed by the same creditor or assignee, the creditor or assignee may treat the construction and the permanent phases as separate transactions with distinct terms to maturity or as a single combined transaction.",
+            "label":[
+                "1026",
+                "20",
+                "c",
+                "1",
+                "ii",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-Q-h2-A-3-p13":{
         "node":{
             "tagged_text":null,
@@ -22284,22 +22601,8 @@
         },
         "op":"added"
     },
-    "1026-31-h-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Notice requirements.",
-            "text":"Notice of a violation pursuant to \u00a7 1026.31(h)(1) or (2) should be in writing. The notice should make the consumer aware of the choices available under \u00a7 1026.31(h)(1)(iii) and (2)(iii). For notice to be adequate, the consumer should have at least 60 days in which to consider the available options and communicate a choice to the creditor or assignee.",
-            "label":[
-                "1026",
-                "31",
-                "h",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-3-b-Interp-2-i-B":{
+        "op":"deleted"
     },
     "1026-32-b-1-i-Interp-2-ii":{
         "node":{
@@ -23134,24 +23437,8 @@
         },
         "op":"added"
     },
-    "1026-35-c-2-iv-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Financing initial construction.The exemption for construction loans in \u00a7 1026.35(c)(2)(iv) applies to temporary financing of the construction of a dwelling that will be replaced by permanent financing once construction is complete. The exemption does not apply, for example, to loans to finance the purchase of manufactured homes that have not been or are in the process of being built when the financing obtained by the consumer at that time is permanent. See \u00a7 1026.35(c)(2)(viii).",
-            "label":[
-                "1026",
-                "35",
-                "c",
-                "2",
-                "iv",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-3-b-Interp-3-i-A":{
+        "op":"deleted"
     },
     "1026-34-a-4-ii-B":{
         "text":[
@@ -24072,7 +24359,7 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1026-35-c-2-vii-A-Interp",
+                "1026-35-c-2-vii-A-1-Interp",
                 "1026-35-c-2-vii-B-Interp",
                 "1026-35-c-2-vii-C-Interp"
             ]
@@ -24864,6 +25151,9 @@
         },
         "op":"added"
     },
+    "1026-3-b-Interp-2-i-A":{
+        "op":"deleted"
+    },
     "1026-61-a-4-Interp-1-i":{
         "node":{
             "tagged_text":null,
@@ -25168,6 +25458,25 @@
         ],
         "op":"modified"
     },
+    "1026-12-c-Interp-5-i-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A consumer uses a hybrid prepaid-credit card as defined in \u00a7\u20091026.61 to make a purchase to obtain goods or services from a merchant and credit is transferred from a covered separate credit feature accessed by the hybrid prepaid-credit card into the asset feature of the prepaid account to cover the amount of the purchase. For example, assume the same facts as above, except that the $15 will be transferred from a covered separate credit feature to the asset feature, and a transaction of $25 is debited from the asset feature of the prepaid account. In this case, the consumer is using credit accessed by the hybrid prepaid-credit card to purchase property or services because credit is transferred to the asset feature of the prepaid account to cover the amount of a purchase made with the card. This is true even though the $15 credit transaction is treated as \u201cnonsale credit\u201d under \u00a7\u20091026.8(b). See comments 8(a)-9.ii and 8(b)-1.vi.",
+            "label":[
+                "1026",
+                "12",
+                "c",
+                "Interp",
+                "5",
+                "i",
+                "B"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-37-a-6-Interp":{
         "node":{
             "tagged_text":null,
@@ -25188,6 +25497,131 @@
             ]
         },
         "op":"added"
+    },
+    "1026-3-b-Interp-6-ii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    10
+                ],
+                [
+                    "insert",
+                    0,
+                    "For closed-end loans, if, after consummation, a security interest is taken in any real property, or in personal property used or expected to be used"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    14,
+                    64
+                ],
+                [
+                    "insert",
+                    14,
+                    "the consumer's principal dwelling, an exempt loan remains exempt under \u00a7 226.3(b). However, the addition of a security interest in the consumer's principal dwelling is a transaction for purposes of \u00a7 226.23, and the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    74,
+                    118
+                ],
+                [
+                    "insert",
+                    74,
+                    "must give the consumer the right"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    122,
+                    130
+                ],
+                [
+                    "insert",
+                    122,
+                    "rescind the security interest consistent with that section. See \u00a7 226.23(a)(1) and the accompanying commentary."
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    134,
+                    173
+                ],
+                [
+                    "insert",
+                    134,
+                    "contrast, if a closed-end loan that is exempt under \u00a7 226.3(b) is satisfied and replaced by a loan that is secured by any real property, or by personal property used or expected"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    180,
+                    186
+                ],
+                [
+                    "insert",
+                    180,
+                    "used as the consumer's principal dwelling, the new loan is not exempt"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    195,
+                    240
+                ],
+                [
+                    "insert",
+                    195,
+                    "226.3(b) and the"
+                ]
+            ],
+            [
+                "delete",
+                255,
+                264
+            ],
+            [
+                [
+                    "delete",
+                    276,
+                    279
+                ],
+                [
+                    "insert",
+                    276,
+                    "all of the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    312,
+                    317
+                ],
+                [
+                    "insert",
+                    312,
+                    "part. See comment 3(b)-5."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Closed-end credit."
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-a-3-Interp":{
         "node":{
@@ -25472,82 +25906,24 @@
         },
         "op":"added"
     },
-    "1026-34-a-4-Interp-5":{
-        "text":[
-            [
-                [
-                    "delete",
-                    24,
-                    44
-                ],
-                [
-                    "insert",
-                    24,
-                    "account opening.Section"
-                ]
+    "1026-3-b-Interp-5-i-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The creditor makes an extension of credit at consummation that exceeds the threshold amount in effect at the time of consummation. In these circumstances, the loan remains exempt under \u00a7 226.3(b) even if the amount owed is subsequently reduced below the threshold amount (such as through repayment of the loan).",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "5",
+                "i",
+                "A"
             ],
-            [
-                [
-                    "delete",
-                    181,
-                    194
-                ],
-                [
-                    "insert",
-                    181,
-                    "account opening."
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    456,
-                    469
-                ],
-                [
-                    "insert",
-                    456,
-                    "account opening."
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    513,
-                    528
-                ],
-                [
-                    "insert",
-                    513,
-                    "account opening of"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    543,
-                    554
-                ],
-                [
-                    "insert",
-                    543,
-                    "income (for"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    768,
-                    792
-                ],
-                [
-                    "insert",
-                    768,
-                    "employment), the creditor"
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-43-e-3-ii-Interp-1-iii-B":{
         "node":{
@@ -25610,6 +25986,12 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-3-b-Interp-2-iv-B-2":{
+        "op":"deleted"
+    },
+    "1026-3-b-Interp-2-iv-B-3":{
+        "op":"deleted"
     },
     "1026-37-o-4-i-B-Interp":{
         "node":{
@@ -25822,6 +26204,26 @@
                 "1026-38-i-4-ii",
                 "1026-38-i-4-iii"
             ]
+        },
+        "op":"added"
+    },
+    "1026-20-c-1-ii-Interp-3-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Price-level adjusted or other indexed mortgages that have a fixed rate of interest but provide for periodic adjustments to payments and the loan balance to reflect changes in an index measuring prices or inflation;",
+            "label":[
+                "1026",
+                "20",
+                "c",
+                "1",
+                "ii",
+                "Interp",
+                "3",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -26054,6 +26456,24 @@
                 "x"
             ],
             "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-3-b-Interp-3-vi":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "3",
+                "vi"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -27781,6 +28201,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-3-b-Interp-2-iii":{
+        "op":"deleted"
     },
     "1026-38-t-5-v-C":{
         "node":{
@@ -29966,6 +30389,16 @@
         },
         "op":"added"
     },
+    "1026-10-a-Interp-2-ii":{
+        "text":[
+            [
+                "insert",
+                418,
+                " Section 1026.12(d)(3)(ii) defines \u201cperiodically\u201d to mean no more frequently than once per calendar month for payments made periodically from a deposit account, including a prepaid account, held by a card issuer to pay credit card debt in a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in \u00a7\u20091026.61 held by the card issuer. In a payroll deduction plan in which funds are deposited to a prepaid account held by the card issuer, and from which payments are made on a monthly basis to a covered separate credit feature accessible by a hybrid prepaid-credit card that is held by the card issuer, payment is received on the date when it is debited to the prepaid account (rather than on the date of the deposit), provided the payroll deduction method is voluntary and the consumer retains use of the funds until the contractual payment date."
+            ]
+        ],
+        "op":"modified"
+    },
     "1026-61-a-1-ii":{
         "node":{
             "tagged_text":null,
@@ -31735,6 +32168,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-3-b-Interp-2-iv":{
+        "op":"deleted"
     },
     "1026-43-e-2-Interp":{
         "node":{
@@ -35343,6 +35779,27 @@
         },
         "op":"added"
     },
+    "1026-19-f-2-ii-Interp-1-ii-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"On Thursday, June 11, the loan product required to be disclosed changes to a \u201c5/1 Adjustable Rate.\u201d The creditor is required to provide corrected disclosures and delay consummation until the consumer has received the corrected disclosures provided under \u00a7 1026.19(f)(1)(i) reflecting the change in the product disclosure, and any other changed terms, at least three business days before consummation. If, after the corrected disclosures in this example are provided, the loan product subsequently changes before consummation to a \u201c3/1 Adjustable Rate,\u201d the creditor is required to provide additional corrected disclosures and again delay consummation until the consumer has received the corrected disclosures provided under \u00a7 1026.19(f)(1)(i) reflecting the change in the product disclosure, and any other changed terms, at least three business days before consummation.",
+            "label":[
+                "1026",
+                "19",
+                "f",
+                "2",
+                "ii",
+                "Interp",
+                "1",
+                "ii",
+                "A"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-4-b-2-Interp-1":{
         "text":[
             [
@@ -36240,8 +36697,24 @@
         },
         "op":"added"
     },
-    "1026-36-d-1-Interp-3-vii":{
-        "op":"deleted"
+    "1026-12-a-1-Interp-2-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Granting overdraft privileges on a checking account when the consumer already has a check guarantee card; or",
+            "label":[
+                "1026",
+                "12",
+                "a",
+                "1",
+                "Interp",
+                "2",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-35-b-2-ii-Interp":{
         "title":[
@@ -39924,27 +40397,6 @@
         },
         "op":"added"
     },
-    "1026-35-c-2-vii-A-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"",
-            "label":[
-                "1026",
-                "35",
-                "c",
-                "2",
-                "vii",
-                "A",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-35-c-2-vii-A-1-Interp"
-            ]
-        },
-        "op":"added"
-    },
     "1026-37-o-4":{
         "node":{
             "tagged_text":null,
@@ -42014,24 +42466,6 @@
         ],
         "op":"modified"
     },
-    "1026-3-b-Interp-1-v":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"From January 1, 2014 through December 31, 2014, the threshold amount is $53,500.",
-            "label":[
-                "1026",
-                "3",
-                "b",
-                "Interp",
-                "1",
-                "v"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-38-i-4-iii-Interp":{
         "node":{
             "tagged_text":null,
@@ -42975,6 +43409,9 @@
         },
         "op":"added"
     },
+    "1026-3-b-Interp-2-iv-A":{
+        "op":"deleted"
+    },
     "1026-37-f-6-i":{
         "node":{
             "tagged_text":null,
@@ -42991,6 +43428,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-3-b-Interp-2-iv-B":{
+        "op":"deleted"
     },
     "1026-37-h-1-v-B":{
         "node":{
@@ -43884,26 +44324,8 @@
         },
         "op":"added"
     },
-    "1026-35-c-2-viii-C-3-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Interest in the property.A person has a direct or indirect in the property if, for example, the person has any ownership or reasonably foreseeable ownership interest in the manufactured home. To illustrate, a person who seeks a loan to purchase the manufactured home to be valued has a reasonably foreseeable ownership interest in the property.",
-            "label":[
-                "1026",
-                "35",
-                "c",
-                "2",
-                "viii",
-                "C",
-                "3",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-3-b-Interp-1-i":{
+        "op":"deleted"
     },
     "1026-35-c-2-viii-C-3-Interp-2":{
         "node":{
@@ -44657,6 +45079,26 @@
             "child_labels":[
                 "1026-43-e-3-iv-A",
                 "1026-43-e-3-iv-B"
+            ]
+        },
+        "op":"added"
+    },
+    "1026-36-f-3-iii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 36(f)(3)(iii)",
+            "text":"",
+            "label":[
+                "1026",
+                "36",
+                "f",
+                "3",
+                "iii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-36-f-3-iii-Interp-1"
             ]
         },
         "op":"added"
@@ -46345,6 +46787,24 @@
         },
         "op":"added"
     },
+    "1026-3-b-Interp-3-viii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"From January 1, 2017 through December 31, 2017, the threshold amount is $54,600.",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "3",
+                "viii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-35-c-4-ii-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -47163,24 +47623,99 @@
         },
         "op":"added"
     },
-    "1026-35-c-4-i-Interp-4":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Date of the consumer's agreement to acquire the property.For the date of the consumer's agreement to acquire the property under \u00a7 1026.35(c)(4)(i)(A) and (B), the creditor should use the date on which the consumer and the seller signed the agreement provided to the creditor by the consumer. The date on which the consumer and the seller signed the agreement might not be the date on which the consumer became contractually obligated under State law to acquire the property. For purposes of \u00a7 1026.35(c)(4)(i)(A) and (B), a creditor is not obligated to determine whether and to what extent the agreement is legally binding on both parties. If the dates on which the consumer and the seller signed the agreement differ, the creditor should use the later of the two dates.",
-            "label":[
-                "1026",
-                "35",
-                "c",
-                "4",
-                "i",
-                "Interp",
-                "4"
+    "1026-3-b-Interp-4-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    20
+                ],
+                [
+                    "insert",
+                    0,
+                    "An"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                "delete",
+                30,
+                50
+            ],
+            [
+                "delete",
+                58,
+                87
+            ],
+            [
+                [
+                    "delete",
+                    90,
+                    98
+                ],
+                [
+                    "insert",
+                    90,
+                    "exempt under \u00a7 226.3(b) (unless secured by"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    121,
+                    123
+                ],
+                [
+                    "insert",
+                    121,
+                    "by"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    198,
+                    277
+                ],
+                [
+                    "insert",
+                    198,
+                    "dwelling) if either of"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    282,
+                    446
+                ],
+                [
+                    "insert",
+                    282,
+                    "following conditions"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    450,
+                    604
+                ],
+                [
+                    "insert",
+                    450,
+                    "met:"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Qualifying for exemption."
+            ]
+        ],
+        "op":"modified"
     },
     "1026-36-a-1-i-C":{
         "node":{
@@ -47341,24 +47876,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1026-3-b-Interp-1-vi":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.",
-            "label":[
-                "1026",
-                "3",
-                "b",
-                "Interp",
-                "1",
-                "vi"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1026-32-a-1-iii-Interp":{
         "node":{
@@ -47586,6 +48103,16 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-3-b-Interp":{
+        "title":[
+            [
+                "delete",
+                0,
+                44
+            ]
+        ],
+        "op":"modified"
     },
     "1026-H-28(B)":{
         "node":{
@@ -47999,6 +48526,26 @@
         },
         "op":"added"
     },
+    "1026-3-b-Interp-4-iv-A-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Assume that, at account opening in year one, the threshold amount in effect is $50,000 and the account is exempt under \u00a7 226.3(b) based on the creditor's firm commitment to extend $55,000 in credit. If the threshold amount is $56,000 on January 1 of year six as a result of increases in the CPI-W, the account remains exempt. However, if the creditor reduces its firm commitment to $54,000 on July 1 of year six, the account ceases to be exempt under \u00a7 226.3(b).",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "4",
+                "iv",
+                "A",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-35-b-2-iii-D-2-Interp":{
         "node":{
             "tagged_text":null,
@@ -48099,6 +48646,27 @@
         },
         "op":"added"
     },
+    "1026-8-a-Interp-9-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"If a transaction is \u201csale credit\u201d as described above in comment 8(a)-9.i, the following applies:",
+            "label":[
+                "1026",
+                "8",
+                "a",
+                "Interp",
+                "9",
+                "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-8-a-Interp-9-iii-A",
+                "1026-8-a-Interp-9-iii-B"
+            ]
+        },
+        "op":"added"
+    },
     "1026-32-b-2-ii-Interp":{
         "node":{
             "tagged_text":null,
@@ -48181,6 +48749,9 @@
             ]
         },
         "op":"added"
+    },
+    "1026-3-b-Interp-2-i-A-2":{
+        "op":"deleted"
     },
     "1026-12-d-3-i":{
         "node":{
@@ -49020,24 +49591,23 @@
         },
         "op":"added"
     },
-    "1026-19-f-2-ii-Interp-1-ii-A":{
+    "1026-3-b-Interp-8":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"On Thursday, June 11, the loan product required to be disclosed changes to a \u201c5/1 Adjustable Rate.\u201d The creditor is required to provide corrected disclosures and delay consummation until the consumer has received the corrected disclosures provided under \u00a7 1026.19(f)(1)(i) reflecting the change in the product disclosure, and any other changed terms, at least three business days before consummation. If, after the corrected disclosures in this example are provided, the loan product subsequently changes before consummation to a \u201c3/1 Adjustable Rate,\u201d the creditor is required to provide additional corrected disclosures and again delay consummation until the consumer has received the corrected disclosures provided under \u00a7 1026.19(f)(1)(i) reflecting the change in the product disclosure, and any other changed terms, at least three business days before consummation.",
+            "title":"Transition rule for open-end accounts exempt prior to July 21, 2011.",
+            "text":"Section 226.3(b)(2) applies only to open-end accounts opened prior to July 21, 2011. Section 226.3(b)(2) does not apply if a security interest is taken by the creditor in any real property, or in personal property used or expected to be used as the consumer's principal dwelling. If, on July 20, 2011, an open-end account is exempt under \u00a7 226.3(b) based on a firm commitment to extend credit in excess of $25,000, the account remains exempt under \u00a7 226.3(b)(2) until December 31, 2011 (unless the firm commitment is reduced to $25,000 or less). If the firm commitment is increased on or before December 31, 2011 to an amount in excess of $50,000, the account remains exempt under \u00a7 226.3(b)(1) regardless of subsequent increases in the threshold amount as a result of increases in the CPI-W. If the firm commitment is not increased on or before December 31, 2011 to an amount in excess of $50,000, the account ceases to be exempt under \u00a7 226.3(b) based on a firm commitment to extend credit. For example:",
             "label":[
                 "1026",
-                "19",
-                "f",
-                "2",
-                "ii",
+                "3",
+                "b",
                 "Interp",
-                "1",
-                "ii",
-                "A"
+                "8"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1026-3-b-Interp-8-i",
+                "1026-3-b-Interp-8-ii"
+            ]
         },
         "op":"added"
     },
@@ -49924,6 +50494,23 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-3-b-Interp-4":{
+        "text":[
+            [
+                "delete",
+                0,
+                101
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Open-end credit."
+            ]
+        ],
+        "op":"modified"
     },
     "1026-35-c-4-vii-C-Interp":{
         "node":{
@@ -51098,6 +51685,24 @@
         ],
         "op":"modified"
     },
+    "1026-3-b-Interp-8-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Same facts as paragraph i. above except, on November 1, 2011, the creditor increases the firm commitment on the account to $40,000. In these circumstances, the account ceases to be exempt under \u00a7 226.3(b)(2) after December 31, 2011, and the creditor must begin to comply with the applicable requirements of this part.",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "8",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-34-a-9-iv":{
         "node":{
             "tagged_text":null,
@@ -51297,6 +51902,24 @@
                 "Interp",
                 "1",
                 "vi"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-3-b-Interp-3-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"From January 1, 2012 through December 31, 2012, the threshold amount is $51,800.",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "3",
+                "iii"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -51923,6 +52546,9 @@
             ],
             "node_type":"interp",
             "child_labels":[
+                "1026-35-b-2-iii-Interp-1-iii-E-1",
+                "1026-35-b-2-iii-Interp-1-iii-E-2",
+                "1026-35-b-2-iii-Interp-1-iii-E-3",
                 "1026-35-b-2-iii-Interp-1-iii-E-4"
             ]
         },
@@ -55877,24 +56503,23 @@
         },
         "op":"added"
     },
-    "1026-8-a-Interp-9-iii":{
+    "1026-3-b-Interp-4-iv-A-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"If a transaction is \u201csale credit\u201d as described above in comment 8(a)-9.i, the following applies:",
+            "text":"Assume that, at account opening in year one, the threshold amount in effect is $50,000 and the account is exempt under \u00a7 226.3(b) based on the creditor's firm commitment to extend $55,000 in credit. If during year one the creditor reduces its firm commitment to $53,000, the account remains exempt under \u00a7 226.3(b). However, if during year one the creditor reduces its firm commitment to $40,000, the account is no longer exempt under \u00a7 226.3(b).",
             "label":[
                 "1026",
-                "8",
-                "a",
+                "3",
+                "b",
                 "Interp",
-                "9",
-                "iii"
+                "4",
+                "iv",
+                "A",
+                "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1026-8-a-Interp-9-iii-A",
-                "1026-8-a-Interp-9-iii-B"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -56741,6 +57366,26 @@
         },
         "op":"added"
     },
+    "1026-20-c-2-v-B-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Application of previously foregone interest rate increases.The disclosures regarding the application of previously foregone interest rate increases apply only to transactions permitting interest rate carryover.",
+            "label":[
+                "1026",
+                "20",
+                "c",
+                "2",
+                "v",
+                "B",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-38-i-6-i":{
         "node":{
             "tagged_text":null,
@@ -56951,24 +57596,6 @@
         },
         "op":"added"
     },
-    "1026-3-b-Interp-1-vii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"From January 1, 2016 through December 31, 2016, the threshold amount is $54,600.",
-            "label":[
-                "1026",
-                "3",
-                "b",
-                "Interp",
-                "1",
-                "vii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-37-c-2-i-A":{
         "node":{
             "tagged_text":null,
@@ -57081,6 +57708,35 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-3-b-Interp-3-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    43
+                ],
+                [
+                    "insert",
+                    0,
+                    "Prior to July 21, 2011, the threshold amount"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    47,
+                    335
+                ],
+                [
+                    "insert",
+                    47,
+                    "$25,000."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-19-f-4-i":{
         "node":{
@@ -57943,25 +58599,8 @@
         },
         "op":"added"
     },
-    "1026-20-c-1-ii-Interp-3-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Price-level adjusted or other indexed mortgages that have a fixed rate of interest but provide for periodic adjustments to payments and the loan balance to reflect changes in an index measuring prices or inflation;",
-            "label":[
-                "1026",
-                "20",
-                "c",
-                "1",
-                "ii",
-                "Interp",
-                "3",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-3-b-Interp-2-iv-B-1":{
+        "op":"deleted"
     },
     "1026-38-o-Interp":{
         "node":{
@@ -59089,6 +59728,25 @@
         },
         "op":"added"
     },
+    "1026-35-c-4-i-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Date of the consumer's agreement to acquire the property.For the date of the consumer's agreement to acquire the property under \u00a7 1026.35(c)(4)(i)(A) and (B), the creditor should use the date on which the consumer and the seller signed the agreement provided to the creditor by the consumer. The date on which the consumer and the seller signed the agreement might not be the date on which the consumer became contractually obligated under State law to acquire the property. For purposes of \u00a7 1026.35(c)(4)(i)(A) and (B), a creditor is not obligated to determine whether and to what extent the agreement is legally binding on both parties. If the dates on which the consumer and the seller signed the agreement differ, the creditor should use the later of the two dates.",
+            "label":[
+                "1026",
+                "35",
+                "c",
+                "4",
+                "i",
+                "Interp",
+                "4"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-38-i-6-ii-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -59930,24 +60588,39 @@
         },
         "op":"added"
     },
-    "1026-25-c-3-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"25(c)(3) Records related to minimum standards for transactions secured by a dwelling.",
-            "text":"",
-            "label":[
-                "1026",
-                "25",
-                "c",
-                "3",
-                "Interp"
+    "1026-3-b-Interp-3-ii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    126
+                ],
+                [
+                    "insert",
+                    0,
+                    " From July 21, 2011 through December 31, 2011,"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-25-c-3-Interp-1"
+            [
+                "delete",
+                148,
+                328
+            ],
+            [
+                [
+                    "delete",
+                    331,
+                    1016
+                ],
+                [
+                    "insert",
+                    331,
+                    "$50,000."
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1026-43-d-1-i-B":{
         "node":{
@@ -60572,6 +61245,55 @@
     },
     "1026-32-d-7-iii-Interp-3":{
         "op":"deleted"
+    },
+    "1026-3-b-Interp-2-ii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    47
+                ],
+                [
+                    "insert",
+                    0,
+                    "If the resulting amount calculated, after rounding, is equal"
+                ]
+            ],
+            [
+                "delete",
+                51,
+                71
+            ],
+            [
+                "insert",
+                74,
+                "less than "
+            ],
+            [
+                "insert",
+                78,
+                "current threshold, then the "
+            ],
+            [
+                "insert",
+                88,
+                "effective January 1 the following year will not change, but future increases will be calculated based on the "
+            ],
+            [
+                [
+                    "delete",
+                    95,
+                    1257
+                ],
+                [
+                    "insert",
+                    95,
+                    "that would have resulted."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-35-c-2-vii-B-Interp":{
         "node":{
@@ -61322,6 +62044,25 @@
                 "D"
             ],
             "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-36-a-Interp-5-iv-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Compensation includes any salaries, commissions, and any financial or similar incentive to an individual loan originator, regardless of whether it is labeled as payment for services that are not loan origination activities.",
+            "label":[
+                "1026",
+                "36",
+                "a",
+                "Interp",
+                "5",
+                "iv",
+                "B"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -62873,6 +63614,26 @@
         },
         "op":"added"
     },
+    "1026-35-b-2-iv-Interp-2-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"An area is considered \u201crural\u201d for a given calendar year based on the most recent available UIC designations by the USDA-ERS and the most recent available delineations of urban areas by the U.S. Census Bureau that are available at the beginning of the calendar year. These designations and delineations are updated by the USDA-ERS and the U.S. Census Bureau respectively once every ten years. As an example, assume a creditor makes first-lien covered transactions in Census Block X that is located in County Y during calendar year 2017. As of January 1, 2017, the most recent UIC designations were published in the second quarter of 2013, and the most recent delineation of urban areas was announced in the Federal Register in 2012, see U.S. Census Bureau, Qualifying Urban Areas for the 2010 Census, 77 FR 18652 (Mar. 27, 2012). To determine whether County Y is rural under the Bureau's definition during calendar year 2017, the creditor can use USDA-ERS's 2013 UIC designations. If County Y is not rural, the creditor can use the U.S. Census Bureau's 2012 delineation of urban areas to determine whether Census Block X is rural and is therefore a \u201crural\u201d area for purposes of \u00a7\u20091026.35(b)(2)(iv)(A). In addition, an area is considered \u201crural\u201d if it is a county or a census block that has been designated as rural by the Bureau using the application process established in 2016. See Application Process for Designation of Rural Area under Federal Consumer Financial Law; Procedural Rule, 81 FR 11099 (Mar. 3, 2016). Designations under this process are time-limited and expire on December 4, 2017.",
+            "label":[
+                "1026",
+                "35",
+                "b",
+                "2",
+                "iv",
+                "Interp",
+                "2",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-32-b-2-vi":{
         "node":{
             "tagged_text":null,
@@ -63257,24 +64018,8 @@
         },
         "op":"added"
     },
-    "1026-20-c-1-ii-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Short-term ARMs.Under \u00a7 1026.20(c)(1)(ii), construction, home improvement, bridge, and other loans with terms of one year or less are not subject to the requirements in \u00a7 1026.20(c). In determining the term of a construction loan that may be permanently financed by the same creditor or assignee, the creditor or assignee may treat the construction and the permanent phases as separate transactions with distinct terms to maturity or as a single combined transaction.",
-            "label":[
-                "1026",
-                "20",
-                "c",
-                "1",
-                "ii",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-3-b-Interp-3-i-B":{
+        "op":"deleted"
     },
     "1026-36-d-Interp-1":{
         "text":[
@@ -66984,6 +67729,28 @@
         },
         "op":"added"
     },
+    "1026-35-b-2-iii-Interp-1-iii-E-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For calendar year 2013, the asset threshold was $2,000,000,000. Creditors that had total assets of less than $2,000,000,000 on December 31, 2012, satisfied this criterion for purposes of the exemption during 2013.",
+            "label":[
+                "1026",
+                "35",
+                "b",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii",
+                "E",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-43-d-5-i-Interp-10-i":{
         "node":{
             "tagged_text":null,
@@ -67042,6 +67809,83 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1026-34-a-4-Interp-5":{
+        "text":[
+            [
+                [
+                    "delete",
+                    24,
+                    44
+                ],
+                [
+                    "insert",
+                    24,
+                    "account opening.Section"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    181,
+                    194
+                ],
+                [
+                    "insert",
+                    181,
+                    "account opening."
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    456,
+                    469
+                ],
+                [
+                    "insert",
+                    456,
+                    "account opening."
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    513,
+                    528
+                ],
+                [
+                    "insert",
+                    513,
+                    "account opening of"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    543,
+                    554
+                ],
+                [
+                    "insert",
+                    543,
+                    "income (for"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    768,
+                    792
+                ],
+                [
+                    "insert",
+                    768,
+                    "employment), the creditor"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-35-c-2-vii-A-1-Interp-2":{
         "node":{
@@ -68324,6 +69168,28 @@
         },
         "op":"added"
     },
+    "1026-3-b-Interp-4-iv-A":{
+        "node":{
+            "tagged_text":null,
+            "title":"General.",
+            "text":"If a creditor makes a firm written commitment at account opening to extend a total amount of credit that exceeds the threshold amount in effect at that time, the open-end account remains exempt under \u00a7 226.3(b) regardless of a subsequent increase in the threshold amount pursuant to \u00a7 226.3(b)(1)(ii) as a result of an increase in the CPI-W. However, see comment 3(b)-8 with respect to the increase in the threshold amount from $25,000 to $50,000. If an open-end account is exempt under \u00a7 226.3(b) based on a firm commitment to extend credit, the account remains exempt even if the amount of credit actually extended does not exceed the threshold amount. In contrast, if the firm commitment does not exceed the threshold amount at account opening, the account is not exempt under \u00a7 226.3(b) even if the account balance later exceeds the threshold amount. In addition, if a creditor reduces a firm commitment, the account ceases to be exempt unless the reduced firm commitment exceeds the threshold amount in effect at the time of the reduction. For example:\n\n",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "4",
+                "iv",
+                "A"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-3-b-Interp-4-iv-A-1",
+                "1026-3-b-Interp-4-iv-A-2"
+            ]
+        },
+        "op":"added"
+    },
     "1026-43-d-5-i-Interp-7-v":{
         "node":{
             "tagged_text":null,
@@ -69322,15 +70188,23 @@
         },
         "op":"added"
     },
-    "1026-10-a-Interp-2-ii":{
-        "text":[
-            [
-                "insert",
-                418,
-                " Section 1026.12(d)(3)(ii) defines \u201cperiodically\u201d to mean no more frequently than once per calendar month for payments made periodically from a deposit account, including a prepaid account, held by a card issuer to pay credit card debt in a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in \u00a7\u20091026.61 held by the card issuer. In a payroll deduction plan in which funds are deposited to a prepaid account held by the card issuer, and from which payments are made on a monthly basis to a covered separate credit feature accessible by a hybrid prepaid-credit card that is held by the card issuer, payment is received on the date when it is debited to the prepaid account (rather than on the date of the deposit), provided the payroll deduction method is voluntary and the consumer retains use of the funds until the contractual payment date."
-            ]
-        ],
-        "op":"modified"
+    "1026-3-b-Interp-3-v":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"From January 1, 2014 through December 31, 2014, the threshold amount is $53,500.",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "3",
+                "v"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-41-e-3-Interp-1":{
         "node":{
@@ -69979,7 +70853,7 @@
     "1026-19-e-1-iii-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"19(e)(1)(iii) .",
+            "title":"19(e)(1)(iii) Timing.",
             "text":"",
             "label":[
                 "1026",
@@ -70623,8 +71497,8 @@
     "1026-41-d-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"TerminologyA servicer may use terminology other than that found on the sample periodic statements in appendix H-30, so long as the new terminology is commonly understood. For example, servicers may take into consideration regional differences in terminology and refer to the account for the collection of taxes and insurance, referred to in \u00a7 1026.41(d) as the \u201cescrow account,\u201d as an \u201cimpound account.\u201d",
+            "title":"Terminology",
+            "text":"A servicer may use terminology other than that found on the sample periodic statements in appendix H-30, so long as the new terminology is commonly understood. For example, servicers may take into consideration regional differences in terminology and refer to the account for the collection of taxes and insurance, referred to in \u00a7 1026.41(d) as the \u201cescrow account,\u201d as an \u201cimpound account.\u201d",
             "label":[
                 "1026",
                 "41",
@@ -71687,6 +72561,25 @@
         },
         "op":"added"
     },
+    "1026-3-b-Interp-4-i-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The creditor makes a firm written commitment at account opening to extend a total amount of credit in excess of the threshold amount in effect at the time the account is opened with no requirement of additional credit information for any advances on the account (except as permitted from time to time with respect to open-end accounts pursuant to \u00a7 226.2(a)(20)).",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "4",
+                "i",
+                "B"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-32-c-3-i-Interp-1-i-A":{
         "node":{
             "tagged_text":null,
@@ -72089,24 +72982,22 @@
         },
         "op":"added"
     },
-    "1026-36-a-Interp-5-iv-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Compensation includes any salaries, commissions, and any financial or similar incentive to an individual loan originator, regardless of whether it is labeled as payment for services that are not loan origination activities.",
-            "label":[
-                "1026",
-                "36",
-                "a",
-                "Interp",
-                "5",
-                "iv",
-                "B"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-3-b-Interp-3":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    33
+                ],
+                [
+                    "insert",
+                    0,
+                    "For purposes of \u00a7 1026.3(b), the threshold amount in effect during a particular period is the amount stated below for that period."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-37-a-10-Interp-2-iii":{
         "node":{
@@ -72127,6 +73018,40 @@
         },
         "op":"added"
     },
+    "1026-3-b-Interp-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    20
+                ],
+                [
+                    "insert",
+                    0,
+                    "For"
+                ]
+            ],
+            [
+                "insert",
+                125,
+                "in comment 3(b)-3 "
+            ],
+            [
+                [
+                    "delete",
+                    372,
+                    384
+                ],
+                [
+                    "insert",
+                    372,
+                    "Comment 3(b)-3"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1026-32-a-2-ii-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -72146,44 +73071,59 @@
         },
         "op":"added"
     },
-    "1026-35-b-2-iv-Interp-2-i":{
+    "1026-3-b-Interp-7":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"An area is considered \u201crural\u201d for a given calendar year based on the most recent available UIC designations by the USDA-ERS and the most recent available delineations of urban areas by the U.S. Census Bureau that are available at the beginning of the calendar year. These designations and delineations are updated by the USDA-ERS and the U.S. Census Bureau respectively once every ten years. As an example, assume a creditor makes first-lien covered transactions in Census Block X that is located in County Y during calendar year 2017. As of January 1, 2017, the most recent UIC designations were published in the second quarter of 2013, and the most recent delineation of urban areas was announced in the Federal Register in 2012, see U.S. Census Bureau, Qualifying Urban Areas for the 2010 Census, 77 FR 18652 (Mar. 27, 2012). To determine whether County Y is rural under the Bureau's definition during calendar year 2017, the creditor can use USDA-ERS's 2013 UIC designations. If County Y is not rural, the creditor can use the U.S. Census Bureau's 2012 delineation of urban areas to determine whether Census Block X is rural and is therefore a \u201crural\u201d area for purposes of \u00a7\u20091026.35(b)(2)(iv)(A). In addition, an area is considered \u201crural\u201d if it is a county or a census block that has been designated as rural by the Bureau using the application process established in 2016. See Application Process for Designation of Rural Area under Federal Consumer Financial Law; Procedural Rule, 81 FR 11099 (Mar. 3, 2016). Designations under this process are time-limited and expire on December 4, 2017.",
+            "title":"Application to extensions secured by mobile homes.",
+            "text":"Because a mobile home can be a dwelling under \u00a7 226.2(a)(19), the exemption in \u00a7 226.3(b) does not apply to a credit extension secured by a mobile home that is used or expected to be used as the principal dwelling of the consumer. See comment 3(b)-6.",
             "label":[
                 "1026",
-                "35",
+                "3",
                 "b",
-                "2",
-                "iv",
                 "Interp",
-                "2",
-                "i"
+                "7"
             ],
             "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
     },
-    "1026-12-a-1-Interp-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Granting overdraft privileges on a checking account when the consumer already has a check guarantee card; or",
-            "label":[
-                "1026",
-                "12",
-                "a",
-                "1",
-                "Interp",
-                "2",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-3-b-Interp-6":{
+        "text":[
+            [
+                "delete",
+                0,
+                1079
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Addition of a security interest in real property or a dwelling after account opening or consummation."
+            ]
+        ],
+        "op":"modified"
+    },
+    "1026-3-b-Interp-5":{
+        "text":[
+            [
+                "delete",
+                0,
+                302
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Closed-end credit."
+            ]
+        ],
+        "op":"modified"
+    },
+    "1026-3-b-Interp-1-iv":{
+        "op":"deleted"
     },
     "1026-Q-h4-4-b":{
         "node":{
@@ -72517,6 +73457,27 @@
         },
         "op":"added"
     },
+    "1026-35-c-2-viii-C-3-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Interest in the property.A person has a direct or indirect in the property if, for example, the person has any ownership or reasonably foreseeable ownership interest in the manufactured home. To illustrate, a person who seeks a loan to purchase the manufactured home to be valued has a reasonably foreseeable ownership interest in the property.",
+            "label":[
+                "1026",
+                "35",
+                "c",
+                "2",
+                "viii",
+                "C",
+                "3",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-43-b-5-Interp":{
         "node":{
             "tagged_text":null,
@@ -72672,6 +73633,25 @@
         },
         "op":"added"
     },
+    "1026-35-c-2-iv-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Financing initial construction.The exemption for construction loans in \u00a7 1026.35(c)(2)(iv) applies to temporary financing of the construction of a dwelling that will be replaced by permanent financing once construction is complete. The exemption does not apply, for example, to loans to finance the purchase of manufactured homes that have not been or are in the process of being built when the financing obtained by the consumer at that time is permanent. See \u00a7 1026.35(c)(2)(viii).",
+            "label":[
+                "1026",
+                "35",
+                "c",
+                "2",
+                "iv",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-19-e-1-iii-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -72765,6 +73745,28 @@
             ],
             "node_type":"regtext",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-3-b-Interp-4-i-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The creditor makes an initial extension of credit at or after account opening that exceeds the threshold amount in effect at the time the initial extension is made. If a creditor makes an initial extension of credit after account opening that does not exceed the threshold amount in effect at the time the extension is made, the creditor must have satisfied all of the applicable requirements of this part from the date the account was opened (or earlier, if applicable), including but not limited to the requirements of \u00a7 226.6 (account-opening disclosures), \u00a7 226.7 (periodic statements), \u00a7 226.52 (limitations on fees), and \u00a7 226.55 (limitations on increasing annual percentages rates, fees, and charges). For example:",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "4",
+                "i",
+                "A"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-3-b-Interp-4-i-A-1",
+                "1026-3-b-Interp-4-i-A-2"
+            ]
         },
         "op":"added"
     },
@@ -73443,6 +74445,9 @@
         },
         "op":"added"
     },
+    "1026-3-b-Interp-2-iv-A-1":{
+        "op":"deleted"
+    },
     "1026-61-c-Interp-2":{
         "node":{
             "tagged_text":null,
@@ -73479,6 +74484,9 @@
             ]
         },
         "op":"added"
+    },
+    "1026-3-b-Interp-2-iv-A-2":{
+        "op":"deleted"
     },
     "1026-2-a-25-Interp-2":{
         "text":[
@@ -73589,25 +74597,21 @@
         },
         "op":"added"
     },
-    "1026-60-b-8-Interp-4-ii":{
+    "1026-25-c-3-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"If the cash advance fee is the same dollar amount as the transaction charge for purchases described in \u00a7\u20091026.60(b)(4), the card issuer may disclose the fee amount under a heading that indicates the fee applies to both purchase transactions and cash advances. Examples of how fees for purchase transactions described in \u00a7\u20091026.60(b)(4) and fees for cash advances described in \u00a7\u20091026.60(b)(8) must be disclosed are as follows. Assume that all the fees in the examples below are charged on the covered separate credit feature.",
+            "title":"25(c)(3) Records related to minimum standards for transactions secured by a dwelling.",
+            "text":"",
             "label":[
                 "1026",
-                "60",
-                "b",
-                "8",
-                "Interp",
-                "4",
-                "ii"
+                "25",
+                "c",
+                "3",
+                "Interp"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1026-60-b-8-Interp-4-ii-A",
-                "1026-60-b-8-Interp-4-ii-B",
-                "1026-60-b-8-Interp-4-ii-C"
+                "1026-25-c-3-Interp-1"
             ]
         },
         "op":"added"
@@ -74148,6 +75152,26 @@
                 "d",
                 "Interp",
                 "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-36-d-1-Interp-3-v-C":{
+        "node":{
+            "tagged_text":null,
+            "title":"Time period for which the compensation under the non-deferred profits-based compensation plan is paid and to which the total compensation corresponds.",
+            "text":"Under \u00a7 1026.36(d)(1)(iv)(B)(1), determination of whether payment of compensation under a non-deferred profits-based compensation plan complies with the 10-percent limit requires a calculation of the ratio of the compensation under the non-deferred profits-based compensation plan (i.e., the compensation subject to the 10-percent limit) and the total compensation corresponding to the relevant time period. For compensation subject to the 10-percent limit, the relevant time period is the time period for which a person makes reference to profits in determining the compensation (i.e., when the compensation was earned). It does not matter whether the compensation is actually paid during that particular time period. For total compensation, the relevant time period is the same time period, but only certain types of compensation may be included in the total compensation amount for that time period (see comment 36(d)(1)-3.v.A). For example, assume that during calendar year 2014 a creditor pays an individual loan originator compensation in the following amounts: $80,000 in commissions based on the individual loan originator's performance and volume of loans generated during the calendar year; and $10,000 in an employer contribution to a designated tax-advantaged defined contribution plan on behalf of the individual loan originator. The creditor desires to pay the individual loan originator a year-end bonus of $10,000 under a non-deferred profits-based compensation plan. The commissions are paid and employer contributions to the designated tax-advantaged defined contribution plan are made during calendar year 2014, but the year-end bonus will be paid in January 2015. For purposes of the 10-percent limit, the year-end bonus is counted toward the 10-percent limit for calendar year 2014, even though it is not actually paid until 2015. Therefore, for calendar year 2014 the individual loan originator's compensation that is subject to the 10-percent limit would be $10,000 (i.e., the year-end bonus) and the total compensation would be $100,000 (i.e., the sum of the commissions, the designated tax-advantaged plan contribution (assuming the creditor elects to include it in total compensation for calendar year 2014), and the bonus (assuming the creditor elects to include it in total compensation for calendar year 2014)); the bonus would be permissible under \u00a7 1026.36(d)(1)(iv) because it does not exceed 10 percent of total compensation. The determination of total compensation corresponding to 2014 also would not take into account any compensation subject to the 10-percent limit that is actually paid in 2014 but is earned during a different calendar year (e.g., an annual bonus determined with reference to mortgage-related business profits for calendar year 2013 that is paid in January 2014). If the employer contribution to the designated tax-advantaged plan is earned in 2014 but actually made in 2015, however, it may not be included in total compensation for 2014. A company, business unit, or affiliate, as applicable, may pay compensation subject to the 10-percent limit during different time periods falling within its annual accounting period for keeping records and reporting income and expenses,which may be a calendar year or a fiscal year depending on the annual accounting period. In such instances, however, the 10-percent limit applies both as to each time period and cumulatively as to the annual accounting period. For example, assume that a creditor uses a calendar-year accounting period. If the creditor pays an individual loan originator a bonus at the end of each quarter under a non-deferred profits-based compensation plan, the payment of each quarterly bonus is subject to the 10-percent limit measured with respect to each quarter. The creditor can also pay an annual bonus under the non-deferred profits-based compensation plan that does not exceed the difference of 10 percent of the individual loan originator's total compensation corresponding to the calendar year and the aggregate amount of the quarterly bonuses.",
+            "label":[
+                "1026",
+                "36",
+                "d",
+                "1",
+                "Interp",
+                "3",
+                "v",
+                "C"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -75819,25 +76843,22 @@
         },
         "op":"added"
     },
-    "1026-20-c-2-v-B-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Application of previously foregone interest rate increases.The disclosures regarding the application of previously foregone interest rate increases apply only to transactions permitting interest rate carryover.",
-            "label":[
-                "1026",
-                "20",
-                "c",
-                "2",
-                "v",
-                "B",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-3-b-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    31
+                ],
+                [
+                    "insert",
+                    0,
+                    "If the CPI-W in effect on June 1 does not increase from the CPI-W in effect on June 1 of the previous year, the threshold amount effective the following January 1 through December 31 will not change from the previous year. When this occurs, for the years that follow, the threshold is calculated based on the annual percentage change in the CPI-W applied to the dollar amount that would have resulted, after rounding, if decreases and any subsequent increases in the CPI-W had been taken into account."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-37-g-4-ii":{
         "node":{
@@ -76745,6 +77766,29 @@
         },
         "op":"added"
     },
+    "1026-3-b-Interp-4-iv-B":{
+        "node":{
+            "tagged_text":null,
+            "title":"Initial extension of credit.",
+            "text":"If an open-end account qualifies for a \u00a7 226.3(b) exemption at account opening based on a firm commitment, that account may also subsequently qualify for a \u00a7 226.3(b) exemption based on an initial extension of credit. However, that initial extension must be a single advance in excess of the threshold amount in effect at the time the extension is made. In addition, the account must continue to qualify for an exemption based on the firm commitment until the initial extension of credit is made. For example:",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "4",
+                "iv",
+                "B"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1026-3-b-Interp-4-iv-B-1",
+                "1026-3-b-Interp-4-iv-B-2",
+                "1026-3-b-Interp-4-iv-B-3"
+            ]
+        },
+        "op":"added"
+    },
     "1026-61-a-2-Interp-1-ii":{
         "node":{
             "tagged_text":null,
@@ -76930,22 +77974,21 @@
         },
         "op":"added"
     },
-    "1026-32-b-3-Interp":{
+    "1026-3-b-Interp-3-vii":{
         "node":{
             "tagged_text":null,
-            "title":"32(b)(3) Bona fide discount point.",
-            "text":"",
+            "title":null,
+            "text":"From January 1, 2016 through December 31, 2016, the threshold amount is $54,600.",
             "label":[
                 "1026",
-                "32",
-                "b",
                 "3",
-                "Interp"
+                "b",
+                "Interp",
+                "3",
+                "vii"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1026-32-b-3-i-Interp"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -76988,6 +78031,114 @@
             ]
         },
         "op":"added"
+    },
+    "1026-3-b-Interp-4-ii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    43
+                ],
+                [
+                    "insert",
+                    0,
+                    "Subsequent changes to an open-end account or the threshold amount may result in the account no longer qualifying for the exemption in \u00a7 226.3(b). In these circumstances, the creditor must begin to comply with all of the applicable requirements of this part within a reasonable period of time"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    50,
+                    63
+                ],
+                [
+                    "insert",
+                    50,
+                    "the account ceases to be exempt. Once an account ceases to be exempt, the requirements of this part apply to any balances on the account. The creditor, however, is not required to comply with the requirements of this part with respect to the period of time during which the account was exempt. For example, if an open-end credit account ceases to be exempt, the creditor must within"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    66,
+                    83
+                ],
+                [
+                    "insert",
+                    66,
+                    "reasonable period of time provide the disclosures required by \u00a7 226.6 reflecting the current terms of the account and begin to provide periodic statements consistent with \u00a7 226.7. However, the creditor"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    87,
+                    114
+                ],
+                [
+                    "insert",
+                    87,
+                    "not required to disclose fees"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    118,
+                    240
+                ],
+                [
+                    "insert",
+                    118,
+                    "charges imposed while the account was exempt. Furthermore, if the creditor provided disclosures consistent with the requirements of this part while the account was exempt, it is not required to provide disclosures required by"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    243,
+                    491
+                ],
+                [
+                    "insert",
+                    243,
+                    "226.6 reflecting the current terms of the account."
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    496,
+                    907
+                ],
+                [
+                    "insert",
+                    496,
+                    "also"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    916,
+                    923
+                ],
+                [
+                    "insert",
+                    916,
+                    "3(b)-6."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Subsequent changes generally."
+            ]
+        ],
+        "op":"modified"
     },
     "1026-43-e-6-i-A":{
         "node":{
@@ -77157,22 +78308,23 @@
         },
         "op":"added"
     },
-    "1026-36-f-3-iii-Interp":{
+    "1026-3-b-Interp-4-iv":{
         "node":{
             "tagged_text":null,
-            "title":"Paragraph 36(f)(3)(iii)",
+            "title":"Subsequent changes when exemption is based on firm commitment.",
             "text":"",
             "label":[
                 "1026",
-                "36",
-                "f",
                 "3",
-                "iii",
-                "Interp"
+                "b",
+                "Interp",
+                "4",
+                "iv"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1026-36-f-3-iii-Interp-1"
+                "1026-3-b-Interp-4-iv-A",
+                "1026-3-b-Interp-4-iv-B"
             ]
         },
         "op":"added"
@@ -80068,6 +81220,64 @@
                     0,
                     "Note: To"
                 ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1026-3-b-Interp-6-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    30
+                ],
+                [
+                    "insert",
+                    0,
+                    "For open-end accounts, if, after account opening, a security interest is taken in real property, or in personal property used or expected to be used as"
+                ]
+            ],
+            [
+                "insert",
+                35,
+                "consumer's principal dwelling, a previously exempt "
+            ],
+            [
+                "insert",
+                43,
+                "ceases to be exempt under \u00a7 226.3(b) and the creditor must begin to comply with all of the applicable requirements of this part within a reasonable period of time. See comment 3(b)-4.ii. If a security interest "
+            ],
+            [
+                [
+                    "delete",
+                    46,
+                    58
+                ],
+                [
+                    "insert",
+                    46,
+                    "taken in the consumer's principal dwelling, the creditor must also give the consumer the right to rescind the security interest consistent with"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    61,
+                    400
+                ],
+                [
+                    "insert",
+                    61,
+                    "226.15."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Open-end credit."
             ]
         ],
         "op":"modified"
@@ -83646,15 +84856,24 @@
         },
         "op":"added"
     },
-    "1026-17-f-Interp-2":{
-        "text":[
-            [
-                "insert",
-                135,
-                " See \u00a7 1026.19(e) and (f) to determine when new disclosures are required for transactions secured by real property, other than reverse mortgages."
-            ]
-        ],
-        "op":"modified"
+    "1026-3-b-Interp-5-i-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The creditor makes a commitment at consummation to extend a total amount of credit in excess of the threshold amount in effect at the time of consummation. In these circumstances, the loan remains exempt under \u00a7 226.3(b) even if the total amount of credit extended does not exceed the threshold amount.",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "5",
+                "i",
+                "B"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-38-i-9":{
         "node":{
@@ -86345,22 +87564,24 @@
         },
         "op":"added"
     },
-    "1026-25-c-2-Interp-1-ii":{
+    "1026-3-b-Interp-5-i":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Compensation agreement.For purposes of \u00a7 1026.25(c)(2), a compensation agreement includes any agreement, whether oral, written, or based on a course of conduct that establishes a compensation arrangement between the parties (e.g., a brokerage agreement between a creditor and a mortgage broker, provisions of employment contracts between a creditor and an individual loan originator employee addressing payment of compensation). Where a compensation agreement is oral or based on a course of conduct and cannot itself be maintained, the records to be maintained are those, if any, evidencing the existence or terms of the oral or course of conduct compensation agreement. Creditors and loan originators are free to specify what transactions are governed by a particular compensation agreement as they see fit. For example, they may provide, by the terms of the agreement, that the agreement governs compensation payable on transactions consummated on or after some future effective date (in which case, a prior agreement governs transactions consummated in the meantime). For purposes of applying the record retention requirement to transaction-specific commissions, the relevant compensation agreement for a given transaction is the agreement pursuant to which compensation for that transaction is determined.",
+            "title":"Qualifying for exemption.",
+            "text":"A closed-end loan is exempt under \u00a7 226.3(b) (unless the extension of credit is secured by any real property, or by personal property used or expected to be used as the consumer's principal dwelling; or is a private education loan as defined in \u00a7 226.46(b)(5)), if either of the following conditions is met.",
             "label":[
                 "1026",
-                "25",
-                "c",
-                "2",
+                "3",
+                "b",
                 "Interp",
-                "1",
-                "ii"
+                "5",
+                "i"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1026-3-b-Interp-5-i-A",
+                "1026-3-b-Interp-5-i-B"
+            ]
         },
         "op":"added"
     },
@@ -92226,6 +93447,24 @@
         },
         "op":"added"
     },
+    "1026-3-b-Interp-4-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":"Subsequent changes when exemption is based on initial extension of credit.",
+            "text":"If a creditor makes an initial extension of credit that exceeds the threshold amount in effect at that time, the open-end account remains exempt under \u00a7 226.3(b) regardless of a subsequent increase in the threshold amount, including an increase pursuant to \u00a7 226.3(b)(1)(ii) as a result of an increase in the CPI-W. Furthermore, in these circumstances, the account remains exempt even if there are no further extensions of credit, subsequent extensions of credit do not exceed the threshold amount, the account balance is subsequently reduced below the threshold amount (such as through repayment of the extension), or the credit limit for the account is subsequently reduced below the threshold amount. However, if the initial extension of credit on an account does not exceed the threshold amount in effect at the time of the extension, the account is not exempt under \u00a7 226.3(b) even if a subsequent extension exceeds the threshold amount or if the account balance later exceeds the threshold amount (for example, due to the subsequent accrual of interest).",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "4",
+                "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-37-o-4-Interp-2":{
         "node":{
             "tagged_text":null,
@@ -94510,6 +95749,25 @@
                 "1026-34-a-10-Interp-1",
                 "1026-34-a-10-Interp-2"
             ]
+        },
+        "op":"added"
+    },
+    "1026-19-e-3-iv-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Actual increase.The revised disclosures may reflect increased charges only to the extent that the reason for revision, as identified in \u00a7 1026.19(e)(3)(iv)(A) through (F), actually increased the particular charge. For example, if a consumer requests a rate lock extension, then the revised disclosures may reflect a new rate lock extension fee, but the fee may be no more than the rate lock extension fee charged by the creditor in its usual course of business, and other charges unrelated to the rate lock extension may not change.",
+            "label":[
+                "1026",
+                "19",
+                "e",
+                "3",
+                "iv",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },

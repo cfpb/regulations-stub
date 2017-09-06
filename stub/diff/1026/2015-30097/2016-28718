@@ -114,6 +114,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Threshold."
+            ]
+        ],
         "op":"modified"
     },
     "1026-3-b-Interp-2":{
@@ -129,6 +136,13 @@
                     0,
                     "If the CPI-W in effect on June 1 does not increase from the CPI-W in effect on June 1 of the previous year, the threshold amount effective the following January 1 through December 31 will not change from the previous year. When this occurs, for the years that follow, the threshold is calculated based on the annual percentage change in the CPI-W applied to the dollar amount that would have resulted, after rounding, if decreases and any subsequent increases in the CPI-W had been taken into account."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "No increases in the CPI-W."
             ]
         ],
         "op":"modified"
@@ -1606,6 +1620,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Net decreases."
+            ]
+        ],
         "op":"modified"
     },
     "1026-35-c-2-ii-Interp-1-iii":{
@@ -2489,6 +2510,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Net increases."
+            ]
+        ],
         "op":"modified"
     },
     "1026-35-c-2-ii-Interp-2-ii":{
@@ -3044,7 +3072,19 @@
             [
                 "delete",
                 0,
-                44
+                28
+            ],
+            [
+                [
+                    "delete",
+                    38,
+                    44
+                ],
+                [
+                    "insert",
+                    38,
+                    "amount."
+                ]
             ]
         ],
         "op":"modified"
