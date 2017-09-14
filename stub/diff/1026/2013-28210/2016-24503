@@ -166,6 +166,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "No increases in the CPI-W."
+            ]
+        ],
         "op":"modified"
     },
     "1026-3-b-Interp-1":{
@@ -2219,22 +2226,8 @@
     "1026-3-b-Interp-2-i-A":{
         "op":"deleted"
     },
-    "1026-5-a-1-ii-B":{
-        "text":[
-            [
-                [
-                    "delete",
-                    204,
-                    217
-                ],
-                [
-                    "insert",
-                    204,
-                    "solicitationssolicitations"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1026-3-b-Interp-2-i-B":{
+        "op":"deleted"
     },
     "1026-60-b-8-Interp-4-ii-A":{
         "node":{
@@ -3708,7 +3701,19 @@
             [
                 "delete",
                 0,
-                44
+                28
+            ],
+            [
+                [
+                    "delete",
+                    38,
+                    44
+                ],
+                [
+                    "insert",
+                    38,
+                    "amount."
+                ]
             ]
         ],
         "op":"modified"
@@ -5070,46 +5075,24 @@
         },
         "op":"added"
     },
-    "1026-36-d-1-ii":{
-        "text":[
-            [
-                "insert",
-                5,
-                "The prohibition on payment and receipt of compensation under \u00a7 1026.36(d)(1)(i) encompasses compensation that directly or indirectly is based on the terms of a single transaction of a single individual loan originator, the terms of multiple transactions by that single individual loan originator, or the terms of multiple transactions by multiple individual loan originators. Compensation to an individual loan originator that is based upon profits determined with reference to a mortgage-related business is considered compensation that is based on the terms of multiple transactions by multiple individual loan originators. "
+    "1026-12-d-3-Interp-3-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The card issuer is prohibited under \u00a7\u20091026.12(d) from automatically deducting all or part of the cardholder's credit card debt from a deposit account (including the prepaid account) held with the card issuer more frequently than once per calendar month, such as on a daily or weekly basis, or whenever deposits are made or expected to be made to the deposit account.",
+            "label":[
+                "1026",
+                "12",
+                "d",
+                "3",
+                "Interp",
+                "3",
+                "ii"
             ],
-            [
-                [
-                    "delete",
-                    9,
-                    87
-                ],
-                [
-                    "insert",
-                    9,
-                    "clarification about the exceptions permitting compensation based upon profits determined with reference to mortgage-related business pursuant to either a designated tax-advantaged plan"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    91,
-                    481
-                ],
-                [
-                    "insert",
-                    91,
-                    "a non-deferred profits-based compensation plan, see comment 36(d)(1)-3. For clarification about \u201cmortgage-related business,\u201d see comments 36(d)(1)-3.v.B and -3.v.E."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Single of multiple transactions."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-61-a-2-Interp-1-ii-B":{
         "node":{
@@ -5590,6 +5573,13 @@
                     95,
                     "that would have resulted."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Net decreases."
             ]
         ],
         "op":"modified"
@@ -11173,44 +11163,8 @@
         },
         "op":"added"
     },
-    "1026-36-d-1-ii-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).",
-            "label":[
-                "1026",
-                "36",
-                "d",
-                "1",
-                "ii",
-                "B"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-52-a-2-Interp-1-v":{
         "op":"deleted"
-    },
-    "1026-36-d-1-ii-A":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(A) Assume that a creditor pays a bonus to an individual loan originator out of a bonus pool established with reference to the creditor's profits and the profits are determined with reference to the creditor's revenue from origination of closed-end consumer credit transactions secured by a dwelling. In such instance, the bonus is considered compensation that is based on the terms of multiple transactions by multiple individual loan originators. Therefore, the bonus is prohibited under \u00a7 1026.36(d)(1)(i), unless it is otherwise permitted under \u00a7 1026.36(d)(1)(iv).",
-            "label":[
-                "1026",
-                "36",
-                "d",
-                "1",
-                "ii",
-                "A"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1026-3-b-Interp-2-i":{
         "text":[
@@ -11266,6 +11220,13 @@
                     229,
                     "year will increase accordingly."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Net increases."
             ]
         ],
         "op":"modified"
@@ -12913,6 +12874,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Threshold."
+            ]
+        ],
         "op":"modified"
     },
     "1026-3-b-Interp-3-i":{
@@ -13002,20 +12970,27 @@
         },
         "op":"added"
     },
-    "1026-61-c-Interp-3":{
+    "1026-61-a-4-ii-B-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Replacement or substitute cards.A card issuer is not required to comply with \u00a7\u20091026.61(c) when a hybrid prepaid-credit card is permitted to be replaced, or substituted, for another hybrid prepaid-credit card without a request or application under \u00a7\u20091026.12(a)(2) and related commentary. For example, \u00a7\u20091026.61(c) does not apply to situations where a prepaid account or credit feature that is accessible by a hybrid prepaid-credit card is replaced because of security concerns and a new hybrid prepaid-credit card is issued to access the new prepaid account or covered separate credit feature without a request or application under \u00a7\u20091026.12(a)(2).",
+            "title":"Paragraph 61(a)(4)(ii)(B)",
+            "text":"",
             "label":[
                 "1026",
                 "61",
-                "c",
-                "Interp",
-                "3"
+                "a",
+                "4",
+                "ii",
+                "B",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1026-61-a-4-ii-B-Interp-1",
+                "1026-61-a-4-ii-B-1-Interp",
+                "1026-61-a-4-ii-B-2-Interp",
+                "1026-61-a-4-ii-B-3-Interp"
+            ]
         },
         "op":"added"
     },
@@ -15015,25 +14990,6 @@
         ],
         "op":"modified"
     },
-    "1026-12-d-3-Interp-3-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The card issuer is prohibited under \u00a7\u20091026.12(d) from automatically deducting all or part of the cardholder's credit card debt from a deposit account (including the prepaid account) held with the card issuer more frequently than once per calendar month, such as on a daily or weekly basis, or whenever deposits are made or expected to be made to the deposit account.",
-            "label":[
-                "1026",
-                "12",
-                "d",
-                "3",
-                "Interp",
-                "3",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-35-b-2-iv-Interp-1-ii":{
         "text":[
             [
@@ -15276,27 +15232,20 @@
         },
         "op":"added"
     },
-    "1026-61-a-4-ii-B-Interp":{
+    "1026-61-c-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":"Paragraph 61(a)(4)(ii)(B)",
-            "text":"",
+            "title":null,
+            "text":"Replacement or substitute cards.A card issuer is not required to comply with \u00a7\u20091026.61(c) when a hybrid prepaid-credit card is permitted to be replaced, or substituted, for another hybrid prepaid-credit card without a request or application under \u00a7\u20091026.12(a)(2) and related commentary. For example, \u00a7\u20091026.61(c) does not apply to situations where a prepaid account or credit feature that is accessible by a hybrid prepaid-credit card is replaced because of security concerns and a new hybrid prepaid-credit card is issued to access the new prepaid account or covered separate credit feature without a request or application under \u00a7\u20091026.12(a)(2).",
             "label":[
                 "1026",
                 "61",
-                "a",
-                "4",
-                "ii",
-                "B",
-                "Interp"
+                "c",
+                "Interp",
+                "3"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1026-61-a-4-ii-B-Interp-1",
-                "1026-61-a-4-ii-B-1-Interp",
-                "1026-61-a-4-ii-B-2-Interp",
-                "1026-61-a-4-ii-B-3-Interp"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -15435,9 +15384,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1026-3-b-Interp-2-i-B":{
-        "op":"deleted"
     },
     "1026-61-a-4-ii-B-2-Interp-1-ii":{
         "node":{

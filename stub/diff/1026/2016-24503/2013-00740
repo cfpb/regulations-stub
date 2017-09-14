@@ -275,9 +275,6 @@
         ],
         "op":"modified"
     },
-    "1026-35-c-2-vii-A-1-Interp":{
-        "op":"deleted"
-    },
     "1026-37-a-9-iii":{
         "op":"deleted"
     },
@@ -1110,9 +1107,6 @@
     "1026-32-a-1-ii-Interp-1-ii":{
         "op":"deleted"
     },
-    "1026-37-l-1-ii-Interp":{
-        "op":"deleted"
-    },
     "1026-6-b-2-Interp-1":{
         "op":"deleted"
     },
@@ -1131,7 +1125,7 @@
     "1026-41-d-3":{
         "op":"deleted"
     },
-    "1026-38-i-4-iii":{
+    "1026-41-d-1":{
         "op":"deleted"
     },
     "1026-41-d-6":{
@@ -4206,8 +4200,21 @@
     "1026-38-g":{
         "op":"deleted"
     },
-    "1026-H-25(E)-p4":{
-        "op":"deleted"
+    "1026-H-4(D)-p59":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"[The following interest rate adjustments have been implemented this year without changing your payment: ___________. These interest rates were based on the following index values: ___________.]",
+            "label":[
+                "1026",
+                "H",
+                "4(D)",
+                "p59"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-38-a-4-i":{
         "op":"deleted"
@@ -4857,13 +4864,10 @@
     "1026-35-c-1-i-Interp-2":{
         "op":"deleted"
     },
-    "1026-36-d-1-ii-B":{
-        "op":"deleted"
-    },
     "1026-43-e-5-ii-D":{
         "op":"deleted"
     },
-    "1026-36-d-1-ii-A":{
+    "1026-35-c-2-vii-A-1-Interp":{
         "op":"deleted"
     },
     "1026-43-e-5-ii-A":{
@@ -4906,6 +4910,13 @@
                     55,
                     "met:"
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                14
             ]
         ],
         "op":"modified"
@@ -5638,9 +5649,6 @@
         },
         "op":"added"
     },
-    "1026-19-f-2-i-Interp-1-iii":{
-        "op":"deleted"
-    },
     "1026-12-a-1-Interp-2-ii":{
         "op":"deleted"
     },
@@ -5678,45 +5686,6 @@
     },
     "1026-19-e-3-iv-A-1":{
         "op":"deleted"
-    },
-    "1026-52-a-1-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    27
-                ],
-                [
-                    "insert",
-                    0,
-                    "Application.The"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    48,
-                    63
-                ],
-                [
-                    "insert",
-                    48,
-                    "\u00a7 1026.52(a)(1)"
-                ]
-            ],
-            [
-                "delete",
-                294,
-                323
-            ],
-            [
-                "delete",
-                331,
-                356
-            ]
-        ],
-        "op":"modified"
     },
     "1026-12-c-Interp-5-i-A":{
         "op":"deleted"
@@ -8918,6 +8887,13 @@
                     89,
                     "terms of the account. See also comment 3(b)-4."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                14
             ]
         ],
         "op":"modified"
@@ -12184,75 +12160,8 @@
     "1026-19-f-1-Interp":{
         "op":"deleted"
     },
-    "1026-36-d-1-ii":{
-        "text":[
-            [
-                "insert",
-                5,
-                "For purposes of this paragraph (d)(1) only, a \u201cterm of a transaction\u201d is any right or obligation of the parties to a credit transaction. "
-            ],
-            [
-                [
-                    "delete",
-                    9,
-                    20
-                ],
-                [
-                    "insert",
-                    9,
-                    "amount of credit extended is not a term of a transaction or a proxy for a term of a transaction, provided that compensation received by or paid to a loan originator, directly or indirectly, is based"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    24,
-                    43
-                ],
-                [
-                    "insert",
-                    24,
-                    "a fixed percentage"
-                ]
-            ],
-            [
-                "insert",
-                47,
-                "the amount of credit extended; however, such "
-            ],
-            [
-                [
-                    "delete",
-                    60,
-                    123
-                ],
-                [
-                    "insert",
-                    60,
-                    "may be subject to a minimum"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    127,
-                    987
-                ],
-                [
-                    "insert",
-                    127,
-                    "maximum dollar amount."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                32
-            ]
-        ],
-        "op":"modified"
+    "1026-19-f-2-i-Interp-1-iii":{
+        "op":"deleted"
     },
     "1026-38-a-4-Interp-1":{
         "op":"deleted"
@@ -12575,7 +12484,19 @@
             [
                 "insert",
                 0,
-                "3(b) Credit Over Applicable Threshold Amount"
+                "3(b) Credit Over Applicable "
+            ],
+            [
+                [
+                    "delete",
+                    10,
+                    17
+                ],
+                [
+                    "insert",
+                    10,
+                    "Amount"
+                ]
             ]
         ],
         "op":"modified"
@@ -13552,7 +13473,7 @@
     "1026-38-a-3-v-Interp":{
         "op":"deleted"
     },
-    "1026-38-h-2":{
+    "1026-3-h-5-i":{
         "op":"deleted"
     },
     "1026-58-g-Interp-2-ii":{
@@ -16955,13 +16876,10 @@
     "1026-38-t-5-Interp-3":{
         "op":"deleted"
     },
-    "1026-41-e-4-iii-b":{
+    "1026-37-l-1-ii-Interp":{
         "op":"deleted"
     },
-    "1026-41-e-4-iii-c":{
-        "op":"deleted"
-    },
-    "1026-41-e-4-iii-a":{
+    "1026-38-i-4-iii":{
         "op":"deleted"
     },
     "1026-19-e-4-i-Interp-1":{
@@ -17007,7 +16925,16 @@
     "1026-H-24(a)-p8":{
         "op":"deleted"
     },
+    "1026-41-e-4-iii-B":{
+        "op":"deleted"
+    },
+    "1026-41-e-4-iii-C":{
+        "op":"deleted"
+    },
     "1026-37-f-5-Interp":{
+        "op":"deleted"
+    },
+    "1026-41-e-4-iii-A":{
         "op":"deleted"
     },
     "1026-38-l-7-i-A-4":{
@@ -17574,6 +17501,13 @@
                     0,
                     "Open-end credit.\n              "
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                26
             ]
         ],
         "op":"modified"
@@ -18337,9 +18271,6 @@
     "1026-58-g":{
         "op":"deleted"
     },
-    "1026-41-d-1":{
-        "op":"deleted"
-    },
     "1026-Q-h1-B-11":{
         "text":[
             [
@@ -18446,6 +18377,13 @@
                     0,
                     "Closed-end credit.\n              "
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                10
             ]
         ],
         "op":"modified"
@@ -19032,19 +18970,41 @@
     "1026-37-g-4-Interp-2-ii":{
         "op":"deleted"
     },
-    "1026-5-a-1-ii-B":{
+    "1026-52-a-1-Interp-1":{
         "text":[
             [
                 [
                     "delete",
-                    204,
-                    230
+                    0,
+                    27
                 ],
                 [
                     "insert",
-                    204,
-                    "solicitations"
+                    0,
+                    "Application.The"
                 ]
+            ],
+            [
+                [
+                    "delete",
+                    48,
+                    63
+                ],
+                [
+                    "insert",
+                    48,
+                    "\u00a7 1026.52(a)(1)"
+                ]
+            ],
+            [
+                "delete",
+                294,
+                323
+            ],
+            [
+                "delete",
+                331,
+                356
             ]
         ],
         "op":"modified"
@@ -21608,21 +21568,8 @@
     "1026-20-d-2-x":{
         "op":"deleted"
     },
-    "1026-H-4(D)-p59":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"[The following interest rate adjustments have been implemented this year without changing your payment: ___________. These interest rates were based on the following index values: ___________.]",
-            "label":[
-                "1026",
-                "H",
-                "4(D)",
-                "p59"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-H-25(E)-p4":{
+        "op":"deleted"
     },
     "1026-35-c-6-iv":{
         "op":"deleted"
@@ -22151,7 +22098,7 @@
     "1026-19-f-2-ii-Interp-1-i":{
         "op":"deleted"
     },
-    "1026-3-h-5-i":{
+    "1026-38-h-2":{
         "op":"deleted"
     },
     "1026-38-h-3":{

@@ -796,21 +796,22 @@
         },
         "op":"added"
     },
-    "1026-41-e-4-iii-a":{
+    "1026-38-p-1-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(a) Mortgage loans voluntarily serviced by the servicer for a creditor or assignee that is not an affiliate of the servicer and for which the servicer does not receive any compensation or fees.",
+            "title":"38(p)(1) Appraisal.",
+            "text":"",
             "label":[
                 "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "a"
+                "38",
+                "p",
+                "1",
+                "Interp"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1026-38-p-1-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -4553,26 +4554,6 @@
             ],
             "node_type":"appendix",
             "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-37-l-1-ii-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Paragraph 37(l)(1)(ii).",
-            "text":"",
-            "label":[
-                "1026",
-                "37",
-                "l",
-                "1",
-                "ii",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-37-l-1-ii-Interp-1"
-            ]
         },
         "op":"added"
     },
@@ -31760,25 +31741,6 @@
         },
         "op":"added"
     },
-    "1026-38-p-1-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"38(p)(1) Appraisal.",
-            "text":"",
-            "label":[
-                "1026",
-                "38",
-                "p",
-                "1",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-38-p-1-Interp-1"
-            ]
-        },
-        "op":"added"
-    },
     "1026-19-a-5-iii":{
         "op":"deleted"
     },
@@ -52951,9 +52913,9 @@
             ],
             "node_type":"regtext",
             "child_labels":[
-                "1026-41-e-4-iii-a",
-                "1026-41-e-4-iii-b",
-                "1026-41-e-4-iii-c"
+                "1026-41-e-4-iii-A",
+                "1026-41-e-4-iii-B",
+                "1026-41-e-4-iii-C"
             ]
         },
         "op":"added"
@@ -58745,39 +58707,23 @@
         },
         "op":"added"
     },
-    "1026-41-e-4-iii-b":{
+    "1026-37-l-1-ii-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(b) Reverse mortgage transactions.",
+            "title":"Paragraph 37(l)(1)(ii).",
+            "text":"",
             "label":[
                 "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "b"
+                "37",
+                "l",
+                "1",
+                "ii",
+                "Interp"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-41-e-4-iii-c":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(c) Mortgage loans secured by consumers\u2019 interests in timeshare plans.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "c"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1026-37-l-1-ii-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -58999,6 +58945,42 @@
         },
         "op":"added"
     },
+    "1026-41-e-4-iii-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(B) Reverse mortgage transactions.",
+            "label":[
+                "1026",
+                "41",
+                "e",
+                "4",
+                "iii",
+                "B"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-41-e-4-iii-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(C) Mortgage loans secured by consumers\u2019 interests in timeshare plans.",
+            "label":[
+                "1026",
+                "41",
+                "e",
+                "4",
+                "iii",
+                "C"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-37-f-5-Interp":{
         "node":{
             "tagged_text":null,
@@ -59015,6 +58997,24 @@
             "child_labels":[
                 "1026-37-f-5-Interp-1"
             ]
+        },
+        "op":"added"
+    },
+    "1026-41-e-4-iii-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(A) Mortgage loans voluntarily serviced by the servicer for a creditor or assignee that is not an affiliate of the servicer and for which the servicer does not receive any compensation or fees.",
+            "label":[
+                "1026",
+                "41",
+                "e",
+                "4",
+                "iii",
+                "A"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
         },
         "op":"added"
     },

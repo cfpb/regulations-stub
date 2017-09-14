@@ -54,16 +54,6 @@
         },
         "op":"added"
     },
-    "1026-3-b-Interp-2":{
-        "title":[
-            [
-                "delete",
-                0,
-                26
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-61-a-2-i-A-2":{
         "node":{
             "tagged_text":null,
@@ -276,15 +266,25 @@
         ],
         "op":"modified"
     },
-    "1026-3-b-Interp-3":{
-        "title":[
-            [
-                "delete",
-                0,
-                10
-            ]
-        ],
-        "op":"modified"
+    "1026-2-a-15-Interp-4-i-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The account is accessed by a credit card, as defined in \u00a7\u20091026.2(a)(15)(i); and",
+            "label":[
+                "1026",
+                "2",
+                "a",
+                "15",
+                "Interp",
+                "4",
+                "i",
+                "A"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-2-a-15-Interp-4-i-B":{
         "node":{
@@ -955,19 +955,41 @@
         },
         "op":"added"
     },
-    "1026-5-a-1-ii-B":{
+    "1026-52-a-1-Interp-1":{
         "text":[
             [
                 [
                     "delete",
-                    204,
-                    217
+                    0,
+                    15
                 ],
                 [
                     "insert",
-                    204,
-                    "solicitationssolicitations"
+                    0,
+                    "Application.Application The"
                 ]
+            ],
+            [
+                [
+                    "delete",
+                    36,
+                    51
+                ],
+                [
+                    "insert",
+                    36,
+                    "\u00a7\u20091026.52(a)(1)"
+                ]
+            ],
+            [
+                "insert",
+                282,
+                "account, including a prepaid "
+            ],
+            [
+                "insert",
+                290,
+                "as defined in \u00a7\u20091026.61, "
             ]
         ],
         "op":"modified"
@@ -1838,15 +1860,25 @@
         },
         "op":"added"
     },
-    "1026-3-b-Interp":{
-        "title":[
-            [
-                "delete",
-                0,
-                17
-            ]
-        ],
-        "op":"modified"
+    "1026-61-a-4-ii-A-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Provisional credit.credit. A prepaid account issuer may still satisfy the requirements set forth in \u00a7\u20091026.61(a)(4)(ii)(A) even if a negative balance results on the asset feature of the prepaid account because the prepaid account issuer debits the amount of any provisional credit that was previously granted on the prepaid account as specified in Regulation E, 12 CFR 1005.11, so long as the prepaid account issuer otherwise complies with the conditions set forth in \u00a7\u20091026.61(a)(4). For example, under \u00a7\u20091026.61(a)(4), a prepaid account issuer may not impose a fee or charge enumerated under \u00a7\u20091026.61(a)(4)(ii)(B) with respect to this negative balance.",
+            "label":[
+                "1026",
+                "61",
+                "a",
+                "4",
+                "ii",
+                "A",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-2-a-15-Interp-2-ii-C":{
         "text":[
@@ -2526,46 +2558,24 @@
         },
         "op":"added"
     },
-    "1026-36-d-1-ii":{
-        "text":[
-            [
-                "insert",
-                5,
-                "The prohibition on payment and receipt of compensation under \u00a7 1026.36(d)(1)(i) encompasses compensation that directly or indirectly is based on the terms of a single transaction of a single individual loan originator, the terms of multiple transactions by that single individual loan originator, or the terms of multiple transactions by multiple individual loan originators. Compensation to an individual loan originator that is based upon profits determined with reference to a mortgage-related business is considered compensation that is based on the terms of multiple transactions by multiple individual loan originators. "
+    "1026-12-d-3-Interp-3-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The card issuer is prohibited under \u00a7\u20091026.12(d) from automatically deducting all or part of the cardholder's credit card debt from a deposit account (including the prepaid account) held with the card issuer more frequently than once per calendar month, such as on a daily or weekly basis, or whenever deposits are made or expected to be made to the deposit account.",
+            "label":[
+                "1026",
+                "12",
+                "d",
+                "3",
+                "Interp",
+                "3",
+                "ii"
             ],
-            [
-                [
-                    "delete",
-                    9,
-                    87
-                ],
-                [
-                    "insert",
-                    9,
-                    "clarification about the exceptions permitting compensation based upon profits determined with reference to mortgage-related business pursuant to either a designated tax-advantaged plan"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    91,
-                    481
-                ],
-                [
-                    "insert",
-                    91,
-                    "a non-deferred profits-based compensation plan, see comment 36(d)(1)-3. For clarification about \u201cmortgage-related business,\u201d see comments 36(d)(1)-3.v.B and -3.v.E."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Single of multiple transactions."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-61-a-2-Interp-1-ii-B":{
         "node":{
@@ -2743,16 +2753,6 @@
                 "insert",
                 1631,
                 " This definition also includes a business, marketing, or promotional agreement between a card issuer and a college or university (or an affiliated organization, such as an alumni club or a foundation) if the agreement provides for the addition of a covered separate credit feature that is a credit card account under an open-end (not home-secured) consumer credit plan accessible by a hybrid prepaid-credit card as defined by \u00a7\u20091026.61 to prepaid accounts previously issued to full-time or part-time students. This definition also includes a business, marketing, or promotional agreement between a card issuer and a college or university (or an affiliated organization, such as an alumni club or a foundation) if (1) the agreement provides for the issuance of prepaid accounts as defined in \u00a7\u20091026.61 to full-time or part-time students; and (2) a covered separate credit feature that is a credit card account under an open-end (not home-secured) consumer credit plan accessible by a hybrid prepaid-credit card as defined by \u00a7\u20091026.61 may be added in the future to the prepaid account."
-            ]
-        ],
-        "op":"modified"
-    },
-    "1026-3-b-Interp-2-ii":{
-        "title":[
-            [
-                "delete",
-                0,
-                14
             ]
         ],
         "op":"modified"
@@ -3302,26 +3302,6 @@
                 "1026-4-b-11-i",
                 "1026-4-b-11-ii"
             ]
-        },
-        "op":"added"
-    },
-    "1026-2-a-15-Interp-4-i-A":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The account is accessed by a credit card, as defined in \u00a7\u20091026.2(a)(15)(i); and",
-            "label":[
-                "1026",
-                "2",
-                "a",
-                "15",
-                "Interp",
-                "4",
-                "i",
-                "A"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -4057,26 +4037,6 @@
                 "1026-61-a-2-Interp-2-iii-A",
                 "1026-61-a-2-Interp-2-iii-B"
             ]
-        },
-        "op":"added"
-    },
-    "1026-61-a-4-ii-A-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Provisional credit.credit. A prepaid account issuer may still satisfy the requirements set forth in \u00a7\u20091026.61(a)(4)(ii)(A) even if a negative balance results on the asset feature of the prepaid account because the prepaid account issuer debits the amount of any provisional credit that was previously granted on the prepaid account as specified in Regulation E, 12 CFR 1005.11, so long as the prepaid account issuer otherwise complies with the conditions set forth in \u00a7\u20091026.61(a)(4). For example, under \u00a7\u20091026.61(a)(4), a prepaid account issuer may not impose a fee or charge enumerated under \u00a7\u20091026.61(a)(4)(ii)(B) with respect to this negative balance.",
-            "label":[
-                "1026",
-                "61",
-                "a",
-                "4",
-                "ii",
-                "A",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -5621,54 +5581,8 @@
         },
         "op":"added"
     },
-    "1026-36-d-1-ii-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).",
-            "label":[
-                "1026",
-                "36",
-                "d",
-                "1",
-                "ii",
-                "B"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-52-a-2-Interp-1-v":{
         "op":"deleted"
-    },
-    "1026-36-d-1-ii-A":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(A) Assume that a creditor pays a bonus to an individual loan originator out of a bonus pool established with reference to the creditor's profits and the profits are determined with reference to the creditor's revenue from origination of closed-end consumer credit transactions secured by a dwelling. In such instance, the bonus is considered compensation that is based on the terms of multiple transactions by multiple individual loan originators. Therefore, the bonus is prohibited under \u00a7 1026.36(d)(1)(i), unless it is otherwise permitted under \u00a7 1026.36(d)(1)(iv).",
-            "label":[
-                "1026",
-                "36",
-                "d",
-                "1",
-                "ii",
-                "A"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-3-b-Interp-2-i":{
-        "title":[
-            [
-                "delete",
-                0,
-                14
-            ]
-        ],
-        "op":"modified"
     },
     "1026-61-a-2-Interp-3-i":{
         "node":{
@@ -6455,45 +6369,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1026-52-a-1-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    15
-                ],
-                [
-                    "insert",
-                    0,
-                    "Application.Application The"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    36,
-                    51
-                ],
-                [
-                    "insert",
-                    36,
-                    "\u00a7\u20091026.52(a)(1)"
-                ]
-            ],
-            [
-                "insert",
-                282,
-                "account, including a prepaid "
-            ],
-            [
-                "insert",
-                290,
-                "as defined in \u00a7\u20091026.61, "
-            ]
-        ],
-        "op":"modified"
     },
     "1026-4-b-11-Interp-1-i":{
         "node":{
@@ -7411,25 +7286,6 @@
                 "1",
                 "i",
                 "A"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-12-d-3-Interp-3-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The card issuer is prohibited under \u00a7\u20091026.12(d) from automatically deducting all or part of the cardholder's credit card debt from a deposit account (including the prepaid account) held with the card issuer more frequently than once per calendar month, such as on a daily or weekly basis, or whenever deposits are made or expected to be made to the deposit account.",
-            "label":[
-                "1026",
-                "12",
-                "d",
-                "3",
-                "Interp",
-                "3",
-                "ii"
             ],
             "node_type":"interp",
             "child_labels":[]

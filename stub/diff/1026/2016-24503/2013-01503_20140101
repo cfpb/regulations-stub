@@ -1142,9 +1142,6 @@
     "1026-Q-h1-H-2-d":{
         "op":"deleted"
     },
-    "1026-37-l-1-ii-Interp":{
-        "op":"deleted"
-    },
     "1026-6-b-2-Interp-1":{
         "op":"deleted"
     },
@@ -1166,7 +1163,7 @@
     "1026-43-b-7-Interp-1":{
         "op":"deleted"
     },
-    "1026-41-e-4-iii-a":{
+    "1026-41-d-1":{
         "op":"deleted"
     },
     "1026-41-d-6":{
@@ -5116,7 +5113,7 @@
         },
         "op":"added"
     },
-    "1026-38-i-2-ii":{
+    "1026-38-a-4-i":{
         "op":"deleted"
     },
     "1026-H-25(E)-p2":{
@@ -5821,13 +5818,10 @@
     "1026-32-b-2-iv-Interp-1":{
         "op":"deleted"
     },
-    "1026-36-d-1-ii-B":{
-        "op":"deleted"
-    },
     "1026-43-e-5-ii-D":{
         "op":"deleted"
     },
-    "1026-36-d-1-ii-A":{
+    "1026-32-b-6-Interp-2":{
         "op":"deleted"
     },
     "1026-43-e-5-ii-A":{
@@ -5870,6 +5864,13 @@
                     55,
                     "met:"
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                14
             ]
         ],
         "op":"modified"
@@ -6777,9 +6778,6 @@
         "op":"added"
     },
     "1026-43-a-3-i":{
-        "op":"deleted"
-    },
-    "1026-19-f-2-i-Interp-1-iii":{
         "op":"deleted"
     },
     "1026-38-i-9-ii-Interp-2":{
@@ -10386,7 +10384,7 @@
     "1026-H-28()-p3":{
         "op":"deleted"
     },
-    "1026-41-d-1":{
+    "1026-H-28()-p2":{
         "op":"deleted"
     },
     "1026-37-f-3-ii":{
@@ -11713,25 +11711,51 @@
         },
         "op":"added"
     },
-    "1026-32-c-3-Interp-1-i-C":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"In discounted or premium variable-rate transactions where the creditor sets the initial interest rate and later rate adjustments are determined by an index or formula, the creditor must disclose both the initial payment based on the discount or premium and the payment that will be in effect thereafter. Additional explanatory material which does not detract from the required disclosures may accompany the disclosed amounts. For example, if a monthly payment is $250 for the first six months and then increases based on an index and margin, the creditor could use language such as the following: \u201cYour regular monthly payment will be $250 for six months. After six months your regular monthly payment will be based on an index and margin, which currently would make your payment $350. Your actual payment at that time may be higher or lower.\u201d",
-            "label":[
-                "1026",
-                "32",
-                "c",
-                "3",
-                "Interp",
-                "1",
-                "i",
-                "C"
+    "1026-34-a-4-ii-B-Interp-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    33
+                ],
+                [
+                    "insert",
+                    0,
+                    "No violation if income or assets relied on not materially greater than verifiable amounts.A creditor that does not verify income or assets"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                "insert",
+                41,
+                " determine repayment ability with reasonably reliable third-party documents does not violate \u00a7 1026.34(a)(4)(ii) if the creditor demonstrates that the income or assets it relied upon were not materially greater than the amounts that the creditor would have been able to"
+            ],
+            [
+                [
+                    "delete",
+                    49,
+                    113
+                ],
+                [
+                    "insert",
+                    49,
+                    "pursuant to \u00a7 1026.34(a)(4)(ii). For example, if a creditor determines a consumer's repayment ability by relying on the consumer's annual income of $40,000 but fails to obtain documentation of that amount before extending the credit, the creditor will not have violated this section if the creditor later obtains evidence that would satisfy \u00a7 1026.34(a)(4)(ii)(A), such as tax return information, showing that the creditor could have documented, at the time the loan was consummated, that the consumer had"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    117,
+                    621
+                ],
+                [
+                    "insert",
+                    117,
+                    "annual income not materially less than $40,000."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-35-c-2-viii-C-Interp":{
         "op":"deleted"
@@ -12688,9 +12712,6 @@
         "op":"deleted"
     },
     "1026-61-a-5-iv-Interp":{
-        "op":"deleted"
-    },
-    "1026-H-28()-p2":{
         "op":"deleted"
     },
     "1026-61-a-4-i":{
@@ -14704,75 +14725,8 @@
     "1026-19-f-1-Interp":{
         "op":"deleted"
     },
-    "1026-36-d-1-ii":{
-        "text":[
-            [
-                "insert",
-                5,
-                "For purposes of this paragraph (d)(1) only, a \u201cterm of a transaction\u201d is any right or obligation of the parties to a credit transaction. "
-            ],
-            [
-                [
-                    "delete",
-                    9,
-                    20
-                ],
-                [
-                    "insert",
-                    9,
-                    "amount of credit extended is not a term of a transaction or a proxy for a term of a transaction, provided that compensation received by or paid to a loan originator, directly or indirectly, is based"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    24,
-                    43
-                ],
-                [
-                    "insert",
-                    24,
-                    "a fixed percentage"
-                ]
-            ],
-            [
-                "insert",
-                47,
-                "the amount of credit extended; however, such "
-            ],
-            [
-                [
-                    "delete",
-                    60,
-                    123
-                ],
-                [
-                    "insert",
-                    60,
-                    "may be subject to a minimum"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    127,
-                    987
-                ],
-                [
-                    "insert",
-                    127,
-                    "maximum dollar amount."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                32
-            ]
-        ],
-        "op":"modified"
+    "1026-19-f-2-i-Interp-1-iii":{
+        "op":"deleted"
     },
     "1026-38-a-4-Interp-1":{
         "op":"deleted"
@@ -15433,7 +15387,19 @@
             [
                 "insert",
                 0,
-                "3(b) Credit Over Applicable Threshold Amount"
+                "3(b) Credit Over Applicable "
+            ],
+            [
+                [
+                    "delete",
+                    10,
+                    17
+                ],
+                [
+                    "insert",
+                    10,
+                    "Amount"
+                ]
             ]
         ],
         "op":"modified"
@@ -19291,9 +19257,6 @@
     "1026-43-d-2-iv-Interp-1":{
         "op":"deleted"
     },
-    "1026-32-b-6-Interp-2":{
-        "op":"deleted"
-    },
     "1026-41":{
         "title":[
             [
@@ -19824,6 +19787,13 @@
                     89,
                     "terms of the account. See also comment 3(b)-4."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                14
             ]
         ],
         "op":"modified"
@@ -21361,10 +21331,7 @@
     "1026-38-t-5-Interp-3":{
         "op":"deleted"
     },
-    "1026-41-e-4-iii-b":{
-        "op":"deleted"
-    },
-    "1026-41-e-4-iii-c":{
+    "1026-37-l-1-ii-Interp":{
         "op":"deleted"
     },
     "1026-38-i-4-iii":{
@@ -21442,7 +21409,16 @@
     "1026-H-24(a)-p8":{
         "op":"deleted"
     },
+    "1026-41-e-4-iii-B":{
+        "op":"deleted"
+    },
+    "1026-41-e-4-iii-C":{
+        "op":"deleted"
+    },
     "1026-37-f-5-Interp":{
+        "op":"deleted"
+    },
+    "1026-41-e-4-iii-A":{
         "op":"deleted"
     },
     "1026-Q-h2-D-1-a-iii":{
@@ -23593,6 +23569,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "delete",
+                0,
+                10
+            ]
+        ],
         "op":"modified"
     },
     "1026-37-a-10-Interp-2-iii":{
@@ -24106,52 +24089,6 @@
     "1026-Q-h2-D-1-a-ii":{
         "op":"deleted"
     },
-    "1026-34-a-4-ii-B-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    33
-                ],
-                [
-                    "insert",
-                    0,
-                    "No violation if income or assets relied on not materially greater than verifiable amounts.A creditor that does not verify income or assets"
-                ]
-            ],
-            [
-                "insert",
-                41,
-                " determine repayment ability with reasonably reliable third-party documents does not violate \u00a7 1026.34(a)(4)(ii) if the creditor demonstrates that the income or assets it relied upon were not materially greater than the amounts that the creditor would have been able to"
-            ],
-            [
-                [
-                    "delete",
-                    49,
-                    113
-                ],
-                [
-                    "insert",
-                    49,
-                    "pursuant to \u00a7 1026.34(a)(4)(ii). For example, if a creditor determines a consumer's repayment ability by relying on the consumer's annual income of $40,000 but fails to obtain documentation of that amount before extending the credit, the creditor will not have violated this section if the creditor later obtains evidence that would satisfy \u00a7 1026.34(a)(4)(ii)(A), such as tax return information, showing that the creditor could have documented, at the time the loan was consummated, that the consumer had"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    117,
-                    621
-                ],
-                [
-                    "insert",
-                    117,
-                    "annual income not materially less than $40,000."
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-43-e-Interp":{
         "op":"deleted"
     },
@@ -24597,22 +24534,25 @@
     "1026-43-g-2-ii-B":{
         "op":"deleted"
     },
-    "1026-5-a-1-ii-B":{
-        "text":[
-            [
-                [
-                    "delete",
-                    204,
-                    230
-                ],
-                [
-                    "insert",
-                    204,
-                    "solicitations"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1026-32-c-3-Interp-1-i-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"In discounted or premium variable-rate transactions where the creditor sets the initial interest rate and later rate adjustments are determined by an index or formula, the creditor must disclose both the initial payment based on the discount or premium and the payment that will be in effect thereafter. Additional explanatory material which does not detract from the required disclosures may accompany the disclosed amounts. For example, if a monthly payment is $250 for the first six months and then increases based on an index and margin, the creditor could use language such as the following: \u201cYour regular monthly payment will be $250 for six months. After six months your regular monthly payment will be based on an index and margin, which currently would make your payment $350. Your actual payment at that time may be higher or lower.\u201d",
+            "label":[
+                "1026",
+                "32",
+                "c",
+                "3",
+                "Interp",
+                "1",
+                "i",
+                "C"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-43-g-2-ii-A":{
         "op":"deleted"
@@ -24731,6 +24671,13 @@
                     0,
                     "Open-end credit.\n              "
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                26
             ]
         ],
         "op":"modified"
@@ -28372,7 +28319,7 @@
     "1026-35-c-6-iv":{
         "op":"deleted"
     },
-    "1026-38-a-4-i":{
+    "1026-38-i-2-ii":{
         "op":"deleted"
     },
     "1026-43-f-1-vi-Interp-1-i-A":{
