@@ -3063,26 +3063,6 @@
         },
         "op":"added"
     },
-    "1026-37-l-1-ii-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Paragraph 37(l)(1)(ii).",
-            "text":"",
-            "label":[
-                "1026",
-                "37",
-                "l",
-                "1",
-                "ii",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-37-l-1-ii-Interp-1"
-            ]
-        },
-        "op":"added"
-    },
     "1026-41-d-8":{
         "node":{
             "tagged_text":null,
@@ -3146,22 +3126,22 @@
         },
         "op":"added"
     },
-    "1026-38-i-4-iii":{
+    "1026-41-d-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(iii) Under the subheading \u201cDid this change?,\u201d disclosed more prominently than the other disclosures under this paragraph (i)(4):",
+            "text":"(1) Amount due.Grouped together in close proximity to each other and located at the top of the first page of the statement:",
             "label":[
                 "1026",
-                "38",
-                "i",
-                "4",
-                "iii"
+                "41",
+                "d",
+                "1"
             ],
             "node_type":"regtext",
             "child_labels":[
-                "1026-38-i-4-iii-A",
-                "1026-38-i-4-iii-B"
+                "1026-41-d-1-i",
+                "1026-41-d-1-ii",
+                "1026-41-d-1-iii"
             ]
         },
         "op":"added"
@@ -35987,9 +35967,9 @@
             ],
             "node_type":"regtext",
             "child_labels":[
-                "1026-41-e-4-iii-a",
-                "1026-41-e-4-iii-b",
-                "1026-41-e-4-iii-c"
+                "1026-41-e-4-iii-A",
+                "1026-41-e-4-iii-B",
+                "1026-41-e-4-iii-C"
             ]
         },
         "op":"added"
@@ -40003,57 +39983,43 @@
         },
         "op":"added"
     },
-    "1026-41-e-4-iii-b":{
+    "1026-37-l-1-ii-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(b) Reverse mortgage transactions.",
+            "title":"Paragraph 37(l)(1)(ii).",
+            "text":"",
             "label":[
                 "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "b"
+                "37",
+                "l",
+                "1",
+                "ii",
+                "Interp"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1026-37-l-1-ii-Interp-1"
+            ]
         },
         "op":"added"
     },
-    "1026-41-e-4-iii-c":{
+    "1026-38-i-4-iii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(c) Mortgage loans secured by consumers\u2019 interests in timeshare plans.",
+            "text":"(iii) Under the subheading \u201cDid this change?,\u201d disclosed more prominently than the other disclosures under this paragraph (i)(4):",
             "label":[
                 "1026",
-                "41",
-                "e",
+                "38",
+                "i",
                 "4",
-                "iii",
-                "c"
+                "iii"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-41-e-4-iii-a":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(a) Mortgage loans voluntarily serviced by the servicer for a creditor or assignee that is not an affiliate of the servicer and for which the servicer does not receive any compensation or fees.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "a"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "child_labels":[
+                "1026-38-i-4-iii-A",
+                "1026-38-i-4-iii-B"
+            ]
         },
         "op":"added"
     },
@@ -40172,6 +40138,42 @@
         },
         "op":"added"
     },
+    "1026-41-e-4-iii-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(B) Reverse mortgage transactions.",
+            "label":[
+                "1026",
+                "41",
+                "e",
+                "4",
+                "iii",
+                "B"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-41-e-4-iii-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(C) Mortgage loans secured by consumers\u2019 interests in timeshare plans.",
+            "label":[
+                "1026",
+                "41",
+                "e",
+                "4",
+                "iii",
+                "C"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-37-f-5-Interp":{
         "node":{
             "tagged_text":null,
@@ -40188,6 +40190,24 @@
             "child_labels":[
                 "1026-37-f-5-Interp-1"
             ]
+        },
+        "op":"added"
+    },
+    "1026-41-e-4-iii-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(A) Mortgage loans voluntarily serviced by the servicer for a creditor or assignee that is not an affiliate of the servicer and for which the servicer does not receive any compensation or fees.",
+            "label":[
+                "1026",
+                "41",
+                "e",
+                "4",
+                "iii",
+                "A"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -44124,26 +44144,6 @@
             "child_labels":[
                 "1026-58-g-1",
                 "1026-58-g-2"
-            ]
-        },
-        "op":"added"
-    },
-    "1026-41-d-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) Amount due.Grouped together in close proximity to each other and located at the top of the first page of the statement:",
-            "label":[
-                "1026",
-                "41",
-                "d",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1026-41-d-1-i",
-                "1026-41-d-1-ii",
-                "1026-41-d-1-iii"
             ]
         },
         "op":"added"
