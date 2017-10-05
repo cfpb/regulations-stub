@@ -465,30 +465,6 @@
         ],
         "op":"modified"
     },
-    "1026-35-c-2-vii-A-1-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Paragraph 35(c)(2)(vii)(A)(1)",
-            "label":[
-                "1026",
-                "35",
-                "c",
-                "2",
-                "vii",
-                "A",
-                "1",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1026-35-c-2-vii-A-1-Interp-1",
-                "1026-35-c-2-vii-A-1-Interp-2",
-                "1026-35-c-2-vii-A-1-Interp-3"
-            ]
-        },
-        "op":"added"
-    },
     "1026-37-a-9-iii":{
         "node":{
             "tagged_text":null,
@@ -2837,8 +2813,8 @@
             "node_type":"regtext",
             "child_labels":[
                 "1026-38-i-1-i-A-1",
-                "1026-38-g-1-iii-A-2",
-                "1026-38-g-1-iii-A-3"
+                "1026-38-i-1-iii-A-2",
+                "1026-38-i-1-iii-A-3"
             ]
         },
         "op":"added"
@@ -9780,39 +9756,27 @@
         },
         "op":"added"
     },
-    "1026-36-d-1-ii-B":{
+    "1026-35-c-2-vii-A-1-Interp":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) Assume that an individual loan originator's employment contract with a creditor guarantees a quarterly bonus in a specified amount conditioned upon the individual loan originator meeting certain performance benchmarks (e.g., volume of originations monthly). A bonus paid following the satisfaction of those contractual conditions is not directly or indirectly based on the terms of a transaction by an individual loan originator, the terms of multiple transactions by that individual loan originator, or the terms of multiple transactions by multiple individual loan originators under \u00a7 1026.36(d)(1)(i) as clarified by this comment 36(d)(1)-1.ii, because the creditor is obligated to pay the bonus, in the specified amount, regardless of the terms of transactions of the individual loan originator or multiple individual loan originators and the effect of those terms of multiple transactions on the creditor's profits. Because this type of bonus is not directly or indirectly based on the terms of multiple transactions by multiple individual loan originators, as described in \u00a7 1026.36(d)(1)(i) (as clarified by this comment 36(d)(1)-1.ii), it is not subject to the 10-percent total compensation limit described in \u00a7 1026.36(d)(1)(iv)(B)(1).",
+            "text":"Paragraph 35(c)(2)(vii)(A)(1)",
             "label":[
                 "1026",
-                "36",
-                "d",
+                "35",
+                "c",
+                "2",
+                "vii",
+                "A",
                 "1",
-                "ii",
-                "B"
+                "Interp"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-36-d-1-ii-A":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(A) Assume that a creditor pays a bonus to an individual loan originator out of a bonus pool established with reference to the creditor's profits and the profits are determined with reference to the creditor's revenue from origination of closed-end consumer credit transactions secured by a dwelling. In such instance, the bonus is considered compensation that is based on the terms of multiple transactions by multiple individual loan originators. Therefore, the bonus is prohibited under \u00a7 1026.36(d)(1)(i), unless it is otherwise permitted under \u00a7 1026.36(d)(1)(iv).",
-            "label":[
-                "1026",
-                "36",
-                "d",
-                "1",
-                "ii",
-                "A"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1026-35-c-2-vii-A-1-Interp-1",
+                "1026-35-c-2-vii-A-1-Interp-2",
+                "1026-35-c-2-vii-A-1-Interp-3"
+            ]
         },
         "op":"added"
     },
@@ -9870,6 +9834,13 @@
                     229,
                     "year will increase accordingly."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Net increases."
             ]
         ],
         "op":"modified"
@@ -14371,6 +14342,25 @@
         },
         "op":"added"
     },
+    "1026-38-i-1-iii-A-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(3) If the increase exceeds the limitations on increases in closing costs under \u00a7 1026.19(e)(3), a statement that such increase exceeds the legal limits by the dollar amount of the excess, and if any refund is provided pursuant to \u00a7 1026.19(f)(2)(v), a statement directing the consumer to the disclosure required under paragraph (h)(3) of this section. Such dollar amount shall equal the sum total of all excesses of the limitations on increases in closing costs under \u00a7 1026.19(e)(3), taking into account the different methods of calculating excesses of the limitations on increases in closing costs under \u00a7 1026.19(e)(3)(i) and (ii).",
+            "label":[
+                "1026",
+                "38",
+                "i",
+                "1",
+                "iii",
+                "A",
+                "3"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-2-a-25":{
         "text":[
             [
@@ -18429,6 +18419,13 @@
                     95,
                     "that would have resulted."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Net decreases."
             ]
         ],
         "op":"modified"
@@ -24796,18 +24793,24 @@
         },
         "op":"added"
     },
-    "1026-38-h-2":{
+    "1026-35-b-2-iii-Interp-1-iii-E-3":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(2) The sum of the amounts disclosed in paragraphs (f)(5) and (g)(6) of this section, designated borrower-paid at or before closing, and the sum of the costs designated seller-paid at or before closing or paid by others disclosed pursuant to paragraphs (f) and (g) of this section, labeled \u201cClosing Costs Subtotals.\u201d",
+            "text":"For calendar year 2015, the asset threshold was $2,060,000,000. Creditors that had total assets of less than $2,060,000,000 on December 31, 2014, satisfied this criterion for purposes of any loan consummated in 2015 and, if the creditor's assets together with the assets of its affiliates that regularly extended first-lien covered transactions during calendar year 2014 were less than that amount, for purposes of any loan consummated in 2016 for which the application was received before April 1, 2016.",
             "label":[
                 "1026",
-                "38",
-                "h",
-                "2"
+                "35",
+                "b",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii",
+                "E",
+                "3"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -25900,25 +25903,6 @@
         },
         "op":"added"
     },
-    "1026-38-g-1-iii-A-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(3) If the increase exceeds the limitations on increases in closing costs under \u00a7 1026.19(e)(3), a statement that such increase exceeds the legal limits by the dollar amount of the excess, and if any refund is provided pursuant to \u00a7 1026.19(f)(2)(v), a statement directing the consumer to the disclosure required under paragraph (h)(3) of this section. Such dollar amount shall equal the sum total of all excesses of the limitations on increases in closing costs under \u00a7 1026.19(e)(3), taking into account the different methods of calculating excesses of the limitations on increases in closing costs under \u00a7 1026.19(e)(3)(i) and (ii).",
-            "label":[
-                "1026",
-                "38",
-                "g",
-                "1",
-                "iii",
-                "A",
-                "3"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-37-h-2-iii":{
         "node":{
             "tagged_text":null,
@@ -26031,47 +26015,6 @@
             ]
         },
         "op":"added"
-    },
-    "1026-36-d-1-ii":{
-        "text":[
-            [
-                "insert",
-                5,
-                "The prohibition on payment and receipt of compensation under \u00a7 1026.36(d)(1)(i) encompasses compensation that directly or indirectly is based on the terms of a single transaction of a single individual loan originator, the terms of multiple transactions by that single individual loan originator, or the terms of multiple transactions by multiple individual loan originators. Compensation to an individual loan originator that is based upon profits determined with reference to a mortgage-related business is considered compensation that is based on the terms of multiple transactions by multiple individual loan originators. "
-            ],
-            [
-                [
-                    "delete",
-                    9,
-                    87
-                ],
-                [
-                    "insert",
-                    9,
-                    "clarification about the exceptions permitting compensation based upon profits determined with reference to mortgage-related business pursuant to either a designated tax-advantaged plan"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    91,
-                    481
-                ],
-                [
-                    "insert",
-                    91,
-                    "a non-deferred profits-based compensation plan, see comment 36(d)(1)-3. For clarification about \u201cmortgage-related business,\u201d see comments 36(d)(1)-3.v.B and -3.v.E."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Single of multiple transactions."
-            ]
-        ],
-        "op":"modified"
     },
     "1026-37-b-6-ii-Interp":{
         "node":{
@@ -26200,24 +26143,8 @@
         },
         "op":"added"
     },
-    "1026-37-c-4-ii-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Definition of taxes, insurance, and assessments.See the commentary under \u00a7 1026.43(b)(8) for guidance on the charges that are included in taxes, insurance, and assessments for purposes of \u00a7 1026.37(c)(4)(ii), except that the portion of that commentary related to amounts identified in \u00a7 1026.4(b)(5) is inapplicable to the disclosure required by \u00a7 1026.37(c)(4)(ii).",
-            "label":[
-                "1026",
-                "37",
-                "c",
-                "4",
-                "ii",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-60-b-15":{
+        "op":"deleted"
     },
     "1026-37-c-1-i-C-Interp-1":{
         "node":{
@@ -26579,7 +26506,19 @@
             [
                 "delete",
                 0,
-                44
+                28
+            ],
+            [
+                [
+                    "delete",
+                    38,
+                    44
+                ],
+                [
+                    "insert",
+                    38,
+                    "amount."
+                ]
             ]
         ],
         "op":"modified"
@@ -27997,26 +27936,6 @@
                 "r",
                 "Interp",
                 "4"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-61-a-4-Interp-1-iii-A":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"When there is insufficient or unavailable funds in the asset feature of the prepaid account at the time a transaction is initiated, the card can be used to draw, transfer, or authorize the draw or transfer of credit from a covered separate credit feature offered by the prepaid account issuer, its affiliate, or its business partner during the authorization phase to complete the transaction so that credit is not extended on the asset feature of the prepaid account. The card is a hybrid prepaid-credit card because it can be used to draw, transfer, or authorize the draw or transfer of credit from a separate credit feature in the circumstances set forth in \u00a7\u20091026.61(a)(2)(i).",
-            "label":[
-                "1026",
-                "61",
-                "a",
-                "4",
-                "Interp",
-                "1",
-                "iii",
-                "A"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -30439,6 +30358,25 @@
                 "1"
             ],
             "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-38-i-1-iii-A-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(2) If the difference in the \u201cTotal Closing Costs\u201d is attributable to differences in itemized charges that are included in either or both subtotals, a statement that the consumer should see the total loan costs and total other costs subtotals disclosed under paragraphs (f)(4) and (g)(5) of this section (together with references to such disclosures), as applicable; and",
+            "label":[
+                "1026",
+                "38",
+                "i",
+                "1",
+                "iii",
+                "A",
+                "2"
+            ],
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -38521,6 +38459,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "No increases in the CPI-W."
+            ]
+        ],
         "op":"modified"
     },
     "1026-61-a-4-Interp-1-i":{
@@ -39712,45 +39657,6 @@
         },
         "op":"added"
     },
-    "1026-52-a-1-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    15
-                ],
-                [
-                    "insert",
-                    0,
-                    "Application.Application The"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    36,
-                    51
-                ],
-                [
-                    "insert",
-                    36,
-                    "\u00a7\u20091026.52(a)(1)"
-                ]
-            ],
-            [
-                "insert",
-                282,
-                "account, including a prepaid "
-            ],
-            [
-                "insert",
-                290,
-                "as defined in \u00a7\u20091026.61, "
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-38-a-3-vii-A":{
         "node":{
             "tagged_text":null,
@@ -40801,6 +40707,13 @@
                     0,
                     "For purposes of \u00a7 1026.3(b), the threshold amount in effect during a particular period is the amount stated below for that period."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Threshold."
             ]
         ],
         "op":"modified"
@@ -42730,19 +42643,41 @@
         },
         "op":"added"
     },
-    "1026-5-a-1-ii-B":{
+    "1026-52-a-1-Interp-1":{
         "text":[
             [
                 [
                     "delete",
-                    204,
-                    217
+                    0,
+                    15
                 ],
                 [
                     "insert",
-                    204,
-                    "solicitationssolicitations"
+                    0,
+                    "Application.Application The"
                 ]
+            ],
+            [
+                [
+                    "delete",
+                    36,
+                    51
+                ],
+                [
+                    "insert",
+                    36,
+                    "\u00a7\u20091026.52(a)(1)"
+                ]
+            ],
+            [
+                "insert",
+                282,
+                "account, including a prepaid "
+            ],
+            [
+                "insert",
+                290,
+                "as defined in \u00a7\u20091026.61, "
             ]
         ],
         "op":"modified"
@@ -45259,6 +45194,22 @@
         },
         "op":"added"
     },
+    "1026-38-e-6":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(6) Closing costs financed.Labeled \u201cClosing Costs Financed (Paid from your Loan Amount),\u201d the sum of the amounts disclosed under paragraphs (e)(1)(ii) and (e)(4)(ii) of this section, but only to the extent that the sum is greater than zero and less than or equal to the sum disclosed under paragraph (h)(1) of this section minus the sum disclosed under paragraph (h)(2) of this section designated borrower-paid before closing.",
+            "label":[
+                "1026",
+                "38",
+                "e",
+                "6"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-H-28(F)-p16":{
         "node":{
             "tagged_text":null,
@@ -47610,28 +47561,6 @@
         },
         "op":"added"
     },
-    "1026-35-b-2-iii-Interp-1-iii-E-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"For calendar year 2015, the asset threshold was $2,060,000,000. Creditors that had total assets of less than $2,060,000,000 on December 31, 2014, satisfied this criterion for purposes of any loan consummated in 2015 and, if the creditor's assets together with the assets of its affiliates that regularly extended first-lien covered transactions during calendar year 2014 were less than that amount, for purposes of any loan consummated in 2016 for which the application was received before April 1, 2016.",
-            "label":[
-                "1026",
-                "35",
-                "b",
-                "2",
-                "iii",
-                "Interp",
-                "1",
-                "iii",
-                "E",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-61-a-4-ii-B-2-Interp":{
         "node":{
             "tagged_text":null,
@@ -49089,21 +49018,22 @@
         },
         "op":"added"
     },
-    "1026-38-g-1-iii-A-2":{
+    "1026-61-a-4-Interp-1-iii-A":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(2) If the difference in the \u201cTotal Closing Costs\u201d is attributable to differences in itemized charges that are included in either or both subtotals, a statement that the consumer should see the total loan costs and total other costs subtotals disclosed under paragraphs (f)(4) and (g)(5) of this section (together with references to such disclosures), as applicable; and",
+            "text":"When there is insufficient or unavailable funds in the asset feature of the prepaid account at the time a transaction is initiated, the card can be used to draw, transfer, or authorize the draw or transfer of credit from a covered separate credit feature offered by the prepaid account issuer, its affiliate, or its business partner during the authorization phase to complete the transaction so that credit is not extended on the asset feature of the prepaid account. The card is a hybrid prepaid-credit card because it can be used to draw, transfer, or authorize the draw or transfer of credit from a separate credit feature in the circumstances set forth in \u00a7\u20091026.61(a)(2)(i).",
             "label":[
                 "1026",
-                "38",
-                "g",
+                "61",
+                "a",
+                "4",
+                "Interp",
                 "1",
                 "iii",
-                "A",
-                "2"
+                "A"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -49886,8 +49816,24 @@
         },
         "op":"added"
     },
-    "1026-60-b-15":{
-        "op":"deleted"
+    "1026-37-c-4-ii-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Definition of taxes, insurance, and assessments.See the commentary under \u00a7 1026.43(b)(8) for guidance on the charges that are included in taxes, insurance, and assessments for purposes of \u00a7 1026.37(c)(4)(ii), except that the portion of that commentary related to amounts identified in \u00a7 1026.4(b)(5) is inapplicable to the disclosure required by \u00a7 1026.37(c)(4)(ii).",
+            "label":[
+                "1026",
+                "37",
+                "c",
+                "4",
+                "ii",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-38-d-1":{
         "node":{
@@ -49991,16 +49937,16 @@
         },
         "op":"added"
     },
-    "1026-38-e-6":{
+    "1026-38-h-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(6) Closing costs financed.Labeled \u201cClosing Costs Financed (Paid from your Loan Amount),\u201d the sum of the amounts disclosed under paragraphs (e)(1)(ii) and (e)(4)(ii) of this section, but only to the extent that the sum is greater than zero and less than or equal to the sum disclosed under paragraph (h)(1) of this section minus the sum disclosed under paragraph (h)(2) of this section designated borrower-paid before closing.",
+            "text":"(2) The sum of the amounts disclosed in paragraphs (f)(5) and (g)(6) of this section, designated borrower-paid at or before closing, and the sum of the costs designated seller-paid at or before closing or paid by others disclosed pursuant to paragraphs (f) and (g) of this section, labeled \u201cClosing Costs Subtotals.\u201d",
             "label":[
                 "1026",
                 "38",
-                "e",
-                "6"
+                "h",
+                "2"
             ],
             "node_type":"regtext",
             "child_labels":[]

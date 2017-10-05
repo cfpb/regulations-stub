@@ -32,6 +32,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "delete",
+                0,
+                26
+            ]
+        ],
         "op":"modified"
     },
     "1026-3-b-Interp-1":{
@@ -439,6 +446,13 @@
                     0,
                     "Closed-end credit.\n              "
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                10
             ]
         ],
         "op":"modified"
@@ -1095,22 +1109,24 @@
         },
         "op":"added"
     },
-    "1026-5-a-1-ii-B":{
-        "text":[
-            [
-                [
-                    "delete",
-                    204,
-                    230
-                ],
-                [
-                    "insert",
-                    204,
-                    "solicitations"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1026-3-b-Interp-2-i-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The creditor makes a firm written commitment at account opening to extend a total amount of credit in excess of the threshold amount in effect at the time the account is opened with no requirement of additional credit information for any advances on the account (except as permitted from time to time with respect to open-end accounts pursuant to \u00a7 1026.2(a)(20)).",
+            "label":[
+                "1026",
+                "3",
+                "b",
+                "Interp",
+                "2",
+                "i",
+                "B"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-60-b-8-Interp-4-ii-A":{
         "op":"deleted"
@@ -1436,8 +1452,24 @@
     "1026-61-a-5-iv-Interp-2":{
         "op":"deleted"
     },
-    "1026-4-b-11-ii-Interp-1-ii-C":{
-        "op":"deleted"
+    "1026-4-a-Interp-4-ii-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Fees imposed by a third party are included only if they are directly passed on to the consumer. For example, if a credit card network imposes a 1 percent fee on the card issuer, but the card issuer absorbs the fee as a cost of doing business (and only passes it on to consumers in the general sense that the interest and fees are imposed on all its customers to recover its costs), then the fee is not a foreign transaction fee and need not be disclosed. In another example, if the credit card network imposes a 1 percent fee for a foreign transaction on the card issuer, and the card issuer imposes this same fee on the consumer who engaged in the foreign transaction, then the fee is a foreign transaction fee and a finance charge.",
+            "label":[
+                "1026",
+                "4",
+                "a",
+                "Interp",
+                "4",
+                "ii",
+                "C"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-6-b-2-Interp-1":{
         "op":"deleted"
@@ -1640,7 +1672,19 @@
             [
                 "insert",
                 0,
-                "3(b) Credit Over Applicable Threshold Amount"
+                "3(b) Credit Over Applicable "
+            ],
+            [
+                [
+                    "delete",
+                    10,
+                    17
+                ],
+                [
+                    "insert",
+                    10,
+                    "Amount"
+                ]
             ]
         ],
         "op":"modified"
@@ -2338,75 +2382,8 @@
     "1026-12-a-1-Interp-7-i-B":{
         "op":"deleted"
     },
-    "1026-36-d-1-ii":{
-        "text":[
-            [
-                "insert",
-                5,
-                "For purposes of this paragraph (d)(1) only, a \u201cterm of a transaction\u201d is any right or obligation of the parties to a credit transaction. "
-            ],
-            [
-                [
-                    "delete",
-                    9,
-                    20
-                ],
-                [
-                    "insert",
-                    9,
-                    "amount of credit extended is not a term of a transaction or a proxy for a term of a transaction, provided that compensation received by or paid to a loan originator, directly or indirectly, is based"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    24,
-                    43
-                ],
-                [
-                    "insert",
-                    24,
-                    "a fixed percentage"
-                ]
-            ],
-            [
-                "insert",
-                47,
-                "the amount of credit extended; however, such "
-            ],
-            [
-                [
-                    "delete",
-                    60,
-                    123
-                ],
-                [
-                    "insert",
-                    60,
-                    "may be subject to a minimum"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    127,
-                    987
-                ],
-                [
-                    "insert",
-                    127,
-                    "maximum dollar amount."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                32
-            ]
-        ],
-        "op":"modified"
+    "1026-12-d-3-Interp-3-ii":{
+        "op":"deleted"
     },
     "1026-61-a-2-Interp-1-ii-B":{
         "op":"deleted"
@@ -2613,6 +2590,13 @@
                     89,
                     "terms of the account. See also comment 3(b)-4."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                14
             ]
         ],
         "op":"modified"
@@ -3770,6 +3754,9 @@
         },
         "op":"added"
     },
+    "1026-61-a-4-ii-B-2-Interp":{
+        "op":"deleted"
+    },
     "1026-61-a-4-ii-Interp":{
         "op":"deleted"
     },
@@ -3969,24 +3956,8 @@
         },
         "op":"added"
     },
-    "1026-4-a-Interp-4-ii-C":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Fees imposed by a third party are included only if they are directly passed on to the consumer. For example, if a credit card network imposes a 1 percent fee on the card issuer, but the card issuer absorbs the fee as a cost of doing business (and only passes it on to consumers in the general sense that the interest and fees are imposed on all its customers to recover its costs), then the fee is not a foreign transaction fee and need not be disclosed. In another example, if the credit card network imposes a 1 percent fee for a foreign transaction on the card issuer, and the card issuer imposes this same fee on the consumer who engaged in the foreign transaction, then the fee is a foreign transaction fee and a finance charge.",
-            "label":[
-                "1026",
-                "4",
-                "a",
-                "Interp",
-                "4",
-                "ii",
-                "C"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-4-b-11-ii-Interp-1-ii-C":{
+        "op":"deleted"
     },
     "1026-35-b-2-iii-Interp-1-i-A":{
         "op":"deleted"
@@ -4164,9 +4135,6 @@
         "op":"added"
     },
     "1026-61-a-1-Interp-4-i":{
-        "op":"deleted"
-    },
-    "1026-61-a-1-Interp-4-i-B":{
         "op":"deleted"
     },
     "1026-13-i-2":{
@@ -5048,9 +5016,6 @@
         ],
         "op":"modified"
     },
-    "1026-36-d-1-ii-B":{
-        "op":"deleted"
-    },
     "1026-52-a-2-Interp-1-v":{
         "node":{
             "tagged_text":null,
@@ -5069,9 +5034,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1026-36-d-1-ii-A":{
-        "op":"deleted"
     },
     "1026-3-b-Interp-2-i":{
         "text":[
@@ -5110,6 +5072,13 @@
                     55,
                     "met:"
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                14
             ]
         ],
         "op":"modified"
@@ -6485,7 +6454,7 @@
     "1026-61-a-5-iii-Interp-1":{
         "op":"deleted"
     },
-    "1026-61-a-4-ii-B-2-Interp":{
+    "1026-61-a-1-Interp-4-i-B":{
         "op":"deleted"
     },
     "1026-61-a-5-iii-Interp-2":{
@@ -6554,9 +6523,6 @@
         "op":"deleted"
     },
     "1026-35-b-2-iv-C-2":{
-        "op":"deleted"
-    },
-    "1026-12-d-3-Interp-3-ii":{
         "op":"deleted"
     },
     "1026-35-b-2-iv-Interp-1-ii":{
@@ -6867,25 +6833,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1026-3-b-Interp-2-i-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The creditor makes a firm written commitment at account opening to extend a total amount of credit in excess of the threshold amount in effect at the time the account is opened with no requirement of additional credit information for any advances on the account (except as permitted from time to time with respect to open-end accounts pursuant to \u00a7 1026.2(a)(20)).",
-            "label":[
-                "1026",
-                "3",
-                "b",
-                "Interp",
-                "2",
-                "i",
-                "B"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1026-61-a-4-ii-B-2-Interp-1-ii":{
         "op":"deleted"

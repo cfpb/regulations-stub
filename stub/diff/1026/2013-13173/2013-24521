@@ -783,76 +783,6 @@
         ],
         "op":"modified"
     },
-    "1026-43-c-3-Interp-6":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    12
-                ],
-                [
-                    "insert",
-                    0,
-                    "Section 1026.43(c)(3) does not require creditors to obtain additional records to verify the existence or amount"
-                ]
-            ],
-            [
-                "insert",
-                16,
-                "obligations shown on a consumer's credit report or listed on the consumer's application, absent circumstances described in comment 43(c)(3)-3. Under \u00a7 1026.43(c)(3)(iii), if a creditor relies on a consumer's credit report to verify a consumer's "
-            ],
-            [
-                [
-                    "delete",
-                    29,
-                    67
-                ],
-                [
-                    "insert",
-                    29,
-                    "obligations and the consumer's application lists a debt obligation"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    72,
-                    121
-                ],
-                [
-                    "insert",
-                    72,
-                    "shown on the credit report, the creditor may consider the existence and amount of the obligation as it is stated on the consumer's application. The creditor is not required to further"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    156,
-                    244
-                ],
-                [
-                    "insert",
-                    156,
-                    "the obligation,"
-                ]
-            ],
-            [
-                "delete",
-                298,
-                775
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Verification of current debt obligations."
-            ]
-        ],
-        "op":"modified"
-    },
     "1026-Q-h2-E-3-a-i":{
         "node":{
             "tagged_text":null,
@@ -3614,59 +3544,22 @@
         ],
         "op":"modified"
     },
-    "1026-41-e-4-iii-b":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(b) Reverse mortgage transactions.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "b"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-41-e-4-iii-c":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(c) Mortgage loans secured by consumers\u2019 interests in timeshare plans.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "c"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-41-e-4-iii-a":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(a) Mortgage loans voluntarily serviced by the servicer for a creditor or assignee that is not an affiliate of the servicer and for which the servicer does not receive any compensation or fees.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "a"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1026-Q-h2-C-1-p16":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    8
+                ],
+                [
+                    "insert",
+                    0,
+                    "Note: The"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-41-e-4-ii-Interp-2-ii":{
         "node":{
@@ -3823,19 +3716,72 @@
         },
         "op":"added"
     },
-    "1026-Q-h2-C-1-p16":{
+    "1026-43-c-3-Interp-6":{
         "text":[
             [
                 [
                     "delete",
                     0,
-                    8
+                    12
                 ],
                 [
                     "insert",
                     0,
-                    "Note: The"
+                    "Section 1026.43(c)(3) does not require creditors to obtain additional records to verify the existence or amount"
                 ]
+            ],
+            [
+                "insert",
+                16,
+                "obligations shown on a consumer's credit report or listed on the consumer's application, absent circumstances described in comment 43(c)(3)-3. Under \u00a7 1026.43(c)(3)(iii), if a creditor relies on a consumer's credit report to verify a consumer's "
+            ],
+            [
+                [
+                    "delete",
+                    29,
+                    67
+                ],
+                [
+                    "insert",
+                    29,
+                    "obligations and the consumer's application lists a debt obligation"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    72,
+                    121
+                ],
+                [
+                    "insert",
+                    72,
+                    "shown on the credit report, the creditor may consider the existence and amount of the obligation as it is stated on the consumer's application. The creditor is not required to further"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    156,
+                    244
+                ],
+                [
+                    "insert",
+                    156,
+                    "the obligation,"
+                ]
+            ],
+            [
+                "delete",
+                298,
+                775
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Verification of current debt obligations."
             ]
         ],
         "op":"modified"
@@ -3912,6 +3858,60 @@
                 "ii"
             ],
             "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-41-e-4-iii-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(B) Reverse mortgage transactions.",
+            "label":[
+                "1026",
+                "41",
+                "e",
+                "4",
+                "iii",
+                "B"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-41-e-4-iii-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(C) Mortgage loans secured by consumers\u2019 interests in timeshare plans.",
+            "label":[
+                "1026",
+                "41",
+                "e",
+                "4",
+                "iii",
+                "C"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-41-e-4-iii-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(A) Mortgage loans voluntarily serviced by the servicer for a creditor or assignee that is not an affiliate of the servicer and for which the servicer does not receive any compensation or fees.",
+            "label":[
+                "1026",
+                "41",
+                "e",
+                "4",
+                "iii",
+                "A"
+            ],
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"

@@ -865,46 +865,8 @@
         },
         "op":"added"
     },
-    "1026-36-c-1-ii":{
-        "text":[
-            [
-                [
-                    "delete",
-                    5,
-                    27
-                ],
-                [
-                    "insert",
-                    5,
-                    "Partial payments. Any servicer that retains a partial payment, meaning"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    32,
-                    40
-                ],
-                [
-                    "insert",
-                    32,
-                    "payment less than a periodic payment, in a suspense"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    44,
-                    342
-                ],
-                [
-                    "insert",
-                    44,
-                    "unapplied funds account shall:"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1026-Q-h1-B-p7":{
+        "op":"deleted"
     },
     "1026-H-Interp-7-i":{
         "text":[
@@ -1841,8 +1803,46 @@
         },
         "op":"added"
     },
-    "1026-Q-h1-B-p7":{
-        "op":"deleted"
+    "1026-36-c-1-ii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    5,
+                    27
+                ],
+                [
+                    "insert",
+                    5,
+                    "Partial payments. Any servicer that retains a partial payment, meaning"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    32,
+                    40
+                ],
+                [
+                    "insert",
+                    32,
+                    "payment less than a periodic payment, in a suspense"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    44,
+                    342
+                ],
+                [
+                    "insert",
+                    44,
+                    "unapplied funds account shall:"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1026-20-d-1-ii-Interp-2-iii":{
         "node":{
@@ -4670,9 +4670,9 @@
             ],
             "node_type":"regtext",
             "child_labels":[
-                "1026-41-e-4-iii-a",
-                "1026-41-e-4-iii-b",
-                "1026-41-e-4-iii-c"
+                "1026-41-e-4-iii-A",
+                "1026-41-e-4-iii-B",
+                "1026-41-e-4-iii-C"
             ]
         },
         "op":"added"
@@ -7401,60 +7401,6 @@
         ],
         "op":"modified"
     },
-    "1026-41-e-4-iii-b":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(b) Reverse mortgage transactions.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "b"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-41-e-4-iii-c":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(c) Mortgage loans secured by consumers\u2019 interests in timeshare plans.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "c"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-41-e-4-iii-a":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(a) Mortgage loans voluntarily serviced by the servicer for a creditor or assignee that is not an affiliate of the servicer and for which the servicer does not receive any compensation or fees.",
-            "label":[
-                "1026",
-                "41",
-                "e",
-                "4",
-                "iii",
-                "a"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-20-c-2-ii-Interp":{
         "node":{
             "tagged_text":null,
@@ -7621,6 +7567,60 @@
                 "d",
                 "3",
                 "i"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-41-e-4-iii-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(B) Reverse mortgage transactions.",
+            "label":[
+                "1026",
+                "41",
+                "e",
+                "4",
+                "iii",
+                "B"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-41-e-4-iii-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(C) Mortgage loans secured by consumers\u2019 interests in timeshare plans.",
+            "label":[
+                "1026",
+                "41",
+                "e",
+                "4",
+                "iii",
+                "C"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1026-41-e-4-iii-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(A) Mortgage loans voluntarily serviced by the servicer for a creditor or assignee that is not an affiliate of the servicer and for which the servicer does not receive any compensation or fees.",
+            "label":[
+                "1026",
+                "41",
+                "e",
+                "4",
+                "iii",
+                "A"
             ],
             "node_type":"regtext",
             "child_labels":[]
