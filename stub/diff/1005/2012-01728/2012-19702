@@ -53,22 +53,63 @@
         },
         "op":"added"
     },
-    "1005-36-a-1-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(i) Provide either the pre-payment disclosure described in \u00a7 1005.31(b)(1) and the receipt described in \u00a7 1005.31(b)(2) or the combined disclosure described in \u00a7 1005.31(b)(3), in accordance with the timing requirements set forth in \u00a7 1005.31(e); and",
-            "label":[
-                "1005",
-                "36",
-                "a",
-                "1",
-                "i"
+    "1005-32-Interp-1":{
+        "text":[
+            [
+                "insert",
+                41,
+                "Sections 1005.32(a) and (b)(1) permit estimates to be used in certain circumstances for disclosures described in \u00a7\u00a7 1005.31(b)(1) through (3) and 1005.36(a)(1) and(2). To the extent permitted in \u00a7 1005.32(a) and (b)(1), estimates may be used in the pre-payment disclosure described in \u00a7 1005.31(b)(1), the receipt disclosure described in \u00a7 1005.31(b)(2), the combined disclosure described in \u00a7 1005.31(b)(3), and the pre-payment disclosures and receipt disclosures for both first and subsequent preauthorized remittance transfers described in \u00a7 1005.36(a)(1) and (a)(2). "
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    49,
+                    84
+                ],
+                [
+                    "insert",
+                    49,
+                    "1005.32(b)(2) permits estimates"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    96,
+                    98
+                ],
+                [
+                    "insert",
+                    96,
+                    "for"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    107,
+                    543
+                ],
+                [
+                    "insert",
+                    107,
+                    "information if the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    555,
+                    602
+                ],
+                [
+                    "insert",
+                    555,
+                    "transfer is scheduled by a sender five or more business days before the date of the transfer, for disclosures described in \u00a7 1005.36(a)(1)(i) and (a)(2)(i)."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-A-34-p1":{
         "node":{
@@ -202,14 +243,28 @@
     "1005-A-32-p71":{
         "op":"deleted"
     },
-    "1005-A-32-p70":{
+    "1005-A-31-h2":{
         "op":"deleted"
     },
     "1005-A-32-p73":{
         "op":"deleted"
     },
-    "1005-A-32-p72":{
-        "op":"deleted"
+    "1005-36-a-1-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(i) Provide either the pre-payment disclosure described in \u00a7 1005.31(b)(1) and the receipt described in \u00a7 1005.31(b)(2) or the combined disclosure described in \u00a7 1005.31(b)(3), in accordance with the timing requirements set forth in \u00a7 1005.31(e); and",
+            "label":[
+                "1005",
+                "36",
+                "a",
+                "1",
+                "i"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-A-41-p1":{
         "node":{
@@ -246,8 +301,51 @@
         ],
         "op":"modified"
     },
-    "1005-A-34-h4":{
-        "op":"deleted"
+    "1005-32-b-1-ii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    5,
+                    8
+                ],
+                [
+                    "insert",
+                    5,
+                    "Safe harbor. A remittance transfer provider may rely on the list of countries published by the Bureau to determine whether estimates may be provided under paragraph (b)(1) of this section, unless the provider has information that a country's laws or the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    42,
+                    46
+                ],
+                [
+                    "insert",
+                    42,
+                    "conducted"
+                ]
+            ],
+            [
+                "insert",
+                50,
+                "that country permits a determination of "
+            ],
+            [
+                [
+                    "delete",
+                    54,
+                    107
+                ],
+                [
+                    "insert",
+                    54,
+                    "exact disclosure amount."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-A-32-p65":{
         "op":"deleted"
@@ -298,7 +396,7 @@
     "1005-A-34-h4-p85":{
         "op":"deleted"
     },
-    "1005-32-b-Interp-7-i":{
+    "1005-A-31-h2-p38":{
         "op":"deleted"
     },
     "1005-36-a-2-i":{
@@ -388,21 +486,19 @@
         ],
         "op":"modified"
     },
-    "1005-32-b-1-Interp-7-i":{
+    "1005-36-b-2-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"If the laws of a recipient country change such that a remittance transfer provider can determine exact amounts, the remittance transfer provider must begin providing exact amounts for the required disclosures as soon as reasonably practicable if the provider has information that the country legally permits the provider to determine exact disclosure amounts.",
+            "text":"(ii) To the extent estimates are permitted by \u00a7 1005.32.",
             "label":[
                 "1005",
-                "32",
+                "36",
                 "b",
-                "1",
-                "Interp",
-                "7",
-                "i"
+                "2",
+                "ii"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -429,25 +525,6 @@
     },
     "1005-A-32-p52":{
         "op":"deleted"
-    },
-    "1005-32-b-1-Interp-1-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Set by the government of the recipient country after the remittance transfer provider sends the remittance transfer or",
-            "label":[
-                "1005",
-                "32",
-                "b",
-                "1",
-                "Interp",
-                "1",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1005-A-40":{
         "node":{
@@ -502,7 +579,13 @@
     "1005-A-32-p54":{
         "op":"deleted"
     },
-    "1005-32-b-Interp-4-iii":{
+    "1005-A-36-p148-5":{
+        "op":"deleted"
+    },
+    "1005-A-34-h4-p89":{
+        "op":"deleted"
+    },
+    "1005-A-36-p145":{
         "op":"deleted"
     },
     "1005-A-32-p62":{
@@ -572,35 +655,44 @@
         },
         "op":"added"
     },
-    "1005-A-31-h2":{
-        "op":"deleted"
+    "1005-Subpart-A-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Supplement I to Part 1005\u2014Official Interpretations",
+            "text":"",
+            "label":[
+                "1005",
+                "Subpart",
+                "A",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-2-Interp",
+                "1005-3-Interp",
+                "1005-4-Interp",
+                "1005-5-Interp",
+                "1005-6-Interp",
+                "1005-7-Interp",
+                "1005-8-Interp",
+                "1005-9-Interp",
+                "1005-10-Interp",
+                "1005-11-Interp",
+                "1005-12-Interp",
+                "1005-13-Interp",
+                "1005-14-Interp",
+                "1005-17-Interp",
+                "1005-18-Interp",
+                "1005-20-Interp"
+            ]
+        },
+        "op":"added"
     },
     "1005-A-32-p68":{
         "op":"deleted"
     },
     "1005-A-32-p69":{
         "op":"deleted"
-    },
-    "1005-36-a-2-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"36(a)(2) Subsequent Preauthorized Remittance Transfers",
-            "text":"",
-            "label":[
-                "1005",
-                "36",
-                "a",
-                "2",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-36-a-2-Interp-1",
-                "1005-36-a-2-Interp-2",
-                "1005-36-a-2-Interp-3"
-            ]
-        },
-        "op":"added"
     },
     "1005-A-35-p136":{
         "op":"deleted"
@@ -742,39 +834,39 @@
         ],
         "op":"modified"
     },
-    "1005-A-30b":{
-        "node":{
-            "tagged_text":null,
-            "title":"A-30(b)\u2014Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(1))(",
-            "text":"",
-            "label":[
-                "1005",
-                "A",
-                "30b"
-            ],
-            "node_type":"appendix",
-            "child_labels":[
-                "1005-A-30b-p1"
-            ]
-        },
-        "op":"added"
+    "1005-A-37-p154":{
+        "op":"deleted"
     },
-    "1005-A-30c":{
-        "node":{
-            "tagged_text":null,
-            "title":"A-30(c)\u2014Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(1))",
-            "text":"",
-            "label":[
-                "1005",
-                "A",
-                "30c"
+    "1005-A-32-p70":{
+        "op":"deleted"
+    },
+    "1005-36-a-2":{
+        "text":[
+            [
+                "insert",
+                8,
+                "each "
             ],
-            "node_type":"appendix",
-            "child_labels":[
-                "1005-A-30c-p1"
+            [
+                [
+                    "delete",
+                    19,
+                    39
+                ],
+                [
+                    "insert",
+                    19,
+                    "preauthorized remittance transfer:"
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
+    },
+    "1005-32-b-Interp-4-iii":{
+        "op":"deleted"
+    },
+    "1005-A-36-p148-2":{
+        "op":"deleted"
     },
     "1005-36-a-1":{
         "text":[
@@ -905,29 +997,24 @@
         ],
         "op":"modified"
     },
-    "1005-36-a-2":{
-        "text":[
-            [
-                "insert",
-                8,
-                "each "
+    "1005-A-30b":{
+        "node":{
+            "tagged_text":null,
+            "title":"A-30(b)\u2014Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(1))(",
+            "text":"",
+            "label":[
+                "1005",
+                "A",
+                "30b"
             ],
-            [
-                [
-                    "delete",
-                    19,
-                    39
-                ],
-                [
-                    "insert",
-                    19,
-                    "preauthorized remittance transfer:"
-                ]
+            "node_type":"appendix",
+            "child_labels":[
+                "1005-A-30b-p1"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
-    "1005-A-33-h3":{
+    "1005-A-32-p72":{
         "op":"deleted"
     },
     "1005-A-38":{
@@ -946,6 +1033,9 @@
             ]
         },
         "op":"added"
+    },
+    "1005-A-33-p76":{
+        "op":"deleted"
     },
     "1005-36-d-2-ii":{
         "node":{
@@ -976,16 +1066,16 @@
     "1005-32-b-Interp-2":{
         "op":"deleted"
     },
-    "1005-A-34-p82":{
+    "1005-32-b-Interp-5":{
         "op":"deleted"
     },
     "1005-32-b-Interp-4":{
         "op":"deleted"
     },
-    "1005-A-34-p80":{
+    "1005-32-b-Interp-7":{
         "op":"deleted"
     },
-    "1005-A-34-p81":{
+    "1005-32-b-Interp-6":{
         "op":"deleted"
     },
     "1005-A-31-h2-p18":{
@@ -1115,7 +1205,7 @@
     "1005-A-33-p75":{
         "op":"deleted"
     },
-    "1005-A-33-p76":{
+    "1005-Interp":{
         "op":"deleted"
     },
     "1005-A-31-p1":{
@@ -1134,17 +1224,62 @@
         },
         "op":"added"
     },
-    "1005-A-36-p145":{
+    "1005-A-34-h4":{
         "op":"deleted"
     },
-    "1005-A-35-p138":{
-        "op":"deleted"
+    "1005-36-a-2-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Changes in disclosures. When a sender schedules a series of preauthorized remittance transfers, the provider is generally not required to provide a pre-payment disclosure prior to the date of each subsequent transfer. However, \u00a7 1005.36(a)(1)(i) requires the provider to provide a pre-payment disclosure and receipt for the first in the series of preauthorized remittance transfers in accordance with the timing requirements set forth in \u00a7 1005.31(e). While certain information in those disclosures is expressly permitted to be estimated (see \u00a7 1005.32(b)(2)), other information is not permitted to be estimated, or is limited in how it may be estimated. When any of the information on the most recent receipt provided pursuant to \u00a7 1005.36(a)(1)(i) or (a)(2)(i), other than the temporal disclosures required by \u00a7 1005.31(b)(2)(ii) and (b)(2)(vii), is no longer accurate with respect to a subsequent preauthorized remittance transfer for reasons other than as permitted by \u00a7 1005.32, the provider must provide, within a reasonable time prior to the scheduled date of the next preauthorized remittance transfer, a receipt that complies with \u00a7 1005.31(b)(2) and which discloses, among the other disclosures required by \u00a7 1005.31(b)(2), the changed terms. For example, if the provider discloses in the pre-payment disclosure for the first in the series of preauthorized remittance transfers that its fee for each remittance transfer is $20 and, after six preauthorized remittance transfers, the provider increases its fee to $30 (to the extent permitted by contract law), the provider must provide the sender a receipt that complies with \u00a7\u00a7 1005.31(b)(2) and 1005.36(b)(2) within a reasonable time prior to the seventh transfer. Barring a further change, this receipt will apply to transfers after the seventh transfer. Or, if, after the sixth transfer, a tax increases from 1.5% of the amount that will be transferred to the designated recipient to 2.0% of the amount that will be transferred to the designated recipient, the provider must provide the sender a receipt that complies with \u00a7\u00a7 1005.31(b)(2) and 1005.36(b)(2) within a reasonable time prior to the seventh transfer. In contrast, \u00a7 1005.36(a)(2)(i) does not require an updated receipt where an exchange rate, estimated as permitted by \u00a7 1005.32(b)(2), changes.",
+            "label":[
+                "1005",
+                "36",
+                "a",
+                "2",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
-    "1005-A-31-p8":{
-        "op":"deleted"
+    "1005-36-a-2-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Reasonable time. If a disclosure required by \u00a7 1005.36(a)(2)(i) or (d)(1) is mailed, the disclosure would be considered to be received by the sender five business days after it is posted in the mail. If hand delivered or provided electronically, the receipt would be considered to be received by the sender at the time of delivery. Thus, if the provider mails a disclosure required by \u00a7 1005.36(a)(2)(i) or (d)(1) not later than ten business days before the scheduled date of the transfer, or hand or electronically delivers a disclosure not later than five business days before the scheduled date of the transfer, the provider would be deemed to have provided the disclosure within a reasonable time prior to the scheduled date of the subsequent preauthorized remittance transfer.",
+            "label":[
+                "1005",
+                "36",
+                "a",
+                "2",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
-    "1005-A-31-p9":{
-        "op":"deleted"
+    "1005-36-a-2-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Clearly and conspicuously. In order to indicate clearly and conspicuously that the provider's fee has changed as required by \u00a7 1005.36(a)(2)(i), the provider could, for example, state on the receipt: \u201cTransfer Fees (UPDATED)  * * *  $30.\u201d To the extent that other figures on the receipt must be revised because of the new fee, the receipt should also indicate that those figures are updated.",
+            "label":[
+                "1005",
+                "36",
+                "a",
+                "2",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-31-a-5-iii":{
         "text":[
@@ -1200,18 +1335,24 @@
     "1005-A-35-p117":{
         "op":"deleted"
     },
-    "1005-A-32-b":{
+    "1005-A-36-p148-4":{
+        "op":"deleted"
+    },
+    "1005-32-b-1-Interp-1-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"![](ER22MY13.248)",
+            "text":"Set by the government of the recipient country after the remittance transfer provider sends the remittance transfer or",
             "label":[
                 "1005",
-                "A",
                 "32",
-                "b"
+                "b",
+                "1",
+                "Interp",
+                "1",
+                "i"
             ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -1233,64 +1374,6 @@
         },
         "op":"added"
     },
-    "1005-32-Interp-1":{
-        "text":[
-            [
-                "insert",
-                41,
-                "Sections 1005.32(a) and (b)(1) permit estimates to be used in certain circumstances for disclosures described in \u00a7\u00a7 1005.31(b)(1) through (3) and 1005.36(a)(1) and(2). To the extent permitted in \u00a7 1005.32(a) and (b)(1), estimates may be used in the pre-payment disclosure described in \u00a7 1005.31(b)(1), the receipt disclosure described in \u00a7 1005.31(b)(2), the combined disclosure described in \u00a7 1005.31(b)(3), and the pre-payment disclosures and receipt disclosures for both first and subsequent preauthorized remittance transfers described in \u00a7 1005.36(a)(1) and (a)(2). "
-            ],
-            [
-                [
-                    "delete",
-                    49,
-                    84
-                ],
-                [
-                    "insert",
-                    49,
-                    "1005.32(b)(2) permits estimates"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    96,
-                    98
-                ],
-                [
-                    "insert",
-                    96,
-                    "for"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    107,
-                    543
-                ],
-                [
-                    "insert",
-                    107,
-                    "information if the"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    555,
-                    602
-                ],
-                [
-                    "insert",
-                    555,
-                    "transfer is scheduled by a sender five or more business days before the date of the transfer, for disclosures described in \u00a7 1005.36(a)(1)(i) and (a)(2)(i)."
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1005-A-32-a":{
         "node":{
             "tagged_text":null,
@@ -1307,26 +1390,27 @@
         },
         "op":"added"
     },
-    "1005-32-b-Interp-7":{
-        "op":"deleted"
-    },
-    "1005-31-b-2-Interp-6":{
+    "1005-32-b-1-Interp-7-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Cancellation disclosure. Remittance transfer providers that offer remittance transfers scheduled three or more business days before the date of the transfer, as well as remittance transfers scheduled fewer than three business days before the date of the transfer, may meet the cancellation disclosure requirements in \u00a7 1005.31(b)(2)(iv) by describing the three-business-day and 30-minute cancellation periods on the same disclosure and using a checkbox or other method to clearly designate the applicable cancellation period. The provider may use a number of methods to indicate which cancellation period applies to the transaction including, but not limited to, a statement to that effect, use of a checkbox, highlighting, circling, and the like. For transfers scheduled three business days before the date of the transfer, the cancellation disclosures provided pursuant to \u00a7 1005.31(b)(2)(iv) should be phrased and formatted in such a way that it is clear to the sender which cancellation period is applicable to the date of transfer disclosed on the receipt.",
+            "text":"If the laws of a recipient country change such that a remittance transfer provider can determine exact amounts, the remittance transfer provider must begin providing exact amounts for the required disclosures as soon as reasonably practicable if the provider has information that the country legally permits the provider to determine exact disclosure amounts.",
             "label":[
                 "1005",
-                "31",
+                "32",
                 "b",
-                "2",
+                "1",
                 "Interp",
-                "6"
+                "7",
+                "i"
             ],
             "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1005-A-33-h3":{
+        "op":"deleted"
     },
     "1005-36-a-2-iii":{
         "node":{
@@ -1344,9 +1428,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1005-32-b-Interp-1-i":{
-        "op":"deleted"
     },
     "1005-A-35-p137":{
         "op":"deleted"
@@ -1417,24 +1498,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1005-30-f-Interp-2-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Safe harbor. Under \u00a7 1005.30(f)(2)(i), a person that provided 100 or fewer remittance transfers in the previous calendar year and provides 100 or fewer remittance transfers in the current calendar year is deemed not to be providing remittance transfers in the normal course of its business. Accordingly, a person that qualifies for the safe harbor in \u00a7 1005.30(f)(2)(i) is not a \u201cremittance transfer provider\u201d and is not subject to the requirements of subpart B. For purposes of determining whether a person qualifies for the safe harbor under \u00a7 1005.30(f)(2)(i), the number of remittance transfers provided includes any transfers excluded from the definition of \u201cremittance transfer\u201d due simply to the safe harbor. In contrast, the number of remittance transfers provided does not include any transfers that are excluded from the definition of \u201cremittance transfer\u201d for reasons other than the safe harbor, such as small value transactions or securities and commodities transfers that are excluded from the definition of \u201cremittance transfer\u201d by \u00a7 1005.30(e)(2).",
-            "label":[
-                "1005",
-                "30",
-                "f",
-                "Interp",
-                "2",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1005-A-31-h2-p15":{
         "op":"deleted"
@@ -1525,8 +1588,22 @@
     "1005-A-32-p43":{
         "op":"deleted"
     },
-    "1005-A-32-p44":{
-        "op":"deleted"
+    "1005-Appendices-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Interpretations for Appendices",
+            "text":"",
+            "label":[
+                "1005",
+                "Appendices",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-A-Interp"
+            ]
+        },
+        "op":"added"
     },
     "1005-A-32-p45":{
         "op":"deleted"
@@ -1572,24 +1649,8 @@
         ],
         "op":"modified"
     },
-    "1005-32-b-1-Interp-4-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"In contrast, a remittance transfer provider would not qualify for the \u00a7 1005.32(b)(1)(i)(B) methods exception if it sends a remittance transfer via international ACH on terms negotiated between the United States government and a private-sector entity or entities in the recipient country, under which the exchange rate is set by the institution acting as the entry point to the recipient country's payments system on the next business day. However, a remittance transfer provider sending a remittance transfer using such a method may qualify for the \u00a7 1005.32(a) temporary exception.",
-            "label":[
-                "1005",
-                "32",
-                "b",
-                "1",
-                "Interp",
-                "4",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1005-A-34-h4-p109":{
+        "op":"deleted"
     },
     "1005-A-36-p1":{
         "node":{
@@ -1630,11 +1691,26 @@
         ],
         "op":"modified"
     },
-    "1005-A-34-h4-p110":{
+    "1005-A-34-p82":{
         "op":"deleted"
     },
-    "1005-32-b-Interp-4-ii":{
-        "op":"deleted"
+    "1005-32-b-1-i-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(B) The method by which transactions are made in the recipient country does not permit such determination.",
+            "label":[
+                "1005",
+                "32",
+                "b",
+                "1",
+                "i",
+                "B"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-32-b-1-Interp-4-iii":{
         "node":{
@@ -1688,27 +1764,27 @@
         },
         "op":"added"
     },
-    "1005-A-37-p1":{
+    "1005-A-34-p80":{
+        "op":"deleted"
+    },
+    "1005-A-35-p131":{
+        "op":"deleted"
+    },
+    "1005-A-32-b":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"![](ER22MY13.253)",
+            "text":"![](ER22MY13.248)",
             "label":[
                 "1005",
                 "A",
-                "37",
-                "p1"
+                "32",
+                "b"
             ],
             "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1005-A-35-p131":{
-        "op":"deleted"
-    },
-    "1005-32-b-Interp-6":{
-        "op":"deleted"
     },
     "1005-32-b-Interp-2-ii":{
         "op":"deleted"
@@ -1718,6 +1794,24 @@
     },
     "1005-A-35-p130":{
         "op":"deleted"
+    },
+    "1005-32-b-2-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Fixed amount of foreign currency. The following is an example of when and how a remittance transfer provider may disclose estimates for remittance transfers scheduled five or more business days before the date of transfer where the provider agrees to the sender's request to fix the amount to be transferred in a currency in which the transfer will be received and not the currency in which it was funded. If on February 1, a sender schedules a 1000 Euro wire transfer to be sent from the sender's bank account denominated in U.S. dollars to a designated recipient on February 15, \u00a7 1005.32(b)(2) allows the provider to estimate the amount that will be transferred to the designated recipient (i.e., the amount described in \u00a7 1005.31(b)(1)(i)), any fees and taxes imposed on the remittance transfer by the provider (if based on the amount transferred) (i.e., the amount described in \u00a7 1005.31(b)(1)(ii)), and the total amount of the transaction (i.e., the amount described in \u00a7 1005.31(b)(1)(iii)). The provider may also estimate any fees and taxes imposed on the remittance transfer by a person other than the provider if the exchange rate is also estimated and the estimated exchange rate affects the amount of fees and taxes (as allowed by \u00a7 1005.32(b)(2)(ii)).",
+            "label":[
+                "1005",
+                "32",
+                "b",
+                "2",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-32-b-2-Interp-2":{
         "node":{
@@ -1737,53 +1831,10 @@
         },
         "op":"added"
     },
-    "1005-32-b-1-ii":{
-        "text":[
-            [
-                [
-                    "delete",
-                    5,
-                    8
-                ],
-                [
-                    "insert",
-                    5,
-                    "Safe harbor. A remittance transfer provider may rely on the list of countries published by the Bureau to determine whether estimates may be provided under paragraph (b)(1) of this section, unless the provider has information that a country's laws or the"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    42,
-                    46
-                ],
-                [
-                    "insert",
-                    42,
-                    "conducted"
-                ]
-            ],
-            [
-                "insert",
-                50,
-                "that country permits a determination of "
-            ],
-            [
-                [
-                    "delete",
-                    54,
-                    107
-                ],
-                [
-                    "insert",
-                    54,
-                    "exact disclosure amount."
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1005-32-b-Interp-1-i":{
+        "op":"deleted"
     },
-    "1005-A-31-h2-p38":{
+    "1005-32-b-Interp-7-i":{
         "op":"deleted"
     },
     "1005-A-31-h2-p39":{
@@ -1863,24 +1914,6 @@
         },
         "op":"added"
     },
-    "1005-30-f-Interp-2-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Transition period. A person may cease to satisfy the requirements of the safe harbor described in \u00a7 1005.30(f)(2)(i) if the person provides in excess of 100 remittance transfers in a calendar year. For example, if a person that provided 100 or fewer remittance transfers in the previous calendar year provides more than 100 remittance transfers in the current calendar year, the safe harbor applies to the first 100 remittance transfers that the person provides in the current calendar year. For any additional remittance transfers provided in the current calendar year and for any remittance transfers provided in the subsequent calendar year, whether the person provides remittance transfers for a consumer in the normal course of its business, as defined in \u00a7 1005.30(f)(1), and is thus a remittance transfer provider for those additional transfers, depends on the facts and circumstances. Section 1005.30(f)(2)(ii) provides a reasonable period of time, not to exceed six months, for such a person to begin complying with subpart B, if that person is then providing remittance transfers in the normal course of its business. At the end of that reasonable period of time, such person would be required to comply with subpart B unless, based on the facts and circumstances, the person is not a remittance transfer provider.",
-            "label":[
-                "1005",
-                "30",
-                "f",
-                "Interp",
-                "2",
-                "iii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-32-b-Interp":{
         "title":[
             [
@@ -1904,8 +1937,24 @@
     "1005-A-34-h4-p108":{
         "op":"deleted"
     },
-    "1005-A-34-h4-p109":{
-        "op":"deleted"
+    "1005-32-b-1-Interp-4-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"In contrast, a remittance transfer provider would not qualify for the \u00a7 1005.32(b)(1)(i)(B) methods exception if it sends a remittance transfer via international ACH on terms negotiated between the United States government and a private-sector entity or entities in the recipient country, under which the exchange rate is set by the institution acting as the entry point to the recipient country's payments system on the next business day. However, a remittance transfer provider sending a remittance transfer using such a method may qualify for the \u00a7 1005.32(a) temporary exception.",
+            "label":[
+                "1005",
+                "32",
+                "b",
+                "1",
+                "Interp",
+                "4",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-32-b-1-i-A":{
         "node":{
@@ -1928,23 +1977,8 @@
     "1005-A-32-p59":{
         "op":"deleted"
     },
-    "1005-32-b-1-i-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(B) The method by which transactions are made in the recipient country does not permit such determination.",
-            "label":[
-                "1005",
-                "32",
-                "b",
-                "1",
-                "i",
-                "B"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1005-32-b-Interp-4-ii":{
+        "op":"deleted"
     },
     "1005-A-34-h4-p102":{
         "op":"deleted"
@@ -2021,7 +2055,7 @@
     "1005-A-32-p55":{
         "op":"deleted"
     },
-    "1005-A-35-p121":{
+    "1005-A-34-h4-p88":{
         "op":"deleted"
     },
     "1005-A-35-p120":{
@@ -2045,8 +2079,27 @@
         },
         "op":"added"
     },
-    "1005-A-37-p154":{
-        "op":"deleted"
+    "1005-32-b-1-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Example illustrating when exact amounts can and cannot be determined because of the method by which transactions are made in the recipient country.",
+            "label":[
+                "1005",
+                "32",
+                "b",
+                "1",
+                "Interp",
+                "4"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-32-b-1-Interp-4-i",
+                "1005-32-b-1-Interp-4-ii",
+                "1005-32-b-1-Interp-4-iii"
+            ]
+        },
+        "op":"added"
     },
     "1005-32-b-1-Interp-7":{
         "node":{
@@ -2069,40 +2122,60 @@
         },
         "op":"added"
     },
-    "1005-A-39-b":{
+    "1005-32-b-1-Interp-6":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"![](ER22MY13.256)",
+            "text":"Reliance on Bureau list of countries. A remittance transfer provider may rely on the list of countries published by the Bureau to determine whether the laws of a recipient country do not permit the remittance transfer provider to determine exact amounts required to be disclosed under \u00a7 1005.31(b)(1)(iv) through (vii). Thus, if a country is on the Bureau's list, the provider may give estimates under this section, unless a remittance transfer provider has information that a country on the Bureau's list legally permits the provider to determine exact disclosure amounts.",
             "label":[
                 "1005",
-                "A",
-                "39",
-                "b"
+                "32",
+                "b",
+                "1",
+                "Interp",
+                "6"
             ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
     },
-    "1005-A-34-h4-p88":{
-        "op":"deleted"
-    },
-    "1005-32-d-Interp":{
+    "1005-32-b-1-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"32(d) Bases for Estimates for Transfers Scheduled Before the Date of Transfer",
-            "text":"",
+            "title":null,
+            "text":"Laws of the recipient country. The laws of the recipient country do not permit a remittance transfer provider to determine exact amounts required to be disclosed when a law or regulation of the recipient country requires the person making funds directly available to the designated recipient to apply an exchange rate that is:",
             "label":[
                 "1005",
                 "32",
-                "d",
-                "Interp"
+                "b",
+                "1",
+                "Interp",
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1005-32-d-Interp-1"
+                "1005-32-b-1-Interp-1-i",
+                "1005-32-b-1-Interp-1-ii"
             ]
+        },
+        "op":"added"
+    },
+    "1005-32-b-1-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Method by which transactions are made in the recipient country. The method by which transactions are made in the recipient country does not permit a remittance transfer provider to determine exact amounts required to be disclosed when transactions are sent via international ACH on terms negotiated between the United States government and the recipient country's government, under which the exchange rate is a rate set by the recipient country's central bank or other governmental authority after the provider sends the remittance transfer.",
+            "label":[
+                "1005",
+                "32",
+                "b",
+                "1",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -2136,14 +2209,29 @@
     "1005-A-36-p148-3":{
         "op":"deleted"
     },
-    "1005-A-36-p148-2":{
+    "1005-A-35-p124":{
         "op":"deleted"
     },
-    "1005-A-36-p148-5":{
+    "1005-32-b-Interp-1-ii":{
         "op":"deleted"
     },
-    "1005-A-36-p148-4":{
-        "op":"deleted"
+    "1005-30-f-Interp-2-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Transition period. A person may cease to satisfy the requirements of the safe harbor described in \u00a7 1005.30(f)(2)(i) if the person provides in excess of 100 remittance transfers in a calendar year. For example, if a person that provided 100 or fewer remittance transfers in the previous calendar year provides more than 100 remittance transfers in the current calendar year, the safe harbor applies to the first 100 remittance transfers that the person provides in the current calendar year. For any additional remittance transfers provided in the current calendar year and for any remittance transfers provided in the subsequent calendar year, whether the person provides remittance transfers for a consumer in the normal course of its business, as defined in \u00a7 1005.30(f)(1), and is thus a remittance transfer provider for those additional transfers, depends on the facts and circumstances. Section 1005.30(f)(2)(ii) provides a reasonable period of time, not to exceed six months, for such a person to begin complying with subpart B, if that person is then providing remittance transfers in the normal course of its business. At the end of that reasonable period of time, such person would be required to comply with subpart B unless, based on the facts and circumstances, the person is not a remittance transfer provider.",
+            "label":[
+                "1005",
+                "30",
+                "f",
+                "Interp",
+                "2",
+                "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-A-30b-p1":{
         "node":{
@@ -2173,8 +2261,21 @@
     "1005-A-31-h2-p22":{
         "op":"deleted"
     },
-    "1005-A-31-h2-p25":{
-        "op":"deleted"
+    "1005-A-39-b":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"![](ER22MY13.256)",
+            "label":[
+                "1005",
+                "A",
+                "39",
+                "b"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-A-31-h2-p24":{
         "op":"deleted"
@@ -2285,6 +2386,9 @@
         },
         "op":"added"
     },
+    "1005-A-34-p81":{
+        "op":"deleted"
+    },
     "1005-32-b-1-Interp-7-ii":{
         "node":{
             "tagged_text":null,
@@ -2361,6 +2465,9 @@
     "1005-A-33-p77":{
         "op":"deleted"
     },
+    "1005-A-35-p121":{
+        "op":"deleted"
+    },
     "1005-36-d-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -2375,6 +2482,26 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-A-32-p48":{
+        "op":"deleted"
+    },
+    "1005-A-30c":{
+        "node":{
+            "tagged_text":null,
+            "title":"A-30(c)\u2014Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(1))",
+            "text":"",
+            "label":[
+                "1005",
+                "A",
+                "30c"
+            ],
+            "node_type":"appendix",
+            "child_labels":[
+                "1005-A-30c-p1"
+            ]
         },
         "op":"added"
     },
@@ -2410,31 +2537,6 @@
         ],
         "op":"modified"
     },
-    "1005-32-b-Interp-5":{
-        "op":"deleted"
-    },
-    "1005-32-b-1-Interp-4":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Example illustrating when exact amounts can and cannot be determined because of the method by which transactions are made in the recipient country.",
-            "label":[
-                "1005",
-                "32",
-                "b",
-                "1",
-                "Interp",
-                "4"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-32-b-1-Interp-4-i",
-                "1005-32-b-1-Interp-4-ii",
-                "1005-32-b-1-Interp-4-iii"
-            ]
-        },
-        "op":"added"
-    },
     "1005-A-30c-p1":{
         "node":{
             "tagged_text":null,
@@ -2451,139 +2553,43 @@
         },
         "op":"added"
     },
-    "1005-30-f-Interp-2-iv":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Example of safe harbor and transition period. Assume that a person provided 90 remittance transfers in 2012 and 90 such transfers in 2013. The safe harbor will apply to the person's transfers in 2013, as well as the person's first 100 remittance transfers in 2014. However, if the person provides a 101st transfer on September 5, the facts and circumstances determine whether the person provides remittance transfers in the normal course of business and is thus a remittance transfer provider for the 101st and any subsequent remittance transfers that it provides in 2014. Furthermore, the person would not qualify for the safe harbor described in \u00a7 1005.30(f)(2)(i) in 2015 because the person did not provide 100 or fewer remittance transfers in 2014. However, for the 101st remittance transfer provided in 2014, as well as additional remittance transfers provided thereafter in 2014 and 2015, if that person is then providing remittance transfers for a consumer in the normal course of business, the person will have a reasonable period of time, not to exceed six months, to come into compliance with subpart B. Assume that in this case, a reasonable period of time is six months. Thus, compliance with subpart B is not required for remittance transfers made on or before March 5, 2015 (i.e., six months after September 5, 2014). After March 5, 2015, the person is required to comply with subpart B if, based on the facts and circumstances, the person provides remittance transfers in the normal course of business and is thus a remittance transfer provider.",
-            "label":[
-                "1005",
-                "30",
-                "f",
-                "Interp",
-                "2",
-                "iv"
+    "1005-32-b-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    122
+                ],
+                [
+                    "insert",
+                    4,
+                    "Permanent exception"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    148,
+                    405
+                ],
+                [
+                    "insert",
+                    148,
+                    "countries."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-A-33-h3-p78":{
         "op":"deleted"
     },
-    "1005-32-b-2-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Fixed amount of foreign currency. The following is an example of when and how a remittance transfer provider may disclose estimates for remittance transfers scheduled five or more business days before the date of transfer where the provider agrees to the sender's request to fix the amount to be transferred in a currency in which the transfer will be received and not the currency in which it was funded. If on February 1, a sender schedules a 1000 Euro wire transfer to be sent from the sender's bank account denominated in U.S. dollars to a designated recipient on February 15, \u00a7 1005.32(b)(2) allows the provider to estimate the amount that will be transferred to the designated recipient (i.e., the amount described in \u00a7 1005.31(b)(1)(i)), any fees and taxes imposed on the remittance transfer by the provider (if based on the amount transferred) (i.e., the amount described in \u00a7 1005.31(b)(1)(ii)), and the total amount of the transaction (i.e., the amount described in \u00a7 1005.31(b)(1)(iii)). The provider may also estimate any fees and taxes imposed on the remittance transfer by a person other than the provider if the exchange rate is also estimated and the estimated exchange rate affects the amount of fees and taxes (as allowed by \u00a7 1005.32(b)(2)(ii)).",
-            "label":[
-                "1005",
-                "32",
-                "b",
-                "2",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1005-A-34-h4-p110":{
+        "op":"deleted"
     },
-    "1005-36-a-2-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Changes in disclosures. When a sender schedules a series of preauthorized remittance transfers, the provider is generally not required to provide a pre-payment disclosure prior to the date of each subsequent transfer. However, \u00a7 1005.36(a)(1)(i) requires the provider to provide a pre-payment disclosure and receipt for the first in the series of preauthorized remittance transfers in accordance with the timing requirements set forth in \u00a7 1005.31(e). While certain information in those disclosures is expressly permitted to be estimated (see \u00a7 1005.32(b)(2)), other information is not permitted to be estimated, or is limited in how it may be estimated. When any of the information on the most recent receipt provided pursuant to \u00a7 1005.36(a)(1)(i) or (a)(2)(i), other than the temporal disclosures required by \u00a7 1005.31(b)(2)(ii) and (b)(2)(vii), is no longer accurate with respect to a subsequent preauthorized remittance transfer for reasons other than as permitted by \u00a7 1005.32, the provider must provide, within a reasonable time prior to the scheduled date of the next preauthorized remittance transfer, a receipt that complies with \u00a7 1005.31(b)(2) and which discloses, among the other disclosures required by \u00a7 1005.31(b)(2), the changed terms. For example, if the provider discloses in the pre-payment disclosure for the first in the series of preauthorized remittance transfers that its fee for each remittance transfer is $20 and, after six preauthorized remittance transfers, the provider increases its fee to $30 (to the extent permitted by contract law), the provider must provide the sender a receipt that complies with \u00a7\u00a7 1005.31(b)(2) and 1005.36(b)(2) within a reasonable time prior to the seventh transfer. Barring a further change, this receipt will apply to transfers after the seventh transfer. Or, if, after the sixth transfer, a tax increases from 1.5% of the amount that will be transferred to the designated recipient to 2.0% of the amount that will be transferred to the designated recipient, the provider must provide the sender a receipt that complies with \u00a7\u00a7 1005.31(b)(2) and 1005.36(b)(2) within a reasonable time prior to the seventh transfer. In contrast, \u00a7 1005.36(a)(2)(i) does not require an updated receipt where an exchange rate, estimated as permitted by \u00a7 1005.32(b)(2), changes.",
-            "label":[
-                "1005",
-                "36",
-                "a",
-                "2",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-32-b-1-Interp-6":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Reliance on Bureau list of countries. A remittance transfer provider may rely on the list of countries published by the Bureau to determine whether the laws of a recipient country do not permit the remittance transfer provider to determine exact amounts required to be disclosed under \u00a7 1005.31(b)(1)(iv) through (vii). Thus, if a country is on the Bureau's list, the provider may give estimates under this section, unless a remittance transfer provider has information that a country on the Bureau's list legally permits the provider to determine exact disclosure amounts.",
-            "label":[
-                "1005",
-                "32",
-                "b",
-                "1",
-                "Interp",
-                "6"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-36-b-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"36(b) Accuracy",
-            "text":"",
-            "label":[
-                "1005",
-                "36",
-                "b",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-36-b-Interp-1",
-                "1005-36-b-Interp-2",
-                "1005-36-b-Interp-3"
-            ]
-        },
-        "op":"added"
-    },
-    "1005-32-b-1-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Laws of the recipient country. The laws of the recipient country do not permit a remittance transfer provider to determine exact amounts required to be disclosed when a law or regulation of the recipient country requires the person making funds directly available to the designated recipient to apply an exchange rate that is:",
-            "label":[
-                "1005",
-                "32",
-                "b",
-                "1",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-32-b-1-Interp-1-i",
-                "1005-32-b-1-Interp-1-ii"
-            ]
-        },
-        "op":"added"
-    },
-    "1005-36-a-2-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Reasonable time. If a disclosure required by \u00a7 1005.36(a)(2)(i) or (d)(1) is mailed, the disclosure would be considered to be received by the sender five business days after it is posted in the mail. If hand delivered or provided electronically, the receipt would be considered to be received by the sender at the time of delivery. Thus, if the provider mails a disclosure required by \u00a7 1005.36(a)(2)(i) or (d)(1) not later than ten business days before the scheduled date of the transfer, or hand or electronically delivers a disclosure not later than five business days before the scheduled date of the transfer, the provider would be deemed to have provided the disclosure within a reasonable time prior to the scheduled date of the subsequent preauthorized remittance transfer.",
-            "label":[
-                "1005",
-                "36",
-                "a",
-                "2",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1005-A-31-p8":{
+        "op":"deleted"
     },
     "1005-A-34-p79":{
         "op":"deleted"
@@ -2594,23 +2600,11 @@
     "1005-A-31-p11":{
         "op":"deleted"
     },
-    "1005-36-a-2-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Clearly and conspicuously. In order to indicate clearly and conspicuously that the provider's fee has changed as required by \u00a7 1005.36(a)(2)(i), the provider could, for example, state on the receipt: \u201cTransfer Fees (UPDATED)  * * *  $30.\u201d To the extent that other figures on the receipt must be revised because of the new fee, the receipt should also indicate that those figures are updated.",
-            "label":[
-                "1005",
-                "36",
-                "a",
-                "2",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1005-A-32-p61":{
+        "op":"deleted"
+    },
+    "1005-A-31-p9":{
+        "op":"deleted"
     },
     "1005-36-b-Interp-1":{
         "node":{
@@ -2629,20 +2623,21 @@
         },
         "op":"added"
     },
-    "1005-36-b-2-ii":{
+    "1005-32-d-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(ii) To the extent estimates are permitted by \u00a7 1005.32.",
+            "title":"32(d) Bases for Estimates for Transfers Scheduled Before the Date of Transfer",
+            "text":"",
             "label":[
                 "1005",
-                "36",
-                "b",
-                "2",
-                "ii"
+                "32",
+                "d",
+                "Interp"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1005-32-d-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -2663,19 +2658,19 @@
         },
         "op":"added"
     },
-    "1005-32-b-2-i":{
+    "1005-36-b-Interp-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) Except as provided in paragraph (b)(2)(ii) of this section, for disclosures described in \u00a7\u00a7 1005.36(a)(1)(i) and (a)(2)(i), estimates may be provided in accordance with paragraph (d) of this section for the amounts to be disclosed under \u00a7\u00a7 1005.31(b)(1)(iv) through (vii) if the remittance transfer is scheduled by a sender five or more business days before the date of the transfer. In addition, if, at the time the sender schedules such a transfer, the provider agrees to a sender's request to fix the amount to be transferred in the currency in which the remittance transfer will be received and not the currency in which it is funded, estimates may also be provided for the amounts to be disclosed under \u00a7\u00a7 1005.31(b)(1)(i) through (iii), except as provided in paragraph (b)(2)(iii) of this section.",
+            "text":"Subsequent preauthorized remittance transfers. For a subsequent transfer in a series of preauthorized remittance transfers, the receipt provided pursuant to \u00a7 1005.36(a)(1)(i), except for the temporal disclosures in that receipt required by \u00a7 1005.31(b)(2)(ii) (Date Available) and (b)(2)(vii) (Transfer Date), applies to each subsequent preauthorized remittance transfer unless and until it is superseded by a receipt provided pursuant to \u00a7 1005.36(a)(2)(i). For each subsequent preauthorized remittance transfer, only the most recent receipt provided pursuant to \u00a7 1005.36(a)(1)(i) or (a)(2)(i) must be accurate as of the date each subsequent transfer is made.",
             "label":[
                 "1005",
-                "32",
+                "36",
                 "b",
-                "2",
-                "i"
+                "Interp",
+                "2"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -2734,8 +2729,32 @@
         },
         "op":"added"
     },
-    "1005-A-32-p48":{
+    "1005-A-35-p138":{
         "op":"deleted"
+    },
+    "1005-Subpart-B-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Interpretations for Subpart B - Requirements for Remittance Transfers",
+            "text":"",
+            "label":[
+                "1005",
+                "Subpart",
+                "B",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-30-Interp",
+                "1005-31-Interp",
+                "1005-32-Interp",
+                "1005-33-Interp",
+                "1005-34-Interp",
+                "1005-35-Interp",
+                "1005-36-Interp"
+            ]
+        },
+        "op":"added"
     },
     "1005-A-36-p148-p152":{
         "op":"deleted"
@@ -2743,8 +2762,23 @@
     "1005-A-36-p148-p150":{
         "op":"deleted"
     },
-    "1005-A-35-p124":{
-        "op":"deleted"
+    "1005-31-b-2-Interp-6":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Cancellation disclosure. Remittance transfer providers that offer remittance transfers scheduled three or more business days before the date of the transfer, as well as remittance transfers scheduled fewer than three business days before the date of the transfer, may meet the cancellation disclosure requirements in \u00a7 1005.31(b)(2)(iv) by describing the three-business-day and 30-minute cancellation periods on the same disclosure and using a checkbox or other method to clearly designate the applicable cancellation period. The provider may use a number of methods to indicate which cancellation period applies to the transaction including, but not limited to, a statement to that effect, use of a checkbox, highlighting, circling, and the like. For transfers scheduled three business days before the date of the transfer, the cancellation disclosures provided pursuant to \u00a7 1005.31(b)(2)(iv) should be phrased and formatted in such a way that it is clear to the sender which cancellation period is applicable to the date of transfer disclosed on the receipt.",
+            "label":[
+                "1005",
+                "31",
+                "b",
+                "2",
+                "Interp",
+                "6"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-A-35-p141":{
         "op":"deleted"
@@ -2803,6 +2837,22 @@
             ]
         ],
         "op":"modified"
+    },
+    "1005-A-37-p1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"![](ER22MY13.253)",
+            "label":[
+                "1005",
+                "A",
+                "37",
+                "p1"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-32-b-1-Interp-2-ii":{
         "node":{
@@ -2989,26 +3039,46 @@
         },
         "op":"added"
     },
-    "1005-32-b-1-Interp-3":{
+    "1005-36-b-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Method by which transactions are made in the recipient country. The method by which transactions are made in the recipient country does not permit a remittance transfer provider to determine exact amounts required to be disclosed when transactions are sent via international ACH on terms negotiated between the United States government and the recipient country's government, under which the exchange rate is a rate set by the recipient country's central bank or other governmental authority after the provider sends the remittance transfer.",
+            "title":"36(b) Accuracy",
+            "text":"",
             "label":[
                 "1005",
-                "32",
+                "36",
                 "b",
-                "1",
-                "Interp",
-                "3"
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1005-36-b-Interp-1",
+                "1005-36-b-Interp-2",
+                "1005-36-b-Interp-3"
+            ]
         },
         "op":"added"
     },
-    "1005-A-34-h4-p89":{
-        "op":"deleted"
+    "1005-36-a-2-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"36(a)(2) Subsequent Preauthorized Remittance Transfers",
+            "text":"",
+            "label":[
+                "1005",
+                "36",
+                "a",
+                "2",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-36-a-2-Interp-1",
+                "1005-36-a-2-Interp-2",
+                "1005-36-a-2-Interp-3"
+            ]
+        },
+        "op":"added"
     },
     "1005-36-b":{
         "text":[
@@ -3148,51 +3218,40 @@
     "1005-A-34-h4-p98":{
         "op":"deleted"
     },
-    "1005-36-b-Interp-2":{
+    "1005-32-b-2-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Subsequent preauthorized remittance transfers. For a subsequent transfer in a series of preauthorized remittance transfers, the receipt provided pursuant to \u00a7 1005.36(a)(1)(i), except for the temporal disclosures in that receipt required by \u00a7 1005.31(b)(2)(ii) (Date Available) and (b)(2)(vii) (Transfer Date), applies to each subsequent preauthorized remittance transfer unless and until it is superseded by a receipt provided pursuant to \u00a7 1005.36(a)(2)(i). For each subsequent preauthorized remittance transfer, only the most recent receipt provided pursuant to \u00a7 1005.36(a)(1)(i) or (a)(2)(i) must be accurate as of the date each subsequent transfer is made.",
+            "text":"(i) Except as provided in paragraph (b)(2)(ii) of this section, for disclosures described in \u00a7\u00a7 1005.36(a)(1)(i) and (a)(2)(i), estimates may be provided in accordance with paragraph (d) of this section for the amounts to be disclosed under \u00a7\u00a7 1005.31(b)(1)(iv) through (vii) if the remittance transfer is scheduled by a sender five or more business days before the date of the transfer. In addition, if, at the time the sender schedules such a transfer, the provider agrees to a sender's request to fix the amount to be transferred in the currency in which the remittance transfer will be received and not the currency in which it is funded, estimates may also be provided for the amounts to be disclosed under \u00a7\u00a7 1005.31(b)(1)(i) through (iii), except as provided in paragraph (b)(2)(iii) of this section.",
             "label":[
                 "1005",
-                "36",
+                "32",
                 "b",
+                "2",
+                "i"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-30-f-Interp-2-iv":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Example of safe harbor and transition period. Assume that a person provided 90 remittance transfers in 2012 and 90 such transfers in 2013. The safe harbor will apply to the person's transfers in 2013, as well as the person's first 100 remittance transfers in 2014. However, if the person provides a 101st transfer on September 5, the facts and circumstances determine whether the person provides remittance transfers in the normal course of business and is thus a remittance transfer provider for the 101st and any subsequent remittance transfers that it provides in 2014. Furthermore, the person would not qualify for the safe harbor described in \u00a7 1005.30(f)(2)(i) in 2015 because the person did not provide 100 or fewer remittance transfers in 2014. However, for the 101st remittance transfer provided in 2014, as well as additional remittance transfers provided thereafter in 2014 and 2015, if that person is then providing remittance transfers for a consumer in the normal course of business, the person will have a reasonable period of time, not to exceed six months, to come into compliance with subpart B. Assume that in this case, a reasonable period of time is six months. Thus, compliance with subpart B is not required for remittance transfers made on or before March 5, 2015 (i.e., six months after September 5, 2014). After March 5, 2015, the person is required to comply with subpart B if, based on the facts and circumstances, the person provides remittance transfers in the normal course of business and is thus a remittance transfer provider.",
+            "label":[
+                "1005",
+                "30",
+                "f",
                 "Interp",
-                "2"
+                "2",
+                "iv"
             ],
             "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1005-32-b-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    122
-                ],
-                [
-                    "insert",
-                    4,
-                    "Permanent exception"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    148,
-                    405
-                ],
-                [
-                    "insert",
-                    148,
-                    "countries."
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1005-32-b-2":{
         "text":[
@@ -3287,10 +3346,25 @@
         },
         "op":"added"
     },
-    "1005-A-32-p61":{
-        "op":"deleted"
+    "1005-30-f-Interp-2-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Safe harbor. Under \u00a7 1005.30(f)(2)(i), a person that provided 100 or fewer remittance transfers in the previous calendar year and provides 100 or fewer remittance transfers in the current calendar year is deemed not to be providing remittance transfers in the normal course of its business. Accordingly, a person that qualifies for the safe harbor in \u00a7 1005.30(f)(2)(i) is not a \u201cremittance transfer provider\u201d and is not subject to the requirements of subpart B. For purposes of determining whether a person qualifies for the safe harbor under \u00a7 1005.30(f)(2)(i), the number of remittance transfers provided includes any transfers excluded from the definition of \u201cremittance transfer\u201d due simply to the safe harbor. In contrast, the number of remittance transfers provided does not include any transfers that are excluded from the definition of \u201cremittance transfer\u201d for reasons other than the safe harbor, such as small value transactions or securities and commodities transfers that are excluded from the definition of \u201cremittance transfer\u201d by \u00a7 1005.30(e)(2).",
+            "label":[
+                "1005",
+                "30",
+                "f",
+                "Interp",
+                "2",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
-    "1005-32-b-Interp-1-ii":{
+    "1005-A-32-p44":{
         "op":"deleted"
     },
     "1005-A-36-p144":{
@@ -3311,6 +3385,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1005-A-31-h2-p25":{
+        "op":"deleted"
     },
     "1005-A-37":{
         "text":[

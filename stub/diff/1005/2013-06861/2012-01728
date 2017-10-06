@@ -3120,15 +3120,30 @@
         },
         "op":"added"
     },
-    "1005-34-b-Interp-2":{
+    "1005-A-Interp-3":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Fees and taxes refunded. If a sender provides a timely request to cancel a remittance transfer, a remittance transfer provider must refund all funds provided by the sender in connection with the remittance transfer, including any fees and, to the extent not prohibited by law, taxes that have been imposed for the transfer, whether the fee or tax was assessed by the provider or a third party, such as an intermediary institution, the agent or bank in the recipient country, or a State or other governmental body.",
+            "text":"Altering the clauses. Financial institutions may use clauses of their own design in conjunction with the Bureau's model clauses. The inapplicable words or portions of phrases in parentheses should be deleted. The catchlines are not part of the clauses and need not be used. Financial institutions may make alterations, substitutions, or additions in the clauses to reflect the services offered, such as technical changes (including the substitution of a trade name for the word \u201ccard,\u201d deletion of inapplicable services, or substitution of lesser liability limits). Several of the model clauses include references to a telephone number and address. Where two or more of these clauses are used in a disclosure, the telephone number and address may be referenced and need not be repeated.",
             "label":[
                 "1005",
-                "34",
-                "b",
+                "A",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-A-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Use of forms.",
+            "text":"The appendix contains model disclosure clauses for optional use by financial institutions and remittance transfer providers to facilitate compliance with the disclosure requirements of sections \u00a7\u00a7 1005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(d)(1) and (2), 1005.18(c)(1) and (2), 1005.31, and 1005.36. The use of appropriate clauses in making disclosures will protect a financial institution and a remittance transfer provider from liability under sections 916 and 917 of the act provided the clauses accurately reflect the institution's EFT services and the provider's remittance transfer services, respectively.",
+            "label":[
+                "1005",
+                "A",
                 "Interp",
                 "2"
             ],
@@ -3137,15 +3152,14 @@
         },
         "op":"added"
     },
-    "1005-34-b-Interp-1":{
+    "1005-A-Interp-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Form of refund. At its discretion, a remittance transfer provider generally may issue a refund either in cash or in the same form of payment that was initially provided by the sender for the remittance transfer. For example, if the sender originally provided a credit card as payment for the transfer, the remittance transfer provider may issue a credit to the sender's credit card account in the amount of the payment. However, if a sender initially provided cash for the remittance transfer, a provider may issue a refund by check. For example, if the sender originally provided cash as payment for the transfer, the provider may mail a check to the sender in the amount of the payment.",
+            "text":"Review of forms. The Bureau will not review or approve disclosure forms or statements for financial institutions. However, the Bureau has issued model clauses for institutions to use in designing their disclosures. If an institution uses these clauses accurately to reflect its service, the institution is protected from liability for failure to make disclosures in proper form.",
             "label":[
                 "1005",
-                "34",
-                "b",
+                "A",
                 "Interp",
                 "1"
             ],
@@ -3695,18 +3709,18 @@
         },
         "op":"added"
     },
-    "1005-A-Interp-4-iii-G":{
+    "1005-33-a-Interp-5-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Substituting cancellation language to reflect the right to a cancellation made pursuant to the requirements of \u00a7 1005.36(c).",
+            "text":"Delivery of funds to the wrong account;",
             "label":[
                 "1005",
-                "A",
+                "33",
+                "a",
                 "Interp",
-                "4",
-                "iii",
-                "G"
+                "5",
+                "ii"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -4046,21 +4060,23 @@
         },
         "op":"added"
     },
-    "1005-33-a-Interp-5-ii":{
+    "1005-A-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Delivery of funds to the wrong account;",
+            "title":"Appendix A\u2014Model Disclosure Clauses and Forms",
+            "text":"",
             "label":[
                 "1005",
-                "33",
-                "a",
-                "Interp",
-                "5",
-                "ii"
+                "A",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1005-A-Interp-1",
+                "1005-A-Interp-2",
+                "1005-A-Interp-3",
+                "1005-A-Interp-4"
+            ]
         },
         "op":"added"
     },
@@ -4973,17 +4989,16 @@
         },
         "op":"added"
     },
-    "1005-31-b-1-vii":{
+    "1005-32-a-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(vii) The amount that will be received by the designated recipient, in the currency in which the funds will be received, using the term \u201cTotal to Recipient\u201d or a substantially similar term. The exchange rate used to calculate this amount is the exchange rate in paragraph (b)(1)(iv) of this section, including an estimated exchange rate to the extent permitted by \u00a7 1005.32, prior to any rounding of the exchange rate.",
+            "text":"(2) Sunset date.Paragraph (a)(1) of this section expires on July 21, 2015.",
             "label":[
                 "1005",
-                "31",
-                "b",
-                "1",
-                "vii"
+                "32",
+                "a",
+                "2"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -6445,6 +6460,9 @@
         },
         "op":"added"
     },
+    "1005-Appendices-Interp":{
+        "op":"deleted"
+    },
     "1005-31-a-3-iii":{
         "node":{
             "tagged_text":null,
@@ -6586,6 +6604,24 @@
                 "1",
                 "Interp",
                 "4"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-A-Interp-4-iii-G":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Substituting cancellation language to reflect the right to a cancellation made pursuant to the requirements of \u00a7 1005.36(c).",
+            "label":[
+                "1005",
+                "A",
+                "Interp",
+                "4",
+                "iii",
+                "G"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -8716,106 +8752,39 @@
         ],
         "op":"modified"
     },
-    "1005-A-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    3
-                ],
-                [
-                    "insert",
-                    0,
-                    "The appendix contains model disclosure clauses for optional use by financial institutions and remittance transfer providers to facilitate compliance with the disclosure requirements"
-                ]
+    "1005-34-b-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Fees and taxes refunded. If a sender provides a timely request to cancel a remittance transfer, a remittance transfer provider must refund all funds provided by the sender in connection with the remittance transfer, including any fees and, to the extent not prohibited by law, taxes that have been imposed for the transfer, whether the fee or tax was assessed by the provider or a third party, such as an intermediary institution, the agent or bank in the recipient country, or a State or other governmental body.",
+            "label":[
+                "1005",
+                "34",
+                "b",
+                "Interp",
+                "2"
             ],
-            [
-                [
-                    "delete",
-                    7,
-                    13
-                ],
-                [
-                    "insert",
-                    7,
-                    "sections \u00a7\u00a7 1005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(d)(1) and (2), 1005.18(c)(1) and (2), 1005.31, and 1005.36."
-                ]
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-34-b-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Form of refund. At its discretion, a remittance transfer provider generally may issue a refund either in cash or in the same form of payment that was initially provided by the sender for the remittance transfer. For example, if the sender originally provided a credit card as payment for the transfer, the remittance transfer provider may issue a credit to the sender's credit card account in the amount of the payment. However, if a sender initially provided cash for the remittance transfer, a provider may issue a refund by check. For example, if the sender originally provided cash as payment for the transfer, the provider may mail a check to the sender in the amount of the payment.",
+            "label":[
+                "1005",
+                "34",
+                "b",
+                "Interp",
+                "1"
             ],
-            [
-                [
-                    "delete",
-                    18,
-                    52
-                ],
-                [
-                    "insert",
-                    18,
-                    "use of appropriate"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    61,
-                    80
-                ],
-                [
-                    "insert",
-                    61,
-                    "in making disclosures will protect a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    91,
-                    133
-                ],
-                [
-                    "insert",
-                    91,
-                    "institution and a remittance transfer provider from liability under sections 916 and 917 of"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    138,
-                    186
-                ],
-                [
-                    "insert",
-                    138,
-                    "act provided the clauses accurately reflect the institution's EFT services"
-                ]
-            ],
-            [
-                "delete",
-                191,
-                439
-            ],
-            [
-                [
-                    "delete",
-                    443,
-                    518
-                ],
-                [
-                    "insert",
-                    443,
-                    "provider's remittance transfer services, respectively."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Use of forms."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-30-c-Interp-2-i":{
         "node":{
@@ -9573,16 +9542,17 @@
         },
         "op":"added"
     },
-    "1005-32-a-2":{
+    "1005-31-b-1-vii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(2) Sunset date.Paragraph (a)(1) of this section expires on July 21, 2015.",
+            "text":"(vii) The amount that will be received by the designated recipient, in the currency in which the funds will be received, using the term \u201cTotal to Recipient\u201d or a substantially similar term. The exchange rate used to calculate this amount is the exchange rate in paragraph (b)(1)(iv) of this section, including an estimated exchange rate to the extent permitted by \u00a7 1005.32, prior to any rounding of the exchange rate.",
             "label":[
                 "1005",
-                "32",
-                "a",
-                "2"
+                "31",
+                "b",
+                "1",
+                "vii"
             ],
             "node_type":"regtext",
             "child_labels":[]
