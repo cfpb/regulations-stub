@@ -200,18 +200,19 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h3-7-a":{
+    "1003-A-h2-h6-p27-6-c":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"a. For a home purchase loan that you originated, enter the principal amount of the loan.",
+            "text":"c. If no income information is asked for or relied on in the credit decision, enter \u201cNA.\u201d",
             "label":[
                 "1003",
                 "A",
                 "h2",
-                "h3",
-                "7",
-                "a"
+                "h6",
+                "p27",
+                "6",
+                "c"
             ],
             "node_type":"appendix",
             "child_labels":[]
@@ -237,33 +238,6 @@
         },
         "op":"added"
     },
-    "1003-2-j-Interp-4":{
-        "text":[
-            [
-                "insert",
-                0,
-                " "
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-2-g-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(i) On the preceding December 31, had a home or branch office in an MSA; and",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "2",
-                "i"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-A-h2-h6-p27-3":{
         "node":{
             "tagged_text":null,
@@ -278,19 +252,15 @@
                 "3"
             ],
             "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1003-A-h2-h6-p27-p28",
+                "1003-A-h2-h6-p27-p29",
+                "1003-A-h2-h6-p27-p30",
+                "1003-A-h2-h6-p27-p31",
+                "1003-A-h2-h6-p27-p32"
+            ]
         },
         "op":"added"
-    },
-    "1003-2-b-Interp-1":{
-        "text":[
-            [
-                "insert",
-                0,
-                " "
-            ]
-        ],
-        "op":"modified"
     },
     "1003-A-h2-h8-p65":{
         "node":{
@@ -387,26 +357,6 @@
             "child_labels":[
                 "1003-A-h2-h6-p27-1-a",
                 "1003-A-h2-h6-p27-1-b"
-            ]
-        },
-        "op":"added"
-    },
-    "1003-2-g-1-v":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(v) Meets at least one of the following criteria:",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "1",
-                "v"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-g-1-v-A",
-                "1003-2-g-1-v-B"
             ]
         },
         "op":"added"
@@ -541,22 +491,22 @@
         },
         "op":"added"
     },
-    "1003-4-a-10-i-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    9,
-                    17
-                ],
-                [
-                    "insert",
-                    9,
-                    "Appendix"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1003-5-a-Interp-7":{
+        "node":{
+            "tagged_text":null,
+            "title":"Transmittal sheet\u2014additional data submissions.",
+            "text":"If an additional data submission becomes necessary (for example, because the institution discovers that data were omitted from the initial submission, or because revisions are called for), that submission must be accompanied by a transmittal sheet.",
+            "label":[
+                "1003",
+                "5",
+                "a",
+                "Interp",
+                "7"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-A-h2-h6-p27-6-a":{
         "node":{
@@ -573,23 +523,6 @@
                 "a"
             ],
             "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-g-1-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(i) On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by the Act, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "1",
-                "i"
-            ],
-            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -658,25 +591,6 @@
                 "h2",
                 "h10",
                 "p68"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-A-h2-h6-p27-6-c":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"c. If no income information is asked for or relied on in the credit decision, enter \u201cNA.\u201d",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h6",
-                "p27",
-                "6",
-                "c"
             ],
             "node_type":"appendix",
             "child_labels":[]
@@ -798,24 +712,6 @@
         ],
         "op":"modified"
     },
-    "1003-A-h2-h7-p56-d":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"d. Use Code 8 for loans sold to an institution affiliated with you, such as your subsidiary or a subsidiary of your parent corporation.",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h7",
-                "p56",
-                "d"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-6-b-3":{
         "node":{
             "tagged_text":null,
@@ -865,31 +761,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1003-A-h2-h8-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"2. If your institution uses the model form for adverse action contained in appendix C to Regulation B (Form C-1, Sample Notification Form), use the foregoing Codes as follows:",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h8",
-                "2"
-            ],
-            "node_type":"appendix",
-            "child_labels":[
-                "1003-A-h2-h8-2-a",
-                "1003-A-h2-h8-2-b",
-                "1003-A-h2-h8-2-c",
-                "1003-A-h2-h8-2-d",
-                "1003-A-h2-h8-2-e",
-                "1003-A-h2-h8-2-f",
-                "1003-A-h2-h8-2-g"
-            ]
-        },
-        "op":"added"
     },
     "1003-5-a-Interp-1-i":{
         "op":"deleted"
@@ -1052,23 +923,6 @@
         },
         "op":"added"
     },
-    "1003-2-g-1-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(ii) On the preceding December 31, had a home or branch office in an MSA;",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "1",
-                "ii"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-A-h2-h4-p25-e":{
         "node":{
             "tagged_text":null,
@@ -1105,41 +959,6 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h8-2-b":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"b. Code 2 for: Temporary or irregular employment, and Length of employment.",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h8",
-                "2",
-                "b"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-A-h1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Paperwork Reduction Act Notice",
-            "text":"This report is required by law (12 U.S.C. 2801-2810 and 12 CFR 1003). An agency may not conduct or sponsor, and an organization is not required to respond to, a collection of information unless it displays a valid Office of Management and Budget (OMB) Control Number. See 12 CFR 1003.1(a) for the valid OMB Control Numbers applicable to this information collection. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to the respective agencies and to OMB, Office of Information and Regulatory Affairs, Paperwork Reduction Project, Washington, DC 20503. Be sure to reference the applicable agency and the OMB Control Number, as found in 12 CFR 1003.1(a), when submitting comments to OMB.",
-            "label":[
-                "1003",
-                "A",
-                "h1"
-            ],
-            "node_type":"appendix",
-            "child_labels":[
-                "1003-A-h1-p2"
-            ]
-        },
-        "op":"added"
-    },
     "1003-5-b-1":{
         "text":[
             [
@@ -1157,17 +976,17 @@
         ],
         "op":"modified"
     },
-    "1003-A-h2-h3-p15":{
+    "1003-A-h2-h9-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Code 1\u2014Preapproval requested",
+            "text":"2. Date the interest rate was set. The relevant date to use to determine the average prime offer rate for a comparable transaction is the date on which the loan's interest rate was set by the financial institution for the final time before closing. If an interest rate is set pursuant to a \u201clock-in\u201d agreement between the lender and the borrower, then the date on which the agreement fixes the interest rate is the date the rate was set. If a rate is re-set after a lock-in agreement is executed (for example, because the borrower exercises a float-down option or the agreement expires), then the relevant date is the date the rate is re-set for the final time before closing. If no lock-in agreement is executed, then the relevant date is the date on which the institution sets the rate for the final time before closing.",
             "label":[
                 "1003",
                 "A",
                 "h2",
-                "h3",
-                "p15"
+                "h9",
+                "2"
             ],
             "node_type":"appendix",
             "child_labels":[]
@@ -1195,41 +1014,26 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h3-p17":{
+    "1003-A-h2-h9-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Code 3\u2014Not applicable",
+            "text":"1. Rate Spread.",
             "label":[
                 "1003",
                 "A",
                 "h2",
-                "h3",
-                "p17"
+                "h9",
+                "1"
             ],
             "node_type":"appendix",
             "child_labels":[
-                "1003-A-h2-h3-p17-a",
-                "1003-A-h2-h3-p17-b",
-                "1003-A-h2-h3-p17-c"
+                "1003-A-h2-h9-1-a",
+                "1003-A-h2-h9-1-b",
+                "1003-A-h2-h9-1-c",
+                "1003-A-h2-h9-1-d",
+                "1003-A-h2-h9-1-e"
             ]
-        },
-        "op":"added"
-    },
-    "1003-A-h2-h3-p16":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Code 2\u2014Preapproval not requested",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h3",
-                "p16"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -1316,7 +1120,11 @@
                 "4"
             ],
             "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1003-A-h2-h3-p6",
+                "1003-A-h2-h3-p7",
+                "1003-A-h2-h3-p8"
+            ]
         },
         "op":"added"
     },
@@ -1333,7 +1141,11 @@
                 "5"
             ],
             "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1003-A-h2-h3-p9",
+                "1003-A-h2-h3-p10",
+                "1003-A-h2-h3-p11"
+            ]
         },
         "op":"added"
     },
@@ -1350,7 +1162,11 @@
                 "6"
             ],
             "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1003-A-h2-h3-p12",
+                "1003-A-h2-h3-p13",
+                "1003-A-h2-h3-p14"
+            ]
         },
         "op":"added"
     },
@@ -1378,21 +1194,27 @@
         },
         "op":"added"
     },
-    "1003-2-g-1-iv-A":{
+    "1003-A-h2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(A) The institution is federally insured or regulated; or",
+            "title":"I. Instructions for Completion of Loan/Application Register",
+            "text":"",
             "label":[
                 "1003",
-                "2",
-                "g",
-                "1",
-                "iv",
-                "A"
+                "A",
+                "h2"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"appendix",
+            "child_labels":[
+                "1003-A-h2-h3",
+                "1003-A-h2-h4",
+                "1003-A-h2-h5",
+                "1003-A-h2-h6",
+                "1003-A-h2-h7",
+                "1003-A-h2-h8",
+                "1003-A-h2-h9",
+                "1003-A-h2-h10"
+            ]
         },
         "op":"added"
     },
@@ -1430,57 +1252,20 @@
         },
         "op":"added"
     },
-    "1003-2-g-1-iv-B":{
+    "1003-A-h1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(B) Any loan referred to in paragraph (g)(1)(iii) of this section was insured, guaranteed, or supplemented by a Federal agency, or was intended by the institution for sale to the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation; and",
+            "title":"Paperwork Reduction Act Notice",
+            "text":"This report is required by law (12 U.S.C. 2801-2810 and 12 CFR 1003). An agency may not conduct or sponsor, and an organization is not required to respond to, a collection of information unless it displays a valid Office of Management and Budget (OMB) Control Number. See 12 CFR 1003.1(a) for the valid OMB Control Numbers applicable to this information collection. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to the respective agencies and to OMB, Office of Information and Regulatory Affairs, Paperwork Reduction Project, Washington, DC 20503. Be sure to reference the applicable agency and the OMB Control Number, as found in 12 CFR 1003.1(a), when submitting comments to OMB.",
             "label":[
                 "1003",
-                "2",
-                "g",
-                "1",
-                "iv",
-                "B"
+                "A",
+                "h1"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-g-2-ii-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(B) In each of the two preceding calendar years, originated at least 100 open-end lines of credit that are not excluded from this part pursuant to \u00a7 1003.3(c)(1) through (10).",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "2",
-                "ii",
-                "B"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-g-2-ii-A":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(A) In each of the two preceding calendar years, originated at least 25 closed-end mortgage loans that are not excluded from this part pursuant to \u00a7 1003.3(c)(1) through (10); or",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "2",
-                "ii",
-                "A"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"appendix",
+            "child_labels":[
+                "1003-A-h1-p2"
+            ]
         },
         "op":"added"
     },
@@ -1609,16 +1394,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1003-3-c-9-Interp-1":{
-        "title":[
-            [
-                "insert",
-                64,
-                " "
-            ]
-        ],
-        "op":"modified"
     },
     "1003-A-h2-h9-1-d":{
         "node":{
@@ -1762,169 +1537,27 @@
         },
         "op":"added"
     },
-    "1003-2-b-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    26
-                ],
-                [
-                    "insert",
-                    4,
-                    "Application"
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "In general."
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-2-b-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    26
-                ],
-                [
-                    "insert",
-                    4,
-                    "A"
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Preapproval programs."
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-2-g-1-iii":{
+    "1003-A-h2-h5-p26":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(iii) In the preceding calendar year, originated at least one home purchase loan or refinancing of a home purchase loan, secured by a first lien on a one- to four-unit dwelling;",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "1",
-                "iii"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-A-h2-h6-p27-6":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"6. Income. Enter the gross annual income that your institution relied on in making the credit decision.",
+            "text":"Except as otherwise provided, enter in these columns the applicable Codes for the MSA, or the MD if the MSA is divided into MDs, state, county, and census tract to indicate the location of the property to which a loan relates.",
             "label":[
                 "1003",
                 "A",
                 "h2",
-                "h6",
-                "p27",
-                "6"
+                "h5",
+                "p26"
             ],
             "node_type":"appendix",
             "child_labels":[
-                "1003-A-h2-h6-p27-6-a",
-                "1003-A-h2-h6-p27-6-b",
-                "1003-A-h2-h6-p27-6-c",
-                "1003-A-h2-h6-p27-6-d"
-            ]
-        },
-        "op":"added"
-    },
-    "1003-5-a-1-ii":{
-        "op":"deleted"
-    },
-    "1003-2-o-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) Is secured by a lien on a dwelling; and",
-            "label":[
-                "1003",
-                "2",
-                "o",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-o-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) Is an open-end credit plan as defined in Regulation Z, 12 CFR 1026.2(a)(20), but without regard to whether the credit is consumer credit, as defined in \u00a7 1026.2(a)(12), is extended by a creditor, as defined in \u00a7 1026.2(a)(17), or is extended to a consumer, as defined in \u00a7 1026.2(a)(11).",
-            "label":[
-                "1003",
-                "2",
-                "o",
-                "2"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-5-a-Interp-7":{
-        "node":{
-            "tagged_text":null,
-            "title":"Transmittal sheet\u2014additional data submissions.",
-            "text":"If an additional data submission becomes necessary (for example, because the institution discovers that data were omitted from the initial submission, or because revisions are called for), that submission must be accompanied by a transmittal sheet.",
-            "label":[
-                "1003",
-                "5",
-                "a",
-                "Interp",
-                "7"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-A-h2-h4":{
-        "node":{
-            "tagged_text":null,
-            "title":"B. Action Taken",
-            "text":"",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h4"
-            ],
-            "node_type":"appendix",
-            "child_labels":[
-                "1003-A-h2-h4-1",
-                "1003-A-h2-h4-p18",
-                "1003-A-h2-h4-p19",
-                "1003-A-h2-h4-p20",
-                "1003-A-h2-h4-p21",
-                "1003-A-h2-h4-p22",
-                "1003-A-h2-h4-p23",
-                "1003-A-h2-h4-p24",
-                "1003-A-h2-h4-p25",
-                "1003-A-h2-h4-2"
+                "1003-A-h2-h5-p26-1",
+                "1003-A-h2-h5-p26-2",
+                "1003-A-h2-h5-p26-3",
+                "1003-A-h2-h5-p26-4",
+                "1003-A-h2-h5-p26-5",
+                "1003-A-h2-h5-p26-6",
+                "1003-A-h2-h5-p26-7"
             ]
         },
         "op":"added"
@@ -1965,51 +1598,21 @@
                 "1"
             ],
             "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-3-c":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    12
-                ],
-                [
-                    "insert",
-                    4,
-                    "Exempt institutions and excluded"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-A-h2-h5-p26":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Except as otherwise provided, enter in these columns the applicable Codes for the MSA, or the MD if the MSA is divided into MDs, state, county, and census tract to indicate the location of the property to which a loan relates.",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h5",
-                "p26"
-            ],
-            "node_type":"appendix",
             "child_labels":[
-                "1003-A-h2-h5-p26-1",
-                "1003-A-h2-h5-p26-2",
-                "1003-A-h2-h5-p26-3",
-                "1003-A-h2-h5-p26-4",
-                "1003-A-h2-h5-p26-5",
-                "1003-A-h2-h5-p26-6",
-                "1003-A-h2-h5-p26-7"
+                "1003-A-h2-h4-p18",
+                "1003-A-h2-h4-p19",
+                "1003-A-h2-h4-p20",
+                "1003-A-h2-h4-p21",
+                "1003-A-h2-h4-p22",
+                "1003-A-h2-h4-p23",
+                "1003-A-h2-h4-p24",
+                "1003-A-h2-h4-p25"
             ]
         },
         "op":"added"
+    },
+    "1003-5-a-1-ii":{
+        "op":"deleted"
     },
     "1003-A-h2-h8-p57":{
         "node":{
@@ -2075,11 +1678,7 @@
             ],
             "node_type":"appendix",
             "child_labels":[
-                "1003-A-h2-h10-p66",
-                "1003-A-h2-h10-p67",
-                "1003-A-h2-h10-p68",
-                "1003-A-h2-h10-p69",
-                "1003-A-h2-h10-p70"
+                "1003-A-h2-h10-p66"
             ]
         },
         "op":"added"
@@ -2246,7 +1845,13 @@
                 "5"
             ],
             "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1003-A-h2-h6-p27-p41",
+                "1003-A-h2-h6-p27-p42",
+                "1003-A-h2-h6-p27-p43",
+                "1003-A-h2-h6-p27-p44",
+                "1003-A-h2-h6-p27-p45"
+            ]
         },
         "op":"added"
     },
@@ -2264,7 +1869,16 @@
                 "4"
             ],
             "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1003-A-h2-h6-p27-p33",
+                "1003-A-h2-h6-p27-p34",
+                "1003-A-h2-h6-p27-p35",
+                "1003-A-h2-h6-p27-p36",
+                "1003-A-h2-h6-p27-p37",
+                "1003-A-h2-h6-p27-p38",
+                "1003-A-h2-h6-p27-p39",
+                "1003-A-h2-h6-p27-p40"
+            ]
         },
         "op":"added"
     },
@@ -2458,29 +2072,6 @@
         ],
         "op":"modified"
     },
-    "1003-A-h2-h9-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"1. Rate Spread.",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h9",
-                "1"
-            ],
-            "node_type":"appendix",
-            "child_labels":[
-                "1003-A-h2-h9-1-a",
-                "1003-A-h2-h9-1-b",
-                "1003-A-h2-h9-1-c",
-                "1003-A-h2-h9-1-d",
-                "1003-A-h2-h9-1-e"
-            ]
-        },
-        "op":"added"
-    },
     "1003-A-h2-h7-p53":{
         "node":{
             "tagged_text":null,
@@ -2515,23 +2106,6 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h9-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"2. Date the interest rate was set. The relevant date to use to determine the average prime offer rate for a comparable transaction is the date on which the loan's interest rate was set by the financial institution for the final time before closing. If an interest rate is set pursuant to a \u201clock-in\u201d agreement between the lender and the borrower, then the date on which the agreement fixes the interest rate is the date the rate was set. If a rate is re-set after a lock-in agreement is executed (for example, because the borrower exercises a float-down option or the agreement expires), then the relevant date is the date the rate is re-set for the final time before closing. If no lock-in agreement is executed, then the relevant date is the date on which the institution sets the rate for the final time before closing.",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h9",
-                "2"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-A-h2-h7-p52":{
         "node":{
             "tagged_text":null,
@@ -2548,40 +2122,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1003-2-m-Interp-1":{
-        "title":[
-            [
-                "delete",
-                84,
-                85
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-2-d-Interp-1":{
-        "text":[
-            [
-                "insert",
-                0,
-                ". "
-            ]
-        ],
-        "title":[
-            [
-                [
-                    "delete",
-                    0,
-                    17
-                ],
-                [
-                    "insert",
-                    0,
-                    "Dwelling-secured"
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1003-5-e":{
         "text":[
@@ -2742,41 +2282,27 @@
     "1003-6-c":{
         "op":"deleted"
     },
-    "1003-2-g-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) Nondepository financial institution means a for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that:",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "2"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-g-2-i",
-                "1003-2-g-2-ii"
-            ]
-        },
-        "op":"added"
-    },
     "1003-6-a":{
         "text":[
             [
                 "insert",
-                140,
-                "Act, including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed in section 305 of the "
+                46,
+                "the "
+            ],
+            [
+                "insert",
+                132,
+                "the Act, including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed in section 305 of the "
             ],
             [
                 [
                     "delete",
-                    155,
-                    303
+                    147,
+                    295
                 ],
                 [
                     "insert",
-                    155,
+                    147,
                     "2804)."
                 ]
             ]
@@ -2899,27 +2425,21 @@
         },
         "op":"added"
     },
-    "1003-A-h2":{
+    "1003-A-h2-h4-2-a":{
         "node":{
             "tagged_text":null,
-            "title":"I. Instructions for Completion of Loan/Application Register",
-            "text":"",
+            "title":null,
+            "text":"a. For loans originated, enter the settlement or closing date.",
             "label":[
                 "1003",
                 "A",
-                "h2"
+                "h2",
+                "h4",
+                "2",
+                "a"
             ],
             "node_type":"appendix",
-            "child_labels":[
-                "1003-A-h2-h3",
-                "1003-A-h2-h4",
-                "1003-A-h2-h5",
-                "1003-A-h2-h6",
-                "1003-A-h2-h7",
-                "1003-A-h2-h8",
-                "1003-A-h2-h9",
-                "1003-A-h2-h10"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -2995,24 +2515,6 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h8-2-f":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"f. Code 7 for: Credit application incomplete.",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h8",
-                "2",
-                "f"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-A-h2-h3-7-f":{
         "node":{
             "tagged_text":null,
@@ -3044,36 +2546,27 @@
             ],
             "node_type":"appendix",
             "child_labels":[
-                "1003-A-h2-h7-p46",
-                "1003-A-h2-h7-p47",
-                "1003-A-h2-h7-p48",
-                "1003-A-h2-h7-p49",
-                "1003-A-h2-h7-p50",
-                "1003-A-h2-h7-p51",
-                "1003-A-h2-h7-p52",
-                "1003-A-h2-h7-p53",
-                "1003-A-h2-h7-p54",
-                "1003-A-h2-h7-p55",
-                "1003-A-h2-h7-p56"
+                "1003-A-h2-h7-p46"
             ]
         },
         "op":"added"
     },
-    "1003-A-h2-h3-7-d":{
+    "1003-A-h2-h4":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"d. If you opt to report home-equity lines of credit, report only the portion of the line intended for home improvement or home purchase.",
+            "title":"B. Action Taken",
+            "text":"",
             "label":[
                 "1003",
                 "A",
                 "h2",
-                "h3",
-                "7",
-                "d"
+                "h4"
             ],
             "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1003-A-h2-h4-1",
+                "1003-A-h2-h4-2"
+            ]
         },
         "op":"added"
     },
@@ -3113,66 +2606,39 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h3":{
+    "1003-A-h2-h3-7-c":{
         "node":{
             "tagged_text":null,
-            "title":"A. Application or Loan Information",
-            "text":"",
+            "title":null,
+            "text":"c. For a home improvement loan, enter the entire amount of the loan\u2014including unpaid finance charges if that is how such loans are recorded on your books\u2014even if only a part of the proceeds is intended for home improvement.",
             "label":[
                 "1003",
                 "A",
                 "h2",
-                "h3"
+                "h3",
+                "7",
+                "c"
             ],
             "node_type":"appendix",
-            "child_labels":[
-                "1003-A-h2-h3-1",
-                "1003-A-h2-h3-2",
-                "1003-A-h2-h3-3",
-                "1003-A-h2-h3-p2",
-                "1003-A-h2-h3-p3",
-                "1003-A-h2-h3-p4",
-                "1003-A-h2-h3-p5",
-                "1003-A-h2-h3-4",
-                "1003-A-h2-h3-p6",
-                "1003-A-h2-h3-p7",
-                "1003-A-h2-h3-p8",
-                "1003-A-h2-h3-5",
-                "1003-A-h2-h3-p9",
-                "1003-A-h2-h3-p10",
-                "1003-A-h2-h3-p11",
-                "1003-A-h2-h3-6",
-                "1003-A-h2-h3-p12",
-                "1003-A-h2-h3-p13",
-                "1003-A-h2-h3-p14",
-                "1003-A-h2-h3-7",
-                "1003-A-h2-h3-8",
-                "1003-A-h2-h3-p15",
-                "1003-A-h2-h3-p16",
-                "1003-A-h2-h3-p17"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
-    "1003-2-g-1":{
+    "1003-A-h2-h3-7-a":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(1) Depository financial institution means a bank, savings association, or credit union that:",
+            "text":"a. For a home purchase loan that you originated, enter the principal amount of the loan.",
             "label":[
                 "1003",
-                "2",
-                "g",
-                "1"
+                "A",
+                "h2",
+                "h3",
+                "7",
+                "a"
             ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-g-1-i",
-                "1003-2-g-1-ii",
-                "1003-2-g-1-iii",
-                "1003-2-g-1-iv",
-                "1003-2-g-1-v"
-            ]
+            "node_type":"appendix",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -3230,7 +2696,12 @@
                 "3"
             ],
             "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1003-A-h2-h3-p2",
+                "1003-A-h2-h3-p3",
+                "1003-A-h2-h3-p4",
+                "1003-A-h2-h3-p5"
+            ]
         },
         "op":"added"
     },
@@ -3378,15 +2849,6 @@
             "node_type":"appendix",
             "child_labels":[
                 "1003-A-h2-h8-1",
-                "1003-A-h2-h8-p57",
-                "1003-A-h2-h8-p58",
-                "1003-A-h2-h8-p59",
-                "1003-A-h2-h8-p60",
-                "1003-A-h2-h8-p61",
-                "1003-A-h2-h8-p62",
-                "1003-A-h2-h8-p63",
-                "1003-A-h2-h8-p64",
-                "1003-A-h2-h8-p65",
                 "1003-A-h2-h8-2"
             ]
         },
@@ -3412,54 +2874,18 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h3-p17-c":{
+    "1003-A-h2-h7-p56-d":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"c. Enter Code 3 for applications or loans for home improvement or refinancing, and for purchased loans.",
+            "text":"d. Use Code 8 for loans sold to an institution affiliated with you, such as your subsidiary or a subsidiary of your parent corporation.",
             "label":[
                 "1003",
                 "A",
                 "h2",
-                "h3",
-                "p17",
-                "c"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-A-h2-h3-p17-b":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"b. Enter Code 3 if your institution does not have a preapproval program as defined in \u00a7 1003.2.",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h3",
-                "p17",
-                "b"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-A-h2-h3-p17-a":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"a. Enter Code 2 if your institution has a covered preapproval program but the applicant does not request a preapproval.",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h3",
-                "p17",
-                "a"
+                "h7",
+                "p56",
+                "d"
             ],
             "node_type":"appendix",
             "child_labels":[]
@@ -3579,42 +3005,6 @@
     },
     "1003-5-a-3-ii":{
         "op":"deleted"
-    },
-    "1003-2-g-1-v-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(B) In each of the two preceding calendar years, originated at least 100 open-end lines of credit that are not excluded from this part pursuant to \u00a7 1003.3(c)(1) through (10); and",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "1",
-                "v",
-                "B"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-g-1-v-A":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(A) In each of the two preceding calendar years, originated at least 25 closed-end mortgage loans that are not excluded from this part pursuant to \u00a7 1003.3(c)(1) through (10); or",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "1",
-                "v",
-                "A"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1003-5-a-Interp-1-iii":{
         "op":"deleted"
@@ -3758,7 +3148,18 @@
                 "p46"
             ],
             "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1003-A-h2-h7-p47",
+                "1003-A-h2-h7-p48",
+                "1003-A-h2-h7-p49",
+                "1003-A-h2-h7-p50",
+                "1003-A-h2-h7-p51",
+                "1003-A-h2-h7-p52",
+                "1003-A-h2-h7-p53",
+                "1003-A-h2-h7-p54",
+                "1003-A-h2-h7-p55",
+                "1003-A-h2-h7-p56"
+            ]
         },
         "op":"added"
     },
@@ -3795,26 +3196,8 @@
                 "1003-A-h2-h6-p27-1",
                 "1003-A-h2-h6-p27-2",
                 "1003-A-h2-h6-p27-3",
-                "1003-A-h2-h6-p27-p28",
-                "1003-A-h2-h6-p27-p29",
-                "1003-A-h2-h6-p27-p30",
-                "1003-A-h2-h6-p27-p31",
-                "1003-A-h2-h6-p27-p32",
                 "1003-A-h2-h6-p27-4",
-                "1003-A-h2-h6-p27-p33",
-                "1003-A-h2-h6-p27-p34",
-                "1003-A-h2-h6-p27-p35",
-                "1003-A-h2-h6-p27-p36",
-                "1003-A-h2-h6-p27-p37",
-                "1003-A-h2-h6-p27-p38",
-                "1003-A-h2-h6-p27-p39",
-                "1003-A-h2-h6-p27-p40",
                 "1003-A-h2-h6-p27-5",
-                "1003-A-h2-h6-p27-p41",
-                "1003-A-h2-h6-p27-p42",
-                "1003-A-h2-h6-p27-p43",
-                "1003-A-h2-h6-p27-p44",
-                "1003-A-h2-h6-p27-p45",
                 "1003-A-h2-h6-p27-6"
             ]
         },
@@ -3833,21 +3216,6 @@
                 "p47"
             ],
             "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-h":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(h) [Reserved]",
-            "label":[
-                "1003",
-                "2",
-                "h"
-            ],
-            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -3873,40 +3241,27 @@
     "1003-5-a-3-vi":{
         "op":"deleted"
     },
-    "1003-2-g-1-iv":{
+    "1003-A-h2-h8-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(iv) Meets one or more of the following two criteria:",
-            "label":[
-                "1003",
-                "2",
-                "g",
-                "1",
-                "iv"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-g-1-iv-A",
-                "1003-2-g-1-iv-B"
-            ]
-        },
-        "op":"added"
-    },
-    "1003-A-h2-h6":{
-        "node":{
-            "tagged_text":null,
-            "title":"D. Applicant Information\u2014Ethnicity, Race, Sex, and Income",
-            "text":"",
+            "text":"2. If your institution uses the model form for adverse action contained in appendix C to Regulation B (Form C-1, Sample Notification Form), use the foregoing Codes as follows:",
             "label":[
                 "1003",
                 "A",
                 "h2",
-                "h6"
+                "h8",
+                "2"
             ],
             "node_type":"appendix",
             "child_labels":[
-                "1003-A-h2-h6-p27"
+                "1003-A-h2-h8-2-a",
+                "1003-A-h2-h8-2-b",
+                "1003-A-h2-h8-2-c",
+                "1003-A-h2-h8-2-d",
+                "1003-A-h2-h8-2-e",
+                "1003-A-h2-h8-2-f",
+                "1003-A-h2-h8-2-g"
             ]
         },
         "op":"added"
@@ -3950,24 +3305,6 @@
         },
         "op":"added"
     },
-    "1003-A-h2-h4-2-a":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"a. For loans originated, enter the settlement or closing date.",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h4",
-                "2",
-                "a"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-A-h2-h8-2-d":{
         "node":{
             "tagged_text":null,
@@ -4004,32 +3341,41 @@
         },
         "op":"added"
     },
-    "1003-3":{
-        "title":[
-            [
-                "delete",
-                0,
-                9
-            ]
-        ],
-        "op":"modified"
+    "1003-A-h2-h8-2-f":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"f. Code 7 for: Credit application incomplete.",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h8",
+                "2",
+                "f"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
-    "1003-2":{
-        "title":[
-            [
-                [
-                    "delete",
-                    0,
-                    21
-                ],
-                [
-                    "insert",
-                    0,
-                    "Definitions"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1003-A-h2-h8-2-g":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"g. Code 9 for: Length of residence; Temporary residence; and Other reasons specified on notice.",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h8",
+                "2",
+                "g"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-A-h2-h8-2-a":{
         "node":{
@@ -4049,23 +3395,21 @@
         },
         "op":"added"
     },
-    "1003-2-g-2-ii":{
+    "1003-A-h2-h8-2-b":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(ii) Meets at least one of the following criteria:",
+            "text":"b. Code 2 for: Temporary or irregular employment, and Length of employment.",
             "label":[
                 "1003",
+                "A",
+                "h2",
+                "h8",
                 "2",
-                "g",
-                "2",
-                "ii"
+                "b"
             ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-g-2-ii-A",
-                "1003-2-g-2-ii-B"
-            ]
+            "node_type":"appendix",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -4253,39 +3597,6 @@
         ],
         "op":"modified"
     },
-    "1003-A-h2-h8-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"1. You may report the reason for denial, and you may indicate up to three reasons, using the following Codes. Leave this column blank if the \u201caction taken\u201d on the application is not a denial. For example, do not complete this column if the application was withdrawn or the file was closed for incompleteness.",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h8",
-                "1"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-m-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) Metropolitan Statistical Area or MSA means a Metropolitan Statistical Area as defined by the U.S. Office of Management and Budget.",
-            "label":[
-                "1003",
-                "2",
-                "m",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-A-h2-h10-p67":{
         "node":{
             "tagged_text":null,
@@ -4316,27 +3627,32 @@
                 "p66"
             ],
             "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1003-A-h2-h10-p67",
+                "1003-A-h2-h10-p68",
+                "1003-A-h2-h10-p69",
+                "1003-A-h2-h10-p70"
+            ]
         },
         "op":"added"
     },
     "1003-5-a-Interp-1-ii":{
         "op":"deleted"
     },
-    "1003-2-g":{
+    "1003-A-h2-h6":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(g) Financial institution means a depository financial institution or a nondepository financial institution, where:",
+            "title":"D. Applicant Information\u2014Ethnicity, Race, Sex, and Income",
+            "text":"",
             "label":[
                 "1003",
-                "2",
-                "g"
+                "A",
+                "h2",
+                "h6"
             ],
-            "node_type":"regtext",
+            "node_type":"appendix",
             "child_labels":[
-                "1003-2-g-1",
-                "1003-2-g-2"
+                "1003-A-h2-h6-p27"
             ]
         },
         "op":"added"
@@ -4392,138 +3708,71 @@
         },
         "op":"added"
     },
-    "1003-2-n":{
+    "1003-A-h2-h6-p27-6":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(n) Multifamily dwelling means a dwelling, regardless of construction method, that contains five or more individual dwelling units.",
+            "text":"6. Income. Enter the gross annual income that your institution relied on in making the credit decision.",
             "label":[
                 "1003",
-                "2",
-                "n"
+                "A",
+                "h2",
+                "h6",
+                "p27",
+                "6"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-o":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(o) Open-end line of credit means an extension of credit that:",
-            "label":[
-                "1003",
-                "2",
-                "o"
-            ],
-            "node_type":"regtext",
+            "node_type":"appendix",
             "child_labels":[
-                "1003-2-o-1",
-                "1003-2-o-2"
+                "1003-A-h2-h6-p27-6-a",
+                "1003-A-h2-h6-p27-6-b",
+                "1003-A-h2-h6-p27-6-c",
+                "1003-A-h2-h6-p27-6-d"
             ]
         },
         "op":"added"
     },
-    "1003-2-l":{
+    "1003-A-h2-h3-7-d":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(l) Manufactured home means any residential structure as defined under regulations of the U.S. Department of Housing and Urban Development establishing manufactured home construction and safety standards (24 CFR 3280.2). For purposes of \u00a7 1003.4(a)(5), the term also includes a multifamily dwelling that is a manufactured home community.",
+            "text":"d. If you opt to report home-equity lines of credit, report only the portion of the line intended for home improvement or home purchase.",
             "label":[
                 "1003",
-                "2",
-                "l"
+                "A",
+                "h2",
+                "h3",
+                "7",
+                "d"
             ],
-            "node_type":"regtext",
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
     },
-    "1003-2-m":{
+    "1003-A-h2-h8-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(m) Metropolitan Statistical Area (MSA) and Metropolitan Division(MD).",
+            "text":"1. You may report the reason for denial, and you may indicate up to three reasons, using the following Codes. Leave this column blank if the \u201caction taken\u201d on the application is not a denial. For example, do not complete this column if the application was withdrawn or the file was closed for incompleteness.",
             "label":[
                 "1003",
-                "2",
-                "m"
+                "A",
+                "h2",
+                "h8",
+                "1"
             ],
-            "node_type":"regtext",
+            "node_type":"appendix",
             "child_labels":[
-                "1003-2-m-1",
-                "1003-2-m-2"
+                "1003-A-h2-h8-p57",
+                "1003-A-h2-h8-p58",
+                "1003-A-h2-h8-p59",
+                "1003-A-h2-h8-p60",
+                "1003-A-h2-h8-p61",
+                "1003-A-h2-h8-p62",
+                "1003-A-h2-h8-p63",
+                "1003-A-h2-h8-p64",
+                "1003-A-h2-h8-p65"
             ]
-        },
-        "op":"added"
-    },
-    "1003-2-j":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(j) Home purchase loan means a closed-end mortgage loan or an open-end line of credit that is for the purpose, in whole or in part, of purchasing a dwelling.",
-            "label":[
-                "1003",
-                "2",
-                "j"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-k":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(k) Loan/Application Register means both the record of information required to be collected pursuant to \u00a7 1003.4 and the record submitted annually or quarterly, as applicable, pursuant to \u00a7 1003.5(a).",
-            "label":[
-                "1003",
-                "2",
-                "k"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-1-c":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    14
-                ],
-                [
-                    "insert",
-                    4,
-                    "This"
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Scope"
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(i) Home improvement loan means a closed-end mortgage loan or an open-end line of credit that is for the purpose, in whole or in part, of repairing, rehabilitating, remodeling, or improving a dwelling or the real property on which the dwelling is located.",
-            "label":[
-                "1003",
-                "2",
-                "i"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -4545,85 +3794,28 @@
         },
         "op":"added"
     },
-    "1003-2-m-2":{
+    "1003-A-h2-h3":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(2) Metropolitan Division (MD) means a Metropolitan Division of an MSA, as defined by the U.S. Office of Management and Budget.",
-            "label":[
-                "1003",
-                "2",
-                "m",
-                "2"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-p":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(p) Refinancing means a closed-end mortgage loan or an open-end line of credit in which a new, dwelling-secured debt obligation satisfies and replaces an existing, dwelling-secured debt obligation by the same borrower.",
-            "label":[
-                "1003",
-                "2",
-                "p"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-q":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(q) Reverse mortgage means a closed-end mortgage loan or an open-end line of credit that is a reverse mortgage transaction as defined in Regulation Z, 12 CFR 1026.33(a), but without regard to whether the security interest is created in a principal dwelling.",
-            "label":[
-                "1003",
-                "2",
-                "q"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-A-h2-h8-2-g":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"g. Code 9 for: Length of residence; Temporary residence; and Other reasons specified on notice.",
+            "title":"A. Application or Loan Information",
+            "text":"",
             "label":[
                 "1003",
                 "A",
                 "h2",
-                "h8",
-                "2",
-                "g"
+                "h3"
             ],
             "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-A-h2-h3-7-c":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"c. For a home improvement loan, enter the entire amount of the loan\u2014including unpaid finance charges if that is how such loans are recorded on your books\u2014even if only a part of the proceeds is intended for home improvement.",
-            "label":[
-                "1003",
-                "A",
-                "h2",
-                "h3",
-                "7",
-                "c"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1003-A-h2-h3-1",
+                "1003-A-h2-h3-2",
+                "1003-A-h2-h3-3",
+                "1003-A-h2-h3-4",
+                "1003-A-h2-h3-5",
+                "1003-A-h2-h3-6",
+                "1003-A-h2-h3-7",
+                "1003-A-h2-h3-8"
+            ]
         },
         "op":"added"
     }
