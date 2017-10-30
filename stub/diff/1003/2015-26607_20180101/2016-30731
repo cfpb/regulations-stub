@@ -1830,6 +1830,9 @@
         },
         "op":"added"
     },
+    "1003-4-a-1-i-Interp":{
+        "op":"deleted"
+    },
     "1003-4-a-1-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -3974,8 +3977,60 @@
     "1003-4-a-Interp-3-ii":{
         "op":"deleted"
     },
-    "1003-4-a-1-i-Interp":{
-        "op":"deleted"
+    "1003-A-h2-h3-p15":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Code 1\u2014Preapproval requested",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h3",
+                "p15"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-A-h2-h3-p17":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Code 3\u2014Not applicable",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h3",
+                "p17"
+            ],
+            "node_type":"appendix",
+            "child_labels":[
+                "1003-A-h2-h3-p17-a",
+                "1003-A-h2-h3-p17-b",
+                "1003-A-h2-h3-p17-c"
+            ]
+        },
+        "op":"added"
+    },
+    "1003-A-h2-h3-p16":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Code 2\u2014Preapproval not requested",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h3",
+                "p16"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-5-Interp":{
         "op":"deleted"
@@ -4474,6 +4529,9 @@
         "op":"deleted"
     },
     "1003-4-a-8-i-Interp-3":{
+        "op":"deleted"
+    },
+    "1003-4-a-8-ii-Interp-5":{
         "op":"deleted"
     },
     "1003-2-Dwelling":{
@@ -5825,8 +5883,59 @@
         ],
         "op":"modified"
     },
-    "1003-4-a-8-ii-Interp-5":{
-        "op":"deleted"
+    "1003-A-h2-h3-p17-c":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"c. Enter Code 3 for applications or loans for home improvement or refinancing, and for purchased loans.",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h3",
+                "p17",
+                "c"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-A-h2-h3-p17-b":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"b. Enter Code 3 if your institution does not have a preapproval program as defined in \u00a7 1003.2.",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h3",
+                "p17",
+                "b"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-A-h2-h3-p17-a":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"a. Enter Code 2 if your institution has a covered preapproval program but the applicant does not request a preapproval.",
+            "label":[
+                "1003",
+                "A",
+                "h2",
+                "h3",
+                "p17",
+                "a"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-35":{
         "op":"deleted"

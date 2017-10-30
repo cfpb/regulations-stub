@@ -145,7 +145,7 @@
         "node":{
             "tagged_text":null,
             "title":"Consistency with Regulation B.",
-            "text":"Bureau interpretations that appear in the official commentary to Regulation B (Equal Credit Opportunity Act, 12 CFR part 1002, Supplement I) are generally applicable to the definition of application under Regulation C. However, under Regulation C the definition of an application does not include prequalification requests.",
+            "text":" Bureau interpretations that appear in the official commentary to Regulation B (Equal Credit Opportunity Act, 12 CFR part 1002, Supplement I) are generally applicable to the definition of application under Regulation C. However, under Regulation C the definition of an application does not include prequalification requests.",
             "label":[
                 "1003",
                 "2",
@@ -1511,8 +1511,8 @@
     "1003-2-b-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(1) In general.Application means an oral or written request for a covered loan that is made in accordance with procedures used by a financial institution for the type of credit requested.",
+            "title":"In general.",
+            "text":"(1) Application means an oral or written request for a covered loan that is made in accordance with procedures used by a financial institution for the type of credit requested.",
             "label":[
                 "1003",
                 "2",
@@ -1527,8 +1527,8 @@
     "1003-2-b-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(2) Preapproval programs.A request for preapproval for a home purchase loan, other than a home purchase loan that will be an open-end line of credit, a reverse mortgage, or secured by a multifamily dwelling, is an application under this section if the request is reviewed under a program in which the financial institution, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:",
+            "title":"Preapproval programs.",
+            "text":"(2) A request for preapproval for a home purchase loan, other than a home purchase loan that will be an open-end line of credit, a reverse mortgage, or secured by a multifamily dwelling, is an application under this section if the request is reviewed under a program in which the financial institution, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:",
             "label":[
                 "1003",
                 "2",
@@ -2282,8 +2282,8 @@
     "1003-2-d-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Dwelling-secured.",
-            "text":"Section 1003.2(d) defines a closed-end mortgage loan as an extension of credit that is secured by a lien on a dwelling and that is not an open-end line of credit under \u00a7 1003.2(o). Thus, for example, a loan to purchase a dwelling and secured only by a personal guarantee is not a closed-end mortgage loan because it is not dwelling-secured.",
+            "title":"Dwelling-secured",
+            "text":". Section 1003.2(d) defines a closed-end mortgage loan as an extension of credit that is secured by a lien on a dwelling and that is not an open-end line of credit under \u00a7 1003.2(o). Thus, for example, a loan to purchase a dwelling and secured only by a personal guarantee is not a closed-end mortgage loan because it is not dwelling-secured.",
             "label":[
                 "1003",
                 "2",
@@ -5329,7 +5329,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(c) Excluded transactions.The requirements of this part do not apply to:",
+            "text":"(c) Exempt institutions and excluded transactions.The requirements of this part do not apply to:",
             "label":[
                 "1003",
                 "3",
@@ -5968,22 +5968,6 @@
     "1003-2-FinancialInstitution-2-iii-B":{
         "op":"deleted"
     },
-    "1003-C-1-p15":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Alternatively, to calculate without using the modulus operator, divide the numbers in step 2 above by 97. The result is 1042617929129312294946332267952920.618556701030928. Truncate the remainder to three digits, which is .618, and multiply it by .97. The result is 59.946. Round this result to the nearest whole number, which is 60.",
-            "label":[
-                "1003",
-                "C",
-                "1",
-                "p15"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-2-FinancialInstitution-2-iii-A":{
         "op":"deleted"
     },
@@ -6443,26 +6427,43 @@
     "1003-6-a":{
         "text":[
             [
+                "insert",
+                46,
+                "Act or this part is subject to administrative sanctions as provided in section 305 of Act (12 U.S.C. 2804), including "
+            ],
+            [
                 [
                     "delete",
-                    140,
-                    144
+                    50,
+                    66
                 ],
                 [
                     "insert",
-                    140,
-                    "Act (12 U.S.C. 2804),"
+                    50,
+                    "imposition of civil money penalties, where applicable. Compliance"
                 ]
             ],
             [
                 [
                     "delete",
-                    282,
+                    70,
+                    117
+                ],
+                [
+                    "insert",
+                    70,
+                    "enforced by the agencies listed"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    140,
                     303
                 ],
                 [
                     "insert",
-                    282,
+                    140,
                     "Act."
                 ]
             ]
@@ -6516,7 +6517,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(2) If a financial institution required to comply with \u00a7 1003.5(a)(1)(ii) makes a good-faith effort to report all data required to be reported pursuant to \u00a7 1003.5(a)(1)(ii) fully and accurately within 60 calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the inaccuracy or omission is not a violation of Act or this part provided that the institution corrects or completes the data prior to submitting its annual loan/application register pursuant to \u00a7 1003.5(a)(1)(i).",
+            "text":"(2) If a financial institution required to comply with \u00a7 1003.5(a)(1)(ii) makes a good-faith effort to report all data required to be reported pursuant to \u00a7 1003.5(a)(1)(ii) fully and accurately within 60 calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the inaccuracy or omission is not a violation of the Act or this part provided that the institution corrects or completes the data prior to submitting its annual loan/application register pursuant to \u00a7 1003.5(a)(1)(i).",
             "label":[
                 "1003",
                 "6",
@@ -6907,6 +6908,23 @@
             "child_labels":[
                 "1003-4-a-13-Interp-1"
             ]
+        },
+        "op":"added"
+    },
+    "1003-4-a-7-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(iii) For a reverse mortgage, the initial principal limit, as determined pursuant to section 255 of the National Housing Act (12 U.S.C. 1715z-20) and implementing regulations and mortgagee letters issued by the U.S. Department of Housing and Urban Development.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "7",
+                "iii"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -7374,7 +7392,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(m) Metropolitan Statistical Area (MSA) and Metropolitan Division (MD).",
+            "text":"(m) Metropolitan Statistical Area (MSA) and Metropolitan Division(MD).",
             "label":[
                 "1003",
                 "2",
@@ -7396,6 +7414,18 @@
     },
     "1003-1-c":{
         "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    14
+                ],
+                [
+                    "insert",
+                    4,
+                    "This"
+                ]
+            ],
             [
                 "insert",
                 31,
@@ -7470,6 +7500,13 @@
                     446,
                     "Commonwealth of Puerto Rico."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Scope"
             ]
         ],
         "op":"modified"
@@ -8700,6 +8737,23 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1003-2":{
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    21
+                ],
+                [
+                    "insert",
+                    0,
+                    "Definitions"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-Application-Interp-3":{
         "op":"deleted"
@@ -10900,7 +10954,7 @@
         "node":{
             "tagged_text":null,
             "title":"Second mortgages that finance the downpayments on first mortgages.",
-            "text":"If an institution making a first mortgage loan to a home purchaser also makes a second mortgage loan or line of credit to the same purchaser to finance part or all of the home purchaser's downpayment, both the first mortgage loan and the second mortgage loan or line of credit are home purchase loans.",
+            "text":" If an institution making a first mortgage loan to a home purchaser also makes a second mortgage loan or line of credit to the same purchaser to finance part or all of the home purchaser's downpayment, both the first mortgage loan and the second mortgage loan or line of credit are home purchase loans.",
             "label":[
                 "1003",
                 "2",
@@ -12163,7 +12217,7 @@
     "1003-3-c-9-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Loan or line of credit used primarily for agricultural purposes.",
+            "title":"Loan or line of credit used primarily for agricultural purposes. ",
             "text":"Section 1003.3(c)(9) provides that an institution does not report a closed-end mortgage loan or an open-end line of credit used primarily for agricultural purposes. A loan or line of credit is used primarily for agricultural purposes if its funds will be used primarily for agricultural purposes, or if the loan or line of credit is secured by a dwelling that is located on real property that is used primarily for agricultural purposes (e.g., a farm). An institution may refer to comment 3(a)-8 in the official interpretations of Regulation Z, 12 CFR part 1026, supplement I, for guidance on what is an agricultural purpose. An institution may use any reasonable standard to determine the primary use of the property. An institution may select the standard to apply on a case-by-case basis.",
             "label":[
                 "1003",
@@ -12195,17 +12249,17 @@
         },
         "op":"added"
     },
-    "1003-4-a-7-iii":{
+    "1003-4-a-1-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(iii) For a reverse mortgage, the initial principal limit, as determined pursuant to section 255 of the National Housing Act (12 U.S.C. 1715z-20) and implementing regulations and mortgagee letters issued by the U.S. Department of Housing and Urban Development.",
+            "text":"(ii) Except for purchased covered loans, the date the application was received or the date shown on the application form.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "7",
-                "iii"
+                "1",
+                "ii"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -12764,7 +12818,7 @@
     "1003-2-Refinancing":{
         "op":"deleted"
     },
-    "1003-2-HomePurchaseLoan":{
+    "1003-2-Metropolitan":{
         "op":"deleted"
     },
     "1003-4-a-8-Interp-3":{
@@ -12798,7 +12852,7 @@
     "1003-2-m-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Use of terms \u201cMetropolitan Statistical Area (MSA)\u201d and \u201cMetropolitan Division (MD).\u201d ",
+            "title":"Use of terms \u201cMetropolitan Statistical Area (MSA)\u201d and \u201cMetropolitan Division (MD).\u201d",
             "text":"The U.S. Office of Management and Budget (OMB) defines Metropolitan Statistical Areas (MSAs) and Metropolitan Divisions (MDs) to provide nationally consistent definitions for collecting, tabulating, and publishing Federal statistics for a set of geographic areas. For all purposes under Regulation C, if an MSA is divided by OMB into MDs, the appropriate geographic unit to be used is the MD; if an MSA is not so divided by OMB into MDs, the appropriate geographic unit to be used is the MSA.",
             "label":[
                 "1003",
@@ -13382,7 +13436,7 @@
         "node":{
             "tagged_text":null,
             "title":"Applicant data\u2014general.",
-            "text":"Refer to appendix B to this part for instructions on collection of an applicant's ethnicity, race, and sex.",
+            "text":"Refer to Appendix B to this part for instructions on collection of an applicant's ethnicity, race, and sex.",
             "label":[
                 "1003",
                 "4",
@@ -14189,6 +14243,11 @@
     "1003-3":{
         "title":[
             [
+                "delete",
+                0,
+                9
+            ],
+            [
                 [
                     "delete",
                     16,
@@ -14355,19 +14414,18 @@
         },
         "op":"added"
     },
-    "1003-4-a-1-ii":{
+    "1003-C-1-p15":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(ii) Except for purchased covered loans, the date the application was received or the date shown on the application form.",
+            "text":"Alternatively, to calculate without using the modulus operator, divide the numbers in step 2 above by 97. The result is 1042617929129312294946332267952920.618556701030928. Truncate the remainder to three digits, which is .618, and multiply it by .97. The result is 59.946. Round this result to the nearest whole number, which is 60.",
             "label":[
                 "1003",
-                "4",
-                "a",
+                "C",
                 "1",
-                "ii"
+                "p15"
             ],
-            "node_type":"regtext",
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
@@ -14421,7 +14479,7 @@
         },
         "op":"added"
     },
-    "1003-2-Metropolitan":{
+    "1003-2-HomePurchaseLoan":{
         "op":"deleted"
     },
     "1003-4-a-33-i":{
