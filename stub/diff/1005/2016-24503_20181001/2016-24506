@@ -393,8 +393,8 @@
     "1005-18-c-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Electronic access. A consumer is deemed to have accessed a payroll card account electronically when the consumer enters a user identification code or password or otherwise complies with a security procedure used by an institution to verify the consumer's identity. An institution is not required to determine whether a consumer has in fact accessed information about specific transactions to trigger the beginning of the 60-day periods for liability limits and error resolution under \u00a7\u00a7 1005.6 and 1005.11.",
+            "title":"Electronic access.",
+            "text":"A consumer is deemed to have accessed a payroll card account electronically when the consumer enters a user identification code or password or otherwise complies with a security procedure used by an institution to verify the consumer's identity. An institution is not required to determine whether a consumer has in fact accessed information about specific transactions to trigger the beginning of the 60-day periods for liability limits and error resolution under \u00a7\u00a7 1005.6 and 1005.11.",
             "label":[
                 "1005",
                 "18",
@@ -410,8 +410,8 @@
     "1005-18-c-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Untimely notice of error. An institution that provides a transaction history under \u00a7 1005.18(b)(1) is not required to comply with the requirements of \u00a7 1005.11 for any notice of error from the consumer pertaining to a transfer that occurred more than 60 days prior to the earlier of the date the consumer electronically accesses the account or the date the financial institution sends a written history upon the consumer's request. (Alternatively, as provided in \u00a7 1005.18(c)(4)(ii), an institution need not comply with the requirements of \u00a7 1005.11 with respect to any notice of error received from the consumer more than 120 days after the date of posting of the transfer allegedly in error.) Where the consumer's assertion of error involves an unauthorized EFT, however, the institution must comply with \u00a7 1005.6 before it may impose any liability on the consumer.",
+            "title":"Untimely notice of error.",
+            "text":"An institution that provides a transaction history under \u00a7 1005.18(b)(1) is not required to comply with the requirements of \u00a7 1005.11 for any notice of error from the consumer pertaining to a transfer that occurred more than 60 days prior to the earlier of the date the consumer electronically accesses the account or the date the financial institution sends a written history upon the consumer's request. (Alternatively, as provided in \u00a7 1005.18(c)(4)(ii), an institution need not comply with the requirements of \u00a7 1005.11 with respect to any notice of error received from the consumer more than 120 days after the date of posting of the transfer allegedly in error.) Where the consumer's assertion of error involves an unauthorized EFT, however, the institution must comply with \u00a7 1005.6 before it may impose any liability on the consumer.",
             "label":[
                 "1005",
                 "18",
@@ -427,8 +427,8 @@
     "1005-18-c-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Error resolution safe harbor provision. Institutions that choose to investigate notices of error provided up to 120 days from the date a transaction has posted to a consumer's account may still disclose the error resolution time period required by the regulation (as set forth in the Model Form in Appendix A-7). Specifically, an institution may disclose to payroll card account holders that the institution will investigate any notice of error provided within 60 days of the consumer electronically accessing an account or receiving a written history upon request that reflects the error, even if, for some or all transactions, the institution investigates any notice of error provided up to 120 days from the date that the transaction alleged to be in error has posted to the consumer's account. Similarly, an institution's summary of the consumer's liability (as required under \u00a7 1005.7(b)(1)) may disclose that liability is based on the consumer providing notice of error within 60 days of the consumer electronically accessing an account or receiving a written history reflecting the error, even if, for some or all transactions, the institution allows a consumer to assert a notice of error up to 120 days from the date of posting of the alleged error.",
+            "title":"Error resolution safe harbor provision.",
+            "text":"Institutions that choose to investigate notices of error provided up to 120 days from the date a transaction has posted to a consumer's account may still disclose the error resolution time period required by the regulation (as set forth in the Model Form in Appendix A-7). Specifically, an institution may disclose to payroll card account holders that the institution will investigate any notice of error provided within 60 days of the consumer electronically accessing an account or receiving a written history upon request that reflects the error, even if, for some or all transactions, the institution investigates any notice of error provided up to 120 days from the date that the transaction alleged to be in error has posted to the consumer's account. Similarly, an institution's summary of the consumer's liability (as required under \u00a7 1005.7(b)(1)) may disclose that liability is based on the consumer providing notice of error within 60 days of the consumer electronically accessing an account or receiving a written history reflecting the error, even if, for some or all transactions, the institution allows a consumer to assert a notice of error up to 120 days from the date of posting of the alleged error.",
             "label":[
                 "1005",
                 "18",
@@ -1022,13 +1022,13 @@
             [
                 [
                     "delete",
-                    9,
+                    0,
                     47
                 ],
                 [
                     "insert",
-                    9,
-                    "rules. For access devices that also constitute credit cards, the issuance rules"
+                    0,
+                    "For access devices that also constitute credit cards, the issuance rules"
                 ]
             ],
             [
@@ -1078,6 +1078,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Issuance rules."
+            ]
+        ],
         "op":"modified"
     },
     "1005-12-a-Interp-3":{
@@ -1085,13 +1092,13 @@
             [
                 [
                     "delete",
-                    10,
+                    0,
                     26
                 ],
                 [
                     "insert",
-                    10,
-                    "service. The addition"
+                    0,
+                    "The addition"
                 ]
             ],
             [
@@ -1160,21 +1167,28 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Overdraft service."
+            ]
+        ],
         "op":"modified"
     },
     "1005-12-a-Interp-1":{
         "text":[
             [
-                [
-                    "delete",
-                    23,
-                    646
-                ],
-                [
-                    "insert",
-                    23,
-                    "regulation."
-                ]
+                "delete",
+                0,
+                646
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Determining applicable regulation."
             ]
         ],
         "op":"modified"
@@ -1439,16 +1453,16 @@
     "1005-A-Interp-3":{
         "text":[
             [
-                [
-                    "delete",
-                    13,
-                    93
-                ],
-                [
-                    "insert",
-                    13,
-                    "clauses."
-                ]
+                "delete",
+                0,
+                94
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Altering the clauses."
             ]
         ],
         "op":"modified"
@@ -1458,120 +1472,89 @@
             [
                 [
                     "delete",
-                    7,
-                    16
+                    0,
+                    3
                 ],
                 [
                     "insert",
-                    7,
-                    "forms. The"
+                    0,
+                    "The appendix contains model disclosure clauses for optional use by financial institutions and remittance transfer providers to facilitate compliance with the disclosure requirements"
                 ]
             ],
             [
                 [
                     "delete",
-                    198,
+                    7,
+                    51
+                ],
+                [
+                    "insert",
+                    7,
+                    "\u00a7\u00a7 1005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(d)(1) and (2), 1005.18(c)(1) and (2), 1005.31, and 1005.36. The use of appropriate"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    60,
+                    79
+                ],
+                [
+                    "insert",
+                    60,
+                    "in making disclosures will protect a"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    90,
+                    102
+                ],
+                [
+                    "insert",
+                    90,
+                    "institution"
+                ]
+            ],
+            [
+                "insert",
+                107,
+                "a "
+            ],
+            [
+                [
+                    "delete",
+                    127,
+                    166
+                ],
+                [
+                    "insert",
+                    127,
+                    "provider from liability under sections 916 and 917 of"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    171,
                     213
                 ],
                 [
                     "insert",
-                    198,
-                    "\u00a7\u00a7 1005.5(b)(2)"
+                    171,
+                    "act provided the clauses accurately reflect the institution's EFT services"
                 ]
             ],
             [
                 [
                     "delete",
-                    272,
-                    297
-                ],
-                [
-                    "insert",
-                    272,
-                    "1005.15(d)(1)"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    307,
-                    330
-                ],
-                [
-                    "insert",
-                    307,
-                    "1005.18(c)(1)"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    335,
-                    353
-                ],
-                [
-                    "insert",
-                    335,
-                    "(2), 1005.31, 1005.32"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    358,
-                    379
-                ],
-                [
-                    "insert",
-                    358,
-                    "1005.36.  The use of appropriate clauses in making disclosures will protect a financial institution"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    384,
-                    400
-                ],
-                [
-                    "insert",
-                    384,
-                    "a remittance transfer provider from liability under sections 916 and 917"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    404,
-                    415
-                ],
-                [
-                    "insert",
-                    404,
-                    "the act provided the"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    424,
-                    482
-                ],
-                [
-                    "insert",
-                    424,
-                    "accurately reflect the institution's EFT services"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    487,
+                    218,
                     488
                 ],
                 [
                     "insert",
-                    487,
+                    218,
                     "the provider's"
                 ]
             ],
@@ -1579,6 +1562,13 @@
                 "delete",
                 509,
                 681
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Use of forms."
             ]
         ],
         "op":"modified"
@@ -2206,8 +2196,8 @@
     "1005-18-b-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Posted transactions. A history of transactions provided under \u00a7\u00a7 1005.18(b)(1)(ii) and (iii) shall reflect transfers once they have been posted to the account. Thus, an institution does not need to include transactions that have been authorized, but that have not yet posted to the account.",
+            "title":"Posted transactions.",
+            "text":"A history of transactions provided under \u00a7\u00a7 1005.18(b)(1)(ii) and (iii) shall reflect transfers once they have been posted to the account. Thus, an institution does not need to include transactions that have been authorized, but that have not yet posted to the account.",
             "label":[
                 "1005",
                 "18",
@@ -2223,8 +2213,8 @@
     "1005-18-b-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Electronic history. The electronic history required under \u00a7 1005.18(b)(1)(ii) must be provided in a form that the consumer may keep, as required under \u00a7 1005.4(a)(1). Financial institutions may satisfy this requirement if they make the electronic history available in a format that is capable of being retained. For example, an institution satisfies the requirement if it provides a history at a Web site in a format that is capable of being printed or stored electronically using a web browser.",
+            "title":"Electronic history.",
+            "text":"The electronic history required under \u00a7 1005.18(b)(1)(ii) must be provided in a form that the consumer may keep, as required under \u00a7 1005.4(a)(1). Financial institutions may satisfy this requirement if they make the electronic history available in a format that is capable of being retained. For example, an institution satisfies the requirement if it provides a history at a Web site in a format that is capable of being printed or stored electronically using a web browser.",
             "label":[
                 "1005",
                 "18",
@@ -2350,7 +2340,7 @@
                 [
                     "insert",
                     0,
-                    "General. Although no particular rules govern type size, number of pages, or the relative conspicuousness of various terms, the"
+                    "Although no particular rules govern type size, number of pages, or the relative conspicuousness of various terms, the"
                 ]
             ],
             [
@@ -2379,6 +2369,13 @@
                 "delete",
                 277,
                 405
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "General."
             ]
         ],
         "op":"modified"
@@ -3373,13 +3370,13 @@
             [
                 [
                     "delete",
-                    11,
+                    0,
                     35
                 ],
                 [
                     "insert",
-                    11,
-                    "determination. The Bureau recognizes state law preemption"
+                    0,
+                    "The Bureau recognizes state law preemption"
                 ]
             ],
             [
@@ -3434,6 +3431,13 @@
                     166,
                     "law, effective March 30, 1981:"
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Preemption determination."
             ]
         ],
         "op":"modified"
@@ -4048,13 +4052,13 @@
             [
                 [
                     "delete",
-                    37,
+                    0,
                     53
                 ],
                 [
                     "insert",
-                    37,
-                    "covered. The term \u201cpayroll card account\u201d does not include a card used solely to disburse incentive-based payments (other than commissions which can represent the primary means through which a consumer is paid), such as bonuses, which are unlikely to be a consumer's primary source"
+                    0,
+                    "The term \u201cpayroll card account\u201d does not include a card used solely to disburse incentive-based payments (other than commissions which can represent the primary means through which a consumer is paid), such as bonuses, which are unlikely to be a consumer's primary source"
                 ]
             ],
             [
@@ -4080,6 +4084,13 @@
                     81,
                     "the regulation, even if a particular transaction involves payment of a bonus, other incentive-based payment, or reimbursement, or the transaction does not represent a transfer of wages, salary, or other employee compensation."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Certain employment-related cards not covered."
             ]
         ],
         "op":"modified"
@@ -4371,8 +4382,8 @@
     "1005-18-a-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Issuance of access device. Consistent with \u00a7 1005.5(a), a financial institution may issue an access device only in response to an oral or written request for the device, or as a renewal or substitute for an accepted access device. A consumer is deemed to request an access device for a payroll card account when the consumer chooses to receive salary or other compensation through a payroll card account.",
+            "title":"Issuance of access device.",
+            "text":"Consistent with \u00a7 1005.5(a), a financial institution may issue an access device only in response to an oral or written request for the device, or as a renewal or substitute for an accepted access device. A consumer is deemed to request an access device for a payroll card account when the consumer chooses to receive salary or other compensation through a payroll card account.",
             "label":[
                 "1005",
                 "18",
@@ -4388,8 +4399,8 @@
     "1005-18-a-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Application to employers and service providers. Typically, employers and third-party service providers do not meet the definition of a \u201cfinancial institution\u201d subject to the regulation because they neither hold payroll card accounts nor issue payroll cards and agree with consumers to provide EFT services in connection with payroll card accounts. However, to the extent an employer or a service provider undertakes either of these functions, it would be deemed a financial institution under the regulation.",
+            "title":"Application to employers and service providers.",
+            "text":"Typically, employers and third-party service providers do not meet the definition of a \u201cfinancial institution\u201d subject to the regulation because they neither hold payroll card accounts nor issue payroll cards and agree with consumers to provide EFT services in connection with payroll card accounts. However, to the extent an employer or a service provider undertakes either of these functions, it would be deemed a financial institution under the regulation.",
             "label":[
                 "1005",
                 "18",

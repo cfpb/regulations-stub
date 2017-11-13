@@ -628,6 +628,11 @@
         "text":[
             [
                 "delete",
+                0,
+                31
+            ],
+            [
+                "delete",
                 113,
                 133
             ],
@@ -688,6 +693,13 @@
                 "delete",
                 498,
                 1340
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Exchange rate for calculation."
             ]
         ],
         "op":"modified"
@@ -765,117 +777,9 @@
     "1005-A-Interp-2":{
         "text":[
             [
-                [
-                    "delete",
-                    0,
-                    3
-                ],
-                [
-                    "insert",
-                    0,
-                    "The appendix contains model disclosure clauses for optional use by financial institutions and remittance transfer providers to facilitate compliance with the disclosure requirements"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    7,
-                    13
-                ],
-                [
-                    "insert",
-                    7,
-                    "sections \u00a7\u00a7 1005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(d)(1) and (2), 1005.18(c)(1) and (2), 1005.31, and 1005.36."
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    18,
-                    52
-                ],
-                [
-                    "insert",
-                    18,
-                    "use of appropriate"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    61,
-                    80
-                ],
-                [
-                    "insert",
-                    61,
-                    "in making disclosures will protect a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    91,
-                    103
-                ],
-                [
-                    "insert",
-                    91,
-                    "institution"
-                ]
-            ],
-            [
                 "insert",
-                108,
-                "a "
-            ],
-            [
-                [
-                    "delete",
-                    128,
-                    167
-                ],
-                [
-                    "insert",
-                    128,
-                    "provider from liability under sections 916 and 917 of"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    172,
-                    214
-                ],
-                [
-                    "insert",
-                    172,
-                    "act provided the clauses accurately reflect the institution's EFT services"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    219,
-                    445
-                ],
-                [
-                    "insert",
-                    219,
-                    "the provider's"
-                ]
-            ],
-            [
-                "delete",
-                466,
-                638
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Use of forms."
+                185,
+                "sections "
             ]
         ],
         "op":"modified"
@@ -1024,159 +928,91 @@
     "1005-31-b-1-vi-Interp-1":{
         "text":[
             [
-                "insert",
-                5,
-                "and taxes "
-            ],
-            [
-                "delete",
-                121,
-                141
+                [
+                    "delete",
+                    0,
+                    4
+                ],
+                [
+                    "insert",
+                    0,
+                    "Section 1005.31(b)(1)(vi) requires the disclosure of fees and taxes in the currency in which the funds will be received by the designated recipient. A fee or tax described in \u00a7 1005.31(b)(1)(vi) may be imposed in one currency, but the funds may be received by the designated recipient in another currency. In such cases, the remittance transfer provider must calculate the fee or tax to be"
+                ]
             ],
             [
                 [
                     "delete",
-                    146,
+                    15,
+                    21
+                ],
+                [
+                    "insert",
+                    15,
+                    "using the exchange rate in \u00a7 1005.31(b)(1)(iv), including an estimated exchange rate to the extent permitted by \u00a7 1005.32, prior to any rounding of the exchange rate. For example, an intermediary institution in an international wire transfer may impose a fee in U.S. dollars, but funds are ultimately deposited in the recipient's account in Euros. In this case, the provider would disclose the fee to the sender expressed in Euros, calculated using the exchange rate used by the provider for the remittance transfer. For purposes of \u00a7 1005.31(b)(1)(v), (vi), and (vii), if a provider does not have specific knowledge regarding the"
+                ]
+            ],
+            [
+                "insert",
+                57,
+                " received, the provider may rely on a sender's representation as to the currency in which funds will be"
+            ],
+            [
+                [
+                    "delete",
+                    68,
+                    152
+                ],
+                [
+                    "insert",
+                    68,
+                    "For example, if a sender requests that a remittance transfer be deposited into an account in U.S. dollars, the provider may provide the disclosures required in \u00a7 1005.31(b)(1)(v), (vi), and (vii) in U.S. dollars, even if the account is actually denominated in Mexican pesos and the funds are subsequently converted prior to deposit into the account. If a sender does not know the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    171,
                     180
                 ],
                 [
                     "insert",
-                    146,
-                    "and taxes in the currency in which the funds"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    226,
-                    228
-                ],
-                [
-                    "insert",
-                    226,
-                    " "
-                ]
-            ],
-            [
-                "delete",
-                230,
-                250
-            ],
-            [
-                "insert",
-                254,
-                "or tax "
-            ],
-            [
-                [
-                    "delete",
-                    397,
-                    399
-                ],
-                [
-                    "insert",
-                    397,
-                    " "
+                    171,
+                    "funds"
                 ]
             ],
             [
                 "insert",
-                470,
-                "or tax "
+                188,
+                " received, the provider may assume that the currency in which funds will be"
             ],
             [
                 [
                     "delete",
-                    486,
-                    491
+                    198,
+                    417
                 ],
                 [
                     "insert",
-                    486,
-                    "using the exchange rate in"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    494,
-                    527
-                ],
-                [
-                    "insert",
-                    494,
-                    "1005.31(b)(1)(iv), including an estimated exchange rate to the extent permitted by \u00a7 1005.32, prior to any rounding"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    531,
-                    538
-                ],
-                [
-                    "insert",
-                    531,
-                    "the exchange rate. For example, an intermediary institution in an international wire transfer may impose a fee in U.S. dollars, but funds are ultimately deposited in the recipient's account in Euros. In this case, the provider would disclose the fee to the sender expressed in Euros, calculated"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    563,
-                    565
-                ],
-                [
-                    "insert",
-                    563,
-                    "used by the provider for the remittance transfer. For purposes of"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    568,
-                    596
-                ],
-                [
-                    "insert",
-                    568,
-                    "1005.31(b)(1)(v), (vi), and (vii), if a provider does not have specific knowledge regarding the currency in which the funds will be received, the provider may rely on a sender's representation as to the currency in which funds will be received. For example, if a sender requests that a remittance transfer be deposited into"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    600,
-                    623
-                ],
-                [
-                    "insert",
-                    600,
-                    "account in U.S. dollars, the provider may provide the disclosures required in \u00a7 1005.31(b)(1)(v), (vi), and (vii) in U.S. dollars, even if the account is actually denominated in Mexican pesos and the funds are subsequently converted prior"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    627,
-                    789
-                ],
-                [
-                    "insert",
-                    627,
-                    "deposit into the account. If a sender does not know the currency in which funds will be received, the provider may assume that the currency in which funds will be received is the currency in which the remittance"
+                    198,
+                    "is the currency in which the"
                 ]
             ],
             [
                 "delete",
-                799,
+                438,
                 1651
             ],
             [
                 "delete",
                 1654,
                 1967
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Fees and taxes disclosed in the currency in which the funds will be received."
             ]
         ],
         "op":"modified"
@@ -1230,8 +1066,8 @@
     "1005-31-b-1-vi-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Determining taxes. The amount of taxes imposed by a person other than the provider may depend on the tax status of the sender or recipient, the type of accounts or financial institutions involved in the transfer, or other variables. For example, the amount of tax may depend on whether the receiver is a resident of the country in which the funds are received or the type of account to which the funds are delivered. If a provider does not have specific knowledge regarding variables that affect the amount of taxes imposed by a person other than the provider for purposes of determining these taxes, the provider may rely on a sender's representations regarding these variables. If a sender does not know the information relating to the variables that affect the amount of taxes imposed by a person other than the provider, the provider may disclose the highest possible tax that could be imposed for the remittance transfer with respect to any unknown variable.",
+            "title":"Determining taxes.",
+            "text":"The amount of taxes imposed by a person other than the provider may depend on the tax status of the sender or recipient, the type of accounts or financial institutions involved in the transfer, or other variables. For example, the amount of tax may depend on whether the receiver is a resident of the country in which the funds are received or the type of account to which the funds are delivered. If a provider does not have specific knowledge regarding variables that affect the amount of taxes imposed by a person other than the provider for purposes of determining these taxes, the provider may rely on a sender's representations regarding these variables. If a sender does not know the information relating to the variables that affect the amount of taxes imposed by a person other than the provider, the provider may disclose the highest possible tax that could be imposed for the remittance transfer with respect to any unknown variable.",
             "label":[
                 "1005",
                 "31",
@@ -1421,56 +1257,78 @@
     "1005-31-b-Interp-1":{
         "text":[
             [
+                "insert",
+                12,
+                "required by \u00a7 1005.31(b) need only be "
+            ],
+            [
                 [
                     "delete",
-                    120,
+                    21,
+                    23
+                ],
+                [
+                    "insert",
+                    21,
+                    "to the extent"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    36,
+                    47
+                ],
+                [
+                    "insert",
+                    36,
+                    "A remittance transfer provider may choose to omit an item of information"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    73,
+                    82
+                ],
+                [
+                    "insert",
+                    73,
+                    "if it is inapplicable to a particular transaction. Alternatively, a provider may disclose a term and state that an amount or item is \u201cnot applicable,\u201d \u201cN/A,\u201d or \u201cNone.\u201d For example, if fees or taxes are not imposed in connection with a particular transaction, the provider need not provide the disclosures about fees and taxes generally required by \u00a7 1005.31(b)(1)(ii) and (vi). Similarly, a web site need not"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    86,
                     122
                 ],
                 [
                     "insert",
-                    120,
-                    " "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    270,
-                    272
-                ],
-                [
-                    "insert",
-                    270,
-                    " "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    287,
-                    290
-                ],
-                [
-                    "insert",
-                    287,
-                    "a provider may disclose a term and state that an amount or item is \u201cnot applicable,\u201d \u201cN/A,\u201d or \u201cNone.\u201d For example, if fees or taxes are not imposed in connection with a particular transaction, the provider need not provide the"
+                    86,
+                    "disclosed if the provider does not maintain a web site. "
                 ]
             ],
             [
                 "insert",
-                303,
-                "about fees and taxes generally "
+                124,
+                "provider need not provide the exchange rate disclosure required by \u00a7 1005.31(b)(1)(iv) if a recipient receives funds in the currency in which the "
+            ],
+            [
+                "delete",
+                144,
+                226
             ],
             [
                 [
                     "delete",
-                    317,
+                    229,
                     363
                 ],
                 [
                     "insert",
-                    317,
-                    "1005.31(b)(1)(ii) and (vi). Similarly, a web site need not be disclosed if the provider does not maintain a web site. A provider need not provide the exchange rate disclosure required by \u00a7 1005.31(b)(1)(iv) if a recipient receives funds in the currency in which the remittance transfer is funded, or if funds are delivered into an account denominated in the currency in which the remittance transfer is funded. For example, if a sender in the United States sends funds from an account denominated in Euros to an account in France denominated in Euros, no exchange rate would need to be provided. Similarly, if a sender funds a remittance transfer in U.S. dollars and requests that a remittance transfer be delivered to the recipient in U.S. dollars, a provider need not"
+                    229,
+                    "funded, or if funds are delivered into an account denominated in the currency in which the remittance transfer is funded. For example, if a sender in the United States sends funds from an account denominated in Euros to an account in France denominated in Euros, no exchange rate would need to be provided. Similarly, if a sender funds a remittance transfer in U.S. dollars and requests that a remittance transfer be delivered to the recipient in U.S. dollars, a provider need not"
                 ]
             ],
             [
@@ -1489,6 +1347,13 @@
                 "delete",
                 1039,
                 1673
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Disclosures provided as applicable."
             ]
         ],
         "op":"modified"
@@ -1533,12 +1398,12 @@
             [
                 [
                     "delete",
-                    17,
+                    0,
                     25
                 ],
                 [
                     "insert",
-                    17,
+                    0,
                     "Section"
                 ]
             ],
@@ -1642,6 +1507,13 @@
                     981,
                     "1005.31(b)(1)(vi). "
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Transfer amount."
             ]
         ],
         "op":"modified"
@@ -2080,108 +1952,108 @@
             [
                 [
                     "delete",
-                    127,
-                    129
+                    89,
+                    91
                 ],
                 [
                     "insert",
-                    127,
+                    89,
                     " "
                 ]
             ],
             [
                 [
                     "delete",
-                    161,
-                    163
+                    123,
+                    125
                 ],
                 [
                     "insert",
-                    161,
+                    123,
                     "12"
                 ]
             ],
             [
                 [
                     "delete",
-                    224,
-                    226
+                    186,
+                    188
                 ],
                 [
                     "insert",
-                    224,
+                    186,
                     " "
                 ]
             ],
             [
                 [
                     "delete",
-                    375,
-                    382
+                    337,
+                    344
                 ],
                 [
                     "insert",
-                    375,
+                    337,
                     " Model"
                 ]
             ],
             [
                 [
                     "delete",
-                    529,
-                    536
+                    491,
+                    498
                 ],
                 [
                     "insert",
-                    529,
+                    491,
                     " Model"
                 ]
             ],
             [
                 [
                     "delete",
-                    543,
-                    569
+                    505,
+                    531
                 ],
                 [
                     "insert",
-                    543,
+                    505,
                     "A-33 through A-35"
                 ]
             ],
             [
                 [
                     "delete",
-                    582,
-                    604
+                    544,
+                    566
                 ],
                 [
                     "insert",
-                    582,
+                    544,
                     "how a provider could provide the required disclosures for dollar-to-dollar remittance transfers. These forms also demonstrate disclosure of the required content, in accordance with the grouping and proximity requirements of \u00a7 1005.31(c)(1) and (2), in both a register receipt format and an 8.5 inch by 11 inch format. Model Form A-36 provides long form"
                 ]
             ],
             [
                 "insert",
-                611,
+                573,
                 "error resolution and cancellation disclosures required by \u00a7 1005.31(b)(4), and Model Form A-37 provides short form model error resolution and cancellation disclosures required by \u00a7 1005.31(b)(2)(iv) and (vi). Model Forms A-38 through A-41 provide "
             ],
             [
                 [
                     "delete",
-                    620,
-                    862
+                    582,
+                    826
                 ],
                 [
                     "insert",
-                    620,
+                    582,
                     "for Spanish"
                 ]
             ],
             [
                 "delete",
-                872,
-                1738
+                836,
+                1692
             ]
         ],
         "op":"modified"
@@ -2233,8 +2105,20 @@
         "text":[
             [
                 "delete",
+                0,
+                8
+            ],
+            [
+                "delete",
                 144,
                 347
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Person."
             ]
         ],
         "op":"modified"
@@ -2802,106 +2686,67 @@
             [
                 [
                     "delete",
-                    187,
-                    189
+                    0,
+                    6
                 ],
                 [
                     "insert",
-                    187,
-                    " "
+                    0,
+                    "The remittance transfer provider is required to disclose the amount that will be received by the designated recipient in the currency in which the funds will be"
                 ]
             ],
             [
                 [
                     "delete",
-                    222,
-                    225
+                    21,
+                    49
                 ],
                 [
                     "insert",
-                    222,
-                    "all charges imposed on the remittance transfer that affect the amount received, including the"
+                    21,
+                    "amount received must reflect all charges imposed on the remittance transfer that affect the amount received, including the exchange rate and all fees and taxes imposed on the remittance transfer by the remittance transfer provider, the receiving institution, or any other party in the transmittal route of a remittance transfer. The disclosed amount received must be reduced by the amount of any fee or tax that"
                 ]
             ],
             [
                 [
                     "delete",
-                    235,
-                    240
-                ],
-                [
-                    "insert",
-                    235,
-                    "rate and"
-                ]
-            ],
-            [
-                "delete",
-                250,
-                258
-            ],
-            [
-                "delete",
-                262,
-                266
-            ],
-            [
-                [
-                    "delete",
-                    272,
+                    53,
                     281
                 ],
                 [
                     "insert",
-                    272,
+                    53,
                     "imposed"
                 ]
             ],
             [
-                [
-                    "delete",
-                    346,
-                    356
-                ],
-                [
-                    "insert",
-                    346,
-                    "the receiving institution, or"
-                ]
+                "delete",
+                311,
+                356
             ],
             [
                 [
                     "delete",
                     361,
-                    397
+                    506
                 ],
                 [
                     "insert",
                     361,
-                    "other party in the transmittal route of a remittance transfer. The disclosed amount received must"
+                    "person, even if that amount is imposed"
                 ]
             ],
             [
                 "delete",
-                401,
-                474
-            ],
-            [
-                [
-                    "delete",
-                    510,
-                    554
-                ],
-                [
-                    "insert",
-                    510,
-                    "tax that is imposed on the remittance transfer by any person, even if that amount is imposed"
-                ]
-            ],
-            [
-                "delete",
-                558,
+                510,
                 745
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Amount received."
             ]
         ],
         "op":"modified"
@@ -3073,60 +2918,50 @@
             [
                 [
                     "delete",
-                    188,
-                    190
+                    0,
+                    13
                 ],
                 [
                     "insert",
-                    188,
-                    " "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    237,
-                    239
-                ],
-                [
-                    "insert",
-                    237,
-                    " "
+                    0,
+                    "Certain disclosures required by \u00a7 1005.31(b) must be described using the terms set forth in \u00a7 1005.31(b) or substantially"
                 ]
             ],
             [
                 "insert",
-                297,
-                "to Colombia "
+                22,
+                "terms. Terms may be more specific than those provided. For example, a remittance transfer provider sending funds to Colombia may describe a tax under \u00a7 1005.31(b)(1)(vi) as a \u201cColombian Tax\u201d in lieu of describing it as \u201cOther Taxes.\u201d Foreign language disclosures required under \u00a7 1005.31(g) must contain accurate translations of the "
             ],
             [
                 [
                     "delete",
-                    310,
-                    322
+                    43,
+                    71
                 ],
                 [
                     "insert",
-                    310,
-                    "a tax under \u00a7 1005.31(b)(1)(vi) as a \u201cColombian Tax\u201d in lieu of describing it as \u201cOther Taxes.\u201d Foreign language disclosures required under \u00a7 1005.31(g) must contain accurate translations of the terms, language, and notices required"
+                    43,
+                    "notices"
                 ]
-            ],
-            [
-                "delete",
-                326,
-                453
             ],
             [
                 [
                     "delete",
-                    455,
+                    86,
                     620
                 ],
                 [
                     "insert",
-                    455,
+                    86,
                     "1005.31(b)."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Substantially similar terms, language, and notices."
             ]
         ],
         "op":"modified"

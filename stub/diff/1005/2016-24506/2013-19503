@@ -380,21 +380,21 @@
     "1005-31-a-3-Interp-2":{
         "text":[
             [
-                [
-                    "delete",
-                    5,
-                    28
-                ],
-                [
-                    "insert",
-                    5,
-                    "Telephone Transactions."
-                ]
+                "delete",
+                0,
+                29
             ],
             [
                 "delete",
                 191,
                 1155
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Oral Telephone Transactions."
             ]
         ],
         "op":"modified"
@@ -404,13 +404,25 @@
             [
                 [
                     "delete",
-                    47,
+                    0,
+                    12
+                ],
+                [
+                    "insert",
+                    0,
+                    "For transactions"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    36,
                     56
                 ],
                 [
                     "insert",
-                    47,
-                    "For transactions conducted partially by telephone, providing the information required by \u00a7 1005.31(b)(1) to a sender orally does not fulfill the requirement to provide the disclosures required by \u00a7 1005.31(b)(1). For example, a sender may begin a remittance transfer at a remittance transfer provider's dedicated telephone in a retail store, and then provide payment in person to a store clerk to complete the transaction. In such cases, all disclosures must be"
+                    36,
+                    "telephone, providing the information required by \u00a7 1005.31(b)(1) to a sender orally does not fulfill the requirement to provide the disclosures required by \u00a7 1005.31(b)(1). For example, a sender may begin a remittance transfer at a remittance transfer provider's dedicated telephone in a retail store, and then provide payment in person to a store clerk to complete the transaction. In such cases, all disclosures must be"
                 ]
             ],
             [
@@ -465,6 +477,13 @@
                 "delete",
                 511,
                 802
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Transactions conducted partially by telephone."
             ]
         ],
         "op":"modified"
@@ -802,13 +821,61 @@
             [
                 [
                     "delete",
-                    286,
+                    0,
+                    11
+                ],
+                [
+                    "insert",
+                    0,
+                    "Under \u00a7 1005.30(g), the definition of \u201csender\u201d means a consumer in a State who, primarily for personal, family, or household purposes, requests a remittance transfer provider to send a remittance transfer to a designated recipient. For transfers from a consumer's account,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    47,
+                    59
+                ],
+                [
+                    "insert",
+                    47,
+                    "State depends on where the consumer's account is located. If the account is located in a State, the consumer will be located in a State for purposes of the definition of \u201csender\u201d in"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    74,
+                    165
+                ],
+                [
+                    "insert",
+                    74,
+                    "notwithstanding comment 3(a)-3. Where a transfer is requested electronically"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    169,
+                    219
+                ],
+                [
+                    "insert",
+                    169,
+                    "by telephone and the transfer is not from an account, the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    229,
                     302
                 ],
                 [
                     "insert",
-                    286,
-                    "For transfers from a consumer's account, whether a consumer is located in a State depends"
+                    229,
+                    "may make the determination of whether a consumer is located in a State based"
                 ]
             ],
             [
@@ -820,7 +887,7 @@
                 [
                     "insert",
                     306,
-                    "where the consumer's account is located. If the account is located in a State, the consumer will be located in a State for purposes of the definition of \u201csender\u201d in \u00a7 1005.30(g), notwithstanding comment 3(a)-3. Where a transfer is requested electronically or by telephone and the transfer is not from an account, the provider may make the determination of whether a consumer is located in a State based on information"
+                    "information"
                 ]
             ],
             [
@@ -870,6 +937,13 @@
                     908,
                     "the"
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Determining whether a consumer is located in a State."
             ]
         ],
         "op":"modified"
