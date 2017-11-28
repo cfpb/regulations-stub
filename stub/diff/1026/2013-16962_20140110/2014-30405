@@ -1298,8 +1298,75 @@
         },
         "op":"added"
     },
-    "1026-25-c-3-Interp-2":{
-        "op":"deleted"
+    "1026-43-c-3-Interp-6":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    12
+                ],
+                [
+                    "insert",
+                    0,
+                    "Section 1026.43(c)(3) does not require creditors to obtain additional records to verify the existence or amount"
+                ]
+            ],
+            [
+                "insert",
+                16,
+                "obligations shown on a consumer's credit report or listed on the consumer's application, absent circumstances described in comment 43(c)(3)-3. Under \u00a7 1026.43(c)(3)(iii), if a creditor relies on a consumer's credit report to verify a consumer's "
+            ],
+            [
+                [
+                    "delete",
+                    29,
+                    67
+                ],
+                [
+                    "insert",
+                    29,
+                    "obligations and the consumer's application lists a debt obligation"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    72,
+                    121
+                ],
+                [
+                    "insert",
+                    72,
+                    "shown on the credit report, the creditor may consider the existence and amount of the obligation as it is stated on the consumer's application. The creditor is not required to further"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    156,
+                    244
+                ],
+                [
+                    "insert",
+                    156,
+                    "the obligation,"
+                ]
+            ],
+            [
+                "delete",
+                298,
+                775
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Verification of current debt obligations."
+            ]
+        ],
+        "op":"modified"
     },
     "1026-35-c-4-vii-C":{
         "node":{
@@ -2015,76 +2082,6 @@
                     35,
                     "(i):"
                 ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1026-43-c-3-Interp-6":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    12
-                ],
-                [
-                    "insert",
-                    0,
-                    "Section 1026.43(c)(3) does not require creditors to obtain additional records to verify the existence or amount"
-                ]
-            ],
-            [
-                "insert",
-                16,
-                "obligations shown on a consumer's credit report or listed on the consumer's application, absent circumstances described in comment 43(c)(3)-3. Under \u00a7 1026.43(c)(3)(iii), if a creditor relies on a consumer's credit report to verify a consumer's "
-            ],
-            [
-                [
-                    "delete",
-                    29,
-                    67
-                ],
-                [
-                    "insert",
-                    29,
-                    "obligations and the consumer's application lists a debt obligation"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    72,
-                    121
-                ],
-                [
-                    "insert",
-                    72,
-                    "shown on the credit report, the creditor may consider the existence and amount of the obligation as it is stated on the consumer's application. The creditor is not required to further"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    156,
-                    244
-                ],
-                [
-                    "insert",
-                    156,
-                    "the obligation,"
-                ]
-            ],
-            [
-                "delete",
-                298,
-                775
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Verification of current debt obligations."
             ]
         ],
         "op":"modified"
