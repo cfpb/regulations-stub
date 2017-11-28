@@ -5399,8 +5399,8 @@
             "node_type":"regtext",
             "child_labels":[
                 "1026-38-i-1-i-A-1",
-                "1026-38-i-1-iii-A-2",
-                "1026-38-i-1-iii-A-3"
+                "1026-38-g-1-iii-A-2",
+                "1026-38-g-1-iii-A-3"
             ]
         },
         "op":"added"
@@ -6590,6 +6590,24 @@
                 "1026-43-f-2-iii-Interp",
                 "1026-43-f-2-iv-Interp"
             ]
+        },
+        "op":"added"
+    },
+    "1026-25-c-3-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Dwelling-secured transactions and prepayment penalties.If a transaction covered by \u00a7 1026.43 has a prepayment penalty, the creditor must maintain records that document that the creditor complied with requirements for offering the consumer an alternative transaction that does not include a prepayment penalty under \u00a7 1026.43(g)(3), (4), or (5). However, the creditor need not maintain records that document compliance with those provisions if a transaction is consummated without a prepayment penalty or if the creditor and consumer do not consummate a covered transaction. If a creditor offers a transaction with a prepayment penalty to a consumer through a mortgage broker, to evidence compliance with \u00a7 1026.43(g)(4) the creditor should retain evidence of the alternative covered transaction presented to the mortgage broker, such as a rate sheet, and the agreement with the mortgage broker required by \u00a7 1026.43(g)(4)(ii).",
+            "label":[
+                "1026",
+                "25",
+                "c",
+                "3",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -23405,25 +23423,6 @@
                 "41",
                 "e",
                 "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1026-38-i-1-iii-A-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(3) If the increase exceeds the limitations on increases in closing costs under \u00a7 1026.19(e)(3), a statement that such increase exceeds the legal limits by the dollar amount of the excess, and if any refund is provided pursuant to \u00a7 1026.19(f)(2)(v), a statement directing the consumer to the disclosure required under paragraph (h)(3) of this section. Such dollar amount shall equal the sum total of all excesses of the limitations on increases in closing costs under \u00a7 1026.19(e)(3), taking into account the different methods of calculating excesses of the limitations on increases in closing costs under \u00a7 1026.19(e)(3)(i) and (ii).",
-            "label":[
-                "1026",
-                "38",
-                "i",
-                "1",
-                "iii",
-                "A",
-                "3"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -43323,6 +43322,25 @@
         },
         "op":"added"
     },
+    "1026-38-g-1-iii-A-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(3) If the increase exceeds the limitations on increases in closing costs under \u00a7 1026.19(e)(3), a statement that such increase exceeds the legal limits by the dollar amount of the excess, and if any refund is provided pursuant to \u00a7 1026.19(f)(2)(v), a statement directing the consumer to the disclosure required under paragraph (h)(3) of this section. Such dollar amount shall equal the sum total of all excesses of the limitations on increases in closing costs under \u00a7 1026.19(e)(3), taking into account the different methods of calculating excesses of the limitations on increases in closing costs under \u00a7 1026.19(e)(3)(i) and (ii).",
+            "label":[
+                "1026",
+                "38",
+                "g",
+                "1",
+                "iii",
+                "A",
+                "3"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1026-37-h-2-iii":{
         "node":{
             "tagged_text":null,
@@ -50502,25 +50520,6 @@
         },
         "op":"added"
     },
-    "1026-38-i-1-iii-A-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) If the difference in the \u201cTotal Closing Costs\u201d is attributable to differences in itemized charges that are included in either or both subtotals, a statement that the consumer should see the total loan costs and total other costs subtotals disclosed under paragraphs (f)(4) and (g)(5) of this section (together with references to such disclosures), as applicable; and",
-            "label":[
-                "1026",
-                "38",
-                "i",
-                "1",
-                "iii",
-                "A",
-                "2"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1026-38-o-1-Interp":{
         "node":{
             "tagged_text":null,
@@ -55740,7 +55739,8 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1026-25-c-3-Interp-1"
+                "1026-25-c-3-Interp-1",
+                "1026-25-c-3-Interp-2"
             ]
         },
         "op":"added"
@@ -79948,6 +79948,25 @@
             ]
         ],
         "op":"modified"
+    },
+    "1026-38-g-1-iii-A-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(2) If the difference in the \u201cTotal Closing Costs\u201d is attributable to differences in itemized charges that are included in either or both subtotals, a statement that the consumer should see the total loan costs and total other costs subtotals disclosed under paragraphs (f)(4) and (g)(5) of this section (together with references to such disclosures), as applicable; and",
+            "label":[
+                "1026",
+                "38",
+                "g",
+                "1",
+                "iii",
+                "A",
+                "2"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1026-Q-h2-A-3-iv":{
         "node":{
