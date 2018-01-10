@@ -410,11 +410,6 @@
     "1003-B-1-9-iii":{
         "text":[
             [
-                "insert",
-                6,
-                "Race\u2014Aggregate categories and subcategories. "
-            ],
-            [
                 [
                     "delete",
                     348,
@@ -456,11 +451,6 @@
     },
     "1003-B-1-9-i":{
         "text":[
-            [
-                "insert",
-                4,
-                "Ethnicity - Aggregate categories and subcategories. "
-            ],
             [
                 [
                     "delete",
@@ -518,6 +508,20 @@
                 "delete",
                 291,
                 982
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    19
+                ],
+                [
+                    "insert",
+                    0,
+                    "Ethnicity - Aggregate"
+                ]
             ]
         ],
         "op":"modified"
@@ -1670,13 +1674,6 @@
                 2250
             ]
         ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Credit score\u2014multiple applicants or borrowers."
-            ]
-        ],
         "op":"modified"
     },
     "1003-B-1-9-iv":{
@@ -1690,7 +1687,7 @@
                 [
                     "insert",
                     5,
-                    "Race\u2014Other subcategories. If an applicant selects the Other Asian race subcategory or the Other Pacific Islander race subcategory, the applicant"
+                    "If an applicant selects the Other Asian race subcategory or the Other Pacific Islander race subcategory, the applicant"
                 ]
             ],
             [
@@ -2789,7 +2786,7 @@
                 [
                     "insert",
                     5,
-                    "Ethnicity\u2014Other subcategories. If an"
+                    "If an"
                 ]
             ],
             [
@@ -3185,13 +3182,6 @@
                     245,
                     "applicable."
                 ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Rate spread calculation\u2014annual percentage rate."
             ]
         ],
         "op":"modified"
@@ -3861,13 +3851,6 @@
                 ]
             ]
         ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Average prime offer rate."
-            ]
-        ],
         "op":"modified"
     },
     "1003-A-h2-h3-p3":{
@@ -4248,23 +4231,6 @@
                 "delete",
                 719,
                 1599
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Interest rate\u2014disclosures."
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-C-1-p10":{
-        "text":[
-            [
-                "delete",
-                0,
-                258
             ]
         ],
         "op":"modified"
@@ -6444,13 +6410,6 @@
                 733
             ]
         ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Income data\u2014assets."
-            ]
-        ],
         "op":"modified"
     },
     "1003-A-h11-B":{
@@ -6607,13 +6566,6 @@
                 ]
             ]
         ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Applicant data\u2014purchased loan."
-            ]
-        ],
         "op":"modified"
     },
     "1003-5-a-3-vi":{
@@ -6712,13 +6664,6 @@
                 "delete",
                 520,
                 1631
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Credit score\u2014multiple credit scores."
             ]
         ],
         "op":"modified"
