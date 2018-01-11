@@ -34,7 +34,8 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1003-4-a-9-ii-B-Interp-1"
+                "1003-4-a-9-ii-B-Interp-1",
+                "1003-4-a-9-ii-B-Interp-2"
             ]
         },
         "op":"added"
@@ -649,8 +650,8 @@
     "1003-B-1-9-iii":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(iii) Race\u2014Aggregate categories and subcategories. There are five aggregate race categories: American Indian or Alaska Native; Asian; Black or African American; Native Hawaiian or Other Pacific Islander; and White. The Asian and the Native Hawaiian or Other Pacific Islander aggregate categories have seven and four subcategories, respectively. The Asian race subcategories are: Asian Indian; Chinese, Filipino; Japanese; Korean; Vietnamese; and Other Asian. The Native Hawaiian or Other Pacific Islander race subcategories are: Native Hawaiian; Guamanian or Chamorro; Samoan; and Other Pacific Islander. You must report every aggregate race category selected by the applicant. If the applicant also selects one or more race subcategories, you must report each race subcategory selected by the applicant, except that you must not report more than a total of five aggregate race categories and race subcategories combined. For example, if the applicant selects all five aggregate race categories and also selects some race subcategories, you report only the five aggregate race categories. On the other hand, if the applicant selects the White, Asian, and Native Hawaiian or Other Pacific Islander aggregate race categories, and the applicant also selects the Korean, Vietnamese, and Samoan race subcategories, you must report White, Asian, Native Hawaiian or Other Pacific Islander, and any two, at your option, of the three race subcategories selected by the applicant. In this example, you must report White, Asian, and Native Hawaiian or Other Pacific Islander, and in addition you must report (at your option) either Korean and Vietnamese, Korean and Samoan, or Vietnamese and Samoan. To determine how to report an Other race subcategory for purposes of the five-race maximum, see paragraph 9.iv below.",
+            "title":"Race\u2014Aggregate categories and subcategories.",
+            "text":"(iii) There are five aggregate race categories: American Indian or Alaska Native; Asian; Black or African American; Native Hawaiian or Other Pacific Islander; and White. The Asian and the Native Hawaiian or Other Pacific Islander aggregate categories have seven and four subcategories, respectively. The Asian race subcategories are: Asian Indian; Chinese; Filipino; Japanese; Korean; Vietnamese; and Other Asian. The Native Hawaiian or Other Pacific Islander race subcategories are: Native Hawaiian; Guamanian or Chamorro; Samoan; and Other Pacific Islander. You must report every aggregate race category selected by the applicant. If the applicant also selects one or more race subcategories, you must report each race subcategory selected by the applicant, except that you must not report more than a total of five aggregate race categories and race subcategories combined. For example, if the applicant selects all five aggregate race categories and also selects some race subcategories, you report only the five aggregate race categories. On the other hand, if the applicant selects the White, Asian, and Native Hawaiian or Other Pacific Islander aggregate race categories, and the applicant also selects the Korean, Vietnamese, and Samoan race subcategories, you must report White, Asian, Native Hawaiian or Other Pacific Islander, and any two, at your option, of the three race subcategories selected by the applicant. In this example, you must report White, Asian, and Native Hawaiian or Other Pacific Islander, and in addition you must report (at your option) either Korean and Vietnamese, Korean and Samoan, or Vietnamese and Samoan. To determine how to report an Other race subcategory and the American Indian or Alaska Native category for purposes of the five-race maximum, see paragraphs 9.iv and 9.v below.",
             "label":[
                 "1003",
                 "B",
@@ -716,7 +717,7 @@
         "node":{
             "tagged_text":null,
             "title":"Income data\u2014assets.",
-            "text":"A financial institution does not include as income amounts considered in making a credit decision based on factors that an institution relies on in addition to income, such as amounts derived from annuitization or depletion of an applicant's remaining assets.",
+            "text":"A financial institution does not include as income amounts considered in making a credit decision based on factors that an institution relies on in addition to income, such as amounts derived from underwriting calculations of the potential annuitization or depletion of an applicant's remaining assets. Actual distributions from retirement accounts or other assets that are relied on by the financial institution as income should be reported as income. The interpretation of income in this paragraph does not affect \u00a7\u20091003.4(a)(23), which requires, except for purchased covered loans, the collection of the ratio of the applicant's or borrower's total monthly debt to the total monthly income relied on in making the credit decision.",
             "label":[
                 "1003",
                 "4",
@@ -1171,6 +1172,11 @@
             ],
             [
                 "insert",
+                25,
+                "and applications that are approved but not accepted, and that are "
+            ],
+            [
+                "insert",
                 68,
                 "other than assumptions, purchased covered loans, and reverse mortgages, "
             ],
@@ -1272,7 +1278,7 @@
     "1003-4-a-9-ii-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
+            "title":"Paragraph 4(a)(9)(ii)",
             "text":"",
             "label":[
                 "1003",
@@ -1284,8 +1290,7 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1003-4-a-9-ii-B-Interp",
-                "1003-4-a-9-ii-C-Interp"
+                "1003-4-a-9-ii-Interp-1"
             ]
         },
         "op":"added"
@@ -1398,8 +1403,8 @@
     "1003-4-a-20-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":"Revised disclosures.",
-            "text":"If the amount of lender credits changes because a financial institution provides a revised version of the disclosures required under Regulation Z, 12 CFR 1026.19(f), pursuant to Regulation Z, 12 CFR 1026.19(f)(2), the financial institution complies with \u00a7 1003.4(a)(20) by reporting the revised amount, provided that the revised disclosure was provided to the borrower during the same reporting period in which closing occurred. For example, in the case of a financial institution's quarterly submission made pursuant to \u00a7 1003.5(a)(1)(ii), if the financial institution provides a corrected disclosure to reflect a refund made pursuant to Regulation Z, 12 CFR 1026.19(f)(2)(v), the financial institution reports the corrected amount of lender credits only if the corrected disclosure was provided prior to the end of the quarter in which closing occurred. The financial institution does not report the corrected amount of lender credits in its quarterly submission if the corrected disclosure was provided after the end of the quarter, even if the corrected disclosure was provided prior to the deadline for timely submission of the financial institution's quarterly data. However, the financial institution reports the corrected amount of lender credits on its annual loan/application register.",
+            "title":"Corrected disclosures.",
+            "text":"If the amount of lender credits changes because a financial institution provides a corrected version of the disclosures required under Regulation Z, 12 CFR 1026.19(f), pursuant to 12 CFR 1026.19(f)(2), the financial institution complies with \u00a7\u20091003.4(a)(20) by reporting the corrected amount, provided that the corrected disclosure was provided to the borrower prior to the end of the reporting period in which closing occurs. For purposes of \u00a7\u20091003.4(a)(20), the date the corrected disclosure was provided to the borrower is the date disclosed pursuant to Regulation Z, 12 CFR 1026.38(a)(3)(i). For example, in the case of a financial institution's annual loan/application register submission made pursuant to \u00a7\u20091003.5(a)(1), if the financial institution provides a corrected disclosure to the borrower to reflect a refund made pursuant to Regulation Z, 12 CFR 1026.19(f)(2)(v), the financial institution reports the corrected amount of lender credits only if the corrected disclosure was provided to the borrower prior to the end of the calendar year in which closing occurs.",
             "label":[
                 "1003",
                 "4",
@@ -1410,6 +1415,27 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-4-a-9-ii-A-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 4(a)(9)(ii)(A)",
+            "text":"",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "9",
+                "ii",
+                "A",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-9-ii-A-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -1590,7 +1616,7 @@
         "node":{
             "tagged_text":null,
             "title":"Definition of automated underwriting system.",
-            "text":"A financial institution must report the information required by \u00a7 1003.4(a)(35)(i) if the financial institution uses an automated underwriting system (AUS), as defined in \u00a7 1003.4(a)(35)(ii), to evaluate an application. In order for an AUS to be covered by the definition in \u00a7 1003.4(a)(35)(ii), the system must be an electronic tool that has been developed by a securitizer, Federal government insurer, or a Federal government guarantor. For example, if a financial institution has developed its own proprietary system that it uses to evaluate an application and the financial institution is also a securitizer, then the financial institution complies with \u00a7 1003.4(a)(35) by reporting the name of that system and the result generated by that system. On the other hand, if a financial institution has developed its own proprietary system that it uses to evaluate an application but the financial institution is not a securitizer, then the financial institution is not required by \u00a7 1003.4(a)(35) to report the use of that system and the result generated by that system. In addition, in order for an AUS to be covered by the definition in \u00a7 1003.4(a)(35)(ii), the system must provide a result regarding both the credit risk of the applicant and the eligibility of the covered loan to be originated, purchased, insured, or guaranteed by the securitizer, Federal government insurer, or Federal government guarantor that developed the system being used to evaluate the application. For example, if a system is an electronic tool that provides a determination of the eligibility of the covered loan to be originated, purchased, insured, or guaranteed by the securitizer, Federal government insurer, or Federal government guarantor that developed the system being used by a financial institution to evaluate the application, but the system does not also provide an assessment of the creditworthiness of the applicant\u2014such as, an evaluation of the applicant's income, debt, and credit history\u2014then that system does not qualify as an AUS, as defined in \u00a7 1003.4(a)(35)(ii). A financial institution that uses a system that is not an AUS, as defined in \u00a7 1003.4(a)(35)(ii), to evaluate an application does not report the information required by \u00a7 1003.4(a)(35)(i).",
+            "text":"A financial institution must report the information required by \u00a7\u20091003.4(a)(35)(i) if the financial institution uses an automated underwriting system (AUS), as defined in \u00a7\u20091003.4(a)(35)(ii), to evaluate an application. To be covered by the definition in \u00a7\u20091003.4(a)(35)(ii), a system must be an electronic tool that has been developed by a securitizer, Federal government insurer, or a Federal government guarantor of closed-end mortgage loans or open-end lines of credit. A person is a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit, respectively, if it has securitized, provided Federal government insurance, or provided a Federal government guarantee for a closed-end mortgage loan or open-end line of credit at any point in time. A person may be a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit, respectively, for purposes of \u00a7\u20091003.4(a)(35) even if it is not actively securitizing, insuring, or guaranteeing closed-end mortgage loans or open-end lines of credit at the time a financial institution uses the AUS to evaluate an application. Where the person that developed the electronic tool has never been a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit, respectively, at the time a financial institution uses the tool to evaluate an application, the financial institution complies with \u00a7\u20091003.4(a)(35) by reporting that the requirement is not applicable because an AUS was not used to evaluate the application. If a financial institution has developed its own proprietary system that it uses to evaluate an application and the financial institution is also a securitizer, then the financial institution complies with \u00a7\u20091003.4(a)(35) by reporting the name of that system and the result generated by that system. On the other hand, if a financial institution has developed its own proprietary system that it uses to evaluate an application and the financial institution is not a securitizer, then the financial institution is not required by \u00a7\u20091003.4(a)(35) to report the use of that system and the result generated by that system. In addition, for an AUS to be covered by the definition in \u00a7\u20091003.4(a)(35)(ii), the system must provide a result regarding both the credit risk of the applicant and the eligibility of the covered loan to be originated, purchased, insured, or guaranteed by the securitizer, Federal government insurer, or Federal government guarantor that developed the system being used to evaluate the application. For example, if a system is an electronic tool that provides a determination of the eligibility of the covered loan to be originated, purchased, insured, or guaranteed by the securitizer, Federal government insurer, or Federal government guarantor that developed the system being used by a financial institution to evaluate the application, but the system does not also provide an assessment of the creditworthiness of the applicant\u2014such as an evaluation of the applicant's income, debt, and credit history\u2014then that system does not qualify as an AUS, as defined in \u00a7\u20091003.4(a)(35)(ii). A financial institution that uses a system that is not an AUS, as defined in \u00a7\u20091003.4(a)(35)(ii), to evaluate an application does not report the information required by \u00a7\u20091003.4(a)(35)(i).",
             "label":[
                 "1003",
                 "4",
@@ -1665,6 +1691,27 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-4-a-35-Interp-7":{
+        "node":{
+            "tagged_text":null,
+            "title":"Determination of securitizer, Federal government insurer, or Federal government guarantor.",
+            "text":"Section 1003.4(a)(35)(ii) provides that an \u201cautomated underwriting system\u201d means an electronic tool developed by a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit that provides a result regarding the credit risk of the applicant and whether the covered loan is eligible to be originated, purchased, insured, or guaranteed by that securitizer, Federal government insurer, or Federal government guarantor. A person is a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit, respectively, if it has ever securitized, insured, or guaranteed a closed-end mortgage loan or open-end line of credit. If a financial institution knows or reasonably believes that the system it is using to evaluate an application is an electronic tool that has been developed by a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit, then the financial institution complies with \u00a7\u20091003.4(a)(35) by reporting the name of that system and the result generated by that system. Knowledge or reasonable belief could, for example, be based on a sales agreement or other related documents, the financial institution's previous transactions or relationship with the developer of the electronic tool, or representations made by the developer of the electronic tool demonstrating that the developer of the electronic tool is a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit. If a financial institution does not know or reasonably believe that the system it is using to evaluate an application is an electronic tool that has been developed by a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit, the financial institution complies with \u00a7\u20091003.4(a)(35) by reporting that the requirement is not applicable, provided that the financial institution maintains procedures reasonably adapted to determine whether the electronic tool it is using to evaluate an application meets the definition in \u00a7\u20091003.4(a)(35)(ii). Reasonably adapted procedures include attempting to determine with reasonable frequency, such as annually, whether the developer of the electronic tool is a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit. For example:",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "35",
+                "Interp",
+                "7"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-4-a-35-Interp-7-i",
+                "1003-4-a-35-Interp-7-ii"
+            ]
         },
         "op":"added"
     },
@@ -2063,7 +2110,7 @@
         "node":{
             "tagged_text":null,
             "title":"Rate-lock agreement.",
-            "text":"If an interest rate is set pursuant to a \u201clock-in\u201d agreement between the financial institution and the borrower, then the date on which the agreement fixes the interest rate is the date the rate was set. Except as provided in comment 4(a)(12)-5.ii, if a rate is reset after a lock-in agreement is executed (for example, because the borrower exercises a float-down option or the agreement expires), then the relevant date is the date the financial institution exercises discretion in setting the rate for the final time before closing or account opening. The same rule applies when a rate-lock agreement is extended and the rate is reset at the same rate, regardless of whether market rates have increased, decreased, or remained the same since the initial rate was set. If no lock-in agreement is executed, then the relevant date is the date on which the institution sets the rate for the final time before closing or account opening.",
+            "text":"If an interest rate is set pursuant to a \u201clock-in\u201d agreement between the financial institution and the borrower, then the date on which the agreement fixes the interest rate is the date the rate was set. Except as provided in comment 4(a)(12)-5.ii, if a rate is reset after a lock-in agreement is executed (for example, because the borrower exercises a float-down option or the agreement expires), then the relevant date is the date the financial institution exercises discretion in setting the rate for the final time before final action is taken. The same rule applies when a rate-lock agreement is extended and the rate is reset at the same rate, regardless of whether market rates have increased, decreased, or remained the same since the initial rate was set. If no lock-in agreement is executed, then the relevant date is the date on which the institution sets the rate for the final time before final action is taken.",
             "label":[
                 "1003",
                 "4",
@@ -2266,7 +2313,7 @@
         "node":{
             "tagged_text":null,
             "title":"Extension of credit.",
-            "text":"Under \u00a7 1003.2(d), a dwelling-secured loan is not a closed-end mortgage loan unless it involves an extension of credit. Thus, some transactions completed pursuant to installment sales contracts, such as some land contracts, are not closed-end mortgage loans because no credit is extended. For example, if a land contract provides that, upon default, the contract terminates, all previous payments will be treated as rent, and the borrower is under no obligation to make further payments, the transaction is not a closed-end mortgage loan. In general, extension of credit under \u00a7 1003.2(d) refers to the granting of credit only pursuant to a new debt obligation. Thus, except as described in comments 2(d)-2.i and .ii, if a transaction modifies, renews, extends, or amends the terms of an existing debt obligation, but the existing debt obligation is not satisfied and replaced, the transaction is not a closed-end mortgage loan under \u00a7 1003.2(d) because there has been no new extension of credit. The phrase extension of credit thus is defined differently under Regulation C than under Regulation B, 12 CFR part 1002.",
+            "text":"Under \u00a7\u20091003.2(d), a dwelling-secured loan is not a closed-end mortgage loan unless it involves an extension of credit. For example, some transactions completed pursuant to installment sales contracts, such as some land contracts, depending on the facts and circumstances, may or may not involve extensions of credit rendering the transactions closed-end mortgage loans. In general, extension of credit under \u00a7\u20091003.2(d) refers to the granting of credit only pursuant to a new debt obligation. Thus, except as described in comments 2(d)-2.i and .ii, if a transaction modifies, renews, extends, or amends the terms of an existing debt obligation, but the existing debt obligation is not satisfied and replaced, the transaction is not a closed-end mortgage loan under \u00a7\u20091003.2(d) because there has been no new extension of credit. The phrase extension of credit thus is defined differently under Regulation C than under Regulation B, 12 CFR part 1002.",
             "label":[
                 "1003",
                 "2",
@@ -2286,7 +2333,7 @@
         "node":{
             "tagged_text":null,
             "title":"Dwelling-secured",
-            "text":". Section 1003.2(d) defines a closed-end mortgage loan as an extension of credit that is secured by a lien on a dwelling and that is not an open-end line of credit under \u00a7 1003.2(o). Thus, for example, a loan to purchase a dwelling and secured only by a personal guarantee is not a closed-end mortgage loan because it is not dwelling-secured.",
+            "text":"Section 1003.2(d) defines a closed-end mortgage loan as an extension of credit that is secured by a lien on a dwelling and that is not an open-end line of credit under \u00a7 1003.2(o). Thus, for example, a loan to purchase a dwelling and secured only by a personal guarantee is not a closed-end mortgage loan because it is not dwelling-secured.",
             "label":[
                 "1003",
                 "2",
@@ -2577,7 +2624,7 @@
                 [
                     "insert",
                     16,
-                    "an application would have been, insured by the Federal Housing Administration, guaranteed by the Veterans Administration,"
+                    "an application would have been, insured by the Federal Housing Administration, guaranteed by the Department of Veterans Affairs,"
                 ]
             ],
             [
@@ -2809,44 +2856,23 @@
         },
         "op":"added"
     },
-    "1003-5-e-Interp-1-HMDANotice":{
-        "text":[
-            [
-                "insert",
-                67,
-                "online "
+    "1003-4-a-34-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":"Purchased loans.",
+            "text":"If a financial institution purchases a covered loan that satisfies the coverage criteria of Regulation Z, 12 CFR 1026.36(g), and that was originated prior to January 10, 2014, the financial institution complies with \u00a7\u20091003.4(a)(34) by reporting that the requirement is not applicable. In addition, if a financial institution purchases a covered loan that does not satisfy the coverage criteria of Regulation Z, 12 CFR 1026.36(g), and that was originated prior to January 1, 2018, the financial institution complies with \u00a7\u20091003.4(a)(34) by reporting that the requirement is not applicable. Purchasers of both such types of covered loans may report the NMLSR ID.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "34",
+                "Interp",
+                "4"
             ],
-            [
-                "insert",
-                166,
-                "age, "
-            ],
-            [
-                [
-                    "delete",
-                    256,
-                    288
-                ],
-                [
-                    "insert",
-                    256,
-                    "HMDA data for many other financial institutions are also available online. For more information, visit"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    293,
-                    336
-                ],
-                [
-                    "insert",
-                    293,
-                    "Consumer Financial Protection Bureau's Web site (www.consumerfinance.gov/hmda)."
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-20-Interp-1":{
         "node":{
@@ -3259,7 +3285,8 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1003-4-a-9-ii-C-Interp-1"
+                "1003-4-a-9-ii-C-Interp-1",
+                "1003-4-a-9-ii-C-Interp-2"
             ]
         },
         "op":"added"
@@ -3394,7 +3421,7 @@
         "node":{
             "tagged_text":null,
             "title":"Multifamily residential structures and communities.",
-            "text":"A dwelling also includes a multifamily residential structure or community such as an apartment, condominium, cooperative building or complex, or a manufactured home community. A loan related to a manufactured home community is secured by a dwelling for purposes of \u00a7 1003.2(f) even if it is not secured by any individual manufactured homes, but only by the land that constitutes the manufactured home community including sites for manufactured homes. However, a loan related to a multifamily residential structure or community that is not a manufactured home community is not secured by a dwelling for purposes of \u00a7 1003.2(f) if it is not secured by any individual dwelling units and is, for example, instead secured only by property that only includes common areas, or is secured only by an assignment of rents or dues.",
+            "text":"A dwelling also includes a multifamily residential structure or community such as an apartment, condominium, cooperative building or housing complex, or a manufactured home community. A loan related to a manufactured home community is secured by a dwelling for purposes of \u00a7\u20091003.2(f) even if it is not secured by any individual manufactured homes, but only by the land that constitutes the manufactured home community including sites for manufactured homes. However, a loan related to a multifamily residential structure or community that is not a manufactured home community is not secured by a dwelling for purposes of \u00a7\u20091003.2(f) if it is not secured by any individual dwelling units and is, for example, instead secured only by property that only includes common areas, or is secured only by an assignment of rents or dues.",
             "label":[
                 "1003",
                 "2",
@@ -3819,6 +3846,25 @@
         },
         "op":"added"
     },
+    "1003-3-c-13-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 3(c)(13)",
+            "text":"",
+            "label":[
+                "1003",
+                "3",
+                "c",
+                "13",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1003-3-c-13-Interp-1"
+            ]
+        },
+        "op":"added"
+    },
     "1003-5-a-Interp-1-ii":{
         "node":{
             "tagged_text":null,
@@ -3864,7 +3910,8 @@
                 "1003-4-a-12-Interp-5",
                 "1003-4-a-12-Interp-6",
                 "1003-4-a-12-Interp-7",
-                "1003-4-a-12-Interp-8"
+                "1003-4-a-12-Interp-8",
+                "1003-4-a-12-Interp-9"
             ]
         },
         "op":"added"
@@ -3944,18 +3991,19 @@
         },
         "op":"added"
     },
-    "1003-4-a-11-Interp-7":{
+    "1003-4-a-9-ii-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Type of purchaser\u2014bank holding company or thrift holding company.",
-            "text":"When a financial institution sells a covered loan to a bank holding company or thrift holding company (rather than to one of its subsidiaries), it should report the loan as purchased by other type of purchaser, unless the bank holding company or thrift holding company is an affiliate of the seller institution, in which case the seller institution should report the loan as purchased by an affiliate institution.",
+            "title":"Optional reporting.",
+            "text":"Section 1003.4(a)(9)(ii) requires a financial institution to report the State, county, and census tract of the property securing the covered loan or, in the case of an application, proposed to secure the covered loan if the property is located in an MSA or MD in which the financial institution has a home or branch office or if the institution is subject to \u00a7\u20091003.4(e). Section 1003.4(a)(9)(ii)(C) further limits the requirement to report census tract to covered loans secured by or applications proposed to be secured by properties located in counties with a population of more than 30,000 according to the most recent decennial census conducted by the U.S. Census Bureau. For transactions for which State, county, or census tract reporting is not required under \u00a7\u20091003.4(a)(9)(ii) or (e), financial institutions may report that the requirement is not applicable, or they may voluntarily report the State, county, or census tract information.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "11",
+                "9",
+                "ii",
                 "Interp",
-                "7"
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -3996,6 +4044,25 @@
                 "ii"
             ],
             "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-4-a-35-Interp-1-iv":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A financial institution, which is also a securitizer, that uses its own AUS, as defined in \u00a7 1003.4(a)(35)(ii), to evaluate an application, must report the name of the AUS it used to evaluate the application and the result generated by that system, regardless of whether the financial institution intends to hold the covered loan it originates in its portfolio, purchase the covered loan, or securitize the covered loan. For example, if a financial institution, which is also a securitizer, has developed its own AUS and uses that AUS to evaluate an application that it intends to originate and hold in its portfolio and not purchase or securitize the covered loan, the financial institution complies with \u00a7 1003.4(a)(35) by reporting the name of its AUS that it used to evaluate the application and the result generated by that system.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "35",
+                "Interp",
+                "1",
+                "iv"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -4088,7 +4155,7 @@
         "node":{
             "tagged_text":null,
             "title":"General.",
-            "text":"Section 1003.3(c)(11) provides that a closed-end mortgage loan is an excluded transaction if a financial institution originated fewer than 25 closed-end mortgage loans in each of the two preceding calendar years. For example, assume that a bank is a financial institution in 2022 under \u00a7 1003.2(g) because it originated 200 open-end lines of credit in 2020, 250 open-end lines of credit in 2021, and met all of the other requirements under \u00a7 1003.2(g)(1). Also assume that the bank originated 10 and 20 closed-end mortgage loans in 2020 and 2021, respectively. The open-end lines of credit that the bank originated, or for which it received applications, during 2022 are covered loans and must be reported, unless they otherwise are excluded transactions under \u00a7 1003.3(c). However, the closed-end mortgage loans that the bank originated, or for which it received applications, during 2022 are excluded transactions under \u00a7 1003.3(c)(11) and need not be reported. See comments 4(a)-2 through -4 for guidance about the activities that constitute an origination.",
+            "text":"Section 1003.3(c)(11) provides that a closed-end mortgage loan is an excluded transaction if a financial institution originated fewer than 25 closed-end mortgage loans in either of the two preceding calendar years. For example, assume that a bank is a financial institution in 2018 under \u00a7\u20091003.2(g) because it originated 600 open-end lines of credit in 2016, 650 open-end lines of credit in 2017, and met all of the other requirements under \u00a7\u20091003.2(g)(1). Also assume that the bank originated 10 and 20 closed-end mortgage loans in 2016 and 2017, respectively. The open-end lines of credit that the bank originated or purchased, or for which it received applications, during 2018 are covered loans and must be reported, unless they otherwise are excluded transactions under \u00a7\u20091003.3(c). However, the closed-end mortgage loans that the bank originated or purchased, or for which it received applications, during 2018 are excluded transactions under \u00a7\u20091003.3(c)(11) and need not be reported. See comments 4(a)-2 through -4 for guidance about the activities that constitute an origination.",
             "label":[
                 "1003",
                 "3",
@@ -4134,8 +4201,23 @@
         },
         "op":"added"
     },
-    "1003-4-a-1-Interp-1":{
-        "op":"deleted"
+    "1003-3-c-11-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Optional reporting.",
+            "text":"A financial institution may report applications for, originations of, or purchases of closed-end mortgage loans that are excluded transactions because the financial institution originated fewer than 25 closed-end mortgage loans in either of the two preceding calendar years. However, a financial institution that chooses to report such excluded applications for, originations of, or purchases of closed-end mortgage loans must report all such applications for closed-end mortgage loans that it receives, closed-end mortgage loans that it originates, and closed-end mortgage loans that it purchases that otherwise would be covered loans for a given calendar year. Note that applications which remain pending at the end of a calendar year are not reported, as described in comment 4(a)(8)(i)-14.",
+            "label":[
+                "1003",
+                "3",
+                "c",
+                "11",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-1-i-Interp":{
         "node":{
@@ -4167,11 +4249,28 @@
     "1003-4-a-1-Interp-5":{
         "op":"deleted"
     },
+    "1003-B-1-9-v":{
+        "node":{
+            "tagged_text":null,
+            "title":"Race\u2014American Indian or Alaska Native category.",
+            "text":"(v) An applicant may select the American Indian or Alaska Native race category, an applicant may provide a particular American Indian or Alaska Native enrolled or principal tribe, or an applicant may do both. If the applicant provides only a particular American Indian or Alaska Native enrolled or principal tribe in the space provided, you are permitted, but are not required, to report American Indian or Alaska Native in addition to reporting the particular American Indian or Alaska Native enrolled or principal tribe provided by the applicant. For example, if an applicant provides only \u201cNavajo,\u201d you should report \u201cNavajo.\u201d You are permitted, but not required, to report American Indian or Alaska Native as well. If an applicant selects the American Indian or Alaska Native race category and also provides a particular American Indian or Alaska Native enrolled or principal tribe, you must report both the selection of American Indian or Alaska Native and the additional information provided by the applicant. For purposes of the maximum of five reportable race categories and race subcategories combined, as set forth in paragraph 9.iii, the American Indian or Alaska Native category and additional information provided by the applicant together constitute only one selection.",
+            "label":[
+                "1003",
+                "B",
+                "1",
+                "9",
+                "v"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-B-1-9-i":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(i) Ethnicity - Aggregate categories and subcategories. There are two aggregate ethnicity categories: Hispanic or Latino; and Not Hispanic or Latino. If an applicant selects Hispanic or Latino, the applicant may also select up to four ethnicity subcategories: Mexican; Puerto Rican; Cuban; and Other Hispanic or Latino. You must report each aggregate ethnicity category and each ethnicity subcategory selected by the applicant.",
+            "title":"Ethnicity\u2014Aggregate categories and subcategories.",
+            "text":"(i) There are two aggregate ethnicity categories: Hispanic or Latino; and Not Hispanic or Latino. The Hispanic or Latino category has four subcategories: Mexican; Puerto Rican; Cuban; and Other Hispanic or Latino. You must report every aggregate ethnicity category selected by the applicant. If the applicant also selects one or more ethnicity subcategories, you must report each ethnicity subcategory selected by the applicant, except that you must not report more than a total of five aggregate ethnicity categories and ethnicity subcategories combined. For example, if the applicant selects both aggregate ethnicity categories and also selects all four ethnicity subcategories, you must report Hispanic or Latino, Not Hispanic or Latino, and any three, at your option, of the four ethnicity subcategories selected by the applicant. To determine how to report the Other Hispanic or Latino ethnicity subcategory for purposes of the five-ethnicity maximum, see paragraph 9.ii below.",
             "label":[
                 "1003",
                 "B",
@@ -4267,6 +4366,24 @@
                 "Interp",
                 "2",
                 "vi"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-4-a-11-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":"Type of purchaser\u2014private securitizations.",
+            "text":"A financial institution that knows or reasonably believes that the covered loan it is selling will be securitized by the entity purchasing the covered loan, other than by one of the government-sponsored enterprises, reports the purchasing entity type as a private securitizer regardless of the type or affiliation of the purchasing entity. Knowledge or reasonable belief could, for example, be based on the purchase agreement or other related documents, the financial institution's previous transactions with the purchaser, or the purchaser's role as a securitizer (such as an investment bank). If a financial institution selling a covered loan does not know or reasonably believe that the purchaser will securitize the loan, and the seller knows that the purchaser frequently holds or disposes of loans by means other than securitization, then the financial institution should report the covered loan as purchased by, as appropriate, a commercial bank, savings bank, savings association, life insurance company, credit union, mortgage company, finance company, affiliate institution, or other type of purchaser.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "11",
+                "Interp",
+                "4"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -4379,11 +4496,29 @@
         ],
         "op":"modified"
     },
+    "1003-3-c-3-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Loan or line of credit to construct a dwelling for sale.",
+            "text":"A construction-only loan or line of credit is considered temporary financing and excluded under \u00a7\u20091003.3(c)(3) if the loan or line of credit is extended to a person exclusively to construct a dwelling for sale. See comment 3(c)(3)-1.ii through .iv for examples of the reporting requirement for construction loans that are not extended to a person exclusively to construct a dwelling for sale.",
+            "label":[
+                "1003",
+                "3",
+                "c",
+                "3",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-3-c-3-Interp-1":{
         "node":{
             "tagged_text":null,
             "title":"Temporary financing.",
-            "text":"Section 1003.3(c)(3) provides that closed-end mortgage loans or open-end lines of credit obtained for temporary financing are excluded transactions. A loan or line of credit is considered temporary financing and excluded under \u00a7 1003.3(c)(3) if the loan or line of credit is designed to be replaced by permanent financing at a later time. For example:",
+            "text":"Section 1003.3(c)(3) provides that closed-end mortgage loans or open-end lines of credit obtained for temporary financing are excluded transactions. A loan or line of credit is considered temporary financing and excluded under \u00a7\u20091003.3(c)(3) if the loan or line of credit is designed to be replaced by separate permanent financing extended by any financial institution to the same borrower at a later time. For example:",
             "label":[
                 "1003",
                 "3",
@@ -4427,7 +4562,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Lender A extends credit in the form of a bridge or swing loan to finance a borrower's down payment on a home purchase. The borrower pays off the bridge or swing loan with funds from the sale of his or her existing home and obtains permanent financing for his or her new home from Lender A. The bridge or swing loan is excluded as temporary financing under \u00a7 1003.3(c)(3).",
+            "text":"Lender A extends credit in the form of a bridge or swing loan to finance a borrower's down payment on a home purchase. The borrower pays off the bridge or swing loan with funds from the sale of his or her existing home and obtains permanent financing for his or her new home from Lender A or from another lender. The bridge or swing loan is excluded as temporary financing under \u00a7\u20091003.3(c)(3).",
             "label":[
                 "1003",
                 "3",
@@ -4497,7 +4632,8 @@
                 "1003-4-a-3-Interp-2",
                 "1003-4-a-3-Interp-3",
                 "1003-4-a-3-Interp-4",
-                "1003-4-a-3-Interp-5"
+                "1003-4-a-3-Interp-5",
+                "1003-4-a-3-Interp-6"
             ]
         },
         "op":"added"
@@ -4647,7 +4783,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Lender A originates a loan with a nine-month term to enable an investor to purchase a home, renovate it, and re-sell it before the term expires. Under \u00a7 1003.3(c)(3), the loan is not designed to be replaced by permanent financing and therefore the temporary financing exclusion does not apply. Such a transaction is not temporary financing under \u00a7 1003.3(c)(3) merely because its term is short.",
+            "text":"Lender A originates a loan with a nine-month term to enable an investor to purchase a home, renovate it, and re-sell it before the term expires. Under \u00a7\u20091003.3(c)(3), the loan is not designed to be replaced by separate permanent financing extended to the same borrower, and therefore the temporary financing exclusion does not apply. Such a transaction is not temporary financing under \u00a7\u20091003.3(c)(3) merely because its term is short.",
             "label":[
                 "1003",
                 "3",
@@ -5006,7 +5142,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Lender A extends credit to finance construction of a dwelling. A new extension of credit for permanent financing for the dwelling will be obtained, either from Lender A or from another lender, and either through a refinancing of the initial construction loan or a separate loan. The initial construction loan is excluded as temporary financing under \u00a7 1003.3(c)(3).",
+            "text":"Lender A extends credit to a borrower to finance construction of a dwelling. The borrower will obtain a new extension of credit for permanent financing for the dwelling, either from Lender A or from another lender, and either through a refinancing of the initial construction loan or a separate loan. The initial construction loan is excluded as temporary financing under \u00a7\u20091003.3(c)(3).",
             "label":[
                 "1003",
                 "3",
@@ -5144,8 +5280,8 @@
     "1003-C-1-p3":{
         "node":{
             "tagged_text":null,
-            "title":"Generating a Check Digit",
-            "text":"Step 1: Starting with the leftmost character in the string that consists of the combination of the Legal Entity Identifier (LEI) pursuant to \u00a7 1003.4(a)(1)(i)(A) and the additional characters identifying the covered loan or application pursuant to \u00a7 1003.4(a)(1)(i)(B), replace each alphabetic character with numbers in accordance with Table I below to obtain all numeric values in the string.",
+            "title":null,
+            "text":"Step 1: Starting with the leftmost character in the string that consists of the combination of the Legal Entity Identifier (LEI) pursuant to \u00a7\u20091003.4(a)(1)(i)(A) and the additional characters identifying the covered loan or application pursuant to \u00a7\u20091003.4(a)(1)(i)(B), replace each alphabetic character with numbers in accordance with Table I below to obtain all numeric values in the string.",
             "label":[
                 "1003",
                 "C",
@@ -5282,8 +5418,8 @@
     "1003-4-a-17-i-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":"Revised disclosures.",
-            "text":"If the amount of total loan costs changes because a financial institution provides a revised version of the disclosures required under Regulation Z, 12 CFR 1026.19(f), pursuant to Regulation Z, 12 CFR 1026.19(f)(2), the financial institution complies with \u00a7 1003.4(a)(17)(i) by reporting the revised amount, provided that the revised disclosure was provided to the borrower during the same reporting period in which closing occurred. For example, in the case of a financial institution's quarterly submission made pursuant to \u00a7 1003.5(a)(1)(ii), if the financial institution provides a corrected disclosure to reflect a refund made pursuant to Regulation Z, 12 CFR 1026.19(f)(2)(v), the financial institution reports the corrected amount of total loan costs only if the corrected disclosure was provided prior to the end of the quarter in which closing occurred. The financial institution does not report the corrected amount of total loan costs in its quarterly submission if the corrected disclosure was provided after the end of the quarter, even if the corrected disclosure was provided prior to the deadline for timely submission of the financial institution's quarterly data. However, the financial institution reports the corrected amount of total loan costs on its annual loan/application register.",
+            "title":"Corrected disclosures.",
+            "text":"If the amount of total loan costs changes because a financial institution provides a corrected version of the disclosures required under Regulation Z, 12 CFR 1026.19(f), pursuant to 12 CFR 1026.19(f)(2), the financial institution complies with \u00a7\u20091003.4(a)(17)(i) by reporting the corrected amount, provided that the corrected disclosure was provided to the borrower prior to the end of the reporting period in which closing occurs. For purposes of \u00a7\u20091003.4(a)(17)(i), the date the corrected disclosure was provided to the borrower is the date disclosed pursuant to Regulation Z, 12 CFR 1026.38(a)(3)(i). For example, in the case of a financial institution's annual loan/application register submission made pursuant to \u00a7\u20091003.5(a)(1), if the financial institution provides a corrected disclosure to the borrower to reflect a refund made pursuant to Regulation Z, 12 CFR 1026.19(f)(2)(v), the financial institution reports the corrected amount of total loan costs only if the corrected disclosure was provided to the borrower prior to the end of the calendar year in which closing occurs.",
             "label":[
                 "1003",
                 "4",
@@ -5355,7 +5491,8 @@
                 "1003-3-c-9",
                 "1003-3-c-10",
                 "1003-3-c-11",
-                "1003-3-c-12"
+                "1003-3-c-12",
+                "1003-3-c-13"
             ]
         },
         "op":"added"
@@ -5416,7 +5553,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Alternatively, to calculate without using the modulus operator, divide the numbers in step 2 above by 97. Truncate the remainder to three digits and multiply it by .97. Round the result to the nearest whole number.",
+            "text":"Alternatively, to calculate without using the modulus operator, divide the numbers in step 2 above by 97. Truncate the remainder to three digits and multiply it by 97. Round the result to the nearest whole number.",
             "label":[
                 "1003",
                 "C",
@@ -5946,7 +6083,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(8) You must report the ethnicity, race, and sex of an applicant as provided by the applicant. For example, if an applicant selects the \u201cMexican\u201d box the institution reports \u201cMexican\u201d for the ethnicity of the applicant. If an applicant selects the \u201cAsian\u201d box the institution reports \u201cAsian\u201d for the race of the applicant. Only an applicant may self-identify as being of a particular Hispanic or Latino subcategory (Mexican, Puerto Rican, Cuban, Other Hispanic or Latino) or of a particular Asian subcategory (Asian Indian, Chinese, Filipino, Japanese, Korean, Vietnamese, Other Asian) or of a particular Native Hawaiian or Other Pacific Islander subcategory (Native Hawaiian, Guamanian or Chamorro, Samoan, Other Pacific Islander) or of a particular American Indian or Alaska Native enrolled or principal tribe.",
+            "text":"(8) You must report the ethnicity, race, and sex of an applicant as provided by the applicant. For example, if an applicant selects the \u201cAsian\u201d box the institution reports \u201cAsian\u201d for the race of the applicant. Only an applicant may self-identify as being of a particular Hispanic or Latino subcategory (Mexican, Puerto Rican, Cuban, Other Hispanic or Latino) or of a particular Asian subcategory (Asian Indian, Chinese, Filipino, Japanese, Korean, Vietnamese, Other Asian) or of a particular Native Hawaiian or Other Pacific Islander subcategory (Native Hawaiian, Guamanian or Chamorro, Samoan, Other Pacific Islander) or of a particular American Indian or Alaska Native enrolled or principal tribe. An applicant may select an ethnicity or race subcategory even if the applicant does not select an aggregate ethnicity or aggregate race category. For example, if an applicant selects only the \u201cMexican\u201d box, the institution reports \u201cMexican\u201d for the ethnicity of the applicant but does not also report \u201cHispanic or Latino.\u201d",
             "label":[
                 "1003",
                 "B",
@@ -5974,7 +6111,8 @@
                 "1003-B-1-9-i",
                 "1003-B-1-9-ii",
                 "1003-B-1-9-iii",
-                "1003-B-1-9-iv"
+                "1003-B-1-9-iv",
+                "1003-B-1-9-v"
             ]
         },
         "op":"added"
@@ -6107,7 +6245,7 @@
     "1003-C-1-p4":{
         "node":{
             "tagged_text":null,
-            "title":"Table I\u2014Alphabetic To Numeric Conversion Table",
+            "title":"Table I - Alphabetic to Numeric Conversion Table",
             "text":"The alphabetic characters are not case-sensitive and each letter, whether it is capitalized or in lower-case, is equal to the same value as each letter illustrates in the conversion table. For example, A and a are each equal to 10.",
             "label":[
                 "1003",
@@ -6143,7 +6281,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Step 3: Apply the mathematical function mod=(n, 97) where n= the number obtained in step 2 above and 97 is the divisor.",
+            "text":"Step 3: Apply the mathematical function mod = (n, 97) where n = the number obtained in step 2 above and 97 is the divisor.",
             "label":[
                 "1003",
                 "C",
@@ -6620,18 +6758,20 @@
         },
         "op":"added"
     },
-    "1003-4-a-11-Interp-4":{
+    "1003-4-a-9-ii-A-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Type of purchaser\u2014private securitizations.",
-            "text":"A financial institution that knows or reasonably believes that the covered loan it is selling will be securitized by the entity purchasing the covered loan, other than by one of the government-sponsored enterprises, reports the purchasing entity type as a private securitizer regardless of the type or affiliation of the purchasing entity. Knowledge or reasonable belief could, for example, be based on the purchase agreement or other related documents, the financial institution's previous transactions with the purchaser, or the purchaser's role as a securitizer (such as an investment bank). If a financial institution selling a covered loan does not know or reasonably believe that the purchaser will securitize the loan, and the seller knows that the purchaser frequently holds or disposes of loans by means other than securitization, then the financial institution should report the covered loan as purchased by, as appropriate, a commercial bank, savings bank, savings association, life insurance company, credit union, mortgage company, finance company, affiliate institution, or other type of purchaser.",
+            "title":"Applications\u2014State not provided.",
+            "text":"When reporting an application, a financial institution complies with \u00a7\u20091003.4(a)(9)(ii)(A) by reporting that the requirement is not applicable if the State in which the property is located was not known before the application was denied, withdrawn, or closed for incompleteness.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "11",
+                "9",
+                "ii",
+                "A",
                 "Interp",
-                "4"
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -6655,7 +6795,8 @@
                 "1003-4-a-26-Interp-1",
                 "1003-4-a-26-Interp-2",
                 "1003-4-a-26-Interp-3",
-                "1003-4-a-26-Interp-4"
+                "1003-4-a-26-Interp-4",
+                "1003-4-a-26-Interp-5"
             ]
         },
         "op":"added"
@@ -6690,8 +6831,8 @@
     "1003-B-1-9-iv":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(iv) Race\u2014Other subcategories. If an applicant selects the Other Asian race subcategory or the Other Pacific Islander race subcategory, the applicant may also provide a particular Other Asian or Other Pacific Islander race not listed in the standard subcategories. In either such case, you must report both the selection of Other Asian or Other Pacific Islander, as applicable, and the additional information provided by the applicant, subject to the five-race maximum. In all such cases where the applicant has selected an Other race subcategory and also provided additional information, for purposes of the maximum of five reportable race categories and race subcategories combined set forth above, the Other race subcategory and additional information provided by the applicant together constitute only one selection. Thus, using the same facts in the example offered in paragraph 9.iii above, if the applicant also selected Other Asian and entered \u201cThai\u201d in the space provided, Other Asian and Thai are considered one selection. You must report any two (at your option) of the four race subcategories selected by the applicant, Korean, Vietnamese, Other Asian-Thai, and Samoan, in addition to the three aggregate race categories selected by the applicant.",
+            "title":"Race\u2014Other subcategories.",
+            "text":"(iv) An applicant may select the Other Asian race subcategory or the Other Pacific Islander race subcategory, an applicant may provide a particular Asian race or Pacific Islander race not listed in the standard subcategories, or an applicant may do both. If the applicant provides only a particular Asian race or Pacific Islander race in the space provided, you are permitted, but are not required, to report Other Asian or Other Pacific Islander, as applicable, in addition to reporting the particular Asian race or Pacific Islander race provided by the applicant. For example, if an applicant provides only \u201cHmong,\u201d you should report \u201cHmong.\u201d You are permitted, but not required, to report Other Asian as well. If an applicant selects the Other Asian race or the Other Pacific Islander race subcategory and provides a particular Asian race or Pacific Islander race not listed in the standard subcategories, you must report both the selection of Other Asian or Other Pacific Islander, as applicable, and the additional information provided by the applicant, subject to the five-race maximum. For purposes of the maximum of five reportable race categories and race subcategories combined, as set forth in paragraph 9.iii, the Other race subcategory and additional information provided by the applicant together constitute only one selection. Thus, using the same facts in the example offered in paragraph 9.iii above, if the applicant also selects Other Asian and enters \u201cThai\u201d in the space provided, Other Asian and Thai are considered one selection. Similarly, if the applicant enters only \u201cThai\u201d in the space provided and you report both \u201cThai\u201d and Other Asian as permitted by this paragraph 9.iv, the reported items together are considered one selection. In the same example, you must report any two (at your option) of the four race subcategories selected by the applicant, Korean, Vietnamese, Other Asian-Thai, and Samoan, in addition to the three aggregate race categories selected by the applicant.",
             "label":[
                 "1003",
                 "B",
@@ -6708,7 +6849,7 @@
         "node":{
             "tagged_text":null,
             "title":"New York State consolidation, extension, and modification agreements.",
-            "text":"A transaction completed pursuant to a New York State consolidation, extension, and modification agreement and classified as a supplemental mortgage under New York Tax Law section 255, such that the borrower owes reduced or no mortgage recording taxes, is an extension of credit under \u00a7 1003.2(d). Comments 2(i)-1, 2(j)-5, and 2(p)-2 clarify whether such transactions are home improvement loans, home purchase loans, or refinancings, respectively.",
+            "text":"A transaction completed pursuant to a New York State consolidation, extension, and modification agreement and classified as a supplemental mortgage under New York Tax Law section 255, such that the borrower owes reduced or no mortgage recording taxes, is an extension of credit under \u00a7\u20091003.2(d). Comments 2(i)-1, 2(j)-5, and 2(p)-2 clarify whether such transactions are home improvement loans, home purchase loans, or refinancings, respectively. Section 1003.3(c)(13) provides an exclusion from the reporting requirement for a preliminary transaction providing or, in the case of an application, proposing to provide new funds to the borrower in advance of being consolidated within the same calendar year into a supplemental mortgage under New York Tax Law section 255. See comment 3(c)(13)-1 concerning how to report a supplemental mortgage under New York Tax Law section 255 in this situation.",
             "label":[
                 "1003",
                 "2",
@@ -6776,8 +6917,8 @@
     "1003-B-1-9-ii":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(ii) Ethnicity\u2014Other subcategories. If an applicant selects the Other Hispanic or Latino ethnicity subcategory, the applicant may also provide a particular Hispanic or Latino ethnicity not listed in the standard subcategories. In such a case, you must report both the selection of Other Hispanic or Latino and the additional information provided by the applicant.",
+            "title":"Ethnicity\u2014Other subcategories.",
+            "text":"(ii) An applicant may select the Other Hispanic or Latino ethnicity subcategory, an applicant may provide a particular Hispanic or Latino ethnicity not listed in the standard subcategories, or an applicant may do both. If the applicant provides only a particular Hispanic or Latino ethnicity in the space provided, you are permitted, but are not required, to report Other Hispanic or Latino in addition to reporting the particular Hispanic or Latino ethnicity provided by the applicant. For example, if an applicant provides only \u201cDominican,\u201d you should report \u201cDominican.\u201d You are permitted, but not required, to report Other Hispanic or Latino as well. If an applicant selects the Other Hispanic or Latino ethnicity subcategory and also provides a particular Hispanic or Latino ethnicity not listed in the standard subcategories, you must report both the selection of Other Hispanic or Latino and the additional information provided by the applicant, subject to the five-ethnicity maximum. For purposes of the maximum of five reportable ethnicity categories and ethnicity subcategories combined, as set forth in paragraph 9.i, the Other Hispanic or Latino subcategory and additional information provided by the applicant together constitute only one selection. For example, if the applicant selects Other Hispanic or Latino and enters \u201cDominican\u201d in the space provided, Other Hispanic or Latino and \u201cDominican\u201d are considered one selection. Similarly, if the applicant only enters \u201cDominican\u201d in the space provided and you report both \u201cDominican\u201d and Other Hispanic or Latino as permitted by this paragraph 9.ii, the reported items together are considered one selection.",
             "label":[
                 "1003",
                 "B",
@@ -6812,7 +6953,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Assume the same scenario as in comment 3(c)(3)-1.ii, except that the initial construction loan is, or may be, renewed one or more times before the permanent financing is made. The initial construction loan, including any renewal thereof, is excluded as temporary financing under \u00a7 1003.3(c)(3).",
+            "text":"Assume the same scenario as in comment 3(c)(3)-1.ii, except that the initial construction loan is, or may be, renewed one or more times before the separate permanent financing is obtained. The initial construction loan, including any renewal thereof, is excluded as temporary financing under \u00a7\u20091003.3(c)(3).",
             "label":[
                 "1003",
                 "3",
@@ -6891,7 +7032,7 @@
         "node":{
             "tagged_text":null,
             "title":"Interest rate\u2014disclosures.",
-            "text":"Section 1003.4(a)(21) requires a financial institution to identify the interest rate applicable to the approved application, or to the covered loan at closing or account opening. For covered loans or applications subject to the disclosure requirements of Regulation Z, 12 CFR 1026.19(e) or (f), a financial institution complies with \u00a7 1003.4(a)(21) by reporting the interest rate disclosed on the applicable disclosure. For covered loans for which disclosures were provided pursuant to both 12 CFR 1026.19(e) and 12 CFR 1026.19(f), a financial institution reports the interest rate disclosed pursuant to 12 CFR 1026.19(f). A financial institution may rely on the definitions and commentary to the sections of Regulation Z relevant to the disclosure of the interest rate pursuant to 12 CFR 1026.19(e) or 12 CFR 1026.19(f).",
+            "text":"Section 1003.4(a)(21) requires a financial institution to identify the interest rate applicable to the approved application, or to the covered loan at closing or account opening. For covered loans or applications subject to the integrated mortgage disclosure requirements of Regulation Z, 12 CFR 1026.19(e) and (f), a financial institution complies with \u00a7\u20091003.4(a)(21) by reporting the interest rate disclosed on the applicable disclosure. For covered loans or approved applications for which disclosures were provided pursuant to both the early and the final disclosure requirements in Regulation Z, 12 CFR 1026.19(e) and (f), a financial institution reports the interest rate disclosed pursuant to 12 CFR 1026.19(f). A financial institution may rely on the definitions and commentary to the sections of Regulation Z relevant to the disclosure of the interest rate pursuant to 12 CFR 1026.19(e) or (f). If a financial institution provides a revised or corrected version of the disclosures required under Regulation Z, 12 CFR 1026.19(e) or (f), pursuant to 12 CFR 1026.19(e)(3)(iv) or (f)(2), as applicable, the financial institution complies with \u00a7\u20091003.4(a)(21) by reporting the interest rate on the revised or corrected disclosure, provided that the revised or corrected disclosure was provided to the borrower prior to the end of the reporting period in which final action is taken. For purposes of \u00a7\u20091003.4(a)(21), the date the revised or corrected disclosure was provided to the borrower is the date disclosed pursuant to Regulation Z, 12 CFR 1026.37(a)(4) or 1026.38(a)(3)(i), as applicable.",
             "label":[
                 "1003",
                 "4",
@@ -6974,16 +7115,87 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1003-3-c-11-Interp-1"
+                "1003-3-c-11-Interp-1",
+                "1003-3-c-11-Interp-2"
             ]
         },
         "op":"added"
     },
-    "1003-4-a-9-ii-B-Interp-1":{
+    "1003-4-a-12-ii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    102,
+                    116
+                ],
+                [
+                    "insert",
+                    102,
+                    "rates"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    182,
+                    203
+                ],
+                [
+                    "insert",
+                    182,
+                    "set"
+                ]
+            ],
+            [
+                "insert",
+                301,
+                "tables of "
+            ],
+            [
+                [
+                    "delete",
+                    327,
+                    387
+                ],
+                [
+                    "insert",
+                    327,
+                    "by transaction type"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    397,
+                    415
+                ],
+                [
+                    "insert",
+                    397,
+                    "weekly and also publishes"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    432,
+                    442
+                ],
+                [
+                    "insert",
+                    432,
+                    "it"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-4-a-9-ii-B-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":"General.",
-            "text":"A financial institution complies by reporting the five-digit Federal Information Processing Standards (FIPS) numerical county code.",
+            "title":"\\Applications\u2014county not provided.",
+            "text":"When reporting an application, a financial institution complies with \u00a7\u20091003.4(a)(9)(ii)(B) by reporting that the requirement is not applicable if the county in which the property is located was not known before the application was denied, withdrawn, or closed for incompleteness.",
             "label":[
                 "1003",
                 "4",
@@ -6992,7 +7204,7 @@
                 "ii",
                 "B",
                 "Interp",
-                "1"
+                "2"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -7172,7 +7384,8 @@
             "child_labels":[
                 "1003-4-a-34-Interp-1",
                 "1003-4-a-34-Interp-2",
-                "1003-4-a-34-Interp-3"
+                "1003-4-a-34-Interp-3",
+                "1003-4-a-34-Interp-4"
             ]
         },
         "op":"added"
@@ -7184,7 +7397,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(11) A closed-end mortgage loan, if the financial institution originated fewer than 25 closed-end mortgage loans in each of the two preceding calendar years; or",
+            "text":"(11) A closed-end mortgage loan, if the financial institution originated fewer than 25 closed-end mortgage loans in either of the two preceding calendar years; a financial institution may collect, record, report, and disclose information, as described in \u00a7\u00a7\u20091003.4 and 1003.5, for such an excluded closed-end mortgage loan as though it were a covered loan, provided that the financial institution complies with such requirements for all applications for closed-end mortgage loans that it receives, closed-end mortgage loans that it originates, and closed-end mortgage loans that it purchases that otherwise would have been covered loans during the calendar year during which final action is taken on the excluded closed-end mortgage loan;",
             "label":[
                 "1003",
                 "3",
@@ -7212,14 +7425,27 @@
         },
         "op":"added"
     },
-    "1003-2-HomePurchaseLoan-Interp-2":{
-        "op":"deleted"
+    "1003-3-c-13":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(13) A transaction that provided or, in the case of an application, proposed to provide new funds to the applicant or borrower in advance of being consolidated in a New York State consolidation, extension, and modification agreement classified as a supplemental mortgage under New York Tax Law section 255; the transaction is excluded only if final action on the consolidation was taken in the same calendar year as final action on the new funds transaction.",
+            "label":[
+                "1003",
+                "3",
+                "c",
+                "13"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-3-c-12":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(12) An open-end line of credit, if the financial institution originated fewer than 100 open-end lines of credit in each of the two preceding calendar years.",
+            "text":"(12) An open-end line of credit, if the financial institution originated fewer than 500 open-end lines of credit in either of the two preceding calendar years; a financial institution may collect, record, report, and disclose information, as described in \u00a7\u00a7\u20091003.4 and 1003.5, for such an excluded open-end line of credit as though it were a covered loan, provided that the financial institution complies with such requirements for all applications for open-end lines of credit that it receives, open-end lines of credit that it originates, and open-end lines of credit that it purchases that otherwise would have been covered loans during the calendar year during which final action is taken on the excluded open-end line of credit; or",
             "label":[
                 "1003",
                 "3",
@@ -7242,6 +7468,26 @@
     },
     "1003-2-HomePurchaseLoan-Interp-7":{
         "op":"deleted"
+    },
+    "1003-4-a-9-ii-C-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Applications\u2014census tract not provided.",
+            "text":"When reporting an application, a financial institution complies with \u00a7\u20091003.4(a)(9)(ii)(C) by reporting that the requirement is not applicable if the census tract in which the property is located was not known before the application was denied, withdrawn, or closed for incompleteness.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "9",
+                "ii",
+                "C",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-9-ii-C-Interp-1":{
         "node":{
@@ -7575,6 +7821,45 @@
         },
         "op":"added"
     },
+    "1003-5-e-Interp-1-HMDANotice":{
+        "text":[
+            [
+                "insert",
+                67,
+                "online "
+            ],
+            [
+                "insert",
+                166,
+                "age, "
+            ],
+            [
+                [
+                    "delete",
+                    256,
+                    288
+                ],
+                [
+                    "insert",
+                    256,
+                    "HMDA data for many other financial institutions are also available online. For more information, visit"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    293,
+                    336
+                ],
+                [
+                    "insert",
+                    293,
+                    "Consumer Financial Protection Bureau's Web site (www.consumerfinance.gov/hmda)."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1003-A-h2-h6-p27-p30":{
         "op":"deleted"
     },
@@ -7641,6 +7926,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1003-4-a-1-Interp-1":{
+        "op":"deleted"
     },
     "1003-2-p-Interp-1-i":{
         "node":{
@@ -8006,7 +8294,7 @@
                 [
                     "insert",
                     0,
-                    "![](ER28OC15.011)"
+                    "![](ER13se17.000)"
                 ]
             ]
         ],
@@ -8304,7 +8592,7 @@
         "node":{
             "tagged_text":null,
             "title":"Property address\u2014not applicable.",
-            "text":"A financial institution complies with \u00a7 1003.4(a)(9)(i) by indicating that the requirement is not applicable if the property address of the property securing the covered loan is not known. For example, if the property did not have a property address at closing or if the applicant did not provide the property address of the property to the financial institution before the application was denied, withdrawn, or closed for incompleteness, the financial institution complies with \u00a7 1003.4(a)(9)(i) by indicating that the requirement is not applicable.",
+            "text":"A financial institution complies with \u00a7\u20091003.4(a)(9)(i) by reporting that the requirement is not applicable if the property address of the property securing the covered loan is not known. For example, if the property did not have a property address at closing or if the applicant did not provide the property address of the property to the financial institution before the application was denied, withdrawn, or closed for incompleteness, the financial institution complies with \u00a7\u20091003.4(a)(9)(i) by reporting that the requirement is not applicable.",
             "label":[
                 "1003",
                 "4",
@@ -8628,6 +8916,23 @@
         },
         "op":"added"
     },
+    "1003-2-n-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Separate dwellings.",
+            "text":"A covered loan secured by five or more separate dwellings, which are not multifamily dwellings, in more than one location is not a loan secured by a multifamily dwelling. For example, assume a landlord uses a covered loan to improve five or more dwellings, each with one individual dwelling unit, located in different parts of a town, and the loan is secured by those properties. The covered loan is not secured by a multifamily dwelling as defined by \u00a7\u20091003.2(n). Likewise, a covered loan secured by five or more separate dwellings that are located within a multifamily dwelling, but which is not secured by the entire multifamily dwelling (e.g., an entire apartment building or housing complex), is not secured by a multifamily dwelling as defined by \u00a7\u20091003.2(n). For example, assume that an investor purchases 10 individual unit condominiums in a 100-unit condominium complex using a covered loan. The covered loan would not be secured by a multifamily dwelling as defined by \u00a7\u20091003.2(n). In both of these situations, a financial institution reporting a covered loan or application secured by these separate dwellings would not be subject to the additional reporting requirements for covered loans secured by or applications proposed to be secured by multifamily dwellings under \u00a7\u20091003.4(a)(32). However, a financial institution would report the information required by \u00a7\u20091003.4(a)(4), (a)(10)(iii), and (a)(23), (29), and (30), which is not applicable to covered loans secured by and applications proposed to be secured by multifamily dwellings. See comment 2(n)-2. In addition, in both of these situations, the financial institution reports the number of individual dwelling units securing the covered loan or proposed to secure a covered loan as required by \u00a7\u20091003.4(a)(31). See comment 4(a)(31)-3.",
+            "label":[
+                "1003",
+                "2",
+                "n",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-2-n-Interp-2":{
         "node":{
             "tagged_text":null,
@@ -8649,7 +8954,7 @@
         "node":{
             "tagged_text":null,
             "title":"Loan type\u2014general.",
-            "text":"If a covered loan is not, or in the case of an application would not have been, insured by the Federal Housing Administration, guaranteed by the Veterans Administration, or guaranteed by the Rural Housing Service or the Farm Service Agency, an institution complies with \u00a7 1003.4(a)(2) by reporting the covered loan as not insured or guaranteed by the Federal Housing Administration, Veterans Administration, Rural Housing Service, or Farm Service Agency.",
+            "text":"If a covered loan is not, or in the case of an application would not have been, insured by the Federal Housing Administration, guaranteed by the Department of Veterans Affairs, or guaranteed by the Rural Housing Service or the Farm Service Agency, an institution complies with \u00a7\u20091003.4(a)(2) by reporting the covered loan as not insured or guaranteed by the Federal Housing Administration, Department of Veterans Affairs, Rural Housing Service, or Farm Service Agency.",
             "label":[
                 "1003",
                 "4",
@@ -8667,7 +8972,7 @@
         "node":{
             "tagged_text":null,
             "title":"Assumptions.",
-            "text":"For purposes of Regulation C, an assumption is a transaction in which an institution enters into a written agreement accepting a new borrower in place of an existing borrower as the obligor on an existing debt obligation. For purposes of Regulation C, assumptions include successor-in-interest transactions, in which an individual succeeds the prior owner as the property owner and then assumes the existing debt secured by the property. Under \u00a7 1003.2(d), assumptions are extensions of credit even if the new borrower merely assumes the existing debt obligation and no new debt obligation is created. See also comment 2(j)-5.",
+            "text":"For purposes of Regulation C, an assumption is a transaction in which an institution enters into a written agreement accepting a new borrower in place of an existing borrower as the obligor on an existing debt obligation. For purposes of Regulation C, assumptions include successor-in-interest transactions, in which an individual succeeds the prior owner as the property owner and then assumes the existing debt secured by the property. Under \u00a7\u20091003.2(d), assumptions are extensions of credit even if the new borrower merely assumes the existing debt obligation and no new debt obligation is created. See also comment 2(j)-5.",
             "label":[
                 "1003",
                 "2",
@@ -8684,8 +8989,8 @@
     "1003-2-j-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":"Construction and permanent financing.",
-            "text":"A home purchase loan includes both a combined construction/permanent loan and the permanent financing that replaces a construction-only loan. A home purchase loan does not include a construction-only loan that is designed to be replaced by permanent financing at a later time, which is excluded from Regulation C as temporary financing under \u00a7 1003.3(c)(3). Comment 3(c)(3)-1 provides additional details about transactions that are excluded as temporary financing.",
+            "title":"Construction and permanent financing. ",
+            "text":"A home purchase loan includes both a combined construction/permanent loan or line of credit, and the separate permanent financing that replaces a construction-only loan or line of credit for the same borrower at a later time. A home purchase loan does not include a construction-only loan or line of credit that is designed to be replaced by separate permanent financing extended by any financial institution to the same borrower at a later time or that is extended to a person exclusively to construct a dwelling for sale, which are excluded from Regulation C as temporary financing under \u00a7\u20091003.3(c)(3). Comments 3(c)(3)-1 and -2 provide additional details about transactions that are excluded as temporary financing.",
             "label":[
                 "1003",
                 "2",
@@ -8852,7 +9157,8 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1003-3-c-3-Interp-1"
+                "1003-3-c-3-Interp-1",
+                "1003-3-c-3-Interp-2"
             ]
         },
         "op":"added"
@@ -8864,7 +9170,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(ii) For purposes of this paragraph (a)(35), an \u201cautomated underwriting system\u201d means an electronic tool developed by a securitizer, Federal government insurer, or Federal government guarantor that provides a result regarding the credit risk of the applicant and whether the covered loan is eligible to be originated, purchased, insured, or guaranteed by that securitizer, Federal government insurer, or Federal government guarantor.",
+            "text":"(ii) For purposes of this paragraph (a)(35), an \u201cautomated underwriting system\u201d means an electronic tool developed by a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit that provides a result regarding the credit risk of the applicant and whether the covered loan is eligible to be originated, purchased, insured, or guaranteed by that securitizer, Federal government insurer, or Federal government guarantor. A person is a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit, respectively, if it has ever securitized, provided Federal government insurance, or provided a Federal government guarantee for a closed-end mortgage loan or open-end line of credit.",
             "label":[
                 "1003",
                 "4",
@@ -8992,18 +9298,18 @@
         },
         "op":"added"
     },
-    "1003-4-a-30-Interp-3":{
+    "1003-4-a-3-Interp-6":{
         "node":{
             "tagged_text":null,
-            "title":"Multiple properties.",
-            "text":"See comment 4(a)(9)-2 regarding transactions involving multiple properties with more than one property taken as security.",
+            "title":"Purpose\u2014purchased loans.",
+            "text":"For purchased covered loans where origination took place prior to January 1, 2018, a financial institution complies with \u00a7\u20091003.4(a)(3) by reporting that the requirement is not applicable.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "30",
+                "3",
                 "Interp",
-                "3"
+                "6"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -9355,7 +9661,7 @@
         "node":{
             "tagged_text":null,
             "title":"Rate-set date.",
-            "text":"The relevant date to use to determine the average prime offer rate for a comparable transaction is the date on which the covered loan's interest rate was set by the financial institution for the final time before closing or account opening.",
+            "text":"The relevant date to use to determine the average prime offer rate for a comparable transaction is the date on which the interest rate was set by the financial institution for the final time before final action is taken (i.e., the application was approved but not accepted or the covered loan was originated).",
             "label":[
                 "1003",
                 "4",
@@ -9433,7 +9739,7 @@
         "node":{
             "tagged_text":null,
             "title":"Average prime offer rate.",
-            "text":"Average prime offer rates are annual percentage rates derived from average interest rates, points, and other loan pricing terms offered to borrowers by a representative sample of lenders for mortgage loans that have low-risk pricing characteristics. Other pricing terms include commonly used indices, margins, and initial fixed-rate periods for variable-rate transactions. Relevant pricing characteristics include a consumer's credit history and transaction characteristics such as the loan-to-value ratio, owner-occupant status, and purpose of the transaction. To obtain average prime offer rates, the Bureau uses a survey of lenders that both meets the criteria of \u00a7 1003.4(a)(12)(ii) and provides pricing terms for at least two types of variable-rate transactions and at least two types of non-variable-rate transactions. An example of such a survey is the Freddie Mac Primary Mortgage Market Survey\u00ae.",
+            "text":"Average prime offer rates are annual percentage rates derived from average interest rates and other loan pricing terms offered to borrowers by a set of creditors for mortgage loans that have low-risk pricing characteristics. Other loan pricing terms may include commonly used indices, margins, and initial fixed-rate periods for variable-rate transactions. Relevant pricing characteristics may include a consumer's credit history and transaction characteristics such as the loan-to-value ratio, owner-occupant status, and purpose of the transaction. To obtain average prime offer rates, the Bureau uses creditor data by transaction type.",
             "label":[
                 "1003",
                 "4",
@@ -9469,7 +9775,7 @@
         "node":{
             "tagged_text":null,
             "title":"Rate spread calculation\u2014annual percentage rate.",
-            "text":"The requirements of \u00a7 1003.4(a)(12)(i) refer to the covered loan's annual percentage rate. A financial institution complies with \u00a7 1003.4(a)(12)(i) by relying on the annual percentage rate for the covered loan, as calculated and disclosed pursuant to Regulation Z, 12 CFR 1026.18 or 1026.38 (for closed-end mortgage loans) or 1026.40 (for open-end credit lines of credit), as applicable.",
+            "text":"The requirements of \u00a7\u20091003.4(a)(12)(i) refer to the covered loan's annual percentage rate. For closed-end mortgage loans, a financial institution complies with \u00a7\u20091003.4(a)(12)(i) by relying on the annual percentage rate for the covered loan, as calculated and disclosed pursuant to Regulation Z, 12 CFR 1026.18 or 1026.38. For open-end lines of credit, a financial institution complies with \u00a7\u20091003.4(a)(12)(i) by relying on the annual percentage rate for the covered loan, as calculated and disclosed pursuant to Regulation Z, 12 CFR 1026.6. If multiple annual percentage rates are calculated and disclosed pursuant to Regulation Z, 12 CFR 1026.6, a financial institution relies on the annual percentage rate in effect at the time of account opening. If an open-end line of credit has a variable-rate feature and a fixed-rate and -term payment option during the draw period, a financial institution relies on the annual percentage rate in effect at the time of account opening under the variable-rate feature, which would be a discounted initial rate if one is offered under the variable-rate feature. See comment 4(a)(12)-8 for guidance regarding the annual percentage rate a financial institution relies on in the case of an application or preapproval request that was approved but not accepted.",
             "label":[
                 "1003",
                 "4",
@@ -9487,7 +9793,7 @@
         "node":{
             "tagged_text":null,
             "title":"Bureau tables.",
-            "text":"The Bureau publishes on the FFIEC's Web site (http://www.ffiec.gov/hmda), in tables entitled \u201cAverage Prime Offer Rates-Fixed\u201d and \u201cAverage Prime Offer Rates-Adjustable,\u201d current and historic average prime offer rates for a wide variety of closed-end transaction types. The Bureau calculates an annual percentage rate, consistent with Regulation Z (see 12 CFR 1026.22 and Part 1026, Appendix J), for each transaction type for which pricing terms are available from the survey described in comment 4(a)(12)-1. The Bureau uses loan pricing terms available in the survey and other information to estimate annual percentage rates for other types of transactions for which direct survey data are not available. The Bureau publishes on the FFIEC's Web site the methodology it uses to arrive at these estimates. A financial institution may either use the average prime offer rates published by the Bureau or may determine average prime offer rates itself by employing the methodology published on the FFIEC Web site. A financial institution that determines average prime offer rates itself, however, is responsible for correctly determining the rates in accordance with the published methodology.",
+            "text":"The Bureau publishes tables of current and historic average prime offer rates by transaction type on the FFIEC's Web site (http://www.ffiec.gov/\u200bhmda) and the Bureau's Web site (https://www.consumerfinance.gov). The Bureau calculates an annual percentage rate, consistent with Regulation Z (see 12 CFR 1026.22 and 12 CFR part 1026, appendix J), for each transaction type for which pricing terms are available from the creditor data described in comment 4(a)(12)-1. The Bureau uses loan pricing terms available in the creditor data and other information to estimate annual percentage rates for other types of transactions for which the creditor data are limited or not available. The Bureau publishes on the FFIEC's Web site and the Bureau's Web site the methodology it uses to arrive at these estimates. A financial institution may either use the average prime offer rates published by the Bureau or determine average prime offer rates itself by employing the methodology published on the FFIEC's Web site and the Bureau's Web site. A financial institution that determines average prime offer rates itself, however, is responsible for correctly determining the rates in accordance with the published methodology.",
             "label":[
                 "1003",
                 "4",
@@ -9547,11 +9853,29 @@
     "1003-4-a-10-Interp-8":{
         "op":"deleted"
     },
+    "1003-4-a-12-Interp-9":{
+        "node":{
+            "tagged_text":null,
+            "title":"Corrected disclosures.",
+            "text":"In the case of a covered loan or an application that was approved but not accepted, if the annual percentage rate changes because a financial institution provides a corrected version of the disclosures required under Regulation Z, 12 CFR 1026.19(a), pursuant to 12 CFR 1026.19(a)(2), under 12 CFR 1026.19(f), pursuant to 12 CFR 1026.19(f)(2), or under 12 CFR 1026.6(a), the financial institution complies with \u00a7\u20091003.4(a)(12)(i) by comparing the corrected and disclosed annual percentage rate to the most recently available average prime offer rate that was in effect for a comparable transaction as of the rate-set date, provided that the corrected disclosure was provided to the borrower prior to the end of the reporting period in which final action is taken. For purposes of \u00a7\u20091003.4(a)(12), the date the corrected disclosure was provided to the borrower is the date the disclosure was mailed or delivered to the borrower in person; the financial institution's method of delivery does not affect the date provided. For example, where a financial institution provides a corrected version of the disclosures required under 12 CFR 1026.19(f), pursuant to 12 CFR 1026.19(f)(2), the date provided is the date disclosed pursuant to Regulation Z, 12 CFR 1026.38(a)(3)(i). The provision of a corrected disclosure does not affect how a financial institution determines the rate-set date. See comment 4(a)(12)-5. For example, in the case of a financial institution's annual loan/application register submission made pursuant to \u00a7\u20091003.5(a)(1), if the financial institution provides a corrected disclosure to the borrower pursuant to Regulation Z, 12 CFR 1026.19(f)(2)(v), that reflects a corrected annual percentage rate, the financial institution reports the difference between the corrected annual percentage rate and the most recently available average prime offer rate that was in effect for a comparable transaction as of the rate-set date if the corrected disclosure was provided to the borrower prior to the end of the calendar year in which final action is taken.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "12",
+                "Interp",
+                "9"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-4-a-12-Interp-8":{
         "node":{
             "tagged_text":null,
-            "title":"Application approved but not accepted or preapproval request approved but not accepted.",
-            "text":"In the case of an application approved but not accepted or a preapproval request that was approved but not accepted, \u00a7 1003.4(a)(12) requires a financial institution to report the applicable rate spread.",
+            "title":"Application or preapproval request approved but not accepted.",
+            "text":"In the case of an application or preapproval request that was approved but not accepted, \u00a7\u20091003.4(a)(12) requires a financial institution to report the applicable rate spread. In such cases, the financial institution would provide early disclosures under Regulation Z, 12 CFR 1026.18 or 1026.37 (for closed-end mortgage loans), or 1026.40 (for open-end lines of credit), but might never provide any subsequent disclosures. In such cases where no subsequent disclosures are provided, a financial institution complies with \u00a7\u20091003.4(a)(12)(i) by relying on the annual percentage rate for the application or preapproval request, as calculated and disclosed pursuant to Regulation Z, 12 CFR 1026.18 or 1026.37 (for closed-end mortgage loans), or 1026.40 (for open-end lines of credit), as applicable. For transactions subject to Regulation C for which no disclosures under Regulation Z are required, a financial institution complies with \u00a7\u20091003.4(a)(12)(i) by reporting that the requirement is not applicable.",
             "label":[
                 "1003",
                 "4",
@@ -9669,7 +9993,7 @@
         "node":{
             "tagged_text":null,
             "title":"Action taken\u2014counteroffers.",
-            "text":"If a financial institution makes a counteroffer to lend on terms different from the applicant's initial request (for example, for a shorter loan maturity, with a different interest rate, or in a different amount) and the applicant does not accept the counteroffer or fails to respond, the institution reports the action taken as a denial on the original terms requested by the applicant. If the applicant accepts, the financial institution reports the action taken as covered loan originated.",
+            "text":"If a financial institution makes a counteroffer to lend on terms different from the applicant's initial request (for example, for a shorter loan maturity, with a different interest rate, or in a different amount) and the applicant declines to proceed with the counteroffer or fails to respond, the institution reports the action taken as a denial on the original terms requested by the applicant. If the applicant agrees to proceed with consideration of the financial institution's counteroffer, the financial institution reports the action taken as the disposition of the application based on the terms of the counteroffer. For example, assume a financial institution makes a counteroffer, the applicant agrees to proceed with the terms of the counteroffer, and the financial institution then makes a credit decision approving the application conditional on satisfying underwriting or creditworthiness conditions, and the applicant expressly withdraws before satisfying all underwriting or creditworthiness conditions and before the institution denies the application or closes the file for incompleteness. The financial institution reports that the action taken as application withdrawn in accordance with comment 4(a)(8)(i)-13.i. Similarly, assume a financial institution makes a counteroffer, the applicant agrees to proceed with consideration of the counteroffer, and the financial institution provides a conditional approval stating the conditions to be met to originate the counteroffer. The financial institution reports the action taken on the application in accordance with comment 4(a)(8)(i)-13 regarding conditional approvals.",
             "label":[
                 "1003",
                 "4",
@@ -9880,7 +10204,7 @@
         "node":{
             "tagged_text":null,
             "title":"Action taken\u2014file closed for incompleteness.",
-            "text":"A financial institution reports that the file was closed for incompleteness if the financial institution sent a written notice of incompleteness under Regulation B, 12 CFR 1002.9(c)(2), and the applicant did not respond to the request for additional information within the period of time specified in the notice before the applicant satisfies all underwriting or creditworthiness conditions. See comment 4(a)(8)(i)-13. If a financial institution then provides a notification of adverse action on the basis of incompleteness under Regulation B, 12 CFR 1002.9(c)(i), the financial institution may report the action taken as either file closed for incompleteness or application denied. A preapproval request that is closed for incompleteness is not reportable under HMDA. See \u00a7 1003.4(a).",
+            "text":"A financial institution reports that the file was closed for incompleteness if the financial institution sent a written notice of incompleteness under Regulation B, 12 CFR 1002.9(c)(2), and the applicant did not respond to the request for additional information within the period of time specified in the notice before the applicant satisfies all underwriting or creditworthiness conditions. See comment 4(a)(8)(i)-13. If a financial institution then provides a notification of adverse action on the basis of incompleteness under Regulation B, 12 CFR 1002.9(c)(1)(i), the financial institution may report the action taken as either file closed for incompleteness or application denied. A preapproval request that is closed for incompleteness is not reportable under HMDA. See \u00a7\u20091003.4(a) and comment 4(a)-1.ii.",
             "label":[
                 "1003",
                 "4",
@@ -10386,6 +10710,24 @@
         },
         "op":"added"
     },
+    "1003-4-a-30-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Multiple properties.",
+            "text":"See comment 4(a)(9)-2 regarding transactions involving multiple properties with more than one property taken as security.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "30",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-2-p-Interp":{
         "node":{
             "tagged_text":null,
@@ -10472,7 +10814,7 @@
         "node":{
             "tagged_text":null,
             "title":"Change in loan program.",
-            "text":"If a financial institution issues a rate-lock commitment under one loan program, the borrower subsequently changes to another program that is subject to different pricing terms, and the financial institution changes the rate promised to the borrower under the rate-lock commitment accordingly, the rate-set date is the date of the program change. However, if the financial institution changes the promised rate to the rate that would have been available to the borrower under the new program on the date of the original rate-lock commitment, then that is the date the rate is set, provided the financial institution consistently follows that practice in all such cases or the original rate-lock agreement so provided. For example, assume that a borrower locks a rate of 2.5 percent on June 1 for a 30-year, variable-rate loan with a 5-year, fixed-rate introductory period. On June 15, the borrower decides to switch to a 30-year, fixed-rate loan, and the rate available to the borrower for that product on June 15 is 4.0 percent. On June 1, the 30-year, fixed-rate loan would have been available to the borrower at a rate of 3.5 percent. If the financial institution offers the borrower the 3.5 percent rate (i.e., the rate that would have been available to the borrower for the fixed-rate product on June 1, the date of the original rate-lock) because the original agreement so provided or because the financial institution consistently follows that practice for borrowers who change loan programs, then the financial institution should use June 1 as the rate-set date. In all other cases, the financial institution should use June 15 as the rate-set date.",
+            "text":"If a financial institution issues a rate-lock commitment under one loan program, the borrower subsequently changes to another program that is subject to different pricing terms, and the financial institution changes the rate promised to the borrower under the rate-lock commitment accordingly, the rate-set date is the date of the program change. However, if the financial institution changes the promised rate to the rate that would have been available to the borrower under the new program on the date of the original rate-lock commitment, then that is the date the rate is set, provided the financial institution consistently follows that practice in all such cases or the original rate-lock agreement so provided. For example, assume that a borrower locks a rate of 2.5 percent on June 1 for a 30-year, variable-rate loan with a five-year, fixed-rate introductory period. On June 15, the borrower decides to switch to a 30-year, fixed-rate loan, and the rate available to the borrower for that product on June 15 is 4.0 percent. On June 1, the 30-year, fixed-rate loan would have been available to the borrower at a rate of 3.5 percent. If the financial institution offers the borrower the 3.5 percent rate (i.e., the rate that would have been available to the borrower for the fixed-rate product on June 1, the date of the original rate-lock) because the original agreement so provided or because the financial institution consistently follows that practice for borrowers who change loan programs, then the financial institution should use June 1 as the rate-set date. In all other cases, the financial institution should use June 15 as the rate-set date.",
             "label":[
                 "1003",
                 "4",
@@ -10563,7 +10905,7 @@
         "node":{
             "tagged_text":null,
             "title":"Credit score\u2014multiple credit scores.",
-            "text":"When a financial institution obtains or creates two or more credit scores for a single applicant or borrower but relies on only one score in making the credit decision (for example, by relying on the lowest, highest, most recent, or average of all of the scores), the financial institution complies with \u00a7 1003.4(a)(15) by reporting that credit score and information about the scoring model used. When a financial institution obtains or creates two or more credit scores for an applicant or borrower and relies on multiple scores for the applicant or borrower in making the credit decision (for example, by relying on a scoring grid that considers each of the scores obtained or created for the applicant or borrower without combining the scores into a composite score), \u00a7 1003.4(a)(15) requires the financial institution to report one of the credit scores for the applicant or borrower that was relied on in making the credit decision. In choosing which credit score to report in this circumstance, a financial institution need not use the same approach for its entire HMDA submission, but it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of covered loans). In instances such as these, the financial institution should report the name and version of the credit scoring model for the score reported.",
+            "text":"When a financial institution obtains or creates two or more credit scores for a single applicant or borrower but relies on only one score in making the credit decision (for example, by relying on the lowest, highest, most recent, or average of all of the scores), the financial institution complies with \u00a7\u20091003.4(a)(15) by reporting that credit score and information about the scoring model used. When a financial institution uses more than one credit scoring model and combines the scores into a composite credit score that it relies on, the financial institution reports that score and reports that more than one credit scoring model was used. When a financial institution obtains or creates two or more credit scores for an applicant or borrower and relies on multiple scores for the applicant or borrower in making the credit decision (for example, by relying on a scoring grid that considers each of the scores obtained or created for the applicant or borrower without combining the scores into a composite score), \u00a7\u20091003.4(a)(15) requires the financial institution to report one of the credit scores for the applicant or borrower that was relied on in making the credit decision. In choosing which credit score to report in this circumstance, a financial institution need not use the same approach for its entire HMDA submission, but it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of covered loans). In instances such as these, the financial institution should report the name and version of the credit scoring model for the score reported.",
             "label":[
                 "1003",
                 "4",
@@ -10581,7 +10923,7 @@
         "node":{
             "tagged_text":null,
             "title":"Credit score\u2014multiple applicants or borrowers.",
-            "text":"In a transaction involving two or more applicants or borrowers for which the financial institution obtains or creates a single credit score, and relies on that credit score in making the credit decision for the transaction, the institution complies with \u00a7 1003.4(a)(15) by reporting that credit score for either the applicant or first co-applicant. Otherwise, a financial institution complies with \u00a7 1003.4(a)(15) by reporting a credit score for the applicant that it relied on in making the credit decision, if any, and a credit score for the first co-applicant that it relied on in making the credit decision, if any. To illustrate, assume a transaction involves one applicant and one co-applicant and that the financial institution obtains or creates two credit scores for the applicant and two credit scores for the co-applicant. Assume further that the financial institution relies on the lowest, highest, most recent, or average of all of the credit scores obtained or created to make the credit decision for the transaction. The financial institution complies with \u00a7 1003.4(a)(15) by reporting that credit score and information about the scoring model used. Alternatively, assume a transaction involves one applicant and one co-applicant and that the financial institution obtains or creates three credit scores for the applicant and three credit scores for the co-applicant. Assume further that the financial institution relies on the middle credit score for the applicant and the middle credit score for the co-applicant to make the credit decision for the transaction. The financial institution complies with \u00a7 1003.4(a)(15) by reporting both the middle score for the applicant and the middle score for the co-applicant.",
+            "text":"In a transaction involving two or more applicants or borrowers for whom the financial institution obtains or creates a single credit score and relies on that credit score in making the credit decision for the transaction, the institution complies with \u00a7\u20091003.4(a)(15) by reporting that credit score for the applicant and reporting that the requirement is not applicable for the first co-applicant or, at the financial institution's discretion, by reporting that credit score for the first co-applicant and reporting that the requirement is not applicable for the applicant. Otherwise, a financial institution complies with \u00a7\u20091003.4(a)(15) by reporting a credit score for the applicant that it relied on in making the credit decision, if any, and a credit score for the first co-applicant that it relied on in making the credit decision, if any. To illustrate, assume a transaction involves one applicant and one co-applicant and that the financial institution obtains or creates two credit scores for the applicant and two credit scores for the co-applicant. Assume further that the financial institution relies on a single credit score that is the lowest, highest, most recent, or average of all of the credit scores obtained or created to make the credit decision for the transaction. The financial institution complies with \u00a7\u20091003.4(a)(15) by reporting that credit score and information about the scoring model used for the applicant and reporting that the requirement is not applicable for the first co-applicant or, at the financial institution's discretion, by reporting the data for the first co-applicant and reporting that the requirement is not applicable for the applicant. Alternatively, assume a transaction involves one applicant and one co-applicant and that the financial institution obtains or creates three credit scores for the applicant and three credit scores for the co-applicant. Assume further that the financial institution relies on the middle credit score for the applicant and the middle credit score for the co-applicant to make the credit decision for the transaction. The financial institution complies with \u00a7\u20091003.4(a)(15) by reporting both the middle score for the applicant and the middle score for the co-applicant.",
             "label":[
                 "1003",
                 "4",
@@ -10659,6 +11001,24 @@
         },
         "op":"added"
     },
+    "1003-3-c-13-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"New funds extended before consolidation.",
+            "text":"Section 1003.3(c)(13) provides an exclusion for a transaction that provided or, in the case of an application, proposed to provide new funds to the borrower in advance of being consolidated in a New York State consolidation, extension, and modification agreement classified as a supplemental mortgage under New York Tax Law section 255 (New York CEMA) and for which final action is taken on both transactions within the same calendar year. The excluded transaction provides or proposes to provide funds that are not part of any existing debt obligation of the borrower and that are then consolidated or proposed to be consolidated with an existing debt obligation or obligations as part of the supplemental mortgage. The new funds are reported only insofar as they form part of the total amount of the reported New York CEMA, and not as a separate amount. This exclusion applies only if, at the time the transaction that provided new funds was originated, the financial institution intended to consolidate the loan into a New York CEMA. If a New York CEMA that consolidates an excluded preliminary transaction is carried out in a transaction involving an assumption, the financial institution reports the New York CEMA and does not report the preliminary transaction separately. The \u00a7\u20091003.3(c)(13) exclusion does not apply to similar preliminary transactions that provide or propose to provide new funds to be consolidated not pursuant to New York Tax Law section 255 but under some other law in a transaction that is not an extension of credit. For example, assume a financial institution extends new funds to a consumer in a preliminary transaction that is then consolidated as part of a consolidation, extension and modification agreement pursuant to the law of a State other than New York. If the preliminary extension of new funds is a covered loan, it must be reported. If the consolidation, extension and modification agreement pursuant to the law of a State other than New York is not an extension of credit pursuant to Regulation C, it may not be reported. For discussion of how to report a cash-out refinancing, see comment 4(a)(3)-2.",
+            "label":[
+                "1003",
+                "3",
+                "c",
+                "13",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-2-g-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -10685,7 +11045,7 @@
         "node":{
             "tagged_text":null,
             "title":"Applicant data\u2014purchased loan.",
-            "text":"A financial institution complies with \u00a7 1003.4(a)(10)(ii) by reporting that the requirement is not applicable when reporting a purchased loan for which the institution chooses not to report the income.",
+            "text":"A financial institution complies with \u00a7\u20091003.4(a)(10)(ii) by reporting that the requirement is not applicable when reporting a purchased loan for which the institution chooses not to report the age.",
             "label":[
                 "1003",
                 "4",
@@ -10786,6 +11146,25 @@
         },
         "op":"added"
     },
+    "1003-4-a-35-Interp-7-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"In the course of renewing an annual sales agreement the developer of the electronic tool represents to the financial institution that it has never been a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit. On this basis, the financial institution does not know or reasonably believe that the system it is using to evaluate an application is an electronic tool that has been developed by a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit and complies with \u00a7\u20091003.4(a)(35) by reporting that the requirement is not applicable.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "35",
+                "Interp",
+                "7",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-4-a-Interp-1-vi":{
         "op":"deleted"
     },
@@ -10803,6 +11182,26 @@
     },
     "1003-2-HomeImprovementLoan-Interp-1":{
         "op":"deleted"
+    },
+    "1003-4-a-9-ii-B-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"General.",
+            "text":"A financial institution complies by reporting the five-digit Federal Information Processing Standards (FIPS) numerical county code.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "9",
+                "ii",
+                "B",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-2-g-Interp-1":{
         "node":{
@@ -10824,8 +11223,8 @@
     "1003-4-a-18-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":"Revised disclosures.",
-            "text":"If the total amount of borrower-paid origination charges changes because a financial institution provides a revised version of the disclosures required under Regulation Z, 12 CFR 1026.19(f), pursuant to Regulation Z, 12 CFR 1026.19(f)(2), the financial institution complies with \u00a7 1003.4(a)(18) by reporting the revised amount, provided that the revised disclosure was provided to the borrower during the same reporting period in which closing occurred. For example, in the case of a financial institution's quarterly submission made pursuant to \u00a7 1003.5(a)(1)(ii), if the financial institution provides a corrected disclosure to reflect a refund made pursuant to Regulation Z, 12 CFR 1026.19(f)(2)(v), the financial institution reports the corrected amount of origination charges only if the corrected disclosure was provided prior to the end of the quarter in which closing occurred. The financial institution does not report the corrected amount of origination charges in its quarterly submission if the corrected disclosure was provided after the end of the quarter, even if the corrected disclosure was provided prior to the deadline for timely submission of the financial institution's quarterly data. However, the financial institution reports the corrected amount of origination charges on its annual loan/application register.",
+            "title":"Corrected disclosures.",
+            "text":"If the total amount of borrower-paid origination charges changes because a financial institution provides a corrected version of the disclosures required under Regulation Z, 12 CFR 1026.19(f), pursuant to 12 CFR 1026.19(f)(2), the financial institution complies with \u00a7\u20091003.4(a)(18) by reporting the corrected amount, provided that the corrected disclosure was provided to the borrower prior to the end of the reporting period in which closing occurs. For purposes of \u00a7\u20091003.4(a)(18), the date the corrected disclosure was provided to the borrower is the date disclosed pursuant to Regulation Z, 12 CFR 1026.38(a)(3)(i). For example, in the case of a financial institution's annual loan/application register submission made pursuant to \u00a7\u20091003.5(a)(1), if the financial institution provides a corrected disclosure to the borrower to reflect a refund made pursuant to Regulation Z, 12 CFR 1026.19(f)(2)(v), the financial institution reports the corrected amount of borrower-paid origination charges only if the corrected disclosure was provided to the borrower prior to the end of the calendar year in which closing occurs.",
             "label":[
                 "1003",
                 "4",
@@ -10888,8 +11287,8 @@
     "1003-4-a-19-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":"Revised disclosures.",
-            "text":"If the amount of discount points changes because a financial institution provides a revised version of the disclosures required under Regulation Z, 12 CFR 1026.19(f), pursuant to Regulation Z, 12 CFR 1026.19(f)(2), the financial institution complies with \u00a7 1003.4(a)(19) by reporting the revised amount, provided that the revised disclosure was provided to the borrower during the same reporting period in which closing occurred. For example, in the case of a financial institution's quarterly submission made pursuant to \u00a7 1003.5(a)(ii), if the financial institution provides a corrected disclosure to reflect a refund made pursuant to Regulation Z, 12 CFR 1026.19(f)(2)(v), the financial institution reports the corrected amount of discount points only if the corrected disclosure was provided prior to the end of the quarter in which closing occurred. The financial institution does not report the corrected amount of discount points in its quarterly submission if the corrected disclosure was provided after the end of the quarter, even if the corrected disclosure was provided prior to the deadline for timely submission of the financial institution's quarterly data. However, the financial institution reports the corrected amount of discount points on its annual loan/application register.",
+            "title":"Corrected disclosures.",
+            "text":"If the amount of discount points changes because a financial institution provides a corrected version of the disclosures required under Regulation Z, 12 CFR 1026.19(f), pursuant to 12 CFR 1026.19(f)(2), the financial institution complies with \u00a7\u20091003.4(a)(19) by reporting the corrected amount, provided that the corrected disclosure was provided to the borrower prior to the end of the reporting period in which closing occurs. For purposes of \u00a7\u20091003.4(a)(19), the date the corrected disclosure was provided to the borrower is the date disclosed pursuant to Regulation Z, 12 CFR 1026.38(a)(3)(i). For example, in the case of a financial institution's annual loan/application register submission made pursuant to \u00a7\u20091003.5(a)(1), if the financial institution provides a corrected disclosure to the borrower to reflect a refund made pursuant to Regulation Z, 12 CFR 1026.19(f)(2)(v), the financial institution reports the corrected amount of discount points only if the corrected disclosure was provided to the borrower prior to the end of the calendar year in which closing occurs.",
             "label":[
                 "1003",
                 "4",
@@ -10907,7 +11306,7 @@
         "node":{
             "tagged_text":null,
             "title":"Brokered loans.",
-            "text":"When a financial institution has reporting responsibility for an application for a covered loan that it received from a broker, as discussed in comment 4(a)-4 (e.g., because the financial institution makes a credit decision prior to closing or account opening), the rate-set date is the last date the financial institution set the rate with the broker, not the date the broker set the borrower's rate.",
+            "text":"When a financial institution has reporting responsibility for an application for a covered loan that it received from a broker, as discussed in comment 4(a)-2 (e.g., because the financial institution makes a credit decision prior to closing or account opening), the rate-set date is the last date the financial institution set the rate with the broker, not the date the broker set the borrower's rate.",
             "label":[
                 "1003",
                 "4",
@@ -11041,6 +11440,9 @@
         },
         "op":"added"
     },
+    "1003-2-HomePurchaseLoan-Interp-2":{
+        "op":"deleted"
+    },
     "1003-2-j-Interp-5":{
         "node":{
             "tagged_text":null,
@@ -11102,7 +11504,7 @@
         "node":{
             "tagged_text":null,
             "title":"General.",
-            "text":"Section 1003.3(c)(12) provides that an open-end line of credit is an excluded transaction if a financial institution originated fewer than 100 open-end lines of credit in each of the two preceding calendar years. For example, assume that a bank is a financial institution in 2022 under \u00a7 1003.2(g) because it originated 50 closed-end mortgage loans in 2020, 75 closed-end mortgage loans in 2021, and met all of the other requirements under \u00a7 1003.2(g)(1). Also assume that the bank originated 75 and 85 open-end lines of credit in 2020 and 2021, respectively. The closed-end mortgage loans that the bank originated, or for which it received applications, during 2022 are covered loans and must be reported, unless they otherwise are excluded transactions under \u00a7 1003.3(c). However, the open-end lines of credit that the bank originated, or for which it received applications, during 2022 are excluded transactions under \u00a7 1003.3(c)(12) and need not be reported. See comments 4(a)-2 through -4 for guidance about the activities that constitute an origination.",
+            "text":"Section 1003.3(c)(12) provides that an open-end line of credit is an excluded transaction if a financial institution originated fewer than 500 open-end lines of credit in either of the two preceding calendar years. For example, assume that a bank is a financial institution in 2018 under \u00a7\u20091003.2(g) because it originated 50 closed-end mortgage loans in 2016, 75 closed-end mortgage loans in 2017, and met all of the other requirements under \u00a7\u20091003.2(g)(1). Also assume that the bank originated 75 and 85 open-end lines of credit in 2016 and 2017, respectively. The closed-end mortgage loans that the bank originated or purchased, or for which it received applications, during 2018 are covered loans and must be reported, unless they otherwise are excluded transactions under \u00a7\u20091003.3(c). However, the open-end lines of credit that the bank originated or purchased, or for which it received applications, during 2018 are excluded transactions under \u00a7\u20091003.3(c)(12) and need not be reported. See comments 4(a)-2 through -4 for guidance about the activities that constitute an origination.",
             "label":[
                 "1003",
                 "3",
@@ -11116,8 +11518,23 @@
         },
         "op":"added"
     },
-    "1003-1-Interp-3":{
-        "op":"deleted"
+    "1003-3-c-12-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Optional reporting.",
+            "text":"A financial institution may report applications for, originations of, or purchases of open-end lines of credit that are excluded transactions because the financial institution originated fewer than 500 open-end lines of credit in either of the two preceding calendar years. However, a financial institution that chooses to report such excluded applications for, originations of, or purchases of open-end lines of credit must report all such applications for open-end lines of credit on which it receives, open-end lines of credit that it originates, and open-end lines of credit that it purchases that otherwise would be covered loans for a given calendar year. Note that applications which remain pending at the end of a calendar year are not reported, as described in comment 4(a)(8)(i)-14.",
+            "label":[
+                "1003",
+                "3",
+                "c",
+                "12",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-35-Interp-3-i":{
         "node":{
@@ -11178,7 +11595,10 @@
                 "1003-4-a-9-Interp-4",
                 "1003-4-a-9-Interp-5",
                 "1003-4-a-9-i-Interp",
-                "1003-4-a-9-ii-Interp"
+                "1003-4-a-9-ii-Interp",
+                "1003-4-a-9-ii-A-Interp",
+                "1003-4-a-9-ii-B-Interp",
+                "1003-4-a-9-ii-C-Interp"
             ]
         },
         "op":"added"
@@ -11199,6 +11619,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1003-1-Interp-3":{
+        "op":"deleted"
     },
     "1003-A-h2-h6-p27-1":{
         "op":"deleted"
@@ -11247,7 +11670,7 @@
         "node":{
             "tagged_text":null,
             "title":"ULI\u2014purchased covered loan.",
-            "text":"If a financial institution has previously reported a covered loan with a ULI under this part, a financial institution that purchases that covered loan must use the ULI that was previously reported under this part. For example, if a loan origination was previously reported under this part with a ULI, the financial institution that purchases the covered loan would report the purchase of the covered loan using the same ULI. A financial institution that purchases a covered loan must use the ULI that was assigned by the financial institution that originated the covered loan. For example, if a financial institution that submits an annual loan/application register pursuant to \u00a7 1003.5(a)(1)(i) originates a covered loan that is purchased by a financial institution that submits a quarterly loan/application register pursuant to \u00a7 1003.5(a)(1)(ii), the financial institution that purchased the covered loan must use the ULI that was assigned by the financial institution that originated the covered loan. A financial institution that purchases a covered loan assigns a ULI and records and submits it in its loan/application register pursuant to \u00a7 1003.5(a)(1)(i) or (ii), whichever is applicable, if the covered loan was not assigned a ULI by the financial institution that originated the loan because, for example, the loan was originated prior to January 1, 2018.",
+            "text":"If a financial institution has previously assigned a covered loan with a ULI or reported a covered loan with a ULI under this part, a financial institution that purchases that covered loan must report the same ULI that was previously assigned or reported. For example, if a loan origination previously was reported under this part with a ULI, the financial institution that purchases the covered loan would report the purchase of the covered loan using the same ULI. A financial institution that purchases a covered loan must use the ULI that was assigned by the financial institution that originated the covered loan. A financial institution that purchases a covered loan assigns a ULI and records and submits it in its loan/application register pursuant to \u00a7\u20091003.5(a)(1) if the covered loan was not assigned a ULI by the financial institution that originated the loan because, for example, the loan was originated prior to January 1, 2018, or the loan was originated by an institution not required to report under this part.",
             "label":[
                 "1003",
                 "4",
@@ -11288,7 +11711,7 @@
         "node":{
             "tagged_text":null,
             "title":"ULI\u2014reinstated or reconsidered application.",
-            "text":"A financial institution may, at its option, use a ULI previously reported under this part if, during the same calendar year, an applicant asks the institution to reinstate a counteroffer that the applicant previously did not accept or asks the financial institution to reconsider an application that was previously denied, withdrawn, or closed for incompleteness. For example, if a financial institution reports a denied application in its second-quarter 2020 data submission, pursuant to \u00a7 1003.5(a)(1)(ii), but then reconsiders the application, which results in an origination in the third quarter of 2020, the financial institution may report the origination in its third-quarter 2020 data submission using the same ULI that was reported for the denied application in its second-quarter 2020 data submission, so long as the financial institution treats the transaction as a continuation of the application. However, a financial institution may not use a ULI previously reported if it reinstates or reconsiders an application that occurred and was reported in a prior calendar year. For example, if a financial institution reports a denied application in its fourth-quarter 2020 data submission, pursuant to \u00a7 1003.5(a)(1)(ii), but then reconsiders the application resulting in an origination in the first quarter of 2021, the financial institution reports a denied application under the original ULI in its fourth-quarter 2020 data submission and an approved application with a different ULI in its first-quarter 2021 data submission, pursuant to \u00a7 1003.5(a)(1)(ii).",
+            "text":"A financial institution may not use a ULI previously reported if it reinstates or reconsiders an application that was reported in a prior calendar year. For example, if a financial institution reports a denied application in its annual 2020 data submission, pursuant to \u00a7\u20091003.5(a)(1), but then reconsiders the application, resulting in an origination in 2021, the financial institution reports a denied application under the original ULI in its annual 2020 data submission and an origination with a different ULI in its annual 2021 data submission, pursuant to \u00a7\u20091003.5(a)(1).",
             "label":[
                 "1003",
                 "4",
@@ -11426,7 +11849,7 @@
         "node":{
             "tagged_text":null,
             "title":"Merger or acquisition\u2014coverage of surviving or newly formed institution.",
-            "text":"After a merger or acquisition, the surviving or newly formed institution is a financial institution under \u00a7 1003.2(g) if it, considering the combined assets, location, and lending activity of the surviving or newly formed institution and the merged or acquired institutions or acquired branches, satisfies the criteria included in \u00a7 1003.2(g). For example, A and B merge. The surviving or newly formed institution meets the loan threshold described in \u00a7 1003.2(g)(1)(v)(B) if the surviving or newly formed institution, A, and B originated a combined total of at least 100 open-end lines of credit in each of the two preceding calendar years. Likewise, the surviving or newly formed institution meets the asset-size threshold in \u00a7 1003.2(g)(1)(i) if its assets and the combined assets of A and B on December 31 of the preceding calendar year exceeded the threshold described in \u00a7 1003.2(g)(1)(i). Comment 2(g)-4 discusses a financial institution's responsibilities during the calendar year of a merger.",
+            "text":"After a merger or acquisition, the surviving or newly formed institution is a financial institution under \u00a7\u20091003.2(g) if it, considering the combined assets, location, and lending activity of the surviving or newly formed institution and the merged or acquired institutions or acquired branches, satisfies the criteria included in \u00a7\u20091003.2(g). For example, A and B merge. The surviving or newly formed institution meets the loan threshold described in \u00a7\u20091003.2(g)(1)(v)(B) if the surviving or newly formed institution, A, and B originated a combined total of at least 500 open-end lines of credit in each of the two preceding calendar years. Likewise, the surviving or newly formed institution meets the asset-size threshold in \u00a7\u20091003.2(g)(1)(i)1003.2(g)(1)(i) if its assets and the combined assets of A and B on December 31 of the preceding calendar year exceeded the threshold described in \u00a7\u20091003.2(g)(1)(i). Comment 2(g)-4 discusses a financial institution's responsibilities during the calendar year of a merger.",
             "label":[
                 "1003",
                 "2",
@@ -11475,7 +11898,8 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1003-3-c-12-Interp-1"
+                "1003-3-c-12-Interp-1",
+                "1003-3-c-12-Interp-2"
             ]
         },
         "op":"added"
@@ -11502,7 +11926,8 @@
                 "1003-3-c-9-Interp",
                 "1003-3-c-10-Interp",
                 "1003-3-c-11-Interp",
-                "1003-3-c-12-Interp"
+                "1003-3-c-12-Interp",
+                "1003-3-c-13-Interp"
             ]
         },
         "op":"added"
@@ -11879,7 +12304,7 @@
         "node":{
             "tagged_text":null,
             "title":"Originations.",
-            "text":"Whether an institution is a financial institution depends in part on whether the institution originated at least 25 closed-end mortgage loans in each of the two preceding calendar years or at least 100 open-end lines of credit in each of the two preceding calendar years. Comments 4(a)-2 through -4 discuss whether activities with respect to a particular closed-end mortgage loan or open-end line of credit constitute an origination for purposes of \u00a7 1003.2(g).",
+            "text":"Whether an institution is a financial institution depends in part on whether the institution originated at least 25 closed-end mortgage loans in each of the two preceding calendar years or at least 500 open-end lines of credit in each of the two preceding calendar years. Comments 4(a)-2 through -4 discuss whether activities with respect to a particular closed-end mortgage loan or open-end line of credit constitute an origination for purposes of \u00a7\u20091003.2(g).",
             "label":[
                 "1003",
                 "2",
@@ -11957,7 +12382,7 @@
         "node":{
             "tagged_text":null,
             "title":"Examples\u2014covered business- or commercial-purpose transactions.",
-            "text":"The following are examples of closed-end mortgage loans and open-end lines of credit that are not excluded from reporting under \u00a7 1003.3(c)(10), because they primarily are for a business or commercial purpose, but they also meet the definition of a home improvement loan under \u00a7 1003.2(i), a home purchase loan under \u00a7 1003.2(j), or a refinancing under \u00a7 1003.2(p):",
+            "text":"The following are examples of closed-end mortgage loans and open-end lines of credit that are not excluded from reporting under \u00a7\u20091003.3(c)(10) because, although they primarily are for a business or commercial purpose, they also meet the definition of a home improvement loan under \u00a7\u20091003.2(i), a home purchase loan under \u00a7\u20091003.2(j), or a refinancing under \u00a7\u20091003.2(p):",
             "label":[
                 "1003",
                 "3",
@@ -12041,7 +12466,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) In each of the two preceding calendar years, originated at least 100 open-end lines of credit that are not excluded from this part pursuant to \u00a7 1003.3(c)(1) through (10).",
+            "text":"(B) In each of the two preceding calendar years, originated at least 500 open-end lines of credit that are not excluded from this part pursuant to \u00a7\u20091003.3(c)(1) through (10).",
             "label":[
                 "1003",
                 "2",
@@ -12059,7 +12484,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(A) In each of the two preceding calendar years, originated at least 25 closed-end mortgage loans that are not excluded from this part pursuant to \u00a7 1003.3(c)(1) through (10); or",
+            "text":"(A) In each of the two preceding calendar years, originated at least 25 closed-end mortgage loans that are not excluded from this part pursuant to \u00a7\u20091003.3(c)(1) through (10) or (13); or",
             "label":[
                 "1003",
                 "2",
@@ -12508,6 +12933,24 @@
         },
         "op":"added"
     },
+    "1003-4-a-11-Interp-7":{
+        "node":{
+            "tagged_text":null,
+            "title":"Type of purchaser\u2014bank holding company or thrift holding company.",
+            "text":"When a financial institution sells a covered loan to a bank holding company or thrift holding company (rather than to one of its subsidiaries), it should report the loan as purchased by other type of purchaser, unless the bank holding company or thrift holding company is an affiliate of the seller institution, in which case the seller institution should report the loan as purchased by an affiliate institution.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "11",
+                "Interp",
+                "7"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-4-a-31-Interp-3-i":{
         "node":{
             "tagged_text":null,
@@ -12600,7 +13043,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"A closed-end mortgage loan or an open-end line of credit to improve an office, for example a doctor's office, that is located in a dwelling; and",
+            "text":"A closed-end mortgage loan or an open-end line of credit to improve a doctor's office or a daycare center that is located in a dwelling other than a multifamily dwelling; and",
             "label":[
                 "1003",
                 "3",
@@ -12741,7 +13184,8 @@
                 "1003-4-a-24-Interp-2",
                 "1003-4-a-24-Interp-3",
                 "1003-4-a-24-Interp-4",
-                "1003-4-a-24-Interp-5"
+                "1003-4-a-24-Interp-5",
+                "1003-4-a-24-Interp-6"
             ]
         },
         "op":"added"
@@ -12825,6 +13269,24 @@
                 "1003-4-a-7-Interp-8",
                 "1003-4-a-7-Interp-9"
             ]
+        },
+        "op":"added"
+    },
+    "1003-4-a-26-Interp-5":{
+        "node":{
+            "tagged_text":null,
+            "title":"Non-monthly introductory periods.",
+            "text":"If a covered loan or application includes an introductory interest rate period measured in a unit of time other than months, the financial institution complies with \u00a7\u20091003.4(a)(26) by reporting the introductory interest rate period for the covered loan or application using an equivalent number of whole months without regard for any remainder. For example, assume an open-end line of credit contains an introductory interest rate for 50 days after the date of account opening, after which the interest rate may adjust. In this example, the financial institution complies with \u00a7\u20091003.4(a)(26) by reporting the number of months as \u201c1.\u201d The financial institution must report one month for any introductory interest rate period that totals less than one whole month.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "26",
+                "Interp",
+                "5"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -13246,7 +13708,8 @@
                 "1003-4-a-35-Interp-3",
                 "1003-4-a-35-Interp-4",
                 "1003-4-a-35-Interp-5",
-                "1003-4-a-35-Interp-6"
+                "1003-4-a-35-Interp-6",
+                "1003-4-a-35-Interp-7"
             ]
         },
         "op":"added"
@@ -13631,7 +14094,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) In each of the two preceding calendar years, originated at least 100 open-end lines of credit that are not excluded from this part pursuant to \u00a7 1003.3(c)(1) through (10); and",
+            "text":"(B) In each of the two preceding calendar years, originated at least 500 open-end lines of credit that are not excluded from this part pursuant to \u00a7\u20091003.3(c)(1) through (10); and",
             "label":[
                 "1003",
                 "2",
@@ -13649,7 +14112,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(A) In each of the two preceding calendar years, originated at least 25 closed-end mortgage loans that are not excluded from this part pursuant to \u00a7 1003.3(c)(1) through (10); or",
+            "text":"(A) In each of the two preceding calendar years, originated at least 25 closed-end mortgage loans that are not excluded from this part pursuant to \u00a7\u20091003.3(c)(1) through (10) or (13); or",
             "label":[
                 "1003",
                 "2",
@@ -13865,19 +14328,18 @@
         },
         "op":"added"
     },
-    "1003-4-a-35-Interp-1-iv":{
+    "1003-4-a-24-Interp-6":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"A financial institution, which is also a securitizer, that uses its own AUS, as defined in \u00a7 1003.4(a)(35)(ii), to evaluate an application, must report the name of the AUS it used to evaluate the application and the result generated by that system, regardless of whether the financial institution intends to hold the covered loan it originates in its portfolio, purchase the covered loan, or securitize the covered loan. For example, if a financial institution, which is also a securitizer, has developed its own AUS and uses that AUS to evaluate an application that it intends to originate and hold in its portfolio and not purchase or securitize the covered loan, the financial institution complies with \u00a7 1003.4(a)(35) by reporting the name of its AUS that it used to evaluate the application and the result generated by that system.",
+            "title":"Property.",
+            "text":"A financial institution reports the combined loan-to-value ratio relied on in making the credit decision, regardless of which property or properties it used in the combined loan-to-value ratio calculation. The property used in the combined loan-to-value ratio calculation does not need to be the property identified in \u00a7\u20091003.4(a)(9) and may include more than one property and non-real property. For example, if a financial institution originated a covered loan for the purchase of a multifamily dwelling, the loan was secured by the multifamily dwelling and by non-real property, such as securities, and the financial institution used the multifamily dwelling and the non-real property to calculate the combined loan-to-value ratio that it relied on in making the credit decision, \u00a7\u20091003.4(a)(24) requires the financial institution to report the relied upon ratio. Section 1003.4(a)(24) does not require a financial institution to use a particular combined loan-to-value ratio calculation method but instead requires financial institutions to report the combined loan-to-value ratio relied on in making the credit decision.",
             "label":[
                 "1003",
                 "4",
                 "a",
-                "35",
+                "24",
                 "Interp",
-                "1",
-                "iv"
+                "6"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -13913,7 +14375,7 @@
         "node":{
             "tagged_text":null,
             "title":"Transactions for which a combined loan-to-value ratio was one of multiple factors.",
-            "text":"A financial institution relies on the total amount of debt secured by the property to the value of the property (combined loan-to-value ratio) in making the credit decision if the combined loan-to-value ratio was a factor in the credit decision even if it was not a dispositive factor. For example, if the combined loan-to-value ratio is one of multiple factors in a financial institution's credit decision, the financial institution has relied on the combined loan-to-value ratio and complies with \u00a7 1003.4(a)(24) by reporting the combined loan-to-value ratio, even if the financial institution denies the application because one or more underwriting requirements other than the combined loan-to-value ratio are not satisfied.",
+            "text":"A financial institution relies on the ratio of the total amount of debt secured by the property to the value of the property (combined loan-to-value ratio) in making the credit decision if the combined loan-to-value ratio was a factor in the credit decision, even if it was not a dispositive factor. For example, if the combined loan-to-value ratio is one of multiple factors in a financial institution's credit decision, the financial institution has relied on the combined loan-to-value ratio and complies with \u00a7\u20091003.4(a)(24) by reporting the combined loan-to-value ratio, even if the financial institution denies the application because one or more underwriting requirements other than the combined loan-to-value ratio are not satisfied.",
             "label":[
                 "1003",
                 "4",
@@ -14019,7 +14481,7 @@
         "node":{
             "tagged_text":null,
             "title":"Mixed-use property.",
-            "text":"A closed-end mortgage loan or an open-end line of credit to improve a dwelling used for residential and commercial purposes (for example, a building containing apartment units and retail space), or the real property on which such a dwelling is located, is a home improvement loan if the loan's proceeds are used either to improve the entire property (for example, to replace the heating system), or if the proceeds are used primarily to improve the residential portion of the property. An institution may use any reasonable standard to determine the primary use of the loan proceeds. An institution may select the standard to apply on a case-by-case basis.",
+            "text":"A closed-end mortgage loan or an open-end line of credit to improve a multifamily dwelling used for residential and commercial purposes (for example, a building containing apartment units and retail space), or the real property on which such a dwelling is located, is a home improvement loan if the loan's proceeds are used either to improve the entire property (for example, to replace the heating system), or if the proceeds are used primarily to improve the residential portion of the property. An institution may use any reasonable standard to determine the primary use of the loan proceeds. An institution may select the standard to apply on a case-by-case basis. See comment 3(c)(10)-3.ii for guidance on loans to improve primarily the commercial portion of a dwelling other than a multifamily dwelling.",
             "label":[
                 "1003",
                 "2",
@@ -14189,6 +14651,25 @@
                 "1003-4-a-15-Interp-6",
                 "1003-4-a-15-Interp-7"
             ]
+        },
+        "op":"added"
+    },
+    "1003-4-a-35-Interp-7-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Based on their previous transactions a financial institution is aware that the developer of the electronic tool it is using to evaluate an application has securitized a closed-end mortgage loan or open-end line of credit in the past. On this basis, the financial institution knows or reasonably believes that the developer of the electronic tool is a securitizer and complies with \u00a7\u20091003.4(a)(35) by reporting the name of that system and the result generated by that system.",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "35",
+                "Interp",
+                "7",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -14415,7 +14896,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Step 3: Apply the mathematical function mod=(n, 97) where n= the number obtained in step 2 above and 97 is the divisor. The result is 60.",
+            "text":"Step 3: Apply the mathematical function mod = (n, 97) where n = the number obtained in step 2 above and 97 is the divisor. The result is 60.",
             "label":[
                 "1003",
                 "C",
@@ -14431,7 +14912,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Alternatively, to calculate without using the modulus operator, divide the numbers in step 2 above by 97. The result is 1042617929129312294946332267952920.618556701030928. Truncate the remainder to three digits, which is .618, and multiply it by .97. The result is 59.946. Round this result to the nearest whole number, which is 60.",
+            "text":"Alternatively, to calculate without using the modulus operator, divide the numbers in step 2 above by 97. The result is 1042617929129312294946332267952920.618556701030928. Truncate the remainder to three digits, which is .618, and multiply it by 97. The result is 59.946. Round this result to the nearest whole number, which is 60.",
             "label":[
                 "1003",
                 "C",
@@ -14600,7 +15081,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Lender A extends credit to finance construction of a dwelling. The loan automatically will convert to permanent financing with Lender A once the construction phase is complete. Under \u00a7 1003.3(c)(3), the loan is not designed to be replaced by permanent financing and therefore the temporary financing exclusion does not apply. See also comment 2(j)-3.",
+            "text":"Lender A extends credit to finance construction of a dwelling. The loan automatically will convert to permanent financing extended to the same borrower with Lender A once the construction phase is complete. Under \u00a7\u20091003.3(c)(3), the loan is not designed to be replaced by separate permanent financing extended to the same borrower, and therefore the temporary financing exclusion does not apply. See also comment 2(j)-3.",
             "label":[
                 "1003",
                 "3",
@@ -14629,7 +15110,8 @@
             "node_type":"interp",
             "child_labels":[
                 "1003-2-n-Interp-1",
-                "1003-2-n-Interp-2"
+                "1003-2-n-Interp-2",
+                "1003-2-n-Interp-3"
             ]
         },
         "op":"added"

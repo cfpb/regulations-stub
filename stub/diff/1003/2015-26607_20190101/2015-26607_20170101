@@ -706,55 +706,84 @@
                 ]
             ],
             [
+                "insert",
+                22,
+                "subject to Regulation Z, 12 CFR part 1026, the difference between the loan's annual percentage rate (APR) "
+            ],
+            [
                 [
                     "delete",
-                    65,
-                    70
+                    26,
+                    38
                 ],
                 [
                     "insert",
-                    65,
-                    "the difference between the loan's annual percentage rate (APR) and the average prime offer rate for a comparable transaction as of the date the interest rate is set, if that difference is equal to or greater"
+                    26,
+                    "the average prime offer rate for a comparable transaction as of the date the interest rate is set, if"
                 ]
             ],
             [
                 [
                     "delete",
-                    76,
-                    185
+                    44,
+                    95
                 ],
                 [
                     "insert",
-                    76,
+                    44,
+                    "difference is equal"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    99,
+                    136
+                ],
+                [
+                    "insert",
+                    99,
+                    "or greater"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    142,
+                    251
+                ],
+                [
+                    "insert",
+                    142,
                     "1.5"
                 ]
             ],
             [
                 [
                     "delete",
-                    197,
-                    234
+                    263,
+                    300
                 ],
                 [
                     "insert",
-                    197,
+                    263,
                     "points"
                 ]
             ],
             [
                 "insert",
-                239,
+                305,
                 "loans secured by "
             ],
             [
                 [
                     "delete",
-                    241,
-                    304
+                    307,
+                    370
                 ],
                 [
                     "insert",
-                    241,
+                    307,
                     "first lien on a dwelling, or equal to or greater than 3.5 percentage points for loans secured by a subordinate lien on a dwelling."
                 ]
             ]
@@ -892,6 +921,9 @@
     "1003-4-a-20-Interp-3":{
         "op":"deleted"
     },
+    "1003-4-a-9-ii-A-Interp":{
+        "op":"deleted"
+    },
     "1003-4-a-8-i-Interp-13":{
         "op":"deleted"
     },
@@ -982,6 +1014,9 @@
         "op":"deleted"
     },
     "1003-4-a-35-Interp-6":{
+        "op":"deleted"
+    },
+    "1003-4-a-35-Interp-7":{
         "op":"deleted"
     },
     "1003-4-a-35-Interp-4":{
@@ -1777,7 +1812,7 @@
                 [
                     "delete",
                     36,
-                    243
+                    250
                 ],
                 [
                     "insert",
@@ -1889,37 +1924,8 @@
     "1003-4-a-34-Interp-2":{
         "op":"deleted"
     },
-    "1003-5-e-Interp-1-HMDANotice":{
-        "text":[
-            [
-                "delete",
-                67,
-                74
-            ],
-            [
-                "delete",
-                173,
-                178
-            ],
-            [
-                "insert",
-                268,
-                "Inquire at this office regarding the locations where "
-            ],
-            [
-                [
-                    "delete",
-                    278,
-                    454
-                ],
-                [
-                    "insert",
-                    278,
-                    "may be\ninspected."
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1003-4-a-34-Interp-4":{
+        "op":"deleted"
     },
     "1003-4-a-20-Interp-1":{
         "op":"deleted"
@@ -2490,6 +2496,9 @@
     "1003-2-g-Interp-4-iv":{
         "op":"deleted"
     },
+    "1003-3-c-13-Interp":{
+        "op":"deleted"
+    },
     "1003-5-a-Interp-1-ii":{
         "op":"deleted"
     },
@@ -2551,7 +2560,7 @@
     "1003-4-a-11-Interp-6":{
         "op":"deleted"
     },
-    "1003-4-a-11-Interp-7":{
+    "1003-4-a-9-ii-Interp-1":{
         "op":"deleted"
     },
     "1003-4-a-11-Interp-8":{
@@ -2662,23 +2671,8 @@
     "1003-5-c-1":{
         "op":"deleted"
     },
-    "1003-4-a-1-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Application date\u2014consistency.",
-            "text":" In reporting the date of application, an institution reports the date the application was received or the date shown on the application. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans).",
-            "label":[
-                "1003",
-                "4",
-                "a",
-                "1",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-3-c-11-Interp-2":{
+        "op":"deleted"
     },
     "1003-4-a-1-i-Interp":{
         "op":"deleted"
@@ -2718,6 +2712,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1003-B-1-9-v":{
+        "op":"deleted"
     },
     "1003-B-1-9-i":{
         "op":"deleted"
@@ -2812,6 +2809,9 @@
         "op":"deleted"
     },
     "1003-4-a-32-Interp-2-vi":{
+        "op":"deleted"
+    },
+    "1003-4-a-11-Interp-4":{
         "op":"deleted"
     },
     "1003-4-a-Interp-1-vii":{
@@ -2975,6 +2975,9 @@
             ]
         ],
         "op":"modified"
+    },
+    "1003-3-c-3-Interp-2":{
+        "op":"deleted"
     },
     "1003-3-c-3-Interp-1":{
         "op":"deleted"
@@ -4528,7 +4531,7 @@
     "1003-4-a-25-Interp-2":{
         "op":"deleted"
     },
-    "1003-4-a-11-Interp-4":{
+    "1003-4-a-9-ii-A-Interp-1":{
         "op":"deleted"
     },
     "1003-4-a-26-Interp":{
@@ -4903,7 +4906,34 @@
     "1003-3-c-11-Interp":{
         "op":"deleted"
     },
-    "1003-4-a-9-ii-B-Interp-1":{
+    "1003-4-a-12-ii":{
+        "text":[
+            [
+                "insert",
+                102,
+                "rates, points, and other loan pricing terms currently offered to consumers by a representative sample of creditors for mortgage loans that have low-risk pricing characteristics. The Bureau publishes average prime offer "
+            ],
+            [
+                [
+                    "delete",
+                    108,
+                    154
+                ],
+                [
+                    "insert",
+                    108,
+                    "for a broad range of types of transactions in tables updated at least weekly, as well as the methodology the Bureau uses"
+                ]
+            ],
+            [
+                "delete",
+                158,
+                392
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-4-a-9-ii-B-Interp-2":{
         "op":"deleted"
     },
     "1003-4-a-33-i-Interp-1-i":{
@@ -5007,22 +5037,8 @@
     "1003-3-c-10":{
         "op":"deleted"
     },
-    "1003-2-HomePurchaseLoan-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Mixed-use property.",
-            "text":"A dwelling-secured loan to purchase property used primarily for residential purposes (for example, an apartment building containing a convenience store) is a home purchase loan. An institution may use any reasonable standard to determine the primary use of the property, such as by square footage or by the income generated. An institution may select the standard to apply on a case-by-case basis.",
-            "label":[
-                "1003",
-                "2",
-                "HomePurchaseLoan",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-3-c-13":{
+        "op":"deleted"
     },
     "1003-3-c-12":{
         "op":"deleted"
@@ -5094,6 +5110,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1003-4-a-9-ii-C-Interp-2":{
+        "op":"deleted"
     },
     "1003-4-a-9-ii-C-Interp-1":{
         "op":"deleted"
@@ -5279,6 +5298,38 @@
     },
     "1003-2-q":{
         "op":"deleted"
+    },
+    "1003-5-e-Interp-1-HMDANotice":{
+        "text":[
+            [
+                "delete",
+                67,
+                74
+            ],
+            [
+                "delete",
+                173,
+                178
+            ],
+            [
+                "insert",
+                268,
+                "Inquire at this office regarding the locations where "
+            ],
+            [
+                [
+                    "delete",
+                    278,
+                    454
+                ],
+                [
+                    "insert",
+                    278,
+                    "may be\ninspected."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-a-Interp-3-vii":{
         "op":"deleted"
@@ -5468,6 +5519,24 @@
     },
     "1003-2-c-1-Interp-2":{
         "op":"deleted"
+    },
+    "1003-4-a-1-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Application date\u2014consistency.",
+            "text":" In reporting the date of application, an institution reports the date the application was received or the date shown on the application. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans).",
+            "label":[
+                "1003",
+                "4",
+                "a",
+                "1",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-2-p-Interp-1-i":{
         "op":"deleted"
@@ -6484,6 +6553,9 @@
     "1003-2-n-Interp-1":{
         "op":"deleted"
     },
+    "1003-2-n-Interp-3":{
+        "op":"deleted"
+    },
     "1003-2-n-Interp-2":{
         "op":"deleted"
     },
@@ -6657,7 +6729,7 @@
     "1003-2-p-Interp-1":{
         "op":"deleted"
     },
-    "1003-4-a-30-Interp-3":{
+    "1003-4-a-3-Interp-6":{
         "op":"deleted"
     },
     "1003-4-a-30-Interp-2":{
@@ -6965,6 +7037,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1003-4-a-12-Interp-9":{
+        "op":"deleted"
     },
     "1003-4-a-12-Interp-8":{
         "op":"deleted"
@@ -7312,6 +7387,9 @@
     "1003-4-a-3-Interp-5":{
         "op":"deleted"
     },
+    "1003-4-a-30-Interp-3":{
+        "op":"deleted"
+    },
     "1003-2-p-Interp":{
         "op":"deleted"
     },
@@ -7414,6 +7492,9 @@
     "1003-4-a-8-ii-Interp-4":{
         "op":"deleted"
     },
+    "1003-3-c-13-Interp-1":{
+        "op":"deleted"
+    },
     "1003-2-g-Interp-4":{
         "op":"deleted"
     },
@@ -7494,6 +7575,9 @@
         "op":"added"
     },
     "1003-4-a-3-Interp-2-ii":{
+        "op":"deleted"
+    },
+    "1003-4-a-35-Interp-7-i":{
         "op":"deleted"
     },
     "1003-4-a-Interp-1-vi":{
@@ -7598,6 +7682,12 @@
         },
         "op":"added"
     },
+    "1003-4-a-9-ii-B-Interp-1":{
+        "op":"deleted"
+    },
+    "1003-3-c-12-Interp-2":{
+        "op":"deleted"
+    },
     "1003-2-g-Interp-1":{
         "op":"deleted"
     },
@@ -7672,6 +7762,23 @@
     },
     "1003-4-a-29-Interp":{
         "op":"deleted"
+    },
+    "1003-2-HomePurchaseLoan-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Mixed-use property.",
+            "text":"A dwelling-secured loan to purchase property used primarily for residential purposes (for example, an apartment building containing a convenience store) is a home purchase loan. An institution may use any reasonable standard to determine the primary use of the property, such as by square footage or by the income generated. An institution may select the standard to apply on a case-by-case basis.",
+            "label":[
+                "1003",
+                "2",
+                "HomePurchaseLoan",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-2-j-Interp-5":{
         "op":"deleted"
@@ -8752,6 +8859,9 @@
     "1003-3-c-8":{
         "op":"deleted"
     },
+    "1003-4-a-11-Interp-7":{
+        "op":"deleted"
+    },
     "1003-4-a-31-Interp-3-i":{
         "op":"deleted"
     },
@@ -8840,6 +8950,9 @@
         "op":"added"
     },
     "1003-5-a-3-vii":{
+        "op":"deleted"
+    },
+    "1003-4-a-24-Interp-6":{
         "op":"deleted"
     },
     "1003-2-HomePurchaseLoan-Interp-3":{
@@ -8945,6 +9058,9 @@
         "op":"modified"
     },
     "1003-4-a-7-Interp":{
+        "op":"deleted"
+    },
+    "1003-4-a-26-Interp-5":{
         "op":"deleted"
     },
     "1003-2-Refinancing":{
@@ -9962,6 +10078,9 @@
         "op":"deleted"
     },
     "1003-4-a-15-Interp":{
+        "op":"deleted"
+    },
+    "1003-4-a-35-Interp-7-ii":{
         "op":"deleted"
     },
     "1003-5-a-1-iii":{
