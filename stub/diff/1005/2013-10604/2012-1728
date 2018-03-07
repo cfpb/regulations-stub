@@ -1469,7 +1469,7 @@
                 [
                     "delete",
                     13,
-                    25
+                    24
                 ],
                 [
                     "insert",
@@ -2117,7 +2117,7 @@
                 [
                     "delete",
                     582,
-                    826
+                    824
                 ],
                 [
                     "insert",
@@ -2127,8 +2127,8 @@
             ],
             [
                 "delete",
-                836,
-                1692
+                834,
+                1690
             ]
         ],
         "op":"modified"
@@ -3125,12 +3125,12 @@
                 [
                     "delete",
                     14,
-                    28
+                    24
                 ],
                 [
                     "insert",
                     14,
-                    "exception for transfers to certain countries\u2014\u2014"
+                    "exception for transfers to certain countries"
                 ]
             ]
         ],
@@ -3761,7 +3761,7 @@
                 [
                     "delete",
                     4,
-                    197
+                    196
                 ],
                 [
                     "insert",
@@ -3771,30 +3771,30 @@
             ],
             [
                 "delete",
-                201,
-                218
+                200,
+                217
             ],
             [
                 [
                     "delete",
-                    222,
-                    304
+                    221,
+                    303
                 ],
                 [
                     "insert",
-                    222,
+                    221,
                     "recipient country do not permit such"
                 ]
             ],
             [
                 [
                     "delete",
-                    307,
-                    411
+                    306,
+                    410
                 ],
                 [
                     "insert",
-                    307,
+                    306,
                     "determination, or"
                 ]
             ]
@@ -4092,6 +4092,9 @@
         },
         "op":"added"
     },
+    "1005-32-b-3-i":{
+        "op":"deleted"
+    },
     "1005-A-30(a)":{
         "op":"deleted"
     },
@@ -4113,28 +4116,9 @@
     "1005-30-f":{
         "text":[
             [
-                [
-                    "delete",
-                    4,
-                    14
-                ],
-                [
-                    "insert",
-                    4,
-                    "\u201cRemittance"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    24,
-                    34
-                ],
-                [
-                    "insert",
-                    24,
-                    "provider\u201d or \u201cprovider\u201d means any person that provides remittance transfers for a consumer in the normal course of its business, regardless of whether the consumer holds an account with such person."
-                ]
+                "delete",
+                0,
+                32
             ]
         ],
         "op":"modified"
@@ -5739,23 +5723,6 @@
     "1005-30-f-2-ii":{
         "op":"deleted"
     },
-    "1005-33-c-2-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(iii) In the case of a request under paragraph (a)(1)(v) of this section, providing the requested documentation, information, or clarification.",
-            "label":[
-                "1005",
-                "33",
-                "c",
-                "2",
-                "iii"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-31-a-5-iii":{
         "text":[
             [
@@ -6793,7 +6760,21 @@
         "op":"deleted"
     },
     "1005-30-f-1":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    34
+                ],
+                [
+                    "insert",
+                    0,
+                    "(f) \u201cRemittance"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-30-h-Interp-2-i":{
         "op":"deleted"
@@ -6945,7 +6926,7 @@
             [
                 "insert",
                 0,
-                "Incorrect amount of currency received\u2014extraordinary circumstances. "
+                "Incorrect amount of currency received-extraordinary circumstances. "
             ],
             [
                 [
@@ -7070,7 +7051,7 @@
                 [
                     "delete",
                     35,
-                    995
+                    981
                 ],
                 [
                     "insert",
@@ -7276,6 +7257,9 @@
     "1005-30-f-Interp-2-iv":{
         "op":"deleted"
     },
+    "1005-32-b-3":{
+        "op":"deleted"
+    },
     "1005-32-b-2":{
         "text":[
             [
@@ -7346,36 +7330,36 @@
             [
                 [
                     "delete",
-                    201,
-                    208
+                    200,
+                    207
                 ],
                 [
                     "insert",
-                    201,
+                    200,
                     "and (2)."
                 ]
             ],
             [
                 [
                     "delete",
-                    253,
-                    260
+                    252,
+                    259
                 ],
                 [
                     "insert",
-                    253,
+                    252,
                     "(b),"
                 ]
             ],
             [
                 [
                     "delete",
-                    604,
-                    861
+                    603,
+                    860
                 ],
                 [
                     "insert",
-                    604,
+                    603,
                     "(2)."
                 ]
             ]

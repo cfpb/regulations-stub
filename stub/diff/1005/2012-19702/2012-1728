@@ -898,7 +898,7 @@
                 [
                     "delete",
                     4,
-                    197
+                    196
                 ],
                 [
                     "insert",
@@ -908,30 +908,30 @@
             ],
             [
                 "delete",
-                201,
-                218
+                200,
+                217
             ],
             [
                 [
                     "delete",
-                    222,
-                    304
+                    221,
+                    303
                 ],
                 [
                     "insert",
-                    222,
+                    221,
                     "recipient country do not permit such"
                 ]
             ],
             [
                 [
                     "delete",
-                    307,
-                    411
+                    306,
+                    410
                 ],
                 [
                     "insert",
-                    307,
+                    306,
                     "determination, or"
                 ]
             ]
@@ -1530,6 +1530,9 @@
     "1005-32-b-1-Interp":{
         "op":"deleted"
     },
+    "1005-32-b-3-i":{
+        "op":"deleted"
+    },
     "1005-A-36-p147":{
         "node":{
             "tagged_text":null,
@@ -1597,36 +1600,36 @@
             [
                 [
                     "delete",
-                    201,
-                    208
+                    200,
+                    207
                 ],
                 [
                     "insert",
-                    201,
+                    200,
                     "and (2)."
                 ]
             ],
             [
                 [
                     "delete",
-                    253,
-                    260
+                    252,
+                    259
                 ],
                 [
                     "insert",
-                    253,
+                    252,
                     "(b),"
                 ]
             ],
             [
                 [
                     "delete",
-                    604,
-                    861
+                    603,
+                    860
                 ],
                 [
                     "insert",
-                    604,
+                    603,
                     "(2)."
                 ]
             ]
@@ -1721,28 +1724,9 @@
     "1005-30-f":{
         "text":[
             [
-                [
-                    "delete",
-                    4,
-                    14
-                ],
-                [
-                    "insert",
-                    4,
-                    "\u201cRemittance"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    24,
-                    34
-                ],
-                [
-                    "insert",
-                    24,
-                    "provider\u201d or \u201cprovider\u201d means any person that provides remittance transfers for a consumer in the normal course of its business, regardless of whether the consumer holds an account with such person."
-                ]
+                "delete",
+                0,
+                32
             ]
         ],
         "op":"modified"
@@ -3171,7 +3155,7 @@
                 [
                     "delete",
                     13,
-                    25
+                    24
                 ],
                 [
                     "insert",
@@ -3186,7 +3170,21 @@
         "op":"deleted"
     },
     "1005-30-f-1":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    34
+                ],
+                [
+                    "insert",
+                    0,
+                    "(f) \u201cRemittance"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-32-b-2-iii":{
         "op":"deleted"
@@ -3560,12 +3558,12 @@
                 [
                     "delete",
                     14,
-                    28
+                    24
                 ],
                 [
                     "insert",
                     14,
-                    "exception for transfers to certain countries\u2014\u2014"
+                    "exception for transfers to certain countries"
                 ]
             ]
         ],
@@ -4003,6 +4001,9 @@
             ]
         ],
         "op":"modified"
+    },
+    "1005-32-b-3":{
+        "op":"deleted"
     },
     "1005-32-b-2":{
         "text":[

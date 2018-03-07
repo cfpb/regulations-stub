@@ -91,22 +91,22 @@
             [
                 "delete",
                 53,
-                195
+                196
             ],
             [
                 "delete",
-                199,
-                801
+                200,
+                802
             ],
             [
                 [
                     "delete",
-                    811,
-                    1912
+                    812,
+                    1913
                 ],
                 [
                     "insert",
-                    811,
+                    812,
                     "institution."
                 ]
             ]
@@ -346,7 +346,7 @@
                 [
                     "insert",
                     58,
-                    "refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbeaccount numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs)) and other similar account or institution identifiers used to route a transaction.  In addition and for purposes of this exception, the term designated recipient's account"
+                    "refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs) and other similar account or institution identifiers used to route a transaction.  In addition and for purposes of this exception, the term designated recipient's account"
                 ]
             ],
             [
@@ -908,7 +908,69 @@
         "op":"modified"
     },
     "1005-33-c-2-iii":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    21,
+                    29
+                ],
+                [
+                    "insert",
+                    21,
+                    "a request"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    46,
+                    56
+                ],
+                [
+                    "insert",
+                    46,
+                    "(a)(1)(v)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    65,
+                    94
+                ],
+                [
+                    "insert",
+                    65,
+                    "section, providing"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    99,
+                    124
+                ],
+                [
+                    "insert",
+                    99,
+                    "requested documentation, information,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    128,
+                    1007
+                ],
+                [
+                    "insert",
+                    128,
+                    "clarification."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-31-b-2-Interp-5":{
         "text":[
