@@ -5,22 +5,8 @@
     "1003-4-a-17-i-Interp-3":{
         "op":"deleted"
     },
-    "1003-2-FinancialInstitution-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Adjustment of exemption threshold for depository institutions.",
-            "text":"For data collection in 2013, the asset-size exemption threshold is $42 million. Banks, savings associations, and credit unions with assets at or below $42 million as of December 31, 2013, are exempt from collecting data for 2013.",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-4-a-17-i-Interp":{
+        "op":"deleted"
     },
     "1003-4-d-5":{
         "node":{
@@ -55,7 +41,26 @@
         "op":"added"
     },
     "1003-2-l-Interp":{
-        "op":"deleted"
+        "title":[
+            [
+                "delete",
+                0,
+                5
+            ],
+            [
+                [
+                    "delete",
+                    18,
+                    22
+                ],
+                [
+                    "insert",
+                    18,
+                    "home."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-d-6":{
         "node":{
@@ -125,7 +130,7 @@
         "node":{
             "tagged_text":null,
             "title":"Average prime offer rate.",
-            "text":"Average prime offer rates are annual percentage rates derived from average interest rates, points, and other loan pricing terms offered to borrowers by a representative sample of lenders for mortgage loans that have low-risk pricing characteristics. Other pricing terms include commonly used indices, margins, and initial fixed-rate periods for variable-rate transactions. Relevant pricing characteristics include a consumer's credit history and transaction characteristics such as the loan-to-value ratio, owner-occupant status, and purpose of the transaction. To obtain average prime offer rates, the Bureau uses a survey of lenders that both meets the criteria of \u00a7 1003.4(a)(12)(ii) and provides pricing terms for at least two types of variable-rate transactions and at least two types of non-variable-rate transactions. An example of such a survey is the Freddie Mac Primary Mortgage Market Survey\u00ae.",
+            "text":"Average prime offer rates are annual percentage rates derived from average interest rates, points, and other loan pricing terms offered to borrowers by a representative sample of lenders for mortgage loans that have low-risk pricing characteristics. Other pricing terms include commonly used indices, margins, and initial fixed-rate periods for variable-rate transactions. Relevant pricing characteristics include a consumer's credit history and transaction characteristics such as the loan-to-value ratio, owner-occupant status, and purpose of the transaction. To obtain average prime offer rates, the Bureau uses a survey of lenders that both meets the criteria of \u00a7 1003.4(a)(12)(ii) and provides pricing terms for at least two types of variable-rate transactions and at least two types of non-variable-rate transactions. An example of such a survey is the Freddie Mac Primary Mortgage Market Survey.",
             "label":[
                 "1003",
                 "4",
@@ -141,19 +146,268 @@
         "op":"added"
     },
     "1003-2-g-2-i":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    6
+                ],
+                [
+                    "insert",
+                    4,
+                    "In"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    21,
+                    76
+                ],
+                [
+                    "insert",
+                    21,
+                    "calendar year, either:"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-g-Interp":{
-        "op":"deleted"
+        "title":[
+            [
+                "delete",
+                0,
+                5
+            ],
+            [
+                [
+                    "delete",
+                    15,
+                    26
+                ],
+                [
+                    "insert",
+                    15,
+                    "institution."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-b-Interp-1":{
-        "op":"deleted"
+        "text":[
+            [
+                "delete",
+                0,
+                1
+            ],
+            [
+                "insert",
+                52,
+                "staff "
+            ],
+            [
+                [
+                    "delete",
+                    93,
+                    109
+                ],
+                [
+                    "insert",
+                    93,
+                    "Opportunity,"
+                ]
+            ],
+            [
+                "insert",
+                188,
+                "an "
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    12,
+                    16
+                ],
+                [
+                    "insert",
+                    12,
+                    "With"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-b-Interp-3":{
-        "op":"deleted"
+        "text":[
+            [
+                "insert",
+                7,
+                " covered"
+            ],
+            [
+                "insert",
+                20,
+                "program, the written commitment issued under the "
+            ],
+            [
+                "insert",
+                28,
+                "must result from a full review of the creditworthiness of the applicant, including such verification of income, resources and other matters "
+            ],
+            [
+                [
+                    "delete",
+                    31,
+                    38
+                ],
+                [
+                    "insert",
+                    31,
+                    "is typically done by the institution as part of its normal credit evaluation program. In addition to conditions involving the identification of a suitable property and verification that no material change has occurred"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    42,
+                    61
+                ],
+                [
+                    "insert",
+                    42,
+                    "the applicant's financial condition or creditworthiness, the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    81,
+                    117
+                ],
+                [
+                    "insert",
+                    81,
+                    "may be subject only to other conditions (unrelated to the financial condition or creditworthiness of the applicant) that the lender ordinarily attaches to a traditional home mortgage application approval. These conditions are limited to conditions such as requiring an acceptable title insurance binder or a certificate indicating clear termite inspection, and, in the case where the applicant plans to use the proceeds"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    123,
+                    483
+                ],
+                [
+                    "insert",
+                    123,
+                    "the sale of the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    496,
+                    728
+                ],
+                [
+                    "insert",
+                    496,
+                    "present"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    734,
+                    970
+                ],
+                [
+                    "insert",
+                    734,
+                    "to purchase a new home, a settlement statement showing adequate"
+                ]
+            ],
+            [
+                "delete",
+                1000,
+                1012
+            ],
+            [
+                "delete",
+                1021,
+                1128
+            ],
+            [
+                [
+                    "delete",
+                    1133,
+                    1916
+                ],
+                [
+                    "insert",
+                    1133,
+                    "\n              "
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-b-Interp-2":{
-        "op":"deleted"
+        "text":[
+            [
+                "insert",
+                170,
+                "applicant would likely qualify for credit under an institution's standards, or for a determination on the amount of credit for which the prospective applicant would likely qualify. Some institutions evaluate prequalification requests through a procedure that is separate from the institution's normal "
+            ],
+            [
+                [
+                    "delete",
+                    175,
+                    216
+                ],
+                [
+                    "insert",
+                    175,
+                    "application process; others use the same process. In either case, Regulation C does not require an institution to report prequalification requests on the HMDA/LAR, even though these requests may constitute applications"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    223,
+                    287
+                ],
+                [
+                    "insert",
+                    223,
+                    "Regulation B for purposes"
+                ]
+            ],
+            [
+                "delete",
+                291,
+                752
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    17
+                ],
+                [
+                    "insert",
+                    0,
+                    "Prequalification"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-a-33-ii":{
         "op":"deleted"
@@ -172,82 +426,71 @@
                 [
                     "insert",
                     21,
-                    "1003\u2014Staff Commentary"
+                    "1003-Staff Commentary"
                 ]
             ]
         ],
         "op":"modified"
     },
-    "1003-5-Interp":{
-        "title":[
-            [
-                [
-                    "delete",
-                    8,
-                    25
-                ],
-                [
-                    "insert",
-                    8,
-                    "1003.5-Disclosure"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-4-a-26-Interp-2":{
-        "op":"deleted"
-    },
-    "1003-2-FinancialInstitution-2-i":{
+    "1003-2-i-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) In the preceding calendar year, either:",
+            "text":"(2) A non-dwelling secured loan that is for the purpose, in whole or in part, of repairing, rehabilitating, remodeling, or improving a dwelling or the real property on which it is located, and that is classified by the financial institution as a home improvement loan.",
             "label":[
                 "1003",
                 "2",
-                "FinancialInstitution",
-                "2",
-                "i"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-FinancialInstitution-2-i-A",
-                "1003-2-FinancialInstitution-2-i-B"
-            ]
-        },
-        "op":"added"
-    },
-    "1003-4-a-26-Interp-3":{
-        "op":"deleted"
-    },
-    "1003-2-FinancialInstitution-1-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(i) On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by the act, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "1",
-                "i"
+                "i",
+                "2"
             ],
             "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
     },
-    "1003-2-g-1-i":{
+    "1003-4-a-26-Interp-2":{
         "op":"deleted"
     },
-    "1003-4-a-17-i-Interp-1":{
+    "1003-2-i-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(1) A loan secured by a lien on a dwelling that is for the purpose, in whole or in part, of repairing, rehabilitating, remodeling, or improving a dwelling or the real property on which it is located; and",
+            "label":[
+                "1003",
+                "2",
+                "i",
+                "1"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-4-a-26-Interp-3":{
         "op":"deleted"
+    },
+    "1003-2-g-1-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    146,
+                    150
+                ],
+                [
+                    "insert",
+                    146,
+                    "act,"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-a-26-Interp-1":{
         "op":"deleted"
     },
-    "1003-4-f-Interp-3":{
+    "1003-4-a-4-Interp-1":{
         "op":"deleted"
     },
     "1003-4-a-9-i":{
@@ -289,7 +532,7 @@
                 [
                     "insert",
                     77,
-                    "originations\u2014for"
+                    "originations-for"
                 ]
             ],
             [
@@ -354,41 +597,21 @@
     "1003-B-1-9-iii":{
         "op":"deleted"
     },
-    "1003-2-FinancialInstitution-1-iii":{
+    "1003-2-g-Interp-3-iv":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(iii) In the preceding calendar year, originated at least one home purchase loan (excluding temporary financing such as a construction loan) or refinancing of a home purchase loan, secured by a first lien on a one-to four-family dwelling; and",
+            "text":"Two covered institutions merge. Data collection is required for the entire year. The surviving or resulting institution files either a consolidated submission or separate submissions for that year.",
             "label":[
                 "1003",
                 "2",
-                "FinancialInstitution",
-                "1",
-                "iii"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-FinancialInstitution-1-iv":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(iv) Meets one or more of the following three criteria:",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "1",
+                "g",
+                "Interp",
+                "3",
                 "iv"
             ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-FinancialInstitution-1-iv-A",
-                "1003-2-FinancialInstitution-1-iv-B",
-                "1003-2-FinancialInstitution-1-iv-C"
-            ]
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -396,9 +619,6 @@
         "op":"deleted"
     },
     "1003-4-a-10-iii-Interp-4":{
-        "op":"deleted"
-    },
-    "1003-4-a-Interp-4":{
         "op":"deleted"
     },
     "1003-4-c-Interp":{
@@ -446,22 +666,20 @@
     "1003-4-a-16-Interp-3":{
         "op":"deleted"
     },
-    "1003-4-a-16-Interp-2":{
-        "op":"deleted"
-    },
-    "1003-2-FinancialInstitution-1-ii":{
+    "1003-2-g-Interp-3-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(ii) On the preceding December 31, had a home or branch office in an MSA;",
+            "text":"A covered institution and an exempt institution merge. The covered institution is the surviving institution. For the year of the merger, data collection is required for the covered institution's transactions. Data collection is optional for transactions handled in offices of the previously exempt institution.",
             "label":[
                 "1003",
                 "2",
-                "FinancialInstitution",
-                "1",
+                "g",
+                "Interp",
+                "3",
                 "ii"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -469,32 +687,8 @@
     "1003-4-a-10-iii-Interp-9":{
         "op":"deleted"
     },
-    "1003-4-a-17-i-Interp":{
+    "1003-4-a-10-iii-Interp-8":{
         "op":"deleted"
-    },
-    "1003-5-b-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    18,
-                    28
-                ],
-                [
-                    "insert",
-                    18,
-                    "1003.5,"
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                13,
-                " "
-            ]
-        ],
-        "op":"modified"
     },
     "1003-1-c-Interp-2":{
         "node":{
@@ -708,24 +902,6 @@
     "1003-4-a-10-iii-Interp-2":{
         "op":"deleted"
     },
-    "1003-2-FinancialInstitution-Interp-3-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Two institutions are not covered by Regulation C because of asset size. The institutions merge. No data collection is required for the year of the merger (even if the merger results in a covered institution).",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "Interp",
-                "3",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-5-e-Interp":{
         "title":[
             [
@@ -751,10 +927,46 @@
     "1003-4-a-15-i":{
         "op":"deleted"
     },
+    "1003-2-g-2-iii-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(B) In the preceding calendar year, originated at least 100 home purchase loans, including refinancings of home purchase loans.",
+            "label":[
+                "1003",
+                "2",
+                "g",
+                "2",
+                "iii",
+                "B"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-2-g-2-iii-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(A) On the preceding December 31, had total assets of more than $10 million, counting the assets of any parent corporation; or",
+            "label":[
+                "1003",
+                "2",
+                "g",
+                "2",
+                "iii",
+                "A"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1003-4-a-9-ii-A-Interp":{
         "op":"deleted"
     },
-    "1003-4-a-8-i-Interp-13":{
+    "1003-4-a-Interp-3-vii":{
         "op":"deleted"
     },
     "1003-4-a-23-Interp-4":{
@@ -764,16 +976,137 @@
         "op":"deleted"
     },
     "1003-2-b-2-iii":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    119,
+                    140
+                ],
+                [
+                    "insert",
+                    119,
+                    "lender"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    192,
+                    204
+                ],
+                [
+                    "insert",
+                    192,
+                    "application (such as certification of a clear termite inspection)."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-b-1":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    15
+                ],
+                [
+                    "insert",
+                    4,
+                    "In general.Application"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    55,
+                    67
+                ],
+                [
+                    "insert",
+                    55,
+                    "home purchase loan, a home improvement loan, or a refinancing"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                11
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-b-2":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    5
+                ],
+                [
+                    "insert",
+                    4,
+                    "Preapproval programs.A"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    50,
+                    55
+                ],
+                [
+                    "insert",
+                    50,
+                    "loan is an application under this section if the request is reviewed under a program in which the financial institution, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions"
+                ]
+            ],
+            [
+                "delete",
+                62,
+                578
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                21
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-g-1-iii":{
-        "op":"deleted"
+        "text":[
+            [
+                "insert",
+                81,
+                "(excluding temporary financing such as a construction loan) "
+            ],
+            [
+                [
+                    "delete",
+                    150,
+                    167
+                ],
+                [
+                    "insert",
+                    150,
+                    "one-to four-family"
+                ]
+            ],
+            [
+                "insert",
+                177,
+                " and"
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-a-35-Interp-2":{
         "op":"deleted"
@@ -799,7 +1132,7 @@
     "1003-2-p-Interp-3":{
         "op":"deleted"
     },
-    "1003-2-o-1":{
+    "1003-2-p-Interp-2":{
         "op":"deleted"
     },
     "1003-2-o-2":{
@@ -811,7 +1144,7 @@
     "1003-1-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"Section 1003.1\u2014Authority, Purpose, and Scope",
+            "title":"Section 1003.1-Authority, Purpose, and Scope",
             "text":"",
             "label":[
                 "1003",
@@ -846,9 +1179,6 @@
     "1003-4-a-5-Interp-1":{
         "op":"deleted"
     },
-    "1003-5-c-Interp-2-HMDANotice":{
-        "op":"deleted"
-    },
     "1003-4-a-8-i-Interp-13-iii":{
         "op":"deleted"
     },
@@ -872,7 +1202,7 @@
     "1003-4-d-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Mergers, purchases in bulk, and branch acquisitions. ",
+            "title":"Mergers, purchases in bulk, and branch acquisitions.",
             "text":"If a covered institution acquires loans in bulk from another institution (for example, from the receiver for a failed institution) but no merger or acquisition of the institution, or acquisition of a branch, is involved, the institution reports the loans as purchased loans.",
             "label":[
                 "1003",
@@ -887,49 +1217,398 @@
         "op":"added"
     },
     "1003-2-j-Interp-5":{
-        "op":"deleted"
-    },
-    "1003-2-j-Interp-4":{
-        "op":"deleted"
-    },
-    "1003-2-j-Interp-6":{
-        "op":"deleted"
-    },
-    "1003-2-j-Interp-1":{
-        "op":"deleted"
-    },
-    "1003-2-j-Interp-3":{
-        "op":"deleted"
-    },
-    "1003-2-j-Interp-2":{
-        "op":"deleted"
-    },
-    "1003-4-a-32-Interp-2-v":{
-        "op":"deleted"
-    },
-    "1003-5-a-Interp-2":{
         "text":[
             [
                 [
                     "delete",
                     0,
-                    10
+                    32
                 ],
                 [
                     "insert",
                     0,
-                    "Institutions that report twenty-five or fewer entries on their HMDA/LAR may collect and report the data in paper form. An institution that submits its register in non-automated form sends two copies that are typed or computer printed and must use the format of the HMDA/LAR (but need not use the form itself). Each page must be numbered along with the total number of pages (for example, \u201cPage 1 of 3\u201d)."
+                    "A home purchase loan includes both a combined construction/permanent loan and the permanent financing that replaces a construction-only loan. It does not include a construction-only loan, which"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    36,
+                    291
+                ],
+                [
+                    "insert",
+                    36,
+                    "considered \u201ctemporary financing\u201d under Regulation C and"
+                ]
+            ],
+            [
+                "delete",
+                295,
+                983
+            ],
+            [
+                [
+                    "delete",
+                    987,
+                    1266
+                ],
+                [
+                    "insert",
+                    987,
+                    "reported."
                 ]
             ]
         ],
         "title":[
             [
-                "insert",
-                0,
-                "Submission in paper form. "
+                [
+                    "delete",
+                    0,
+                    12
+                ],
+                [
+                    "insert",
+                    0,
+                    "Construction and permanent financing."
+                ]
             ]
         ],
         "op":"modified"
+    },
+    "1003-2-j-Interp-4":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    3
+                ],
+                [
+                    "insert",
+                    0,
+                    "A home purchase loan may include a loan originated outside"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    7,
+                    25
+                ],
+                [
+                    "insert",
+                    7,
+                    "institution's residential mortgage lending division (such as"
+                ]
+            ],
+            [
+                "delete",
+                28,
+                43
+            ],
+            [
+                [
+                    "delete",
+                    48,
+                    96
+                ],
+                [
+                    "insert",
+                    48,
+                    "for the purchase of an apartment building made through the commercial"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    102,
+                    302
+                ],
+                [
+                    "insert",
+                    102,
+                    "department)."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    66
+                ],
+                [
+                    "insert",
+                    0,
+                    "Commercial and other loans."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-2-j-Interp-7":{
+        "node":{
+            "tagged_text":null,
+            "title":"Multiple-category loans.",
+            "text":"If a loan is a home purchase loan as well as a home improvement loan, or a refinancing, an institution reports the loan as a home purchase loan.",
+            "label":[
+                "1003",
+                "2",
+                "j",
+                "Interp",
+                "7"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-2-j-Interp-6":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    12
+                ],
+                [
+                    "insert",
+                    0,
+                    "If an institution making a first"
+                ]
+            ],
+            [
+                "insert",
+                27,
+                "to a home purchaser also makes a second mortgage loan to the same purchaser to finance part "
+            ],
+            [
+                [
+                    "delete",
+                    30,
+                    46
+                ],
+                [
+                    "insert",
+                    30,
+                    "all"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    50,
+                    104
+                ],
+                [
+                    "insert",
+                    50,
+                    "the home purchaser's downpayment, the institution reports each loan separately as"
+                ]
+            ],
+            [
+                "delete",
+                107,
+                142
+            ],
+            [
+                "delete",
+                156,
+                418
+            ],
+            [
+                "delete",
+                423,
+                510
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    23
+                ],
+                [
+                    "insert",
+                    0,
+                    "Second mortgages that finance the downpayments on first mortgages."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-2-j-Interp-1":{
+        "text":[
+            [
+                "delete",
+                32,
+                52
+            ],
+            [
+                "delete",
+                57,
+                87
+            ],
+            [
+                "delete",
+                149,
+                357
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-2-j-Interp-3":{
+        "text":[
+            [
+                "insert",
+                2,
+                "loan to purchase property used primarily for agricultural purposes is not a "
+            ],
+            [
+                "insert",
+                21,
+                "even if the property "
+            ],
+            [
+                "delete",
+                30,
+                35
+            ],
+            [
+                [
+                    "delete",
+                    37,
+                    68
+                ],
+                [
+                    "insert",
+                    37,
+                    "dwelling. An institution may use any reasonable standard to determine the primary use of the property, such as by reference to the exemption from Regulation X (Real Estate Settlement Procedures, 12 CFR 1024.5(b)(1)) for a"
+                ]
+            ],
+            [
+                "insert",
+                74,
+                "on property of 25 acres "
+            ],
+            [
+                [
+                    "delete",
+                    77,
+                    96
+                ],
+                [
+                    "insert",
+                    77,
+                    "more. An institution may select"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    101,
+                    143
+                ],
+                [
+                    "insert",
+                    101,
+                    "standard to apply on"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    146,
+                    719
+                ],
+                [
+                    "insert",
+                    146,
+                    "case-by-case basis."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    37
+                ],
+                [
+                    "insert",
+                    0,
+                    "Farm loan."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-2-j-Interp-2":{
+        "text":[
+            [
+                "insert",
+                2,
+                "dwelling-secured loan to purchase property used primarily for residential purposes (for example, an apartment building containing a convenience store) is a "
+            ],
+            [
+                [
+                    "delete",
+                    16,
+                    20
+                ],
+                [
+                    "insert",
+                    16,
+                    "loan. An institution"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    25,
+                    32
+                ],
+                [
+                    "insert",
+                    25,
+                    "use any reasonable standard to determine the primary use of the property, such as by square footage or by the income generated. An institution may select the standard to apply on"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    35,
+                    277
+                ],
+                [
+                    "insert",
+                    35,
+                    "case-by-case basis."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    27
+                ],
+                [
+                    "insert",
+                    0,
+                    "Mixed-use property."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-4-a-32-Interp-2-v":{
+        "op":"deleted"
     },
     "1003-4-a-32-Interp-2-i":{
         "op":"deleted"
@@ -956,6 +1635,23 @@
     },
     "1003-2-d-Interp-1":{
         "op":"deleted"
+    },
+    "1003-5-Interp":{
+        "title":[
+            [
+                [
+                    "delete",
+                    8,
+                    25
+                ],
+                [
+                    "insert",
+                    8,
+                    "1003.5-Disclosure"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-d-Interp":{
         "op":"deleted"
@@ -1060,28 +1756,6 @@
     "1003-4-a-32-Interp":{
         "op":"deleted"
     },
-    "1003-2-FinancialInstitution-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":"Coverage after a merger.",
-            "text":"Several scenarios of data-collection responsibilities for the calendar year of a merger are described below. Under all the scenarios, if the merger results in a covered institution, that institution must begin data collection January 1 of the following calendar year.",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1003-2-FinancialInstitution-Interp-3-i",
-                "1003-2-FinancialInstitution-Interp-3-ii",
-                "1003-2-FinancialInstitution-Interp-3-iii",
-                "1003-2-FinancialInstitution-Interp-3-iv"
-            ]
-        },
-        "op":"added"
-    },
     "1003-4-a-4":{
         "text":[
             [
@@ -1104,8 +1778,46 @@
         ],
         "op":"modified"
     },
-    "1003-3-c-6-Interp":{
-        "op":"deleted"
+    "1003-4-a-5":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    11
+                ],
+                [
+                    "insert",
+                    4,
+                    "The property type to which"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    16,
+                    137
+                ],
+                [
+                    "insert",
+                    16,
+                    "loan"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    141,
+                    161
+                ],
+                [
+                    "insert",
+                    141,
+                    "application relates."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-a-6":{
         "text":[
@@ -1263,12 +1975,57 @@
         "op":"deleted"
     },
     "1003-2-g-1":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    44
+                ],
+                [
+                    "insert",
+                    4,
+                    "A"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-g-2":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    27
+                ],
+                [
+                    "insert",
+                    4,
+                    "A for-profit mortgage-lending"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    40,
+                    45
+                ],
+                [
+                    "insert",
+                    40,
+                    "(other than"
+                ]
+            ],
+            [
+                "delete",
+                48,
+                102
+            ]
+        ],
+        "op":"modified"
     },
-    "1003-2-o-Interp":{
+    "1003-4-a-17-i-Interp-1":{
         "op":"deleted"
     },
     "1003-4-a-34-Interp-1":{
@@ -1292,25 +2049,8 @@
     "1003-4-a-18-Interp-3":{
         "op":"deleted"
     },
-    "1003-2-FinancialInstitution-2-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(iii) Either:",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "2",
-                "iii"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-FinancialInstitution-2-iii-A",
-                "1003-2-FinancialInstitution-2-iii-B"
-            ]
-        },
-        "op":"added"
+    "1003-4-a-33-i":{
+        "op":"deleted"
     },
     "1003-4-a-8-i":{
         "op":"deleted"
@@ -1340,12 +2080,26 @@
         "op":"added"
     },
     "1003-2-f-Interp":{
-        "op":"deleted"
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    13
+                ],
+                [
+                    "insert",
+                    0,
+                    "Dwelling."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-a-12-ii-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":"Bureau tables. ",
+            "title":"Bureau tables.",
             "text":"The Bureau publishes on the FFIEC's Web site (http://www.ffiec.gov/hmda), in table form, average prime offer rates for a wide variety of transaction types. The Bureau calculates an annual percentage rate, consistent with Regulation Z (see 12 CFR 1026.22 and Part 1026, Appendix J), for each transaction type for which pricing terms are available from the survey described in comment 4(a)(12)(ii)-1. The Bureau estimates annual percentage rates for other types of transactions for which direct survey data are not available based on the loan pricing terms available in the survey and other information. The Bureau publishes on the FFIEC's Web site the methodology it uses to arrive at these estimates.",
             "label":[
                 "1003",
@@ -1364,7 +2118,7 @@
     "1003-4-a-12-ii-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":"Comparable transaction. ",
+            "title":"Comparable transaction.",
             "text":"The rate spread reporting requirement applies to a reportable loan with an annual percentage rate that exceeds by the specified margin (or more) the average prime offer rate for a comparable transaction as of the date the interest rate is set. The tables of average prime offer rates published by the Bureau (see comment 4(a)(12)(ii)-3) indicate how to identify the comparable transaction.",
             "label":[
                 "1003",
@@ -1398,43 +2152,14 @@
         },
         "op":"added"
     },
-    "1003-2-FinancialInstitution-Interp-3-iv":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Two covered institutions merge. Data collection is required for the entire year. The surviving or resulting institution files either a consolidated submission or separate submissions for that year.",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "Interp",
-                "3",
-                "iv"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-4-a-18-Interp-2":{
+        "op":"deleted"
     },
     "1003-4-a-23-Interp":{
         "op":"deleted"
     },
-    "1003-2-Application-2-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(iii) Limited conditions that are not related to the financial condition or creditworthiness of the applicant that the lender ordinarily attaches to a traditional home mortgage application (such as certification of a clear termite inspection).",
-            "label":[
-                "1003",
-                "2",
-                "Application",
-                "2",
-                "iii"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-4-a-Interp-2-ii":{
+        "op":"deleted"
     },
     "1003-4-a-8-i-Interp-11":{
         "op":"deleted"
@@ -1442,7 +2167,7 @@
     "1003-4-a-8-i-Interp-10":{
         "op":"deleted"
     },
-    "1003-4-a-8-i-Interp-6":{
+    "1003-4-a-8-i-Interp-13":{
         "op":"deleted"
     },
     "1003-4-a-8-i-Interp-12":{
@@ -1453,44 +2178,6 @@
     },
     "1003-4-a-8-i-Interp-14":{
         "op":"deleted"
-    },
-    "1003-2-BranchOffice-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Branch office",
-            "text":"",
-            "label":[
-                "1003",
-                "2",
-                "BranchOffice",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1003-2-BranchOffice-Interp-1",
-                "1003-2-BranchOffice-Interp-2",
-                "1003-2-BranchOffice-Interp-3"
-            ]
-        },
-        "op":"added"
-    },
-    "1003-2-FinancialInstitution-Interp-3-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A covered institution and an exempt institution merge. The covered institution is the surviving institution. For the year of the merger, data collection is required for the covered institution's transactions. Data collection is optional for transactions handled in offices of the previously exempt institution.",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "Interp",
-                "3",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1003-4-a-6-Interp-3":{
         "op":"deleted"
@@ -1520,36 +2207,116 @@
         "op":"deleted"
     },
     "1003-2-f-Interp-1":{
-        "op":"deleted"
-    },
-    "1003-4-a-4-Interp-1":{
-        "op":"deleted"
+        "text":[
+            [
+                "insert",
+                18,
+                "\u201cdwelling\u201d is not limited to the principal or other residence of the applicant or borrower, and thus includes vacation or second homes and rental properties. A dwelling also includes "
+            ],
+            [
+                [
+                    "delete",
+                    20,
+                    179
+                ],
+                [
+                    "insert",
+                    20,
+                    "multifamily structure such as an apartment building."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    8
+                ],
+                [
+                    "insert",
+                    0,
+                    "Coverage."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-f-Interp-3":{
         "op":"deleted"
     },
     "1003-2-f-Interp-2":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    60
+                ],
+                [
+                    "insert",
+                    0,
+                    "Recreational vehicles such as boats"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    64,
+                    73
+                ],
+                [
+                    "insert",
+                    64,
+                    "campers are not dwellings for purposes of HMDA. Also excluded are transitory residences"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    82,
+                    687
+                ],
+                [
+                    "insert",
+                    82,
+                    "hotels, hospitals,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    692,
+                    828
+                ],
+                [
+                    "insert",
+                    692,
+                    "college dormitories, whose occupants have principal residences elsewhere."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    51
+                ],
+                [
+                    "insert",
+                    0,
+                    "Exclusions."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-a-27-iii":{
         "op":"deleted"
     },
-    "1003-2-Application-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(i) Conditions that require the identification of a suitable property;",
-            "label":[
-                "1003",
-                "2",
-                "Application",
-                "2",
-                "i"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-2-f-Interp-4":{
+        "op":"deleted"
     },
     "1003-4-a-33-i-Interp-1-iii":{
         "op":"deleted"
@@ -1581,9 +2348,6 @@
     "1003-4-a-35-Interp-3-ii":{
         "op":"deleted"
     },
-    "1003-2-f-Interp-4":{
-        "op":"deleted"
-    },
     "1003-4-d-Interp":{
         "node":{
             "tagged_text":null,
@@ -1608,32 +2372,167 @@
     "1003-4-a-32-Interp-2-ii":{
         "op":"deleted"
     },
-    "1003-2-BranchOffice":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Branch office means:",
-            "label":[
-                "1003",
-                "2",
-                "BranchOffice"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-BranchOffice-1",
-                "1003-2-BranchOffice-2"
-            ]
-        },
-        "op":"added"
-    },
     "1003-4-a-10-i":{
         "op":"deleted"
     },
     "1003-2-c-1":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    71,
+                    81
+                ],
+                [
+                    "insert",
+                    71,
+                    "approved as"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    94,
+                    97
+                ],
+                [
+                    "insert",
+                    94,
+                    "a"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    109,
+                    114
+                ],
+                [
+                    "insert",
+                    109,
+                    "state"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    127,
+                    175
+                ],
+                [
+                    "insert",
+                    127,
+                    "agency, but excludes free-standing electronic terminals such as"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    193,
+                    201
+                ],
+                [
+                    "insert",
+                    193,
+                    "machines;"
+                ]
+            ],
+            [
+                "delete",
+                205,
+                251
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-c-2":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    162,
+                    176
+                ],
+                [
+                    "insert",
+                    162,
+                    "home purchase loans, home improvement loans, or refinancings."
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    219,
+                    230
+                ],
+                [
+                    "insert",
+                    219,
+                    "is also deemed to have"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    233,
+                    259
+                ],
+                [
+                    "insert",
+                    233,
+                    "branch office in an MSA"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    263,
+                    291
+                ],
+                [
+                    "insert",
+                    263,
+                    "in a Metropolitan Division, if, in the preceding calendar year, it received applications for, originated, or purchased five or more home purchase loans, home improvement loans, or refinancings related"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    295,
+                    315
+                ],
+                [
+                    "insert",
+                    295,
+                    "property located"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    319,
+                    321
+                ],
+                [
+                    "insert",
+                    319,
+                    "that"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    329,
+                    503
+                ],
+                [
+                    "insert",
+                    329,
+                    "Metropolitan Division,"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-3-c-9-Interp":{
         "op":"deleted"
@@ -1722,13 +2621,8 @@
                 [
                     "insert",
                     0,
-                    "Poster\u2014suggested"
+                    "Poster-suggested"
                 ]
-            ],
-            [
-                "insert",
-                29,
-                " "
             ]
         ],
         "op":"modified"
@@ -1736,7 +2630,7 @@
     "1003-5-e-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":"Additional language for institutions making the disclosure statement available on request. ",
+            "title":"Additional language for institutions making the disclosure statement available on request.",
             "text":"An institution that posts a notice informing the public of the address to which a request should be sent could include the following sentence, for example, in its general notice: \u201cTo receive a copy of these data send a written request to [address].\u201d",
             "label":[
                 "1003",
@@ -1759,28 +2653,8 @@
     "1003-4-a-11-Interp-3":{
         "op":"deleted"
     },
-    "1003-2-FinancialInstitution-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Financial institution.",
-            "text":"",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1003-2-FinancialInstitution-Interp-1",
-                "1003-2-FinancialInstitution-Interp-2",
-                "1003-2-FinancialInstitution-Interp-3",
-                "1003-2-FinancialInstitution-Interp-4",
-                "1003-2-FinancialInstitution-Interp-5",
-                "1003-2-FinancialInstitution-Interp-6"
-            ]
-        },
-        "op":"added"
+    "1003-4-a-6-Interp-4":{
+        "op":"deleted"
     },
     "1003-4-a-11-Interp-5":{
         "op":"deleted"
@@ -1809,8 +2683,37 @@
     "1003-4-a-33-ii-Interp-2":{
         "op":"deleted"
     },
-    "1003-4-a-Interp-3-iii":{
-        "op":"deleted"
+    "1003-2-p-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(2) For reporting purposes, both the existing obligation and the new obligation are secured by liens on dwellings.",
+            "label":[
+                "1003",
+                "2",
+                "p",
+                "2"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-2-p-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(1) For coverage purposes, the existing obligation is a home purchase loan (as determined by the lender, for example, by reference to available documents; or as stated by the applicant), and both the existing obligation and the new obligation are secured by first liens on dwellings; and",
+            "label":[
+                "1003",
+                "2",
+                "p",
+                "1"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-33-ii-Interp-1":{
         "op":"deleted"
@@ -1851,7 +2754,7 @@
     "1003-4-a-1-Interp-5":{
         "node":{
             "tagged_text":null,
-            "title":"Application\u2014year action taken.",
+            "title":"Application-year action taken.",
             "text":"An institution must report an application in the calendar year in which the institution takes final action on the application.",
             "label":[
                 "1003",
@@ -1952,9 +2855,6 @@
         },
         "op":"added"
     },
-    "1003-4-a-10-ii-Interp-2":{
-        "op":"deleted"
-    },
     "1003-4-a-14-Interp":{
         "op":"deleted"
     },
@@ -2044,7 +2944,7 @@
                 [
                     "insert",
                     0,
-                    "Updating\u2014agency requirements."
+                    "Updating-agency requirements."
                 ]
             ]
         ],
@@ -2099,7 +2999,7 @@
                 [
                     "insert",
                     0,
-                    "Form of quarterly updating. "
+                    "Form of quarterly updating."
                 ]
             ]
         ],
@@ -2142,9 +3042,6 @@
         "op":"deleted"
     },
     "1003-4-a-9-i-Interp-2-ii":{
-        "op":"deleted"
-    },
-    "1003-2-b-2-ii":{
         "op":"deleted"
     },
     "1003-4-a-3-Interp":{
@@ -2273,37 +3170,105 @@
         "op":"deleted"
     },
     "1003-2-g-1-iv-A":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    23,
+                    32
+                ],
+                [
+                    "insert",
+                    23,
+                    "Federally"
+                ]
+            ],
+            [
+                "delete",
+                54,
+                57
+            ]
+        ],
+        "op":"modified"
     },
-    "1003-2-p-Interp-1-iii":{
-        "op":"deleted"
-    },
-    "1003-2-g-1-iv-B":{
-        "op":"deleted"
-    },
-    "1003-2-HomePurchaseLoan-Interp":{
+    "1003-2-g-1-iv-C":{
         "node":{
             "tagged_text":null,
-            "title":"Home purchase loan.",
-            "text":"",
+            "title":null,
+            "text":"(C) The mortgage loan referred to in paragraph (1)(iii) of this definition was intended by the institution for sale to Fannie Mae or Freddie Mac; and",
             "label":[
                 "1003",
                 "2",
-                "HomePurchaseLoan",
-                "Interp"
+                "g",
+                "1",
+                "iv",
+                "C"
             ],
-            "node_type":"interp",
-            "child_labels":[
-                "1003-2-HomePurchaseLoan-Interp-1",
-                "1003-2-HomePurchaseLoan-Interp-2",
-                "1003-2-HomePurchaseLoan-Interp-3",
-                "1003-2-HomePurchaseLoan-Interp-4",
-                "1003-2-HomePurchaseLoan-Interp-5",
-                "1003-2-HomePurchaseLoan-Interp-6",
-                "1003-2-HomePurchaseLoan-Interp-7"
-            ]
+            "node_type":"regtext",
+            "child_labels":[]
         },
         "op":"added"
+    },
+    "1003-2-g-1-iv-B":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    7
+                ],
+                [
+                    "insert",
+                    4,
+                    "The mortgage"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    38,
+                    49
+                ],
+                [
+                    "insert",
+                    38,
+                    "(1)(iii)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    58,
+                    65
+                ],
+                [
+                    "insert",
+                    58,
+                    "definition"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    120,
+                    127
+                ],
+                [
+                    "insert",
+                    120,
+                    "agency;"
+                ]
+            ],
+            [
+                "delete",
+                130,
+                267
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-4-a-33-Interp":{
+        "op":"deleted"
     },
     "1003-3-c-8-Interp":{
         "op":"deleted"
@@ -2317,41 +3282,8 @@
     "1003-3-c-3-Interp-1-iv":{
         "op":"deleted"
     },
-    "1003-2-Application-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) Preapproval programs.A request for preapproval for a home purchase loan is an application under this section if the request is reviewed under a program in which the financial institution, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:",
-            "label":[
-                "1003",
-                "2",
-                "Application",
-                "2"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-Application-2-i",
-                "1003-2-Application-2-ii",
-                "1003-2-Application-2-iii"
-            ]
-        },
-        "op":"added"
-    },
-    "1003-2-Application-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) In general.Application means an oral or written request for a home purchase loan, a home improvement loan, or a refinancing that is made in accordance with procedures used by a financial institution for the type of credit requested.",
-            "label":[
-                "1003",
-                "2",
-                "Application",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-5-c-Interp-2-HMDANotice":{
+        "op":"deleted"
     },
     "1003-3-c-3-Interp-1-ii":{
         "op":"deleted"
@@ -2360,9 +3292,6 @@
         "op":"deleted"
     },
     "1003-4-a-10-iii-Interp-10":{
-        "op":"deleted"
-    },
-    "1003-2-p-Interp-2":{
         "op":"deleted"
     },
     "1003-C-1":{
@@ -2377,9 +3306,16 @@
     "1003-5-a-Interp-7":{
         "title":[
             [
-                "insert",
-                46,
-                " "
+                [
+                    "delete",
+                    12,
+                    28
+                ],
+                [
+                    "insert",
+                    12,
+                    "sheet-additional"
+                ]
             ]
         ],
         "op":"modified"
@@ -2396,7 +3332,7 @@
     "1003-4-a-29-Interp-1":{
         "op":"deleted"
     },
-    "1003-C-1-p5":{
+    "1003-2-o-Interp":{
         "op":"deleted"
     },
     "1003-3-c":{
@@ -2406,6 +3342,9 @@
         "op":"deleted"
     },
     "1003-4-a-17-ii-Interp-2":{
+        "op":"deleted"
+    },
+    "1003-4-a-16-Interp-2":{
         "op":"deleted"
     },
     "1003-C-1-p7":{
@@ -2712,62 +3651,28 @@
     "1003-B-1-9":{
         "op":"deleted"
     },
-    "1003-2-FinancialInstitution-2-iii-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(B) In the preceding calendar year, originated at least 100 home purchase loans, including refinancings of home purchase loans.",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "2",
-                "iii",
-                "B"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-C-1-p15":{
         "op":"deleted"
-    },
-    "1003-2-FinancialInstitution-2-iii-A":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(A) On the preceding December 31, had total assets of more than $10 million, counting the assets of any parent corporation; or",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "2",
-                "iii",
-                "A"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1003-B-1-2":{
         "op":"deleted"
     },
-    "1003-2-HomeEquityLineOfCredit":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Home equity line of credit means an open-end credit plan secured by a dwelling as defined in Regulation Z (Truth in Lending), 12 CFR part 1026.",
-            "label":[
-                "1003",
-                "2",
-                "HomeEquityLineOfCredit"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-2-Interp":{
+        "title":[
+            [
+                [
+                    "delete",
+                    8,
+                    26
+                ],
+                [
+                    "insert",
+                    8,
+                    "1003.2-Definitions"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-B-1-1":{
         "op":"deleted"
@@ -2964,74 +3869,11 @@
     "1003-4-a-35-Interp-1-ii":{
         "op":"deleted"
     },
-    "1003-2-Dwelling-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Exclusions.",
-            "text":"Recreational vehicles such as boats or campers are not dwellings for purposes of HMDA. Also excluded are transitory residences such as hotels, hospitals, and college dormitories, whose occupants have principal residences elsewhere.",
-            "label":[
-                "1003",
-                "2",
-                "Dwelling",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-2-c-2-Interp-1":{
         "op":"deleted"
     },
-    "1003-2-Dwelling-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Coverage.",
-            "text":"The definition of \u201cdwelling\u201d is not limited to the principal or other residence of the applicant or borrower, and thus includes vacation or second homes and rental properties. A dwelling also includes a multifamily structure such as an apartment building.",
-            "label":[
-                "1003",
-                "2",
-                "Dwelling",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-Metropolitan-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) Metropolitan Division or MD means a metropolitan division of an MSA, as defined by the U.S. Office of Management and Budget.",
-            "label":[
-                "1003",
-                "2",
-                "Metropolitan",
-                "2"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-Metropolitan-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) Metropolitan Statistical Area or MSA means a metropolitan statistical area as defined by the U.S. Office of Management and Budget.",
-            "label":[
-                "1003",
-                "2",
-                "Metropolitan",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-4-a-8-ii-Interp-4":{
+        "op":"deleted"
     },
     "1003-5-c-Interp":{
         "title":[
@@ -3062,80 +3904,11 @@
         ],
         "op":"modified"
     },
-    "1003-2-BranchOffice-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Depository institution.",
-            "text":"A branch of a depository institution does not include a loan-production office, the office of an affiliate, or the office of a third party such as a loan broker. (But see Appendix A, paragraph I.C.6, which requires certain depository institutions to report property location even for properties located outside those MSAs or Metropolitan Divisions in which the institution has a home or branch office.)",
-            "label":[
-                "1003",
-                "2",
-                "BranchOffice",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-BranchOffice-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":"Nondepository institution.",
-            "text":"For a nondepository institution, \u201cbranch office\u201d does not include the office of an affiliate or other third party such as a loan broker. (But note that certain nondepository institutions must report property location even in MSAs or Metropolitan Divisions where they do not have a physical location.)",
-            "label":[
-                "1003",
-                "2",
-                "BranchOffice",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-BranchOffice-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Credit union.",
-            "text":"For purposes of Regulation C, a \u201cbranch\u201d of a credit union is any office where member accounts are established or loans are made, whether or not the office has been approved as a branch by a Federal or state agency. (See 12 U.S.C. 1752.)",
-            "label":[
-                "1003",
-                "2",
-                "BranchOffice",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-4-a-9-ii-A-Interp-1":{
         "op":"deleted"
     },
     "1003-3-c-1-Interp-1":{
         "op":"deleted"
-    },
-    "1003-2-HomeImprovementLoan":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Home improvement loan means:",
-            "label":[
-                "1003",
-                "2",
-                "HomeImprovementLoan"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-HomeImprovementLoan-1",
-                "1003-2-HomeImprovementLoan-2"
-            ]
-        },
-        "op":"added"
     },
     "1003-B-1-9-iv":{
         "op":"deleted"
@@ -3145,6 +3918,24 @@
     },
     "1003-4-a-8-ii":{
         "op":"deleted"
+    },
+    "1003-2-g-Interp-3-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A covered institution and an exempt institution merge. The exempt institution is the surviving institution, or a new institution is formed. Data collection is required for transactions of the covered institution that take place prior to the merger. Data collection is optional for transactions taking place after the merger date.",
+            "label":[
+                "1003",
+                "2",
+                "g",
+                "Interp",
+                "3",
+                "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-B-1-9-ii":{
         "op":"deleted"
@@ -3187,7 +3978,7 @@
     "1003-4-a-10-Interp-8":{
         "node":{
             "tagged_text":null,
-            "title":"Income data\u2014loan to employee. ",
+            "title":"Income data-loan to employee.",
             "text":"An institution may report \u201cNA\u201d in the income field for loans to its employees to protect their privacy, even though the institution relied on their income in making its credit decisions.",
             "label":[
                 "1003",
@@ -3205,7 +3996,7 @@
     "1003-4-a-10-Interp-7":{
         "node":{
             "tagged_text":null,
-            "title":"Income data\u2014co-applicant. ",
+            "title":"Income data-co-applicant.",
             "text":"If two persons jointly apply for a loan and both list income on the application, but the institution relies only on the income of one applicant in computing ratios and in evaluating creditworthiness, the institution reports only the income relied on.",
             "label":[
                 "1003",
@@ -3223,7 +4014,7 @@
     "1003-4-a-10-Interp-6":{
         "node":{
             "tagged_text":null,
-            "title":"Income data\u2014income relied on. ",
+            "title":"Income data-income relied on.",
             "text":"An institution reports the gross annual income relied on in evaluating the creditworthiness of applicants. For example, if an institution relies on an applicant's salary to compute a debt-to-income ratio but also relies on the applicant's annual bonus to evaluate creditworthiness, the institution reports the salary and the bonus to the extent relied upon. Similarly, if an institution relies on the income of a cosigner to evaluate creditworthiness, the institution includes this income to the extent relied upon. But an institution does not include the income of a guarantor who is only secondarily liable.",
             "label":[
                 "1003",
@@ -3238,30 +4029,28 @@
         },
         "op":"added"
     },
-    "1003-2-Application-Interp":{
+    "1003-4-a-10-Interp-5":{
         "node":{
             "tagged_text":null,
-            "title":"Application.",
-            "text":"",
+            "title":"Applicant data-video and other electronic-application processes.",
+            "text":"An institution that accepts applications through electronic media with a video component treats the applications as taken in person and collects the information about the ethnicity, race, and sex of applicants. An institution that accepts applications through electronic media without a video component (for example, the internet or facsimile) treats the applications as accepted by mail.",
             "label":[
                 "1003",
-                "2",
-                "Application",
-                "Interp"
+                "4",
+                "a",
+                "10",
+                "Interp",
+                "5"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1003-2-Application-Interp-1",
-                "1003-2-Application-Interp-2",
-                "1003-2-Application-Interp-3"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
     "1003-4-a-10-Interp-4":{
         "node":{
             "tagged_text":null,
-            "title":"Applicant data\u2014joint applicant. ",
+            "title":"Applicant data-joint applicant.",
             "text":"A joint applicant may enter the government monitoring information on behalf of an absent joint applicant. If the information is not provided, the institution reports using the Code for \u201cinformation not provided by applicant in mail, internet, or telephone application.\u201d",
             "label":[
                 "1003",
@@ -3279,7 +4068,7 @@
     "1003-4-a-10-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":"Applicant data\u2014application completed in person. ",
+            "title":"Applicant data-application completed in person.",
             "text":"When an applicant meets in person with a lender to complete an application that was begun by mail, internet, or telephone, the institution must request the monitoring information. If the meeting occurs after the application process is complete, for example, at closing, the institution is not required to obtain monitoring information.",
             "label":[
                 "1003",
@@ -3297,7 +4086,7 @@
     "1003-4-a-10-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":"Applicant data\u2014completion by lender. ",
+            "title":"Applicant data-completion by lender.",
             "text":"If an applicant fails to provide the requested information for an application taken in person, the institution reports the data on the basis of visual observation or surname.",
             "label":[
                 "1003",
@@ -3312,23 +4101,8 @@
         },
         "op":"added"
     },
-    "1003-4-a-10-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Applicant data\u2014completion by applicant. ",
-            "text":"An institution reports the monitoring information as provided by the applicant. For example, if an applicant checks the \u201cAsian\u201d box the institution reports using the \u201cAsian\u201d Code.",
-            "label":[
-                "1003",
-                "4",
-                "a",
-                "10",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-C-1-p19":{
+        "op":"deleted"
     },
     "1003-4-a-13-Interp":{
         "op":"deleted"
@@ -3369,21 +4143,6 @@
     "1003-4-a-33-i-Interp-1-i":{
         "op":"deleted"
     },
-    "1003-2-ManufacturedHome":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Manufactured home means any residential structure as defined under regulations of the Department of Housing and Urban Development establishing manufactured home construction and safety standards (24 CFR 3280.2).",
-            "label":[
-                "1003",
-                "2",
-                "ManufacturedHome"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-4-a-31-Interp-4":{
         "op":"deleted"
     },
@@ -3400,30 +4159,73 @@
         "op":"deleted"
     },
     "1003-2-g-2-ii":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    5,
+                    26
+                ],
+                [
+                    "insert",
+                    5,
+                    "On"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    31,
+                    50
+                ],
+                [
+                    "insert",
+                    31,
+                    "preceding December 31, had a home or branch office in an MSA; and"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-2-c-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Depository institution.",
+            "text":"A branch of a depository institution does not include a loan-production office, the office of an affiliate, or the office of a third party such as a loan broker. (But see Appendix A, paragraph I.C.6, which requires certain depository institutions to report property location even for properties located outside those MSAs or Metropolitan Divisions in which the institution has a home or branch office.)",
+            "label":[
+                "1003",
+                "2",
+                "c",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-2-c-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Nondepository institution.",
+            "text":"For a nondepository institution, \u201cbranch office\u201d does not include the office of an affiliate or other third party such as a loan broker. (But note that certain nondepository institutions must report property location even in MSAs or Metropolitan Divisions where they do not have a physical location.)",
+            "label":[
+                "1003",
+                "2",
+                "c",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-C-1-p4-t1":{
         "op":"deleted"
     },
     "1003-4-a-34-Interp":{
         "op":"deleted"
-    },
-    "1003-2-FinancialInstitution-2-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(ii) On the preceding December 31, had a home or branch office in an MSA; and",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "2",
-                "ii"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1003-3-c-11":{
         "op":"deleted"
@@ -3437,73 +4239,69 @@
     "1003-3-c-12":{
         "op":"deleted"
     },
-    "1003-2-HomePurchaseLoan-Interp-4":{
-        "node":{
-            "tagged_text":null,
-            "title":"Commercial and other loans.",
-            "text":"A home purchase loan may include a loan originated outside an institution's residential mortgage lending division (such as a loan for the purchase of an apartment building made through the commercial loan department).",
-            "label":[
-                "1003",
-                "2",
-                "HomePurchaseLoan",
-                "Interp",
-                "4"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-4-a-4-Interp":{
+        "op":"deleted"
     },
-    "1003-2-HomePurchaseLoan-Interp-5":{
-        "node":{
-            "tagged_text":null,
-            "title":"Construction and permanent financing.",
-            "text":"A home purchase loan includes both a combined construction/permanent loan and the permanent financing that replaces a construction-only loan. It does not include a construction-only loan, which is considered \u201ctemporary financing\u201d under Regulation C and is not reported.",
-            "label":[
-                "1003",
-                "2",
-                "HomePurchaseLoan",
-                "Interp",
-                "5"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-4-a-24-Interp":{
+        "op":"deleted"
     },
-    "1003-2-HomePurchaseLoan-Interp-6":{
-        "node":{
-            "tagged_text":null,
-            "title":"Second mortgages that finance the downpayments on first mortgages.",
-            "text":"If an institution making a first mortgage loan to a home purchaser also makes a second mortgage loan to the same purchaser to finance part or all of the home purchaser's downpayment, the institution reports each loan separately as a home purchase loan.",
-            "label":[
-                "1003",
-                "2",
-                "HomePurchaseLoan",
-                "Interp",
-                "6"
+    "1003-5-b-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    11
+                ],
+                [
+                    "insert",
+                    0,
+                    "An"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    37,
+                    81
+                ],
+                [
+                    "insert",
+                    37,
+                    "disclosure statement"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    101,
+                    103
+                ],
+                [
+                    "insert",
+                    101,
+                    "form or, if the person requesting the data agrees, in"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    17
+                ],
+                [
+                    "insert",
+                    0,
+                    "Format."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
-    "1003-2-HomePurchaseLoan-Interp-7":{
-        "node":{
-            "tagged_text":null,
-            "title":"Multiple-category loans.",
-            "text":"If a loan is a home purchase loan as well as a home improvement loan, or a refinancing, an institution reports the loan as a home purchase loan.",
-            "label":[
-                "1003",
-                "2",
-                "HomePurchaseLoan",
-                "Interp",
-                "7"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-5-b-Interp-3":{
+        "op":"deleted"
     },
     "1003-4-a-9-ii-C-Interp-2":{
         "op":"deleted"
@@ -3512,10 +4310,94 @@
         "op":"deleted"
     },
     "1003-2-f":{
-        "op":"deleted"
+        "text":[
+            [
+                "delete",
+                0,
+                4
+            ],
+            [
+                [
+                    "delete",
+                    33,
+                    51
+                ],
+                [
+                    "insert",
+                    33,
+                    "structure (whether"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    76,
+                    85
+                ],
+                [
+                    "insert",
+                    76,
+                    "property) located in a state of the United States of America, the District of Columbia, or the Commonwealth of Puerto Rico."
+                ]
+            ],
+            [
+                "delete",
+                104,
+                143
+            ],
+            [
+                "insert",
+                169,
+                "unit, cooperative unit, "
+            ],
+            [
+                [
+                    "delete",
+                    172,
+                    191
+                ],
+                [
+                    "insert",
+                    172,
+                    "mobile or"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    205,
+                    291
+                ],
+                [
+                    "insert",
+                    205,
+                    "home."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-g":{
-        "op":"deleted"
+        "text":[
+            [
+                "delete",
+                0,
+                4
+            ],
+            [
+                [
+                    "delete",
+                    26,
+                    115
+                ],
+                [
+                    "insert",
+                    26,
+                    "means:"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-d":{
         "op":"deleted"
@@ -3524,13 +4406,34 @@
         "op":"deleted"
     },
     "1003-2-b":{
-        "op":"deleted"
+        "text":[
+            [
+                "delete",
+                0,
+                4
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-c":{
-        "op":"deleted"
+        "text":[
+            [
+                "delete",
+                0,
+                4
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-a":{
-        "op":"deleted"
+        "text":[
+            [
+                "delete",
+                0,
+                4
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-n":{
         "op":"deleted"
@@ -3539,13 +4442,90 @@
         "op":"deleted"
     },
     "1003-2-l":{
-        "op":"deleted"
+        "text":[
+            [
+                "delete",
+                0,
+                4
+            ],
+            [
+                "delete",
+                90,
+                95
+            ],
+            [
+                "delete",
+                220,
+                337
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-m":{
-        "op":"deleted"
+        "text":[
+            [
+                "delete",
+                0,
+                4
+            ],
+            [
+                [
+                    "delete",
+                    34,
+                    39
+                ],
+                [
+                    "insert",
+                    34,
+                    "or MSA"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    57,
+                    70
+                ],
+                [
+                    "insert",
+                    57,
+                    "Division or MD-"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-j":{
-        "op":"deleted"
+        "text":[
+            [
+                "delete",
+                0,
+                4
+            ],
+            [
+                "delete",
+                31,
+                51
+            ],
+            [
+                [
+                    "delete",
+                    56,
+                    75
+                ],
+                [
+                    "insert",
+                    56,
+                    "secured by and made for the purpose"
+                ]
+            ],
+            [
+                "delete",
+                79,
+                135
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-k":{
         "op":"deleted"
@@ -3644,34 +4624,78 @@
             [
                 "delete",
                 0,
-                5
+                6
             ]
         ],
         "op":"modified"
     },
     "1003-2-i":{
-        "op":"deleted"
-    },
-    "1003-2-Metropolitan-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Metropolitan Statistical Areas and Metropolitan Divisions",
-            "text":"",
-            "label":[
-                "1003",
-                "2",
-                "Metropolitan",
-                "Interp"
+        "text":[
+            [
+                "delete",
+                0,
+                4
             ],
-            "node_type":"interp",
-            "child_labels":[
-                "1003-2-Metropolitan-Interp-1"
+            [
+                [
+                    "delete",
+                    26,
+                    255
+                ],
+                [
+                    "insert",
+                    26,
+                    "means:"
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1003-2-p":{
-        "op":"deleted"
+        "text":[
+            [
+                "delete",
+                0,
+                4
+            ],
+            [
+                [
+                    "delete",
+                    24,
+                    51
+                ],
+                [
+                    "insert",
+                    24,
+                    "new obligation that satisfies and replaces"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    55,
+                    78
+                ],
+                [
+                    "insert",
+                    55,
+                    "existing obligation by the same borrower,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    82,
+                    218
+                ],
+                [
+                    "insert",
+                    82,
+                    "which:"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-q":{
         "op":"deleted"
@@ -3702,14 +4726,11 @@
                 [
                     "insert",
                     278,
-                    "may be\ninspected."
+                    "may be inspected."
                 ]
             ]
         ],
         "op":"modified"
-    },
-    "1003-4-a-Interp-3-vii":{
-        "op":"deleted"
     },
     "1003-4-a-9-ii-B-Interp":{
         "op":"deleted"
@@ -3717,7 +4738,7 @@
     "1003-4-a-1-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":"Application date\u2014application forwarded by a broker.",
+            "title":"Application date-application forwarded by a broker.",
             "text":"For an application forwarded by a broker, an institution reports the date the application was received by the broker, the date the application was received by the institution, or the date shown on the application. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans).",
             "label":[
                 "1003",
@@ -3735,7 +4756,7 @@
     "1003-4-a-1-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":"Application date\u2014reinstated application. ",
+            "title":"Application date-reinstated application.",
             "text":"If, within the same calendar year, an applicant asks an institution to reinstate a counteroffer that the applicant previously did not accept (or asks the institution to reconsider an application that was denied, withdrawn, or closed for incompleteness), the institution may treat that request as the continuation of the earlier transaction or as a new transaction. If the institution treats the request for reinstatement or reconsideration as a new transaction, it reports the date of the request as the application date.",
             "label":[
                 "1003",
@@ -3756,13 +4777,34 @@
     "1003-4-a-27-Interp":{
         "op":"deleted"
     },
-    "1003-2-c-1-Interp-2":{
-        "op":"deleted"
+    "1003-5-a-Interp-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    10
+                ],
+                [
+                    "insert",
+                    0,
+                    "Institutions submit data to the appropriate Federal agencies in an automated, machine-readable form. The format must conform to that of the HMDA/LAR. An institution should contact the appropriate Federal agency for information regarding procedures and technical specifications for automated data submission; in some cases, agencies also make software available for automated data submission. The data are edited before submission, using the edits included in the agency-supplied software or equivalent edits in software available from vendors or developed in-house."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Submission of data."
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-a-1-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Application date\u2014consistency.",
+            "title":"Application date-consistency.",
             "text":" In reporting the date of application, an institution reports the date the application was received or the date shown on the application. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans).",
             "label":[
                 "1003",
@@ -3791,7 +4833,7 @@
                 [
                     "insert",
                     0,
-                    "The required data are entered in the register for each loan origination, each application acted on, and each loan purchased during the calendar year. The institution should decide on the procedure it wants to follow\u2014for example, whether to begin entering the required data, when an application is received, or to wait until final action is taken (such as when a loan goes to closing or an application is denied)."
+                    "The required data are entered in the register for each loan origination, each application acted on, and each loan purchased during the calendar year. The institution should decide on the procedure it wants to follow-for example, whether to begin entering the required data, when an application is received, or to wait until final action is taken (such as when a loan goes to closing or an application is denied)."
                 ]
             ]
         ],
@@ -3799,45 +4841,34 @@
             [
                 "insert",
                 0,
-                "Procedures for entering data. "
+                "Procedures for entering data."
             ]
         ],
         "op":"modified"
     },
-    "1003-2-ManufacturedHome-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Definition of a manufactured home.",
-            "text":"The definition in \u00a7 1003.2 refers to the Federal building code for factory-built housing established by the Department of Housing and Urban Development (HUD). The HUD code requires generally that housing be essentially ready for occupancy upon leaving the factory and being transported to a building site. Modular homes that meet all of the HUD code standards are included in the definition because they are ready for occupancy upon leaving the factory. Other factory-built homes, such as panelized and pre-cut homes, generally do not meet the HUD code because they require a significant amount of construction on site before they are ready for occupancy. Loans and applications relating to manufactured homes that do not meet the HUD code should not be identified as manufactured housing under HMDA.",
-            "label":[
-                "1003",
-                "2",
-                "ManufacturedHome",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-ManufacturedHome-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Manufactured home.",
-            "text":"",
-            "label":[
-                "1003",
-                "2",
-                "ManufacturedHome",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1003-2-ManufacturedHome-Interp-1"
+    "1003-5-a-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    10
+                ],
+                [
+                    "insert",
+                    0,
+                    "Institutions that report twenty-five or fewer entries on their HMDA/LAR may collect and report the data in paper form. An institution that submits its register in non-automated form sends two copies that are typed or computer printed and must use the format of the HMDA/LAR (but need not use the form itself). Each page must be numbered along with the total number of pages (for example, \u201cPage 1 of 3\u201d)."
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Submission in paper form."
+            ]
+        ],
+        "op":"modified"
     },
     "1003-B-1":{
         "op":"deleted"
@@ -3864,7 +4895,7 @@
             [
                 "insert",
                 0,
-                "Options for collection. "
+                "Options for collection."
             ]
         ],
         "op":"modified"
@@ -3899,49 +4930,46 @@
     "1003-4-a-7-Interp-9":{
         "op":"deleted"
     },
-    "1003-2-Application":{
+    "1003-1-Interp-6":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Application-",
+            "title":"Credit decision of agent is decision of principal.",
+            "text":"If an institution approves loans through the actions of an agent, the institution must report the action taken on the application (loan originated, approved but not accepted, or denied, for example). State law determines whether one party is the agent of another.",
             "label":[
                 "1003",
-                "2",
-                "Application"
+                "1",
+                "Interp",
+                "6"
             ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-Application-1",
-                "1003-2-Application-2"
-            ]
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
-    },
-    "1003-B-h2-p2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    17
-                ],
-                [
-                    "insert",
-                    0,
-                    "![](ER19DE11.019)"
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1003-4-a-35-Interp-3-iii":{
         "op":"deleted"
     },
-    "1003-4-a-33-Interp":{
-        "op":"deleted"
-    },
     "1003-2-c-Interp":{
-        "op":"deleted"
+        "title":[
+            [
+                "delete",
+                0,
+                5
+            ],
+            [
+                [
+                    "delete",
+                    12,
+                    18
+                ],
+                [
+                    "insert",
+                    12,
+                    "office"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-a-12-Interp-4-iii":{
         "op":"deleted"
@@ -3970,23 +4998,6 @@
     "1003-4-a-20":{
         "op":"deleted"
     },
-    "1003-2-Metropolitan-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Use of terms \u201cMetropolitan Statistical Area\u201d and \u201cMetropolitan Division.\u201d The U.S. Office of Management and Budget defines Metropolitan Statistical Areas and Metropolitan Divisions to provide nationally consistent definitions for collecting, tabulating, and publishing Federal statistics for a set of geographic areas. OMB divides every Metropolitan Statistical Area (MSA) with a population of 2.5 million or more into Metropolitan Divisions (MDs); MSAs with populations under 2.5 million population are not so divided. 67 FR 82228 (December 27, 2000). For all purposes under Regulation C, if an MSA is divided by OMB into MDs, the appropriate geographic unit to be used is the MD; if an MSA is not so divided by OMB into MDs, the appropriate geographic unit to be used is the MSA.",
-            "label":[
-                "1003",
-                "2",
-                "Metropolitan",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-4-a-29":{
         "op":"deleted"
     },
@@ -4006,7 +5017,26 @@
         "op":"deleted"
     },
     "1003-2-i-Interp":{
-        "op":"deleted"
+        "title":[
+            [
+                "delete",
+                0,
+                5
+            ],
+            [
+                [
+                    "delete",
+                    10,
+                    26
+                ],
+                [
+                    "insert",
+                    10,
+                    "improvement loan."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-6-b-Interp":{
         "title":[
@@ -4031,38 +5061,6 @@
     "1003-4-a-30-Interp-6":{
         "op":"deleted"
     },
-    "1003-2-HomeImprovementLoan-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) A loan secured by a lien on a dwelling that is for the purpose, in whole or in part, of repairing, rehabilitating, remodeling, or improving a dwelling or the real property on which it is located; and",
-            "label":[
-                "1003",
-                "2",
-                "HomeImprovementLoan",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-HomeImprovementLoan-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) A non-dwelling secured loan that is for the purpose, in whole or in part, of repairing, rehabilitating, remodeling, or improving a dwelling or the real property on which it is located, and that is classified by the financial institution as a home improvement loan.",
-            "label":[
-                "1003",
-                "2",
-                "HomeImprovementLoan",
-                "2"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-4-a-Interp-3-ii":{
         "op":"deleted"
     },
@@ -4070,7 +5068,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Code 1\u2014Preapproval requested",
+            "text":"Code 1-Preapproval requested",
             "label":[
                 "1003",
                 "A",
@@ -4087,7 +5085,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Code 3\u2014Not applicable",
+            "text":"Code 3-Not applicable",
             "label":[
                 "1003",
                 "A",
@@ -4108,7 +5106,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Code 2\u2014Preapproval not requested",
+            "text":"Code 2-Preapproval not requested",
             "label":[
                 "1003",
                 "A",
@@ -4136,40 +5134,20 @@
     "1003-4-a-32-Interp-2-iii":{
         "op":"deleted"
     },
-    "1003-2-BranchOffice-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) Any office of a bank, savings association, or credit union that is approved as a branch by a Federal or state supervisory agency, but excludes free-standing electronic terminals such as automated teller machines; and",
-            "label":[
-                "1003",
-                "2",
-                "BranchOffice",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-BranchOffice-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) Any office of a for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that takes applications from the public for home purchase loans, home improvement loans, or refinancings. A for-profit mortgage-lending institution is also deemed to have a branch office in an MSA or in a Metropolitan Division, if, in the preceding calendar year, it received applications for, originated, or purchased five or more home purchase loans, home improvement loans, or refinancings related to property located in that MSA or Metropolitan Division, respectively.",
-            "label":[
-                "1003",
-                "2",
-                "BranchOffice",
-                "2"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-4-Interp":{
         "title":[
+            [
+                [
+                    "delete",
+                    8,
+                    26
+                ],
+                [
+                    "insert",
+                    8,
+                    "1003.4-Compilation"
+                ]
+            ],
             [
                 [
                     "delete",
@@ -4203,86 +5181,42 @@
     "1003-4-a-30-ii":{
         "op":"deleted"
     },
-    "1003-2-Application-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":"Requests for preapproval.",
-            "text":"To be a covered preapproval program, the written commitment issued under the program must result from a full review of the creditworthiness of the applicant, including such verification of income, resources and other matters as is typically done by the institution as part of its normal credit evaluation program. In addition to conditions involving the identification of a suitable property and verification that no material change has occurred in the applicant's financial condition or creditworthiness, the written commitment may be subject only to other conditions (unrelated to the financial condition or creditworthiness of the applicant) that the lender ordinarily attaches to a traditional home mortgage application approval. These conditions are limited to conditions such as requiring an acceptable title insurance binder or a certificate indicating clear termite inspection, and, in the case where the applicant plans to use the proceeds from the sale of the applicant's present home to purchase a new home, a settlement statement showing adequate proceeds from the sale of the present home.\n            \t",
-            "label":[
-                "1003",
-                "2",
-                "Application",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-Application-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Prequalification",
-            "text":"A prequalification request is a request by a prospective loan applicant (other than a request for preapproval) for a preliminary determination on whether the prospective applicant would likely qualify for credit under an institution's standards, or for a determination on the amount of credit for which the prospective applicant would likely qualify. Some institutions evaluate prequalification requests through a procedure that is separate from the institution's normal loan application process; others use the same process. In either case, Regulation C does not require an institution to report prequalification requests on the HMDA/LAR, even though these requests may constitute applications under Regulation B for purposes of adverse action notices.",
-            "label":[
-                "1003",
-                "2",
-                "Application",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-Application-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Consistency With Regulation B.",
-            "text":"Bureau interpretations that appear in the official staff commentary to Regulation B (Equal Credit Opportunity, 12 CFR part 1002, Supplement I) are generally applicable to the definition of an application under Regulation C. However, under Regulation C the definition of an application does not include prequalification requests.",
-            "label":[
-                "1003",
-                "2",
-                "Application",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-b-Interp":{
+    "1003-4-f-Interp-3":{
         "op":"deleted"
     },
+    "1003-4-f-Interp-2":{
+        "op":"deleted"
+    },
+    "1003-4-f-Interp-1":{
+        "op":"deleted"
+    },
+    "1003-2-b-Interp":{
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    16
+                ],
+                [
+                    "insert",
+                    0,
+                    "Application."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1003-4-a-9-i-Interp":{
+        "op":"deleted"
+    },
+    "1003-2-g-Interp-4-i":{
         "op":"deleted"
     },
     "1003-3-c-3-Interp":{
         "op":"deleted"
     },
-    "1003-2-Dwelling-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Dwelling.",
-            "text":"",
-            "label":[
-                "1003",
-                "2",
-                "Dwelling",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1003-2-Dwelling-Interp-1",
-                "1003-2-Dwelling-Interp-2"
-            ]
-        },
-        "op":"added"
-    },
-    "1003-4-a-35-ii":{
+    "1003-2-o-1":{
         "op":"deleted"
     },
     "1003-4-a-30-Interp-5":{
@@ -4327,13 +5261,10 @@
     "1003-3-c-10-Interp-4-ii":{
         "op":"deleted"
     },
-    "1003-4-f-Interp-2":{
+    "1003-4-a-9-Interp-5":{
         "op":"deleted"
     },
     "1003-4-a-12-Interp-4-ii":{
-        "op":"deleted"
-    },
-    "1003-4-f-Interp-1":{
         "op":"deleted"
     },
     "1003-4-a-10-Interp":{
@@ -4342,9 +5273,16 @@
     "1003-6-b-Interp-1":{
         "title":[
             [
-                "insert",
-                47,
-                " "
+                [
+                    "delete",
+                    10,
+                    27
+                ],
+                [
+                    "insert",
+                    10,
+                    "error-information"
+                ]
             ]
         ],
         "op":"modified"
@@ -4352,43 +5290,8 @@
     "1003-4-a-17-ii-Interp":{
         "op":"deleted"
     },
-    "1003-2-FinancialInstitution-Interp-3-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A covered institution and an exempt institution merge. The exempt institution is the surviving institution, or a new institution is formed. Data collection is required for transactions of the covered institution that take place prior to the merger. Data collection is optional for transactions taking place after the merger date.",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "Interp",
-                "3",
-                "iii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-4-a-12-Interp-4-iv":{
         "op":"deleted"
-    },
-    "1003-2-Application-2-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(ii) Conditions that require that no material change has occurred in the applicant's financial condition or creditworthiness prior to closing; and",
-            "label":[
-                "1003",
-                "2",
-                "Application",
-                "2",
-                "ii"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1003-4-a-12-Interp-5":{
         "op":"deleted"
@@ -4435,41 +5338,310 @@
     "1003-4-a-1-ii-Interp-3":{
         "op":"deleted"
     },
-    "1003-4-a-10-Interp-5":{
-        "node":{
-            "tagged_text":null,
-            "title":"Applicant data\u2014video and other electronic-application processes. ",
-            "text":"An institution that accepts applications through electronic media with a video component treats the applications as taken in person and collects the information about the ethnicity, race, and sex of applicants. An institution that accepts applications through electronic media without a video component (for example, the internet or facsimile) treats the applications as accepted by mail.",
-            "label":[
-                "1003",
-                "4",
-                "a",
-                "10",
-                "Interp",
-                "5"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-4-a-24-Interp-6":{
+        "op":"deleted"
     },
     "1003-4-a-8-i-Interp-9":{
         "op":"deleted"
     },
     "1003-2-i-Interp-1":{
-        "op":"deleted"
-    },
-    "1003-2-i-Interp-2":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    25
+                ],
+                [
+                    "insert",
+                    0,
+                    "An institution has \u201cclassified\u201d"
+                ]
+            ],
+            [
+                "insert",
+                28,
+                "loan that is not secured by a lien on a dwelling as a "
+            ],
+            [
+                "insert",
+                50,
+                "if it has entered the loan on its books "
+            ],
+            [
+                [
+                    "delete",
+                    55,
+                    74
+                ],
+                [
+                    "insert",
+                    55,
+                    "home improvement loan, or has otherwise coded or identified the"
+                ]
+            ],
+            [
+                "insert",
+                80,
+                "as a home improvement loan. For example, an institution that has booked a loan "
+            ],
+            [
+                [
+                    "delete",
+                    83,
+                    134
+                ],
+                [
+                    "insert",
+                    83,
+                    "reported it on a \u201ccall report\u201d as a home improvement loan has classified it as a home improvement loan. An institution may also classify loans as home improvement loans"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    138,
+                    280
+                ],
+                [
+                    "insert",
+                    138,
+                    "other ways (for"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    290,
+                    311
+                ],
+                [
+                    "insert",
+                    290,
+                    "by color-coding"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    317,
+                    1131
+                ],
+                [
+                    "insert",
+                    317,
+                    "files)."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    8
+                ],
+                [
+                    "insert",
+                    0,
+                    "Classification requirement for loans not secured by a lien on a dwelling."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-i-Interp-3":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    38,
+                    48
+                ],
+                [
+                    "insert",
+                    38,
+                    "loan originated outside an institution's residential"
+                ]
+            ],
+            [
+                "insert",
+                58,
+                "lending division (such as a "
+            ],
+            [
+                [
+                    "delete",
+                    63,
+                    65
+                ],
+                [
+                    "insert",
+                    63,
+                    "to improve"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    69,
+                    177
+                ],
+                [
+                    "insert",
+                    69,
+                    "apartment building made through the commercial"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    183,
+                    279
+                ],
+                [
+                    "insert",
+                    183,
+                    "department)."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-i-Interp-4":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    2,
+                    26
+                ],
+                [
+                    "insert",
+                    2,
+                    "loan to improve property used for residential and commercial purposes (for example, a building containing apartment units and retail space) is a home improvement loan if the loan proceeds are used primarily to improve the residential portion of the property. If the loan proceeds are used to improve the entire property (for example, to replace the heating system), the loan is a home improvement loan if the property itself is primarily residential. An institution may use any reasonable standard to determine the primary use of the property, such as by square footage"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    30,
+                    227
+                ],
+                [
+                    "insert",
+                    30,
+                    "by the income generated. An institution may select the standard to apply"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    231,
+                    269
+                ],
+                [
+                    "insert",
+                    231,
+                    "a case-by-case basis. If the loan is unsecured, to report the loan as a"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    292,
+                    500
+                ],
+                [
+                    "insert",
+                    292,
+                    "the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    513,
+                    809
+                ],
+                [
+                    "insert",
+                    513,
+                    "must also have classified it as such."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-i-Interp-5":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    21
+                ],
+                [
+                    "insert",
+                    0,
+                    "If a"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    27,
+                    29
+                ],
+                [
+                    "insert",
+                    27,
+                    "is a home improvement loan as well as a refinancing,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    33,
+                    104
+                ],
+                [
+                    "insert",
+                    33,
+                    "institution reports the loan as"
+                ]
+            ],
+            [
+                "delete",
+                107,
+                142
+            ],
+            [
+                "delete",
+                159,
+                358
+            ],
+            [
+                "delete",
+                363,
+                450
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    16
+                ],
+                [
+                    "insert",
+                    0,
+                    "Multiple-category"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-i-Interp-6":{
         "op":"deleted"
@@ -4477,37 +5649,8 @@
     "1003-4-a-8-i-Interp-1":{
         "op":"deleted"
     },
-    "1003-2-Refinancing-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) For reporting purposes, both the existing obligation and the new obligation are secured by liens on dwellings.",
-            "label":[
-                "1003",
-                "2",
-                "Refinancing",
-                "2"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-Refinancing-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) For coverage purposes, the existing obligation is a home purchase loan (as determined by the lender, for example, by reference to available documents; or as stated by the applicant), and both the existing obligation and the new obligation are secured by first liens on dwellings; and",
-            "label":[
-                "1003",
-                "2",
-                "Refinancing",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-4-a-8-i-Interp-3":{
+        "op":"deleted"
     },
     "1003-4-a-8-i-Interp-2":{
         "op":"deleted"
@@ -4521,29 +5664,29 @@
     "1003-4-a-8-i-Interp-7":{
         "op":"deleted"
     },
-    "1003-4-a-24-Interp-1":{
+    "1003-4-a-8-i-Interp-6":{
         "op":"deleted"
     },
-    "1003-4-a-6-Interp-4":{
-        "op":"deleted"
-    },
-    "1003-2-FinancialInstitution-1-iv-A":{
+    "1003-4-a-10-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(A) The institution is Federally insured or regulated;",
+            "title":"Applicant data-completion by applicant.",
+            "text":"An institution reports the monitoring information as provided by the applicant. For example, if an applicant checks the \u201cAsian\u201d box the institution reports using the \u201cAsian\u201d Code.",
             "label":[
                 "1003",
-                "2",
-                "FinancialInstitution",
-                "1",
-                "iv",
-                "A"
+                "4",
+                "a",
+                "10",
+                "Interp",
+                "1"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1003-4-a-24-Interp-3":{
+        "op":"deleted"
     },
     "1003-4-a-10-iii-Interp-3":{
         "op":"deleted"
@@ -4572,7 +5715,7 @@
     "1003-2-g-Interp-4-ii":{
         "op":"deleted"
     },
-    "1003-4-a-10-iii-Interp-8":{
+    "1003-4-a-35-ii":{
         "op":"deleted"
     },
     "1003-3-c-2-Interp":{
@@ -4629,26 +5772,8 @@
     "1003-2-p-Interp":{
         "op":"deleted"
     },
-    "1003-4-a-8-i-Interp-3":{
-        "op":"deleted"
-    },
     "1003-4-a-8-ii-Interp-5":{
         "op":"deleted"
-    },
-    "1003-2-Dwelling":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Dwelling means a residential structure (whether or not attached to real property) located in a state of the United States of America, the District of Columbia, or the Commonwealth of Puerto Rico. The term includes an individual condominium unit, cooperative unit, or mobile or manufactured home.",
-            "label":[
-                "1003",
-                "2",
-                "Dwelling"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1003-4-a-15-Interp-4":{
         "op":"deleted"
@@ -4697,17 +5822,83 @@
         },
         "op":"added"
     },
-    "1003-2-g-Interp-7":{
-        "op":"deleted"
+    "1003-2-m-Interp":{
+        "title":[
+            [
+                "delete",
+                0,
+                5
+            ],
+            [
+                [
+                    "delete",
+                    30,
+                    42
+                ],
+                [
+                    "insert",
+                    30,
+                    "Areas and"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    56,
+                    70
+                ],
+                [
+                    "insert",
+                    56,
+                    "Divisions"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
-    "1003-4-a-8-ii-Interp-4":{
-        "op":"deleted"
+    "1003-2-g-Interp-3-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Two institutions are not covered by Regulation C because of asset size. The institutions merge. No data collection is required for the year of the merger (even if the merger results in a covered institution).",
+            "label":[
+                "1003",
+                "2",
+                "g",
+                "Interp",
+                "3",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-3-c-13-Interp-1":{
         "op":"deleted"
     },
     "1003-4-a-20-Interp-2":{
         "op":"deleted"
+    },
+    "1003-2-g-2-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(iii) Either:",
+            "label":[
+                "1003",
+                "2",
+                "g",
+                "2",
+                "iii"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1003-2-g-2-iii-A",
+                "1003-2-g-2-iii-B"
+            ]
+        },
+        "op":"added"
     },
     "1003-4-a-10-ii-Interp-3":{
         "op":"deleted"
@@ -4716,12 +5907,28 @@
         "op":"deleted"
     },
     "1003-2-j-Interp":{
-        "op":"deleted"
+        "title":[
+            [
+                "delete",
+                0,
+                5
+            ],
+            [
+                [
+                    "delete",
+                    10,
+                    23
+                ],
+                [
+                    "insert",
+                    10,
+                    "purchase loan."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
-    "1003-2-b-2-i":{
-        "op":"deleted"
-    },
-    "1003-2-c-1-Interp-1":{
+    "1003-4-a-10-ii-Interp-2":{
         "op":"deleted"
     },
     "1003-4-a-3-Interp-2-ii":{
@@ -4748,90 +5955,8 @@
         },
         "op":"added"
     },
-    "1003-2-HomeImprovementLoan-Interp-4":{
-        "node":{
-            "tagged_text":null,
-            "title":"Mixed-use property.",
-            "text":"A loan to improve property used for residential and commercial purposes (for example, a building containing apartment units and retail space) is a home improvement loan if the loan proceeds are used primarily to improve the residential portion of the property. If the loan proceeds are used to improve the entire property (for example, to replace the heating system), the loan is a home improvement loan if the property itself is primarily residential. An institution may use any reasonable standard to determine the primary use of the property, such as by square footage or by the income generated. An institution may select the standard to apply on a case-by-case basis. If the loan is unsecured, to report the loan as a home improvement loan the institution must also have classified it as such.",
-            "label":[
-                "1003",
-                "2",
-                "HomeImprovementLoan",
-                "Interp",
-                "4"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-HomeImprovementLoan-Interp-5":{
-        "node":{
-            "tagged_text":null,
-            "title":"Multiple-category loans.",
-            "text":"If a loan is a home improvement loan as well as a refinancing, an institution reports the loan as a home improvement loan.",
-            "label":[
-                "1003",
-                "2",
-                "HomeImprovementLoan",
-                "Interp",
-                "5"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-HomeImprovementLoan-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Improvements to real property.",
-            "text":"Home improvements include improvements both to a dwelling and to the real property on which the dwelling is located (for example, installation of a swimming pool, construction of a garage, or landscaping).",
-            "label":[
-                "1003",
-                "2",
-                "HomeImprovementLoan",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-HomeImprovementLoan-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":"Commercial and other loans.",
-            "text":"A home improvement loan may include a loan originated outside an institution's residential mortgage lending division (such as a loan to improve an apartment building made through the commercial loan department).",
-            "label":[
-                "1003",
-                "2",
-                "HomeImprovementLoan",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-HomeImprovementLoan-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Classification requirement for loans not secured by a lien on a dwelling.",
-            "text":"An institution has \u201cclassified\u201d a loan that is not secured by a lien on a dwelling as a home improvement loan if it has entered the loan on its books as a home improvement loan, or has otherwise coded or identified the loan as a home improvement loan. For example, an institution that has booked a loan or reported it on a \u201ccall report\u201d as a home improvement loan has classified it as a home improvement loan. An institution may also classify loans as home improvement loans in other ways (for example, by color-coding loan files).",
-            "label":[
-                "1003",
-                "2",
-                "HomeImprovementLoan",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-4-a-19-Interp-1":{
+        "op":"deleted"
     },
     "1003-4-a-9-ii-B-Interp-1":{
         "op":"deleted"
@@ -4871,10 +5996,13 @@
     "1003-4-a-31-Interp":{
         "op":"deleted"
     },
+    "1003-4-a-8-ii-Interp-6":{
+        "op":"deleted"
+    },
     "1003-4-a-9-Interp-4":{
         "op":"deleted"
     },
-    "1003-4-a-9-Interp-5":{
+    "1003-4-a-Interp-3-iii":{
         "op":"deleted"
     },
     "1003-4-a-29-Interp":{
@@ -4963,21 +6091,22 @@
         },
         "op":"added"
     },
-    "1003-1-Interp-6":{
-        "node":{
-            "tagged_text":null,
-            "title":"Credit decision of agent is decision of principal.",
-            "text":"If an institution approves loans through the actions of an agent, the institution must report the action taken on the application (loan originated, approved but not accepted, or denied, for example). State law determines whether one party is the agent of another.",
-            "label":[
-                "1003",
-                "1",
-                "Interp",
-                "6"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-B-h2-p2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    17
+                ],
+                [
+                    "insert",
+                    0,
+                    "![](ER19DE11.019)"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-3-c-12-Interp-1":{
         "op":"deleted"
@@ -5010,23 +6139,6 @@
         },
         "op":"added"
     },
-    "1003-2":{
-        "title":[
-            [
-                [
-                    "delete",
-                    0,
-                    11
-                ],
-                [
-                    "insert",
-                    0,
-                    "\u00a7 1003.2 Definitions."
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1003-4-a-15-Interp":{
         "op":"deleted"
     },
@@ -5045,47 +6157,435 @@
     "1003-4-a-1-i-Interp-5":{
         "op":"deleted"
     },
-    "1003-2-FinancialInstitution-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) A bank, savings association, or credit union that:",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-FinancialInstitution-1-i",
-                "1003-2-FinancialInstitution-1-ii",
-                "1003-2-FinancialInstitution-1-iii",
-                "1003-2-FinancialInstitution-1-iv"
-            ]
-        },
-        "op":"added"
-    },
     "1003-2-g-Interp-6":{
-        "op":"deleted"
+        "text":[
+            [
+                "delete",
+                0,
+                2
+            ],
+            [
+                [
+                    "delete",
+                    10,
+                    16
+                ],
+                [
+                    "insert",
+                    10,
+                    "agencies, state-licensed agencies, state-licensed uninsured branches of foreign banks, commercial lending companies owned"
+                ]
+            ],
+            [
+                "insert",
+                20,
+                "controlled by foreign banks, and entities operating under section 25 or 25A of the Federal Reserve Act, 12 U.S.C. 601 and 611 (Edge Act and agreement corporations) are not \u201cbanks\u201d under the Federal Deposit Insurance Act. These entities are nonetheless covered by HMDA if they meet the tests for "
+            ],
+            [
+                [
+                    "delete",
+                    22,
+                    54
+                ],
+                [
+                    "insert",
+                    22,
+                    "for-profit nondepository mortgage lending institution found in \u00a7 1003.2"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    58,
+                    232
+                ],
+                [
+                    "insert",
+                    58,
+                    "Regulation C."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                9,
+                "and offices "
+            ],
+            [
+                [
+                    "delete",
+                    20,
+                    33
+                ],
+                [
+                    "insert",
+                    20,
+                    "banks-treated"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    37,
+                    43
+                ],
+                [
+                    "insert",
+                    37,
+                    "for-profit mortgage lending institutions."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
-    "1003-2-m-Interp":{
+    "1003-2-g-Interp-7":{
         "op":"deleted"
     },
     "1003-2-g-Interp-4":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    40
+                ],
+                [
+                    "insert",
+                    0,
+                    "HMDA coverage depends in part on whether an institution has originated home purchase loans. To determine whether activities with respect to"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    43,
+                    87
+                ],
+                [
+                    "insert",
+                    43,
+                    "particular loan constitute an origination, institutions should consult, among other parts of"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    92,
+                    105
+                ],
+                [
+                    "insert",
+                    92,
+                    "staff commentary, the discussion"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    109,
+                    286
+                ],
+                [
+                    "insert",
+                    109,
+                    "the broker rule"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    293,
+                    305
+                ],
+                [
+                    "insert",
+                    293,
+                    "\u00a7\u00a7 1003.1(c)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    310,
+                    505
+                ],
+                [
+                    "insert",
+                    310,
+                    "1003.4(a)."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    74
+                ],
+                [
+                    "insert",
+                    0,
+                    "Originations."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-g-Interp-5":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    10
+                ],
+                [
+                    "insert",
+                    0,
+                    "A Federal branch or a state-licensed insured branch of a foreign bank is a \u201cbank\u201d under section 3(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(a)), and is covered by HMDA if it meets the tests for a depository"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    23,
+                    57
+                ],
+                [
+                    "insert",
+                    23,
+                    "found"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    61,
+                    149
+                ],
+                [
+                    "insert",
+                    61,
+                    "\u00a7 1003.2"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    153,
+                    461
+                ],
+                [
+                    "insert",
+                    153,
+                    "Regulation C."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    13
+                ],
+                [
+                    "insert",
+                    0,
+                    "Branches of foreign banks-treated as banks."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-g-Interp-2":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    10
+                ],
+                [
+                    "insert",
+                    0,
+                    "For data collection in 2013, the asset-size exemption threshold is $42 million. Banks, savings associations, and credit unions with assets at or below $42 million as of December 31, 2013, are exempt from collecting data for 2013."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Adjustment of exemption threshold for depository institutions."
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-g-Interp-3":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    5
+                ],
+                [
+                    "insert",
+                    0,
+                    "Several scenarios of data-collection responsibilities for the calendar year of"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    15,
+                    30
+                ],
+                [
+                    "insert",
+                    15,
+                    "are described below. Under all"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    35,
+                    60
+                ],
+                [
+                    "insert",
+                    35,
+                    "scenarios, if the merger results in a covered institution, that"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    73,
+                    136
+                ],
+                [
+                    "insert",
+                    73,
+                    "must begin data collection January 1 of"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    141,
+                    625
+                ],
+                [
+                    "insert",
+                    141,
+                    "following"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    635,
+                    1016
+                ],
+                [
+                    "insert",
+                    635,
+                    "year."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    72
+                ],
+                [
+                    "insert",
+                    0,
+                    "Coverage after a merger."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-2-g-Interp-1":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    3
+                ],
+                [
+                    "insert",
+                    0,
+                    "An institution that met the test for coverage under HMDA in year 1, and then ceases to meet the test (for example, because its assets fall below the threshold on December 31 of year 2) stops collecting HMDA data beginning with year 3. Similarly, an institution that did not meet the coverage test for a given year, and then meets the test in the succeeding year, begins collecting HMDA data in the calendar year following the year in which it meets the test for coverage. For example, a for-profit mortgage lending institution (other than a bank, savings association, or credit union) that, in year 1, falls below the thresholds specified in the"
+                ]
+            ],
+            [
+                "delete",
+                18,
+                342
+            ],
+            [
+                [
+                    "delete",
+                    352,
+                    413
+                ],
+                [
+                    "insert",
+                    352,
+                    "institution in"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    416,
+                    566
+                ],
+                [
+                    "insert",
+                    416,
+                    "1003.2, but meets one of them in year 2, need"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    571,
+                    715
+                ],
+                [
+                    "insert",
+                    571,
+                    "collect data in year 2, but begins collecting data in year 3."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    50
+                ],
+                [
+                    "insert",
+                    0,
+                    "General."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-3-c-12-Interp":{
         "op":"deleted"
@@ -5094,9 +6594,6 @@
         "op":"deleted"
     },
     "1003-3-c-Interp":{
-        "op":"deleted"
-    },
-    "1003-4-a-Interp-2-ii":{
         "op":"deleted"
     },
     "1003-4-a-1-i-B-3":{
@@ -5113,26 +6610,6 @@
     },
     "1003-4-a-1-i-E":{
         "op":"deleted"
-    },
-    "1003-2-FinancialInstitution-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(2) A for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that:",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "2"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-FinancialInstitution-2-i",
-                "1003-2-FinancialInstitution-2-ii",
-                "1003-2-FinancialInstitution-2-iii"
-            ]
-        },
-        "op":"added"
     },
     "1003-4-a-9-i-Interp-2-iii":{
         "op":"deleted"
@@ -5155,32 +6632,11 @@
     "1003-4-a-13-Interp-1":{
         "op":"deleted"
     },
-    "1003-4-a-18-Interp-2":{
-        "op":"deleted"
-    },
     "1003-2-o-Interp-2":{
         "op":"deleted"
     },
     "1003-2-o-Interp-1":{
         "op":"deleted"
-    },
-    "1003-2-FinancialInstitution":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Financial institution means:",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-FinancialInstitution-1",
-                "1003-2-FinancialInstitution-2"
-            ]
-        },
-        "op":"added"
     },
     "1003-2-c-1-Interp":{
         "op":"deleted"
@@ -5191,7 +6647,7 @@
     "1003-4-a-8-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Action taken\u2014counteroffers. ",
+            "title":"Action taken-counteroffers.",
             "text":"If an institution makes a counteroffer to lend on terms different from the applicant's initial request (for example, for a shorter loan maturity or in a different amount) and the applicant does not accept the counteroffer or fails to respond, the institution reports the action taken as a denial on the original terms requested by the applicant.",
             "label":[
                 "1003",
@@ -5209,7 +6665,7 @@
     "1003-4-a-8-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":"Action taken\u2014purchased loans.",
+            "title":"Action taken-purchased loans.",
             "text":"An institution reports the loans that it purchased during the calendar year, and does not report the loans that it declined to purchase.",
             "label":[
                 "1003",
@@ -5227,7 +6683,7 @@
     "1003-4-a-8-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":"Action taken\u2014rescinded transactions. ",
+            "title":"Action taken-rescinded transactions.",
             "text":"If a borrower rescinds a transaction after closing, the institution may report the transaction either as an origination or as an application that was approved but not accepted.",
             "label":[
                 "1003",
@@ -5245,7 +6701,7 @@
     "1003-4-a-8-Interp-5":{
         "node":{
             "tagged_text":null,
-            "title":"Action taken date\u2014approved but not accepted. ",
+            "title":"Action taken date-approved but not accepted.",
             "text":"For a loan approved by an institution but not accepted by the applicant, the institution reports any reasonable date, such as the approval date, the deadline for accepting the offer, or the date the file was closed. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans).",
             "label":[
                 "1003",
@@ -5264,12 +6720,48 @@
         "op":"deleted"
     },
     "1003-2-l-Interp-1":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    20,
+                    29
+                ],
+                [
+                    "insert",
+                    20,
+                    "1003.2"
+                ]
+            ],
+            [
+                "insert",
+                69,
+                " factory-built housing established by the Department of Housing and Urban Development (HUD). The HUD code requires generally that housing be essentially ready for occupancy upon leaving the factory and being transported to a building site. Modular homes that meet all of the HUD code standards are included in the definition because they are ready for occupancy upon leaving the factory. Other factory-built homes, such as panelized and pre-cut homes, generally do not meet the HUD code because they require a significant amount of construction on site before they are ready for occupancy. Loans and applications relating to"
+            ],
+            [
+                "insert",
+                83,
+                "homes that do not meet the HUD code should not be identified as manufactured "
+            ],
+            [
+                [
+                    "delete",
+                    91,
+                    514
+                ],
+                [
+                    "insert",
+                    91,
+                    "under HMDA."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-a-8-Interp-6":{
         "node":{
             "tagged_text":null,
-            "title":"Action taken date\u2014originations.",
+            "title":"Action taken date-originations.",
             "text":"For loan originations, an institution generally reports the settlement or closing date. For loan originations that an institution acquires through a broker, the institution reports either the settlement or closing date, or the date the institution acquired the loan from the broker. If the disbursement of funds takes place on a date later than the settlement or closing date, the institution may use the date of disbursement. For a construction/permanent loan, the institution reports either the settlement or closing date, or the date the loan converts to the permanent financing. Although an institution need not choose the same approach for its entire HMDA submission, it should be generally consistent (such as by routinely using one approach within a particular division of the institution or for a category of loans). Notwithstanding this flexibility regarding the use of the closing date in connection with reporting the date action was taken, the year in which an origination goes to closing is the year in which the institution must report the origination.",
             "label":[
                 "1003",
@@ -5308,8 +6800,22 @@
     "1003-2-g-2-ii-A":{
         "op":"deleted"
     },
-    "1003-4-a-37":{
-        "op":"deleted"
+    "1003-2-c-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Credit union.",
+            "text":"For purposes of Regulation C, a \u201cbranch\u201d of a credit union is any office where member accounts are established or loans are made, whether or not the office has been approved as a branch by a Federal or state agency. (See 12 U.S.C. 1752.)",
+            "label":[
+                "1003",
+                "2",
+                "c",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1003-4-a-30":{
         "op":"deleted"
@@ -5321,9 +6827,6 @@
         "op":"deleted"
     },
     "1003-4-a-33":{
-        "op":"deleted"
-    },
-    "1003-4-a-19-Interp-1":{
         "op":"deleted"
     },
     "1003-4-a-38":{
@@ -5340,57 +6843,6 @@
     },
     "1003-4-a-7-iii":{
         "op":"deleted"
-    },
-    "1003-2-FinancialInstitution-Interp-5":{
-        "node":{
-            "tagged_text":null,
-            "title":"Branches of foreign banks\u2014treated as banks.",
-            "text":"A Federal branch or a state-licensed insured branch of a foreign bank is a \u201cbank\u201d under section 3(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(a)), and is covered by HMDA if it meets the tests for a depository institution found in \u00a7 1003.2 of Regulation C.",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "Interp",
-                "5"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-FinancialInstitution-Interp-4":{
-        "node":{
-            "tagged_text":null,
-            "title":"Originations.",
-            "text":"HMDA coverage depends in part on whether an institution has originated home purchase loans. To determine whether activities with respect to a particular loan constitute an origination, institutions should consult, among other parts of the staff commentary, the discussion of the broker rule under \u00a7\u00a7 1003.1(c) and 1003.4(a).",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "Interp",
-                "4"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-FinancialInstitution-Interp-6":{
-        "node":{
-            "tagged_text":null,
-            "title":"Branches and offices of foreign banks\u2014treated as for-profit mortgage lending institutions.",
-            "text":"Federal agencies, state-licensed agencies, state-licensed uninsured branches of foreign banks, commercial lending companies owned or controlled by foreign banks, and entities operating under section 25 or 25A of the Federal Reserve Act, 12 U.S.C. 601 and 611 (Edge Act and agreement corporations) are not \u201cbanks\u201d under the Federal Deposit Insurance Act. These entities are nonetheless covered by HMDA if they meet the tests for a for-profit nondepository mortgage lending institution found in \u00a7 1003.2 of Regulation C.",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "Interp",
-                "6"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1003-4-a-21-Interp-3":{
         "op":"deleted"
@@ -5486,163 +6938,27 @@
     "1003-4-a-18-Interp-1":{
         "op":"deleted"
     },
-    "1003-2-HomePurchaseLoan-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Multiple properties.",
-            "text":"A home purchase loan includes a loan secured by one dwelling and used to purchase another dwelling.",
-            "label":[
-                "1003",
-                "2",
-                "HomePurchaseLoan",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-3-c-10-Interp-3-ii":{
         "op":"deleted"
-    },
-    "1003-2-HomePurchaseLoan-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Mixed-use property.",
-            "text":"A dwelling-secured loan to purchase property used primarily for residential purposes (for example, an apartment building containing a convenience store) is a home purchase loan. An institution may use any reasonable standard to determine the primary use of the property, such as by square footage or by the income generated. An institution may select the standard to apply on a case-by-case basis.",
-            "label":[
-                "1003",
-                "2",
-                "HomePurchaseLoan",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-4-a-24-Interp-6":{
-        "op":"deleted"
-    },
-    "1003-2-HomePurchaseLoan-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":"Farm loan.",
-            "text":"A loan to purchase property used primarily for agricultural purposes is not a home purchase loan even if the property includes a dwelling. An institution may use any reasonable standard to determine the primary use of the property, such as by reference to the exemption from Regulation X (Real Estate Settlement Procedures, 12 CFR 1024.5(b)(1)) for a loan on property of 25 acres or more. An institution may select the standard to apply on a case-by-case basis.",
-            "label":[
-                "1003",
-                "2",
-                "HomePurchaseLoan",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1003-4-a-10-i-Interp":{
         "op":"deleted"
     },
-    "1003-4-a-5":{
+    "1003-3-c-6-Interp":{
+        "op":"deleted"
+    },
+    "1003-5-b-Interp-1":{
         "text":[
             [
                 [
                     "delete",
-                    4,
-                    11
+                    18,
+                    28
                 ],
                 [
                     "insert",
-                    4,
-                    "The property type to which"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    16,
-                    137
-                ],
-                [
-                    "insert",
-                    16,
-                    "loan"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    141,
-                    161
-                ],
-                [
-                    "insert",
-                    141,
-                    "application relates."
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-4-a-4-Interp":{
-        "op":"deleted"
-    },
-    "1003-4-a-24-Interp":{
-        "op":"deleted"
-    },
-    "1003-5-b-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    11
-                ],
-                [
-                    "insert",
-                    0,
-                    "An"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    37,
-                    81
-                ],
-                [
-                    "insert",
-                    37,
-                    "disclosure statement"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    101,
-                    103
-                ],
-                [
-                    "insert",
-                    101,
-                    "form or, if the person requesting the data agrees, in"
-                ]
-            ]
-        ],
-        "title":[
-            [
-                [
-                    "delete",
-                    0,
-                    17
-                ],
-                [
-                    "insert",
-                    0,
-                    "Format. "
+                    18,
+                    "1003.5,"
                 ]
             ]
         ],
@@ -5651,64 +6967,57 @@
     "1003-4-a-26-Interp-5":{
         "op":"deleted"
     },
-    "1003-2-Refinancing":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Refinancing means a new obligation that satisfies and replaces an existing obligation by the same borrower, in which:",
-            "label":[
-                "1003",
-                "2",
-                "Refinancing"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-Refinancing-1",
-                "1003-2-Refinancing-2"
-            ]
-        },
-        "op":"added"
-    },
-    "1003-2-HomePurchaseLoan":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Home purchase loan means a loan secured by and made for the purpose of purchasing a dwelling.",
-            "label":[
-                "1003",
-                "2",
-                "HomePurchaseLoan"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-3-c-10-Interp":{
         "op":"deleted"
     },
-    "1003-2-Act":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Act means the Home Mortgage Disclosure Act (HMDA) (12 U.S.C. 2801 et seq.), as amended.",
-            "label":[
-                "1003",
-                "2",
-                "Act"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1003-2-m-Interp-1":{
-        "op":"deleted"
+        "text":[
+            [
+                "insert",
+                0,
+                "Use of terms \u201cMetropolitan Statistical Area\u201d and \u201cMetropolitan Division.\u201d "
+            ],
+            [
+                "delete",
+                41,
+                47
+            ],
+            [
+                [
+                    "delete",
+                    86,
+                    109
+                ],
+                [
+                    "insert",
+                    86,
+                    "and Metropolitan"
+                ]
+            ],
+            [
+                "delete",
+                120,
+                126
+            ],
+            [
+                "insert",
+                264,
+                "OMB divides every Metropolitan Statistical Area (MSA) with a population of 2.5 million or more into Metropolitan Divisions (MDs); MSAs with populations under 2.5 million population are not so divided. 67 FR 82228 (December 27, 2000). "
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                84
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-a-8-Interp-4":{
         "node":{
             "tagged_text":null,
-            "title":"Action taken\u2014conditional approvals. ",
+            "title":"Action taken-conditional approvals.",
             "text":"If an institution issues a loan approval subject to the applicant's meeting underwriting conditions (other than customary loan commitment or loan-closing conditions, such as a clear-title requirement or an acceptable property survey) and the applicant does not meet them, the institution reports the action taken as a denial.",
             "label":[
                 "1003",
@@ -5726,7 +7035,7 @@
     "1003-4-a-8-Interp-7":{
         "node":{
             "tagged_text":null,
-            "title":"Action taken\u2014pending applications.",
+            "title":"Action taken-pending applications.",
             "text":"An institution does not report any loan application still pending at the end of the calendar year; it reports that application on its register for the year in which final action is taken.",
             "label":[
                 "1003",
@@ -5917,107 +7226,37 @@
     "1003-5-a-Interp-8":{
         "title":[
             [
-                "insert",
-                41,
-                " "
-            ]
-        ],
-        "op":"modified"
-    },
-    "1003-5-a-Interp-1":{
-        "text":[
-            [
                 [
                     "delete",
-                    0,
-                    10
+                    12,
+                    27
                 ],
                 [
                     "insert",
-                    0,
-                    "Institutions submit data to the appropriate Federal agencies in an automated, machine-readable form. The format must conform to that of the HMDA/LAR. An institution should contact the appropriate Federal agency for information regarding procedures and technical specifications for automated data submission; in some cases, agencies also make software available for automated data submission. The data are edited before submission, using the edits included in the agency-supplied software or equivalent edits in software available from vendors or developed in-house."
+                    12,
+                    "sheet-revisions"
                 ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Submission of data. "
             ]
         ],
         "op":"modified"
     },
-    "1003-2-g-Interp-4-i":{
+    "1003-2-p-Interp-1-iii":{
         "op":"deleted"
     },
-    "1003-2-FinancialInstitution-2-i-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(B) Originated home purchase loans, including refinancings of home purchase loans, that equaled at least $25 million; and",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "2",
-                "i",
-                "B"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-5-b-Interp-3":{
+    "1003-2-c-1-Interp-2":{
         "op":"deleted"
     },
     "1003-4-a-25-Interp":{
         "op":"deleted"
     },
-    "1003-2-FinancialInstitution-2-i-A":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(A) Originated home purchase loans, including refinancings of home purchase loans, that equaled at least 10 percent of its loan-origination volume, measured in dollars; or",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "2",
-                "i",
-                "A"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-5-a-Interp-5":{
-        "title":[
-            [
-                "insert",
-                37,
-                " "
-            ]
-        ],
-        "op":"modified"
+    "1003-2-c-1-Interp-1":{
+        "op":"deleted"
     },
     "1003-4-a-10-i-Interp-2":{
         "op":"deleted"
     },
     "1003-4-a-10-i-Interp-1":{
         "op":"deleted"
-    },
-    "1003-5-a-Interp-6":{
-        "title":[
-            [
-                "insert",
-                13,
-                " "
-            ]
-        ],
-        "op":"modified"
     },
     "1003-A-h2-h3-p17-c":{
         "node":{
@@ -6091,7 +7330,7 @@
     "1003-4-a-28-Interp-2":{
         "op":"deleted"
     },
-    "1003-4-a-8-ii-Interp-6":{
+    "1003-4-a-37":{
         "op":"deleted"
     },
     "1003-4-a-28-Interp-4":{
@@ -6126,7 +7365,7 @@
                 [
                     "insert",
                     5,
-                    "correspondent, the institution reports as originations the loans that it approved and subsequently acquired per a pre-closing arrangement (whether or not they closed in the institution's name). Additionally, the institution reports the data for all applications that did not result in originations\u2014for example, applications that the institution denied or that the applicant withdrew during the calendar year"
+                    "correspondent, the institution reports as originations the loans that it approved and subsequently acquired per a pre-closing arrangement (whether or not they closed in the institution's name). Additionally, the institution reports the data for all applications that did not result in originations-for example, applications that the institution denied or that the applicant withdrew during the calendar year"
                 ]
             ],
             [
@@ -6205,9 +7444,6 @@
         },
         "op":"added"
     },
-    "1003-4-a-24-Interp-3":{
-        "op":"deleted"
-    },
     "1003-4-a-8-ii-Interp-3":{
         "op":"deleted"
     },
@@ -6229,41 +7465,8 @@
     "1003-4-a-8-ii-Interp-2":{
         "op":"deleted"
     },
-    "1003-2-FinancialInstitution-1-iv-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(B) The mortgage loan referred to in paragraph (1)(iii) of this definition was insured, guaranteed, or supplemented by a Federal agency; or",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "1",
-                "iv",
-                "B"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1003-2-FinancialInstitution-1-iv-C":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(C) The mortgage loan referred to in paragraph (1)(iii) of this definition was intended by the institution for sale to Fannie Mae or Freddie Mac; and",
-            "label":[
-                "1003",
-                "2",
-                "FinancialInstitution",
-                "1",
-                "iv",
-                "C"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1003-4-a-24-Interp-1":{
+        "op":"deleted"
     },
     "1003-4-a-24-Interp-2":{
         "op":"deleted"
@@ -6364,7 +7567,14 @@
         "op":"modified"
     },
     "1003-2-h":{
-        "op":"deleted"
+        "text":[
+            [
+                "delete",
+                0,
+                4
+            ]
+        ],
+        "op":"modified"
     },
     "1003-C-1-p2":{
         "op":"deleted"
@@ -6421,7 +7631,21 @@
         "op":"added"
     },
     "1003-2-g-1-iv":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    40,
+                    43
+                ],
+                [
+                    "insert",
+                    40,
+                    "three"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-h1-Interp-1":{
         "text":[
@@ -6464,8 +7688,15 @@
         ],
         "op":"modified"
     },
-    "1003-2-g-1-ii":{
-        "op":"deleted"
+    "1003-2":{
+        "title":[
+            [
+                "insert",
+                0,
+                "\u00a7 1003.2 "
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4":{
         "title":[
@@ -6511,28 +7742,24 @@
     "1003-C":{
         "op":"deleted"
     },
-    "1003-C-1-p19":{
-        "op":"deleted"
-    },
-    "1003-2-Metropolitan":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Metropolitan Statistical Area or MSA and Metropolitan Division or MD-",
-            "label":[
-                "1003",
-                "2",
-                "Metropolitan"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1003-2-Metropolitan-1",
-                "1003-2-Metropolitan-2"
+    "1003-B":{
+        "title":[
+            [
+                [
+                    "delete",
+                    19,
+                    28
+                ],
+                [
+                    "insert",
+                    19,
+                    "1003-Form"
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
-    "1003-4-a-33-i":{
+    "1003-4-a-Interp-4":{
         "op":"deleted"
     },
     "1003-5-c-Interp-3":{
@@ -6602,33 +7829,11 @@
                 [
                     "insert",
                     0,
-                    "Format. "
+                    "Format."
                 ]
             ]
         ],
         "op":"modified"
-    },
-    "1003-2-HomeImprovementLoan-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Home improvement loan.",
-            "text":"",
-            "label":[
-                "1003",
-                "2",
-                "HomeImprovementLoan",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1003-2-HomeImprovementLoan-Interp-1",
-                "1003-2-HomeImprovementLoan-Interp-2",
-                "1003-2-HomeImprovementLoan-Interp-3",
-                "1003-2-HomeImprovementLoan-Interp-4",
-                "1003-2-HomeImprovementLoan-Interp-5"
-            ]
-        },
-        "op":"added"
     },
     "1003-2-n-Interp":{
         "op":"deleted"
@@ -6636,34 +7841,113 @@
     "1003-4-a-17-i-Interp-2":{
         "op":"deleted"
     },
-    "1003-3-c-6-Interp-1":{
-        "op":"deleted"
+    "1003-6-Interp":{
+        "title":[
+            [
+                [
+                    "delete",
+                    8,
+                    26
+                ],
+                [
+                    "insert",
+                    8,
+                    "1003.6-Enforcement"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
-    "1003-2-FinancialInstitution-Interp-1":{
+    "1003-2-g-2-i-B":{
         "node":{
             "tagged_text":null,
-            "title":"General.",
-            "text":"An institution that met the test for coverage under HMDA in year 1, and then ceases to meet the test (for example, because its assets fall below the threshold on December 31 of year 2) stops collecting HMDA data beginning with year 3. Similarly, an institution that did not meet the coverage test for a given year, and then meets the test in the succeeding year, begins collecting HMDA data in the calendar year following the year in which it meets the test for coverage. For example, a for-profit mortgage lending institution (other than a bank, savings association, or credit union) that, in year 1, falls below the thresholds specified in the definition of Financial institution in \u00a7 1003.2, but meets one of them in year 2, need not collect data in year 2, but begins collecting data in year 3.",
+            "title":null,
+            "text":"(B) Originated home purchase loans, including refinancings of home purchase loans, that equaled at least $25 million; and",
             "label":[
                 "1003",
                 "2",
-                "FinancialInstitution",
-                "Interp",
-                "1"
+                "g",
+                "2",
+                "i",
+                "B"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
     },
+    "1003-2-g-2-i-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(A) Originated home purchase loans, including refinancings of home purchase loans, that equaled at least 10 percent of its loan-origination volume, measured in dollars; or",
+            "label":[
+                "1003",
+                "2",
+                "g",
+                "2",
+                "i",
+                "A"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1003-3-c-6-Interp-1":{
+        "op":"deleted"
+    },
     "1003-2-m-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    26,
+                    30
+                ],
+                [
+                    "insert",
+                    26,
+                    "or MD"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    39,
+                    60
+                ],
+                [
+                    "insert",
+                    39,
+                    "metropolitan division"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1003-C-1-p5":{
         "op":"deleted"
     },
     "1003-4-a-3-Interp-2-iii":{
         "op":"deleted"
     },
     "1003-2-m-1":{
-        "op":"deleted"
+        "text":[
+            [
+                [
+                    "delete",
+                    49,
+                    78
+                ],
+                [
+                    "insert",
+                    49,
+                    "metropolitan statistical area"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1003-4-a-9-ii-B":{
         "op":"deleted"

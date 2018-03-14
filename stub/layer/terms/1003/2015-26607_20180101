@@ -1,6 +1,26 @@
 {
-    "1003-1-b-1-i":[],
-    "1003-1-b-2":[],
+    "1003-1-b-1-i":[
+        {
+            "offsets":[
+                [
+                    30,
+                    52
+                ]
+            ],
+            "ref":"financial institution:1003-2-g"
+        }
+    ],
+    "1003-1-b-2":[
+        {
+            "offsets":[
+                [
+                    16,
+                    19
+                ]
+            ],
+            "ref":"act:1003-2-a"
+        }
+    ],
     "1003-1-c":[
         {
             "offsets":[
@@ -44,7 +64,7 @@
                     348
                 ]
             ],
-            "ref":"application:1003-2-b-1"
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -84,7 +104,7 @@
                     54
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -120,7 +140,7 @@
                     204
                 ]
             ],
-            "ref":"application:1003-2-b-1"
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -149,7 +169,7 @@
                     203
                 ]
             ],
-            "ref":"application:1003-2-b-1"
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-2-c-2":[
@@ -164,7 +184,7 @@
                     399
                 ]
             ],
-            "ref":"application:1003-2-b-1"
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -388,6 +408,17 @@
             "ref":"open-end line of credit:1003-2-o"
         }
     ],
+    "1003-2-h":[
+        {
+            "offsets":[
+                [
+                    74,
+                    82
+                ]
+            ],
+            "ref":"dwelling:1003-2-f"
+        }
+    ],
     "1003-2-i":[
         {
             "offsets":[
@@ -560,8 +591,28 @@
             "ref":"dwelling:1003-2-f"
         }
     ],
-    "1003-3-a-1":[],
-    "1003-3-a-2":[],
+    "1003-3-a-1":[
+        {
+            "offsets":[
+                [
+                    40,
+                    61
+                ]
+            ],
+            "ref":"financial institution:1003-2-g"
+        }
+    ],
+    "1003-3-a-2":[
+        {
+            "offsets":[
+                [
+                    49,
+                    70
+                ]
+            ],
+            "ref":"financial institution:1003-2-g"
+        }
+    ],
     "1003-3-c-1":[
         {
             "offsets":[
@@ -706,6 +757,15 @@
                 ]
             ],
             "ref":"open-end line of credit:1003-2-o"
+        },
+        {
+            "offsets":[
+                [
+                    65,
+                    76
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-3-c-8":[
@@ -791,7 +851,7 @@
                     260
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -882,6 +942,15 @@
         {
             "offsets":[
                 [
+                    85,
+                    97
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     102,
                     115
                 ],
@@ -903,7 +972,7 @@
                     521
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         }
     ],
     "1003-4-a-1-i":[
@@ -923,6 +992,23 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    62,
+                    73
+                ],
+                [
+                    136,
+                    147
+                ],
+                [
+                    193,
+                    204
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -954,6 +1040,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    88,
+                    99
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-1-i-B-2":[
@@ -1003,6 +1098,19 @@
         {
             "offsets":[
                 [
+                    11,
+                    22
+                ],
+                [
+                    333,
+                    344
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     230,
                     251
                 ]
@@ -1019,6 +1127,19 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    54,
+                    65
+                ],
+                [
+                    104,
+                    115
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-2":[
@@ -1030,6 +1151,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    54,
+                    65
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-3":[
@@ -1045,11 +1175,20 @@
         {
             "offsets":[
                 [
+                    40,
+                    51
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     62,
                     80
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -1086,6 +1225,15 @@
         {
             "offsets":[
                 [
+                    16,
+                    27
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     31,
                     43
                 ]
@@ -1099,7 +1247,7 @@
                     104
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         }
     ],
     "1003-4-a-5":[
@@ -1233,6 +1381,15 @@
         {
             "offsets":[
                 [
+                    15,
+                    26
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     33,
                     45
                 ],
@@ -1252,7 +1409,7 @@
                     96
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         }
     ],
     "1003-4-a-8-ii":[
@@ -1279,6 +1436,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    113,
+                    124
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-9-ii":[
@@ -1328,6 +1494,24 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    34,
+                    46
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    286,
+                    297
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-11":[
@@ -1443,6 +1627,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    74,
+                    85
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-17":[
@@ -1523,6 +1716,15 @@
         {
             "offsets":[
                 [
+                    50,
+                    61
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     73,
                     85
                 ]
@@ -1543,6 +1745,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    26,
+                    38
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -1576,7 +1787,17 @@
             "ref":"covered loan:1003-2-e"
         }
     ],
-    "1003-4-a-26":[],
+    "1003-4-a-26":[
+        {
+            "offsets":[
+                [
+                    74,
+                    85
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
     "1003-4-a-27-iii":[
         {
             "offsets":[
@@ -1601,6 +1822,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    79,
+                    90
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-29":[
@@ -1647,6 +1877,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    197,
+                    208
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-30":[
@@ -1678,8 +1917,28 @@
             "ref":"multifamily dwelling:1003-2-n"
         }
     ],
-    "1003-4-a-30-i":[],
-    "1003-4-a-30-ii":[],
+    "1003-4-a-30-i":[
+        {
+            "offsets":[
+                [
+                    74,
+                    85
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-4-a-30-ii":[
+        {
+            "offsets":[
+                [
+                    34,
+                    45
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
     "1003-4-a-31":[
         {
             "offsets":[
@@ -1702,6 +1961,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    117,
+                    128
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-32":[
@@ -1717,6 +1985,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    69,
+                    80
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -1750,6 +2027,19 @@
         {
             "offsets":[
                 [
+                    77,
+                    88
+                ],
+                [
+                    120,
+                    131
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     104,
                     116
                 ]
@@ -1758,6 +2048,15 @@
         }
     ],
     "1003-4-a-33-i":[
+        {
+            "offsets":[
+                [
+                    52,
+                    63
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -1790,6 +2089,15 @@
         {
             "offsets":[
                 [
+                    84,
+                    95
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     138,
                     159
                 ]
@@ -1806,6 +2114,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    27,
+                    38
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-35-i":[
@@ -1826,6 +2143,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    136,
+                    147
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-35-ii":[
@@ -1852,6 +2178,15 @@
         {
             "offsets":[
                 [
+                    41,
+                    52
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     63,
                     79
                 ]
@@ -1868,6 +2203,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    41,
+                    52
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -1892,6 +2236,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    41,
+                    52
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-b-1":[
@@ -1994,10 +2347,48 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    399,
+                    410
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
-    "1003-5-a-1":[],
-    "1003-5-a-2":[],
+    "1003-5-a-1":[
+        {
+            "offsets":[
+                [
+                    83,
+                    104
+                ]
+            ],
+            "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    134,
+                    145
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-5-a-2":[
+        {
+            "offsets":[
+                [
+                    81,
+                    92
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
     "1003-5-b-1":[
         {
             "offsets":[
@@ -2153,7 +2544,44 @@
             "ref":"loan/application register:1003-2-k"
         }
     ],
-    "1003-5-e":[],
+    "1003-5-e":[
+        {
+            "offsets":[
+                [
+                    29,
+                    50
+                ]
+            ],
+            "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    163,
+                    176
+                ]
+            ],
+            "ref":"branch office:1003-2-c"
+        },
+        {
+            "offsets":[
+                [
+                    191,
+                    194
+                ]
+            ],
+            "ref":"metropolitan statistical area:1003-2-m-1"
+        },
+        {
+            "offsets":[
+                [
+                    199,
+                    220
+                ]
+            ],
+            "ref":"metropolitan division:1003-2-m-2"
+        }
+    ],
     "1003-5-f":[
         {
             "offsets":[
@@ -2183,10 +2611,67 @@
             "ref":"metropolitan division:1003-2-m-2"
         }
     ],
-    "1003-6-a":[],
-    "1003-6-b-1":[],
-    "1003-6-b-2":[],
-    "1003-6-b-3":[],
+    "1003-6-a":[
+        {
+            "offsets":[
+                [
+                    50,
+                    53
+                ],
+                [
+                    140,
+                    143
+                ],
+                [
+                    282,
+                    285
+                ]
+            ],
+            "ref":"act:1003-2-a"
+        }
+    ],
+    "1003-6-b-1":[
+        {
+            "offsets":[
+                [
+                    75,
+                    78
+                ]
+            ],
+            "ref":"act:1003-2-a"
+        }
+    ],
+    "1003-6-b-2":[
+        {
+            "offsets":[
+                [
+                    108,
+                    111
+                ]
+            ],
+            "ref":"act:1003-2-a"
+        }
+    ],
+    "1003-6-b-3":[
+        {
+            "offsets":[
+                [
+                    293,
+                    296
+                ]
+            ],
+            "ref":"act:1003-2-a"
+        },
+        {
+            "offsets":[
+                [
+                    407,
+                    418
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
     "1003-A-h1-p2":[
         {
             "offsets":[
@@ -2198,53 +2683,851 @@
             "ref":"loan/application register:1003-2-k"
         }
     ],
-    "1003-A-h2-h3-1":[],
-    "1003-A-h2-h3-2":[],
-    "1003-A-h2-h3-3":[],
-    "1003-A-h2-h3-p6":[],
-    "1003-A-h2-h3-p8":[],
-    "1003-A-h2-h3-p8-b":[],
-    "1003-A-h2-h3-5":[],
-    "1003-A-h2-h3-p11":[],
-    "1003-A-h2-h3-p11-a":[],
-    "1003-A-h2-h3-6":[],
-    "1003-A-h2-h3-p12":[],
-    "1003-A-h2-h3-p13":[],
-    "1003-A-h2-h3-p14-a":[],
-    "1003-A-h2-h3-p14-c":[],
-    "1003-A-h2-h3-7":[],
-    "1003-A-h2-h3-7-a":[],
-    "1003-A-h2-h3-7-b":[],
-    "1003-A-h2-h3-7-c":[],
-    "1003-A-h2-h3-7-e":[],
-    "1003-A-h2-h3-7-f":[],
-    "1003-A-h2-h3-8":[],
-    "1003-A-h2-h4-1":[],
-    "1003-A-h2-h4-p19":[],
-    "1003-A-h2-h4-p20":[],
-    "1003-A-h2-h4-p21":[],
-    "1003-A-h2-h4-p25-c":[],
-    "1003-A-h2-h4-p25-d":[],
-    "1003-A-h2-h4-2-c":[],
-    "1003-A-h2-h4-2-d":[],
-    "1003-A-h2-h5-p26":[],
-    "1003-A-h2-h5-p26-1":[],
-    "1003-A-h2-h5-p26-5":[],
-    "1003-A-h2-h5-p26-6":[],
-    "1003-A-h2-h5-p26-7":[],
-    "1003-A-h2-h6-p27-1":[],
-    "1003-A-h2-h6-p27-2":[],
-    "1003-A-h2-h6-p27-p30":[],
-    "1003-A-h2-h6-p27-p38":[],
-    "1003-A-h2-h6-p27-p40-c":[],
-    "1003-A-h2-h6-p27-p43":[],
-    "1003-A-h2-h6-p27-p45-b":[],
-    "1003-A-h2-h6-p27-6-b":[],
-    "1003-A-h2-h7-p56-a":[],
-    "1003-A-h2-h8-1":[],
-    "1003-A-h2-h8-p63":[],
-    "1003-A-h2-h8-2-f":[],
+    "1003-A-h2-h3-1":[
+        {
+            "offsets":[
+                [
+                    3,
+                    14
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    111,
+                    122
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h3-2":[
+        {
+            "offsets":[
+                [
+                    8,
+                    19
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    54,
+                    65
+                ],
+                [
+                    183,
+                    194
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h3-3":[
+        {
+            "offsets":[
+                [
+                    19,
+                    30
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    61,
+                    72
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h3-p6":[
+        {
+            "offsets":[
+                [
+                    26,
+                    34
+                ]
+            ],
+            "ref":"dwelling:1003-2-f"
+        }
+    ],
+    "1003-A-h2-h3-p8":[
+        {
+            "offsets":[
+                [
+                    19,
+                    27
+                ]
+            ],
+            "ref":"dwelling:1003-2-f"
+        }
+    ],
+    "1003-A-h2-h3-p8-b":[
+        {
+            "offsets":[
+                [
+                    88,
+                    99
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    113,
+                    130
+                ]
+            ],
+            "ref":"manufactured home:1003-2-l"
+        }
+    ],
+    "1003-A-h2-h3-5":[
+        {
+            "offsets":[
+                [
+                    22,
+                    33
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    71,
+                    82
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h3-p11":[
+        {
+            "offsets":[
+                [
+                    7,
+                    18
+                ]
+            ],
+            "ref":"refinancing:1003-2-p"
+        }
+    ],
+    "1003-A-h2-h3-p11-a":[
+        {
+            "offsets":[
+                [
+                    19,
+                    30
+                ]
+            ],
+            "ref":"refinancing:1003-2-p"
+        }
+    ],
+    "1003-A-h2-h3-6":[
+        {
+            "offsets":[
+                [
+                    76,
+                    87
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h3-p12":[
+        {
+            "offsets":[
+                [
+                    37,
+                    45
+                ]
+            ],
+            "ref":"dwelling:1003-2-f"
+        }
+    ],
+    "1003-A-h2-h3-p13":[
+        {
+            "offsets":[
+                [
+                    41,
+                    49
+                ]
+            ],
+            "ref":"dwelling:1003-2-f"
+        }
+    ],
+    "1003-A-h2-h3-p14-a":[
+        {
+            "offsets":[
+                [
+                    64,
+                    75
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h3-p14-c":[
+        {
+            "offsets":[
+                [
+                    73,
+                    81
+                ]
+            ],
+            "ref":"dwelling:1003-2-f"
+        },
+        {
+            "offsets":[
+                [
+                    104,
+                    107
+                ],
+                [
+                    129,
+                    132
+                ]
+            ],
+            "ref":"metropolitan statistical area:1003-2-m-1"
+        },
+        {
+            "offsets":[
+                [
+                    139,
+                    141
+                ]
+            ],
+            "ref":"metropolitan division:1003-2-m-2"
+        },
+        {
+            "offsets":[
+                [
+                    193,
+                    206
+                ]
+            ],
+            "ref":"branch office:1003-2-c"
+        }
+    ],
+    "1003-A-h2-h3-7":[
+        {
+            "offsets":[
+                [
+                    48,
+                    59
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h3-7-a":[
+        {
+            "offsets":[
+                [
+                    9,
+                    27
+                ]
+            ],
+            "ref":"home purchase loan:1003-2-j"
+        }
+    ],
+    "1003-A-h2-h3-7-b":[
+        {
+            "offsets":[
+                [
+                    9,
+                    27
+                ]
+            ],
+            "ref":"home purchase loan:1003-2-j"
+        }
+    ],
+    "1003-A-h2-h3-7-c":[
+        {
+            "offsets":[
+                [
+                    9,
+                    30
+                ]
+            ],
+            "ref":"home improvement loan:1003-2-i"
+        }
+    ],
+    "1003-A-h2-h3-7-e":[
+        {
+            "offsets":[
+                [
+                    9,
+                    20
+                ],
+                [
+                    55,
+                    66
+                ]
+            ],
+            "ref":"refinancing:1003-2-p"
+        }
+    ],
+    "1003-A-h2-h3-7-f":[
+        {
+            "offsets":[
+                [
+                    14,
+                    25
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h3-8":[
+        {
+            "offsets":[
+                [
+                    73,
+                    84
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    133,
+                    151
+                ]
+            ],
+            "ref":"home purchase loan:1003-2-j"
+        }
+    ],
+    "1003-A-h2-h4-1":[
+        {
+            "offsets":[
+                [
+                    60,
+                    71
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h4-p19":[
+        {
+            "offsets":[
+                [
+                    7,
+                    18
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h4-p20":[
+        {
+            "offsets":[
+                [
+                    7,
+                    18
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h4-p21":[
+        {
+            "offsets":[
+                [
+                    7,
+                    18
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h4-p25-c":[
+        {
+            "offsets":[
+                [
+                    23,
+                    34
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h4-p25-d":[
+        {
+            "offsets":[
+                [
+                    28,
+                    39
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h4-2-c":[
+        {
+            "offsets":[
+                [
+                    7,
+                    19
+                ],
+                [
+                    45,
+                    57
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h4-2-d":[
+        {
+            "offsets":[
+                [
+                    7,
+                    19
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h5-p26":[
+        {
+            "offsets":[
+                [
+                    82,
+                    85
+                ],
+                [
+                    104,
+                    107
+                ]
+            ],
+            "ref":"metropolitan statistical area:1003-2-m-1"
+        },
+        {
+            "offsets":[
+                [
+                    94,
+                    96
+                ]
+            ],
+            "ref":"metropolitan division:1003-2-m-2"
+        },
+        {
+            "offsets":[
+                [
+                    124,
+                    127
+                ]
+            ],
+            "ref":"metropolitan division:1003-2-m-2"
+        }
+    ],
+    "1003-A-h2-h5-p26-1":[
+        {
+            "offsets":[
+                [
+                    3,
+                    6
+                ],
+                [
+                    78,
+                    81
+                ],
+                [
+                    107,
+                    110
+                ],
+                [
+                    132,
+                    135
+                ],
+                [
+                    289,
+                    292
+                ]
+            ],
+            "ref":"metropolitan statistical area:1003-2-m-1"
+        },
+        {
+            "offsets":[
+                [
+                    10,
+                    31
+                ]
+            ],
+            "ref":"metropolitan division:1003-2-m-2"
+        },
+        {
+            "offsets":[
+                [
+                    55,
+                    66
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    90,
+                    92
+                ],
+                [
+                    140,
+                    142
+                ]
+            ],
+            "ref":"metropolitan division:1003-2-m-2"
+        },
+        {
+            "offsets":[
+                [
+                    127,
+                    130
+                ],
+                [
+                    298,
+                    301
+                ]
+            ],
+            "ref":"metropolitan division:1003-2-m-2"
+        }
+    ],
+    "1003-A-h2-h5-p26-5":[
+        {
+            "offsets":[
+                [
+                    28,
+                    31
+                ],
+                [
+                    102,
+                    105
+                ],
+                [
+                    207,
+                    210
+                ],
+                [
+                    327,
+                    330
+                ],
+                [
+                    432,
+                    435
+                ],
+                [
+                    481,
+                    484
+                ]
+            ],
+            "ref":"metropolitan statistical area:1003-2-m-1"
+        },
+        {
+            "offsets":[
+                [
+                    36,
+                    58
+                ]
+            ],
+            "ref":"metropolitan division:1003-2-m-2"
+        },
+        {
+            "offsets":[
+                [
+                    111,
+                    114
+                ]
+            ],
+            "ref":"metropolitan division:1003-2-m-2"
+        },
+        {
+            "offsets":[
+                [
+                    153,
+                    166
+                ]
+            ],
+            "ref":"branch office:1003-2-c"
+        },
+        {
+            "offsets":[
+                [
+                    214,
+                    216
+                ],
+                [
+                    334,
+                    336
+                ],
+                [
+                    439,
+                    441
+                ],
+                [
+                    488,
+                    490
+                ]
+            ],
+            "ref":"metropolitan division:1003-2-m-2"
+        }
+    ],
+    "1003-A-h2-h5-p26-6":[
+        {
+            "offsets":[
+                [
+                    390,
+                    393
+                ],
+                [
+                    470,
+                    473
+                ]
+            ],
+            "ref":"metropolitan statistical area:1003-2-m-1"
+        },
+        {
+            "offsets":[
+                [
+                    398,
+                    401
+                ]
+            ],
+            "ref":"metropolitan division:1003-2-m-2"
+        },
+        {
+            "offsets":[
+                [
+                    430,
+                    443
+                ]
+            ],
+            "ref":"branch office:1003-2-c"
+        }
+    ],
+    "1003-A-h2-h5-p26-7":[
+        {
+            "offsets":[
+                [
+                    76,
+                    87
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h6-p27-1":[
+        {
+            "offsets":[
+                [
+                    86,
+                    98
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h6-p27-2":[
+        {
+            "offsets":[
+                [
+                    32,
+                    44
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    55,
+                    67
+                ],
+                [
+                    79,
+                    91
+                ],
+                [
+                    233,
+                    245
+                ],
+                [
+                    391,
+                    403
+                ],
+                [
+                    801,
+                    813
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    473,
+                    484
+                ],
+                [
+                    622,
+                    633
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h6-p27-p30":[
+        {
+            "offsets":[
+                [
+                    77,
+                    88
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h6-p27-p38":[
+        {
+            "offsets":[
+                [
+                    77,
+                    88
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h6-p27-p40-c":[
+        {
+            "offsets":[
+                [
+                    122,
+                    133
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h6-p27-p43":[
+        {
+            "offsets":[
+                [
+                    77,
+                    88
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h6-p27-p45-b":[
+        {
+            "offsets":[
+                [
+                    122,
+                    133
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h6-p27-6-b":[
+        {
+            "offsets":[
+                [
+                    28,
+                    37
+                ]
+            ],
+            "ref":"dwelling:1003-2-f"
+        }
+    ],
+    "1003-A-h2-h7-p56-a":[
+        {
+            "offsets":[
+                [
+                    18,
+                    30
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h8-1":[
+        {
+            "offsets":[
+                [
+                    163,
+                    174
+                ],
+                [
+                    240,
+                    251
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h8-p63":[
+        {
+            "offsets":[
+                [
+                    14,
+                    25
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h8-2-f":[
+        {
+            "offsets":[
+                [
+                    22,
+                    33
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
     "1003-A-h2-h9-1-a":[
+        {
+            "offsets":[
+                [
+                    31,
+                    42
+                ]
+            ],
+            "ref":"refinancing:1003-2-p"
+        },
+        {
+            "offsets":[
+                [
+                    49,
+                    57
+                ]
+            ],
+            "ref":"dwelling:1003-2-f"
+        },
+        {
+            "offsets":[
+                [
+                    66,
+                    87
+                ]
+            ],
+            "ref":"home improvement loan:1003-2-i"
+        },
         {
             "offsets":[
                 [
@@ -2293,8 +3576,37 @@
             "ref":"average prime offer rate:1003-4-a-12-ii"
         }
     ],
-    "1003-A-h2-h9-1-b":[],
-    "1003-A-h2-h9-1-c":[],
+    "1003-A-h2-h9-1-b":[
+        {
+            "offsets":[
+                [
+                    55,
+                    76
+                ]
+            ],
+            "ref":"home improvement loan:1003-2-i"
+        },
+        {
+            "offsets":[
+                [
+                    89,
+                    97
+                ]
+            ],
+            "ref":"dwelling:1003-2-f"
+        }
+    ],
+    "1003-A-h2-h9-1-c":[
+        {
+            "offsets":[
+                [
+                    32,
+                    43
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
     "1003-A-h2-h9-1-d":[
         {
             "offsets":[
@@ -2326,11 +3638,54 @@
                 ]
             ],
             "ref":"average prime offer rate:1003-4-a-12-ii"
+        },
+        {
+            "offsets":[
+                [
+                    192,
+                    213
+                ]
+            ],
+            "ref":"financial institution:1003-2-g"
         }
     ],
-    "1003-A-h2-h9-3-b":[],
-    "1003-A-h2-h10-p66":[],
-    "1003-A-h2-h10-p70-a":[],
+    "1003-A-h2-h9-3-b":[
+        {
+            "offsets":[
+                [
+                    207,
+                    218
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h10-p66":[
+        {
+            "offsets":[
+                [
+                    61,
+                    73
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-A-h2-h10-p70-a":[
+        {
+            "offsets":[
+                [
+                    70,
+                    82
+                ],
+                [
+                    121,
+                    133
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
     "1003-A-h11-A":[
         {
             "offsets":[
@@ -2381,10 +3736,79 @@
             "ref":"financial institution:1003-2-g"
         }
     ],
-    "1003-B-1":[],
-    "1003-B-1-1":[],
-    "1003-B-1-2":[],
-    "1003-B-1-3":[],
+    "1003-B-1":[
+        {
+            "offsets":[
+                [
+                    92,
+                    103
+                ],
+                [
+                    151,
+                    162
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-B-1-1":[
+        {
+            "offsets":[
+                [
+                    117,
+                    128
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    195,
+                    207
+                ],
+                [
+                    345,
+                    357
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-B-1-2":[
+        {
+            "offsets":[
+                [
+                    297,
+                    308
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-B-1-3":[
+        {
+            "offsets":[
+                [
+                    21,
+                    32
+                ],
+                [
+                    101,
+                    112
+                ],
+                [
+                    150,
+                    161
+                ],
+                [
+                    258,
+                    269
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
     "1003-B-1-4":[
         {
             "offsets":[
@@ -2394,9 +3818,28 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    61,
+                    72
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
-    "1003-B-1-5":[],
+    "1003-B-1-5":[
+        {
+            "offsets":[
+                [
+                    496,
+                    507
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
     "1003-B-1-6":[
         {
             "offsets":[
@@ -2408,10 +3851,74 @@
             "ref":"covered loan:1003-2-e"
         }
     ],
-    "1003-B-1-10":[],
-    "1003-B-1-11":[],
-    "1003-B-1-12":[],
-    "1003-B-1-13":[],
+    "1003-B-1-10":[
+        {
+            "offsets":[
+                [
+                    68,
+                    79
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-B-1-11":[
+        {
+            "offsets":[
+                [
+                    127,
+                    138
+                ],
+                [
+                    302,
+                    313
+                ],
+                [
+                    429,
+                    440
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-B-1-12":[
+        {
+            "offsets":[
+                [
+                    32,
+                    43
+                ],
+                [
+                    131,
+                    142
+                ],
+                [
+                    231,
+                    242
+                ],
+                [
+                    303,
+                    314
+                ],
+                [
+                    577,
+                    588
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
+    "1003-B-1-13":[
+        {
+            "offsets":[
+                [
+                    338,
+                    349
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
     "1003-C-1-p3":[
         {
             "offsets":[
@@ -2421,6 +3928,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    224,
+                    235
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-C-1-p11":[
@@ -2478,7 +3994,21 @@
             "ref":"covered loan:1003-2-e"
         }
     ],
-    "1003-2-b-Interp-1":[],
+    "1003-2-b-Interp-1":[
+        {
+            "offsets":[
+                [
+                    188,
+                    199
+                ],
+                [
+                    269,
+                    280
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
     "1003-2-b-Interp-2":[
         {
             "offsets":[
@@ -2492,14 +4022,41 @@
         {
             "offsets":[
                 [
+                    481,
+                    492
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     635,
                     660
                 ]
             ],
             "ref":"loan/application register:1003-2-k"
+        },
+        {
+            "offsets":[
+                [
+                    704,
+                    716
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-2-b-Interp-3":[
+        {
+            "offsets":[
+                [
+                    743,
+                    754
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -2643,7 +4200,7 @@
                     414
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -2885,6 +4442,23 @@
         {
             "offsets":[
                 [
+                    181,
+                    193
+                ],
+                [
+                    309,
+                    321
+                ],
+                [
+                    541,
+                    553
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     438,
                     451
                 ],
@@ -2909,6 +4483,19 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    205,
+                    217
+                ],
+                [
+                    385,
+                    397
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -3269,6 +4856,19 @@
                 ]
             ],
             "ref":"open-end line of credit:1003-2-o"
+        },
+        {
+            "offsets":[
+                [
+                    87,
+                    98
+                ],
+                [
+                    317,
+                    328
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-2-j-Interp-1":[
@@ -3283,7 +4883,7 @@
                     338
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -3346,7 +4946,7 @@
                     20
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -3379,7 +4979,7 @@
                     162
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         }
     ],
     "1003-2-j-Interp-4":[
@@ -3390,7 +4990,7 @@
                     301
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         }
     ],
     "1003-2-j-Interp-5":[
@@ -3409,7 +5009,7 @@
                     1007
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -3475,7 +5075,7 @@
                     1248
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -3517,7 +5117,7 @@
                     160
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -3618,7 +5218,7 @@
             "offsets":[
                 [
                     97,
-                    125
+                    119
                 ]
             ],
             "ref":"metropolitan division:1003-2-m-2"
@@ -3651,7 +5251,7 @@
                     436
                 ]
             ],
-            "ref":"metropolitan statistical area:1003-2-m-1"
+            "ref":"metropolitan division:1003-2-m-2"
         },
         {
             "offsets":[
@@ -4158,6 +5758,15 @@
         {
             "offsets":[
                 [
+                    412,
+                    423
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     592,
                     600
                 ],
@@ -4396,7 +6005,7 @@
                     458
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -4471,7 +6080,7 @@
                     310
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -4644,7 +6253,7 @@
                     279
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -4803,6 +6412,19 @@
         {
             "offsets":[
                 [
+                    641,
+                    653
+                ],
+                [
+                    864,
+                    876
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     671,
                     684
                 ]
@@ -4870,6 +6492,19 @@
         {
             "offsets":[
                 [
+                    641,
+                    653
+                ],
+                [
+                    863,
+                    875
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     671,
                     684
                 ]
@@ -4886,6 +6521,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    84,
+                    96
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -4947,6 +6591,24 @@
         {
             "offsets":[
                 [
+                    41,
+                    53
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    140,
+                    151
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     331,
                     356
                 ]
@@ -4960,7 +6622,7 @@
                     580
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         }
     ],
     "1003-4-a-Interp-1-iii":[
@@ -5013,6 +6675,23 @@
         {
             "offsets":[
                 [
+                    48,
+                    59
+                ],
+                [
+                    132,
+                    143
+                ],
+                [
+                    196,
+                    207
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     67,
                     92
                 ]
@@ -5033,6 +6712,19 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    92,
+                    104
+                ],
+                [
+                    254,
+                    266
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -5099,9 +6791,59 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    237,
+                    248
+                ],
+                [
+                    384,
+                    395
+                ],
+                [
+                    483,
+                    494
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-Interp-2-ii":[
+        {
+            "offsets":[
+                [
+                    18,
+                    29
+                ],
+                [
+                    147,
+                    158
+                ],
+                [
+                    195,
+                    206
+                ],
+                [
+                    228,
+                    239
+                ],
+                [
+                    249,
+                    260
+                ],
+                [
+                    371,
+                    382
+                ],
+                [
+                    545,
+                    556
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -5130,6 +6872,15 @@
         }
     ],
     "1003-4-a-Interp-3":[
+        {
+            "offsets":[
+                [
+                    75,
+                    86
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -5211,6 +6962,23 @@
         {
             "offsets":[
                 [
+                    36,
+                    47
+                ],
+                [
+                    104,
+                    115
+                ],
+                [
+                    181,
+                    192
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     54,
                     66
                 ]
@@ -5275,6 +7043,51 @@
         {
             "offsets":[
                 [
+                    36,
+                    47
+                ],
+                [
+                    104,
+                    115
+                ],
+                [
+                    181,
+                    192
+                ],
+                [
+                    236,
+                    247
+                ],
+                [
+                    324,
+                    335
+                ],
+                [
+                    504,
+                    515
+                ],
+                [
+                    573,
+                    584
+                ],
+                [
+                    616,
+                    627
+                ],
+                [
+                    738,
+                    749
+                ],
+                [
+                    812,
+                    823
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     54,
                     66
                 ]
@@ -5319,6 +7132,23 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    36,
+                    47
+                ],
+                [
+                    102,
+                    113
+                ],
+                [
+                    350,
+                    361
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -5379,6 +7209,27 @@
         {
             "offsets":[
                 [
+                    36,
+                    47
+                ],
+                [
+                    196,
+                    207
+                ],
+                [
+                    469,
+                    480
+                ],
+                [
+                    526,
+                    537
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     54,
                     66
                 ]
@@ -5419,6 +7270,35 @@
         {
             "offsets":[
                 [
+                    36,
+                    47
+                ],
+                [
+                    263,
+                    274
+                ],
+                [
+                    431,
+                    442
+                ],
+                [
+                    712,
+                    723
+                ],
+                [
+                    838,
+                    849
+                ],
+                [
+                    973,
+                    984
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     90,
                     102
                 ]
@@ -5448,6 +7328,19 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    68,
+                    79
+                ],
+                [
+                    257,
+                    268
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-Interp-3-vii":[
@@ -5503,6 +7396,39 @@
         {
             "offsets":[
                 [
+                    36,
+                    47
+                ],
+                [
+                    227,
+                    238
+                ],
+                [
+                    344,
+                    355
+                ],
+                [
+                    430,
+                    441
+                ],
+                [
+                    505,
+                    516
+                ],
+                [
+                    727,
+                    738
+                ],
+                [
+                    776,
+                    787
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     54,
                     66
                 ]
@@ -5541,6 +7467,23 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    73,
+                    84
+                ],
+                [
+                    146,
+                    157
+                ],
+                [
+                    330,
+                    341
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -5845,11 +7788,61 @@
         {
             "offsets":[
                 [
+                    134,
+                    145
+                ],
+                [
+                    319,
+                    330
+                ],
+                [
+                    417,
+                    428
+                ],
+                [
+                    473,
+                    484
+                ],
+                [
+                    523,
+                    534
+                ],
+                [
+                    674,
+                    685
+                ],
+                [
+                    754,
+                    765
+                ],
+                [
+                    847,
+                    858
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     982,
                     994
                 ]
             ],
             "ref":"refinancing:1003-2-p"
+        },
+        {
+            "offsets":[
+                [
+                    998,
+                    1010
+                ],
+                [
+                    1241,
+                    1253
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -5879,6 +7872,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    199,
+                    210
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -6044,9 +8046,87 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    283,
+                    294
+                ],
+                [
+                    421,
+                    432
+                ],
+                [
+                    534,
+                    545
+                ],
+                [
+                    756,
+                    767
+                ],
+                [
+                    897,
+                    908
+                ],
+                [
+                    1016,
+                    1027
+                ],
+                [
+                    1142,
+                    1153
+                ],
+                [
+                    1255,
+                    1266
+                ],
+                [
+                    1368,
+                    1379
+                ],
+                [
+                    1462,
+                    1473
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-1-ii-Interp-1":[
+        {
+            "offsets":[
+                [
+                    65,
+                    76
+                ],
+                [
+                    134,
+                    145
+                ],
+                [
+                    202,
+                    213
+                ],
+                [
+                    540,
+                    551
+                ],
+                [
+                    610,
+                    621
+                ],
+                [
+                    680,
+                    691
+                ],
+                [
+                    712,
+                    723
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -6069,6 +8149,31 @@
         {
             "offsets":[
                 [
+                    7,
+                    18
+                ],
+                [
+                    121,
+                    132
+                ],
+                [
+                    187,
+                    198
+                ],
+                [
+                    213,
+                    224
+                ],
+                [
+                    283,
+                    294
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     58,
                     79
                 ]
@@ -6085,6 +8190,23 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    192,
+                    203
+                ],
+                [
+                    547,
+                    558
+                ],
+                [
+                    694,
+                    705
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-2-Interp-1":[
@@ -6100,6 +8222,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    47,
+                    58
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-3-Interp-1":[
@@ -6144,11 +8275,20 @@
         {
             "offsets":[
                 [
+                    207,
+                    218
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     438,
                     456
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -6202,6 +8342,23 @@
         {
             "offsets":[
                 [
+                    97,
+                    108
+                ],
+                [
+                    211,
+                    222
+                ],
+                [
+                    379,
+                    390
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     119,
                     130
                 ],
@@ -6242,6 +8399,19 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    44,
+                    55
+                ],
+                [
+                    359,
+                    370
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -6287,6 +8457,19 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    52,
+                    63
+                ],
+                [
+                    272,
+                    283
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -6388,6 +8571,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    392,
+                    404
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-3-Interp-3":[
@@ -6452,6 +8644,15 @@
         {
             "offsets":[
                 [
+                    97,
+                    108
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     133,
                     151
                 ],
@@ -6472,7 +8673,7 @@
                     1079
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -6578,11 +8779,28 @@
         {
             "offsets":[
                 [
+                    32,
+                    43
+                ],
+                [
+                    231,
+                    242
+                ],
+                [
+                    686,
+                    697
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     58,
                     76
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -6673,7 +8891,7 @@
                     373
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -6728,6 +8946,23 @@
         {
             "offsets":[
                 [
+                    75,
+                    86
+                ],
+                [
+                    228,
+                    239
+                ],
+                [
+                    457,
+                    468
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     90,
                     102
                 ],
@@ -6753,7 +8988,7 @@
                     323
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         }
     ],
     "1003-4-a-4-Interp-2":[
@@ -6765,6 +9000,31 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    41,
+                    52
+                ],
+                [
+                    140,
+                    151
+                ],
+                [
+                    220,
+                    231
+                ],
+                [
+                    342,
+                    353
+                ],
+                [
+                    434,
+                    445
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -6806,7 +9066,7 @@
                     303
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
         },
         {
             "offsets":[
@@ -6845,6 +9105,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    17,
+                    29
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -6896,6 +9165,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    25,
+                    36
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -6959,6 +9237,15 @@
         {
             "offsets":[
                 [
+                    116,
+                    127
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     528,
                     536
                 ],
@@ -6979,6 +9266,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    108,
+                    119
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-6-Interp-4":[
@@ -7003,6 +9299,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    116,
+                    127
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -7036,6 +9341,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    113,
+                    124
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-7-Interp-1":[
@@ -7079,6 +9393,15 @@
         }
     ],
     "1003-4-a-7-Interp-3":[
+        {
+            "offsets":[
+                [
+                    54,
+                    65
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -7286,6 +9609,19 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    135,
+                    146
+                ],
+                [
+                    265,
+                    276
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-8-i-Interp-2":[
@@ -7326,6 +9662,19 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    232,
+                    243
+                ],
+                [
+                    347,
+                    358
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-8-i-Interp-3":[
@@ -7349,6 +9698,23 @@
         {
             "offsets":[
                 [
+                    32,
+                    43
+                ],
+                [
+                    136,
+                    147
+                ],
+                [
+                    336,
+                    347
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     439,
                     463
                 ]
@@ -7365,6 +9731,23 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    41,
+                    52
+                ],
+                [
+                    105,
+                    116
+                ],
+                [
+                    151,
+                    162
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-8-i-Interp-5":[
@@ -7392,6 +9775,35 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    41,
+                    52
+                ],
+                [
+                    76,
+                    87
+                ],
+                [
+                    197,
+                    208
+                ],
+                [
+                    281,
+                    292
+                ],
+                [
+                    380,
+                    391
+                ],
+                [
+                    562,
+                    573
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-8-i-Interp-6":[
@@ -7415,6 +9827,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    663,
+                    674
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-8-i-Interp-7":[
@@ -7426,6 +9847,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    79,
+                    90
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-8-i-Interp-8":[
@@ -7441,6 +9871,19 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    98,
+                    109
+                ],
+                [
+                    284,
+                    295
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -7494,6 +9937,15 @@
                 ]
             ],
             "ref":"loan/application register:1003-2-k"
+        },
+        {
+            "offsets":[
+                [
+                    250,
+                    261
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-8-i-Interp-11":[
@@ -7509,6 +9961,19 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    245,
+                    256
+                ],
+                [
+                    304,
+                    315
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -7553,6 +10018,27 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    1041,
+                    1052
+                ],
+                [
+                    1221,
+                    1232
+                ],
+                [
+                    1316,
+                    1327
+                ],
+                [
+                    1612,
+                    1623
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-8-i-Interp-14":[
@@ -7564,6 +10050,19 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    48,
+                    59
+                ],
+                [
+                    123,
+                    134
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -7590,6 +10089,15 @@
         {
             "offsets":[
                 [
+                    4,
+                    16
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     116,
                     137
                 ]
@@ -7598,6 +10106,15 @@
         }
     ],
     "1003-4-a-8-ii-Interp-3":[
+        {
+            "offsets":[
+                [
+                    4,
+                    16
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -7666,6 +10183,19 @@
         {
             "offsets":[
                 [
+                    292,
+                    303
+                ],
+                [
+                    470,
+                    481
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     1051,
                     1064
                 ]
@@ -7710,6 +10240,15 @@
         {
             "offsets":[
                 [
+                    122,
+                    133
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     172,
                     193
                 ],
@@ -7731,6 +10270,23 @@
         }
     ],
     "1003-4-a-9-Interp-2":[
+        {
+            "offsets":[
+                [
+                    57,
+                    68
+                ],
+                [
+                    182,
+                    193
+                ],
+                [
+                    1515,
+                    1526
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -7854,6 +10410,15 @@
         {
             "offsets":[
                 [
+                    107,
+                    119
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     159,
                     172
                 ]
@@ -7911,6 +10476,24 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    166,
+                    177
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    328,
+                    340
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-9-i-Interp-2":[
@@ -7994,6 +10577,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    374,
+                    385
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-9-ii-B-Interp-1":[
@@ -8056,6 +10648,23 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    39,
+                    50
+                ],
+                [
+                    371,
+                    382
+                ],
+                [
+                    545,
+                    556
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-10-ii-Interp-1":[
@@ -8071,6 +10680,23 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    102,
+                    113
+                ],
+                [
+                    221,
+                    232
+                ],
+                [
+                    314,
+                    325
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-10-ii-Interp-2":[
@@ -8086,6 +10712,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    224,
+                    235
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-10-ii-Interp-3":[
@@ -8131,6 +10766,15 @@
         {
             "offsets":[
                 [
+                    58,
+                    69
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     94,
                     115
                 ]
@@ -8162,6 +10806,15 @@
         {
             "offsets":[
                 [
+                    76,
+                    87
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     97,
                     118
                 ]
@@ -8187,6 +10840,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    140,
+                    151
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-10-iii-Interp-4":[
@@ -8213,6 +10875,31 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    122,
+                    133
+                ],
+                [
+                    216,
+                    227
+                ],
+                [
+                    287,
+                    298
+                ],
+                [
+                    467,
+                    478
+                ],
+                [
+                    500,
+                    511
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-10-iii-Interp-6":[
@@ -8232,6 +10919,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    118,
+                    129
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-10-iii-Interp-7":[
@@ -8271,6 +10967,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    151,
+                    162
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -8595,6 +11300,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    75,
+                    87
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -9044,6 +11758,15 @@
         {
             "offsets":[
                 [
+                    65,
+                    76
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     83,
                     95
                 ]
@@ -9123,9 +11846,31 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    241,
+                    252
+                ],
+                [
+                    314,
+                    325
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-12-Interp-8":[
+        {
+            "offsets":[
+                [
+                    18,
+                    29
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -9158,6 +11903,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    253,
+                    264
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-14-Interp-1-i":[
@@ -9190,6 +11944,23 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    108,
+                    120
+                ],
+                [
+                    252,
+                    264
+                ],
+                [
+                    604,
+                    616
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -9244,7 +12015,36 @@
                     1006
                 ]
             ],
-            "ref":"home puchase loan:1003-2-j"
+            "ref":"home purchase loan:1003-2-j"
+        },
+        {
+            "offsets":[
+                [
+                    1346,
+                    1357
+                ],
+                [
+                    1442,
+                    1453
+                ],
+                [
+                    1751,
+                    1762
+                ],
+                [
+                    1821,
+                    1832
+                ],
+                [
+                    1900,
+                    1911
+                ],
+                [
+                    1918,
+                    1929
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-14-Interp-1-ii":[
@@ -9256,6 +12056,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    103,
+                    115
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -9286,6 +12095,19 @@
                 ]
             ],
             "ref":"open-end line of credit:1003-2-o"
+        },
+        {
+            "offsets":[
+                [
+                    577,
+                    588
+                ],
+                [
+                    595,
+                    606
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -9331,6 +12153,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    613,
+                    624
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-15-Interp-2":[
@@ -9413,6 +12244,19 @@
         }
     ],
     "1003-4-a-15-Interp-4":[
+        {
+            "offsets":[
+                [
+                    47,
+                    58
+                ],
+                [
+                    665,
+                    676
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -9518,6 +12362,27 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    113,
+                    124
+                ],
+                [
+                    248,
+                    259
+                ],
+                [
+                    355,
+                    366
+                ],
+                [
+                    638,
+                    649
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-16-Interp-2":[
@@ -9537,6 +12402,19 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    111,
+                    122
+                ],
+                [
+                    215,
+                    226
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-16-Interp-3":[
@@ -9568,6 +12446,19 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    96,
+                    107
+                ],
+                [
+                    1033,
+                    1044
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-16-Interp-4":[
@@ -9587,6 +12478,23 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    133,
+                    144
+                ],
+                [
+                    386,
+                    397
+                ],
+                [
+                    459,
+                    470
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-17-i-Interp-1":[
@@ -9598,6 +12506,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    100,
+                    112
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -9636,6 +12553,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    76,
+                    88
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -9726,6 +12652,15 @@
         {
             "offsets":[
                 [
+                    307,
+                    319
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     333,
                     346
                 ]
@@ -9808,6 +12743,15 @@
         {
             "offsets":[
                 [
+                    120,
+                    132
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     210,
                     234
                 ]
@@ -9842,6 +12786,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    76,
+                    88
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -9914,6 +12867,15 @@
         {
             "offsets":[
                 [
+                    96,
+                    108
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     186,
                     210
                 ]
@@ -9948,6 +12910,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    76,
+                    88
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -10020,6 +12991,15 @@
         {
             "offsets":[
                 [
+                    91,
+                    103
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     181,
                     205
                 ]
@@ -10054,6 +13034,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    76,
+                    88
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -10138,6 +13127,15 @@
         {
             "offsets":[
                 [
+                    112,
+                    123
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     135,
                     147
                 ]
@@ -10156,9 +13154,43 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    200,
+                    212
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-21-Interp-2":[
+        {
+            "offsets":[
+                [
+                    18,
+                    29
+                ],
+                [
+                    131,
+                    142
+                ],
+                [
+                    321,
+                    332
+                ],
+                [
+                    576,
+                    587
+                ],
+                [
+                    767,
+                    778
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -10187,6 +13219,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    606,
+                    618
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-21-Interp-3":[
@@ -10202,6 +13243,32 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    79,
+                    91
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
+                    146,
+                    157
+                ],
+                [
+                    314,
+                    325
+                ],
+                [
+                    434,
+                    445
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -10269,6 +13336,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    21,
+                    33
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -10345,9 +13421,31 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    576,
+                    587
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-23-Interp-3":[
+        {
+            "offsets":[
+                [
+                    50,
+                    61
+                ],
+                [
+                    684,
+                    695
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -10430,6 +13528,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    143,
+                    154
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -10518,9 +13625,31 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    607,
+                    618
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-24-Interp-3":[
+        {
+            "offsets":[
+                [
+                    50,
+                    61
+                ],
+                [
+                    703,
+                    714
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -10651,6 +13780,19 @@
         {
             "offsets":[
                 [
+                    21,
+                    32
+                ],
+                [
+                    182,
+                    193
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     126,
                     147
                 ]
@@ -10715,6 +13857,15 @@
         {
             "offsets":[
                 [
+                    22,
+                    33
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     69,
                     85
                 ]
@@ -10756,6 +13907,15 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    134,
+                    145
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -10817,6 +13977,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    149,
+                    160
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-26-Interp-4":[
@@ -10950,6 +14119,19 @@
         }
     ],
     "1003-4-a-28-Interp-3":[
+        {
+            "offsets":[
+                [
+                    47,
+                    58
+                ],
+                [
+                    579,
+                    590
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -11230,6 +14412,15 @@
         {
             "offsets":[
                 [
+                    7,
+                    18
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     22,
                     34
                 ]
@@ -11336,6 +14527,15 @@
                 ]
             ],
             "ref":"dwelling:1003-2-f"
+        },
+        {
+            "offsets":[
+                [
+                    232,
+                    243
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-31-Interp-3-i":[
@@ -11517,6 +14717,15 @@
         {
             "offsets":[
                 [
+                    135,
+                    146
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     193,
                     213
                 ]
@@ -11545,6 +14754,19 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    241,
+                    252
+                ],
+                [
+                    657,
+                    668
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -11610,6 +14832,27 @@
         {
             "offsets":[
                 [
+                    113,
+                    124
+                ],
+                [
+                    201,
+                    212
+                ],
+                [
+                    261,
+                    272
+                ],
+                [
+                    363,
+                    374
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     185,
                     197
                 ],
@@ -11622,6 +14865,19 @@
         }
     ],
     "1003-4-a-33-i-Interp-1-i":[
+        {
+            "offsets":[
+                [
+                    4,
+                    15
+                ],
+                [
+                    275,
+                    286
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -11646,6 +14902,19 @@
         }
     ],
     "1003-4-a-33-i-Interp-1-ii":[
+        {
+            "offsets":[
+                [
+                    4,
+                    15
+                ],
+                [
+                    103,
+                    114
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -11683,6 +14952,23 @@
         }
     ],
     "1003-4-a-33-i-Interp-1-iii":[
+        {
+            "offsets":[
+                [
+                    43,
+                    54
+                ],
+                [
+                    105,
+                    116
+                ],
+                [
+                    161,
+                    172
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
         {
             "offsets":[
                 [
@@ -11731,6 +15017,19 @@
         {
             "offsets":[
                 [
+                    145,
+                    156
+                ],
+                [
+                    415,
+                    426
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     355,
                     376
                 ],
@@ -11768,6 +15067,19 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    240,
+                    251
+                ],
+                [
+                    261,
+                    272
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-34-Interp-1":[
@@ -11821,6 +15133,15 @@
         {
             "offsets":[
                 [
+                    62,
+                    73
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     206,
                     227
                 ],
@@ -11862,6 +15183,19 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    206,
+                    217
+                ],
+                [
+                    398,
+                    409
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-35-Interp-1-i":[
@@ -11885,6 +15219,31 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    92,
+                    103
+                ],
+                [
+                    187,
+                    198
+                ],
+                [
+                    375,
+                    386
+                ],
+                [
+                    411,
+                    422
+                ],
+                [
+                    570,
+                    581
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-35-Interp-1-ii":[
@@ -11916,6 +15275,35 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    92,
+                    103
+                ],
+                [
+                    161,
+                    172
+                ],
+                [
+                    432,
+                    443
+                ],
+                [
+                    745,
+                    756
+                ],
+                [
+                    890,
+                    901
+                ],
+                [
+                    1216,
+                    1227
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -11984,6 +15372,27 @@
         {
             "offsets":[
                 [
+                    127,
+                    138
+                ],
+                [
+                    196,
+                    207
+                ],
+                [
+                    507,
+                    518
+                ],
+                [
+                    811,
+                    822
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     307,
                     319
                 ],
@@ -12024,6 +15433,27 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    127,
+                    138
+                ],
+                [
+                    196,
+                    207
+                ],
+                [
+                    550,
+                    561
+                ],
+                [
+                    784,
+                    795
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -12096,6 +15526,35 @@
         {
             "offsets":[
                 [
+                    207,
+                    218
+                ],
+                [
+                    548,
+                    559
+                ],
+                [
+                    867,
+                    878
+                ],
+                [
+                    1466,
+                    1477
+                ],
+                [
+                    1807,
+                    1818
+                ],
+                [
+                    2180,
+                    2191
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     1268,
                     1280
                 ],
@@ -12128,6 +15587,23 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    99,
+                    110
+                ],
+                [
+                    343,
+                    354
+                ],
+                [
+                    605,
+                    616
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -12168,6 +15644,19 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    317,
+                    328
+                ],
+                [
+                    463,
+                    474
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-35-Interp-3-ii":[
@@ -12203,6 +15692,19 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    312,
+                    323
+                ],
+                [
+                    385,
+                    396
+                ]
+            ],
+            "ref":"application:1003-2-b"
         },
         {
             "offsets":[
@@ -12255,6 +15757,27 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    603,
+                    614
+                ],
+                [
+                    679,
+                    690
+                ],
+                [
+                    1042,
+                    1053
+                ],
+                [
+                    1233,
+                    1244
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-35-Interp-3-iv":[
@@ -12290,6 +15813,19 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    293,
+                    304
+                ],
+                [
+                    425,
+                    436
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-35-Interp-4":[
@@ -12309,6 +15845,27 @@
                 ]
             ],
             "ref":"financial institution:1003-2-g"
+        },
+        {
+            "offsets":[
+                [
+                    78,
+                    89
+                ],
+                [
+                    240,
+                    251
+                ],
+                [
+                    292,
+                    303
+                ],
+                [
+                    455,
+                    466
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-a-35-Interp-5":[
@@ -12368,6 +15925,15 @@
         {
             "offsets":[
                 [
+                    99,
+                    110
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     121,
                     144
                 ],
@@ -12405,6 +15971,15 @@
                 ]
             ],
             "ref":"covered loan:1003-2-e"
+        },
+        {
+            "offsets":[
+                [
+                    103,
+                    114
+                ]
+            ],
+            "ref":"application:1003-2-b"
         }
     ],
     "1003-4-f-Interp-1":[
@@ -12538,6 +16113,15 @@
         {
             "offsets":[
                 [
+                    137,
+                    149
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     412,
                     434
                 ]
@@ -12582,6 +16166,15 @@
         {
             "offsets":[
                 [
+                    137,
+                    149
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     412,
                     434
                 ]
@@ -12619,6 +16212,15 @@
         {
             "offsets":[
                 [
+                    137,
+                    149
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        },
+        {
+            "offsets":[
+                [
                     293,
                     315
                 ]
@@ -12626,7 +16228,17 @@
             "ref":"financial institution:1003-2-g"
         }
     ],
-    "1003-6-b-Interp-1":[],
+    "1003-6-b-Interp-1":[
+        {
+            "offsets":[
+                [
+                    66,
+                    78
+                ]
+            ],
+            "ref":"application:1003-2-b"
+        }
+    ],
     "referenced":{
         "act:1003-2-a":{
             "position":[
@@ -12636,12 +16248,20 @@
             "reference":"1003-2-a",
             "term":"act"
         },
-        "application:1003-2-b-1":{
+        "hmda:1003-2-a":{
+            "position":[
+                48,
+                52
+            ],
+            "reference":"1003-2-a",
+            "term":"hmda"
+        },
+        "application:1003-2-b":{
             "position":[
                 4,
                 15
             ],
-            "reference":"1003-2-b-1",
+            "reference":"1003-2-b",
             "term":"application"
         },
         "request for preapproval:1003-2-b-2":{
@@ -12708,6 +16328,14 @@
             "reference":"1003-2-g-2",
             "term":"nondepository financial institution"
         },
+        "home equity line of credit:1003-2-h":{
+            "position":[
+                4,
+                30
+            ],
+            "reference":"1003-2-h",
+            "term":"home equity line of credit"
+        },
         "home improvement loan:1003-2-i":{
             "position":[
                 4,
@@ -12716,13 +16344,13 @@
             "reference":"1003-2-i",
             "term":"home improvement loan"
         },
-        "home puchase loan:1003-2-j":{
+        "home purchase loan:1003-2-j":{
             "position":[
                 4,
                 22
             ],
             "reference":"1003-2-j",
-            "term":"home puchase loan"
+            "term":"home purchase loan"
         },
         "loan/application register:1003-2-k":{
             "position":[
@@ -12763,6 +16391,14 @@
             ],
             "reference":"1003-2-m-2",
             "term":"metropolitan division"
+        },
+        "md:1003-2-m-2":{
+            "position":[
+                27,
+                29
+            ],
+            "reference":"1003-2-m-2",
+            "term":"MD"
         },
         "multifamily dwelling:1003-2-n":{
             "position":[
