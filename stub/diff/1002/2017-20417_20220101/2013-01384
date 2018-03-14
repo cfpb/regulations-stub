@@ -31,25 +31,6 @@
         ],
         "op":"modified"
     },
-    "1002-14-b-3-Interp-3-vi":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Appraisal reviews that do not include the appraiser's estimate of the property's value or opinion of value.",
-            "label":[
-                "1002",
-                "14",
-                "b",
-                "3",
-                "Interp",
-                "3",
-                "vi"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1002-12-b-3-Interp":{
         "node":{
             "tagged_text":null,
@@ -65,6 +46,23 @@
             "node_type":"interp",
             "child_labels":[
                 "1002-12-b-3-Interp-1"
+            ]
+        },
+        "op":"added"
+    },
+    "1002-B-p3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"",
+            "label":[
+                "1002",
+                "B",
+                "p3"
+            ],
+            "node_type":"appendix",
+            "child_labels":[
+                "1002-B-p3-p1"
             ]
         },
         "op":"added"
@@ -236,23 +234,6 @@
         },
         "op":"added"
     },
-    "1002-13-b-Interp-6":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Inadvertent notation.If a creditor inadvertently obtains the monitoring information in a dwelling-related transaction not covered by \u00a7\u20091002.13, the creditor may process and retain the application without violating the regulation.",
-            "label":[
-                "1002",
-                "13",
-                "b",
-                "Interp",
-                "6"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1002-12-b-3-Interp-1-ii":{
         "node":{
             "tagged_text":null,
@@ -400,22 +381,23 @@
         },
         "op":"added"
     },
-    "1002-14-a-4":{
-        "text":[
-            [
-                [
-                    "delete",
-                    37,
-                    53
-                ],
-                [
-                    "insert",
-                    37,
-                    "applications.applications. The"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1002-13-b-Interp-4-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"If an applicant applies through an electronic medium without video capability, the creditor treats the application as if it were received by mail.",
+            "label":[
+                "1002",
+                "13",
+                "b",
+                "Interp",
+                "4",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1002-13-b-Interp-3-i":{
         "node":{
@@ -434,21 +416,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1002-14-b-3-Interp-3-v":{
-        "text":[
-            [
-                "delete",
-                72,
-                83
-            ],
-            [
-                "delete",
-                152,
-                163
-            ]
-        ],
-        "op":"modified"
     },
     "1002-13-a-Interp-6":{
         "node":{
@@ -469,23 +436,6 @@
     },
     "1002-5-a-4-i":{
         "op":"deleted"
-    },
-    "1002-C-Interp-1-ii":{
-        "text":[
-            [
-                [
-                    "delete",
-                    99,
-                    109
-                ],
-                [
-                    "insert",
-                    99,
-                    "valuation"
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1002-5-a-2-Interp-3":{
         "node":{
@@ -544,20 +494,21 @@
     "1002-5-a-4-v":{
         "op":"deleted"
     },
-    "1002-14-b-3-Interp-1-i":{
-        "text":[
-            [
-                "insert",
-                108,
-                "of the property's value "
+    "1002-B-p3-p1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"![](ER21DE11.048)",
+            "label":[
+                "1002",
+                "B",
+                "p3",
+                "p1"
             ],
-            [
-                "delete",
-                122,
-                137
-            ]
-        ],
-        "op":"modified"
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1002-13-c-Interp-1":{
         "node":{
@@ -673,6 +624,40 @@
         },
         "op":"added"
     },
+    "1002-B-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    479,
+                    486
+                ],
+                [
+                    "insert",
+                    479,
+                    "states;"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    644,
+                    648
+                ],
+                [
+                    "insert",
+                    644,
+                    "All forms contained in this"
+                ]
+            ],
+            [
+                "delete",
+                658,
+                1105
+            ]
+        ],
+        "op":"modified"
+    },
     "1002-12-b-7-Interp":{
         "node":{
             "tagged_text":null,
@@ -694,18 +679,17 @@
         },
         "op":"added"
     },
-    "1002-13-b-Interp-4-ii":{
+    "1002-13-b-Interp-6":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"If an applicant applies through an electronic medium without video capability, the creditor treats the application as if it were received by mail.",
+            "text":"Inadvertent notation.If a creditor inadvertently obtains the monitoring information in a dwelling-related transaction not covered by \u00a7\u20091002.13, the creditor may process and retain the application without violating the regulation.",
             "label":[
                 "1002",
                 "13",
                 "b",
                 "Interp",
-                "4",
-                "ii"
+                "6"
             ],
             "node_type":"interp",
             "child_labels":[]

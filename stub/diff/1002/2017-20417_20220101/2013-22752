@@ -69,6 +69,23 @@
         },
         "op":"added"
     },
+    "1002-B-p3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"",
+            "label":[
+                "1002",
+                "B",
+                "p3"
+            ],
+            "node_type":"appendix",
+            "child_labels":[
+                "1002-B-p3-p1"
+            ]
+        },
+        "op":"added"
+    },
     "1002-13-a-1-i":{
         "text":[
             [
@@ -544,6 +561,22 @@
     "1002-5-a-4-v":{
         "op":"deleted"
     },
+    "1002-B-p3-p1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"![](ER21DE11.048)",
+            "label":[
+                "1002",
+                "B",
+                "p3",
+                "p1"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1002-14-b-3-Interp-1-i":{
         "text":[
             [
@@ -672,6 +705,40 @@
             ]
         },
         "op":"added"
+    },
+    "1002-B-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    479,
+                    486
+                ],
+                [
+                    "insert",
+                    479,
+                    "states;"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    644,
+                    648
+                ],
+                [
+                    "insert",
+                    644,
+                    "All forms contained in this"
+                ]
+            ],
+            [
+                "delete",
+                658,
+                1105
+            ]
+        ],
+        "op":"modified"
     },
     "1002-12-b-7-Interp":{
         "node":{

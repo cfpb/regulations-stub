@@ -12,10 +12,10 @@
         ],
         "op":"modified"
     },
-    "1002-14-b-3-Interp-3-vi":{
+    "1002-12-b-3-Interp":{
         "op":"deleted"
     },
-    "1002-12-b-3-Interp":{
+    "1002-B-p3":{
         "op":"deleted"
     },
     "1002-13-a-1-i":{
@@ -50,22 +50,8 @@
     "1002-12-b-3-Interp-1-i":{
         "op":"deleted"
     },
-    "1002-5-a-4-v":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"v. A creditor that is a financial institution under 12 CFR 1003.2(g), or that submitted HMDA data for any of the preceding five calendar years but is not currently a financial institution under 12 CFR 1003.2(g), may collect information regarding the ethnicity, race, and sex of an applicant for a loan that would otherwise be a covered loan under 12 CFR 1003.2(e) if the loan were not excluded by 12 CFR 1003.3(c)(10).",
-            "label":[
-                "1002",
-                "5",
-                "a",
-                "4",
-                "v"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1002-12-b-3-Interp-1":{
+        "op":"deleted"
     },
     "1002-13-b-Interp-4-i":{
         "op":"deleted"
@@ -73,31 +59,28 @@
     "1002-13-a-Interp":{
         "op":"deleted"
     },
-    "1002-13-b-Interp-4-ii":{
-        "op":"deleted"
+    "1002-13-c-Interp-c":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Procedures for providing disclosures. The disclosure to an applicant regarding the monitoring information may be provided in writing. Appendix B provides data collection model forms for use in complying with \u00a7\u20091002.13 and that comply with \u00a7\u20091002.13(c). A creditor may devise its own disclosure so long as it is substantially similar. The creditor need not orally request the monitoring information if it is requested in writing.",
+            "label":[
+                "1002",
+                "13",
+                "c",
+                "Interp",
+                "c"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1002-13-b-Interp":{
         "op":"deleted"
     },
     "1002-13-b-Interp-3-ii":{
         "op":"deleted"
-    },
-    "1002-C-Interp-1-ii":{
-        "text":[
-            [
-                [
-                    "delete",
-                    99,
-                    108
-                ],
-                [
-                    "insert",
-                    99,
-                    "valuation."
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1002-12-b-3-Interp-1-ii":{
         "op":"deleted"
@@ -201,40 +184,11 @@
     "1002-12-b-Interp-2":{
         "op":"deleted"
     },
-    "1002-14-a-4":{
-        "text":[
-            [
-                [
-                    "delete",
-                    37,
-                    67
-                ],
-                [
-                    "insert",
-                    37,
-                    "applications.The"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1002-13-b-Interp-4-ii":{
+        "op":"deleted"
     },
     "1002-13-b-Interp-3-i":{
         "op":"deleted"
-    },
-    "1002-14-b-3-Interp-3-v":{
-        "text":[
-            [
-                "insert",
-                72,
-                "or opinion "
-            ],
-            [
-                "insert",
-                141,
-                "or opinion "
-            ]
-        ],
-        "op":"modified"
     },
     "1002-13-a-Interp-6":{
         "op":"deleted"
@@ -256,23 +210,6 @@
         },
         "op":"added"
     },
-    "1002-13-c-Interp-c":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Procedures for providing disclosures. The disclosure to an applicant regarding the monitoring information may be provided in writing. Appendix B provides data collection model forms for use in complying with \u00a7\u20091002.13 and that comply with \u00a7\u20091002.13(c). A creditor may devise its own disclosure so long as it is substantially similar. The creditor need not orally request the monitoring information if it is requested in writing.",
-            "label":[
-                "1002",
-                "13",
-                "c",
-                "Interp",
-                "c"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1002-5-a-2-Interp-3":{
         "op":"deleted"
     },
@@ -282,23 +219,25 @@
     "1002-5-a-2-Interp-1":{
         "op":"deleted"
     },
-    "1002-12-b-3-Interp-1":{
-        "op":"deleted"
-    },
-    "1002-14-b-3-Interp-1-i":{
-        "text":[
-            [
-                "insert",
-                108,
-                "or opinion "
+    "1002-5-a-4-v":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"v. A creditor that is a financial institution under 12 CFR 1003.2(g), or that submitted HMDA data for any of the preceding five calendar years but is not currently a financial institution under 12 CFR 1003.2(g), may collect information regarding the ethnicity, race, and sex of an applicant for a loan that would otherwise be a covered loan under 12 CFR 1003.2(e) if the loan were not excluded by 12 CFR 1003.3(c)(10).",
+            "label":[
+                "1002",
+                "5",
+                "a",
+                "4",
+                "v"
             ],
-            [
-                "delete",
-                126,
-                146
-            ]
-        ],
-        "op":"modified"
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1002-B-p3-p1":{
+        "op":"deleted"
     },
     "1002-13-c-Interp-1":{
         "op":"deleted"
@@ -353,6 +292,28 @@
     },
     "1002-12-b-6-Interp":{
         "op":"deleted"
+    },
+    "1002-B-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    479,
+                    494
+                ],
+                [
+                    "insert",
+                    479,
+                    "States; and the"
+                ]
+            ],
+            [
+                "insert",
+                644,
+                "This appendix also contains a data collection model form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of \u00a7\u20091002.13(a)(1)(i)(A) and (ii). Appendix B to 12 CFR part 1003 provides a data collection model form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of \u00a7\u20091002.13(a)(1)(i)(B) and (ii). "
+            ]
+        ],
+        "op":"modified"
     },
     "1002-12-b-7-Interp":{
         "op":"deleted"
