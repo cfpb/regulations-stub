@@ -987,7 +987,7 @@
                 [
                     "insert",
                     4,
-                    "General. For disclosures described in \u00a7\u00a7 1005.31(b)(1) through (b)(3) and 1005.36(a)(1) and (a)(2), estimates may be provided for transfers to certain countries in accordance with paragraph (c)"
+                    "General. For disclosures described in \u00a7 1005.31(b)(1) through (b)(3) and 1005.36(a)(1) and (a)(2), estimates may be provided for transfers to certain countries in accordance with paragraph (c)"
                 ]
             ],
             [
@@ -1703,15 +1703,22 @@
         },
         "op":"added"
     },
-    "1005-30-c-Interp-2-ii":{
-        "text":[
-            [
-                "insert",
-                287,
-                " Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State."
-            ]
-        ],
-        "op":"modified"
+    "1005-32-b-3-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(i) For disclosures described in \u00a7\u00a7\u20091005.31(b)(1) through (3) and 1005.36(a)(1) and (2), estimates may be provided for applicable non-covered third-party fees and taxes collected on the remittance transfer by a person other than the provider, which are permitted to be disclosed under \u00a7\u20091005.31(b)(1)(viii), provided such estimates are based on reasonable sources of information.",
+            "label":[
+                "1005",
+                "32",
+                "b",
+                "3",
+                "i"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-31-b-1-viii-Interp-2":{
         "node":{
@@ -1930,7 +1937,7 @@
             [
                 "insert",
                 41,
-                "Sections 1005.32(a) and (b)(1) permit estimates to be used in certain circumstances for disclosures described in \u00a7\u00a7 1005.31(b)(1) through (3) and 1005.36(a)(1) and(2). To the extent permitted in \u00a7 1005.32(a) and (b)(1), estimates may be used in the pre-payment disclosure described in \u00a7 1005.31(b)(1), the receipt disclosure described in \u00a7 1005.31(b)(2), the combined disclosure described in \u00a7 1005.31(b)(3), and the pre-payment disclosures and receipt disclosures for both first and subsequent preauthorized remittance transfers described in \u00a7 1005.36(a)(1) and (a)(2). "
+                "Sections 1005.32(a) and (b)(1) permit estimates to be used in certain circumstances for disclosures described in \u00a7 1005.31(b)(1) through (3) and 1005.36(a)(1) and(2). To the extent permitted in \u00a7 1005.32(a) and (b)(1), estimates may be used in the pre-payment disclosure described in \u00a7 1005.31(b)(1), the receipt disclosure described in \u00a7 1005.31(b)(2), the combined disclosure described in \u00a7 1005.31(b)(3), and the pre-payment disclosures and receipt disclosures for both first and subsequent preauthorized remittance transfers described in \u00a7 1005.36(a)(1) and (a)(2). "
             ],
             [
                 [
@@ -1960,7 +1967,7 @@
                 [
                     "delete",
                     107,
-                    543
+                    542
                 ],
                 [
                     "insert",
@@ -1971,12 +1978,12 @@
             [
                 [
                     "delete",
-                    555,
-                    602
+                    554,
+                    601
                 ],
                 [
                     "insert",
-                    555,
+                    554,
                     "transfer is scheduled by a sender five or more business days before the date of the transfer, for disclosures described in \u00a7 1005.36(a)(1)(i) and (a)(2)(i)."
                 ]
             ]
@@ -2272,7 +2279,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The method by which transactions are made in the recipient country does not permit a remittance transfer provider to determine the exact exchange rate required to be disclosed under \u00a7 1005.31(b)(1)(iv) when the provider sends a remittance transfer via international ACH on terms negotiated between the United States government and the recipient country's government, under which the exchange rate is a rate set by the recipient country's central bank on the business day after the provider has sent the remittance transfer.",
+            "text":"The method by which transactions are made in the recipient country does not permit a remittance transfer provider to determine the exact exchange rate required to be disclosed under \u00a7; 1005.31(b)(1)(iv) when the provider sends a remittance transfer via international ACH on terms negotiated between the United States government and the recipient country's government, under which the exchange rate is a rate set by the recipient country's central bank on the business day after the provider has sent the remittance transfer.",
             "label":[
                 "1005",
                 "32",
@@ -2378,28 +2385,9 @@
     "1005-30-f":{
         "text":[
             [
-                [
-                    "delete",
-                    4,
-                    15
-                ],
-                [
-                    "insert",
-                    4,
-                    "Remittance"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    25,
-                    223
-                ],
-                [
-                    "insert",
-                    25,
-                    "provider \u2014"
-                ]
+                "insert",
+                0,
+                "(f) Remittance transfer provider"
             ]
         ],
         "op":"modified"
@@ -2517,6 +2505,57 @@
     },
     "1005-33-c-Interp-2-ii":{
         "op":"deleted"
+    },
+    "1005-A-Interp-2":{
+        "text":[
+            [
+                "insert",
+                185,
+                "\u00a7\u00a7 1005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(d)(1) and (2), 1005.18(c)(1) and (2), 1005.31, and 1005.36. The use of appropriate clauses in making disclosures will protect a financial institution and a remittance transfer provider from liability under "
+            ],
+            [
+                [
+                    "delete",
+                    194,
+                    209
+                ],
+                [
+                    "insert",
+                    194,
+                    "916"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    214,
+                    281
+                ],
+                [
+                    "insert",
+                    214,
+                    "917 of the act provided the clauses accurately reflect the institution's EFT services"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    286,
+                    431
+                ],
+                [
+                    "insert",
+                    286,
+                    "the provider's"
+                ]
+            ],
+            [
+                "delete",
+                452,
+                624
+            ]
+        ],
+        "op":"modified"
     },
     "1005-33-h-2":{
         "node":{
@@ -2651,53 +2690,12 @@
         },
         "op":"added"
     },
-    "1005-A-Interp-2":{
+    "1005-30-c-Interp-2-ii":{
         "text":[
             [
                 "insert",
-                185,
-                "\u00a7\u00a7 1005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(d)(1) and (2), 1005.18(c)(1) and (2), 1005.31, and 1005.36. The use of appropriate clauses in making disclosures will protect a financial institution and a remittance transfer provider from liability under "
-            ],
-            [
-                [
-                    "delete",
-                    194,
-                    209
-                ],
-                [
-                    "insert",
-                    194,
-                    "916"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    214,
-                    281
-                ],
-                [
-                    "insert",
-                    214,
-                    "917 of the act provided the clauses accurately reflect the institution's EFT services"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    286,
-                    431
-                ],
-                [
-                    "insert",
-                    286,
-                    "the provider's"
-                ]
-            ],
-            [
-                "delete",
-                452,
-                624
+                287,
+                " Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State."
             ]
         ],
         "op":"modified"
@@ -4601,7 +4599,7 @@
                 [
                     "insert",
                     13,
-                    "disclosure.\u2014"
+                    "disclosure."
                 ]
             ]
         ],
@@ -4611,7 +4609,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(2) Normal course of business\u2014",
+            "text":"(2) Normal course of business.",
             "label":[
                 "1005",
                 "30",
@@ -4627,20 +4625,21 @@
         "op":"added"
     },
     "1005-30-f-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) General definition.\u201cRemittance transfer provider\u201d or \u201cprovider\u201d means any person that provides remittance transfers for a consumer in the normal course of its business, regardless of whether the consumer holds an account with such person.",
-            "label":[
-                "1005",
-                "30",
-                "f",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    15
+                ],
+                [
+                    "insert",
+                    0,
+                    "(1) General definition.\u201cRemittance"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-32-b-2-iii":{
         "node":{
@@ -4981,7 +4980,7 @@
             [
                 "insert",
                 501,
-                "A-30(a), (b), (c), and (d) demonstrate four options regarding model language related to the required disclaimer, where applicable, of non-covered third-party fees and taxes on the remittance transfer collected by  a person other than the provider under \u00a7 1005.31(b)(1)(v)(iii).  Model forms 30(b) through (d) also include language that may be used if a provider elects to estimate either these non-covered third-party fees or taxes collected by a person other than the provider as part of the disclaimer.  Model Forms "
+                "A-30(a), (b), (c), and (d) demonstrate four options regarding model language related to the required disclaimer, where applicable, of non-covered third-party fees and taxes on the remittance transfer collected by  a person other than the provider under \u00a7 1005.31(b)(1)(viii).  Model forms 30(b) through (d) also include language that may be used if a provider elects to estimate either these non-covered third-party fees or taxes collected by a person other than the provider as part of the disclaimer.  Model Forms "
             ],
             [
                 [
@@ -5234,7 +5233,7 @@
                 [
                     "insert",
                     0,
-                    "Failure to make funds available by disclosed date of availability\u2014fraud and other screening procedures."
+                    "Failure to make funds available by disclosed date of availability; fraud and other screening procedures."
                 ]
             ],
             [
@@ -5469,7 +5468,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) Except as provided in paragraph (b)(2)(ii) of this section, for disclosures described in \u00a7\u00a7 1005.36(a)(1)(i) and (a)(2)(i), estimates may be provided in accordance with paragraph (d) of this section for the amounts to be disclosed under \u00a7\u00a7 1005.31(b)(1)(iv) through (vii) if the remittance transfer is scheduled by a sender five or more business days before the date of the transfer. In addition, if, at the time the sender schedules such a transfer, the provider agrees to a sender's request to fix the amount to be transferred in the currency in which the remittance transfer will be received and not the currency in which it is funded, estimates may also be provided for the amounts to be disclosed under \u00a7\u00a7 1005.31(b)(1)(i) through (iii), except as provided in paragraph (b)(2)(iii) of this section.",
+            "text":"(i) Except as provided in paragraph (b)(2)(ii) of this section, for disclosures described in \u00a7 1005.36(a)(1)(i) and (a)(2)(i), estimates may be provided in accordance with paragraph (d) of this section for the amounts to be disclosed under \u00a7 1005.31(b)(1)(iv) through (vii) if the remittance transfer is scheduled by a sender five or more business days before the date of the transfer. In addition, if, at the time the sender schedules such a transfer, the provider agrees to a sender's request to fix the amount to be transferred in the currency in which the remittance transfer will be received and not the currency in which it is funded, estimates may also be provided for the amounts to be disclosed under \u00a7 1005.31(b)(1)(i) through (iii), except as provided in paragraph (b)(2)(iii) of this section.",
             "label":[
                 "1005",
                 "32",
@@ -5522,7 +5521,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(A) The date the provider will make the subsequent transfer, using the term \u201cFuture Transfer Date,\u201d or a substantially similar term;",
+            "text":"(A) The date the provider will make the subsequent transfer, using the term \u201cFuture Transfer Date\u201d or a substantially similar term;",
             "label":[
                 "1005",
                 "36",
@@ -5990,12 +5989,12 @@
                 [
                     "delete",
                     14,
-                    60
+                    58
                 ],
                 [
                     "insert",
                     14,
-                    "exceptions \u2014 \u2014"
+                    "exceptions"
                 ]
             ]
         ],
@@ -6404,7 +6403,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(d) Additional requirements for subsequent preauthorized remittance transfers\u2014",
+            "text":"(d) Additional requirements for subsequent preauthorized remittance transfers",
             "label":[
                 "1005",
                 "36",
@@ -6615,6 +6614,24 @@
             ],
             "node_type":"appendix",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-32-b-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(3) Permanent exception for optional disclosure of non-covered third-party fees and taxes collected by a person other than the provider.",
+            "label":[
+                "1005",
+                "32",
+                "b",
+                "3"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-32-b-3-i"
+            ]
         },
         "op":"added"
     },

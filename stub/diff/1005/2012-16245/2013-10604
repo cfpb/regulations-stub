@@ -886,7 +886,7 @@
                 [
                     "insert",
                     4,
-                    "General. For disclosures described in \u00a7\u00a7 1005.31(b)(1) through (b)(3) and 1005.36(a)(1) and (a)(2), estimates may be provided for transfers to certain countries in accordance with paragraph (c)"
+                    "General. For disclosures described in \u00a7 1005.31(b)(1) through (b)(3) and 1005.36(a)(1) and (a)(2), estimates may be provided for transfers to certain countries in accordance with paragraph (c)"
                 ]
             ],
             [
@@ -1499,8 +1499,23 @@
         },
         "op":"added"
     },
-    "1005-33-c-2-iii":{
-        "op":"deleted"
+    "1005-36-a-2-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Clearly and conspicuously. In order to indicate clearly and conspicuously that the provider's fee has changed as required by \u00a7 1005.36(a)(2)(i), the provider could, for example, state on the receipt: \u201cTransfer Fees (UPDATED)  * * *  $30.\u201d To the extent that other figures on the receipt must be revised because of the new fee, the receipt should also indicate that those figures are updated.",
+            "label":[
+                "1005",
+                "36",
+                "a",
+                "2",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-31-a-5-iii":{
         "text":[
@@ -1556,20 +1571,19 @@
         },
         "op":"added"
     },
-    "1005-33-h-Interp-2-ii":{
+    "1005-32-b-3-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The remittance transfer provider promptly uses a messaging service through a funds transfer system to contact institution that received the transfer, either directly or indirectly through any correspondent(s) or other intermediaries or service providers used for the particular transfer, to request that the amount that was to be received by the designated recipient be returned, in accordance with the messaging service's rules and protocol, and if required by law or contract, by requesting that the recipient institution obtain a debit authorization from the holder of the incorrectly credited account.",
+            "text":"(i) For disclosures described in \u00a7\u00a7\u20091005.31(b)(1) through (3) and 1005.36(a)(1) and (2), estimates may be provided for applicable non-covered third-party fees and taxes collected on the remittance transfer by a person other than the provider, which are permitted to be disclosed under \u00a7\u20091005.31(b)(1)(viii), provided such estimates are based on reasonable sources of information.",
             "label":[
                 "1005",
-                "33",
-                "h",
-                "Interp",
-                "2",
-                "ii"
+                "32",
+                "b",
+                "3",
+                "i"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -1791,7 +1805,7 @@
             [
                 "insert",
                 41,
-                "Sections 1005.32(a) and (b)(1) permit estimates to be used in certain circumstances for disclosures described in \u00a7\u00a7 1005.31(b)(1) through (3) and 1005.36(a)(1) and(2). To the extent permitted in \u00a7 1005.32(a) and (b)(1), estimates may be used in the pre-payment disclosure described in \u00a7 1005.31(b)(1), the receipt disclosure described in \u00a7 1005.31(b)(2), the combined disclosure described in \u00a7 1005.31(b)(3), and the pre-payment disclosures and receipt disclosures for both first and subsequent preauthorized remittance transfers described in \u00a7 1005.36(a)(1) and (a)(2). "
+                "Sections 1005.32(a) and (b)(1) permit estimates to be used in certain circumstances for disclosures described in \u00a7 1005.31(b)(1) through (3) and 1005.36(a)(1) and(2). To the extent permitted in \u00a7 1005.32(a) and (b)(1), estimates may be used in the pre-payment disclosure described in \u00a7 1005.31(b)(1), the receipt disclosure described in \u00a7 1005.31(b)(2), the combined disclosure described in \u00a7 1005.31(b)(3), and the pre-payment disclosures and receipt disclosures for both first and subsequent preauthorized remittance transfers described in \u00a7 1005.36(a)(1) and (a)(2). "
             ],
             [
                 [
@@ -1821,7 +1835,7 @@
                 [
                     "delete",
                     107,
-                    543
+                    542
                 ],
                 [
                     "insert",
@@ -1832,12 +1846,12 @@
             [
                 [
                     "delete",
-                    555,
-                    602
+                    554,
+                    601
                 ],
                 [
                     "insert",
-                    555,
+                    554,
                     "transfer is scheduled by a sender five or more business days before the date of the transfer, for disclosures described in \u00a7 1005.36(a)(1)(i) and (a)(2)(i)."
                 ]
             ]
@@ -2133,7 +2147,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The method by which transactions are made in the recipient country does not permit a remittance transfer provider to determine the exact exchange rate required to be disclosed under \u00a7 1005.31(b)(1)(iv) when the provider sends a remittance transfer via international ACH on terms negotiated between the United States government and the recipient country's government, under which the exchange rate is a rate set by the recipient country's central bank on the business day after the provider has sent the remittance transfer.",
+            "text":"The method by which transactions are made in the recipient country does not permit a remittance transfer provider to determine the exact exchange rate required to be disclosed under \u00a7; 1005.31(b)(1)(iv) when the provider sends a remittance transfer via international ACH on terms negotiated between the United States government and the recipient country's government, under which the exchange rate is a rate set by the recipient country's central bank on the business day after the provider has sent the remittance transfer.",
             "label":[
                 "1005",
                 "32",
@@ -2239,28 +2253,9 @@
     "1005-30-f":{
         "text":[
             [
-                [
-                    "delete",
-                    4,
-                    15
-                ],
-                [
-                    "insert",
-                    4,
-                    "Remittance"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    25,
-                    223
-                ],
-                [
-                    "insert",
-                    25,
-                    "provider \u2014"
-                ]
+                "insert",
+                0,
+                "(f) Remittance transfer provider"
             ]
         ],
         "op":"modified"
@@ -3700,24 +3695,6 @@
         },
         "op":"added"
     },
-    "1005-36-a-2-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Clearly and conspicuously. In order to indicate clearly and conspicuously that the provider's fee has changed as required by \u00a7 1005.36(a)(2)(i), the provider could, for example, state on the receipt: \u201cTransfer Fees (UPDATED)  * * *  $30.\u201d To the extent that other figures on the receipt must be revised because of the new fee, the receipt should also indicate that those figures are updated.",
-            "label":[
-                "1005",
-                "36",
-                "a",
-                "2",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-31-b-1-Interp-1-i":{
         "text":[
             [
@@ -4400,7 +4377,7 @@
                 [
                     "insert",
                     13,
-                    "disclosure.\u2014"
+                    "disclosure."
                 ]
             ]
         ],
@@ -4410,7 +4387,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(2) Normal course of business\u2014",
+            "text":"(2) Normal course of business.",
             "label":[
                 "1005",
                 "30",
@@ -4426,20 +4403,21 @@
         "op":"added"
     },
     "1005-30-f-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) General definition.\u201cRemittance transfer provider\u201d or \u201cprovider\u201d means any person that provides remittance transfers for a consumer in the normal course of its business, regardless of whether the consumer holds an account with such person.",
-            "label":[
-                "1005",
-                "30",
-                "f",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    15
+                ],
+                [
+                    "insert",
+                    0,
+                    "(1) General definition.\u201cRemittance"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-32-b-2-iii":{
         "node":{
@@ -4763,7 +4741,7 @@
             [
                 "insert",
                 501,
-                "A-30(a), (b), (c), and (d) demonstrate four options regarding model language related to the required disclaimer, where applicable, of non-covered third-party fees and taxes on the remittance transfer collected by  a person other than the provider under \u00a7 1005.31(b)(1)(v)(iii).  Model forms 30(b) through (d) also include language that may be used if a provider elects to estimate either these non-covered third-party fees or taxes collected by a person other than the provider as part of the disclaimer.  Model Forms "
+                "A-30(a), (b), (c), and (d) demonstrate four options regarding model language related to the required disclaimer, where applicable, of non-covered third-party fees and taxes on the remittance transfer collected by  a person other than the provider under \u00a7 1005.31(b)(1)(viii).  Model forms 30(b) through (d) also include language that may be used if a provider elects to estimate either these non-covered third-party fees or taxes collected by a person other than the provider as part of the disclaimer.  Model Forms "
             ],
             [
                 [
@@ -5231,7 +5209,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) Except as provided in paragraph (b)(2)(ii) of this section, for disclosures described in \u00a7\u00a7 1005.36(a)(1)(i) and (a)(2)(i), estimates may be provided in accordance with paragraph (d) of this section for the amounts to be disclosed under \u00a7\u00a7 1005.31(b)(1)(iv) through (vii) if the remittance transfer is scheduled by a sender five or more business days before the date of the transfer. In addition, if, at the time the sender schedules such a transfer, the provider agrees to a sender's request to fix the amount to be transferred in the currency in which the remittance transfer will be received and not the currency in which it is funded, estimates may also be provided for the amounts to be disclosed under \u00a7\u00a7 1005.31(b)(1)(i) through (iii), except as provided in paragraph (b)(2)(iii) of this section.",
+            "text":"(i) Except as provided in paragraph (b)(2)(ii) of this section, for disclosures described in \u00a7 1005.36(a)(1)(i) and (a)(2)(i), estimates may be provided in accordance with paragraph (d) of this section for the amounts to be disclosed under \u00a7 1005.31(b)(1)(iv) through (vii) if the remittance transfer is scheduled by a sender five or more business days before the date of the transfer. In addition, if, at the time the sender schedules such a transfer, the provider agrees to a sender's request to fix the amount to be transferred in the currency in which the remittance transfer will be received and not the currency in which it is funded, estimates may also be provided for the amounts to be disclosed under \u00a7 1005.31(b)(1)(i) through (iii), except as provided in paragraph (b)(2)(iii) of this section.",
             "label":[
                 "1005",
                 "32",
@@ -5284,7 +5262,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(A) The date the provider will make the subsequent transfer, using the term \u201cFuture Transfer Date,\u201d or a substantially similar term;",
+            "text":"(A) The date the provider will make the subsequent transfer, using the term \u201cFuture Transfer Date\u201d or a substantially similar term;",
             "label":[
                 "1005",
                 "36",
@@ -5396,7 +5374,7 @@
                 [
                     "insert",
                     73,
-                    "terms account number and recipient institution identifier refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbeaccount numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs)) and other similar account or institution identifiers used to route a transaction.  In addition and for purposes of this exception, the term designated recipient's account in"
+                    "terms account number and recipient institution identifier refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs) and other similar account or institution identifiers used to route a transaction.  In addition and for purposes of this exception, the term designated recipient's account in"
                 ]
             ],
             [
@@ -5664,12 +5642,12 @@
                 [
                     "delete",
                     14,
-                    60
+                    58
                 ],
                 [
                     "insert",
                     14,
-                    "exceptions \u2014 \u2014"
+                    "exceptions"
                 ]
             ]
         ],
@@ -6060,7 +6038,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(d) Additional requirements for subsequent preauthorized remittance transfers\u2014",
+            "text":"(d) Additional requirements for subsequent preauthorized remittance transfers",
             "label":[
                 "1005",
                 "36",
@@ -6256,6 +6234,24 @@
         },
         "op":"added"
     },
+    "1005-32-b-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(3) Permanent exception for optional disclosure of non-covered third-party fees and taxes collected by a person other than the provider.",
+            "label":[
+                "1005",
+                "32",
+                "b",
+                "3"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-32-b-3-i"
+            ]
+        },
+        "op":"added"
+    },
     "1005-32-b-2":{
         "text":[
             [
@@ -6432,6 +6428,24 @@
             ]
         ],
         "op":"modified"
+    },
+    "1005-33-h-Interp-2-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The remittance transfer provider promptly uses a messaging service through a funds transfer system to contact institution that received the transfer, either directly or indirectly through any correspondent(s) or other intermediaries or service providers used for the particular transfer, to request that the amount that was to be received by the designated recipient be returned, in accordance with the messaging service's rules and protocol, and if required by law or contract, by requesting that the recipient institution obtain a debit authorization from the holder of the incorrectly credited account.",
+            "label":[
+                "1005",
+                "33",
+                "h",
+                "Interp",
+                "2",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-32-b-Interp-2-i":{
         "op":"deleted"

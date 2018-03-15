@@ -1008,13 +1008,13 @@
             [
                 [
                     "delete",
-                    103,
+                    105,
                     119
                 ],
                 [
                     "insert",
-                    103,
-                    "\u00a7\u20091005.16(a),"
+                    105,
+                    "1005.16(a),"
                 ]
             ]
         ],
@@ -3984,7 +3984,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Form and formatting requirements for government benefit account disclosures.The form and formatting requirements for government benefit accounts in \u00a7\u20091005.15(c) correspond to those for payroll card accounts set forth in \u00a7\u20091005.18(b). See comments 18(b)(2)(xiv)(A)-1 and 18(b)(2)(xiv)(B)-1 for additional guidance regarding the requirements set forth in \u00a7\u20091005.15(c)(2)(i) and (ii), respectively.",
+            "text":"Form and formatting requirements for government benefit account disclosures.The form and formatting requirements for government benefit accounts in \u00a7\u20091005.15(c) correspond to those for payroll card accounts set forth in \u00a7\u20091005.18(b). See comments 18(b)(2)(xiv)(A) and 18(b)(2)(xiv)(B) for additional guidance regarding the requirements set forth in \u00a7\u20091005.15(c)(2)(i) and (ii), respectively.",
             "label":[
                 "1005",
                 "15",
@@ -5224,13 +5224,13 @@
             [
                 [
                     "delete",
-                    74,
-                    94
+                    0,
+                    10
                 ],
                 [
                     "insert",
-                    74,
-                    "(\u00a7\u20091005.31(b)(2)(iv)"
+                    0,
+                    "A-37-Model"
                 ]
             ]
         ],
@@ -5580,59 +5580,6 @@
             ]
         },
         "op":"added"
-    },
-    "1005-36-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    109,
-                    119
-                ],
-                [
-                    "insert",
-                    109,
-                    "\u00a7\u20091005.36,"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    139,
-                    148
-                ],
-                [
-                    "insert",
-                    139,
-                    "\u00a7\u20091005.36"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    246,
-                    258
-                ],
-                [
-                    "insert",
-                    246,
-                    "\u00a7\u20091005.31(g)"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    343,
-                    359
-                ],
-                [
-                    "insert",
-                    343,
-                    "\u00a7\u20091005.36(a)(2)."
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1005-18-h-2-i":{
         "node":{
@@ -7273,7 +7220,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Access to account information.For guidance, see comments 18(c)-1 through -3 and 18(c)-5 through -9.",
+            "text":"Access to account information.For guidance, see comments 18(c)-1 through -3 and 18(c)-4 through -5.",
             "label":[
                 "1005",
                 "15",
@@ -7707,21 +7654,38 @@
         "op":"added"
     },
     "1005-33-c-2-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(iii) In the case of an error under paragraph (a)(1)(iv) of this section that occurred because the sender provided incorrect or insufficient information in connection with the remittance transfer, the remittance transfer provider shall provide the remedies required by paragraphs (c)(2)(ii)(A)(1) and (c)(2)(ii)(B) of this section within three business days of providing the report required by paragraph (c)(1) or (d)(1) of this section except that the provider may agree to the sender's request, upon receiving the results of the error investigation, that the funds be applied towards a new remittance transfer, rather than be refunded, if the provider has not yet processed a refund. The provider may deduct from the amount refunded or applied towards a new transfer any fees actually imposed on or, to the extent not prohibited by law, taxes actually collected on the remittance transfer as part of the first unsuccessful remittance transfer attempt except that the provider shall not deduct its own fee.",
-            "label":[
-                "1005",
-                "33",
-                "c",
-                "2",
-                "iii"
+        "text":[
+            [
+                "insert",
+                20,
+                " an error under paragraph (a)(1)(iv) of this section that occurred because the sender provided incorrect or insufficient information in connection with the remittance transfer, the remittance transfer provider shall provide the remedies required by paragraphs (c)(2)(ii)(A)(1) and (c)(2)(ii)(B) of this section within three business days of providing the report required by paragraph (c)(1) or (d)(1) of this section except that the provider may agree to the sender's request, upon receiving the results of the error investigation, that the funds be applied towards"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    23,
+                    125
+                ],
+                [
+                    "insert",
+                    23,
+                    "new remittance transfer, rather than be refunded, if the provider has not yet processed a refund. The provider may deduct from the amount refunded"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    129,
+                    143
+                ],
+                [
+                    "insert",
+                    129,
+                    "applied towards a new transfer any fees actually imposed on or, to the extent not prohibited by law, taxes actually collected on the remittance transfer as part of the first unsuccessful remittance transfer attempt except that the provider shall not deduct its own fee."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-12-a-Interp-1-ii":{
         "op":"deleted"
@@ -9067,25 +9031,13 @@
             [
                 [
                     "delete",
-                    43,
+                    45,
                     59
                 ],
                 [
                     "insert",
-                    43,
-                    "\u00a7\u20091005.33(g)(2),"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    145,
-                    155
-                ],
-                [
-                    "insert",
-                    145,
-                    "\u00a7\u20091005.13."
+                    45,
+                    "1005.33(g)(2),"
                 ]
             ]
         ],
@@ -9418,7 +9370,7 @@
                 [
                     "insert",
                     0,
-                    "Failure to make funds available by disclosed date of availability\u2014fraud and other screening procedures. Under \u00a7 1005.33(a)(1)(iv)(B), a remittance transfer provider's failure to deliver funds by the disclosed date of availability is not an error if such delay is related to the provider's or any third party's investigation necessary to address potentially suspicious, blocked or prohibited activity, and the provider did not and could not have reasonably foreseen the delay so as to enable it to timely disclose an accurate date of availability when providing the sender with a receipt or combined disclosure. For example, no error occurs if delivery of funds is delayed because, after the receipt is provided, the provider's fraud screening system flags a remittance transfer because the designated recipient has a name similar to the name of a blocked person under a sanctions program and further investigation is needed to determine that the designated recipient is not actually a blocked person. Similarly, no error occurs where, after disclosing a date of availability to the sender, a remittance transfer provider receives specific law enforcement information indicating that the characteristics of a remittance transfer match a pattern of fraudulent activity, and as a result, the provider deems it necessary to delay delivery of the funds to allow for further investigation. However, if a delay could have been reasonably foreseen, the"
+                    "Failure to make funds available by disclosed date of availability; fraud and other screening procedures. Under \u00a7 1005.33(a)(1)(iv)(B), a remittance transfer provider's failure to deliver funds by the disclosed date of availability is not an error if such delay is related to the provider's or any third party's investigation necessary to address potentially suspicious, blocked or prohibited activity, and the provider did not and could not have reasonably foreseen the delay so as to enable it to timely disclose an accurate date of availability when providing the sender with a receipt or combined disclosure. For example, no error occurs if delivery of funds is delayed because, after the receipt is provided, the provider's fraud screening system flags a remittance transfer because the designated recipient has a name similar to the name of a blocked person under a sanctions program and further investigation is needed to determine that the designated recipient is not actually a blocked person. Similarly, no error occurs where, after disclosing a date of availability to the sender, a remittance transfer provider receives specific law enforcement information indicating that the characteristics of a remittance transfer match a pattern of fraudulent activity, and as a result, the provider deems it necessary to delay delivery of the funds to allow for further investigation. However, if a delay could have been reasonably foreseen, the"
                 ]
             ],
             [
@@ -9485,12 +9437,24 @@
                 [
                     "delete",
                     0,
-                    46
+                    5
                 ],
                 [
                     "insert",
                     0,
-                    "Account number or recipient institution identifier. For purposes of the exception in \u00a7\u20091005.33(a)(1)(iv)(D), the terms account number and recipient institution identifier refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs) and other similar account or institution identifiers used to route a transaction. In addition and for purposes of this exception, the term designated recipient's account in \u00a7\u20091005.33(a)(1)(iv)(D) refers to an asset account, regardless of whether it is a consumer asset account, established for any purpose and held"
+                    "Account number or recipient institution identifier. For purposes of the exception in"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    8,
+                    46
+                ],
+                [
+                    "insert",
+                    8,
+                    "1005.33(a)(1)(iv)(D), the terms account number and recipient institution identifier refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs) and other similar account or institution identifiers used to route a transaction. In addition and for purposes of this exception, the term designated recipient's account in \u00a7 1005.33(a)(1)(iv)(D) refers to an asset account, regardless of whether it is a consumer asset account, established for any purpose and held"
                 ]
             ],
             [
@@ -9583,12 +9547,12 @@
             [
                 "delete",
                 96,
-                737
+                723
             ],
             [
                 "delete",
-                749,
-                995
+                735,
+                981
             ]
         ],
         "title":[

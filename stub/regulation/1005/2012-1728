@@ -5196,19 +5196,32 @@
                                 "e"
                             ],
                             "node_type":"regtext",
-                            "text":"(e) Remittance transfer\u2014\u2014",
+                            "text":"(e) Remittance transfer",
                             "marker":"(e)"
                         },
                         {
-                            "children":[],
+                            "children":[
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "30",
+                                        "f",
+                                        "1"
+                                    ],
+                                    "node_type":"regtext",
+                                    "text":"(f) \u201cRemittance transfer provider\u201d or \u201cprovider\u201d means any person that provides remittance transfers for a consumer in the normal course of its business, regardless of whether the consumer holds an account with such person.",
+                                    "marker":"(f)"
+                                }
+                            ],
                             "label":[
                                 "1005",
                                 "30",
                                 "f"
                             ],
                             "node_type":"regtext",
-                            "text":"(f) \u201cRemittance transfer provider\u201d or \u201cprovider\u201d means any person that provides remittance transfers for a consumer in the normal course of its business, regardless of whether the consumer holds an account with such person.",
-                            "marker":"(f)"
+                            "text":"",
+                            "marker":""
                         },
                         {
                             "children":[],
@@ -5408,7 +5421,7 @@
                                 "a"
                             ],
                             "node_type":"regtext",
-                            "text":"(a) General form of disclosures\u2014\u2014",
+                            "text":"(a) General form of disclosures",
                             "marker":"(a)"
                         },
                         {
@@ -5639,7 +5652,7 @@
                                 "b"
                             ],
                             "node_type":"regtext",
-                            "text":"(b) Disclosure requirements\u2014\u2014",
+                            "text":"(b) Disclosure requirements",
                             "marker":"(b)"
                         },
                         {
@@ -5699,7 +5712,7 @@
                                 "c"
                             ],
                             "node_type":"regtext",
-                            "text":"(c) Specific format requirements\u2014\u2014",
+                            "text":"(c) Specific format requirements",
                             "marker":"(c)"
                         },
                         {
@@ -5820,7 +5833,7 @@
                                 "g"
                             ],
                             "node_type":"regtext",
-                            "text":"(g) Foreign language disclosures\u2014\u2014",
+                            "text":"(g) Foreign language disclosures",
                             "marker":"(g)"
                         }
                     ],
@@ -5919,7 +5932,7 @@
                                 "a"
                             ],
                             "node_type":"regtext",
-                            "text":"(a) Temporary exception for insured institutions\u2014\u2014",
+                            "text":"(a) Temporary exception for insured institutions",
                             "marker":"(a)"
                         },
                         {
@@ -5982,7 +5995,7 @@
                                 "b"
                             ],
                             "node_type":"regtext",
-                            "text":"(b) Permanent exception for transfers to certain countries\u2014\u2014",
+                            "text":"(b) Permanent exception for transfers to certain countries",
                             "marker":"(b)"
                         },
                         {
@@ -6767,7 +6780,7 @@
                                 "f"
                             ],
                             "node_type":"regtext",
-                            "text":"(f) Relation to other laws\u2014\u2014",
+                            "text":"(f) Relation to other laws",
                             "marker":"(f)"
                         },
                         {
@@ -6803,7 +6816,7 @@
                                 "g"
                             ],
                             "node_type":"regtext",
-                            "text":"(g) Error resolution standards and recordkeeping requirements\u2014\u2014",
+                            "text":"(g) Error resolution standards and recordkeeping requirements",
                             "marker":"(g)"
                         }
                     ],
@@ -19364,20 +19377,7 @@
                     "node_type":"interp",
                     "text":"",
                     "title":"Section 1005.20 Requirements for Gift Cards and Gift Certificates"
-                }
-            ],
-            "label":[
-                "1005",
-                "Subpart",
-                "A",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "text":"",
-            "title":"Supplement I to Part 1005\u2014Official Interpretations"
-        },
-        {
-            "children":[
+                },
                 {
                     "children":[
                         {
@@ -19389,8 +19389,7 @@
                                 "1"
                             ],
                             "node_type":"interp",
-                            "text":"Except as modified or limited by subpart B (which modifications or limitations apply only to subpart B), the definitions in \u00a7 1005.2 apply to all of Regulation E, including subpart B.",
-                            "title":"Applicability of definitions in subpart A.",
+                            "text":"Applicability of definitions in subpart A. Except as modified or limited by subpart B (which modifications or limitations apply only to subpart B), the definitions in \u00a7 1005.2 apply to all of Regulation E, including subpart B.",
                             "marker":"1."
                         },
                         {
@@ -19929,7 +19928,7 @@
                     ],
                     "node_type":"interp",
                     "text":"",
-                    "title":"Section 1005.30\u2014Remittance Transfer Definitions"
+                    "title":"Section 1005.30-Remittance Transfer Definitions"
                 },
                 {
                     "children":[
@@ -20263,7 +20262,7 @@
                                                         "1"
                                                     ],
                                                     "node_type":"interp",
-                                                    "text":"If the designated recipient will receive funds in a currency other than the currency in which the remittance transfer is funded, a remittance transfer provider must disclose the exchange rate to be used by the provider for the remittance transfer. An exchange rate that is estimated must be disclosed pursuant to the requirements of \u00a7 1005.32. A remittance transfer provider may not disclose, for example, that an exchange rate is \u201cunknown,\u201d \u201cfloating,\u201d or \u201cto be determined.\u201d If a provider does not have specific knowledge regarding the currency in which the funds will be received, the provider may rely on a sender's representation as to the currency in which funds will be received for purposes of determining whether an exchange rate is applied to the transfer. For example, if a sender requests that a remittance transfer be deposited into an account in U.S. dollars, the provider need not disclose an exchange rate, even if the account is actually denominated in Mexican pesos and the funds are converted prior to deposit into the account. If a sender does not know the currency in which funds will be received, the provider may assume that the currency in which funds will be received is the currency in which the remittance transfer is funded.",
+                                                    "text":"If the designated recipient will receive funds in a currency other than the currency in which the remittance transfer is funded, a remittance transfer provider must disclose the exchange rate to be used by the provider for the remittance transfer. An exchange rate that is estimated must be disclosed pursuant to the requirements of \u00a7 1005.32. A remittance transfer provider may not disclose, for example, that an exchange rate is \u201cunknown,\u201d \u201cfloating,\u201d or \u201cto be determined.\u201d; If a provider does not have specific knowledge regarding the currency in which the funds will be received, the provider may rely on a sender's representation as to the currency in which funds will be received for purposes of determining whether an exchange rate is applied to the transfer. For example, if a sender requests that a remittance transfer be deposited into an account in U.S. dollars, the provider need not disclose an exchange rate, even if the account is actually denominated in Mexican pesos and the funds are converted prior to deposit into the account. If a sender does not know the currency in which funds will be received, the provider may assume that the currency in which funds will be received is the currency in which the remittance transfer is funded.",
                                                     "title":"Applicable exchange rate.",
                                                     "marker":"1."
                                                 },
@@ -20279,7 +20278,7 @@
                                                         "2"
                                                     ],
                                                     "node_type":"interp",
-                                                    "text":"The exchange rate disclosed by the provider for the remittance transfer is required to be rounded. The provider may round to two, three, or four decimal places, at its option. For example, if one U.S. dollar exchanges for 11.9483779 Mexican pesos, a provider may disclose that the U.S. dollar exchanges for 11.9484 Mexican pesos. The provider may alternatively disclose, for example, that the U.S. dollar exchanges for 11.948 pesos or 11.95 pesos. On the other hand, if one U.S. dollar exchanges for exactly 11.9 Mexican pesos, the provider may disclose that \u201cUS$1 = 11.9 MXN\u201d in lieu of, for example, \u201cUS$1 = 11.90 MXN.\u201d The exchange rate disclosed for the remittance transfer must be rounded consistently for each currency. For example, a provider may not round to two decimal places for some transactions exchanged into Euros and round to four decimal places for other transactions exchanged into Euros.",
+                                                    "text":"The exchange rate disclosed by the provider for the remittance transfer is required to be rounded. The provider may round to two, three, or four decimal places, at its option. For example, if one U.S. dollar exchanges for 11.9483779 Mexican pesos, a provider may disclose that the U.S. dollar exchanges for 11.9484 Mexican pesos. The provider may alternatively disclose, for example, that the U.S. dollar exchanges for 11.948 pesos or 11.95 pesos. On the other hand, if one U.S. dollar exchanges for exactly 11.9 Mexican pesos, the provider may disclose that \u201cUS$1 = 11.9 MXN\u201d; in lieu of, for example, \u201cUS$1 = 11.90 MXN.\u201d; The exchange rate disclosed for the remittance transfer must be rounded consistently for each currency. For example, a provider may not round to two decimal places for some transactions exchanged into Euros and round to four decimal places for other transactions exchanged into Euros.",
                                                     "title":"Rounding.",
                                                     "marker":"2."
                                                 },
@@ -21306,7 +21305,7 @@
                     ],
                     "node_type":"interp",
                     "text":"",
-                    "title":"Section 1005.31\u2014Disclosures"
+                    "title":"Section 1005.31-Disclosures"
                 },
                 {
                     "children":[
@@ -21319,7 +21318,7 @@
                                 "1"
                             ],
                             "node_type":"interp",
-                            "text":"Disclosures where estimates can be used. Section 1005.32(a) and (b) permit estimates to be used in certain circumstances for disclosures described in \u00a7\u00a7 1005.31(b)(1) through (3) and 1005.36(a)(1) and (2). To the extent permitted in \u00a7 1005.32(a) and (b), estimates may be used in the pre-payment disclosure described in \u00a7 1005.31(b)(1), the receipt disclosure described in \u00a7 1005.31(b)(2), the combined disclosure described in \u00a7 1005.31(b)(3), and the pre-payment disclosures and receipt disclosures for both first and subsequent preauthorized remittance transfers described in \u00a7 1005.36(a)(1) and (2).",
+                            "text":"Disclosures where estimates can be used. Section 1005.32(a) and (b) permit estimates to be used in certain circumstances for disclosures described in \u00a7 1005.31(b)(1) through (3) and 1005.36(a)(1) and (2). To the extent permitted in \u00a7 1005.32(a) and (b), estimates may be used in the pre-payment disclosure described in \u00a7 1005.31(b)(1), the receipt disclosure described in \u00a7 1005.31(b)(2), the combined disclosure described in \u00a7 1005.31(b)(3), and the pre-payment disclosures and receipt disclosures for both first and subsequent preauthorized remittance transfers described in \u00a7 1005.36(a)(1) and (2).",
                             "marker":"1."
                         },
                         {
@@ -21904,7 +21903,7 @@
                     ],
                     "node_type":"interp",
                     "text":"",
-                    "title":"Section 1005.32\u2014Estimates"
+                    "title":"Section 1005.32-Estimates"
                 },
                 {
                     "children":[
@@ -21933,7 +21932,7 @@
                                         "2"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Incorrect amount of currency received\u2014coverage. Section 1005.33(a)(1)(iii) covers circumstances in which the designated recipient receives an amount of currency that differs from the amount of currency identified on the disclosures provided to the sender, except where the disclosure stated an estimate of the amount of currency to be received in accordance with \u00a7 1005.32 and the difference results from application of the actual exchange rate, fees, and taxes, rather than any estimated amounts, or the failure was caused by circumstances outside the remittance transfer provider's control. A designated recipient may receive an amount of currency that differs from the amount of currency disclosed, for example, if an exchange rate other than the disclosed rate is applied to the remittance transfer, or if the provider fails to account for fees or taxes that may be imposed by the provider or a third party before the transfer is picked up by the designated recipient or deposited into the recipient's account in the foreign country. However, if the provider rounds the exchange rate used to calculate the amount received consistent with \u00a7 1005.31(b)(1)(iv) and comment 31(b)(1)(iv)-2 for the disclosed rate, there is no error if the designated recipient receives an amount of currency that results from applying the exchange rate used, prior to any rounding of the exchange rate, to calculate fees, taxes, or the amount received rather than the disclosed rate. Section 1005.33(a)(1)(iii) also covers circumstances in which the remittance transfer provider transmits an amount that differs from the amount requested by the sender.",
+                                    "text":"Incorrect amount of currency received-coverage. Section 1005.33(a)(1)(iii) covers circumstances in which the designated recipient receives an amount of currency that differs from the amount of currency identified on the disclosures provided to the sender, except where the disclosure stated an estimate of the amount of currency to be received in accordance with \u00a7 1005.32 and the difference results from application of the actual exchange rate, fees, and taxes, rather than any estimated amounts, or the failure was caused by circumstances outside the remittance transfer provider's control. A designated recipient may receive an amount of currency that differs from the amount of currency disclosed, for example, if an exchange rate other than the disclosed rate is applied to the remittance transfer, or if the provider fails to account for fees or taxes that may be imposed by the provider or a third party before the transfer is picked up by the designated recipient or deposited into the recipient's account in the foreign country. However, if the provider rounds the exchange rate used to calculate the amount received consistent with \u00a7 1005.31(b)(1)(iv) and comment 31(b)(1)(iv)-2 for the disclosed rate, there is no error if the designated recipient receives an amount of currency that results from applying the exchange rate used, prior to any rounding of the exchange rate, to calculate fees, taxes, or the amount received rather than the disclosed rate. Section 1005.33(a)(1)(iii) also covers circumstances in which the remittance transfer provider transmits an amount that differs from the amount requested by the sender.",
                                     "marker":"2."
                                 },
                                 {
@@ -22017,7 +22016,7 @@
                                         "3"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Incorrect amount of currency received\u2014examples. For purposes of the following examples illustrating the error for an incorrect amount of currency received under \u00a7 1005.33(a)(1)(iii), assume that none of the circumstances permitting an estimate under \u00a7 1005.32 apply (unless otherwise stated).",
+                                    "text":"Incorrect amount of currency received-examples. For purposes of the following examples illustrating the error for an incorrect amount of currency received under \u00a7 1005.33(a)(1)(iii), assume that none of the circumstances permitting an estimate under \u00a7 1005.32 apply (unless otherwise stated).",
                                     "marker":"3."
                                 },
                                 {
@@ -22030,7 +22029,7 @@
                                         "4"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Incorrect amount of currency received\u2014extraordinary circumstances. Under \u00a7 1005.33(a)(1)(iv)(B), a remittance transfer provider's failure to deliver or transmit a remittance transfer by the disclosed date of availability is not an error if such failure was caused by extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated. Examples of extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated under \u00a7 1005.33(a)(1)(iv)(B) include circumstances such as war or civil unrest, natural disaster, garnishment or attachment of some of the funds after the transfer is sent, and government actions or restrictions that could not have been reasonably anticipated by the remittance transfer provider, such as the imposition of foreign currency controls or foreign taxes unknown at the time the receipt or combined disclosure is provided under \u00a7 1005.31(b)(2) or (3).",
+                                    "text":"Incorrect amount of currency received-extraordinary circumstances. Under \u00a7 1005.33(a)(1)(iv)(B), a remittance transfer provider's failure to deliver or transmit a remittance transfer by the disclosed date of availability is not an error if such failure was caused by extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated. Examples of extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated under \u00a7 1005.33(a)(1)(iv)(B) include circumstances such as war or civil unrest, natural disaster, garnishment or attachment of some of the funds after the transfer is sent, and government actions or restrictions that could not have been reasonably anticipated by the remittance transfer provider, such as the imposition of foreign currency controls or foreign taxes unknown at the time the receipt or combined disclosure is provided under \u00a7 1005.31(b)(2) or (3).",
                                     "marker":"4."
                                 },
                                 {
@@ -22100,7 +22099,7 @@
                                         "5"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Failure to make funds available by disclosed date of availability\u2014coverage. Section 1005.33(a)(1)(iv) generally covers disputes about the failure to make funds available in connection with a remittance transfer to a designated recipient by the disclosed date of availability. If only a portion of the funds were made available by the disclosed date of availability, then \u00a7 1005.33(a)(1)(iv) does not apply, but \u00a7 1005.33(a)(1)(iii) may apply instead. The following are examples of errors for failure to make funds available by the disclosed date of availability (assuming that none of the exceptions in \u00a7 1005.33(a)(1)(iv)(A), (B), or (C) apply).",
+                                    "text":"Failure to make funds available by disclosed date of availability-coverage. Section 1005.33(a)(1)(iv) generally covers disputes about the failure to make funds available in connection with a remittance transfer to a designated recipient by the disclosed date of availability. If only a portion of the funds were made available by the disclosed date of availability, then \u00a7 1005.33(a)(1)(iv) does not apply, but \u00a7 1005.33(a)(1)(iii) may apply instead. The following are examples of errors for failure to make funds available by the disclosed date of availability (assuming that none of the exceptions in \u00a7 1005.33(a)(1)(iv)(A), (B), or (C) apply).",
                                     "marker":"5."
                                 },
                                 {
@@ -22113,7 +22112,7 @@
                                         "6"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Failure to make funds available by disclosed date of availability\u2014extraordinary circumstances. Under \u00a7 1005.33(a)(1)(iv)(A), a remittance transfer provider's failure to deliver or transmit a remittance transfer by the disclosed date of availability is not an error if such failure was caused by extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated. Examples of extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated under \u00a7 1005.33(a)(1)(iv)(A) include circumstances such as war or civil unrest, natural disaster, garnishment or attachment of funds after the transfer is sent, and government actions or restrictions that could not have been reasonably anticipated by the remittance transfer provider, such as the imposition of foreign currency controls.",
+                                    "text":"Failure to make funds available by disclosed date of availability-extraordinary circumstances. Under \u00a7 1005.33(a)(1)(iv)(A), a remittance transfer provider's failure to deliver or transmit a remittance transfer by the disclosed date of availability is not an error if such failure was caused by extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated. Examples of extraordinary circumstances outside the remittance transfer provider's control that could not have been reasonably anticipated under \u00a7 1005.33(a)(1)(iv)(A) include circumstances such as war or civil unrest, natural disaster, garnishment or attachment of funds after the transfer is sent, and government actions or restrictions that could not have been reasonably anticipated by the remittance transfer provider, such as the imposition of foreign currency controls.",
                                     "marker":"6."
                                 },
                                 {
@@ -22485,7 +22484,7 @@
                                         "1"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Concurrent error obligations. A financial institution that is also the remittance transfer provider may have error obligations under both \u00a7\u00a7 1005.11 and 1005.33. For example, if a sender asserts an error under \u00a7 1005.11 with a remittance transfer provider that holds the sender's account, and the error is not also an error under \u00a7 1005.33 (such as the omission of an EFT on a periodic statement), then the error-resolution provisions of \u00a7 1005.11 exclusively apply to the error. However, if a sender asserts an error under \u00a7 1005.33 with a remittance transfer provider that holds the sender's account, and the error is also an error under \u00a7 1005.11 (such as when the amount the sender requested to be deducted from the sender's account and sent for the remittance transfer differs from the amount that was actually deducted from the account and sent), then the error-resolution provisions of \u00a7 1005.33 exclusively apply to the error.",
+                                    "text":"Concurrent error obligations. A financial institution that is also the remittance transfer provider may have error obligations under both \u00a7 1005.11 and 1005.33. For example, if a sender asserts an error under \u00a7 1005.11 with a remittance transfer provider that holds the sender's account, and the error is not also an error under \u00a7 1005.33 (such as the omission of an EFT on a periodic statement), then the error-resolution provisions of \u00a7 1005.11 exclusively apply to the error. However, if a sender asserts an error under \u00a7 1005.33 with a remittance transfer provider that holds the sender's account, and the error is also an error under \u00a7 1005.11 (such as when the amount the sender requested to be deducted from the sender's account and sent for the remittance transfer differs from the amount that was actually deducted from the account and sent), then the error-resolution provisions of \u00a7 1005.33 exclusively apply to the error.",
                                     "marker":"1."
                                 },
                                 {
@@ -22561,7 +22560,7 @@
                     ],
                     "node_type":"interp",
                     "text":"",
-                    "title":"Section 1005.33\u2014Procedures for Resolving Errors"
+                    "title":"Section 1005.33-Procedures for Resolving Errors"
                 },
                 {
                     "children":[
@@ -22692,7 +22691,7 @@
                     ],
                     "node_type":"interp",
                     "text":"",
-                    "title":"Section 1005.34\u2014Procedures for Cancellation and Refund of Remittance Transfers"
+                    "title":"Section 1005.34-Procedures for Cancellation and Refund of Remittance Transfers"
                 },
                 {
                     "children":[
@@ -22706,7 +22705,7 @@
                             ],
                             "node_type":"interp",
                             "text":"General. Remittance transfer providers must comply with the requirements of subpart B, including, but not limited to, providing the disclosures set forth in \u00a7 1005.31 and providing any remedies as set forth in \u00a7 1005.33, even if an agent or other person performs functions for the remittance transfer provider, and regardless of whether the provider has an agreement with a third party that transfers or otherwise makes funds available to a designated recipient.",
-                            "marker":"1."
+                            "marker":"Interp"
                         }
                     ],
                     "label":[
@@ -22836,9 +22835,21 @@
                     ],
                     "node_type":"interp",
                     "text":"",
-                    "title":"Section 1005.36\u2014Transfers Scheduled in Advance"
+                    "title":"Section 1005.36-Transfers Scheduled in Advance"
                 }
             ],
+            "label":[
+                "1005",
+                "Subpart",
+                "A",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "text":"",
+            "title":"Supplement I to Part 1005\u2014Official Interpretations"
+        },
+        {
+            "children":[],
             "label":[
                 "1005",
                 "Subpart",
