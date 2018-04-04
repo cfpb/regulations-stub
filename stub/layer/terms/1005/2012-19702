@@ -7778,6 +7778,17 @@
             "ref":"electronic fund transfer:1005-3-b-1"
         }
     ],
+    "1005-30-f":[
+        {
+            "offsets":[
+                [
+                    4,
+                    32
+                ]
+            ],
+            "ref":"remittance transfer provider:1005-30-f-1"
+        }
+    ],
     "1005-30-f-1":[
         {
             "offsets":[
@@ -8972,8 +8983,8 @@
         {
             "offsets":[
                 [
-                    306,
-                    334
+                    307,
+                    335
                 ]
             ],
             "ref":"remittance transfer provider:1005-30-f-1"
@@ -9003,12 +9014,12 @@
         {
             "offsets":[
                 [
-                    281,
-                    300
+                    283,
+                    302
                 ],
                 [
-                    560,
-                    579
+                    562,
+                    581
                 ]
             ],
             "ref":"remittance transfer:1005-30-e-1"
@@ -9016,16 +9027,16 @@
         {
             "offsets":[
                 [
-                    319,
-                    325
+                    321,
+                    327
                 ],
                 [
-                    419,
-                    425
+                    421,
+                    427
                 ],
                 [
-                    478,
-                    484
+                    480,
+                    486
                 ]
             ],
             "ref":"sender:1005-30-g"
@@ -9033,8 +9044,8 @@
         {
             "offsets":[
                 [
-                    339,
-                    352
+                    341,
+                    354
                 ]
             ],
             "ref":"business day:1005-30-b"
@@ -9042,8 +9053,8 @@
         {
             "offsets":[
                 [
-                    457,
-                    465
+                    459,
+                    467
                 ]
             ],
             "ref":"remittance transfer provider:1005-30-f-1"
@@ -28522,8 +28533,8 @@
         {
             "offsets":[
                 [
-                    535,
-                    569
+                    536,
+                    570
                 ]
             ],
             "ref":"preauthorized remittance transfer:1005-30-d"
@@ -28531,8 +28542,8 @@
         {
             "offsets":[
                 [
-                    693,
-                    712
+                    694,
+                    713
                 ]
             ],
             "ref":"remittance transfer:1005-30-e-1"
@@ -28540,8 +28551,8 @@
         {
             "offsets":[
                 [
-                    731,
-                    737
+                    732,
+                    738
                 ]
             ],
             "ref":"sender:1005-30-g"
@@ -28549,8 +28560,8 @@
         {
             "offsets":[
                 [
-                    751,
-                    764
+                    752,
+                    765
                 ]
             ],
             "ref":"business day:1005-30-b"
@@ -28958,12 +28969,12 @@
         {
             "offsets":[
                 [
-                    212,
-                    220
+                    211,
+                    219
                 ],
                 [
-                    482,
-                    490
+                    481,
+                    489
                 ]
             ],
             "ref":"remittance transfer provider:1005-30-f-1"
@@ -28971,12 +28982,12 @@
         {
             "offsets":[
                 [
-                    229,
-                    248
+                    228,
+                    247
                 ],
                 [
-                    504,
-                    523
+                    503,
+                    522
                 ]
             ],
             "ref":"remittance transfer:1005-30-e-1"
@@ -28984,8 +28995,8 @@
         {
             "offsets":[
                 [
-                    459,
-                    471
+                    458,
+                    470
                 ]
             ],
             "ref":"business day:1005-30-b"
@@ -33807,6 +33818,14 @@
             ],
             "reference":"1005-15-a-2",
             "term":"account"
+        },
+        "a consumer is deemed to request an access device when the consumer applies for government benefits that the agency disburses or will disburse by:1005-15-b":{
+            "position":[
+                61,
+                205
+            ],
+            "reference":"1005-15-b",
+            "term":"a consumer is deemed to request an access device when the consumer applies for government benefits that the agency disburses or will disburse by"
         },
         "automated teller machine operator:1005-16-a":{
             "position":[

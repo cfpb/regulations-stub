@@ -1848,7 +1848,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The method by which transactions are made in the recipient country does not permit a remittance transfer provider to determine the exact exchange rate required to be disclosed under \u00a7; 1005.31(b)(1)(iv) when the provider sends a remittance transfer via international ACH on terms negotiated between the United States government and the recipient country's government, under which the exchange rate is a rate set by the recipient country's central bank on the business day after the provider has sent the remittance transfer.",
+            "text":"The method by which transactions are made in the recipient country does not permit a remittance transfer provider to determine the exact exchange rate required to be disclosed under \u00a7 1005.31(b)(1)(iv) when the provider sends a remittance transfer via international ACH on terms negotiated between the United States government and the recipient country's government, under which the exchange rate is a rate set by the recipient country's central bank on the business day after the provider has sent the remittance transfer.",
             "label":[
                 "1005",
                 "32",
@@ -4014,7 +4014,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) Except as provided in paragraph (b)(2)(ii) of this section, for disclosures described in \u00a7 1005.36(a)(1)(i) and (a)(2)(i), estimates may be provided in accordance with paragraph (d) of this section for the amounts to be disclosed under \u00a7 1005.31(b)(1)(iv) through (vii) if the remittance transfer is scheduled by a sender five or more business days before the date of the transfer. In addition, if, at the time the sender schedules such a transfer, the provider agrees to a sender's request to fix the amount to be transferred in the currency in which the remittance transfer will be received and not the currency in which it is funded, estimates may also be provided for the amounts to be disclosed under \u00a7 1005.31(b)(1)(i) through (iii), except as provided in paragraph (b)(2)(iii) of this section.",
+            "text":"(i) Except as provided in paragraph (b)(2)(ii) of this section, for disclosures described in \u00a7\u00a7 1005.36(a)(1)(i) and (a)(2)(i), estimates may be provided in accordance with paragraph (d) of this section for the amounts to be disclosed under \u00a7\u00a7 1005.31(b)(1)(iv) through (vii) if the remittance transfer is scheduled by a sender five or more business days before the date of the transfer. In addition, if, at the time the sender schedules such a transfer, the provider agrees to a sender's request to fix the amount to be transferred in the currency in which the remittance transfer will be received and not the currency in which it is funded, estimates may also be provided for the amounts to be disclosed under \u00a7\u00a7 1005.31(b)(1)(i) through (iii), except as provided in paragraph (b)(2)(iii) of this section.",
             "label":[
                 "1005",
                 "32",
@@ -4132,7 +4132,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(b) Permanent exceptions",
+            "text":"(b) Permanent exceptions.",
             "label":[
                 "1005",
                 "32",
@@ -4141,8 +4141,7 @@
             "node_type":"regtext",
             "child_labels":[
                 "1005-32-b-1",
-                "1005-32-b-2",
-                "1005-32-b-3"
+                "1005-32-b-2"
             ]
         },
         "op":"added"
@@ -4327,23 +4326,22 @@
         },
         "op":"added"
     },
-    "1005-31-c":{
+    "1005-32-a-1-Interp-2-iii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(c) Specific format requirements",
+            "text":"Other taxes. An insured institution cannot determine the exact taxes to disclose under \u00a7 1005.31(b)(1)(vi) if the insured institution cannot determine the applicable exchange rate or fees as described in paragraphs i. and ii. above, and the recipient country imposes a tax that is a percentage of the amount transferred to the designated recipient, less any other fees.",
             "label":[
                 "1005",
-                "31",
-                "c"
+                "32",
+                "a",
+                "1",
+                "Interp",
+                "2",
+                "iii"
             ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1005-31-c-1",
-                "1005-31-c-2",
-                "1005-31-c-3",
-                "1005-31-c-4"
-            ]
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -4426,7 +4424,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(d) Additional requirements for subsequent preauthorized remittance transfers",
+            "text":"(d) Additional requirements for subsequent preauthorized remittance transfers.",
             "label":[
                 "1005",
                 "36",
@@ -5222,7 +5220,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) General. For disclosures described in \u00a7 1005.31(b)(1) through (b)(3) and 1005.36(a)(1) and (a)(2), estimates may be provided for transfers to certain countries in accordance with paragraph (c) of this section for the amounts required to be disclosed under \u00a7 1005.31(b)(1)(iv) through (b)(1)(vii), if a remittance transfer provider cannot determine the exact amounts when the disclosure is required because:",
+            "text":"(i) General. For disclosures described in \u00a7\u00a7 1005.31(b)(1) through (b)(3) and 1005.36(a)(1) and (a)(2), estimates may be provided for transfers to certain countries in accordance with paragraph (c) of this section for the amounts required to be disclosed under \u00a7 1005.31(b)(1)(iv) through (b)(1)(vii), if a remittance transfer provider cannot determine the exact amounts when the disclosure is required because:",
             "label":[
                 "1005",
                 "32",
@@ -5434,23 +5432,6 @@
                 "2"
             ],
             "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-32-b-3-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(i) For disclosures described in \u00a7\u00a7\u20091005.31(b)(1) through (3) and 1005.36(a)(1) and (2), estimates may be provided for applicable non-covered third-party fees and taxes collected on the remittance transfer by a person other than the provider, which are permitted to be disclosed under \u00a7\u20091005.31(b)(1)(viii), provided such estimates are based on reasonable sources of information.",
-            "label":[
-                "1005",
-                "32",
-                "b",
-                "3",
-                "i"
-            ],
-            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -5718,7 +5699,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(f) Remittance transfer provider",
+            "text":"(f) Remittance transfer provider;",
             "label":[
                 "1005",
                 "30",
@@ -8366,22 +8347,23 @@
         },
         "op":"added"
     },
-    "1005-32-a-1-Interp-2-iii":{
+    "1005-31-c":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Other taxes. An insured institution cannot determine the exact taxes to disclose under \u00a7 1005.31(b)(1)(vi) if the insured institution cannot determine the applicable exchange rate or fees as described in paragraphs i. and ii. above, and the recipient country imposes a tax that is a percentage of the amount transferred to the designated recipient, less any other fees.",
+            "text":"(c) Specific format requirements",
             "label":[
                 "1005",
-                "32",
-                "a",
-                "1",
-                "Interp",
-                "2",
-                "iii"
+                "31",
+                "c"
             ],
-            "node_type":"interp",
-            "child_labels":[]
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-31-c-1",
+                "1005-31-c-2",
+                "1005-31-c-3",
+                "1005-31-c-4"
+            ]
         },
         "op":"added"
     },
@@ -8780,7 +8762,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(2) Normal course of business.",
+            "text":"(2) Normal course of business",
             "label":[
                 "1005",
                 "30",
@@ -9072,24 +9054,6 @@
         },
         "op":"added"
     },
-    "1005-32-b-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(3) Permanent exception for optional disclosure of non-covered third-party fees and taxes collected by a person other than the provider.",
-            "label":[
-                "1005",
-                "32",
-                "b",
-                "3"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1005-32-b-3-i"
-            ]
-        },
-        "op":"added"
-    },
     "1005-34-b-Interp":{
         "node":{
             "tagged_text":null,
@@ -9279,7 +9243,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(A) The date the provider will make the subsequent transfer, using the term \u201cFuture Transfer Date\u201d or a substantially similar term;",
+            "text":"(A) The date the provider will make the subsequent transfer, using the term \u201cFuture Transfer Date,\u201d or a substantially similar term;",
             "label":[
                 "1005",
                 "36",
@@ -9629,7 +9593,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Disclosures where estimates can be used. Sections 1005.32(a) and (b)(1) permit estimates to be used in certain circumstances for disclosures described in \u00a7 1005.31(b)(1) through (3) and 1005.36(a)(1) and(2). To the extent permitted in \u00a7 1005.32(a) and (b)(1), estimates may be used in the pre-payment disclosure described in \u00a7 1005.31(b)(1), the receipt disclosure described in \u00a7 1005.31(b)(2), the combined disclosure described in \u00a7 1005.31(b)(3), and the pre-payment disclosures and receipt disclosures for both first and subsequent preauthorized remittance transfers described in \u00a7 1005.36(a)(1) and (a)(2). Section 1005.32(b)(2) permits estimates to be used for certain information if the remittance transfer is scheduled by a sender five or more business days before the date of the transfer, for disclosures described in \u00a7 1005.36(a)(1)(i) and (a)(2)(i).",
+            "text":"Disclosures where estimates can be used. Sections 1005.32(a) and (b)(1) permit estimates to be used in certain circumstances for disclosures described in \u00a7\u00a7 1005.31(b)(1) through (3) and 1005.36(a)(1) and(2). To the extent permitted in \u00a7 1005.32(a) and (b)(1), estimates may be used in the pre-payment disclosure described in \u00a7 1005.31(b)(1), the receipt disclosure described in \u00a7 1005.31(b)(2), the combined disclosure described in \u00a7 1005.31(b)(3), and the pre-payment disclosures and receipt disclosures for both first and subsequent preauthorized remittance transfers described in \u00a7 1005.36(a)(1) and (a)(2). Section 1005.32(b)(2) permits estimates to be used for certain information if the remittance transfer is scheduled by a sender five or more business days before the date of the transfer, for disclosures described in \u00a7 1005.36(a)(1)(i) and (a)(2)(i).",
             "label":[
                 "1005",
                 "32",
