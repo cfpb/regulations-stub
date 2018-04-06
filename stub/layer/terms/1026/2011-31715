@@ -105,7 +105,7 @@
                     1020
                 ]
             ],
-            "ref":"ct:1026-2-a-1"
+            "ref":"act:1026-2-a-1"
         },
         {
             "offsets":[
@@ -414,7 +414,7 @@
                     646
                 ]
             ],
-            "ref":"ct:1026-2-a-1"
+            "ref":"act:1026-2-a-1"
         },
         {
             "offsets":[
@@ -7863,7 +7863,7 @@
             "offsets":[
                 [
                     52,
-                    62
+                    63
                 ]
             ],
             "ref":"credit card:1026-2-a-15-i"
@@ -15203,7 +15203,7 @@
                     102
                 ]
             ],
-            "ref":"ct:1026-2-a-1"
+            "ref":"act:1026-2-a-1"
         },
         {
             "offsets":[
@@ -17323,7 +17323,7 @@
                     662
                 ]
             ],
-            "ref":"ct:1026-2-a-1"
+            "ref":"act:1026-2-a-1"
         },
         {
             "offsets":[
@@ -18061,7 +18061,7 @@
             "ref":"creditor:1026-2-a-17"
         }
     ],
-    "1026-36-a-1":[
+    "1026-36-a-1-i":[
         {
             "offsets":[
                 [
@@ -18095,7 +18095,7 @@
                     460
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -18149,7 +18149,7 @@
                     131
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -18316,7 +18316,7 @@
                     153
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -18349,7 +18349,7 @@
                     189
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-36-d-2":[
@@ -18360,7 +18360,7 @@
                     66
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -18398,7 +18398,7 @@
                     22
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -18453,7 +18453,7 @@
                     177
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-36-d-3":[
@@ -18502,7 +18502,7 @@
                     101
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -18585,7 +18585,7 @@
                     111
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-36-e-3-i":[
@@ -18596,7 +18596,7 @@
                     23
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -18658,7 +18658,7 @@
                     24
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -18702,7 +18702,7 @@
                     56
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -19143,7 +19143,7 @@
                     57
                 ]
             ],
-            "ref":"closed-end credit:1026-2-a-10"
+            "ref":"open-end credit:1026-2-a-20"
         },
         {
             "offsets":[
@@ -21723,7 +21723,7 @@
                     74
                 ]
             ],
-            "ref":"ct:1026-2-a-1"
+            "ref":"act:1026-2-a-1"
         },
         {
             "offsets":[
@@ -21752,7 +21752,7 @@
                     24
                 ]
             ],
-            "ref":"ct:1026-2-a-1"
+            "ref":"act:1026-2-a-1"
         },
         {
             "offsets":[
@@ -31929,6 +31929,17 @@
             "ref":"cardholder:1026-2-a-8"
         }
     ],
+    "1026-G-3-h2-p18":[
+        {
+            "offsets":[
+                [
+                    101,
+                    107
+                ]
+            ],
+            "ref":"credit:1026-2-a-14"
+        }
+    ],
     "1026-G-3-h3-p19":[
         {
             "offsets":[
@@ -32006,6 +32017,17 @@
                 ]
             ],
             "ref":"advertisement:1026-2-a-2"
+        }
+    ],
+    "1026-G-3(A)-h6-p33":[
+        {
+            "offsets":[
+                [
+                    80,
+                    86
+                ]
+            ],
+            "ref":"credit:1026-2-a-14"
         }
     ],
     "1026-G-3(A)-h7-p35":[
@@ -57218,13 +57240,8 @@
             "offsets":[
                 [
                     94,
-                    111
-                ]
-            ],
-            "ref":"unauthorized use:1026-12-b-1-i"
-        },
-        {
-            "offsets":[
+                    110
+                ],
                 [
                     171,
                     187
@@ -62246,8 +62263,8 @@
                     78
                 ],
                 [
-                    867,
-                    887
+                    868,
+                    888
                 ]
             ],
             "ref":"material disclosure:1026-23-a-3-ii"
@@ -79630,7 +79647,7 @@
                     718
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -80968,6 +80985,24 @@
         {
             "offsets":[
                 [
+                    238,
+                    244
+                ]
+            ],
+            "ref":"credit:1026-2-a-14"
+        },
+        {
+            "offsets":[
+                [
+                    249,
+                    260
+                ]
+            ],
+            "ref":"charge card:1026-2-a-15-iii"
+        },
+        {
+            "offsets":[
+                [
                     332,
                     338
                 ],
@@ -81091,6 +81126,24 @@
         }
     ],
     "1026-28-d-Interp-2":[
+        {
+            "offsets":[
+                [
+                    61,
+                    67
+                ]
+            ],
+            "ref":"credit:1026-2-a-14"
+        },
+        {
+            "offsets":[
+                [
+                    72,
+                    83
+                ]
+            ],
+            "ref":"charge card:1026-2-a-15-iii"
+        },
         {
             "offsets":[
                 [
@@ -81298,7 +81351,7 @@
                     592
                 ]
             ],
-            "ref":"ct:1026-2-a-1"
+            "ref":"act:1026-2-a-1"
         }
     ],
     "1026-28-d-Interp-3-i":[
@@ -86253,7 +86306,7 @@
                     86
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -86293,7 +86346,7 @@
                     478
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -86362,7 +86415,7 @@
                     852
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-36-a-Interp-1-ii":[
@@ -86481,7 +86534,7 @@
                     1366
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-36-a-Interp-1-iii":[
@@ -86492,7 +86545,7 @@
                     44
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -86516,7 +86569,7 @@
                     451
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -86538,7 +86591,7 @@
                     665
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-36-a-Interp-3":[
@@ -86574,7 +86627,7 @@
                     427
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -86620,7 +86673,7 @@
                     166
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -86647,7 +86700,7 @@
                     362
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-36-c-1-i-Interp-1":[
@@ -86915,7 +86968,7 @@
                     363
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -86935,7 +86988,7 @@
                     117
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-36-d-1-Interp-1-i":[
@@ -86950,7 +87003,7 @@
                     242
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-36-d-1-Interp-1-ii":[
@@ -86965,7 +87018,7 @@
                     200
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -86985,7 +87038,7 @@
                     81
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87035,7 +87088,7 @@
                     805
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87113,7 +87166,7 @@
                     1339
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87233,7 +87286,7 @@
                     19
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87297,7 +87350,7 @@
                     63
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87317,7 +87370,7 @@
                     34
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87447,7 +87500,7 @@
                     1182
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87480,7 +87533,7 @@
                     833
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87598,7 +87651,7 @@
                     763
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87642,7 +87695,7 @@
                     1116
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87716,7 +87769,7 @@
                     221
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87774,7 +87827,7 @@
                     38
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87812,7 +87865,7 @@
                     42
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87856,7 +87909,7 @@
                     955
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -87944,7 +87997,7 @@
                     457
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -88016,7 +88069,7 @@
                     564
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-36-e-1-Interp-1":[
@@ -88061,7 +88114,7 @@
                     468
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-36-e-1-Interp-2":[
@@ -88080,7 +88133,7 @@
                     232
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -88162,7 +88215,7 @@
                     1030
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -88260,7 +88313,7 @@
                     1548
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -88361,7 +88414,7 @@
                     1323
                 ]
             ],
-            "ref":"ct:1026-2-a-1"
+            "ref":"act:1026-2-a-1"
         },
         {
             "offsets":[
@@ -88390,7 +88443,7 @@
                     148
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -88418,7 +88471,7 @@
                     273
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -88483,7 +88536,7 @@
                     121
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-36-e-2-Interp-2":[
@@ -88510,7 +88563,7 @@
                     796
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -88632,7 +88685,7 @@
                     718
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -88669,7 +88722,7 @@
                     302
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -88767,7 +88820,7 @@
                     182
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-36-e-3-Interp-2-iii":[
@@ -88809,7 +88862,7 @@
                     316
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -88855,7 +88908,7 @@
                     874
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -88924,7 +88977,7 @@
                     918
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -88976,7 +89029,7 @@
                     854
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         },
         {
             "offsets":[
@@ -92918,7 +92971,7 @@
                     484
                 ]
             ],
-            "ref":"ct:1026-2-a-1"
+            "ref":"act:1026-2-a-1"
         }
     ],
     "1026-40-f-2-ii-Interp-1":[
@@ -94868,7 +94921,7 @@
                     397
                 ]
             ],
-            "ref":"ct:1026-2-a-1"
+            "ref":"act:1026-2-a-1"
         },
         {
             "offsets":[
@@ -94966,7 +95019,7 @@
                     300
                 ]
             ],
-            "ref":"ct:1026-2-a-1"
+            "ref":"act:1026-2-a-1"
         },
         {
             "offsets":[
@@ -95226,7 +95279,7 @@
                     207
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-42-d-1-i-Interp-1":[
@@ -96567,7 +96620,7 @@
                     568
                 ]
             ],
-            "ref":"loan originator:1026-36-a-1"
+            "ref":"loan originator:1026-36-a-1-i"
         }
     ],
     "1026-42-f-1-Interp-1":[
@@ -96974,7 +97027,7 @@
                     170
                 ]
             ],
-            "ref":"ct:1026-2-a-1"
+            "ref":"act:1026-2-a-1"
         },
         {
             "offsets":[
@@ -115070,7 +115123,7 @@
                     320
                 ]
             ],
-            "ref":"ct:1026-2-a-1"
+            "ref":"act:1026-2-a-1"
         },
         {
             "offsets":[
@@ -124465,8 +124518,8 @@
                     35
                 ],
                 [
-                    487,
-                    495
+                    486,
+                    494
                 ]
             ],
             "ref":"creditor:1026-2-a-17"
@@ -126333,13 +126386,13 @@
         }
     ],
     "referenced":{
-        "ct:1026-2-a-1":{
+        "act:1026-2-a-1":{
             "position":[
                 4,
                 7
             ],
             "reference":"1026-2-a-1",
-            "term":"ct"
+            "term":"act"
         },
         "advertisement:1026-2-a-2":{
             "position":[
@@ -126805,12 +126858,12 @@
             "reference":"1026-35-b-3-iv",
             "term":"escrow account"
         },
-        "loan originator:1026-36-a-1":{
+        "loan originator:1026-36-a-1-i":{
             "position":[
                 60,
                 75
             ],
-            "reference":"1026-36-a-1",
+            "reference":"1026-36-a-1-i",
             "term":"loan originator"
         },
         "type of transaction:1026-36-e-2":{
