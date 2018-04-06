@@ -12,10 +12,16 @@
         ],
         "op":"modified"
     },
+    "1002-B-p9":{
+        "op":"deleted"
+    },
+    "1002-13-b-Interp-3-iii":{
+        "op":"deleted"
+    },
     "1002-12-b-3-Interp":{
         "op":"deleted"
     },
-    "1002-B-p3":{
+    "1002-B-p10-p1":{
         "op":"deleted"
     },
     "1002-13-a-1-i":{
@@ -82,6 +88,9 @@
     "1002-13-b-Interp-3-ii":{
         "op":"deleted"
     },
+    "1002-B-p12-p1":{
+        "op":"deleted"
+    },
     "1002-12-b-3-Interp-1-ii":{
         "op":"deleted"
     },
@@ -144,6 +153,9 @@
         },
         "op":"added"
     },
+    "1002-B-p12":{
+        "op":"deleted"
+    },
     "1002-5-a-4-vi":{
         "node":{
             "tagged_text":null,
@@ -161,22 +173,11 @@
         },
         "op":"added"
     },
-    "1002-5-a-4-iv":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"iv. A creditor that exceeded an applicable loan volume threshold in the first year of the two-year threshold period provided in 12 CFR 1003.2(g), 1003.3(c)(11), or 1003.3(c)(12) may, in the second year, collect information regarding the ethnicity, race, and sex of an applicant for a loan that would otherwise be a covered loan under 12 CFR 1003.2(e) if the loan were not excluded by 12 CFR 1003.3(c)(11) or (12);",
-            "label":[
-                "1002",
-                "5",
-                "a",
-                "4",
-                "iv"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1002-B-p10":{
+        "op":"deleted"
+    },
+    "1002-B-p11":{
+        "op":"deleted"
     },
     "1002-12-b-Interp-1":{
         "op":"deleted"
@@ -193,6 +194,9 @@
     "1002-13-a-Interp-6":{
         "op":"deleted"
     },
+    "1002-B-p11-p1":{
+        "op":"deleted"
+    },
     "1002-5-a-4-i":{
         "node":{
             "tagged_text":null,
@@ -204,6 +208,23 @@
                 "a",
                 "4",
                 "i"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1002-5-a-4-iv":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"iv. A creditor that exceeded an applicable loan volume threshold in the first year of the two-year threshold period provided in 12 CFR 1003.2(g), 1003.3(c)(11), or 1003.3(c)(12) may, in the second year, collect information regarding the ethnicity, race, and sex of an applicant for a loan that would otherwise be a covered loan under 12 CFR 1003.2(e) if the loan were not excluded by 12 CFR 1003.3(c)(11) or (12);",
+            "label":[
+                "1002",
+                "5",
+                "a",
+                "4",
+                "iv"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -235,9 +256,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1002-B-p3-p1":{
-        "op":"deleted"
     },
     "1002-13-c-Interp-1":{
         "op":"deleted"
@@ -284,8 +302,28 @@
     "1002-12-b-7-Interp-2":{
         "op":"deleted"
     },
-    "1002-12-b-7-Interp-3":{
-        "op":"deleted"
+    "1002-5-a-4":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"4. Other permissible collection of information. Notwithstanding paragraph (b) of this section, a creditor may collect information under the following circumstances provided that the creditor collects the information in compliance with appendix B to 12 CFR part 1003:",
+            "label":[
+                "1002",
+                "5",
+                "a",
+                "4"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1002-5-a-4-i",
+                "1002-5-a-4-ii",
+                "1002-5-a-4-iii",
+                "1002-5-a-4-iv",
+                "1002-5-a-4-v",
+                "1002-5-a-4-vi"
+            ]
+        },
+        "op":"added"
     },
     "1002-12-b-7-Interp-1":{
         "op":"deleted"
@@ -298,19 +336,60 @@
             [
                 [
                     "delete",
+                    26,
+                    30
+                ],
+                [
+                    "insert",
+                    26,
+                    "four"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    388,
+                    391
+                ],
+                [
+                    "insert",
+                    388,
+                    "and the"
+                ]
+            ],
+            [
+                [
+                    "delete",
                     479,
-                    494
+                    543
                 ],
                 [
                     "insert",
                     479,
-                    "States; and the"
+                    "States. This appendix also"
                 ]
             ],
             [
                 "insert",
-                644,
-                "This appendix also contains a data collection model form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of \u00a7\u20091002.13(a)(1)(i)(A) and (ii). Appendix B to 12 CFR part 1003 provides a data collection model form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of \u00a7\u20091002.13(a)(1)(i)(B) and (ii). "
+                555,
+                "data collection "
+            ],
+            [
+                [
+                    "delete",
+                    561,
+                    575
+                ],
+                [
+                    "insert",
+                    561,
+                    "form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of \u00a7\u20091002.13(a)(1)(i)(A) and (ii). Appendix B to 12 CFR part 1003 provides a data collection model form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of \u00a7\u20091002.13(a)(1)(i)(B) and (ii). All forms contained in this appendix are models; their"
+                ]
+            ],
+            [
+                "delete",
+                580,
+                703
             ]
         ],
         "op":"modified"
@@ -336,7 +415,7 @@
     "1002-13-b-Interp-1":{
         "op":"deleted"
     },
-    "1002-13-b-Interp-3-iii":{
+    "1002-12-b-7-Interp-3":{
         "op":"deleted"
     },
     "1002-13-a-Interp-2":{
@@ -348,28 +427,8 @@
     "1002-13-a-Interp-1":{
         "op":"deleted"
     },
-    "1002-5-a-4":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"4. Other permissible collection of information. Notwithstanding paragraph (b) of this section, a creditor may collect information under the following circumstances provided that the creditor collects the information in compliance with appendix B to 12 CFR part 1003:",
-            "label":[
-                "1002",
-                "5",
-                "a",
-                "4"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1002-5-a-4-i",
-                "1002-5-a-4-ii",
-                "1002-5-a-4-iii",
-                "1002-5-a-4-iv",
-                "1002-5-a-4-v",
-                "1002-5-a-4-vi"
-            ]
-        },
-        "op":"added"
+    "1002-B-p9-p1":{
+        "op":"deleted"
     },
     "1002-13-a-Interp-7":{
         "op":"deleted"
