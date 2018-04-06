@@ -1,13 +1,62 @@
 {
-    "1002-B-p3-p1":{
+    "1002-B-p12-p1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"![](ER21DE11.048)",
+            "text":"![](ER21DE11.057)",
             "label":[
                 "1002",
                 "B",
-                "p3",
+                "p12",
+                "p1"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1002-B-p9":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"",
+            "label":[
+                "1002",
+                "B",
+                "p9"
+            ],
+            "node_type":"appendix",
+            "child_labels":[
+                "1002-B-p9-p1"
+            ]
+        },
+        "op":"added"
+    },
+    "1002-B-p11-p1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"![](ER21DE11.056)",
+            "label":[
+                "1002",
+                "B",
+                "p11",
+                "p1"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1002-B-p10-p1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"![](ER21DE11.055)",
+            "label":[
+                "1002",
+                "B",
+                "p10",
                 "p1"
             ],
             "node_type":"appendix",
@@ -20,36 +69,53 @@
             [
                 [
                     "delete",
-                    479,
-                    486
+                    26,
+                    30
                 ],
                 [
                     "insert",
-                    479,
-                    "states;"
+                    26,
+                    "five"
+                ]
+            ],
+            [
+                "insert",
+                388,
+                "the fourth in transactions involving community property or occurring in community property states; "
+            ],
+            [
+                [
+                    "delete",
+                    396,
+                    405
+                ],
+                [
+                    "insert",
+                    396,
+                    "fifth in residential mortgage"
                 ]
             ],
             [
                 [
                     "delete",
-                    644,
-                    648
+                    419,
+                    495
                 ],
                 [
                     "insert",
-                    644,
-                    "All forms contained in this"
+                    419,
+                    "which contains a model disclosure for use in complying with \u00a7\u20091002.13 for certain dwelling-related loans. All forms contained in this"
                 ]
             ],
             [
                 "delete",
-                658,
-                1105
+                505,
+                952
             ]
         ],
         "op":"modified"
     },
-    "1002-B-p3":{
+    "1002-B-p12":{
         "node":{
             "tagged_text":null,
             "title":null,
@@ -57,12 +123,62 @@
             "label":[
                 "1002",
                 "B",
-                "p3"
+                "p12"
             ],
             "node_type":"appendix",
             "child_labels":[
-                "1002-B-p3-p1"
+                "1002-B-p12-p1"
             ]
+        },
+        "op":"added"
+    },
+    "1002-B-p10":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"",
+            "label":[
+                "1002",
+                "B",
+                "p10"
+            ],
+            "node_type":"appendix",
+            "child_labels":[
+                "1002-B-p10-p1"
+            ]
+        },
+        "op":"added"
+    },
+    "1002-B-p11":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"",
+            "label":[
+                "1002",
+                "B",
+                "p11"
+            ],
+            "node_type":"appendix",
+            "child_labels":[
+                "1002-B-p11-p1"
+            ]
+        },
+        "op":"added"
+    },
+    "1002-B-p9-p1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"![](ER21DE11.054)",
+            "label":[
+                "1002",
+                "B",
+                "p9",
+                "p1"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
         },
         "op":"added"
     }
