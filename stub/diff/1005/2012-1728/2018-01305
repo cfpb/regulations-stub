@@ -6359,22 +6359,123 @@
         },
         "op":"added"
     },
-    "1005-36-d-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Disclosure of the date of transfer. The date of transfer of a subsequent preauthorized remittance transfer may be disclosed as a specific date (e.g., July 19, 2013) or by using a method that clearly permits identification of the date of the transfer, such as periodic intervals (e.g., the third Monday of every month, or the 15th of every month). If the future dates of transfer are disclosed as occurring periodically and there is a break in the sequence, or the date of transfer does not otherwise conform to the described period, e.g., if a holiday or weekend causes the provider to deviate from the normal schedule, the remittance transfer provider should disclose the specific date of transfer for the affected transfer.",
-            "label":[
-                "1005",
-                "36",
-                "d",
-                "Interp",
-                "3"
+    "1005-A-Interp-4":{
+        "text":[
+            [
+                [
+                    "delete",
+                    89,
+                    90
+                ],
+                [
+                    "insert",
+                    89,
+                    "  "
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    122,
+                    124
+                ],
+                [
+                    "insert",
+                    122,
+                    "15"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    185,
+                    186
+                ],
+                [
+                    "insert",
+                    185,
+                    "  "
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    335,
+                    341
+                ],
+                [
+                    "insert",
+                    335,
+                    "  Model"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    348,
+                    352
+                ],
+                [
+                    "insert",
+                    348,
+                    "A-30(a)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    488,
+                    494
+                ],
+                [
+                    "insert",
+                    488,
+                    "  Model"
+                ]
+            ],
+            [
+                "insert",
+                501,
+                "A-30(a), (b), (c), and (d) demonstrate four options regarding model language related to the required disclaimer, where applicable, of non-covered third-party fees and taxes on the remittance transfer collected by  a person other than the provider under \u00a7 1005.31(b)(1)(viii).  Model forms 30(b) through (d) also include language that may be used if a provider elects to estimate either these non-covered third-party fees or taxes collected by a person other than the provider as part of the disclaimer.  Model Forms "
+            ],
+            [
+                [
+                    "delete",
+                    627,
+                    628
+                ],
+                [
+                    "insert",
+                    627,
+                    "  "
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    848,
+                    854
+                ],
+                [
+                    "insert",
+                    848,
+                    "  Model"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    1098,
+                    1104
+                ],
+                [
+                    "insert",
+                    1098,
+                    "  Model"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-32-b-Interp-5":{
         "op":"deleted"
@@ -12622,124 +12723,6 @@
         },
         "op":"added"
     },
-    "1005-A-Interp-4":{
-        "text":[
-            [
-                [
-                    "delete",
-                    89,
-                    90
-                ],
-                [
-                    "insert",
-                    89,
-                    "  "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    122,
-                    124
-                ],
-                [
-                    "insert",
-                    122,
-                    "15"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    185,
-                    186
-                ],
-                [
-                    "insert",
-                    185,
-                    "  "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    335,
-                    341
-                ],
-                [
-                    "insert",
-                    335,
-                    "  Model"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    348,
-                    352
-                ],
-                [
-                    "insert",
-                    348,
-                    "A-30(a)"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    488,
-                    494
-                ],
-                [
-                    "insert",
-                    488,
-                    "  Model"
-                ]
-            ],
-            [
-                "insert",
-                501,
-                "A-30(a), (b), (c), and (d) demonstrate four options regarding model language related to the required disclaimer, where applicable, of non-covered third-party fees and taxes on the remittance transfer collected by  a person other than the provider under \u00a7 1005.31(b)(1)(viii).  Model forms 30(b) through (d) also include language that may be used if a provider elects to estimate either these non-covered third-party fees or taxes collected by a person other than the provider as part of the disclaimer.  Model Forms "
-            ],
-            [
-                [
-                    "delete",
-                    627,
-                    628
-                ],
-                [
-                    "insert",
-                    627,
-                    "  "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    848,
-                    854
-                ],
-                [
-                    "insert",
-                    848,
-                    "  Model"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    1098,
-                    1104
-                ],
-                [
-                    "insert",
-                    1098,
-                    "  Model"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1005-19-a-2-Interp-2-vi":{
         "node":{
             "tagged_text":null,
@@ -13148,6 +13131,23 @@
             ]
         ],
         "op":"modified"
+    },
+    "1005-36-d-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Disclosure of the date of transfer. The date of transfer of a subsequent preauthorized remittance transfer may be disclosed as a specific date (e.g., July 19, 2013) or by using a method that clearly permits identification of the date of the transfer, such as periodic intervals (e.g., the third Monday of every month, or the 15th of every month). If the future dates of transfer are disclosed as occurring periodically and there is a break in the sequence, or the date of transfer does not otherwise conform to the described period, e.g., if a holiday or weekend causes the provider to deviate from the normal schedule, the remittance transfer provider should disclose the specific date of transfer for the affected transfer.",
+            "label":[
+                "1005",
+                "36",
+                "d",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-18-b-4-iii-Interp-1":{
         "node":{

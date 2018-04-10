@@ -4922,21 +4922,26 @@
         ],
         "op":"modified"
     },
-    "1005-19-a-8-Interp":{
+    "1005-Subpart-B-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"19(a)(8)\u2003Prepaid Account.",
+            "title":"Interpretations for Subpart B - Requirements for Remittance Transfers.",
             "text":"",
             "label":[
                 "1005",
-                "19",
-                "a",
-                "8",
+                "Subpart",
+                "B",
                 "Interp"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1005-19-a-8-Interp-1"
+                "1005-30-Interp",
+                "1005-31-Interp",
+                "1005-32-Interp",
+                "1005-33-Interp",
+                "1005-34-Interp",
+                "1005-35-Interp",
+                "1005-36-Interp"
             ]
         },
         "op":"added"
@@ -5776,6 +5781,7 @@
                 "1005-14-Interp",
                 "1005-17-Interp",
                 "1005-20-Interp",
+                "1005-A-Interp",
                 "1005-15-Interp",
                 "1005-19-Interp"
             ]
@@ -6145,22 +6151,87 @@
         ],
         "op":"modified"
     },
-    "1005-34-b-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Fees and taxes refunded. If a sender provides a timely request to cancel a remittance transfer, a remittance transfer provider must refund all funds provided by the sender in connection with the remittance transfer, including any fees and, to the extent not prohibited by law, taxes that have been imposed for the transfer, whether the fee or tax was assessed by the provider or a third party, such as an intermediary institution, the agent or bank in the recipient country, or a State or other governmental body.",
-            "label":[
-                "1005",
-                "34",
-                "b",
-                "Interp",
-                "2"
+    "1005-A-Interp-2":{
+        "text":[
+            [
+                "insert",
+                0,
+                "Use of forms.The appendix contains model disclosure clauses for optional use by financial institutions and remittance transfer providers to facilitate compliance with the disclosure requirements of \u00a7\u00a7\u20091005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(c), 1005.15(e)(1) and (2), 1005.18(b)(2), (3), (6) and (7), 1005.18(d)(1) and (2), 1005.31, 1005.32 and 1005.36. "
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    4,
+                    38
+                ],
+                [
+                    "insert",
+                    4,
+                    "use of appropriate"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    47,
+                    66
+                ],
+                [
+                    "insert",
+                    47,
+                    "in making disclosures will protect a"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    77,
+                    119
+                ],
+                [
+                    "insert",
+                    77,
+                    "institution and a remittance transfer provider from liability under sections 916 and 917 of"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    124,
+                    172
+                ],
+                [
+                    "insert",
+                    124,
+                    "act provided the clauses accurately reflect the institution's EFT services"
+                ]
+            ],
+            [
+                "delete",
+                177,
+                425
+            ],
+            [
+                [
+                    "delete",
+                    429,
+                    504
+                ],
+                [
+                    "insert",
+                    429,
+                    "provider's remittance transfer services, respectively."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                13
+            ]
+        ],
+        "op":"modified"
     },
     "1005-34-b-Interp-1":{
         "node":{
@@ -11775,9 +11846,7 @@
                 "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1005-A-Interp"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -13474,26 +13543,21 @@
         },
         "op":"added"
     },
-    "1005-Subpart-B-Interp":{
+    "1005-19-a-8-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"Interpretations for Subpart B - Requirements for Remittance Transfers.",
+            "title":"19(a)(8)\u2003Prepaid Account.",
             "text":"",
             "label":[
                 "1005",
-                "Subpart",
-                "B",
+                "19",
+                "a",
+                "8",
                 "Interp"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1005-30-Interp",
-                "1005-31-Interp",
-                "1005-32-Interp",
-                "1005-33-Interp",
-                "1005-34-Interp",
-                "1005-35-Interp",
-                "1005-36-Interp"
+                "1005-19-a-8-Interp-1"
             ]
         },
         "op":"added"
@@ -16462,87 +16526,22 @@
         },
         "op":"added"
     },
-    "1005-A-Interp-2":{
-        "text":[
-            [
-                "insert",
-                0,
-                "Use of forms.The appendix contains model disclosure clauses for optional use by financial institutions and remittance transfer providers to facilitate compliance with the disclosure requirements of \u00a7\u00a7\u20091005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(c), 1005.15(e)(1) and (2), 1005.18(b)(2), (3), (6) and (7), 1005.18(d)(1) and (2), 1005.31, 1005.32 and 1005.36. "
+    "1005-34-b-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Fees and taxes refunded. If a sender provides a timely request to cancel a remittance transfer, a remittance transfer provider must refund all funds provided by the sender in connection with the remittance transfer, including any fees and, to the extent not prohibited by law, taxes that have been imposed for the transfer, whether the fee or tax was assessed by the provider or a third party, such as an intermediary institution, the agent or bank in the recipient country, or a State or other governmental body.",
+            "label":[
+                "1005",
+                "34",
+                "b",
+                "Interp",
+                "2"
             ],
-            [
-                [
-                    "delete",
-                    4,
-                    38
-                ],
-                [
-                    "insert",
-                    4,
-                    "use of appropriate"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    47,
-                    66
-                ],
-                [
-                    "insert",
-                    47,
-                    "in making disclosures will protect a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    77,
-                    119
-                ],
-                [
-                    "insert",
-                    77,
-                    "institution and a remittance transfer provider from liability under sections 916 and 917 of"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    124,
-                    172
-                ],
-                [
-                    "insert",
-                    124,
-                    "act provided the clauses accurately reflect the institution's EFT services"
-                ]
-            ],
-            [
-                "delete",
-                177,
-                425
-            ],
-            [
-                [
-                    "delete",
-                    429,
-                    504
-                ],
-                [
-                    "insert",
-                    429,
-                    "provider's remittance transfer services, respectively."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                13
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-12-b-Interp-3-i":{
         "node":{

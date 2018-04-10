@@ -2153,22 +2153,19 @@
         },
         "op":"added"
     },
-    "1005-31-g-1-Interp-1-i-C":{
+    "1005-31-b-2-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The specific foreign language terms used in the advertising soliciting, or marketing of remittance transfer service at that office.",
+            "text":"(i) The disclosures described in paragraphs (b)(1)(i) through (viii) of this section;",
             "label":[
                 "1005",
                 "31",
-                "g",
-                "1",
-                "Interp",
-                "1",
-                "i",
-                "C"
+                "b",
+                "2",
+                "i"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -2914,7 +2911,8 @@
                 "1005-14-Interp",
                 "1005-17-Interp",
                 "1005-18-Interp",
-                "1005-20-Interp"
+                "1005-20-Interp",
+                "1005-A-Interp"
             ]
         },
         "op":"added"
@@ -3115,22 +3113,61 @@
         },
         "op":"added"
     },
-    "1005-34-b-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Fees and taxes refunded. If a sender provides a timely request to cancel a remittance transfer, a remittance transfer provider must refund all funds provided by the sender in connection with the remittance transfer, including any fees and, to the extent not prohibited by law, taxes that have been imposed for the transfer, whether the fee or tax was assessed by the provider or a third party, such as an intermediary institution, the agent or bank in the recipient country, or a State or other governmental body.",
-            "label":[
-                "1005",
-                "34",
-                "b",
-                "Interp",
-                "2"
+    "1005-A-Interp-2":{
+        "text":[
+            [
+                "insert",
+                90,
+                "and remittance transfer providers "
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                "insert",
+                151,
+                "\u00a7\u00a7 1005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(d)(1) and (2), 1005.18(c)(1) and (2), 1005.31, and 1005.36. The use of appropriate clauses in making disclosures will protect a financial institution and a remittance transfer provider from liability under "
+            ],
+            [
+                [
+                    "delete",
+                    160,
+                    172
+                ],
+                [
+                    "insert",
+                    160,
+                    "916"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    177,
+                    247
+                ],
+                [
+                    "insert",
+                    177,
+                    "917 of the act provided the clauses accurately reflect the institution's EFT services"
+                ]
+            ],
+            [
+                "delete",
+                252,
+                425
+            ],
+            [
+                [
+                    "delete",
+                    429,
+                    504
+                ],
+                [
+                    "insert",
+                    429,
+                    "provider's remittance transfer services, respectively."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-34-b-Interp-1":{
         "node":{
@@ -4035,19 +4072,22 @@
         },
         "op":"added"
     },
-    "1005-31-b-2-i":{
+    "1005-31-g-1-Interp-1-i-C":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) The disclosures described in paragraphs (b)(1)(i) through (viii) of this section;",
+            "text":"The specific foreign language terms used in the advertising soliciting, or marketing of remittance transfer service at that office.",
             "label":[
                 "1005",
                 "31",
-                "b",
-                "2",
-                "i"
+                "g",
+                "1",
+                "Interp",
+                "1",
+                "i",
+                "C"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -6373,9 +6413,7 @@
                 "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1005-A-Interp"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -8519,61 +8557,22 @@
         },
         "op":"added"
     },
-    "1005-A-Interp-2":{
-        "text":[
-            [
-                "insert",
-                90,
-                "and remittance transfer providers "
+    "1005-34-b-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Fees and taxes refunded. If a sender provides a timely request to cancel a remittance transfer, a remittance transfer provider must refund all funds provided by the sender in connection with the remittance transfer, including any fees and, to the extent not prohibited by law, taxes that have been imposed for the transfer, whether the fee or tax was assessed by the provider or a third party, such as an intermediary institution, the agent or bank in the recipient country, or a State or other governmental body.",
+            "label":[
+                "1005",
+                "34",
+                "b",
+                "Interp",
+                "2"
             ],
-            [
-                "insert",
-                151,
-                "\u00a7\u00a7 1005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(d)(1) and (2), 1005.18(c)(1) and (2), 1005.31, and 1005.36. The use of appropriate clauses in making disclosures will protect a financial institution and a remittance transfer provider from liability under "
-            ],
-            [
-                [
-                    "delete",
-                    160,
-                    172
-                ],
-                [
-                    "insert",
-                    160,
-                    "916"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    177,
-                    247
-                ],
-                [
-                    "insert",
-                    177,
-                    "917 of the act provided the clauses accurately reflect the institution's EFT services"
-                ]
-            ],
-            [
-                "delete",
-                252,
-                425
-            ],
-            [
-                [
-                    "delete",
-                    429,
-                    504
-                ],
-                [
-                    "insert",
-                    429,
-                    "provider's remittance transfer services, respectively."
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-30-c-Interp-2-i":{
         "node":{

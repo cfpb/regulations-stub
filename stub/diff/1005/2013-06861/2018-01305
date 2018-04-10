@@ -3274,24 +3274,25 @@
         },
         "op":"added"
     },
-    "1005-32-b-1-Interp-2":{
+    "1005-18-b-2-ix-E-2-Interp-1-i":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Example illustrating when exact amounts can and cannot be determined because of the laws of the recipient country.",
+            "title":"Reassessment with no change in the additional fee types disclosed.",
+            "text":"A financial institution disclosed two additional fee types (bill payment and card replacement) for a particular prepaid account program on April 1, 2019. Starting on April 1, 2021, the financial institution assessed the fee revenue data it collected over the previous 24 months, and the two additional fee types previously disclosed continue to qualify as additional fee types pursuant to \u00a7\u20091005.18(b)(2)(ix). The financial institution is not required to take any action with regard to the disclosure of additional fee types for that prepaid account program.",
             "label":[
                 "1005",
-                "32",
+                "18",
                 "b",
-                "1",
+                "2",
+                "ix",
+                "E",
+                "2",
                 "Interp",
-                "2"
+                "1",
+                "i"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1005-32-b-1-Interp-2-i",
-                "1005-32-b-1-Interp-2-ii"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -3388,24 +3389,6 @@
                 "1"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-A-Interp-4-iii-C":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Correcting or updating telephone numbers, mailing addresses, or Web site addresses that may change over time.",
-            "label":[
-                "1005",
-                "A",
-                "Interp",
-                "4",
-                "iii",
-                "C"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -3732,21 +3715,22 @@
         ],
         "op":"modified"
     },
-    "1005-A-Interp-4-iii-E":{
+    "1005-18-e-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Adding a term substantially similar to \u201cestimated\u201d in close proximity to the specified terms in \u00a7 1005.31(b)(1) and (2), as required under \u00a7 1005.31(d).",
+            "text":"(1) Modified limitations on liability requirements.A financial institution that provides information under paragraph (c)(1) of this section shall comply with the following:",
             "label":[
                 "1005",
-                "A",
-                "Interp",
-                "4",
-                "iii",
-                "E"
+                "18",
+                "e",
+                "1"
             ],
-            "node_type":"interp",
-            "child_labels":[]
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-18-e-1-i",
+                "1005-18-e-1-ii"
+            ]
         },
         "op":"added"
     },
@@ -4928,20 +4912,17 @@
         },
         "op":"added"
     },
-    "1005-18-b-2-ix-C-Interp-2":{
+    "1005-A-Interp-4-ii":{
         "node":{
             "tagged_text":null,
-            "title":"One fee variation under a particular fee type.",
-            "text":"Section 1005.18(b)(2)(ix)(C) provides in part that, if a financial institution only charges one fee under a particular fee type, the financial institution must disclose the name of the additional fee type and the fee amount; it may, but is not required to, disclose also the name of the one fee variation, if any, for which the fee amount is charged, in a format substantially similar to that used to disclose the two-tier fees required by \u00a7\u20091005.18(b)(2)(v) and (vi), except that the financial institution must disclose only the one fee variation name and fee amount instead of two. For example, a financial institution offers one method of electronic reload for which it charges a fee\u2014electronic reload conducted using a debit card. The financial institution must calculate the total revenue generated from consumers for the fee type electronic reload (i.e., in this case, electronic reloads conducted using a debit card) during the required time period to determine whether it must disclose electronic reload as an additional fee type pursuant to \u00a7\u20091005.18(b)(2)(ix). Because the financial institution only charges one fee variation under the fee type electronic reload, if this fee type is required to be disclosed as an additional fee type, the financial institution has two options for disclosing this fee type in accordance with \u00a7\u20091005.18(b)(2)(ix)(C): \u201cElectronic reload (debit card)\u201d and the fee amount as \u201c$1.00\u201d or \u201cElectronic reload\u201d and the fee amount as \u201c$1.00\u201d.",
+            "title":null,
+            "text":"Use of the model forms is optional.  A remittance transfer provider may change the forms by rearranging the format or by making modifications to the language of the forms, in each case without modifying the substance of the disclosures.  Any rearrangement or modification of the format of the model forms must be consistent with the form, grouping, proximity, and other requirements of \u00a7 1005.31(a) and (c).  Providers making revisions that do not comply with this section will lose the benefit of the safe harbor for appropriate use of Model Forms A-30(a) to A-41.",
             "label":[
                 "1005",
-                "18",
-                "b",
-                "2",
-                "ix",
-                "C",
+                "A",
                 "Interp",
-                "2"
+                "4",
+                "ii"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -6581,6 +6562,7 @@
                 "1005-14-Interp",
                 "1005-17-Interp",
                 "1005-20-Interp",
+                "1005-A-Interp",
                 "1005-15-Interp",
                 "1005-19-Interp",
                 "1005-18-Interp"
@@ -7042,26 +7024,87 @@
         ],
         "op":"modified"
     },
-    "1005-18-b-2-ix-A-Interp-4-i":{
-        "node":{
-            "tagged_text":null,
-            "title":"Prepaid account programs with different fee schedules.",
-            "text":"A financial institution offers multiple prepaid account programs and each program has a different fee schedule. The financial institution must consider the revenue from consumers for each program separately; it may not consider the revenue from all of its prepaid account programs together in determining the disclosure of additional fee types for its programs.",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "2",
-                "ix",
-                "A",
-                "Interp",
-                "4",
-                "i"
+    "1005-A-Interp-2":{
+        "text":[
+            [
+                "insert",
+                0,
+                "Use of forms.The appendix contains model disclosure clauses for optional use by financial institutions and remittance transfer providers to facilitate compliance with the disclosure requirements of \u00a7\u00a7\u20091005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(c), 1005.15(e)(1) and (2), 1005.18(b)(2), (3), (6) and (7), 1005.18(d)(1) and (2), 1005.31, 1005.32 and 1005.36. "
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    4,
+                    38
+                ],
+                [
+                    "insert",
+                    4,
+                    "use of appropriate"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    47,
+                    66
+                ],
+                [
+                    "insert",
+                    47,
+                    "in making disclosures will protect a"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    77,
+                    119
+                ],
+                [
+                    "insert",
+                    77,
+                    "institution and a remittance transfer provider from liability under sections 916 and 917 of"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    124,
+                    172
+                ],
+                [
+                    "insert",
+                    124,
+                    "act provided the clauses accurately reflect the institution's EFT services"
+                ]
+            ],
+            [
+                "delete",
+                177,
+                425
+            ],
+            [
+                [
+                    "delete",
+                    429,
+                    504
+                ],
+                [
+                    "insert",
+                    429,
+                    "provider's remittance transfer services, respectively."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                13
+            ]
+        ],
+        "op":"modified"
     },
     "1005-34-b-Interp-1":{
         "node":{
@@ -8230,22 +8273,18 @@
         },
         "op":"added"
     },
-    "1005-18-b-2-ix-E-2-Interp-1-i":{
+    "1005-A-Interp-4-iii-C":{
         "node":{
             "tagged_text":null,
-            "title":"Reassessment with no change in the additional fee types disclosed.",
-            "text":"A financial institution disclosed two additional fee types (bill payment and card replacement) for a particular prepaid account program on April 1, 2019. Starting on April 1, 2021, the financial institution assessed the fee revenue data it collected over the previous 24 months, and the two additional fee types previously disclosed continue to qualify as additional fee types pursuant to \u00a7\u20091005.18(b)(2)(ix). The financial institution is not required to take any action with regard to the disclosure of additional fee types for that prepaid account program.",
+            "title":null,
+            "text":"Correcting or updating telephone numbers, mailing addresses, or Web site addresses that may change over time.",
             "label":[
                 "1005",
-                "18",
-                "b",
-                "2",
-                "ix",
-                "E",
-                "2",
+                "A",
                 "Interp",
-                "1",
-                "i"
+                "4",
+                "iii",
+                "C"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -8341,20 +8380,18 @@
         },
         "op":"added"
     },
-    "1005-18-b-9-ii-B-Interp-1":{
+    "1005-A-Interp-4-iii-E":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The financial institution does not principally use a foreign language on prepaid account packaging material nor does it principally use a foreign language to advertise, solicit, or market a prepaid account. A consumer calls the financial institution's customer service line and speaks to a customer service representative in a foreign language. However, if the customer service representative proceeds with the prepaid account acquisition process over the telephone, the financial institution would be required to provide the pre-acquisition disclosures in that foreign language. (But see \u00a7\u20091005.18(b)(9)(i)(C), which limits the obligation to provide foreign language disclosures for payroll card accounts and government benefit accounts acquired orally by telephone in certain circumstances.)",
+            "text":"Adding a term substantially similar to \u201cestimated\u201d in close proximity to the specified terms in \u00a7 1005.31(b)(1) and (2), as required under \u00a7 1005.31(d).",
             "label":[
                 "1005",
-                "18",
-                "b",
-                "9",
-                "ii",
-                "B",
+                "A",
                 "Interp",
-                "1"
+                "4",
+                "iii",
+                "E"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -12589,6 +12626,23 @@
         ],
         "op":"modified"
     },
+    "1005-34-b-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Fees and taxes refunded. If a sender provides a timely request to cancel a remittance transfer, a remittance transfer provider must refund all funds provided by the sender in connection with the remittance transfer, including any fees and, to the extent not prohibited by law, taxes that have been imposed for the transfer, whether the fee or tax was assessed by the provider or a third party, such as an intermediary institution, the agent or bank in the recipient country, or a State or other governmental body.",
+            "label":[
+                "1005",
+                "34",
+                "b",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-18-b-2-xiii-Interp-2":{
         "node":{
             "tagged_text":null,
@@ -13424,88 +13478,6 @@
         },
         "op":"added"
     },
-    "1005-A-Interp-2":{
-        "text":[
-            [
-                "insert",
-                0,
-                "Use of forms.The appendix contains model disclosure clauses for optional use by financial institutions and remittance transfer providers to facilitate compliance with the disclosure requirements of \u00a7\u00a7\u20091005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(c), 1005.15(e)(1) and (2), 1005.18(b)(2), (3), (6) and (7), 1005.18(d)(1) and (2), 1005.31, 1005.32 and 1005.36. "
-            ],
-            [
-                [
-                    "delete",
-                    4,
-                    38
-                ],
-                [
-                    "insert",
-                    4,
-                    "use of appropriate"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    47,
-                    66
-                ],
-                [
-                    "insert",
-                    47,
-                    "in making disclosures will protect a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    77,
-                    119
-                ],
-                [
-                    "insert",
-                    77,
-                    "institution and a remittance transfer provider from liability under sections 916 and 917 of"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    124,
-                    172
-                ],
-                [
-                    "insert",
-                    124,
-                    "act provided the clauses accurately reflect the institution's EFT services"
-                ]
-            ],
-            [
-                "delete",
-                177,
-                425
-            ],
-            [
-                [
-                    "delete",
-                    429,
-                    504
-                ],
-                [
-                    "insert",
-                    429,
-                    "provider's remittance transfer services, respectively."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                13
-            ]
-        ],
-        "op":"modified"
-    },
     "1005-18-e-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -13640,6 +13612,26 @@
                 "iii"
             ],
             "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-18-b-9-ii-B-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The financial institution does not principally use a foreign language on prepaid account packaging material nor does it principally use a foreign language to advertise, solicit, or market a prepaid account. A consumer calls the financial institution's customer service line and speaks to a customer service representative in a foreign language. However, if the customer service representative proceeds with the prepaid account acquisition process over the telephone, the financial institution would be required to provide the pre-acquisition disclosures in that foreign language. (But see \u00a7\u20091005.18(b)(9)(i)(C), which limits the obligation to provide foreign language disclosures for payroll card accounts and government benefit accounts acquired orally by telephone in certain circumstances.)",
+            "label":[
+                "1005",
+                "18",
+                "b",
+                "9",
+                "ii",
+                "B",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -13860,17 +13852,18 @@
         },
         "op":"added"
     },
-    "1005-A-Interp-4-iv":{
+    "1005-19-b-6-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Changes to the model forms that are not permissible include, for example, adding information that is not segregated from the required disclosures, other than as permitted by \u00a7 1005.31(c)(4).",
+            "title":"Agreements currently in effect.",
+            "text":"Agreements submitted to the Bureau must contain the provisions of the agreement and fee information currently in effect. For example, on June 1, an issuer decides to decrease the out-of-network ATM withdrawal fee associated with one of the agreements it offers. The change in that fee will become effective on August 1. The issuer must submit and post the amended agreement with the decreased out-of-network ATM withdrawal fee to the Bureau by August 31 as required by \u00a7\u20091005.19(b)(2)(i) and (c).",
             "label":[
                 "1005",
-                "A",
+                "19",
+                "b",
+                "6",
                 "Interp",
-                "4",
-                "iv"
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -19185,23 +19178,25 @@
                 "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1005-A-Interp"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
-    "1005-34-b-Interp-2":{
+    "1005-18-b-2-ix-A-Interp-4-i":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Fees and taxes refunded. If a sender provides a timely request to cancel a remittance transfer, a remittance transfer provider must refund all funds provided by the sender in connection with the remittance transfer, including any fees and, to the extent not prohibited by law, taxes that have been imposed for the transfer, whether the fee or tax was assessed by the provider or a third party, such as an intermediary institution, the agent or bank in the recipient country, or a State or other governmental body.",
+            "title":"Prepaid account programs with different fee schedules.",
+            "text":"A financial institution offers multiple prepaid account programs and each program has a different fee schedule. The financial institution must consider the revenue from consumers for each program separately; it may not consider the revenue from all of its prepaid account programs together in determining the disclosure of additional fee types for its programs.",
             "label":[
                 "1005",
-                "34",
+                "18",
                 "b",
+                "2",
+                "ix",
+                "A",
                 "Interp",
-                "2"
+                "4",
+                "i"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -20630,25 +20625,6 @@
         },
         "op":"added"
     },
-    "1005-18-e-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) Modified limitations on liability requirements.A financial institution that provides information under paragraph (c)(1) of this section shall comply with the following:",
-            "label":[
-                "1005",
-                "18",
-                "e",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[
-                "1005-18-e-1-i",
-                "1005-18-e-1-ii"
-            ]
-        },
-        "op":"added"
-    },
     "1005-32-b-1-Interp-5":{
         "node":{
             "tagged_text":null,
@@ -20890,6 +20866,26 @@
         },
         "op":"added"
     },
+    "1005-18-b-2-ix-C-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"One fee variation under a particular fee type.",
+            "text":"Section 1005.18(b)(2)(ix)(C) provides in part that, if a financial institution only charges one fee under a particular fee type, the financial institution must disclose the name of the additional fee type and the fee amount; it may, but is not required to, disclose also the name of the one fee variation, if any, for which the fee amount is charged, in a format substantially similar to that used to disclose the two-tier fees required by \u00a7\u20091005.18(b)(2)(v) and (vi), except that the financial institution must disclose only the one fee variation name and fee amount instead of two. For example, a financial institution offers one method of electronic reload for which it charges a fee\u2014electronic reload conducted using a debit card. The financial institution must calculate the total revenue generated from consumers for the fee type electronic reload (i.e., in this case, electronic reloads conducted using a debit card) during the required time period to determine whether it must disclose electronic reload as an additional fee type pursuant to \u00a7\u20091005.18(b)(2)(ix). Because the financial institution only charges one fee variation under the fee type electronic reload, if this fee type is required to be disclosed as an additional fee type, the financial institution has two options for disclosing this fee type in accordance with \u00a7\u20091005.18(b)(2)(ix)(C): \u201cElectronic reload (debit card)\u201d and the fee amount as \u201c$1.00\u201d or \u201cElectronic reload\u201d and the fee amount as \u201c$1.00\u201d.",
+            "label":[
+                "1005",
+                "18",
+                "b",
+                "2",
+                "ix",
+                "C",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-18-b-2-iv":{
         "node":{
             "tagged_text":null,
@@ -21065,18 +21061,17 @@
         },
         "op":"added"
     },
-    "1005-19-b-6-Interp-1":{
+    "1005-A-Interp-4-iv":{
         "node":{
             "tagged_text":null,
-            "title":"Agreements currently in effect.",
-            "text":"Agreements submitted to the Bureau must contain the provisions of the agreement and fee information currently in effect. For example, on June 1, an issuer decides to decrease the out-of-network ATM withdrawal fee associated with one of the agreements it offers. The change in that fee will become effective on August 1. The issuer must submit and post the amended agreement with the decreased out-of-network ATM withdrawal fee to the Bureau by August 31 as required by \u00a7\u20091005.19(b)(2)(i) and (c).",
+            "title":null,
+            "text":"Changes to the model forms that are not permissible include, for example, adding information that is not segregated from the required disclosures, other than as permitted by \u00a7 1005.31(c)(4).",
             "label":[
                 "1005",
-                "19",
-                "b",
-                "6",
+                "A",
                 "Interp",
-                "1"
+                "4",
+                "iv"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -21703,6 +21698,27 @@
             ],
             "node_type":"regtext",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-32-b-1-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Example illustrating when exact amounts can and cannot be determined because of the laws of the recipient country.",
+            "label":[
+                "1005",
+                "32",
+                "b",
+                "1",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-32-b-1-Interp-2-i",
+                "1005-32-b-1-Interp-2-ii"
+            ]
         },
         "op":"added"
     },
@@ -22675,23 +22691,6 @@
                 "ii"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-A-Interp-4-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Use of the model forms is optional.  A remittance transfer provider may change the forms by rearranging the format or by making modifications to the language of the forms, in each case without modifying the substance of the disclosures.  Any rearrangement or modification of the format of the model forms must be consistent with the form, grouping, proximity, and other requirements of \u00a7 1005.31(a) and (c).  Providers making revisions that do not comply with this section will lose the benefit of the safe harbor for appropriate use of Model Forms A-30(a) to A-41.",
-            "label":[
-                "1005",
-                "A",
-                "Interp",
-                "4",
-                "ii"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"

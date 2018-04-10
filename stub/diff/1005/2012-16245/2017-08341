@@ -2385,27 +2385,27 @@
         },
         "op":"added"
     },
-    "1005-32-b-1-Interp-4":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Example illustrating when exact amounts can and cannot be determined because of the method by which transactions are made in the recipient country.",
-            "label":[
-                "1005",
-                "32",
-                "b",
-                "1",
-                "Interp",
-                "4"
+    "1005-A-Interp-4-iii-B":{
+        "text":[
+            [
+                [
+                    "delete",
+                    68,
+                    77
+                ],
+                [
+                    "insert",
+                    68,
+                    "described"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-32-b-1-Interp-4-i",
-                "1005-32-b-1-Interp-4-ii",
-                "1005-32-b-1-Interp-4-iii"
+            [
+                "insert",
+                97,
+                "  For example, if only covered third-party fees are imposed, a provider would not use a disclaimer related to additional fees that may apply because all applicable fees are covered and included in the disclosure as required under \u00a7 1005.31(b)(1)(vi)."
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1005-32-b-1-Interp-7":{
         "node":{
@@ -8669,28 +8669,6 @@
         },
         "op":"added"
     },
-    "1005-A-Interp-4-iii-B":{
-        "text":[
-            [
-                [
-                    "delete",
-                    68,
-                    77
-                ],
-                [
-                    "insert",
-                    68,
-                    "described"
-                ]
-            ],
-            [
-                "insert",
-                97,
-                "  For example, if only covered third-party fees are imposed, a provider would not use a disclaimer related to additional fees that may apply because all applicable fees are covered and included in the disclosure as required under \u00a7 1005.31(b)(1)(vi)."
-            ]
-        ],
-        "op":"modified"
-    },
     "1005-18-b-2-xii":{
         "node":{
             "tagged_text":null,
@@ -9216,59 +9194,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1005-A-Interp-4-ii":{
-        "text":[
-            [
-                [
-                    "delete",
-                    35,
-                    36
-                ],
-                [
-                    "insert",
-                    35,
-                    "  "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    235,
-                    236
-                ],
-                [
-                    "insert",
-                    235,
-                    "  "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    405,
-                    406
-                ],
-                [
-                    "insert",
-                    405,
-                    "  "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    546,
-                    550
-                ],
-                [
-                    "insert",
-                    546,
-                    "A-30(a)"
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1005-15-e-Interp":{
         "node":{
@@ -14971,6 +14896,28 @@
         },
         "op":"added"
     },
+    "1005-32-b-1-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Example illustrating when exact amounts can and cannot be determined because of the method by which transactions are made in the recipient country.",
+            "label":[
+                "1005",
+                "32",
+                "b",
+                "1",
+                "Interp",
+                "4"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-32-b-1-Interp-4-i",
+                "1005-32-b-1-Interp-4-ii",
+                "1005-32-b-1-Interp-4-iii"
+            ]
+        },
+        "op":"added"
+    },
     "1005-18-b-2-ii":{
         "node":{
             "tagged_text":null,
@@ -16263,5 +16210,58 @@
     },
     "1005-32-b-Interp-2-i":{
         "op":"deleted"
+    },
+    "1005-A-Interp-4-ii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    35,
+                    36
+                ],
+                [
+                    "insert",
+                    35,
+                    "  "
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    235,
+                    236
+                ],
+                [
+                    "insert",
+                    235,
+                    "  "
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    405,
+                    406
+                ],
+                [
+                    "insert",
+                    405,
+                    "  "
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    546,
+                    550
+                ],
+                [
+                    "insert",
+                    546,
+                    "A-30(a)"
+                ]
+            ]
+        ],
+        "op":"modified"
     }
 }

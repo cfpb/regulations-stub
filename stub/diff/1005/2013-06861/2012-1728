@@ -3147,7 +3147,8 @@
                 "1005-14-Interp",
                 "1005-17-Interp",
                 "1005-18-Interp",
-                "1005-20-Interp"
+                "1005-20-Interp",
+                "1005-A-Interp"
             ]
         },
         "op":"added"
@@ -3345,22 +3346,97 @@
         },
         "op":"added"
     },
-    "1005-34-b-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Fees and taxes refunded. If a sender provides a timely request to cancel a remittance transfer, a remittance transfer provider must refund all funds provided by the sender in connection with the remittance transfer, including any fees and, to the extent not prohibited by law, taxes that have been imposed for the transfer, whether the fee or tax was assessed by the provider or a third party, such as an intermediary institution, the agent or bank in the recipient country, or a State or other governmental body.",
-            "label":[
-                "1005",
-                "34",
-                "b",
-                "Interp",
-                "2"
+    "1005-A-Interp-2":{
+        "text":[
+            [
+                "insert",
+                90,
+                "and remittance transfer providers "
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                "insert",
+                160,
+                "\u00a7\u00a7 "
+            ],
+            [
+                [
+                    "delete",
+                    177,
+                    184
+                ],
+                [
+                    "insert",
+                    177,
+                    "(3),"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    252,
+                    259
+                ],
+                [
+                    "insert",
+                    252,
+                    "(2), 1005.18(c)(1)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    264,
+                    277
+                ],
+                [
+                    "insert",
+                    264,
+                    "(2), 1005.31,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    282,
+                    289
+                ],
+                [
+                    "insert",
+                    282,
+                    "1005.36."
+                ]
+            ],
+            [
+                "insert",
+                380,
+                "and a remittance transfer provider "
+            ],
+            [
+                [
+                    "delete",
+                    429,
+                    432
+                ],
+                [
+                    "insert",
+                    429,
+                    "act"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    495,
+                    504
+                ],
+                [
+                    "insert",
+                    495,
+                    "services and the provider's remittance transfer services, respectively."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-34-b-Interp-1":{
         "node":{
@@ -6601,9 +6677,7 @@
                 "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1005-A-Interp"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -8805,97 +8879,22 @@
         },
         "op":"added"
     },
-    "1005-A-Interp-2":{
-        "text":[
-            [
-                "insert",
-                90,
-                "and remittance transfer providers "
+    "1005-34-b-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Fees and taxes refunded. If a sender provides a timely request to cancel a remittance transfer, a remittance transfer provider must refund all funds provided by the sender in connection with the remittance transfer, including any fees and, to the extent not prohibited by law, taxes that have been imposed for the transfer, whether the fee or tax was assessed by the provider or a third party, such as an intermediary institution, the agent or bank in the recipient country, or a State or other governmental body.",
+            "label":[
+                "1005",
+                "34",
+                "b",
+                "Interp",
+                "2"
             ],
-            [
-                "insert",
-                160,
-                "\u00a7\u00a7 "
-            ],
-            [
-                [
-                    "delete",
-                    177,
-                    184
-                ],
-                [
-                    "insert",
-                    177,
-                    "(3),"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    252,
-                    259
-                ],
-                [
-                    "insert",
-                    252,
-                    "(2), 1005.18(c)(1)"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    264,
-                    277
-                ],
-                [
-                    "insert",
-                    264,
-                    "(2), 1005.31,"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    282,
-                    289
-                ],
-                [
-                    "insert",
-                    282,
-                    "1005.36."
-                ]
-            ],
-            [
-                "insert",
-                380,
-                "and a remittance transfer provider "
-            ],
-            [
-                [
-                    "delete",
-                    429,
-                    432
-                ],
-                [
-                    "insert",
-                    429,
-                    "act"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    495,
-                    504
-                ],
-                [
-                    "insert",
-                    495,
-                    "services and the provider's remittance transfer services, respectively."
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-30-c-Interp-2-i":{
         "node":{

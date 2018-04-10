@@ -23745,6 +23745,216 @@
             "ref":"general-use prepaid card:1005-20-a-3"
         }
     ],
+    "1005-A-Interp-1":[
+        {
+            "offsets":[
+                [
+                    73,
+                    95
+                ]
+            ],
+            "ref":"financial institution:1005-2-i"
+        }
+    ],
+    "1005-A-Interp-2":[
+        {
+            "offsets":[
+                [
+                    67,
+                    89
+                ]
+            ],
+            "ref":"financial institution:1005-2-i"
+        },
+        {
+            "offsets":[
+                [
+                    94,
+                    123
+                ]
+            ],
+            "ref":"remittance transfer provider:1005-30-f-1"
+        },
+        {
+            "offsets":[
+                [
+                    404,
+                    425
+                ]
+            ],
+            "ref":"financial institution:1005-2-i"
+        },
+        {
+            "offsets":[
+                [
+                    432,
+                    460
+                ]
+            ],
+            "ref":"remittance transfer provider:1005-30-f-1"
+        },
+        {
+            "offsets":[
+                [
+                    593,
+                    601
+                ]
+            ],
+            "ref":"remittance transfer provider:1005-30-f-1"
+        },
+        {
+            "offsets":[
+                [
+                    604,
+                    623
+                ]
+            ],
+            "ref":"remittance transfer:1005-30-e-1"
+        }
+    ],
+    "1005-A-Interp-3":[
+        {
+            "offsets":[
+                [
+                    0,
+                    22
+                ],
+                [
+                    252,
+                    274
+                ]
+            ],
+            "ref":"financial institution:1005-2-i"
+        }
+    ],
+    "1005-A-Interp-4":[
+        {
+            "offsets":[
+                [
+                    59,
+                    88
+                ]
+            ],
+            "ref":"remittance transfer provider:1005-30-f-1"
+        },
+        {
+            "offsets":[
+                [
+                    164,
+                    184
+                ],
+                [
+                    606,
+                    626
+                ]
+            ],
+            "ref":"remittance transfer:1005-30-e-1"
+        },
+        {
+            "offsets":[
+                [
+                    250,
+                    278
+                ]
+            ],
+            "ref":"remittance transfer provider:1005-30-f-1"
+        },
+        {
+            "offsets":[
+                [
+                    384,
+                    392
+                ],
+                [
+                    537,
+                    545
+                ]
+            ],
+            "ref":"remittance transfer provider:1005-30-f-1"
+        },
+        {
+            "offsets":[
+                [
+                    438,
+                    457
+                ]
+            ],
+            "ref":"remittance transfer:1005-30-e-1"
+        },
+        {
+            "offsets":[
+                [
+                    890,
+                    895
+                ],
+                [
+                    1011,
+                    1016
+                ]
+            ],
+            "ref":"error:1005-11-a-1"
+        }
+    ],
+    "1005-A-Interp-4-i":[
+        {
+            "offsets":[
+                [
+                    107,
+                    113
+                ]
+            ],
+            "ref":"sender:1005-30-g"
+        },
+        {
+            "offsets":[
+                [
+                    327,
+                    355
+                ]
+            ],
+            "ref":"remittance transfer provider:1005-30-f-1"
+        }
+    ],
+    "1005-A-Interp-4-ii":[
+        {
+            "offsets":[
+                [
+                    38,
+                    66
+                ]
+            ],
+            "ref":"remittance transfer provider:1005-30-f-1"
+        },
+        {
+            "offsets":[
+                [
+                    406,
+                    415
+                ]
+            ],
+            "ref":"remittance transfer provider:1005-30-f-1"
+        }
+    ],
+    "1005-A-Interp-4-iii-A":[
+        {
+            "offsets":[
+                [
+                    202,
+                    207
+                ]
+            ],
+            "ref":"state:1005-2-l"
+        },
+        {
+            "offsets":[
+                [
+                    272,
+                    291
+                ]
+            ],
+            "ref":"remittance transfer:1005-30-e-1"
+        }
+    ],
     "1005-30-b-Interp-1":[
         {
             "offsets":[
@@ -33454,216 +33664,6 @@
                 ]
             ],
             "ref":"remittance transfer provider:1005-30-f-1"
-        }
-    ],
-    "1005-A-Interp-1":[
-        {
-            "offsets":[
-                [
-                    73,
-                    95
-                ]
-            ],
-            "ref":"financial institution:1005-2-i"
-        }
-    ],
-    "1005-A-Interp-2":[
-        {
-            "offsets":[
-                [
-                    67,
-                    89
-                ]
-            ],
-            "ref":"financial institution:1005-2-i"
-        },
-        {
-            "offsets":[
-                [
-                    94,
-                    123
-                ]
-            ],
-            "ref":"remittance transfer provider:1005-30-f-1"
-        },
-        {
-            "offsets":[
-                [
-                    404,
-                    425
-                ]
-            ],
-            "ref":"financial institution:1005-2-i"
-        },
-        {
-            "offsets":[
-                [
-                    432,
-                    460
-                ]
-            ],
-            "ref":"remittance transfer provider:1005-30-f-1"
-        },
-        {
-            "offsets":[
-                [
-                    593,
-                    601
-                ]
-            ],
-            "ref":"remittance transfer provider:1005-30-f-1"
-        },
-        {
-            "offsets":[
-                [
-                    604,
-                    623
-                ]
-            ],
-            "ref":"remittance transfer:1005-30-e-1"
-        }
-    ],
-    "1005-A-Interp-3":[
-        {
-            "offsets":[
-                [
-                    0,
-                    22
-                ],
-                [
-                    252,
-                    274
-                ]
-            ],
-            "ref":"financial institution:1005-2-i"
-        }
-    ],
-    "1005-A-Interp-4":[
-        {
-            "offsets":[
-                [
-                    59,
-                    88
-                ]
-            ],
-            "ref":"remittance transfer provider:1005-30-f-1"
-        },
-        {
-            "offsets":[
-                [
-                    164,
-                    184
-                ],
-                [
-                    606,
-                    626
-                ]
-            ],
-            "ref":"remittance transfer:1005-30-e-1"
-        },
-        {
-            "offsets":[
-                [
-                    250,
-                    278
-                ]
-            ],
-            "ref":"remittance transfer provider:1005-30-f-1"
-        },
-        {
-            "offsets":[
-                [
-                    384,
-                    392
-                ],
-                [
-                    537,
-                    545
-                ]
-            ],
-            "ref":"remittance transfer provider:1005-30-f-1"
-        },
-        {
-            "offsets":[
-                [
-                    438,
-                    457
-                ]
-            ],
-            "ref":"remittance transfer:1005-30-e-1"
-        },
-        {
-            "offsets":[
-                [
-                    890,
-                    895
-                ],
-                [
-                    1011,
-                    1016
-                ]
-            ],
-            "ref":"error:1005-11-a-1"
-        }
-    ],
-    "1005-A-Interp-4-i":[
-        {
-            "offsets":[
-                [
-                    107,
-                    113
-                ]
-            ],
-            "ref":"sender:1005-30-g"
-        },
-        {
-            "offsets":[
-                [
-                    327,
-                    355
-                ]
-            ],
-            "ref":"remittance transfer provider:1005-30-f-1"
-        }
-    ],
-    "1005-A-Interp-4-ii":[
-        {
-            "offsets":[
-                [
-                    38,
-                    66
-                ]
-            ],
-            "ref":"remittance transfer provider:1005-30-f-1"
-        },
-        {
-            "offsets":[
-                [
-                    406,
-                    415
-                ]
-            ],
-            "ref":"remittance transfer provider:1005-30-f-1"
-        }
-    ],
-    "1005-A-Interp-4-iii-A":[
-        {
-            "offsets":[
-                [
-                    202,
-                    207
-                ]
-            ],
-            "ref":"state:1005-2-l"
-        },
-        {
-            "offsets":[
-                [
-                    272,
-                    291
-                ]
-            ],
-            "ref":"remittance transfer:1005-30-e-1"
         }
     ],
     "referenced":{

@@ -1601,8 +1601,27 @@
     "1005-32-b-1-Interp-5":{
         "op":"deleted"
     },
-    "1005-32-b-1-Interp-4":{
-        "op":"deleted"
+    "1005-A-Interp-4-iii-B":{
+        "text":[
+            [
+                [
+                    "delete",
+                    68,
+                    77
+                ],
+                [
+                    "insert",
+                    68,
+                    "permitted"
+                ]
+            ],
+            [
+                "delete",
+                97,
+                347
+            ]
+        ],
+        "op":"modified"
     },
     "1005-32-b-1-Interp-7":{
         "op":"deleted"
@@ -6499,28 +6518,6 @@
         },
         "op":"added"
     },
-    "1005-A-Interp-4-iii-B":{
-        "text":[
-            [
-                [
-                    "delete",
-                    68,
-                    77
-                ],
-                [
-                    "insert",
-                    68,
-                    "permitted"
-                ]
-            ],
-            [
-                "delete",
-                97,
-                347
-            ]
-        ],
-        "op":"modified"
-    },
     "1005-18-b-2-xii":{
         "op":"deleted"
     },
@@ -6717,59 +6714,6 @@
     },
     "1005-32-d-Interp-1":{
         "op":"deleted"
-    },
-    "1005-A-Interp-4-ii":{
-        "text":[
-            [
-                [
-                    "delete",
-                    35,
-                    37
-                ],
-                [
-                    "insert",
-                    35,
-                    " "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    236,
-                    238
-                ],
-                [
-                    "insert",
-                    236,
-                    " "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    407,
-                    409
-                ],
-                [
-                    "insert",
-                    407,
-                    " "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    549,
-                    556
-                ],
-                [
-                    "insert",
-                    549,
-                    "A-30"
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1005-15-e-Interp":{
         "op":"deleted"
@@ -11356,6 +11300,9 @@
     "1005-19-b-5-ii":{
         "op":"deleted"
     },
+    "1005-32-b-1-Interp-4":{
+        "op":"deleted"
+    },
     "1005-18-b-2-ii":{
         "op":"deleted"
     },
@@ -12298,5 +12245,58 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1005-A-Interp-4-ii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    35,
+                    37
+                ],
+                [
+                    "insert",
+                    35,
+                    " "
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    236,
+                    238
+                ],
+                [
+                    "insert",
+                    236,
+                    " "
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    407,
+                    409
+                ],
+                [
+                    "insert",
+                    407,
+                    " "
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    549,
+                    556
+                ],
+                [
+                    "insert",
+                    549,
+                    "A-30"
+                ]
+            ]
+        ],
+        "op":"modified"
     }
 }
