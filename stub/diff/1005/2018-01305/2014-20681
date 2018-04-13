@@ -1435,90 +1435,61 @@
             [
                 [
                     "delete",
+                    0,
+                    11
+                ],
+                [
+                    "insert",
+                    0,
+                    "Under \u00a7 1005.30(g), the definition of \u201csender\u201d means a consumer in a State who, primarily for personal, family, or household purposes, requests a remittance transfer provider to send a remittance transfer to a designated recipient. A sender located on a U.S. military installation that is physically located in a foreign country is located in a State. For transfers from a consumer's account,"
+                ]
+            ],
+            [
+                [
+                    "delete",
                     47,
                     76
                 ],
                 [
                     "insert",
                     47,
-                    "State. Under \u00a7 1005.30(g), the"
+                    "State depends on where the consumer's account is located. If the account is located in a State, the consumer will be located in a State for purposes of the"
                 ]
-            ],
-            [
-                "delete",
-                419,
-                424
             ],
             [
                 [
                     "delete",
-                    431,
-                    438
+                    100,
+                    121
                 ],
                 [
                     "insert",
-                    431,
-                    "consumer's account, whether a consumer is located in a State depends on where the consumer's"
+                    100,
+                    "in \u00a7 1005.30(g), notwithstanding comment 3(a)-3. Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State. Where a transfer is requested electronically or by telephone and the transfer is not from an account, the provider may make the determination of whether a consumer is located in a"
                 ]
             ],
             [
                 [
                     "delete",
-                    447,
-                    468
+                    128,
+                    218
                 ],
                 [
                     "insert",
-                    447,
-                    "is located. If the"
+                    128,
+                    "based on information that is provided by the consumer and on any records associated with the consumer that the"
                 ]
             ],
             [
                 [
                     "delete",
-                    477,
-                    507
-                ],
-                [
-                    "insert",
-                    477,
-                    "is located in a State, the consumer will be located in a State for purposes of the definition of \u201csender\u201d in \u00a7 1005.30(g), notwithstanding comment 3(a)-3. Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State. Where a transfer is requested electronically"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    511,
-                    541
-                ],
-                [
-                    "insert",
-                    511,
-                    "by telephone and the transfer is not from an account, the provider may make the determination of"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    550,
-                    578
-                ],
-                [
-                    "insert",
-                    550,
-                    "a consumer is located in a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    585,
+                    228,
                     615
                 ],
                 [
                     "insert",
-                    585,
-                    "based on information that is provided by the consumer and on any records associated with the consumer that the provider may have, such as an address provided by the"
+                    228,
+                    "may have, such as an address provided by the"
                 ]
             ],
             [
@@ -1527,14 +1498,21 @@
                 1966
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Determining whether a consumer is located in a State."
+            ]
+        ],
         "op":"modified"
     },
     "1005-30-g-Interp-3":{
         "text":[
             [
                 "delete",
-                13,
-                31
+                0,
+                41
             ],
             [
                 [
@@ -1597,6 +1575,13 @@
                 ]
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Non-consumer accounts."
+            ]
+        ],
         "op":"modified"
     },
     "1005-18-b-4-v":{
@@ -1630,9 +1615,6 @@
         "op":"deleted"
     },
     "1005-18-b-2-vi":{
-        "op":"deleted"
-    },
-    "1005-18-b-2-ix-A-Interp-4-i":{
         "op":"deleted"
     },
     "1005-18-h-3-ii":{
@@ -2686,6 +2668,112 @@
     },
     "1005-18-b-2-xiv":{
         "op":"deleted"
+    },
+    "1005-A-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    3
+                ],
+                [
+                    "insert",
+                    0,
+                    "The appendix contains model disclosure clauses for optional use by financial institutions and remittance transfer providers to facilitate compliance with the disclosure requirements"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    7,
+                    51
+                ],
+                [
+                    "insert",
+                    7,
+                    "\u00a7\u00a7 1005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(d)(1) and (2), 1005.18(c)(1) and (2), 1005.31, and 1005.36. The use of appropriate"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    60,
+                    79
+                ],
+                [
+                    "insert",
+                    60,
+                    "in making disclosures will protect a"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    90,
+                    102
+                ],
+                [
+                    "insert",
+                    90,
+                    "institution"
+                ]
+            ],
+            [
+                "insert",
+                107,
+                "a "
+            ],
+            [
+                [
+                    "delete",
+                    127,
+                    166
+                ],
+                [
+                    "insert",
+                    127,
+                    "provider from liability under sections 916 and 917 of"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    171,
+                    213
+                ],
+                [
+                    "insert",
+                    171,
+                    "act provided the clauses accurately reflect the institution's EFT services"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    218,
+                    488
+                ],
+                [
+                    "insert",
+                    218,
+                    "the provider's"
+                ]
+            ],
+            [
+                "delete",
+                509,
+                681
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Use of forms."
+            ]
+        ],
+        "op":"modified"
     },
     "1005-18-h-2-i":{
         "op":"deleted"
@@ -4598,111 +4686,8 @@
     "1005-19-a-2-Interp-1-v":{
         "op":"deleted"
     },
-    "1005-A-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    3
-                ],
-                [
-                    "insert",
-                    0,
-                    "The appendix contains model disclosure clauses for optional use by financial institutions and remittance transfer providers to facilitate compliance with the disclosure requirements"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    7,
-                    51
-                ],
-                [
-                    "insert",
-                    7,
-                    "\u00a7\u00a7 1005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(d)(1) and (2), 1005.18(c)(1) and (2), 1005.31, and 1005.36. The use of appropriate"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    60,
-                    79
-                ],
-                [
-                    "insert",
-                    60,
-                    "in making disclosures will protect a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    90,
-                    102
-                ],
-                [
-                    "insert",
-                    90,
-                    "institution"
-                ]
-            ],
-            [
-                "insert",
-                107,
-                "a "
-            ],
-            [
-                [
-                    "delete",
-                    127,
-                    166
-                ],
-                [
-                    "insert",
-                    127,
-                    "provider from liability under sections 916 and 917 of"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    171,
-                    213
-                ],
-                [
-                    "insert",
-                    171,
-                    "act provided the clauses accurately reflect the institution's EFT services"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    218,
-                    488
-                ],
-                [
-                    "insert",
-                    218,
-                    "the provider's"
-                ]
-            ],
-            [
-                "delete",
-                509,
-                681
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Use of forms."
-            ]
-        ],
-        "op":"modified"
+    "1005-18-b-2-ix-A-Interp-4-i":{
+        "op":"deleted"
     },
     "1005-12-b-Interp-3-i":{
         "op":"deleted"
@@ -4962,12 +4947,12 @@
             [
                 [
                     "delete",
-                    45,
-                    59
+                    14,
+                    28
                 ],
                 [
                     "insert",
-                    45,
+                    14,
                     "1005.31(g)(2),"
                 ]
             ]
@@ -5100,48 +5085,48 @@
             [
                 [
                     "delete",
-                    399,
-                    409
+                    347,
+                    357
                 ],
                 [
                     "insert",
-                    399,
+                    347,
                     "(BICs)) and"
                 ]
             ],
             [
                 [
                     "delete",
-                    487,
-                    488
+                    435,
+                    436
                 ],
                 [
                     "insert",
-                    487,
+                    435,
                     "  "
                 ]
             ],
             [
                 [
                     "delete",
-                    581,
-                    601
+                    529,
+                    549
                 ],
                 [
                     "insert",
-                    581,
+                    529,
                     "1005.30(h)(2)"
                 ]
             ],
             [
                 [
                     "delete",
-                    793,
-                    794
+                    741,
+                    742
                 ],
                 [
                     "insert",
-                    793,
+                    741,
                     "  "
                 ]
             ]

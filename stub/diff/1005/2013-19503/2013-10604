@@ -2,11 +2,6 @@
     "1005-33-c-Interp-5":{
         "text":[
             [
-                "insert",
-                0,
-                "Form of refund. "
-            ],
-            [
                 [
                     "delete",
                     4,
@@ -50,20 +45,22 @@
         ],
         "title":[
             [
-                "delete",
-                0,
-                40
+                [
+                    "delete",
+                    0,
+                    40
+                ],
+                [
+                    "insert",
+                    0,
+                    "Form of refund."
+                ]
             ]
         ],
         "op":"modified"
     },
     "1005-33-c-Interp-6":{
         "text":[
-            [
-                "insert",
-                0,
-                "Form of refund. "
-            ],
             [
                 "insert",
                 69,
@@ -131,13 +128,6 @@
                     218,
                     "the"
                 ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                15
             ]
         ],
         "op":"modified"

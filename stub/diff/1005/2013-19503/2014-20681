@@ -25,7 +25,7 @@
                 [
                     "insert",
                     0,
-                    "Failure to make funds available by disclosed date of availability fraud and other screening procedures. Under \u00a7 1005.33(a)(1)(iv)(B), a remittance transfer provider's failure to deliver funds by the disclosed date of availability is not an error if such delay is related to the provider's or any third party's investigation necessary to address potentially suspicious, blocked or prohibited activity, and the provider did not and could not have reasonably foreseen the delay so as to enable it to timely disclose an accurate date of availability when providing the sender with a receipt or combined disclosure. For example, no error occurs if delivery of funds is delayed because, after the receipt is provided, the provider's fraud screening system flags a remittance transfer because the designated recipient has a name similar to the name of a blocked person under a sanctions program and further investigation is needed to determine that the designated recipient is not actually a blocked person. Similarly, no error occurs where, after disclosing a date of availability to the sender, a remittance transfer provider receives specific law enforcement information indicating that the characteristics of a remittance transfer match a pattern of fraudulent activity, and as a result, the provider deems it necessary to delay delivery of the funds to allow for further investigation. However, if a delay could have been reasonably foreseen, the"
+                    "Under \u00a7 1005.33(a)(1)(iv)(B), a remittance transfer provider's failure to deliver funds by the disclosed date of availability is not an error if such delay is related to the provider's or any third party's investigation necessary to address potentially suspicious, blocked or prohibited activity, and the provider did not and could not have reasonably foreseen the delay so as to enable it to timely disclose an accurate date of availability when providing the sender with a receipt or combined disclosure. For example, no error occurs if delivery of funds is delayed because, after the receipt is provided, the provider's fraud screening system flags a remittance transfer because the designated recipient has a name similar to the name of a blocked person under a sanctions program and further investigation is needed to determine that the designated recipient is not actually a blocked person. Similarly, no error occurs where, after disclosing a date of availability to the sender, a remittance transfer provider receives specific law enforcement information indicating that the characteristics of a remittance transfer match a pattern of fraudulent activity, and as a result, the provider deems it necessary to delay delivery of the funds to allow for further investigation. However, if a delay could have been reasonably foreseen, the"
                 ]
             ],
             [
@@ -79,9 +79,16 @@
         ],
         "title":[
             [
-                "delete",
-                0,
-                64
+                [
+                    "delete",
+                    0,
+                    64
+                ],
+                [
+                    "insert",
+                    0,
+                    "Failure to make funds available by disclosed date of availability fraud and other screening procedures."
+                ]
             ]
         ],
         "op":"modified"
@@ -107,7 +114,7 @@
                 [
                     "insert",
                     0,
-                    "Account number or recipient institution identifier. For purposes of the exception in"
+                    "For purposes of the exception in"
                 ]
             ],
             [
@@ -166,9 +173,16 @@
         ],
         "title":[
             [
-                "delete",
-                0,
-                28
+                [
+                    "delete",
+                    0,
+                    28
+                ],
+                [
+                    "insert",
+                    0,
+                    "Account number or recipient institution identifier."
+                ]
             ]
         ],
         "op":"modified"
@@ -184,7 +198,7 @@
                 [
                     "insert",
                     0,
-                    "Sender account number or recipient institution identifier error. The exception in \u00a7 1005.33(a)(1)(iv)(D) applies where a sender gives the remittance transfer provider an incorrect account number or recipient institution identifier and all five conditions in \u00a7 1005.33(h) are satisfied.  The exception does not apply, however, where the failure to make funds available is the result"
+                    "The exception in \u00a7 1005.33(a)(1)(iv)(D) applies where a sender gives the remittance transfer provider an incorrect account number or recipient institution identifier and all five conditions in \u00a7 1005.33(h) are satisfied.  The exception does not apply, however, where the failure to make funds available is the result"
                 ]
             ],
             [
@@ -222,9 +236,28 @@
         ],
         "title":[
             [
-                "delete",
-                0,
-                51
+                [
+                    "delete",
+                    0,
+                    7
+                ],
+                [
+                    "insert",
+                    0,
+                    "Sender account"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    40,
+                    51
+                ],
+                [
+                    "insert",
+                    40,
+                    "identifier error."
+                ]
             ]
         ],
         "op":"modified"
@@ -233,20 +266,22 @@
         "text":[
             [
                 "insert",
-                0,
-                "Oral telephone transactions. "
-            ],
-            [
-                "insert",
                 162,
                 " A remittance transfer provider may treat a written or electronic communication as an inquiry when it believes that treating the communication as a request would be impractical. For example, if a sender physically located abroad contacts a U.S. branch of the sender's financial institution and attempts to initiate a remittance transfer by first sending a mailed letter, further communication with the sender by letter may be impractical due to the physical distance and likely mail delays. In such circumstances, a provider may conduct the transaction orally and entirely by telephone pursuant to \u00a7 1005.31(a)(3) when the provider treats that initial communication as an inquiry and subsequently responds to the consumer's inquiry by calling the consumer on a telephone and orally gathering or confirming the information needed to identify and understand a request for a remittance transfer and otherwise conducts the transaction orally and entirely by telephone."
             ]
         ],
         "title":[
             [
-                "delete",
-                0,
-                28
+                [
+                    "delete",
+                    5,
+                    28
+                ],
+                [
+                    "insert",
+                    5,
+                    "telephone transactions."
+                ]
             ]
         ],
         "op":"modified"
@@ -256,7 +291,7 @@
             [
                 "insert",
                 0,
-                "Transactions conducted partially by telephone. Except as provided in comment 31(a)(3)-2, for transactions conducted partially by telephone, providing the information required by \u00a7 1005.31(b)(1) to a sender orally does not fulfill the requirement to provide the disclosures required by \u00a7 1005.31(b)(1). "
+                "Except as provided in comment 31(a)(3)-2, for transactions conducted partially by telephone, providing the information required by \u00a7 1005.31(b)(1) to a sender orally does not fulfill the requirement to provide the disclosures required by \u00a7 1005.31(b)(1). "
             ],
             [
                 [
@@ -300,13 +335,6 @@
                 713
             ]
         ],
-        "title":[
-            [
-                "delete",
-                0,
-                46
-            ]
-        ],
         "op":"modified"
     },
     "1005-31-e-Interp-1":{
@@ -314,36 +342,36 @@
             [
                 [
                     "delete",
-                    548,
-                    569
+                    509,
+                    530
                 ],
                 [
                     "insert",
-                    548,
+                    509,
                     "A sender that has sent an email, fax, mailed letter, or similar written or electronic communication has not requested a remittance transfer if the provider believes that it is impractical for the provider to treat that communication as a request and if the provider treats the communication as an inquiry and subsequently responds to that inquiry by calling the consumer on a telephone and orally gathering or confirming the information needed to process a request for a remittance transfer. See comment 31(a)(3)-2. Likewise, a consumer"
                 ]
             ],
             [
                 "insert",
-                574,
+                535,
                 "solely inquires about that day's rates and fees to send to Mexico has not requested the provider to send a remittance transfer. Conversely, a sender who "
             ],
             [
                 [
                     "delete",
-                    592,
-                    599
+                    553,
+                    555
                 ],
                 [
                     "insert",
-                    592,
-                    "at an agent location to send"
+                    553,
+                    "at an agent location to"
                 ]
             ],
             [
                 "delete",
-                733,
-                886
+                694,
+                847
             ]
         ],
         "op":"modified"
@@ -351,8 +379,8 @@
     "1005-33-a-Interp-11":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Change from disclosure made in reliance on sender information. Under the commentary accompanying \u00a7 1005.31, the remittance transfer provider may rely on the sender's representations in making certain disclosures. See, e.g., comments 31(b)(1)(iv)-1 and 31(b)(1)(vi)-1.  For example, suppose a sender requests U.S. dollars to be deposited into an account of the designated recipient and represents that the account is U.S. dollar-denominated.  If the designated recipient's account is actually denominated in local currency and the recipient account-holding institution must convert the remittance transfer into local currency in order to deposit the funds and complete the transfer, the change in currency does not constitute an error pursuant to \u00a7 1005.33(a)(2)(iv).",
+            "title":"Change from disclosure made in reliance on sender information.",
+            "text":"Under the commentary accompanying \u00a7 1005.31, the remittance transfer provider may rely on the sender's representations in making certain disclosures. See, e.g., comments 31(b)(1)(iv)-1 and 31(b)(1)(vi)-1.  For example, suppose a sender requests U.S. dollars to be deposited into an account of the designated recipient and represents that the account is U.S. dollar-denominated.  If the designated recipient's account is actually denominated in local currency and the recipient account-holding institution must convert the remittance transfer into local currency in order to deposit the funds and complete the transfer, the change in currency does not constitute an error pursuant to \u00a7 1005.33(a)(2)(iv).",
             "label":[
                 "1005",
                 "33",
@@ -368,56 +396,82 @@
     "1005-33-a-Interp-10":{
         "text":[
             [
-                [
-                    "delete",
-                    0,
-                    22
-                ],
-                [
-                    "insert",
-                    0,
-                    "Recipient-requested changes. Under \u00a7 1005.33(a)(2)(iii), a change requested by the designated recipient that the remittance transfer provider or others involved in the remittance transfer decide to accommodate is not considered an error. The exception under \u00a7 1005.33(a)(2)(iii) is available only if the change is"
-                ]
-            ],
-            [
-                "insert",
-                28,
-                "solely because the designated recipient requested the change. For example, if a sender requests to send US$100 to a designated recipient at a designated location, but the designated recipient requests the amount "
+                "delete",
+                6,
+                34
             ],
             [
                 [
                     "delete",
-                    31,
-                    111
+                    36,
+                    48
                 ],
                 [
                     "insert",
-                    31,
-                    "a different currency (either at the sender-designated location or another location requested by the recipient) and the"
+                    36,
+                    "1005.33(a)(2)(iii), a change requested by the designated recipient that the"
                 ]
             ],
             [
                 [
                     "delete",
-                    141,
-                    341
+                    78,
+                    118
                 ],
                 [
                     "insert",
-                    141,
-                    "accommodates the recipient's request, the change does not constitute"
+                    78,
+                    "or others involved"
                 ]
             ],
             [
                 [
                     "delete",
-                    345,
-                    766
+                    122,
+                    184
                 ],
                 [
                     "insert",
-                    345,
+                    122,
+                    "the remittance transfer decide to accommodate is not considered an error. The exception under \u00a7 1005.33(a)(2)(iii) is available only if the change is made solely because the designated recipient requested the change. For example, if a sender requests to send US$100 to a designated recipient at a designated location, but the designated recipient requests the amount in a different currency (either at the sender-designated location or another location requested by the recipient)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    189,
+                    278
+                ],
+                [
+                    "insert",
+                    189,
+                    "the remittance transfer provider accommodates the recipient's request, the change does not constitute"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    282,
+                    703
+                ],
+                [
+                    "insert",
+                    282,
                     "error.error."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    62
+                ],
+                [
+                    "insert",
+                    0,
+                    "Recipient-requested changes."
                 ]
             ]
         ],
@@ -426,8 +480,8 @@
     "1005-31-a-2-Interp-5":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Disclosures provided by fax. For purposes of disclosures required to be provided pursuant to \u00a7 1005.31 or \u00a7 1005.36, disclosures provided by facsimile transmission (i.e., fax) are considered to be provided in writing for purposes of providing disclosures in writing pursuant to subpart B and are not subject to the requirements for electronic disclosures set forth in \u00a7 1005.31(a)(2).",
+            "title":"Disclosures provided by fax.",
+            "text":"For purposes of disclosures required to be provided pursuant to \u00a7 1005.31 or \u00a7 1005.36, disclosures provided by facsimile transmission (i.e., fax) are considered to be provided in writing for purposes of providing disclosures in writing pursuant to subpart B and are not subject to the requirements for electronic disclosures set forth in \u00a7 1005.31(a)(2).",
             "label":[
                 "1005",
                 "31",
@@ -508,31 +562,14 @@
         "text":[
             [
                 "insert",
-                0,
-                "Amount appropriate to resolve the error. "
-            ],
-            [
-                "insert",
                 379,
                 " For example, when the amount that was disclosed pursuant to \u00a7 1005.31(b)(1)(vii) was received by the designated recipient before the provider must determine the appropriate remedy for an error under \u00a7 1005.33(a)(1)(iv), no additional amounts are required to resolve the error after the remittance transfer provider refunds the appropriate fees and taxes paid by the sender pursuant to \u00a7 1005.33(c)(2)(ii)(B) or (c)(2)(iii), as applicable."
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                40
             ]
         ],
         "op":"modified"
     },
     "1005-30-g-Interp-1":{
         "text":[
-            [
-                "insert",
-                0,
-                "Determining whether a consumer is located in a State. "
-            ],
             [
                 "insert",
                 232,
@@ -544,20 +581,13 @@
                 "Accounts that are located on a U.S. military installation that is physically located in a foreign country are located in a State. "
             ]
         ],
-        "title":[
-            [
-                "delete",
-                0,
-                53
-            ]
-        ],
         "op":"modified"
     },
     "1005-30-g-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Personal, family, or household purposes. Under \u00a7 1005.30(g), a consumer is a \u201csender\u201d only where he or she requests a transfer primarily for personal, family, or household purposes. A consumer who requests a transfer primarily for other purposes, such as business or commercial purposes, is not a sender under \u00a7 1005.30(g). For transfers from an account that was established primarily for personal, family, or household purposes, a remittance transfer provider may generally deem that the transfer is requested primarily for personal, family, or household purposes and the consumer is therefore a \u201csender\u201d under \u00a7 1005.30(g). But if the consumer indicates that he or she is requesting the transfer primarily for other purposes, such as business or commercial purposes, then the consumer is not a sender under \u00a7 1005.30(g), even if the consumer is requesting the transfer from an account that is used primarily for personal, family, or household purposes.",
+            "title":"Personal, family, or household purposes.",
+            "text":"Under \u00a7 1005.30(g), a consumer is a \u201csender\u201d only where he or she requests a transfer primarily for personal, family, or household purposes. A consumer who requests a transfer primarily for other purposes, such as business or commercial purposes, is not a sender under \u00a7 1005.30(g). For transfers from an account that was established primarily for personal, family, or household purposes, a remittance transfer provider may generally deem that the transfer is requested primarily for personal, family, or household purposes and the consumer is therefore a \u201csender\u201d under \u00a7 1005.30(g). But if the consumer indicates that he or she is requesting the transfer primarily for other purposes, such as business or commercial purposes, then the consumer is not a sender under \u00a7 1005.30(g), even if the consumer is requesting the transfer from an account that is used primarily for personal, family, or household purposes.",
             "label":[
                 "1005",
                 "30",
@@ -573,8 +603,8 @@
     "1005-30-g-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Non-consumer accounts. A provider may deem that a transfer that is requested to be sent from an account that was not established primarily for personal, family, or household purposes, such as an account that was established as a business or commercial account or an account held by a business entity such as a corporation, not-for-profit corporation, professional corporation, limited liability company, partnership, or sole proprietorship, as not being requested primarily for personal, family, or household purposes. A consumer requesting a transfer from such an account therefore is not a sender under \u00a7 1005.30(g). Additionally, a transfer that is requested to be sent from an account held by a financial institution under a bona fide trust agreement pursuant to \u00a7 1005.2(b)(3) is not requested primarily for personal, family, or household purposes, and a consumer requesting a transfer from such an account is therefore not a sender under \u00a7 1005.30(g).",
+            "title":"Non-consumer accounts.",
+            "text":"A provider may deem that a transfer that is requested to be sent from an account that was not established primarily for personal, family, or household purposes, such as an account that was established as a business or commercial account or an account held by a business entity such as a corporation, not-for-profit corporation, professional corporation, limited liability company, partnership, or sole proprietorship, as not being requested primarily for personal, family, or household purposes. A consumer requesting a transfer from such an account therefore is not a sender under \u00a7 1005.30(g). Additionally, a transfer that is requested to be sent from an account held by a financial institution under a bona fide trust agreement pursuant to \u00a7 1005.2(b)(3) is not requested primarily for personal, family, or household purposes, and a consumer requesting a transfer from such an account is therefore not a sender under \u00a7 1005.30(g).",
             "label":[
                 "1005",
                 "30",
@@ -632,70 +662,127 @@
                 [
                     "delete",
                     0,
-                    8
+                    38
                 ],
                 [
                     "insert",
                     0,
-                    "Date of transfer on receipt. Where applicable, \u00a7 1005.31(b)(2)(vii) requires disclosure of the"
+                    "Where applicable, \u00a7 1005.31(b)(2)(vii) requires disclosure of"
                 ]
             ],
             [
                 [
                     "delete",
-                    14,
-                    65
+                    43,
+                    54
                 ],
                 [
                     "insert",
-                    14,
-                    "of transfer for"
+                    43,
+                    "date of transfer for the remittance transfer that is the subject of a receipt"
                 ]
             ],
             [
                 [
                     "delete",
-                    70,
-                    81
+                    69,
+                    87
                 ],
                 [
                     "insert",
-                    70,
-                    "remittance transfer that is the subject of a receipt"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    96,
-                    114
-                ],
-                [
-                    "insert",
-                    96,
+                    69,
                     "1005.31(b)(2), including a receipt that is provided in accordance with the timing requirements in \u00a7 1005.36(a). For any subsequent preauthorized remittance transfer subject to \u00a7 1005.36(d)(2)(ii), the future date of transfer must be provided on any receipt provided for the initial transfer in that series of preauthorized remittance transfers, or where permitted, or disclosed as permitted by \u00a7 1005.31(a)(3)"
                 ]
             ],
             [
                 "insert",
-                119,
+                92,
                 "(a)(5), in accordance with "
             ],
             [
                 "delete",
-                121,
-                747
+                94,
+                720
             ],
             [
                 "delete",
-                764,
-                1484
+                737,
+                1457
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    26
+                ],
+                [
+                    "insert",
+                    0,
+                    "Date of transfer on receipt."
+                ]
             ]
         ],
         "op":"modified"
     },
     "1005-31-b-2-Interp-4":{
         "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    17
+                ],
+                [
+                    "insert",
+                    0,
+                    "Section 1005.31(b)(2)(vi) requires a remittance transfer provider to disclose the name, toll-free telephone number(s), and Web site of the Consumer Financial Protection Bureau. Providers may satisfy this requirement by disclosing the Web site of the Consumer Financial Protection Bureau's homepage, www.consumerfinance.gov, as shown on Model Forms A-32, A-34, A-35, and A-39. Alternatively, providers may, but are not required to, disclose the Bureau's Web site as the address of a page on the Bureau's Web site that provides information for consumers about remittance transfers, currently, consumerfinance.gov/sending-money, as shown on Model Form A-31. In addition, providers making disclosures in a language other than English pursuant to"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    20,
+                    47
+                ],
+                [
+                    "insert",
+                    20,
+                    "1005.31(g) may, but are not required to, disclose the Bureau's Web site as a page on the Bureau's Web site that provides information for consumers about remittance transfers in the relevant language, if such Web site exists. For example, a provider that is making disclosures in Spanish under \u00a7 1005.31(g) may, but is not required to, disclose the Bureau's Web site on Spanish-language disclosures as the page on the Bureau's Web site that provides information regarding remittance transfers in Spanish, currently consumerfinance.gov/envios. This optional"
+                ]
+            ],
+            [
+                "insert",
+                59,
+                "is shown on Model A-40. The Bureau will publish a list "
+            ],
+            [
+                [
+                    "delete",
+                    62,
+                    90
+                ],
+                [
+                    "insert",
+                    62,
+                    "any other foreign language Web sites that provide information regarding"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    102,
+                    618
+                ],
+                [
+                    "insert",
+                    102,
+                    "transfers."
+                ]
+            ]
+        ],
+        "title":[
             [
                 [
                     "delete",
@@ -709,61 +796,15 @@
                 ]
             ],
             [
-                "insert",
-                8,
-                "the Consumer Financial Protection Bureau. Section 1005.31(b)(2)(vi) requires a remittance "
-            ],
-            [
                 [
                     "delete",
-                    17,
-                    46
+                    8,
+                    28
                 ],
                 [
                     "insert",
-                    17,
-                    "provider to disclose the name, toll-free telephone number(s), and Web site of the Consumer Financial Protection Bureau. Providers may satisfy this requirement by disclosing the Web site of the Consumer Financial Protection Bureau's homepage, www.consumerfinance.gov, as shown on Model Forms A-32, A-34, A-35, and A-39. Alternatively, providers may, but are not required to, disclose the Bureau's Web site as the address of a page on the Bureau's Web site that provides information for consumers about remittance transfers, currently, consumerfinance.gov/sending-money, as shown on Model Form A-31. In addition, providers making disclosures in a language other than English pursuant to"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    49,
-                    76
-                ],
-                [
-                    "insert",
-                    49,
-                    "1005.31(g) may, but are not required to, disclose the Bureau's Web site as a page on the Bureau's Web site that provides information for consumers about remittance transfers in the relevant language, if such Web site exists. For example, a provider that is making disclosures in Spanish under \u00a7 1005.31(g) may, but is not required to, disclose the Bureau's Web site on Spanish-language disclosures as the page on the Bureau's Web site that provides information regarding remittance transfers in Spanish, currently consumerfinance.gov/envios. This optional"
-                ]
-            ],
-            [
-                "insert",
-                88,
-                "is shown on Model A-40. The Bureau will publish a list "
-            ],
-            [
-                [
-                    "delete",
-                    91,
-                    119
-                ],
-                [
-                    "insert",
-                    91,
-                    "any other foreign language Web sites that provide information regarding"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    131,
-                    647
-                ],
-                [
-                    "insert",
-                    131,
-                    "transfers."
+                    8,
+                    "the Consumer Financial Protection Bureau."
                 ]
             ]
         ],
@@ -772,8 +813,8 @@
     "1005-31-b-2-Interp-7":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Cancellation disclosure. Remittance transfer providers that offer remittance transfers scheduled three or more business days before the date of the transfer, as well as remittance transfers scheduled fewer than three business days before the date of the transfer, may meet the cancellation disclosure requirements in \u00a7 1005.31(b)(2)(iv) by describing the three-business-day and 30-minute cancellation periods on the same disclosure and using a checkbox or other method to clearly designate the applicable cancellation period. The provider may use a number of methods to indicate which cancellation period applies to the transaction including, but not limited to, a statement to that effect, use of a checkbox, highlighting, circling, and the like. For transfers scheduled three business days before the date of the transfer, the cancellation disclosures provided pursuant to \u00a7 1005.31(b)(2)(iv) should be phrased and formatted in such a way that it is clear to the sender which cancellation period is applicable to the date of transfer disclosed on the receipt.",
+            "title":"Cancellation disclosure.",
+            "text":"Remittance transfer providers that offer remittance transfers scheduled three or more business days before the date of the transfer, as well as remittance transfers scheduled fewer than three business days before the date of the transfer, may meet the cancellation disclosure requirements in \u00a7 1005.31(b)(2)(iv) by describing the three-business-day and 30-minute cancellation periods on the same disclosure and using a checkbox or other method to clearly designate the applicable cancellation period. The provider may use a number of methods to indicate which cancellation period applies to the transaction including, but not limited to, a statement to that effect, use of a checkbox, highlighting, circling, and the like. For transfers scheduled three business days before the date of the transfer, the cancellation disclosures provided pursuant to \u00a7 1005.31(b)(2)(iv) should be phrased and formatted in such a way that it is clear to the sender which cancellation period is applicable to the date of transfer disclosed on the receipt.",
             "label":[
                 "1005",
                 "31",
@@ -793,106 +834,120 @@
                 [
                     "delete",
                     0,
-                    54
+                    29
                 ],
                 [
                     "insert",
                     0,
-                    "Transfer date disclosures. The following example demonstrates how the information required by \u00a7 1005.31(b)(2)(vii) and \u00a7 1005.36(d)(1) should be disclosed on receipts: On July 1, a sender instructs the provider to send a preauthorized remittance transfer of US$100 each week to a designated recipient. The sender requests"
+                    "The following example demonstrates how the information required by \u00a7 1005.31(b)(2)(vii) and \u00a7 1005.36(d)(1) should be disclosed on receipts: On July 1, a sender instructs the provider to send a preauthorized remittance transfer of US$100 each week to a designated recipient. The sender requests"
                 ]
             ],
             [
                 [
                     "delete",
-                    60,
-                    65
+                    35,
+                    40
                 ],
                 [
                     "insert",
-                    60,
+                    35,
                     "first transfer in the series be sent on July 15. On the receipt, the"
                 ]
             ],
             [
                 "insert",
-                77,
+                52,
                 "transfer provider discloses an estimated exchange rate to the sender pursuant to \u00a7 1005.32(b)(2). In accordance with \u00a7 1005.31(b)(2)(vii), the provider should disclose the date of transfer for that particular transaction (i.e., July 15) on the receipt provided when payment is made for the transfer pursuant to the timing requirements in \u00a7 1005.36(a)(1)(i). The second receipt, which \u00a7 1005.36(a)(1)(ii) requires to be provided within one business day after the date of the transfer or, for "
             ],
             [
                 "insert",
-                87,
+                62,
                 "from the sender's account held by the provider, on the next regularly "
             ],
             [
                 [
                     "delete",
-                    97,
-                    102
+                    72,
+                    77
                 ],
                 [
                     "insert",
-                    97,
+                    72,
                     "periodic statement"
                 ]
             ],
             [
                 [
                     "delete",
-                    106,
-                    119
+                    81,
+                    94
                 ],
                 [
                     "insert",
-                    106,
+                    81,
                     "within 30"
                 ]
             ],
             [
                 [
                     "delete",
-                    125,
-                    135
+                    100,
+                    110
                 ],
                 [
                     "insert",
-                    125,
+                    100,
                     "after payment is made if a periodic statement is not provided, is also required to include the"
                 ]
             ],
             [
                 [
                     "delete",
-                    144,
-                    168
+                    119,
+                    143
                 ],
                 [
                     "insert",
-                    144,
+                    119,
                     "transfer. If the provider discloses on either receipt the cancellation period applicable to and dates of subsequent preauthorized"
                 ]
             ],
             [
                 [
                     "delete",
-                    190,
-                    241
+                    165,
+                    216
                 ],
                 [
                     "insert",
-                    190,
+                    165,
                     "in accordance with \u00a7 1005.36(d)(2), the disclosure must be phrased and formatted in such a way that it is clear to the sender which cancellation period is applicable to any"
                 ]
             ],
             [
                 [
                     "delete",
-                    250,
-                    1052
+                    225,
+                    1027
                 ],
                 [
                     "insert",
-                    250,
+                    225,
                     "transfer on the"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    24
+                ],
+                [
+                    "insert",
+                    0,
+                    "Transfer date disclosures."
                 ]
             ]
         ],
