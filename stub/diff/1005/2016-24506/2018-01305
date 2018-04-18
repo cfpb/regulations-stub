@@ -1115,6 +1115,66 @@
         },
         "op":"added"
     },
+    "1005-18-b-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    31
+                ],
+                [
+                    "insert",
+                    0,
+                    "All relevant facts and circumstances determine whether a foreign language is principally used by the financial institution to advertise, solicit, or market"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    38,
+                    74
+                ],
+                [
+                    "insert",
+                    38,
+                    "\u00a7\u20091005.18(b)(9). Whether a foreign language is principally used is determined at the packaging material, advertisement, solicitation, or marketing communication level, not at the prepaid account program level or across the financial institution's activities as a whole. A financial institution that advertises a prepaid account program"
+                ]
+            ],
+            [
+                "insert",
+                78,
+                "multiple languages would evaluate its use of foreign language in each advertisement to determine whether it has principally used "
+            ],
+            [
+                [
+                    "delete",
+                    80,
+                    475
+                ],
+                [
+                    "insert",
+                    80,
+                    "foreign language therein."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    19
+                ],
+                [
+                    "insert",
+                    0,
+                    "Principally used."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1005-18-h-Interp-6-ii":{
         "node":{
             "tagged_text":null,
@@ -1376,6 +1436,9 @@
             ]
         },
         "op":"added"
+    },
+    "1005-10-e-1-Interp-1-ii":{
+        "op":"deleted"
     },
     "1005-18-b-2-v-Interp-1":{
         "node":{
@@ -2469,6 +2532,30 @@
         },
         "op":"added"
     },
+    "1005-10-e-1-Interp-1":{
+        "text":[
+            [
+                "delete",
+                101,
+                398
+            ]
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    4
+                ],
+                [
+                    "insert",
+                    0,
+                    "General rule for loan"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1005-19-a-Interp":{
         "node":{
             "tagged_text":null,
@@ -2492,23 +2579,45 @@
         },
         "op":"added"
     },
-    "1005-18-b-9-ii-A-Interp-1":{
+    "1005-10-e-1-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"A consumer visits the financial institution's branch location in person and speaks to an employee in a foreign language about acquiring a prepaid account. The consumer proceeds with the acquisition process in that foreign language.",
+            "title":"Applicability to covered separate credit features accessible by hybrid prepaid-credit cards.",
+            "text":"",
             "label":[
                 "1005",
-                "18",
-                "b",
-                "9",
-                "ii",
-                "A",
+                "10",
+                "e",
+                "1",
                 "Interp",
-                "1"
+                "3"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1005-10-e-1-Interp-3-i",
+                "1005-10-e-1-Interp-3-ii"
+            ]
+        },
+        "op":"added"
+    },
+    "1005-10-e-1-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":"Incentives.",
+            "text":"A creditor may offer a program with a reduced annual percentage rate or other cost-related incentive for an automatic repayment feature, provided the program with the automatic payment feature is not the only loan program offered by the creditor for the type of credit involved. Examples include:",
+            "label":[
+                "1005",
+                "10",
+                "e",
+                "1",
+                "Interp",
+                "4"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-10-e-1-Interp-4-i",
+                "1005-10-e-1-Interp-4-ii"
+            ]
         },
         "op":"added"
     },
@@ -3257,28 +3366,29 @@
         },
         "op":"added"
     },
-    "1005-18-b-2-ix-B-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Disclosure of one or no additional fee types.",
-            "text":"The following examples provide guidance on the additional fee types disclosure pursuant to \u00a7\u20091005.18(b)(2)(ix)(B) for a prepaid account with fewer than two fee types that satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A):",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "2",
-                "ix",
-                "B",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-18-b-2-ix-B-Interp-1-i",
-                "1005-18-b-2-ix-B-Interp-1-ii"
+    "1005-10-e-1-Interp-2":{
+        "text":[
+            [
+                "delete",
+                0,
+                224
             ]
-        },
-        "op":"added"
+        ],
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    10
+                ],
+                [
+                    "insert",
+                    0,
+                    "Overdraft credit plans not accessible by hybrid prepaid-credit cards."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-18-b-2-ix-B-Interp-2":{
         "node":{
@@ -3543,6 +3653,26 @@
             ]
         ],
         "op":"modified"
+    },
+    "1005-18-b-9-ii-A-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A consumer visits the financial institution's branch location in person and speaks to an employee in a foreign language about acquiring a prepaid account. The consumer proceeds with the acquisition process in that foreign language.",
+            "label":[
+                "1005",
+                "18",
+                "b",
+                "9",
+                "ii",
+                "A",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-18-c-Interp":{
         "title":[
@@ -3936,7 +4066,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Option to withdraw agreements.Section 1005.19(b)(4) provides that if an issuer that did not previously qualify for the de minimis exception newly qualifies for the de minimis exception, the issuer must continue to make rolling submissions to the Bureau as required by \u00a7\u20091005.19(b)(1) until the issuer notifies the Bureau that the issuer is withdrawing all agreements it previously submitted to the Bureau. For example, an issuer offers three agreements and has 3,001 open accounts as of December 31. The issuer submitted each of the three agreements to the Bureau by January 30 as required under \u00a7\u20091005.19(b). As of March 31, the issuer has only 2,999 open accounts. The issuer has two options. First, the issuer may notify the Bureau that the issuer is withdrawing each of the three agreements it previously submitted. Once the issuer has notified the Bureau, the issuer is no longer required to make rolling submissions to the Bureau under \u00a7\u20091005.19(b) unless it later ceases to qualify for the de minimis exception. Alternatively, the issuer may choose not to notify the Bureau that it is withdrawing its agreements. In this case, the issuer must continue making rolling submissions to the Bureau as required by \u00a7\u20091005.19(b). The issuer might choose not to withdraw its agreements if, for example, the issuer believes it will likely cease to qualify for the de minimis exception again in the near future.",
+            "text":"Option to withdraw agreements.Section 1005.19(b)(4) provides that if an issuer that did not previously qualify for the de minimis exception newly qualifies for the de minimis exception, the issuer must continue to make rolling submissions to the Bureau as required by \u00a7\u20091005.19 (b)(1)until the issuer notifies the Bureau that the issuer is withdrawing all agreements it previously submitted to the Bureau. For example, an issuer offers three agreements and has 3,001 open accounts as of December 31. The issuer submitted each of the three agreements to the Bureau by January 30 as required under \u00a7\u20091005.19(b). As of March 31, the issuer has only 2,999 open accounts. The issuer has two options. First, the issuer may notify the Bureau that the issuer is withdrawing each of the three agreements it previously submitted. Once the issuer has notified the Bureau, the issuer is no longer required to make rolling submissions to the Bureau under \u00a7\u20091005.19(b) unless it later ceases to qualify for the de minimis exception. Alternatively, the issuer may choose not to notify the Bureau that it is withdrawing its agreements. In this case, the issuer must continue making rolling submissions to the Bureau as required by \u00a7\u20091005.19(b). The issuer might choose not to withdraw its agreements if, for example, the issuer believes it will likely cease to qualify for the de minimis exception again in the near future.",
             "label":[
                 "1005",
                 "19",
@@ -4008,7 +4138,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Date for determining whether issuer ceases to qualify.Whether an issuer ceases to qualify for the de minimis exception under \u00a7\u2009le, an issuer has 2,500 open prepaid accounts as of June 30, the last day of the calendar quarter. The issuer is not required to submit any agreements to the Bureau under \u00a7\u20091005.19(b) by July 30 (the 30th day after June 30) because the issuer qualifies for the de minimis exception. As of July 15, the issuer has 3,100 open prepaid accounts. The issuer is not required to take any action at this time, because whether an issuer qualifies for the de minimis exception under \u00a7\u20091005.19(b)(4) is determined as of the last day of the calendar quarter. The issuer still has 3,100 open prepaid accounts as of September 30. Because the issuer had 3,100 open prepaid accounts as of September 30, the issuer ceases to qualify for the de minimis exception and must submit its agreements to the Bureau by October 30, the 30th day after the last day of the calendar quarter.",
+            "text":"Date for determining whether issuer ceases to qualify.Whether an issuer ceases to qualify for the de minimis exception under \u00a7\u2009le, an issuer has 2,500 open prepaid accounts as of June 30, the last day of the calendar quarter. The issuer is not required to submit any agreements to the Bureau under \u00a7\u20091005.19(b)(b) by July 30 (the 30th day after June 30) because the issuer qualifies for the de minimis exception. As of July 15, the issuer has 3,100 open prepaid accounts. The issuer is not required to take any action at this time, because whether an issuer qualifies for the de minimis exception under \u00a7\u20091005.19(b)(4) is determined as of the last day of the calendar quarter. The issuer still has 3,100 open prepaid accounts as of September 30. Because the issuer had 3,100 open prepaid accounts as of September 30, the issuer ceases to qualify for the de minimis exception and must submit its agreements to the Bureau by October 30, the 30th day after the last day of the calendar quarter.",
             "label":[
                 "1005",
                 "19",
@@ -4275,6 +4405,25 @@
                 "1005-18-b-2-viii-A-Interp-2-viii-B",
                 "1005-18-b-2-viii-A-Interp-2-viii-C"
             ]
+        },
+        "op":"added"
+    },
+    "1005-10-e-1-Interp-4-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Mortgage plans calling for preauthorized biweekly payments that are debited electronically to the consumer's account and produce a lower total finance charge.",
+            "label":[
+                "1005",
+                "10",
+                "e",
+                "1",
+                "Interp",
+                "4",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -5074,7 +5223,7 @@
         "node":{
             "tagged_text":null,
             "title":"Number of fee types to disclose.",
-            "text":"Section 1005.18(b)(2)(ix)(A) requires disclosure of the two fee types that generate the highest revenue from consumers for the prepaid account program or across prepaid account programs that share the same fee schedule during the time period provided in \u00a7\u20091005.18(b)(2)(ix)(D) and (E), excluding the categories set forth in \u00a7\u20091005.18(b)(2)(ix)(A)(1) through (3). See comment 18(b)(2)(viii)(A)-2 for guidance on and examples of fee types. If a prepaid account program has two fee types that satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A), it must disclose both fees. If a prepaid account program has three or more fee types that potentially satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A), the financial institution must disclose only the two fee types that generate the highest revenue from consumers. See comment 18(b)(2)(ix)(B)-1 for guidance regarding the disclosure of additional fee types for a prepaid account with fewer than two fee types that satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A).",
+            "text":"Section 1005.18(b)(2)(ix)(A) requires disclosure of the two fee types that generate the highest revenue from consumers for the prepaid account program or across prepaid account programs that share the same fee schedule during the time period provided in \u00a7\u20091005.18(b)(2)(ix)(D) and 1005.18(b)(2)(ix)(E), excluding the categories set forth in \u00a7\u20091005.18(b)(2)(ix)(A)(1) through (3). See comment 18(b)(2)(viii)(A)-2 for guidance on and examples of fee types. If a prepaid account program has two fee types that satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A), it must disclose both fees. If a prepaid account program has three or more fee types that potentially satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A), the financial institution must disclose only the two fee types that generate the highest revenue from consumers. See comment 18(b)(2)(ix)(B)-1 for guidance regarding the disclosure of additional fee types for a prepaid account with fewer than two fee types that satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A).",
             "label":[
                 "1005",
                 "18",
@@ -5371,6 +5520,25 @@
             ]
         ],
         "op":"modified"
+    },
+    "1005-10-e-1-Interp-2-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Credit extended through a negative balance on the asset feature of a prepaid account that meets the conditions of Regulation Z, 12 CFR 1026.61(a)(4), is considered credit extended pursuant to an overdraft credit plan for purposes of \u00a7\u20091005.10(e)(1). Thus, the exception for overdraft credit plans in \u00a7\u20091005.10(e)(1) applies to this credit.",
+            "label":[
+                "1005",
+                "10",
+                "e",
+                "1",
+                "Interp",
+                "2",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-18-h-Interp-6-i":{
         "node":{
@@ -5780,7 +5948,7 @@
         "node":{
             "tagged_text":null,
             "title":"Exclusion for credit-related fees.",
-            "text":"Any finance charges as described in Regulation Z, 12 CFR 1026.4(b)(11), imposed in connection with a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in 12 CFR 1026.61, are excluded from the additional fee types required to be disclosed pursuant to \u00a7\u20091005.18(b)(2)(ix)(A)(3). Pursuant to \u00a7\u20091005.18(b)(2)(viii)(A)(2), such finance charges are also excluded from the number of additional fee types disclosed.",
+            "text":"Any finance charges as described in Regulation Z, 12 CFR 1026.4(b)(11), imposed in connection with a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in 12 CFR 1026.61, are excluded from the additional fee types required to be disclosed pursuant to \u00a7\u20091005.18(b)(2)(ix)(A)(3)ref>. Pursuant to \u00a7\u20091005.18(b)(2)(viii)(A)(2), such finance charges are also excluded from the number of additional fee types disclosed.",
             "label":[
                 "1005",
                 "18",
@@ -6138,22 +6306,22 @@
         },
         "op":"added"
     },
-    "1005-12-b-Interp-4":{
+    "1005-10-e-1-Interp-3-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Preemption determination\u2014Tennessee.The Bureau determined that the following provision in the state law of Tennessee is preempted by the Federal law, effective April 25, 2013:",
+            "text":"Under \u00a7\u20091005.10(e)(1), creditors may not require by electronic means on a preauthorized, recurring basis repayment of credit extended under a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61. The prohibition in \u00a7\u20091005.10(e)(1) applies to any credit extended under such a credit credit, including preauthorized checks. See Regulation Z, 12 CFR 1026.61, and comment 61(a)(1)-3.",
             "label":[
                 "1005",
-                "12",
-                "b",
+                "10",
+                "e",
+                "1",
                 "Interp",
-                "4"
+                "3",
+                "i"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1005-12-b-Interp-4-i"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -6215,19 +6383,19 @@
         },
         "op":"added"
     },
-    "1005-18-b-1-Interp-2-ii":{
+    "1005-10-e-1-Interp-2-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"A financial institution presents the short form disclosure required by \u00a7\u20091005.18(b)(2), together with the information required by \u00a7\u20091005.18(b)(5), on a web page. The financial institution includes, after the short form disclosure or as part of the statement required by \u00a7\u20091005.18(b)(2)(xiii), a link that directs the consumer to a separate web page containing the long form disclosure required by \u00a7\u20091005.18(b)(4). The consumer must view the web page containing the long form disclosure before choosing to accept the prepaid account.",
+            "text":"Section 1005.10(e)(1) provides an exception from the general rule for an overdraft credit plan other than for a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61. A financial institution may therefore require the automatic repayment of an overdraft credit plan, other than a covered separate credit feature accessible by a hybrid prepaid-credit card, even if the overdraft extension is charged to an open-end account that may be accessed by the consumer in ways other than by overdrafts.",
             "label":[
                 "1005",
-                "18",
-                "b",
+                "10",
+                "e",
                 "1",
                 "Interp",
                 "2",
-                "ii"
+                "i"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -6278,6 +6446,25 @@
                 "1005-18-b-2-viii-A-Interp-2-ii-C",
                 "1005-18-b-2-viii-A-Interp-2-ii-D"
             ]
+        },
+        "op":"added"
+    },
+    "1005-10-e-1-Interp-4-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Mortgages with graduated payments in which a pledged savings account is automatically debited during an initial period to supplement the monthly payments made by the borrower.",
+            "label":[
+                "1005",
+                "10",
+                "e",
+                "1",
+                "Interp",
+                "4",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -6481,7 +6668,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Delayed effective date for the agreement submission requirement.Section 1005.19(f)(2) provides that the requirement to submit prepaid account agreements to the Bureau on a rolling basis pursuant to \u00a7\u20091005.19(b) is delayed until April 1, 2019. An issuer must submit to the Bureau no later than April 31, 2019 all prepaid account agreements it offers as of April 1, 2019. After April 1, 2019, issuers must submit on a rolling basis prepaid account agreements or notifications of withdrawn agreements to the Bureau within 30 days after offering, amending, or ceasing to offer the agreements.",
+            "text":"Delayed effective date for the agreement submission requirement.Section 1005.19(f)(2) provides that the requirement to submit prepaid account agreements to the Bureau on a rolling basis pursuant to \u00a7\u20091005.19(b) is delayed until October 1, 2017. An issuer must submit to the Bureau no later than October 31, 2017 all prepaid account agreements it offers as of October 1, 2017. After October 1, 2017, issuers must submit on a rolling basis prepaid account agreements or notifications of withdrawn agreements to the Bureau within 30 days after offering, amending, or ceasing to offer the agreements.",
             "label":[
                 "1005",
                 "19",
@@ -7380,6 +7567,9 @@
         },
         "op":"added"
     },
+    "1005-10-e-1-Interp-1-i":{
+        "op":"deleted"
+    },
     "1005-18-b-7-ii-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -7564,6 +7754,29 @@
             ]
         ],
         "op":"modified"
+    },
+    "1005-18-b-2-ix-B-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Disclosure of one or no additional fee types.",
+            "text":"The following examples provide guidance on the additional fee types disclosure pursuant to \u00a7\u20091005.18(b)(2)(ix)(B) for a prepaid account with fewer than two fee types that satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A):",
+            "label":[
+                "1005",
+                "18",
+                "b",
+                "2",
+                "ix",
+                "B",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-18-b-2-ix-B-Interp-1-i",
+                "1005-18-b-2-ix-B-Interp-1-ii"
+            ]
+        },
+        "op":"added"
     },
     "1005-2-b-3-i-Interp-1":{
         "node":{
@@ -7912,6 +8125,25 @@
                 "Interp",
                 "4",
                 "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-10-e-1-Interp-3-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Under Regulation Z, 12 CFR 1026.12(d)(1), a card issuer may not take any action, either before or after termination of credit card privileges, to offset a cardholder's indebtedness arising from a consumer credit transaction under the relevant credit card plan against funds of the cardholder held on deposit with the card issuer. Under Regulation Z, 12 CFR 1026.12(d)(3), with respect to covered separate credit features accessible by hybrid prepaid-credit cards as defined in 12 CFR 1026.61, a card issuer generally is not prohibited from periodically deducting all or part of the cardholder's credit card debt from a deposit account (such as a prepaid account) held with the card issuer under a plan that is authorized in writing by the cardholder, so long as the card issuer does not make such deductions to the plan more frequently than once per calendar month. A card issuer is prohibited under Regulation Z, 12 CFR 1026.12(d), from automatically deducting all or part of the cardholder's credit card debt under a covered separate credit feature from a deposit account (such as a prepaid account) held with the card issuer on a daily or weekly basis, or whenever deposits are made to the deposit account. Section 1005.10(e)(1) further restricts the card issuer from requiring payment from a deposit account (such as a prepaid account) of credit card balances of a covered separate credit feature accessible by a hybrid prepaid-credit card by electronic means on a preauthorized, recurring basis.",
+            "label":[
+                "1005",
+                "10",
+                "e",
+                "1",
+                "Interp",
+                "3",
+                "ii"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -9673,65 +9905,24 @@
         },
         "op":"added"
     },
-    "1005-18-b-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    31
-                ],
-                [
-                    "insert",
-                    0,
-                    "All relevant facts and circumstances determine whether a foreign language is principally used by the financial institution to advertise, solicit, or market"
-                ]
+    "1005-12-b-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Preemption determination\u2014Tennessee.The Bureau determined that the following provision in the state law of Tennessee is preempted by the Federal law, effective April 25, 2013:",
+            "label":[
+                "1005",
+                "12",
+                "b",
+                "Interp",
+                "4"
             ],
-            [
-                [
-                    "delete",
-                    38,
-                    74
-                ],
-                [
-                    "insert",
-                    38,
-                    "\u00a7\u20091005.18(b)(9). Whether a foreign language is principally used is determined at the packaging material, advertisement, solicitation, or marketing communication level, not at the prepaid account program level or across the financial institution's activities as a whole. A financial institution that advertises a prepaid account program"
-                ]
-            ],
-            [
-                "insert",
-                78,
-                "multiple languages would evaluate its use of foreign language in each advertisement to determine whether it has principally used "
-            ],
-            [
-                [
-                    "delete",
-                    80,
-                    475
-                ],
-                [
-                    "insert",
-                    80,
-                    "foreign language therein."
-                ]
+            "node_type":"interp",
+            "child_labels":[
+                "1005-12-b-Interp-4-i"
             ]
-        ],
-        "title":[
-            [
-                [
-                    "delete",
-                    0,
-                    19
-                ],
-                [
-                    "insert",
-                    0,
-                    "Principally used."
-                ]
-            ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1005-15-c-1":{
         "text":[
@@ -11258,7 +11449,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(4) or that satisfies the criteria in \u00a7\u20091005.20(a)(4)(i) and (ii) and is excluded from \u00a7\u20091005.20 pursuant to \u00a7\u20091005.20(b)(4); or",
+            "text":"(4) A general-use prepaid card as defined in \u00a7\u20091005.20(a)(3) and (b) that is both marketed and labeled as a gift card or gift certificate; or",
             "label":[
                 "1005",
                 "2",
@@ -11350,7 +11541,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(3) A loyalty, award, or promotional gift card as defined in \u00a7\u20091005.20(a)",
+            "text":"(3) A loyalty, award, or promotional gift card as defined in \u00a7\u20091005.20(a)ref>",
             "label":[
                 "1005",
                 "2",
@@ -11387,7 +11578,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(iii) Resolution of errors following successful verification. Once a financial institution successfully completes its consumer identification and verification process with respect to a prepaid account, the financial institution must limit the consumer's liability for unauthorized transfers and resolve errors that occur following verification in accordance with \u00a7\u20091005.6 or \u00a7\u20091005.11, or the modified timing requirements in this paragraph (e), as applicable.",
+            "text":"(iii) Resolution of errors following successful verification. Once a financial institution successfully completes its consumer identification and verification process with respect to a prepaid account, the financial institution must limit the consumer's liability for unauthorized transfers and resolve errors that occur following verification in accordance with \u00a7\u20091005.6 or \u00a7\u20091005.11ref>, or the modified timing requirements in this paragraph (e), as applicable.",
             "label":[
                 "1005",
                 "18",
@@ -12681,6 +12872,25 @@
                 "1005-18-h-Interp-6-i",
                 "1005-18-h-Interp-6-ii"
             ]
+        },
+        "op":"added"
+    },
+    "1005-18-b-1-Interp-2-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A financial institution presents the short form disclosure required by \u00a7\u20091005.18(b)(2), together with the information required by \u00a7\u20091005.18(b)(5), on a web page. The financial institution includes, after the short form disclosure or as part of the statement required by \u00a7\u20091005.18(b)(2)(xiii), a link that directs the consumer to a separate web page containing the long form disclosure required by \u00a7\u20091005.18(b)(4). The consumer must view the web page containing the long form disclosure before choosing to accept the prepaid account.",
+            "label":[
+                "1005",
+                "18",
+                "b",
+                "1",
+                "Interp",
+                "2",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },

@@ -345,7 +345,7 @@
                                                                 "3"
                                                             ],
                                                             "node_type":"regtext",
-                                                            "text":"(3) A loyalty, award, or promotional gift card as defined in \u00a7\u20091005.20(a)",
+                                                            "text":"(3) A loyalty, award, or promotional gift card as defined in \u00a7\u20091005.20(a)ref>",
                                                             "marker":"(3)"
                                                         },
                                                         {
@@ -360,7 +360,7 @@
                                                                 "4"
                                                             ],
                                                             "node_type":"regtext",
-                                                            "text":"(4) or that satisfies the criteria in \u00a7\u20091005.20(a)(4)(i) and (ii) and is excluded from \u00a7\u20091005.20 pursuant to \u00a7\u20091005.20(b)(4); or",
+                                                            "text":"(4) A general-use prepaid card as defined in \u00a7\u20091005.20(a)(3) and (b) that is both marketed and labeled as a gift card or gift certificate; or",
                                                             "marker":"(4)"
                                                         }
                                                     ],
@@ -6209,7 +6209,7 @@
                                                 "iii"
                                             ],
                                             "node_type":"regtext",
-                                            "text":"(iii) Resolution of errors following successful verification. Once a financial institution successfully completes its consumer identification and verification process with respect to a prepaid account, the financial institution must limit the consumer's liability for unauthorized transfers and resolve errors that occur following verification in accordance with \u00a7\u20091005.6 or \u00a7\u20091005.11, or the modified timing requirements in this paragraph (e), as applicable.",
+                                            "text":"(iii) Resolution of errors following successful verification. Once a financial institution successfully completes its consumer identification and verification process with respect to a prepaid account, the financial institution must limit the consumer's liability for unauthorized transfers and resolve errors that occur following verification in accordance with \u00a7\u20091005.6 or \u00a7\u20091005.11ref>, or the modified timing requirements in this paragraph (e), as applicable.",
                                             "marker":"(iii)"
                                         }
                                     ],
@@ -17465,6 +17465,21 @@
                                 {
                                     "children":[
                                         {
+                                            "children":[],
+                                            "label":[
+                                                "1005",
+                                                "10",
+                                                "e",
+                                                "1",
+                                                "Interp",
+                                                "1"
+                                            ],
+                                            "node_type":"interp",
+                                            "text":"Creditors may not require repayment of loans by electronic means on a preauthorized, recurring basis.",
+                                            "title":"General rule for loan payments.",
+                                            "marker":"1."
+                                        },
+                                        {
                                             "children":[
                                                 {
                                                     "children":[],
@@ -17474,7 +17489,99 @@
                                                         "e",
                                                         "1",
                                                         "Interp",
+                                                        "2",
+                                                        "i"
+                                                    ],
+                                                    "node_type":"interp",
+                                                    "text":"Section 1005.10(e)(1) provides an exception from the general rule for an overdraft credit plan other than for a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61. A financial institution may therefore require the automatic repayment of an overdraft credit plan, other than a covered separate credit feature accessible by a hybrid prepaid-credit card, even if the overdraft extension is charged to an open-end account that may be accessed by the consumer in ways other than by overdrafts.",
+                                                    "marker":"i."
+                                                },
+                                                {
+                                                    "children":[],
+                                                    "label":[
+                                                        "1005",
+                                                        "10",
+                                                        "e",
                                                         "1",
+                                                        "Interp",
+                                                        "2",
+                                                        "ii"
+                                                    ],
+                                                    "node_type":"interp",
+                                                    "text":"Credit extended through a negative balance on the asset feature of a prepaid account that meets the conditions of Regulation Z, 12 CFR 1026.61(a)(4), is considered credit extended pursuant to an overdraft credit plan for purposes of \u00a7\u20091005.10(e)(1). Thus, the exception for overdraft credit plans in \u00a7\u20091005.10(e)(1) applies to this credit.",
+                                                    "marker":"ii."
+                                                }
+                                            ],
+                                            "label":[
+                                                "1005",
+                                                "10",
+                                                "e",
+                                                "1",
+                                                "Interp",
+                                                "2"
+                                            ],
+                                            "node_type":"interp",
+                                            "text":"",
+                                            "title":"Overdraft credit plans not accessible by hybrid prepaid-credit cards.",
+                                            "marker":"2."
+                                        },
+                                        {
+                                            "children":[
+                                                {
+                                                    "children":[],
+                                                    "label":[
+                                                        "1005",
+                                                        "10",
+                                                        "e",
+                                                        "1",
+                                                        "Interp",
+                                                        "3",
+                                                        "i"
+                                                    ],
+                                                    "node_type":"interp",
+                                                    "text":"Under \u00a7\u20091005.10(e)(1), creditors may not require by electronic means on a preauthorized, recurring basis repayment of credit extended under a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61. The prohibition in \u00a7\u20091005.10(e)(1) applies to any credit extended under such a credit credit, including preauthorized checks. See Regulation Z, 12 CFR 1026.61, and comment 61(a)(1)-3.",
+                                                    "marker":"i."
+                                                },
+                                                {
+                                                    "children":[],
+                                                    "label":[
+                                                        "1005",
+                                                        "10",
+                                                        "e",
+                                                        "1",
+                                                        "Interp",
+                                                        "3",
+                                                        "ii"
+                                                    ],
+                                                    "node_type":"interp",
+                                                    "text":"Under Regulation Z, 12 CFR 1026.12(d)(1), a card issuer may not take any action, either before or after termination of credit card privileges, to offset a cardholder's indebtedness arising from a consumer credit transaction under the relevant credit card plan against funds of the cardholder held on deposit with the card issuer. Under Regulation Z, 12 CFR 1026.12(d)(3), with respect to covered separate credit features accessible by hybrid prepaid-credit cards as defined in 12 CFR 1026.61, a card issuer generally is not prohibited from periodically deducting all or part of the cardholder's credit card debt from a deposit account (such as a prepaid account) held with the card issuer under a plan that is authorized in writing by the cardholder, so long as the card issuer does not make such deductions to the plan more frequently than once per calendar month. A card issuer is prohibited under Regulation Z, 12 CFR 1026.12(d), from automatically deducting all or part of the cardholder's credit card debt under a covered separate credit feature from a deposit account (such as a prepaid account) held with the card issuer on a daily or weekly basis, or whenever deposits are made to the deposit account. Section 1005.10(e)(1) further restricts the card issuer from requiring payment from a deposit account (such as a prepaid account) of credit card balances of a covered separate credit feature accessible by a hybrid prepaid-credit card by electronic means on a preauthorized, recurring basis.",
+                                                    "marker":"ii."
+                                                }
+                                            ],
+                                            "label":[
+                                                "1005",
+                                                "10",
+                                                "e",
+                                                "1",
+                                                "Interp",
+                                                "3"
+                                            ],
+                                            "node_type":"interp",
+                                            "text":"",
+                                            "title":"Applicability to covered separate credit features accessible by hybrid prepaid-credit cards.",
+                                            "marker":"3."
+                                        },
+                                        {
+                                            "children":[
+                                                {
+                                                    "children":[],
+                                                    "label":[
+                                                        "1005",
+                                                        "10",
+                                                        "e",
+                                                        "1",
+                                                        "Interp",
+                                                        "4",
                                                         "i"
                                                     ],
                                                     "node_type":"interp",
@@ -17489,7 +17596,7 @@
                                                         "e",
                                                         "1",
                                                         "Interp",
-                                                        "1",
+                                                        "4",
                                                         "ii"
                                                     ],
                                                     "node_type":"interp",
@@ -17503,27 +17610,12 @@
                                                 "e",
                                                 "1",
                                                 "Interp",
-                                                "1"
+                                                "4"
                                             ],
                                             "node_type":"interp",
-                                            "text":"Creditors may not require repayment of loans by electronic means on a preauthorized, recurring basis. A creditor may offer a program with a reduced annual percentage rate or other cost-related incentive for an automatic repayment feature, provided the program with the automatic payment feature is not the only loan program offered by the creditor for the type of credit involved. Examples include:",
-                                            "title":"Loan payments.",
-                                            "marker":"1."
-                                        },
-                                        {
-                                            "children":[],
-                                            "label":[
-                                                "1005",
-                                                "10",
-                                                "e",
-                                                "1",
-                                                "Interp",
-                                                "2"
-                                            ],
-                                            "node_type":"interp",
-                                            "text":"A financial institution may require the automatic repayment of an overdraft credit plan even if the overdraft extension is charged to an open-end account that may be accessed by the consumer in ways other than by overdrafts.",
-                                            "title":"Overdraft.",
-                                            "marker":"2."
+                                            "text":"A creditor may offer a program with a reduced annual percentage rate or other cost-related incentive for an automatic repayment feature, provided the program with the automatic payment feature is not the only loan program offered by the creditor for the type of credit involved. Examples include:",
+                                            "title":"Incentives.",
+                                            "marker":"4."
                                         }
                                     ],
                                     "label":[
@@ -26815,7 +26907,7 @@
                                                 "4"
                                             ],
                                             "node_type":"interp",
-                                            "text":"Date for determining whether issuer ceases to qualify.Whether an issuer ceases to qualify for the de minimis exception under \u00a7\u2009le, an issuer has 2,500 open prepaid accounts as of June 30, the last day of the calendar quarter. The issuer is not required to submit any agreements to the Bureau under \u00a7\u20091005.19(b) by July 30 (the 30th day after June 30) because the issuer qualifies for the de minimis exception. As of July 15, the issuer has 3,100 open prepaid accounts. The issuer is not required to take any action at this time, because whether an issuer qualifies for the de minimis exception under \u00a7\u20091005.19(b)(4) is determined as of the last day of the calendar quarter. The issuer still has 3,100 open prepaid accounts as of September 30. Because the issuer had 3,100 open prepaid accounts as of September 30, the issuer ceases to qualify for the de minimis exception and must submit its agreements to the Bureau by October 30, the 30th day after the last day of the calendar quarter.",
+                                            "text":"Date for determining whether issuer ceases to qualify.Whether an issuer ceases to qualify for the de minimis exception under \u00a7\u2009le, an issuer has 2,500 open prepaid accounts as of June 30, the last day of the calendar quarter. The issuer is not required to submit any agreements to the Bureau under \u00a7\u20091005.19(b)(b) by July 30 (the 30th day after June 30) because the issuer qualifies for the de minimis exception. As of July 15, the issuer has 3,100 open prepaid accounts. The issuer is not required to take any action at this time, because whether an issuer qualifies for the de minimis exception under \u00a7\u20091005.19(b)(4) is determined as of the last day of the calendar quarter. The issuer still has 3,100 open prepaid accounts as of September 30. Because the issuer had 3,100 open prepaid accounts as of September 30, the issuer ceases to qualify for the de minimis exception and must submit its agreements to the Bureau by October 30, the 30th day after the last day of the calendar quarter.",
                                             "marker":"4."
                                         },
                                         {
@@ -26829,7 +26921,7 @@
                                                 "5"
                                             ],
                                             "node_type":"interp",
-                                            "text":"Option to withdraw agreements.Section 1005.19(b)(4) provides that if an issuer that did not previously qualify for the de minimis exception newly qualifies for the de minimis exception, the issuer must continue to make rolling submissions to the Bureau as required by \u00a7\u20091005.19(b)(1) until the issuer notifies the Bureau that the issuer is withdrawing all agreements it previously submitted to the Bureau. For example, an issuer offers three agreements and has 3,001 open accounts as of December 31. The issuer submitted each of the three agreements to the Bureau by January 30 as required under \u00a7\u20091005.19(b). As of March 31, the issuer has only 2,999 open accounts. The issuer has two options. First, the issuer may notify the Bureau that the issuer is withdrawing each of the three agreements it previously submitted. Once the issuer has notified the Bureau, the issuer is no longer required to make rolling submissions to the Bureau under \u00a7\u20091005.19(b) unless it later ceases to qualify for the de minimis exception. Alternatively, the issuer may choose not to notify the Bureau that it is withdrawing its agreements. In this case, the issuer must continue making rolling submissions to the Bureau as required by \u00a7\u20091005.19(b). The issuer might choose not to withdraw its agreements if, for example, the issuer believes it will likely cease to qualify for the de minimis exception again in the near future.",
+                                            "text":"Option to withdraw agreements.Section 1005.19(b)(4) provides that if an issuer that did not previously qualify for the de minimis exception newly qualifies for the de minimis exception, the issuer must continue to make rolling submissions to the Bureau as required by \u00a7\u20091005.19 (b)(1)until the issuer notifies the Bureau that the issuer is withdrawing all agreements it previously submitted to the Bureau. For example, an issuer offers three agreements and has 3,001 open accounts as of December 31. The issuer submitted each of the three agreements to the Bureau by January 30 as required under \u00a7\u20091005.19(b). As of March 31, the issuer has only 2,999 open accounts. The issuer has two options. First, the issuer may notify the Bureau that the issuer is withdrawing each of the three agreements it previously submitted. Once the issuer has notified the Bureau, the issuer is no longer required to make rolling submissions to the Bureau under \u00a7\u20091005.19(b) unless it later ceases to qualify for the de minimis exception. Alternatively, the issuer may choose not to notify the Bureau that it is withdrawing its agreements. In this case, the issuer must continue making rolling submissions to the Bureau as required by \u00a7\u20091005.19(b). The issuer might choose not to withdraw its agreements if, for example, the issuer believes it will likely cease to qualify for the de minimis exception again in the near future.",
                                             "marker":"5."
                                         }
                                     ],
@@ -27009,7 +27101,7 @@
                                         "1"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Delayed effective date for the agreement submission requirement.Section 1005.19(f)(2) provides that the requirement to submit prepaid account agreements to the Bureau on a rolling basis pursuant to \u00a7\u20091005.19(b) is delayed until April 1, 2019. An issuer must submit to the Bureau no later than April 31, 2019 all prepaid account agreements it offers as of April 1, 2019. After April 1, 2019, issuers must submit on a rolling basis prepaid account agreements or notifications of withdrawn agreements to the Bureau within 30 days after offering, amending, or ceasing to offer the agreements.",
+                                    "text":"Delayed effective date for the agreement submission requirement.Section 1005.19(f)(2) provides that the requirement to submit prepaid account agreements to the Bureau on a rolling basis pursuant to \u00a7\u20091005.19(b) is delayed until October 1, 2017. An issuer must submit to the Bureau no later than October 31, 2017 all prepaid account agreements it offers as of October 1, 2017. After October 1, 2017, issuers must submit on a rolling basis prepaid account agreements or notifications of withdrawn agreements to the Bureau within 30 days after offering, amending, or ceasing to offer the agreements.",
                                     "marker":"1."
                                 },
                                 {
@@ -28016,7 +28108,7 @@
                                         "1"
                                     ],
                                     "node_type":"interp",
-                                    "text":"Section 1005.18(b)(2)(ix)(A) requires disclosure of the two fee types that generate the highest revenue from consumers for the prepaid account program or across prepaid account programs that share the same fee schedule during the time period provided in \u00a7\u20091005.18(b)(2)(ix)(D) and (E), excluding the categories set forth in \u00a7\u20091005.18(b)(2)(ix)(A)(1) through (3). See comment 18(b)(2)(viii)(A)-2 for guidance on and examples of fee types. If a prepaid account program has two fee types that satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A), it must disclose both fees. If a prepaid account program has three or more fee types that potentially satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A), the financial institution must disclose only the two fee types that generate the highest revenue from consumers. See comment 18(b)(2)(ix)(B)-1 for guidance regarding the disclosure of additional fee types for a prepaid account with fewer than two fee types that satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A).",
+                                    "text":"Section 1005.18(b)(2)(ix)(A) requires disclosure of the two fee types that generate the highest revenue from consumers for the prepaid account program or across prepaid account programs that share the same fee schedule during the time period provided in \u00a7\u20091005.18(b)(2)(ix)(D) and 1005.18(b)(2)(ix)(E), excluding the categories set forth in \u00a7\u20091005.18(b)(2)(ix)(A)(1) through (3). See comment 18(b)(2)(viii)(A)-2 for guidance on and examples of fee types. If a prepaid account program has two fee types that satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A), it must disclose both fees. If a prepaid account program has three or more fee types that potentially satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A), the financial institution must disclose only the two fee types that generate the highest revenue from consumers. See comment 18(b)(2)(ix)(B)-1 for guidance regarding the disclosure of additional fee types for a prepaid account with fewer than two fee types that satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A).",
                                     "title":"Number of fee types to disclose.",
                                     "marker":"1."
                                 },
@@ -28196,7 +28288,7 @@
                                                 "iii"
                                             ],
                                             "node_type":"interp",
-                                            "text":"Any finance charges as described in Regulation Z, 12 CFR 1026.4(b)(11), imposed in connection with a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in 12 CFR 1026.61, are excluded from the additional fee types required to be disclosed pursuant to \u00a7\u20091005.18(b)(2)(ix)(A)(3). Pursuant to \u00a7\u20091005.18(b)(2)(viii)(A)(2), such finance charges are also excluded from the number of additional fee types disclosed.",
+                                            "text":"Any finance charges as described in Regulation Z, 12 CFR 1026.4(b)(11), imposed in connection with a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in 12 CFR 1026.61, are excluded from the additional fee types required to be disclosed pursuant to \u00a7\u20091005.18(b)(2)(ix)(A)(3)ref>. Pursuant to \u00a7\u20091005.18(b)(2)(viii)(A)(2), such finance charges are also excluded from the number of additional fee types disclosed.",
                                             "title":"Exclusion for credit-related fees.",
                                             "marker":"iii."
                                         }
