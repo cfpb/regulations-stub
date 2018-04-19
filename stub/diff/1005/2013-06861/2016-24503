@@ -261,24 +261,6 @@
         },
         "op":"added"
     },
-    "1005-2-b-3-ii-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(B) An account that is directly or indirectly established through a third party and loaded only with qualified disaster relief payments;",
-            "label":[
-                "1005",
-                "2",
-                "b",
-                "3",
-                "ii",
-                "B"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-31-a-4-ii":{
         "node":{
             "tagged_text":null,
@@ -518,6 +500,22 @@
                 "1"
             ],
             "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-A-32-p7":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"![](ER22MY13.248)",
+            "label":[
+                "1005",
+                "A",
+                "32",
+                "p7"
+            ],
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
@@ -1006,19 +1004,21 @@
         ],
         "op":"modified"
     },
-    "1005-18-f-3":{
+    "1005-19-b-6":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(3) Disclosures on prepaid account access devices.The name of the financial institution and the Web site URL and a telephone number a consumer can use to contact the financial institution about the prepaid account must be disclosed on the prepaid account access device. If a financial institution does not provide a physical access device in connection with a prepaid account, the disclosure must appear on the Web site, mobile application, or other entry point a consumer must visit to access the prepaid account electronically.",
+            "title":"Form and content of agreements submitted to the Bureau.",
+            "text":"(6)",
             "label":[
                 "1005",
-                "18",
-                "f",
-                "3"
+                "19",
+                "b",
+                "6"
             ],
             "node_type":"regtext",
-            "child_labels":[]
+            "child_labels":[
+                "1005-19-b-6-i"
+            ]
         },
         "op":"added"
     },
@@ -1163,20 +1163,19 @@
         },
         "op":"added"
     },
-    "1005-2-b-Interp-3-i":{
+    "1005-18-e-2-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Profit-sharing and pension accounts established under a trust agreement, which are exempt under \u00a7 1005.2(b)(2).",
+            "text":"(ii) In lieu of following the procedures in paragraph (e)(2)(i) of this section, a financial institution complies with the requirements for resolving errors in \u00a7\u20091005.11 if it investigates any oral or written notice of an error from the consumer that is received by the institution within 120 days after the transfer allegedly in error was credited or debited to the consumer's account.",
             "label":[
                 "1005",
+                "18",
+                "e",
                 "2",
-                "b",
-                "Interp",
-                "3",
-                "i"
+                "ii"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -1250,25 +1249,22 @@
         },
         "op":"added"
     },
-    "1005-2-b-3-i-D":{
+    "1005-2-b-3-i-D-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(D) An account:",
+            "text":"(1) That is issued on a prepaid basis in a specified amount or not issued on a prepaid basis but capable of being loaded with funds thereafter,",
             "label":[
                 "1005",
                 "2",
                 "b",
                 "3",
                 "i",
-                "D"
+                "D",
+                "1"
             ],
             "node_type":"regtext",
-            "child_labels":[
-                "1005-2-b-3-i-D-1",
-                "1005-2-b-3-i-D-2",
-                "1005-2-b-3-i-D-3"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -1362,22 +1358,24 @@
         },
         "op":"added"
     },
-    "1005-15-d":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    185
-                ],
-                [
-                    "insert",
-                    4,
-                    "Access to account information."
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1005-2-b-3-i-D-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(3) That is not a checking account, share draft account, or negotiable order of withdrawal account.",
+            "label":[
+                "1005",
+                "2",
+                "b",
+                "3",
+                "i",
+                "D",
+                "3"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-18-b-2-xiv-A":{
         "node":{
@@ -1662,22 +1660,58 @@
         },
         "op":"added"
     },
-    "1005-31-b-1-iv":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(iv) The exchange rate used by the provider for the remittance transfer, rounded consistently for each currency to no fewer than two decimal places and no more than four decimal places, using the term \u201cExchange Rate\u201d or a substantially similar term;",
-            "label":[
-                "1005",
-                "31",
-                "b",
-                "1",
-                "iv"
+    "1005-15-a-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    79,
+                    88
+                ],
+                [
+                    "insert",
+                    79,
+                    "  "
+                ]
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    445,
+                    454
+                ],
+                [
+                    "insert",
+                    445,
+                    "  "
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    463,
+                    468
+                ],
+                [
+                    "insert",
+                    463,
+                    "part"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    479,
+                    490
+                ],
+                [
+                    "insert",
+                    479,
+                    "modified by"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-33-h-2":{
         "node":{
@@ -1936,6 +1970,25 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-19-b-5":{
+        "node":{
+            "tagged_text":null,
+            "title":"Product testing exception.",
+            "text":"(5)",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "5"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-19-b-5-i",
+                "1005-19-b-5-ii"
+            ]
         },
         "op":"added"
     },
@@ -2497,6 +2550,23 @@
         },
         "op":"added"
     },
+    "1005-19-b-4-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(i) An issuer is not required to submit any prepaid account agreements to the Bureau if the issuer has fewer than 3,000 open prepaid accounts. If the issuer has 3,000 or more open prepaid accounts as of the last day of the calendar quarter, the issuer must submit to the Bureau its prepaid account agreements no later than 30 days after the last day of that calendar quarter.",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "4",
+                "i"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-31-g-1-Interp-1-ii":{
         "node":{
             "tagged_text":null,
@@ -3031,17 +3101,19 @@
         },
         "op":"added"
     },
-    "1005-36-d-Interp-4":{
+    "1005-32-b-1-Interp-7-i":{
         "node":{
             "tagged_text":null,
-            "title":"Accuracy requirements.",
-            "text":"Section 1005.36(d)(4) sets forth accuracy requirements for disclosures required for subsequent preauthorized remittance transfers under \u00a7 1005.36(d)(1). If any of the information provided in these disclosures change, the provider must provide an updated disclosure with the revised information that is accurate as of when the transfer is made, pursuant to \u00a7 1005.36(d)(2).",
+            "title":null,
+            "text":"If the laws of a recipient country change such that a remittance transfer provider can determine exact amounts, the remittance transfer provider must begin providing exact amounts for the required disclosures as soon as reasonably practicable if the provider has information that the country legally permits the provider to determine exact disclosure amounts.",
             "label":[
                 "1005",
-                "36",
-                "d",
+                "32",
+                "b",
+                "1",
                 "Interp",
-                "4"
+                "7",
+                "i"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -3408,8 +3480,21 @@
         },
         "op":"added"
     },
-    "1005-18-c-3-i-A":{
-        "op":"deleted"
+    "1005-18-f-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(3) Disclosures on prepaid account access devices.The name of the financial institution and the Web site URL and a telephone number a consumer can use to contact the financial institution about the prepaid account must be disclosed on the prepaid account access device. If a financial institution does not provide a physical access device in connection with a prepaid account, the disclosure must appear on the Web site, mobile application, or other entry point a consumer must visit to access the prepaid account electronically.",
+            "label":[
+                "1005",
+                "18",
+                "f",
+                "3"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-19-a-2-Interp-2-iii":{
         "node":{
@@ -3539,24 +3624,20 @@
         },
         "op":"added"
     },
-    "1005-10-e-1-Interp-4":{
+    "1005-19-b-4-ii":{
         "node":{
             "tagged_text":null,
-            "title":"Incentives.",
-            "text":"A creditor may offer a program with a reduced annual percentage rate or other cost-related incentive for an automatic repayment feature, provided the program with the automatic payment feature is not the only loan program offered by the creditor for the type of credit involved. Examples include:",
+            "title":null,
+            "text":"(ii) If an issuer that did not previously qualify for the de minimis exception newly qualifies for the de minimis exception, the issuer must continue to make submissions to the Bureau on a rolling basis until the issuer notifies the Bureau that the issuer is withdrawing all agreements it previously submitted to the Bureau.",
             "label":[
                 "1005",
-                "10",
-                "e",
-                "1",
-                "Interp",
-                "4"
+                "19",
+                "b",
+                "4",
+                "ii"
             ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-10-e-1-Interp-4-i",
-                "1005-10-e-1-Interp-4-ii"
-            ]
+            "node_type":"regtext",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -3896,6 +3977,27 @@
         },
         "op":"added"
     },
+    "1005-31-g-1-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Principally used.",
+            "text":"",
+            "label":[
+                "1005",
+                "31",
+                "g",
+                "1",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-31-g-1-Interp-1-i",
+                "1005-31-g-1-Interp-1-ii"
+            ]
+        },
+        "op":"added"
+    },
     "1005-19-a-6-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -4007,58 +4109,22 @@
         },
         "op":"added"
     },
-    "1005-15-d-1-i":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    29
-                ],
-                [
-                    "insert",
-                    4,
-                    "The consumer's account balance, through a readily available telephone line and at a terminal (such as"
-                ]
+    "1005-A-Interp-4-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Use of the model forms is optional.  A remittance transfer provider may change the forms by rearranging the format or by making modifications to the language of the forms, in each case without modifying the substance of the disclosures.  Any rearrangement or modification of the format of the model forms must be consistent with the form, grouping, proximity, and other requirements of \u00a7 1005.31(a) and (c).  Providers making revisions that do not comply with this section will lose the benefit of the safe harbor for appropriate use of Model Forms A-30(a) to A-41.",
+            "label":[
+                "1005",
+                "A",
+                "Interp",
+                "4",
+                "ii"
             ],
-            [
-                [
-                    "delete",
-                    33,
-                    38
-                ],
-                [
-                    "insert",
-                    33,
-                    "providing balance information at a balance-inquiry terminal or providing it, routinely or upon request, on a terminal receipt at"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    43,
-                    242
-                ],
-                [
-                    "insert",
-                    43,
-                    "time"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    246,
-                    256
-                ],
-                [
-                    "insert",
-                    246,
-                    "an electronic fund transfer);"
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-33-a-Interp-3-v":{
         "node":{
@@ -4095,21 +4161,63 @@
         },
         "op":"added"
     },
-    "1005-19-a-8":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(8) Prepaid account.For purposes of this section, \u201cprepaid account\u201d means a prepaid account as defined in \u00a7\u20091005.2(b)(3).",
-            "label":[
-                "1005",
-                "19",
-                "a",
-                "8"
+    "1005-15-d-1-iii":{
+        "text":[
+            [
+                [
+                    "delete",
+                    6,
+                    59
+                ],
+                [
+                    "insert",
+                    6,
+                    "A written history of the consumer's account transactions"
+                ]
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    68,
+                    89
+                ],
+                [
+                    "insert",
+                    68,
+                    "provided promptly in response"
+                ]
+            ],
+            [
+                "insert",
+                93,
+                "an oral or written request and that covers at least 24 months preceding "
+            ],
+            [
+                [
+                    "delete",
+                    97,
+                    170
+                ],
+                [
+                    "insert",
+                    97,
+                    "date"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    175,
+                    210
+                ],
+                [
+                    "insert",
+                    175,
+                    "agency receives the cconsumer's request."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-A-5-b":{
         "text":[
@@ -4211,22 +4319,8 @@
         },
         "op":"added"
     },
-    "1005-36-b-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Subsequent preauthorized remittance transfers.",
-            "text":"For a subsequent transfer in a series of preauthorized remittance transfers, the receipt provided pursuant to \u00a7 1005.36(a)(1)(i), except for the temporal disclosures in that receipt required by \u00a7 1005.31(b)(2)(ii) (Date Available) and (b)(2)(vii) (Transfer Date), applies to each subsequent preauthorized remittance transfer unless and until it is superseded by a receipt provided pursuant to \u00a7 1005.36(a)(2)(i). For each subsequent preauthorized remittance transfer, only the most recent receipt provided pursuant to \u00a7 1005.36(a)(1)(i) or (a)(2)(i) must be accurate as of the date each subsequent transfer is made.",
-            "label":[
-                "1005",
-                "36",
-                "b",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1005-18-c-3-i-A":{
+        "op":"deleted"
     },
     "1005-30-e-Interp-3-ii-B":{
         "node":{
@@ -4557,19 +4651,23 @@
         },
         "op":"added"
     },
-    "1005-A-30(b)":{
+    "1005-19-b-5-i":{
         "node":{
             "tagged_text":null,
-            "title":"A-30(b)\u2014Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(1))",
-            "text":"",
+            "title":null,
+            "text":"(i) An issuer is not required to submit a prepaid account agreement to the Bureau if the agreement meets the criteria set forth in paragraphs (b)(5)(i)(A) through (C) of this section. If the agreement fails to meet the criteria set forth in paragraphs (b)(5)(i)(A) through (C) of this section as of the last day of the calendar quarter, the issuer must submit to the Bureau that prepaid account agreement no later than 30 days after the last day of that calendar quarter. An agreement qualifies for the product testing exception if the agreement:",
             "label":[
                 "1005",
-                "A",
-                "30(b)"
+                "19",
+                "b",
+                "5",
+                "i"
             ],
-            "node_type":"appendix",
+            "node_type":"regtext",
             "child_labels":[
-                "1005-A-30(b)-p2"
+                "1005-19-b-5-i-A",
+                "1005-19-b-5-i-B",
+                "1005-19-b-5-i-C"
             ]
         },
         "op":"added"
@@ -4714,6 +4812,23 @@
         },
         "op":"added"
     },
+    "1005-19-b-1-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(ii) Any prepaid account agreement offered by the issuer that has not been previously submitted to the Bureau;",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "1",
+                "ii"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-A-7":{
         "title":[
             [
@@ -4772,23 +4887,38 @@
         ],
         "op":"modified"
     },
-    "1005-30-g-Interp":{
+    "1005-19-b-1-iv":{
         "node":{
             "tagged_text":null,
-            "title":"30(g) Sender.",
-            "text":"",
+            "title":null,
+            "text":"(iv) Notification regarding any prepaid account agreement previously submitted to the Bureau that the issuer is withdrawing, as described in paragraphs (b)(3), (b)(4)(ii), and (b)(5)(ii) of this section.",
             "label":[
                 "1005",
-                "30",
+                "19",
+                "b",
+                "1",
+                "iv"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-31-g-Interp-1-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":"Same facts as i.",
+            "text":"If a sender primarily uses Spanish with the remittance transfer provider to conduct a transaction or assert an error, the remittance transfer provider may provide a written or electronic disclosure in English and Spanish, whether in a single document or two separate documents. If the sender primarily uses English with the remittance transfer provider to conduct the transaction or assert an error, the remittance transfer provider may provide a written or electronic disclosure solely in English. If the sender primarily uses a foreign language with the remittance transfer provider to conduct the transaction or assert an error that the remittance transfer provider does not use to advertise, solicit, or market either orally, in writing, or electronically, at the office in which the sender conducts the transaction or asserts the error, respectively, the remittance transfer provider may provide a written or electronic disclosure solely in English.",
+            "label":[
+                "1005",
+                "31",
                 "g",
-                "Interp"
+                "Interp",
+                "1",
+                "ii"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1005-30-g-Interp-1",
-                "1005-30-g-Interp-2",
-                "1005-30-g-Interp-3"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -5207,6 +5337,27 @@
             ]
         ],
         "op":"modified"
+    },
+    "1005-10-e-1-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":"Incentives.",
+            "text":"A creditor may offer a program with a reduced annual percentage rate or other cost-related incentive for an automatic repayment feature, provided the program with the automatic payment feature is not the only loan program offered by the creditor for the type of credit involved. Examples include:",
+            "label":[
+                "1005",
+                "10",
+                "e",
+                "1",
+                "Interp",
+                "4"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-10-e-1-Interp-4-i",
+                "1005-10-e-1-Interp-4-ii"
+            ]
+        },
+        "op":"added"
     },
     "1005-A-40":{
         "node":{
@@ -5885,6 +6036,23 @@
         },
         "op":"added"
     },
+    "1005-19-b-1-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(i) Identifying information about the issuer and the agreements submitted, including the issuer's name, address, and identifying number (such as an RSSD ID number or tax identification number), the effective date of the prepaid account agreement, the name of the program manager, if any, and the names of other relevant parties, if applicable (such as the employer for a payroll card program or the agency for a government benefit program);",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "1",
+                "i"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-36-c-Interp":{
         "node":{
             "tagged_text":null,
@@ -6135,22 +6303,25 @@
         },
         "op":"added"
     },
-    "1005-32-b-1-Interp-7-i":{
+    "1005-19-b-6-i":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"If the laws of a recipient country change such that a remittance transfer provider can determine exact amounts, the remittance transfer provider must begin providing exact amounts for the required disclosures as soon as reasonably practicable if the provider has information that the country legally permits the provider to determine exact disclosure amounts.",
+            "title":"Form and content generally.",
+            "text":"(i)",
             "label":[
                 "1005",
-                "32",
+                "19",
                 "b",
-                "1",
-                "Interp",
-                "7",
+                "6",
                 "i"
             ],
-            "node_type":"interp",
-            "child_labels":[]
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-19-b-6-i-A",
+                "1005-19-b-6-i-B",
+                "1005-19-b-6-i-C",
+                "1005-19-b-6-i-D"
+            ]
         },
         "op":"added"
     },
@@ -7315,6 +7486,59 @@
         },
         "op":"added"
     },
+    "1005-15-d-1-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    29
+                ],
+                [
+                    "insert",
+                    4,
+                    "The consumer's account balance, through a readily available telephone line and at a terminal (such as"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    33,
+                    38
+                ],
+                [
+                    "insert",
+                    33,
+                    "providing balance information at a balance-inquiry terminal or providing it, routinely or upon request, on a terminal receipt at"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    43,
+                    242
+                ],
+                [
+                    "insert",
+                    43,
+                    "time"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    246,
+                    256
+                ],
+                [
+                    "insert",
+                    246,
+                    "an electronic fund transfer);"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1005-33-c-2-ii-A":{
         "node":{
             "tagged_text":null,
@@ -7386,6 +7610,23 @@
                 "b",
                 "2",
                 "i"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-19-b-1-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(iii) Any prepaid account agreement previously submitted to the Bureau that has been amended, as described in paragraph (b)(2) of this section; and",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "1",
+                "iii"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -7575,22 +7816,6 @@
                 "Interp",
                 "2",
                 "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-30-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Applicability of definitions in subpart A.",
-            "text":"Except as modified or limited by subpart B (which modifications or limitations apply only to subpart B), the definitions in \u00a7 1005.2 apply to all of Regulation E, including subpart B.",
-            "label":[
-                "1005",
-                "30",
-                "Interp",
-                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -8297,22 +8522,21 @@
         },
         "op":"added"
     },
-    "1005-18-e":{
+    "1005-2-b-3-ii-B":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(e) Modified limitations on liability and error resolution requirements.",
+            "text":"(B) An account that is directly or indirectly established through a third party and loaded only with qualified disaster relief payments;",
             "label":[
                 "1005",
-                "18",
-                "e"
+                "2",
+                "b",
+                "3",
+                "ii",
+                "B"
             ],
             "node_type":"regtext",
-            "child_labels":[
-                "1005-18-e-1",
-                "1005-18-e-2",
-                "1005-18-e-3"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -9049,8 +9273,24 @@
         },
         "op":"added"
     },
-    "1005-18-a-Interp":{
-        "op":"deleted"
+    "1005-19-b-6-i-D-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":"Fee information.",
+            "text":"(ii) Fee information must be set forth either in the prepaid account agreement or in a single addendum to that agreement. The agreement or addendum thereto must contain all of the fee information, as defined by paragraph (a)(3) of this section.",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "6",
+                "i",
+                "D",
+                "ii"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-19-f-Interp-2":{
         "node":{
@@ -9128,21 +9368,23 @@
         },
         "op":"added"
     },
-    "1005-33-b-1-ii-B":{
+    "1005-19-c":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) The recipient's name, and if known, the telephone number or address of the recipient; and",
+            "text":"(c) Posting of agreements offered to the general public.",
             "label":[
                 "1005",
-                "33",
-                "b",
-                "1",
-                "ii",
-                "B"
+                "19",
+                "c"
             ],
             "node_type":"regtext",
-            "child_labels":[]
+            "child_labels":[
+                "1005-19-c-1",
+                "1005-19-c-2",
+                "1005-19-c-3",
+                "1005-19-c-4"
+            ]
         },
         "op":"added"
     },
@@ -9406,6 +9648,25 @@
         },
         "op":"added"
     },
+    "1005-18-e":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(e) Modified limitations on liability and error resolution requirements.",
+            "label":[
+                "1005",
+                "18",
+                "e"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-18-e-1",
+                "1005-18-e-2",
+                "1005-18-e-3"
+            ]
+        },
+        "op":"added"
+    },
     "1005-33-a-Interp-5-iii":{
         "node":{
             "tagged_text":null,
@@ -9532,6 +9793,24 @@
                 "1005-19-a-4-Interp-2",
                 "1005-19-a-4-Interp-3"
             ]
+        },
+        "op":"added"
+    },
+    "1005-31-g-1-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":"At the office.",
+            "text":"Any advertisement, solicitation, or marketing is considered to be made at the office in which a sender conducts a transaction or asserts an error if such advertisement, solicitation, or marketing is posted, provided, or made: at a physical office of a remittance transfer provider; on a Web site of a remittance transfer provider that may be used by senders to conduct remittance transfers or assert errors; during a telephone call with a remittance transfer provider that may be used by senders to conduct remittance transfers or assert errors; or via mobile application or text message by a remittance transfer provider if the mobile application or text message may be used by senders to conduct remittance transfers or assert errors. An advertisement, solicitation, or marketing that is considered to be made at an office does not include general advertisements, solicitations, or marketing that are not intended to be made at a particular office. For example, if an advertisement for remittance transfers in Chinese appears in a Chinese newspaper that is being distributed at a grocery store in which the agent of a remittance transfer provider is located, such advertisement would not be considered to be made at that office. For disclosures provided pursuant to \u00a7 1005.31, the relevant office is the office in which the sender conducts the transaction. For disclosures provided pursuant to \u00a7 1005.33 for error resolution purposes, the relevant office is the office in which the sender first asserts the error, not the office where the transaction was conducted.",
+            "label":[
+                "1005",
+                "31",
+                "g",
+                "1",
+                "Interp",
+                "4"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -9719,21 +9998,21 @@
         },
         "op":"added"
     },
-    "1005-31-g-1-Interp-4":{
+    "1005-33-d":{
         "node":{
             "tagged_text":null,
-            "title":"At the office.",
-            "text":"Any advertisement, solicitation, or marketing is considered to be made at the office in which a sender conducts a transaction or asserts an error if such advertisement, solicitation, or marketing is posted, provided, or made: at a physical office of a remittance transfer provider; on a Web site of a remittance transfer provider that may be used by senders to conduct remittance transfers or assert errors; during a telephone call with a remittance transfer provider that may be used by senders to conduct remittance transfers or assert errors; or via mobile application or text message by a remittance transfer provider if the mobile application or text message may be used by senders to conduct remittance transfers or assert errors. An advertisement, solicitation, or marketing that is considered to be made at an office does not include general advertisements, solicitations, or marketing that are not intended to be made at a particular office. For example, if an advertisement for remittance transfers in Chinese appears in a Chinese newspaper that is being distributed at a grocery store in which the agent of a remittance transfer provider is located, such advertisement would not be considered to be made at that office. For disclosures provided pursuant to \u00a7 1005.31, the relevant office is the office in which the sender conducts the transaction. For disclosures provided pursuant to \u00a7 1005.33 for error resolution purposes, the relevant office is the office in which the sender first asserts the error, not the office where the transaction was conducted.",
+            "title":null,
+            "text":"(d) Procedures if remittance transfer provider determines no error or different error occurred.In addition to following the procedures specified in paragraph (c) of this section, the remittance transfer provider shall follow the procedures set forth in this paragraph (d) if it determines that no error occurred or that an error occurred in a manner or amount different from that described by the sender.",
             "label":[
                 "1005",
-                "31",
-                "g",
-                "1",
-                "Interp",
-                "4"
+                "33",
+                "d"
             ],
-            "node_type":"interp",
-            "child_labels":[]
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-33-d-1",
+                "1005-33-d-2"
+            ]
         },
         "op":"added"
     },
@@ -9776,24 +10055,20 @@
         },
         "op":"added"
     },
-    "1005-31-g-1-Interp-1":{
+    "1005-30-b-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":"Principally used.",
-            "text":"",
+            "title":"Substantially all business functions.",
+            "text":"\u201cSubstantially all business functions\u201d include both the public and the back-office operations of the provider. For example, if the offices of a provider are open on Saturdays for customers to request remittance transfers, but not for performing internal functions (such as investigating errors), then Saturday is not a business day for that provider. In this case, Saturday does not count toward the business-day standard set by subpart B for resolving errors, processing refunds, etc.",
             "label":[
                 "1005",
-                "31",
-                "g",
-                "1",
+                "30",
+                "b",
                 "Interp",
-                "1"
+                "2"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1005-31-g-1-Interp-1-i",
-                "1005-31-g-1-Interp-1-ii"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -10018,6 +10293,23 @@
         },
         "op":"added"
     },
+    "1005-36-b-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Subsequent preauthorized remittance transfers.",
+            "text":"For a subsequent transfer in a series of preauthorized remittance transfers, the receipt provided pursuant to \u00a7 1005.36(a)(1)(i), except for the temporal disclosures in that receipt required by \u00a7 1005.31(b)(2)(ii) (Date Available) and (b)(2)(vii) (Transfer Date), applies to each subsequent preauthorized remittance transfer unless and until it is superseded by a receipt provided pursuant to \u00a7 1005.36(a)(2)(i). For each subsequent preauthorized remittance transfer, only the most recent receipt provided pursuant to \u00a7 1005.36(a)(1)(i) or (a)(2)(i) must be accurate as of the date each subsequent transfer is made.",
+            "label":[
+                "1005",
+                "36",
+                "b",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-31-a-3-Interp":{
         "node":{
             "tagged_text":null,
@@ -10146,18 +10438,21 @@
         },
         "op":"added"
     },
-    "1005-A-32-p7":{
+    "1005-19-b-6-i-C-4":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"![](ER22MY13.248)",
+            "text":"(4) Documents that may be sent to the consumer along with the prepaid account or prepaid account agreement such as a cover letter, a validation sticker on the card, or other information about card security.",
             "label":[
                 "1005",
-                "A",
-                "32",
-                "p7"
+                "19",
+                "b",
+                "6",
+                "i",
+                "C",
+                "4"
             ],
-            "node_type":"appendix",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -10180,21 +10475,59 @@
         },
         "op":"added"
     },
-    "1005-31-c-4-Interp-2-iii":{
+    "1005-19-b-6-i-C-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The location at which the designated recipient may pick up the funds;",
+            "text":"(1) Ancillary disclosures required by state or Federal law, such as affiliate marketing notices, privacy policies, or disclosures under the E-Sign Act;",
             "label":[
                 "1005",
-                "31",
-                "c",
-                "4",
-                "Interp",
-                "2",
-                "iii"
+                "19",
+                "b",
+                "6",
+                "i",
+                "C",
+                "1"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-19-b-6-i-C-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(3) Periodic statements; and",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "6",
+                "i",
+                "C",
+                "3"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-19-b-6-i-C-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(2) Solicitation or marketing materials;",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "6",
+                "i",
+                "C",
+                "2"
+            ],
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -10229,6 +10562,23 @@
                 "32",
                 "c",
                 "1",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-19-c-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Issuers that do not otherwise maintain Web sites.If an issuer offers an agreement to the general public as defined by \u00a7\u20091005.19(a)(6), that issuer must post that agreement on a publicly available Web site it maintains. If an issuer provides consumers with access to specific information about their individual accounts, such as balance information or copies of statements, through a third-party Web site, the issuer is considered to maintain that Web site for purposes of \u00a7\u20091005.19. Such a third-party Web site is deemed to be maintained by the issuer for purposes of \u00a7\u20091005.19(c) even where, for example, an unaffiliated entity designs the Web site and owns and maintains the information technology infrastructure that supports the Web site, consumers with prepaid accounts from multiple issuers can access individual account information through the same Web site, and the Web site is not labeled, branded, or otherwise held out to the public as belonging to the issuer. Therefore, issuers that provide consumers with access to account-specific information through a third-party Web site can comply with \u00a7\u20091005.19(c) by ensuring that the agreements the issuer submits to the Bureau are posted on the third-party Web site in accordance with \u00a7\u20091005.19(c).",
+            "label":[
+                "1005",
+                "19",
+                "c",
                 "Interp",
                 "2"
             ],
@@ -10625,38 +10975,43 @@
         },
         "op":"added"
     },
-    "1005-19-c":{
+    "1005-33-b-1-ii-B":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(c) Posting of agreements offered to the general public.",
+            "text":"(B) The recipient's name, and if known, the telephone number or address of the recipient; and",
             "label":[
                 "1005",
-                "19",
-                "c"
+                "33",
+                "b",
+                "1",
+                "ii",
+                "B"
             ],
             "node_type":"regtext",
-            "child_labels":[
-                "1005-19-c-1",
-                "1005-19-c-2",
-                "1005-19-c-3",
-                "1005-19-c-4"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
     "1005-19-b":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(b) [Reserved]",
+            "title":"Submission of agreements to the Bureau.",
+            "text":"(b)",
             "label":[
                 "1005",
                 "19",
                 "b"
             ],
             "node_type":"regtext",
-            "child_labels":[]
+            "child_labels":[
+                "1005-19-b-1",
+                "1005-19-b-2",
+                "1005-19-b-3",
+                "1005-19-b-4",
+                "1005-19-b-5",
+                "1005-19-b-6"
+            ]
         },
         "op":"added"
     },
@@ -10829,20 +11184,24 @@
         },
         "op":"added"
     },
-    "1005-33-d":{
+    "1005-2-b-3-i-D":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(d) Procedures if remittance transfer provider determines no error or different error occurred.In addition to following the procedures specified in paragraph (c) of this section, the remittance transfer provider shall follow the procedures set forth in this paragraph (d) if it determines that no error occurred or that an error occurred in a manner or amount different from that described by the sender.",
+            "text":"(D) An account:",
             "label":[
                 "1005",
-                "33",
-                "d"
+                "2",
+                "b",
+                "3",
+                "i",
+                "D"
             ],
             "node_type":"regtext",
             "child_labels":[
-                "1005-33-d-1",
-                "1005-33-d-2"
+                "1005-2-b-3-i-D-1",
+                "1005-2-b-3-i-D-2",
+                "1005-2-b-3-i-D-3"
             ]
         },
         "op":"added"
@@ -11039,6 +11398,26 @@
         },
         "op":"added"
     },
+    "1005-30-g-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"30(g) Sender.",
+            "text":"",
+            "label":[
+                "1005",
+                "30",
+                "g",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-30-g-Interp-1",
+                "1005-30-g-Interp-2",
+                "1005-30-g-Interp-3"
+            ]
+        },
+        "op":"added"
+    },
     "1005-Appendices-Interp":{
         "node":{
             "tagged_text":null,
@@ -11111,20 +11490,27 @@
         },
         "op":"added"
     },
-    "1005-36-c-Interp-2":{
+    "1005-30-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"Cancelled preauthorized remittance transfers.",
-            "text":"For preauthorized remittance transfers, the provider must assume the request to cancel applies to all future preauthorized remittance transfers, unless the sender specifically indicates that it should apply only to the next scheduled remittance transfer.",
+            "title":"Section 1005.30 Remittance Transfer Definitions.",
+            "text":"",
             "label":[
                 "1005",
-                "36",
-                "c",
-                "Interp",
-                "2"
+                "30",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1005-30-Interp-1",
+                "1005-30-b-Interp",
+                "1005-30-c-Interp",
+                "1005-30-d-Interp",
+                "1005-30-e-Interp",
+                "1005-30-f-Interp",
+                "1005-30-g-Interp",
+                "1005-30-h-Interp"
+            ]
         },
         "op":"added"
     },
@@ -11822,27 +12208,83 @@
         },
         "op":"added"
     },
-    "1005-30-Interp":{
+    "1005-19-b-6-i-D":{
         "node":{
             "tagged_text":null,
-            "title":"Section 1005.30 Remittance Transfer Definitions.",
-            "text":"",
+            "title":null,
+            "text":"(D) Agreements must be presented in a clear and legible font.",
             "label":[
                 "1005",
-                "30",
-                "Interp"
+                "19",
+                "b",
+                "6",
+                "i",
+                "D"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[
-                "1005-30-Interp-1",
-                "1005-30-b-Interp",
-                "1005-30-c-Interp",
-                "1005-30-d-Interp",
-                "1005-30-e-Interp",
-                "1005-30-f-Interp",
-                "1005-30-g-Interp",
-                "1005-30-h-Interp"
+                "1005-19-b-6-i-D-ii",
+                "1005-19-b-6-i-D-iii"
             ]
+        },
+        "op":"added"
+    },
+    "1005-19-b-6-i-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(C) The following are not deemed to be part of the agreement for purposes of this section, and therefore are not required to be included in submissions to the Bureau:",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "6",
+                "i",
+                "C"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-19-b-6-i-C-1",
+                "1005-19-b-6-i-C-2",
+                "1005-19-b-6-i-C-3",
+                "1005-19-b-6-i-C-4"
+            ]
+        },
+        "op":"added"
+    },
+    "1005-19-b-6-i-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(B) Agreements must not include any personally identifiable information relating to any consumer, such as name, address, telephone number, or account number.",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "6",
+                "i",
+                "B"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-19-b-6-i-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(A) Each agreement must contain the provisions of the agreement and the fee information currently in effect.",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "6",
+                "i",
+                "A"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -11861,6 +12303,26 @@
             "child_labels":[
                 "1005-19-f-Interp-1",
                 "1005-19-f-Interp-2"
+            ]
+        },
+        "op":"added"
+    },
+    "1005-32-b-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(2) Permanent exception for transfers scheduled before the date of transfer.",
+            "label":[
+                "1005",
+                "32",
+                "b",
+                "2"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-32-b-2-i",
+                "1005-32-b-2-ii",
+                "1005-32-b-2-iii"
             ]
         },
         "op":"added"
@@ -12218,19 +12680,15 @@
         },
         "op":"added"
     },
-    "1005-2-b-3-i-D-1":{
+    "1005-15-f":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(1) That is issued on a prepaid basis in a specified amount or not issued on a prepaid basis but capable of being loaded with funds thereafter,",
+            "text":"(f) Disclosure of fees and other information.For government benefit accounts, a government agency shall comply with the disclosure and change-in-terms requirements applicable to prepaid accounts as set forth in \u00a7\u20091005.18(f).",
             "label":[
                 "1005",
-                "2",
-                "b",
-                "3",
-                "i",
-                "D",
-                "1"
+                "15",
+                "f"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -12256,24 +12714,22 @@
         },
         "op":"added"
     },
-    "1005-2-b-3-i-D-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(3) That is not a checking account, share draft account, or negotiable order of withdrawal account.",
-            "label":[
-                "1005",
-                "2",
-                "b",
-                "3",
-                "i",
-                "D",
-                "3"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1005-15-d":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    185
+                ],
+                [
+                    "insert",
+                    4,
+                    "Access to account information."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-33-f-Interp":{
         "node":{
@@ -12305,70 +12761,35 @@
         ],
         "op":"modified"
     },
-    "1005-15-a-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    79,
-                    88
-                ],
-                [
-                    "insert",
-                    79,
-                    "  "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    445,
-                    454
-                ],
-                [
-                    "insert",
-                    445,
-                    "  "
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    463,
-                    468
-                ],
-                [
-                    "insert",
-                    463,
-                    "part"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    479,
-                    490
-                ],
-                [
-                    "insert",
-                    479,
-                    "modified by"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1005-15-f":{
+    "1005-31-b-1-iv":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(f) Disclosure of fees and other information.For government benefit accounts, a government agency shall comply with the disclosure and change-in-terms requirements applicable to prepaid accounts as set forth in \u00a7\u20091005.18(f).",
+            "text":"(iv) The exchange rate used by the provider for the remittance transfer, rounded consistently for each currency to no fewer than two decimal places and no more than four decimal places, using the term \u201cExchange Rate\u201d or a substantially similar term;",
             "label":[
                 "1005",
-                "15",
-                "f"
+                "31",
+                "b",
+                "1",
+                "iv"
             ],
             "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-30-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Applicability of definitions in subpart A.",
+            "text":"Except as modified or limited by subpart B (which modifications or limitations apply only to subpart B), the definitions in \u00a7 1005.2 apply to all of Regulation E, including subpart B.",
+            "label":[
+                "1005",
+                "30",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -12418,6 +12839,23 @@
                 "d",
                 "Interp",
                 "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-36-d-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":"Accuracy requirements.",
+            "text":"Section 1005.36(d)(4) sets forth accuracy requirements for disclosures required for subsequent preauthorized remittance transfers under \u00a7 1005.36(d)(1). If any of the information provided in these disclosures change, the provider must provide an updated disclosure with the revised information that is accurate as of when the transfer is made, pursuant to \u00a7 1005.36(d)(2).",
+            "label":[
+                "1005",
+                "36",
+                "d",
+                "Interp",
+                "4"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -12534,6 +12972,23 @@
             ]
         ],
         "op":"modified"
+    },
+    "1005-A-30(b)":{
+        "node":{
+            "tagged_text":null,
+            "title":"A-30(b)\u2014Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (\u00a7 1005.31(b)(1))",
+            "text":"",
+            "label":[
+                "1005",
+                "A",
+                "30(b)"
+            ],
+            "node_type":"appendix",
+            "child_labels":[
+                "1005-A-30(b)-p2"
+            ]
+        },
+        "op":"added"
     },
     "1005-18-b-9-ii":{
         "node":{
@@ -12783,6 +13238,24 @@
                 "1005-31-b-2-Interp",
                 "1005-31-b-3-Interp"
             ]
+        },
+        "op":"added"
+    },
+    "1005-2-b-Interp-3-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Profit-sharing and pension accounts established under a trust agreement, which are exempt under \u00a7 1005.2(b)(2).",
+            "label":[
+                "1005",
+                "2",
+                "b",
+                "Interp",
+                "3",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -13439,6 +13912,25 @@
         },
         "op":"added"
     },
+    "1005-19-b-6-i-D-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":"Integrated agreement.",
+            "text":"(iii) An issuer may not provide provisions of the agreement or fee information to the Bureau in the form of change-in-terms notices or riders (other than the optional fee information addendum). Changes in provisions or fee information must be integrated into the text of the agreement, or the optional fee information addendum, as appropriate.",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "6",
+                "i",
+                "D",
+                "iii"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-18-d-2":{
         "node":{
             "tagged_text":null,
@@ -13868,18 +14360,19 @@
         },
         "op":"added"
     },
-    "1005-31-g-Interp-1-ii":{
+    "1005-31-c-4-Interp-2-iii":{
         "node":{
             "tagged_text":null,
-            "title":"Same facts as i.",
-            "text":"If a sender primarily uses Spanish with the remittance transfer provider to conduct a transaction or assert an error, the remittance transfer provider may provide a written or electronic disclosure in English and Spanish, whether in a single document or two separate documents. If the sender primarily uses English with the remittance transfer provider to conduct the transaction or assert an error, the remittance transfer provider may provide a written or electronic disclosure solely in English. If the sender primarily uses a foreign language with the remittance transfer provider to conduct the transaction or assert an error that the remittance transfer provider does not use to advertise, solicit, or market either orally, in writing, or electronically, at the office in which the sender conducts the transaction or asserts the error, respectively, the remittance transfer provider may provide a written or electronic disclosure solely in English.",
+            "title":null,
+            "text":"The location at which the designated recipient may pick up the funds;",
             "label":[
                 "1005",
                 "31",
-                "g",
+                "c",
+                "4",
                 "Interp",
-                "1",
-                "ii"
+                "2",
+                "iii"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -14764,21 +15257,37 @@
         },
         "op":"added"
     },
-    "1005-17-a-4":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(4) A covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61; or credit extended through a negative balance on the asset feature of the prepaid account that meets the conditions of 12 CFR 1026.61(a)(4).",
-            "label":[
-                "1005",
-                "17",
-                "a",
-                "4"
+    "1005-1-b":{
+        "text":[
+            [
+                "insert",
+                200,
+                "and remittance transfer "
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                "insert",
+                239,
+                "or other persons "
+            ],
+            [
+                [
+                    "delete",
+                    295,
+                    298
+                ],
+                [
+                    "insert",
+                    295,
+                    "act"
+                ]
+            ],
+            [
+                "insert",
+                383,
+                "transfers and remittance "
+            ]
+        ],
+        "op":"modified"
     },
     "1005-2-b-3-i-Interp-8-iv":{
         "node":{
@@ -15614,20 +16123,75 @@
         },
         "op":"added"
     },
-    "1005-18-e-2-ii":{
+    "1005-19-b-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(ii) In lieu of following the procedures in paragraph (e)(2)(i) of this section, a financial institution complies with the requirements for resolving errors in \u00a7\u20091005.11 if it investigates any oral or written notice of an error from the consumer that is received by the institution within 120 days after the transfer allegedly in error was credited or debited to the consumer's account.",
+            "title":"Submissions on a rolling basis.",
+            "text":"(1) An issuer must make submissions of prepaid account agreements to the Bureau on a rolling basis, in the form and manner specified by the Bureau. Rolling submissions must be sent to the Bureau no later than 30 days after an issuer offers, amends, or ceases to offer any prepaid account agreement as described in paragraphs (b)(1)(ii) through (iv) of this section. Each submission must contain:",
             "label":[
                 "1005",
-                "18",
-                "e",
-                "2",
-                "ii"
+                "19",
+                "b",
+                "1"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-19-b-1-i",
+                "1005-19-b-1-ii",
+                "1005-19-b-1-iii",
+                "1005-19-b-1-iv"
+            ]
+        },
+        "op":"added"
+    },
+    "1005-19-b-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Amended agreements.",
+            "text":"(2) If a prepaid account agreement previously submitted to the Bureau is amended, the issuer must submit the entire amended agreement to the Bureau, in the form and manner specified by the Bureau, no later than 30 days after the change comes effective.",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "2"
             ],
             "node_type":"regtext",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-19-b-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Withdrawal of agreements no longer offered.",
+            "text":"(3) If an issuer no longer offers a prepaid account agreement that was previously submitted to the Bureau, the issuer must notify the Bureau, in the form and manner specified by the Bureau, no later than 30 days after the issuer ceases to offer the agreement, that it is withdrawing the agreement.",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "3"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-19-b-4":{
+        "node":{
+            "tagged_text":null,
+            "title":"De minimis exception.",
+            "text":"(4)",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "4"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1005-19-b-4-i",
+                "1005-19-b-4-ii"
+            ]
         },
         "op":"added"
     },
@@ -15828,37 +16392,21 @@
         },
         "op":"added"
     },
-    "1005-1-b":{
-        "text":[
-            [
-                "insert",
-                200,
-                "and remittance transfer "
+    "1005-17-a-4":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(4) A covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61; or credit extended through a negative balance on the asset feature of the prepaid account that meets the conditions of 12 CFR 1026.61(a)(4).",
+            "label":[
+                "1005",
+                "17",
+                "a",
+                "4"
             ],
-            [
-                "insert",
-                239,
-                "or other persons "
-            ],
-            [
-                [
-                    "delete",
-                    295,
-                    298
-                ],
-                [
-                    "insert",
-                    295,
-                    "act"
-                ]
-            ],
-            [
-                "insert",
-                383,
-                "transfers and remittance "
-            ]
-        ],
-        "op":"modified"
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-12-b-Interp-3-i":{
         "node":{
@@ -16359,63 +16907,21 @@
         },
         "op":"added"
     },
-    "1005-15-d-1-iii":{
-        "text":[
-            [
-                [
-                    "delete",
-                    6,
-                    59
-                ],
-                [
-                    "insert",
-                    6,
-                    "A written history of the consumer's account transactions"
-                ]
+    "1005-19-a-8":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(8) Prepaid account.For purposes of this section, \u201cprepaid account\u201d means a prepaid account as defined in \u00a7\u20091005.2(b)(3).",
+            "label":[
+                "1005",
+                "19",
+                "a",
+                "8"
             ],
-            [
-                [
-                    "delete",
-                    68,
-                    89
-                ],
-                [
-                    "insert",
-                    68,
-                    "provided promptly in response"
-                ]
-            ],
-            [
-                "insert",
-                93,
-                "an oral or written request and that covers at least 24 months preceding "
-            ],
-            [
-                [
-                    "delete",
-                    97,
-                    170
-                ],
-                [
-                    "insert",
-                    97,
-                    "date"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    175,
-                    210
-                ],
-                [
-                    "insert",
-                    175,
-                    "agency receives the cconsumer's request."
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-18-h-3":{
         "node":{
@@ -17258,6 +17764,23 @@
         },
         "op":"added"
     },
+    "1005-36-c-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Cancelled preauthorized remittance transfers.",
+            "text":"For preauthorized remittance transfers, the provider must assume the request to cancel applies to all future preauthorized remittance transfers, unless the sender specifically indicates that it should apply only to the next scheduled remittance transfer.",
+            "label":[
+                "1005",
+                "36",
+                "c",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-30-f-2":{
         "node":{
             "tagged_text":null,
@@ -17396,19 +17919,19 @@
         },
         "op":"added"
     },
-    "1005-19-c-Interp-2":{
+    "1005-19-b-5-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Issuers that do not otherwise maintain Web sites.If an issuer offers an agreement to the general public as defined by \u00a7\u20091005.19(a)(6), that issuer must post that agreement on a publicly available Web site it maintains. If an issuer provides consumers with access to specific information about their individual accounts, such as balance information or copies of statements, through a third-party Web site, the issuer is considered to maintain that Web site for purposes of \u00a7\u20091005.19. Such a third-party Web site is deemed to be maintained by the issuer for purposes of \u00a7\u20091005.19(c) even where, for example, an unaffiliated entity designs the Web site and owns and maintains the information technology infrastructure that supports the Web site, consumers with prepaid accounts from multiple issuers can access individual account information through the same Web site, and the Web site is not labeled, branded, or otherwise held out to the public as belonging to the issuer. Therefore, issuers that provide consumers with access to account-specific information through a third-party Web site can comply with \u00a7\u20091005.19(c) by ensuring that the agreements the issuer submits to the Bureau are posted on the third-party Web site in accordance with \u00a7\u20091005.19(c).",
+            "text":"(ii) If an agreement that did not previously qualify for the product testing exception newly qualifies for the exception, the issuer must continue to make submissions to the Bureau on a rolling basis with respect to that agreement until the issuer notifies the Bureau that the issuer is withdrawing the agreement.",
             "label":[
                 "1005",
                 "19",
-                "c",
-                "Interp",
-                "2"
+                "b",
+                "5",
+                "ii"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -17738,6 +18261,23 @@
                 "iii"
             ],
             "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-30-b-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"General.",
+            "text":"A business day, as defined in \u00a7 1005.30(b), includes the entire 24-hour period ending at midnight, and a notice given pursuant to any section of subpart B is effective even if given outside of normal business hours. A remittance transfer provider is not required under subpart B to make telephone lines available on a 24-hour basis.",
+            "label":[
+                "1005",
+                "30",
+                "b",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -18146,6 +18686,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1005-18-a-Interp":{
+        "op":"deleted"
     },
     "1005-12-a-Interp-1-ii":{
         "op":"deleted"
@@ -18611,57 +19154,57 @@
         },
         "op":"added"
     },
-    "1005-30-b-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Substantially all business functions.",
-            "text":"\u201cSubstantially all business functions\u201d include both the public and the back-office operations of the provider. For example, if the offices of a provider are open on Saturdays for customers to request remittance transfers, but not for performing internal functions (such as investigating errors), then Saturday is not a business day for that provider. In this case, Saturday does not count toward the business-day standard set by subpart B for resolving errors, processing refunds, etc.",
-            "label":[
-                "1005",
-                "30",
-                "b",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-30-b-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"General.",
-            "text":"A business day, as defined in \u00a7 1005.30(b), includes the entire 24-hour period ending at midnight, and a notice given pursuant to any section of subpart B is effective even if given outside of normal business hours. A remittance transfer provider is not required under subpart B to make telephone lines available on a 24-hour basis.",
-            "label":[
-                "1005",
-                "30",
-                "b",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-32-b-2":{
+    "1005-19-b-5-i-A":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(2) Permanent exception for transfers scheduled before the date of transfer.",
+            "text":"(A) Is offered as part of a product test offered to only a limited group of consumers for a limited period of time;",
             "label":[
                 "1005",
-                "32",
+                "19",
                 "b",
-                "2"
+                "5",
+                "i",
+                "A"
             ],
             "node_type":"regtext",
-            "child_labels":[
-                "1005-32-b-2-i",
-                "1005-32-b-2-ii",
-                "1005-32-b-2-iii"
-            ]
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-19-b-5-i-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(B) Is used for fewer than 3,000 open prepaid accounts; and",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "5",
+                "i",
+                "B"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-19-b-5-i-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(C) Is not offered other than in connection with such a product test.",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "5",
+                "i",
+                "C"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -18771,22 +19314,5 @@
     },
     "1005-18-b-Interp-1":{
         "op":"deleted"
-    },
-    "1005-A-Interp-4-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Use of the model forms is optional.  A remittance transfer provider may change the forms by rearranging the format or by making modifications to the language of the forms, in each case without modifying the substance of the disclosures.  Any rearrangement or modification of the format of the model forms must be consistent with the form, grouping, proximity, and other requirements of \u00a7 1005.31(a) and (c).  Providers making revisions that do not comply with this section will lose the benefit of the safe harbor for appropriate use of Model Forms A-30(a) to A-41.",
-            "label":[
-                "1005",
-                "A",
-                "Interp",
-                "4",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     }
 }
