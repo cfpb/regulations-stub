@@ -1240,56 +1240,8 @@
         },
         "op":"added"
     },
-    "1005-18-c-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Electronic access.",
-            "text":"A consumer is deemed to have accessed a payroll card account electronically when the consumer enters a user identification code or password or otherwise complies with a security procedure used by an institution to verify the consumer's identity. An institution is not required to determine whether a consumer has in fact accessed information about specific transactions to trigger the beginning of the 60-day periods for liability limits and error resolution under \u00a7\u00a7 1005.6 and 1005.11.",
-            "label":[
-                "1005",
-                "18",
-                "c",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-18-c-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":"Untimely notice of error.",
-            "text":"An institution that provides a transaction history under \u00a7 1005.18(b)(1) is not required to comply with the requirements of \u00a7 1005.11 for any notice of error from the consumer pertaining to a transfer that occurred more than 60 days prior to the earlier of the date the consumer electronically accesses the account or the date the financial institution sends a written history upon the consumer's request. (Alternatively, as provided in \u00a7 1005.18(c)(4)(ii), an institution need not comply with the requirements of \u00a7 1005.11 with respect to any notice of error received from the consumer more than 120 days after the date of posting of the transfer allegedly in error.) Where the consumer's assertion of error involves an unauthorized EFT, however, the institution must comply with \u00a7 1005.6 before it may impose any liability on the consumer.",
-            "label":[
-                "1005",
-                "18",
-                "c",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-18-c-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Error resolution safe harbor provision.",
-            "text":"Institutions that choose to investigate notices of error provided up to 120 days from the date a transaction has posted to a consumer's account may still disclose the error resolution time period required by the regulation (as set forth in the Model Form in Appendix A-7). Specifically, an institution may disclose to payroll card account holders that the institution will investigate any notice of error provided within 60 days of the consumer electronically accessing an account or receiving a written history upon request that reflects the error, even if, for some or all transactions, the institution investigates any notice of error provided up to 120 days from the date that the transaction alleged to be in error has posted to the consumer's account. Similarly, an institution's summary of the consumer's liability (as required under \u00a7 1005.7(b)(1)) may disclose that liability is based on the consumer providing notice of error within 60 days of the consumer electronically accessing an account or receiving a written history reflecting the error, even if, for some or all transactions, the institution allows a consumer to assert a notice of error up to 120 days from the date of posting of the alleged error.",
-            "label":[
-                "1005",
-                "18",
-                "c",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1005-19-a-2-Interp-1-vii":{
+        "op":"deleted"
     },
     "1005-19-c-Interp-2":{
         "op":"deleted"
@@ -2188,25 +2140,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1005-18-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Section 1005.18 Requirements for Financial Institutions Offering Payroll Card Accounts",
-            "text":"",
-            "label":[
-                "1005",
-                "18",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-18-a-Interp",
-                "1005-18-b-Interp",
-                "1005-18-c-Interp"
-            ]
-        },
-        "op":"added"
     },
     "1005-15-c-Interp-1-i":{
         "op":"deleted"
@@ -3123,26 +3056,6 @@
     "1005-A-41":{
         "op":"deleted"
     },
-    "1005-18-c-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"18(c) Modified Requirements",
-            "text":"",
-            "label":[
-                "1005",
-                "18",
-                "c",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-18-c-Interp-1",
-                "1005-18-c-Interp-2",
-                "1005-18-c-Interp-3"
-            ]
-        },
-        "op":"added"
-    },
     "1005-12-a-1-iv-D":{
         "op":"deleted"
     },
@@ -4019,9 +3932,6 @@
         "op":"deleted"
     },
     "1005-19-d-Interp-2":{
-        "op":"deleted"
-    },
-    "1005-19-a-2-Interp-1-vii":{
         "op":"deleted"
     },
     "1005-A-30-p1":{
@@ -5139,39 +5049,23 @@
         },
         "op":"added"
     },
-    "1005-18-b-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Posted transactions.",
-            "text":"A history of transactions provided under \u00a7\u00a7 1005.18(b)(1)(ii) and (iii) shall reflect transfers once they have been posted to the account. Thus, an institution does not need to include transactions that have been authorized, but that have not yet posted to the account.",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "Interp",
-                "1"
+    "1005-31-b-1-vi-Interp":{
+        "title":[
+            [
+                "delete",
+                13,
+                47
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                "insert",
+                51,
+                " and Taxes Imposed by a Person Other Than the Provider."
+            ]
+        ],
+        "op":"modified"
     },
-    "1005-18-b-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Electronic history.",
-            "text":"The electronic history required under \u00a7 1005.18(b)(1)(ii) must be provided in a form that the consumer may keep, as required under \u00a7 1005.4(a)(1). Financial institutions may satisfy this requirement if they make the electronic history available in a format that is capable of being retained. For example, an institution satisfies the requirement if it provides a history at a Web site in a format that is capable of being printed or stored electronically using a web browser.",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1005-10-e-1-Interp-3-i":{
+        "op":"deleted"
     },
     "1005-A-35-p141":{
         "node":{
@@ -5649,25 +5543,6 @@
     },
     "1005-19-a-2-Interp-1-iv":{
         "op":"deleted"
-    },
-    "1005-18-a-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"18(a) Coverage",
-            "text":"",
-            "label":[
-                "1005",
-                "18",
-                "a",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-18-a-Interp-1",
-                "1005-18-a-Interp-2"
-            ]
-        },
-        "op":"added"
     },
     "1005-19-f-Interp-2":{
         "op":"deleted"
@@ -8586,25 +8461,6 @@
     "1005-15-d-Interp-1":{
         "op":"deleted"
     },
-    "1005-18-b-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"18(b) Alternative to Periodic Statements",
-            "text":"",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-18-b-Interp-1",
-                "1005-18-b-Interp-2"
-            ]
-        },
-        "op":"added"
-    },
     "1005-36-d-Interp-3":{
         "op":"deleted"
     },
@@ -9059,21 +8915,6 @@
     "1005-19-a-2-Interp-2-vi":{
         "op":"deleted"
     },
-    "1005-31-b-1-vi-Interp":{
-        "title":[
-            [
-                "delete",
-                13,
-                47
-            ],
-            [
-                "insert",
-                51,
-                " and Taxes Imposed by a Person Other Than the Provider."
-            ]
-        ],
-        "op":"modified"
-    },
     "1005-12-b-Interp-3-iv":{
         "op":"deleted"
     },
@@ -9113,7 +8954,7 @@
     "1005-A-7-c-p1":{
         "op":"deleted"
     },
-    "1005-10-e-1-Interp-3-i":{
+    "1005-12-b-Interp-4":{
         "op":"deleted"
     },
     "1005-15-c-1":{
@@ -10447,9 +10288,6 @@
         "op":"deleted"
     },
     "1005-12-a-Interp-5-iv-D":{
-        "op":"deleted"
-    },
-    "1005-12-b-Interp-4":{
         "op":"deleted"
     },
     "1005-12-b-Interp-3-i":{
@@ -11900,40 +11738,6 @@
     },
     "1005-19-c-2":{
         "op":"deleted"
-    },
-    "1005-18-a-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Issuance of access device.",
-            "text":"Consistent with \u00a7 1005.5(a), a financial institution may issue an access device only in response to an oral or written request for the device, or as a renewal or substitute for an accepted access device. A consumer is deemed to request an access device for a payroll card account when the consumer chooses to receive salary or other compensation through a payroll card account.",
-            "label":[
-                "1005",
-                "18",
-                "a",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-18-a-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Application to employers and service providers.",
-            "text":"Typically, employers and third-party service providers do not meet the definition of a \u201cfinancial institution\u201d subject to the regulation because they neither hold payroll card accounts nor issue payroll cards and agree with consumers to provide EFT services in connection with payroll card accounts. However, to the extent an employer or a service provider undertakes either of these functions, it would be deemed a financial institution under the regulation.",
-            "label":[
-                "1005",
-                "18",
-                "a",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1005-33-c-Interp-11":{
         "op":"deleted"
