@@ -4849,6 +4849,24 @@
         ],
         "op":"modified"
     },
+    "1005-33-c-Interp-12-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A sender instructs a remittance transfer provider to send US$100 to a designated recipient in a foreign country, for which the provider charges a transfer fee of US$10 (and thus the sender pays the provider US$110) and an intermediary institution charges a lifting fee of US$5, such that the designated recipient is expected to receive only US$95, as indicated in the receipt.  If an error occurs because the sender provides incorrect or insufficient information that results in non-delivery of the remittance transfer by the date of availability stated in the disclosure provided to the sender for the remittance transfer under \u00a7 1005.31(b)(2) or (3), the provider is required to refund, or reapply if requested and the provider agrees, $105 unless the intermediary institution refunds to the provider the US$5 fee.  If the sender requests to have the transfer amount applied to a new remittance transfer pursuant to \u00a7 1005.33(c)(2)(iii) and provides the corrected or additional information, and the remittance transfer provider agrees to a resend remedy, the remittance transfer provider may charge the sender another transfer fee of US$10 to send the remittance transfer again with the corrected or additional information necessary to complete the transfer.  Insofar as the resend is an entirely new remittance transfer, the provider must provide a prepayment disclosure and receipt or combined disclosure in accordance with, among other provisions, the timing requirements of \u00a7 1005.31(f) and the cancellation provision of \u00a7 1005.34(a).",
+            "label":[
+                "1005",
+                "33",
+                "c",
+                "Interp",
+                "12",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-A-5":{
         "title":[
             [
@@ -11827,106 +11845,98 @@
         },
         "op":"added"
     },
-    "1005-31-b-1-vii-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"31(b)(1)(vii) Amount Received.",
-            "text":"",
-            "label":[
-                "1005",
-                "31",
-                "b",
-                "1",
-                "vii",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-31-b-1-vii-Interp-1"
-            ]
-        },
-        "op":"added"
-    },
-    "1005-15-d-Interp-1":{
+    "1005-A-7-p43":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Access to account information.For guidance, see comments 18(c)-1 through -3 and 18(c)-5 through -9.",
+            "text":"We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation.",
             "label":[
                 "1005",
-                "15",
-                "d",
-                "Interp",
-                "1"
+                "A",
+                "7",
+                "p43"
             ],
-            "node_type":"interp",
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-A-7-p42":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error.",
+            "label":[
+                "1005",
+                "A",
+                "7",
+                "p42"
+            ],
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
     },
     "1005-A-7-p41":{
-        "text":[
-            [
-                [
-                    "delete",
-                    253,
-                    260
-                ],
-                [
-                    "insert",
-                    253,
-                    "[and your account is registered with us,] we will"
-                ]
-            ],
-            [
-                "insert",
-                574,
-                " [Keep reading to learn more about how to register your card.] ."
-            ]
-        ],
-        "op":"modified"
-    },
-    "1005-A-7-p40":{
-        "text":[
-            [
-                "insert",
-                117,
-                " ."
-            ]
-        ],
-        "op":"modified"
-    },
-    "1005-A-7-p45":{
-        "text":[
-            [
-                [
-                    "delete",
-                    143,
-                    152
-                ],
-                [
-                    "insert",
-                    143,
-                    "[Internet"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1005-33-c-Interp-12-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"A sender instructs a remittance transfer provider to send US$100 to a designated recipient in a foreign country, for which the provider charges a transfer fee of US$10 (and thus the sender pays the provider US$110) and an intermediary institution charges a lifting fee of US$5, such that the designated recipient is expected to receive only US$95, as indicated in the receipt.  If an error occurs because the sender provides incorrect or insufficient information that results in non-delivery of the remittance transfer by the date of availability stated in the disclosure provided to the sender for the remittance transfer under \u00a7 1005.31(b)(2) or (3), the provider is required to refund, or reapply if requested and the provider agrees, $105 unless the intermediary institution refunds to the provider the US$5 fee.  If the sender requests to have the transfer amount applied to a new remittance transfer pursuant to \u00a7 1005.33(c)(2)(iii) and provides the corrected or additional information, and the remittance transfer provider agrees to a resend remedy, the remittance transfer provider may charge the sender another transfer fee of US$10 to send the remittance transfer again with the corrected or additional information necessary to complete the transfer.  Insofar as the resend is an entirely new remittance transfer, the provider must provide a prepayment disclosure and receipt or combined disclosure in accordance with, among other provisions, the timing requirements of \u00a7 1005.31(f) and the cancellation provision of \u00a7 1005.34(a).",
+            "text":"We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, [and your account is registered with us,] we will credit your account within 10 business days for the amount you think is in error, so that you will have the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account. [Keep reading to learn more about how to register your card.] .",
             "label":[
                 "1005",
-                "33",
-                "c",
-                "Interp",
-                "12",
-                "ii"
+                "A",
+                "7",
+                "p41"
             ],
-            "node_type":"interp",
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-A-7-p40":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days. .",
+            "label":[
+                "1005",
+                "A",
+                "7",
+                "p40"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-A-7-p45":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"If you need more information about our error-resolution procedures, call us at [telephone number] [the telephone number shown above] [or visit [Internet address]].",
+            "label":[
+                "1005",
+                "A",
+                "7",
+                "p45"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-A-7-p44":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"You may ask for copies of the documents that we used in our investigation.",
+            "label":[
+                "1005",
+                "A",
+                "7",
+                "p44"
+            ],
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
@@ -14008,33 +14018,20 @@
         "op":"modified"
     },
     "1005-A-7-p36":{
-        "text":[
-            [
-                [
-                    "delete",
-                    42,
-                    54
-                ],
-                [
-                    "insert",
-                    42,
-                    "Prepaid"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"In Case of Errors or Questions About Your Prepaid Account Telephone us at [telephone number] or Write us at [address] [or email us at [email address]] as soon as you can, if you think an error has occurred in your prepaid account. We must allow you to report an error until 60 days after the earlier of the date you electronically access your account, if the error could be viewed in your electronic history, or the date we sent the FIRST written history on which the error appeared. You may request a written history of your transactions at any time by calling us at [telephone number] or writing us at [address]. You will need to tell us:",
+            "label":[
+                "1005",
+                "A",
+                "7",
+                "p36"
             ],
-            [
-                [
-                    "delete",
-                    219,
-                    231
-                ],
-                [
-                    "insert",
-                    219,
-                    "prepaid"
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-18-h-2-i":{
         "node":{
@@ -14115,31 +14112,20 @@
         "op":"added"
     },
     "1005-A-7-p35":{
-        "text":[
-            [
-                "insert",
-                0,
-                "[For accounts that are or can be registered:] [If your account is registered with us,] "
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"[For accounts that are or can be registered:] [If your account is registered with us,] You also have the right to obtain at least 24 months of written history of account transactions by calling [telephone number], or by writing us at [address]. You will not be charged a fee for this information unless you request it more than once per month.",
+            "label":[
+                "1005",
+                "A",
+                "7",
+                "p35"
             ],
-            [
-                "insert",
-                34,
-                "at least 24 months of written history of account transactions by calling [telephone number], or by writing us at [address]. You will not be charged "
-            ],
-            [
-                [
-                    "delete",
-                    36,
-                    144
-                ],
-                [
-                    "insert",
-                    36,
-                    "fee for this information unless you request it more than once per month."
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-31-g-Interp-2-ii":{
         "node":{
@@ -14306,6 +14292,24 @@
                 "1005-12-b-Interp-3-ii",
                 "1005-12-b-Interp-3-iii",
                 "1005-12-b-Interp-3-iv"
+            ]
+        },
+        "op":"added"
+    },
+    "1005-15-f-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"15(f)\u2003Disclosure of Fees and Other Information.",
+            "text":"",
+            "label":[
+                "1005",
+                "15",
+                "f",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-15-f-Interp-1"
             ]
         },
         "op":"added"
@@ -14511,19 +14515,17 @@
         },
         "op":"added"
     },
-    "1005-19-a-2-Interp-2-vi":{
+    "1005-15-d-Interp-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Changes to titles, headings, section numbers, or captions.",
+            "text":"Access to account information.For guidance, see comments 18(c)-1 through -3 and 18(c)-5 through -9.",
             "label":[
                 "1005",
-                "19",
-                "a",
-                "2",
+                "15",
+                "d",
                 "Interp",
-                "2",
-                "vi"
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -14703,23 +14705,6 @@
         },
         "op":"added"
     },
-    "1005-A-7-c-p1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"It is important to register your prepaid account as soon as possible. Unless you register your account, we may not credit your account in the amount you think is in error until we complete our investigation. To register your account, go to [Internet address] or call us at [telephone number]. We will ask you for identifying information about yourself (including your full name, address, date of birth, and [Social Security Number] [government-issued identification number]), so that we can verify your identity.",
-            "label":[
-                "1005",
-                "A",
-                "7",
-                "c",
-                "p1"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-12-b-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -14844,62 +14829,36 @@
         "op":"added"
     },
     "1005-A-7-p37":{
-        "text":[
-            [
-                [
-                    "delete",
-                    14,
-                    27
-                ],
-                [
-                    "insert",
-                    14,
-                    "[prepaid"
-                ]
-            ]
-        ],
-        "op":"modified"
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Your name and [prepaid account] number.",
+            "label":[
+                "1005",
+                "A",
+                "7",
+                "p37"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-A-7-p34":{
-        "text":[
-            [
-                [
-                    "delete",
-                    80,
-                    92
-                ],
-                [
-                    "insert",
-                    80,
-                    "prepaid"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"You may obtain information about the amount of money you have remaining in your prepaid account by calling [telephone number]. This information, along with a 12-month history of account transactions, is also available online at [Internet address].",
+            "label":[
+                "1005",
+                "A",
+                "7",
+                "p34"
             ],
-            [
-                [
-                    "delete",
-                    163,
-                    169
-                ],
-                [
-                    "insert",
-                    163,
-                    "12-month"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    231,
-                    240
-                ],
-                [
-                    "insert",
-                    231,
-                    "[Internet"
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-18-h-2-ii-A":{
         "node":{
@@ -14919,21 +14878,35 @@
         },
         "op":"added"
     },
-    "1005-15-f-Interp":{
+    "1005-A-7-p38":{
         "node":{
             "tagged_text":null,
-            "title":"15(f)\u2003Disclosure of Fees and Other Information.",
-            "text":"",
+            "title":null,
+            "text":"Why you believe there is an error, and the dollar amount involved.",
             "label":[
                 "1005",
-                "15",
-                "f",
-                "Interp"
+                "A",
+                "7",
+                "p38"
             ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-15-f-Interp-1"
-            ]
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-A-7-p39":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Approximately when the error took place.",
+            "label":[
+                "1005",
+                "A",
+                "7",
+                "p39"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -14969,6 +14942,25 @@
                 "A"
             ],
             "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-19-a-2-Interp-2-vi":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Changes to titles, headings, section numbers, or captions.",
+            "label":[
+                "1005",
+                "19",
+                "a",
+                "2",
+                "Interp",
+                "2",
+                "vi"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -17132,16 +17124,16 @@
     "1005-A-7-a":{
         "text":[
             [
-                [
-                    "delete",
-                    96,
-                    135
-                ],
-                [
-                    "insert",
-                    96,
-                    "prepaid accounts (\u00a7 1005.18(d)(1)(i))."
-                ]
+                "delete",
+                3,
+                135
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Disclosure by financial institutions of information about obtaining account information for prepaid accounts (\u00a71005.18(d)(1)(i))."
             ]
         ],
         "op":"modified"
@@ -17149,8 +17141,8 @@
     "1005-A-7-c":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"c Warning regarding unregistered prepaid.",
+            "title":"Warning regarding unregistered prepaid accounts (\u00a7\u20091005.18(e)(3)).",
+            "text":"c It is important to register your prepaid account as soon as possible. Unless you register your account, we may not credit your account in the amount you think is in error until we complete our investigation. To register your account, go to [Internet address] or call us at [telephone number]. We will ask you for identifying information about yourself (including your full name, address, date of birth, and [Social Security Number] [government-issued identification number]), so that we can verify your identity.",
             "label":[
                 "1005",
                 "A",
@@ -17163,50 +17155,51 @@
         "op":"added"
     },
     "1005-A-7-b":{
-        "text":[
-            [
-                "insert",
-                78,
-                "do not "
+        "node":{
+            "tagged_text":null,
+            "title":"Disclosure of error-resolution procedures for financial institutions that do not provide periodic statements (\u00a7 1005.18(d)(1)(ii) and (d)(2).",
+            "text":"(b)",
+            "label":[
+                "1005",
+                "A",
+                "7",
+                "b"
             ],
-            [
-                [
-                    "delete",
-                    86,
-                    149
-                ],
-                [
-                    "insert",
-                    86,
-                    "periodic statements"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    153,
-                    170
-                ],
-                [
-                    "insert",
-                    153,
-                    "1005.18(d)(1)(ii)"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    175,
-                    183
-                ],
-                [
-                    "insert",
-                    175,
-                    "(d)(2)).."
-                ]
+            "node_type":"appendix",
+            "child_labels":[
+                "1005-A-7-p36",
+                "1005-A-7-p37",
+                "1005-A-7-p38",
+                "1005-A-7-p39",
+                "1005-A-7-p40",
+                "1005-A-7-p41",
+                "1005-A-7-p42",
+                "1005-A-7-p43",
+                "1005-A-7-p44",
+                "1005-A-7-p45"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
+    },
+    "1005-31-b-1-vii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"31(b)(1)(vii) Amount Received.",
+            "text":"",
+            "label":[
+                "1005",
+                "31",
+                "b",
+                "1",
+                "vii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-31-b-1-vii-Interp-1"
+            ]
+        },
+        "op":"added"
     },
     "1005-34-Interp":{
         "node":{
