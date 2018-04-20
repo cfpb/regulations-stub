@@ -295,6 +295,24 @@
         },
         "op":"added"
     },
+    "1005-31-g-Interp-1-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A remittance transfer provider principally uses only Spanish and Vietnamese to advertise, solicit, or market remittance transfer services at a particular office. The remittance transfer provider may provide all senders with disclosures in English, Spanish, and Vietnamese, regardless of the language the sender uses with the remittance transfer provider to conduct the transaction or assert an error.",
+            "label":[
+                "1005",
+                "31",
+                "g",
+                "Interp",
+                "1",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-31-a-4-ii":{
         "node":{
             "tagged_text":null,
@@ -1161,6 +1179,23 @@
                 "1005-30-e-Interp-3-i",
                 "1005-30-e-Interp-3-ii"
             ]
+        },
+        "op":"added"
+    },
+    "1005-30-c-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Sender as designated recipient.",
+            "text":"A \u201csender,\u201d as defined in \u00a7 1005.30(g), may also be a designated recipient if the sender meets the definition of \u201cdesignated recipient\u201d in \u00a7 1005.30(c). For example, a sender may request that a provider send an electronic transfer of funds from the sender's checking account in a State to the sender's checking account located in a foreign country. In this case, the sender would also be a designated recipient.",
+            "label":[
+                "1005",
+                "30",
+                "c",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -2043,24 +2078,6 @@
                 "A"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-15-c-Interp-1-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A government agency informs a consumer that she can receive distribution of benefits via a government benefit account in the form of a prepaid card. The consumer receives the prepaid card and the disclosures required by \u00a7\u20091005.18(b) to review at the time the consumer receives benefits eligibility information from the agency. After receiving the disclosures, the consumer chooses to receive benefits via the government benefit account. These disclosures were provided to the consumer pre-acquisition, and the agency has complied with \u00a7\u20091005.15(c). By contrast, if the consumer does not receive the disclosures required by \u00a7\u20091005.18(b) to review until the time at which the consumer received the first benefit payment deposited into the government benefit account, these disclosures were provided to the consumer post-acquisition, and were not provided in compliance with \u00a7\u20091005.15(c).",
-            "label":[
-                "1005",
-                "15",
-                "c",
-                "Interp",
-                "1",
-                "i"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -3226,8 +3243,22 @@
         },
         "op":"added"
     },
-    "1005-12-a-Interp-1-i":{
-        "op":"deleted"
+    "1005-33-a-Interp-10":{
+        "node":{
+            "tagged_text":null,
+            "title":"Recipient-requested changes.",
+            "text":"Under \u00a7 1005.33(a)(2)(iii), a change requested by the designated recipient that the remittance transfer provider or others involved in the remittance transfer decide to accommodate is not considered an error. The exception under \u00a7 1005.33(a)(2)(iii) is available only if the change is made solely because the designated recipient requested the change. For example, if a sender requests to send US$100 to a designated recipient at a designated location, but the designated recipient requests the amount in a different currency (either at the sender-designated location or another location requested by the recipient) and the remittance transfer provider accommodates the recipient's request, the change does not constitute an error.error.",
+            "label":[
+                "1005",
+                "33",
+                "a",
+                "Interp",
+                "10"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-12-a-Interp-5-iv":{
         "node":{
@@ -3909,18 +3940,17 @@
         },
         "op":"added"
     },
-    "1005-32-b-1-Interp-4-i":{
+    "1005-15-c-Interp-1-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The method by which transactions are made in the recipient country does not permit a remittance transfer provider to determine the exact exchange rate required to be disclosed under \u00a7 1005.31(b)(1)(iv) when the provider sends a remittance transfer via international ACH on terms negotiated between the United States government and the recipient country's government, under which the exchange rate is a rate set by the recipient country's central bank on the business day after the provider has sent the remittance transfer.",
+            "text":"A government agency informs a consumer that she can receive distribution of benefits via a government benefit account in the form of a prepaid card. The consumer receives the prepaid card and the disclosures required by \u00a7\u20091005.18(b) to review at the time the consumer receives benefits eligibility information from the agency. After receiving the disclosures, the consumer chooses to receive benefits via the government benefit account. These disclosures were provided to the consumer pre-acquisition, and the agency has complied with \u00a7\u20091005.15(c). By contrast, if the consumer does not receive the disclosures required by \u00a7\u20091005.18(b) to review until the time at which the consumer received the first benefit payment deposited into the government benefit account, these disclosures were provided to the consumer post-acquisition, and were not provided in compliance with \u00a7\u20091005.15(c).",
             "label":[
                 "1005",
-                "32",
-                "b",
-                "1",
+                "15",
+                "c",
                 "Interp",
-                "4",
+                "1",
                 "i"
             ],
             "node_type":"interp",
@@ -5064,40 +5094,36 @@
         },
         "op":"added"
     },
-    "1005-31-g-1-Interp-2-i-E":{
+    "1005-19-a-4-Interp-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Point-of-sale displays in a foreign language at an office.",
+            "text":"Issuer.Section 1005.19(a)(4) provides that, for purposes of \u00a7\u20091005.19, issuer or prepaid account issuer means the entity to which a consumer is legally obligated, or would be legally obligated, under the terms of a prepaid account agreement. For example, Bank X and Bank Y work together to issue prepaid accounts. A consumer that obtains a prepaid account issued pursuant to this arrangement between Bank X and Bank Y is subject to an agreement that states \u201cThis is an agreement between you, the consumer, and Bank X that governs the terms of your Bank Y Prepaid Account.\u201d The prepaid account issuer in this example is Bank X, because the agreement creates a legally enforceable obligation between the consumer and Bank X. Bank X is the issuer even if the consumer applied for the prepaid account through a link on Bank Y's Web site and the cards prominently feature the Bank Y logo on the front of the card.",
             "label":[
                 "1005",
-                "31",
-                "g",
-                "1",
+                "19",
+                "a",
+                "4",
                 "Interp",
-                "2",
-                "i",
-                "E"
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
     },
-    "1005-31-g-1-Interp-2-i-F":{
+    "1005-19-a-4-Interp-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Telephone solicitations in a foreign language.",
+            "text":"Use of third-party service providers.An issuer has a legal obligation to comply with the requirements of \u00a7\u20091005.19. However, an issuer generally may use a third-party service provider to satisfy its obligations under \u00a7\u20091005.19, provided that the issuer acts in accordance with regulatory guidance regarding use of third-party service providers and other applicable regulatory guidance. In some cases, an issuer may wish to arrange for the entity with which it partners to issue prepaid accounts to fulfill the requirements of \u00a7\u20091005.19 on the issuer's behalf. For example, Program Manager and Bank work together to issue prepaid accounts. Under the \u00a7\u20091005.19(a)(4) definition of issuer, Bank is the issuer of these prepaid accounts for purposes of \u00a7\u20091005.19. However, Program Manager services the prepaid accounts, including mailing to consumers account opening materials and making available to consumers their electronic account transaction history, pursuant to \u00a7\u20091005.18(c)(1)(ii). While Bank is responsible for ensuring compliance with \u00a7\u20091005.19, Bank may arrange for Program Manager (or another appropriate third-party service provider) to submit prepaid account agreements to the Bureau under \u00a7\u20091005.19> on Bank's behalf. Bank must comply with regulatory guidance regarding use of third-party service providers and other applicable regulatory guidance.",
             "label":[
                 "1005",
-                "31",
-                "g",
-                "1",
+                "19",
+                "a",
+                "4",
                 "Interp",
-                "2",
-                "i",
-                "F"
+                "2"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -5595,21 +5621,22 @@
         },
         "op":"added"
     },
-    "1005-31-g-Interp-1-i":{
+    "1005-19-d-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"A remittance transfer provider principally uses only Spanish and Vietnamese to advertise, solicit, or market remittance transfer services at a particular office. The remittance transfer provider may provide all senders with disclosures in English, Spanish, and Vietnamese, regardless of the language the sender uses with the remittance transfer provider to conduct the transaction or assert an error.",
+            "title":"19(d)\u2003Agreements for All Open Accounts.",
+            "text":"",
             "label":[
                 "1005",
-                "31",
-                "g",
-                "Interp",
-                "1",
-                "i"
+                "19",
+                "d",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1005-19-d-Interp-1",
+                "1005-19-d-Interp-2"
+            ]
         },
         "op":"added"
     },
@@ -6415,16 +6442,19 @@
         ],
         "op":"modified"
     },
-    "1005-36-Interp-1":{
+    "1005-32-b-1-Interp-4-i":{
         "node":{
             "tagged_text":null,
-            "title":"Applicability of subpart B.",
-            "text":"The requirements set forth in subpart B apply to remittance transfers subject to \u00a7 1005.36, to the extent that \u00a7 1005.36 does not modify those requirements. For example, the foreign language disclosure requirements in \u00a7 1005.31(g) and related commentary continue to apply to disclosures provided in accordance with \u00a7 1005.36(a)(2).",
+            "title":null,
+            "text":"The method by which transactions are made in the recipient country does not permit a remittance transfer provider to determine the exact exchange rate required to be disclosed under \u00a7 1005.31(b)(1)(iv) when the provider sends a remittance transfer via international ACH on terms negotiated between the United States government and the recipient country's government, under which the exchange rate is a rate set by the recipient country's central bank on the business day after the provider has sent the remittance transfer.",
             "label":[
                 "1005",
-                "36",
+                "32",
+                "b",
+                "1",
                 "Interp",
-                "1"
+                "4",
+                "i"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -9289,6 +9319,9 @@
         },
         "op":"added"
     },
+    "1005-12-a-Interp-1-i":{
+        "op":"deleted"
+    },
     "1005-18-h-3-i":{
         "node":{
             "tagged_text":null,
@@ -9361,25 +9394,20 @@
         },
         "op":"added"
     },
-    "1005-34-a-Interp":{
+    "1005-19-f-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"34(a) Sender Right of Cancellation and Refund.",
-            "text":"",
+            "title":null,
+            "text":"Delayed effective date for the agreement submission requirement.Section 1005.19(f)(2) provides that the requirement to submit prepaid account agreements to the Bureau on a rolling basis pursuant to \u00a7\u20091005.19(b) is delayed until October 1, 2017. An issuer must submit to the Bureau no later than October 31, 2017 all prepaid account agreements it offers as of October 1, 2017. After October 1, 2017, issuers must submit on a rolling basis prepaid account agreements or notifications of withdrawn agreements to the Bureau within 30 days after offering, amending, or ceasing to offer the agreements.",
             "label":[
                 "1005",
-                "34",
-                "a",
-                "Interp"
+                "19",
+                "f",
+                "Interp",
+                "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1005-34-a-Interp-1",
-                "1005-34-a-Interp-2",
-                "1005-34-a-Interp-3",
-                "1005-34-a-Interp-4",
-                "1005-34-a-Interp-5"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -9933,17 +9961,19 @@
         },
         "op":"added"
     },
-    "1005-33-a-Interp-10":{
+    "1005-19-a-2-Interp-1-ii":{
         "node":{
             "tagged_text":null,
-            "title":"Recipient-requested changes.",
-            "text":"Under \u00a7 1005.33(a)(2)(iii), a change requested by the designated recipient that the remittance transfer provider or others involved in the remittance transfer decide to accommodate is not considered an error. The exception under \u00a7 1005.33(a)(2)(iii) is available only if the change is made solely because the designated recipient requested the change. For example, if a sender requests to send US$100 to a designated recipient at a designated location, but the designated recipient requests the amount in a different currency (either at the sender-designated location or another location requested by the recipient) and the remittance transfer provider accommodates the recipient's request, the change does not constitute an error.error.",
+            "title":null,
+            "text":"Addition or deletion of a provision giving the issuer or consumer an obligation under the agreement, such as a clause requiring the consumer to pay an additional fee.",
             "label":[
                 "1005",
-                "33",
+                "19",
                 "a",
+                "2",
                 "Interp",
-                "10"
+                "1",
+                "ii"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -9983,26 +10013,6 @@
             "child_labels":[
                 "1005-A-32-p6",
                 "1005-A-32-p7"
-            ]
-        },
-        "op":"added"
-    },
-    "1005-19-a-6-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"19(a)(6)\u2003Offers to the General Public.",
-            "text":"",
-            "label":[
-                "1005",
-                "19",
-                "a",
-                "6",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-19-a-6-Interp-1",
-                "1005-19-a-6-Interp-2"
             ]
         },
         "op":"added"
@@ -10539,6 +10549,23 @@
                 "1"
             ],
             "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-36-c-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Concurrent cancellation obligations.",
+            "text":"A financial institution that is also a remittance transfer provider may have both stop payment obligations under \u00a7 1005.10 and cancellation obligations under \u00a7 1005.36. If a sender cancels a remittance transfer under \u00a7 1005.36 with a remittance transfer provider that holds the sender's account, and the transfer is a preauthorized transfer under \u00a7 1005.10, then the cancellation provisions of \u00a7 1005.36 exclusively apply.",
+            "label":[
+                "1005",
+                "36",
+                "c",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -11777,17 +11804,20 @@
         },
         "op":"added"
     },
-    "1005-36-c-Interp-3":{
+    "1005-31-g-1-Interp-2-i-E":{
         "node":{
             "tagged_text":null,
-            "title":"Concurrent cancellation obligations.",
-            "text":"A financial institution that is also a remittance transfer provider may have both stop payment obligations under \u00a7 1005.10 and cancellation obligations under \u00a7 1005.36. If a sender cancels a remittance transfer under \u00a7 1005.36 with a remittance transfer provider that holds the sender's account, and the transfer is a preauthorized transfer under \u00a7 1005.10, then the cancellation provisions of \u00a7 1005.36 exclusively apply.",
+            "title":null,
+            "text":"Point-of-sale displays in a foreign language at an office.",
             "label":[
                 "1005",
-                "36",
-                "c",
+                "31",
+                "g",
+                "1",
                 "Interp",
-                "3"
+                "2",
+                "i",
+                "E"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -11832,18 +11862,20 @@
         },
         "op":"added"
     },
-    "1005-19-a-4-Interp-2":{
+    "1005-31-g-1-Interp-2-i-F":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Use of third-party service providers.An issuer has a legal obligation to comply with the requirements of \u00a7\u20091005.19. However, an issuer generally may use a third-party service provider to satisfy its obligations under \u00a7\u20091005.19, provided that the issuer acts in accordance with regulatory guidance regarding use of third-party service providers and other applicable regulatory guidance. In some cases, an issuer may wish to arrange for the entity with which it partners to issue prepaid accounts to fulfill the requirements of \u00a7\u20091005.19 on the issuer's behalf. For example, Program Manager and Bank work together to issue prepaid accounts. Under the \u00a7\u20091005.19(a)(4) definition of issuer, Bank is the issuer of these prepaid accounts for purposes of \u00a7\u20091005.19. However, Program Manager services the prepaid accounts, including mailing to consumers account opening materials and making available to consumers their electronic account transaction history, pursuant to \u00a7\u20091005.18(c)(1)(ii). While Bank is responsible for ensuring compliance with \u00a7\u20091005.19, Bank may arrange for Program Manager (or another appropriate third-party service provider) to submit prepaid account agreements to the Bureau under \u00a7\u20091005.19> on Bank's behalf. Bank must comply with regulatory guidance regarding use of third-party service providers and other applicable regulatory guidance.",
+            "text":"Telephone solicitations in a foreign language.",
             "label":[
                 "1005",
-                "19",
-                "a",
-                "4",
+                "31",
+                "g",
+                "1",
                 "Interp",
-                "2"
+                "2",
+                "i",
+                "F"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -12680,6 +12712,28 @@
             ],
             "node_type":"regtext",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-34-a-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"34(a) Sender Right of Cancellation and Refund.",
+            "text":"",
+            "label":[
+                "1005",
+                "34",
+                "a",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-34-a-Interp-1",
+                "1005-34-a-Interp-2",
+                "1005-34-a-Interp-3",
+                "1005-34-a-Interp-4",
+                "1005-34-a-Interp-5"
+            ]
         },
         "op":"added"
     },
@@ -14172,25 +14226,6 @@
         },
         "op":"added"
     },
-    "1005-19-d-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"19(d)\u2003Agreements for All Open Accounts.",
-            "text":"",
-            "label":[
-                "1005",
-                "19",
-                "d",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-19-d-Interp-1",
-                "1005-19-d-Interp-2"
-            ]
-        },
-        "op":"added"
-    },
     "1005-32-c-1-Interp":{
         "node":{
             "tagged_text":null,
@@ -15669,20 +15704,23 @@
         },
         "op":"added"
     },
-    "1005-30-c-Interp-3":{
+    "1005-19-a-6-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"Sender as designated recipient.",
-            "text":"A \u201csender,\u201d as defined in \u00a7 1005.30(g), may also be a designated recipient if the sender meets the definition of \u201cdesignated recipient\u201d in \u00a7 1005.30(c). For example, a sender may request that a provider send an electronic transfer of funds from the sender's checking account in a State to the sender's checking account located in a foreign country. In this case, the sender would also be a designated recipient.",
+            "title":"19(a)(6)\u2003Offers to the General Public.",
+            "text":"",
             "label":[
                 "1005",
-                "30",
-                "c",
-                "Interp",
-                "3"
+                "19",
+                "a",
+                "6",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1005-19-a-6-Interp-1",
+                "1005-19-a-6-Interp-2"
+            ]
         },
         "op":"added"
     },
@@ -16475,25 +16513,6 @@
                 "i"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-19-a-2-Interp-1-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Addition or deletion of a provision giving the issuer or consumer an obligation under the agreement, such as a clause requiring the consumer to pay an additional fee.",
-            "label":[
-                "1005",
-                "19",
-                "a",
-                "2",
-                "Interp",
-                "1",
-                "ii"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -17405,24 +17424,6 @@
             "child_labels":[
                 "1005-32-a-1-Interp"
             ]
-        },
-        "op":"added"
-    },
-    "1005-19-a-4-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Issuer.Section 1005.19(a)(4) provides that, for purposes of \u00a7\u20091005.19, issuer or prepaid account issuer means the entity to which a consumer is legally obligated, or would be legally obligated, under the terms of a prepaid account agreement. For example, Bank X and Bank Y work together to issue prepaid accounts. A consumer that obtains a prepaid account issued pursuant to this arrangement between Bank X and Bank Y is subject to an agreement that states \u201cThis is an agreement between you, the consumer, and Bank X that governs the terms of your Bank Y Prepaid Account.\u201d The prepaid account issuer in this example is Bank X, because the agreement creates a legally enforceable obligation between the consumer and Bank X. Bank X is the issuer even if the consumer applied for the prepaid account through a link on Bank Y's Web site and the cards prominently feature the Bank Y logo on the front of the card.",
-            "label":[
-                "1005",
-                "19",
-                "a",
-                "4",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -18713,6 +18714,22 @@
         },
         "op":"added"
     },
+    "1005-36-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Applicability of subpart B.",
+            "text":"The requirements set forth in subpart B apply to remittance transfers subject to \u00a7 1005.36, to the extent that \u00a7 1005.36 does not modify those requirements. For example, the foreign language disclosure requirements in \u00a7 1005.31(g) and related commentary continue to apply to disclosures provided in accordance with \u00a7 1005.36(a)(2).",
+            "label":[
+                "1005",
+                "36",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-33-a-2":{
         "node":{
             "tagged_text":null,
@@ -18873,23 +18890,6 @@
                 "1"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-19-f-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Delayed effective date for the agreement submission requirement.Section 1005.19(f)(2) provides that the requirement to submit prepaid account agreements to the Bureau on a rolling basis pursuant to \u00a7\u20091005.19(b) is delayed until October 1, 2017. An issuer must submit to the Bureau no later than October 31, 2017 all prepaid account agreements it offers as of October 1, 2017. After October 1, 2017, issuers must submit on a rolling basis prepaid account agreements or notifications of withdrawn agreements to the Bureau within 30 days after offering, amending, or ceasing to offer the agreements.",
-            "label":[
-                "1005",
-                "19",
-                "f",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
