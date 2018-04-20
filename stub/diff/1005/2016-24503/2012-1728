@@ -626,7 +626,7 @@
             [
                 "delete",
                 117,
-                970
+                971
             ]
         ],
         "op":"modified"
@@ -6716,22 +6716,8 @@
     "1005-2-b-3-ii":{
         "op":"deleted"
     },
-    "1005-A-7-p42":{
-        "text":[
-            [
-                [
-                    "delete",
-                    35,
-                    48
-                ],
-                [
-                    "insert",
-                    35,
-                    "point-of-sale,"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1005-19-a-2-Interp-2-vi":{
+        "op":"deleted"
     },
     "1005-A-7-p41":{
         "text":[
@@ -8446,8 +8432,24 @@
         ],
         "op":"modified"
     },
-    "1005-15-d-Interp-1":{
-        "op":"deleted"
+    "1005-31-b-1-vi-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Determining taxes.",
+            "text":"The amount of taxes imposed by a person other than the provider may depend on the tax status of the sender or recipient, the type of accounts or financial institutions involved in the transfer, or other variables. For example, the amount of tax may depend on whether the receiver is a resident of the country in which the funds are received or the type of account to which the funds are delivered. If a provider does not have specific knowledge regarding variables that affect the amount of taxes imposed by a person other than the provider for purposes of determining these taxes, the provider may rely on a sender's representations regarding these variables. If a sender does not know the information relating to the variables that affect the amount of taxes imposed by a person other than the provider, the provider may disclose the highest possible tax that could be imposed for the remittance transfer with respect to any unknown variable.",
+            "label":[
+                "1005",
+                "31",
+                "b",
+                "1",
+                "vi",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-36-d-Interp-3":{
         "op":"deleted"
@@ -8900,7 +8902,7 @@
         ],
         "op":"modified"
     },
-    "1005-19-a-2-Interp-2-vi":{
+    "1005-15-d-Interp-1":{
         "op":"deleted"
     },
     "1005-12-b-Interp-3-iv":{
@@ -9540,25 +9542,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1005-31-b-1-vi-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Determining taxes.",
-            "text":"The amount of taxes imposed by a person other than the provider may depend on the tax status of the sender or recipient, the type of accounts or financial institutions involved in the transfer, or other variables. For example, the amount of tax may depend on whether the receiver is a resident of the country in which the funds are received or the type of account to which the funds are delivered. If a provider does not have specific knowledge regarding variables that affect the amount of taxes imposed by a person other than the provider for purposes of determining these taxes, the provider may rely on a sender's representations regarding these variables. If a sender does not know the information relating to the variables that affect the amount of taxes imposed by a person other than the provider, the provider may disclose the highest possible tax that could be imposed for the remittance transfer with respect to any unknown variable.",
-            "label":[
-                "1005",
-                "31",
-                "b",
-                "1",
-                "vi",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1005-32-b-Interp-1":{
         "node":{
