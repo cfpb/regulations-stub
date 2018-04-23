@@ -73,8 +73,37 @@
     "1005-A-35-p112":{
         "op":"deleted"
     },
-    "1005-A-31-h2-p27":{
-        "op":"deleted"
+    "1005-A-7-b-p6":{
+        "text":[
+            [
+                [
+                    "delete",
+                    253,
+                    260
+                ],
+                [
+                    "insert",
+                    253,
+                    "[and your account is registered with us,] we will"
+                ]
+            ],
+            [
+                "insert",
+                574,
+                " [Keep reading to learn more about how to register your card.] ."
+            ]
+        ],
+        "op":"modified"
+    },
+    "1005-A-7-b-p5":{
+        "text":[
+            [
+                "insert",
+                117,
+                " ."
+            ]
+        ],
+        "op":"modified"
     },
     "1005-36-d-4":{
         "node":{
@@ -92,11 +121,40 @@
         },
         "op":"added"
     },
+    "1005-A-7-b-p9":{
+        "op":"deleted"
+    },
     "1005-A-31-h2-p26":{
         "op":"deleted"
     },
-    "1005-A-35-p114":{
-        "op":"deleted"
+    "1005-A-7-b-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    42,
+                    54
+                ],
+                [
+                    "insert",
+                    42,
+                    "Prepaid"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    219,
+                    231
+                ],
+                [
+                    "insert",
+                    219,
+                    "prepaid"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-A-35-p118":{
         "op":"deleted"
@@ -823,95 +881,6 @@
         },
         "op":"added"
     },
-    "1005-A-5-p21":{
-        "text":[
-            [
-                [
-                    "delete",
-                    110,
-                    126
-                ],
-                [
-                    "insert",
-                    110,
-                    "[address]"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    143,
-                    156
-                ],
-                [
-                    "insert",
-                    143,
-                    "[email"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    230,
-                    244
-                ],
-                [
-                    "insert",
-                    230,
-                    "[agency\u2019s"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    280,
-                    307
-                ],
-                [
-                    "insert",
-                    280,
-                    "allow you to report an error until"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    322,
-                    331
-                ],
-                [
-                    "insert",
-                    322,
-                    "the earlier"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    339,
-                    345
-                ],
-                [
-                    "insert",
-                    339,
-                    "date you electronically access your account, if the error could be viewed in your electronic history, or the date we sent the FIRST written history on which the error appeared."
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    350,
-                    371
-                ],
-                [
-                    "insert",
-                    350,
-                    "may request a written history of your transactions at any time by calling us at [telephone number] or writing us at [address] [optional: or by contacting your caseworker]."
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1005-A-10-f-p1":{
         "node":{
             "tagged_text":null,
@@ -928,47 +897,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1005-A-5-p27":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    84
-                ],
-                [
-                    "insert",
-                    0,
-                    "You may ask for copies of the documents that"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    88,
-                    257
-                ],
-                [
-                    "insert",
-                    88,
-                    "used"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    261,
-                    267
-                ],
-                [
-                    "insert",
-                    261,
-                    "our investigation."
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1005-19-b-6":{
         "node":{
@@ -989,16 +917,6 @@
             ]
         },
         "op":"added"
-    },
-    "1005-A-5-p25":{
-        "text":[
-            [
-                "insert",
-                117,
-                " We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will credit your account within 10 business days for the amount you think is in error, so that you will have the use of the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account. For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error."
-            ]
-        ],
-        "op":"modified"
     },
     "1005-36-d-2-ii":{
         "node":{
@@ -1033,50 +951,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1005-A-5-p29":{
-        "op":"deleted"
-    },
-    "1005-A-5-p28":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    12
-                ],
-                [
-                    "insert",
-                    0,
-                    "If"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    17,
-                    72
-                ],
-                [
-                    "insert",
-                    17,
-                    "need more information about"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    77,
-                    244
-                ],
-                [
-                    "insert",
-                    77,
-                    "error resolution procedures, call us at [telephone number][the telephone number shown above]."
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1005-A-34-p82":{
         "op":"deleted"
@@ -1461,61 +1335,24 @@
     "1005-A-32-p49":{
         "op":"deleted"
     },
-    "1005-A-5-p20":{
-        "text":[
-            [
-                [
-                    "delete",
-                    27,
-                    34
-                ],
-                [
-                    "insert",
-                    27,
-                    "obtain at least 24 months of written history of account transactions by calling [telephone number], or by writing to us at [address]. You will not be charged"
-                ]
+    "1005-32-b-1-Interp-2-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The laws of the recipient country do not permit a remittance transfer provider to determine the exact exchange rate required to be disclosed under \u00a7 1005.31(b)(1)(iv) when, for example, the government of the recipient country, on a daily basis, sets the exchange rate that must, by law, apply to funds received and the funds are made available to the designated recipient in the local currency the day after the remittance transfer provider sends the remittance transfer.",
+            "label":[
+                "1005",
+                "32",
+                "b",
+                "1",
+                "Interp",
+                "2",
+                "i"
             ],
-            [
-                "insert",
-                37,
-                "fee for this information unless you request it more than once per month. [Optional: Or you may request a "
-            ],
-            [
-                [
-                    "delete",
-                    45,
-                    52
-                ],
-                [
-                    "insert",
-                    45,
-                    "history"
-                ]
-            ],
-            [
-                "insert",
-                56,
-                "account "
-            ],
-            [
-                [
-                    "delete",
-                    69,
-                    94
-                ],
-                [
-                    "insert",
-                    69,
-                    "by contacting"
-                ]
-            ],
-            [
-                "delete",
-                100,
-                200
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-31-b-1-v":{
         "text":[
@@ -2387,18 +2224,18 @@
         },
         "op":"added"
     },
-    "1005-32-b-1-Interp-5":{
+    "1005-30-f-Interp-2-iv":{
         "node":{
             "tagged_text":null,
-            "title":"Safe harbor list.",
-            "text":"If a country is included on a safe harbor list published by the Bureau under \u00a7 1005.32(b)(1)(ii), a remittance transfer provider may provide estimates of the amounts to be disclosed under \u00a7 1005.31(b)(1)(iv) through (b)(1)(vii). If a country does not appear on the Bureau's list, a remittance transfer provider may provide estimates under \u00a7 1005.32(b)(1)(i) if the provider determines that the recipient country does not legally permit or method by which transactions are conducted in that country does not permit the provider to determine exact disclosure amounts.",
+            "title":"Example of safe harbor and transition period.",
+            "text":"Assume that a person provided 90 remittance transfers in 2012 and 90 such transfers in 2013. The safe harbor will apply to the person's transfers in 2013, as well as the person's first 100 remittance transfers in 2014. However, if the person provides a 101st transfer on September 5, the facts and circumstances determine whether the person provides remittance transfers in the normal course of business and is thus a remittance transfer provider for the 101st and any subsequent remittance transfers that it provides in 2014. Furthermore, the person would not qualify for the safe harbor described in \u00a7 1005.30(f)(2)(i) in 2015 because the person did not provide 100 or fewer remittance transfers in 2014. However, for the 101st remittance transfer provided in 2014, as well as additional remittance transfers provided thereafter in 2014 and 2015, if that person is then providing remittance transfers for a consumer in the normal course of business, the person will have a reasonable period of time, not to exceed six months, to come into compliance with subpart B. Assume that in this case, a reasonable period of time is six months. Thus, compliance with subpart B is not required for remittance transfers made on or before March 5, 2015 (i.e., six months after September 5, 2014). After March 5, 2015, the person is required to comply with subpart B if, based on the facts and circumstances, the person provides remittance transfers in the normal course of business and is thus a remittance transfer provider.",
             "label":[
                 "1005",
-                "32",
-                "b",
-                "1",
+                "30",
+                "f",
                 "Interp",
-                "5"
+                "2",
+                "iv"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -3088,70 +2925,24 @@
         },
         "op":"added"
     },
-    "1005-2-b-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    36
-                ],
-                [
-                    "insert",
-                    0,
-                    "Certain employment-related cards"
-                ]
+    "1005-19-b-3-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"19(b)(3)\u2003Withdrawal of Agreements No Longer Offered",
+            "text":"",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "3",
+                "Interp"
             ],
-            [
-                [
-                    "delete",
-                    41,
-                    271
-                ],
-                [
-                    "insert",
-                    41,
-                    "covered.Examples"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    275,
-                    323
-                ],
-                [
-                    "insert",
-                    275,
-                    "accounts"
-                ]
-            ],
-            [
-                "delete",
-                328,
-                830
-            ],
-            [
-                [
-                    "delete",
-                    841,
-                    1066
-                ],
-                [
-                    "insert",
-                    841,
-                    "Regulation E (12 CFR Part 1005) include:"
-                ]
+            "node_type":"interp",
+            "child_labels":[
+                "1005-19-b-3-Interp-1"
             ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                45
-            ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1005-18-b-9-ii":{
         "node":{
@@ -3640,6 +3431,35 @@
             ]
         },
         "op":"added"
+    },
+    "1005-A-7-b-p10":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    34
+                ],
+                [
+                    "insert",
+                    0,
+                    "You may ask for copies of the documents that we used in"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    39,
+                    163
+                ],
+                [
+                    "insert",
+                    39,
+                    "investigation."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-19-a-6-Interp-2":{
         "node":{
@@ -4441,24 +4261,6 @@
         ],
         "op":"modified"
     },
-    "1005-33-c-Interp-12-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A sender instructs a remittance transfer provider to send US$100 to a designated recipient in a foreign country, for which the provider charges a transfer fee of US$10 (and thus the sender pays the provider US$110) and an intermediary institution charges a lifting fee of US$5, such that the designated recipient is expected to receive only US$95, as indicated in the receipt.  If an error occurs because the sender provides incorrect or insufficient information that results in non-delivery of the remittance transfer by the date of availability stated in the disclosure provided to the sender for the remittance transfer under \u00a7 1005.31(b)(2) or (3), the provider is required to refund, or reapply if requested and the provider agrees, $105 unless the intermediary institution refunds to the provider the US$5 fee.  If the sender requests to have the transfer amount applied to a new remittance transfer pursuant to \u00a7 1005.33(c)(2)(iii) and provides the corrected or additional information, and the remittance transfer provider agrees to a resend remedy, the remittance transfer provider may charge the sender another transfer fee of US$10 to send the remittance transfer again with the corrected or additional information necessary to complete the transfer.  Insofar as the resend is an entirely new remittance transfer, the provider must provide a prepayment disclosure and receipt or combined disclosure in accordance with, among other provisions, the timing requirements of \u00a7 1005.31(f) and the cancellation provision of \u00a7 1005.34(a).",
-            "label":[
-                "1005",
-                "33",
-                "c",
-                "Interp",
-                "12",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-A-5":{
         "title":[
             [
@@ -4583,6 +4385,71 @@
                     0,
                     "Overdraft credit plans not accessible by hybrid prepaid-credit cards."
                 ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1005-2-b-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    36
+                ],
+                [
+                    "insert",
+                    0,
+                    "Certain employment-related cards"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    41,
+                    271
+                ],
+                [
+                    "insert",
+                    41,
+                    "covered.Examples"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    275,
+                    323
+                ],
+                [
+                    "insert",
+                    275,
+                    "accounts"
+                ]
+            ],
+            [
+                "delete",
+                328,
+                830
+            ],
+            [
+                [
+                    "delete",
+                    841,
+                    1066
+                ],
+                [
+                    "insert",
+                    841,
+                    "Regulation E (12 CFR Part 1005) include:"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                45
             ]
         ],
         "op":"modified"
@@ -5463,23 +5330,6 @@
         ],
         "op":"modified"
     },
-    "1005-A-5-p21-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"You will need to tell us:",
-            "label":[
-                "1005",
-                "A",
-                "5",
-                "p21",
-                "1"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-A-Interp-4":{
         "text":[
             [
@@ -5601,23 +5451,6 @@
     "1005-32-b-Interp-5":{
         "op":"deleted"
     },
-    "1005-30-g-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Non-consumer accounts.A transfer that is requested to be sent from an account that was not established primarily for personal, family, or household purposes, such as an account that was established as a business or commercial account or an account held by a business entity such as a corporation, not-for-profit corporation, professional corporation, limited liability company, partnership, or sole proprietorship, is not requested primarily for personal, family, or household purposes. A consumer requesting a transfer from such an account therefore is not a sender under \u00a7\u20091005.30(g). Additionally, a transfer that is requested to be sent from an account held by a financial institution under a bona fide trust agreement pursuant to \u00a7\u20091005.2(b)(2) is not requested primarily for personal, family, or household purposes, and a consumer requesting a transfer from such an account is therefore not a sender under \u00a7\u20091005.30(g).",
-            "label":[
-                "1005",
-                "30",
-                "g",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-32-c-3-i":{
         "text":[
             [
@@ -5670,6 +5503,9 @@
             ]
         ],
         "op":"modified"
+    },
+    "1005-A-31-h2-p27":{
+        "op":"deleted"
     },
     "1005-19-b-2-Interp-1":{
         "node":{
@@ -5821,52 +5657,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1005-A-5-p19":{
-        "text":[
-            [
-                [
-                    "delete",
-                    212,
-                    218
-                ],
-                [
-                    "insert",
-                    212,
-                    "ATM) (a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    223,
-                    238
-                ],
-                [
-                    "insert",
-                    223,
-                    "terminal)] [when"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    272,
-                    281
-                ],
-                [
-                    "insert",
-                    272,
-                    "ATM] [when"
-                ]
-            ],
-            [
-                "insert",
-                333,
-                " This information, along with a 12-month history of account transactions, is also available online at [Internet address]."
-            ]
-        ],
-        "op":"modified"
     },
     "1005-18-b-2-xi-C":{
         "node":{
@@ -6072,64 +5862,6 @@
     },
     "1005-A-34-h4-p100":{
         "op":"deleted"
-    },
-    "1005-A-5-p26":{
-        "text":[
-            [
-                [
-                    "delete",
-                    8,
-                    43
-                ],
-                [
-                    "insert",
-                    8,
-                    "tell you the results"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    51,
-                    53
-                ],
-                [
-                    "insert",
-                    51,
-                    "three"
-                ]
-            ],
-            [
-                "insert",
-                74,
-                "completing our investigation. If "
-            ],
-            [
-                [
-                    "delete",
-                    77,
-                    86
-                ],
-                [
-                    "insert",
-                    77,
-                    "decide that there was no error, we will send"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    91,
-                    585
-                ],
-                [
-                    "insert",
-                    91,
-                    "a written explanation."
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1005-19-d-Interp-1":{
         "node":{
@@ -6409,22 +6141,20 @@
         },
         "op":"added"
     },
-    "1005-19-b-3-Interp":{
+    "1005-A-7-b-p11":{
         "node":{
             "tagged_text":null,
-            "title":"19(b)(3)\u2003Withdrawal of Agreements No Longer Offered",
-            "text":"",
+            "title":null,
+            "text":"If you need more information about our error-resolution procedures, call us at [telephone number] [the telephone number shown above] [or visit [Internet address]].",
             "label":[
                 "1005",
-                "19",
+                "A",
+                "7",
                 "b",
-                "3",
-                "Interp"
+                "p11"
             ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-19-b-3-Interp-1"
-            ]
+            "node_type":"appendix",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -8141,6 +7871,33 @@
         ],
         "op":"modified"
     },
+    "1005-A-7-a-p2":{
+        "text":[
+            [
+                "insert",
+                0,
+                "[For accounts that are or can be registered:] [If your account is registered with us,] "
+            ],
+            [
+                "insert",
+                34,
+                "at least 24 months of written history of account transactions by calling [telephone number], or by writing us at [address]. You will not be charged "
+            ],
+            [
+                [
+                    "delete",
+                    36,
+                    144
+                ],
+                [
+                    "insert",
+                    36,
+                    "fee for this information unless you request it more than once per month."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1005-36-d":{
         "node":{
             "tagged_text":null,
@@ -8160,6 +7917,47 @@
             ]
         },
         "op":"added"
+    },
+    "1005-A-7-a-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    80,
+                    92
+                ],
+                [
+                    "insert",
+                    80,
+                    "prepaid"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    163,
+                    169
+                ],
+                [
+                    "insert",
+                    163,
+                    "12-month"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    231,
+                    240
+                ],
+                [
+                    "insert",
+                    231,
+                    "[Internet"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-33-c-Interp-12-iii":{
         "node":{
@@ -8945,6 +8743,108 @@
     },
     "1005-A-32-p69":{
         "op":"deleted"
+    },
+    "1005-A-5-a-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    212,
+                    218
+                ],
+                [
+                    "insert",
+                    212,
+                    "ATM) (a"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    223,
+                    238
+                ],
+                [
+                    "insert",
+                    223,
+                    "terminal)] [when"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    272,
+                    281
+                ],
+                [
+                    "insert",
+                    272,
+                    "ATM] [when"
+                ]
+            ],
+            [
+                "insert",
+                333,
+                " This information, along with a 12-month history of account transactions, is also available online at [Internet address]."
+            ]
+        ],
+        "op":"modified"
+    },
+    "1005-A-5-a-p2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    27,
+                    34
+                ],
+                [
+                    "insert",
+                    27,
+                    "obtain at least 24 months of written history of account transactions by calling [telephone number], or by writing to us at [address]. You will not be charged"
+                ]
+            ],
+            [
+                "insert",
+                37,
+                "fee for this information unless you request it more than once per month. [Optional: Or you may request a "
+            ],
+            [
+                [
+                    "delete",
+                    45,
+                    52
+                ],
+                [
+                    "insert",
+                    45,
+                    "history"
+                ]
+            ],
+            [
+                "insert",
+                56,
+                "account "
+            ],
+            [
+                [
+                    "delete",
+                    69,
+                    94
+                ],
+                [
+                    "insert",
+                    69,
+                    "by contacting"
+                ]
+            ],
+            [
+                "delete",
+                100,
+                200
+            ]
+        ],
+        "op":"modified"
     },
     "1005-12-a-Interp-1-ii-A":{
         "op":"deleted"
@@ -10076,98 +9976,37 @@
         },
         "op":"added"
     },
-    "1005-A-7-p43":{
+    "1005-15-d-Interp-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation.",
+            "text":"Access to account information.For guidance, see comments 18(c)-1 through -3 and 18(c)-5 through -9.",
             "label":[
                 "1005",
-                "A",
-                "7",
-                "p43"
+                "15",
+                "d",
+                "Interp",
+                "1"
             ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
     },
-    "1005-A-7-p42":{
+    "1005-33-c-Interp-12-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error.",
+            "text":"A sender instructs a remittance transfer provider to send US$100 to a designated recipient in a foreign country, for which the provider charges a transfer fee of US$10 (and thus the sender pays the provider US$110) and an intermediary institution charges a lifting fee of US$5, such that the designated recipient is expected to receive only US$95, as indicated in the receipt.  If an error occurs because the sender provides incorrect or insufficient information that results in non-delivery of the remittance transfer by the date of availability stated in the disclosure provided to the sender for the remittance transfer under \u00a7 1005.31(b)(2) or (3), the provider is required to refund, or reapply if requested and the provider agrees, $105 unless the intermediary institution refunds to the provider the US$5 fee.  If the sender requests to have the transfer amount applied to a new remittance transfer pursuant to \u00a7 1005.33(c)(2)(iii) and provides the corrected or additional information, and the remittance transfer provider agrees to a resend remedy, the remittance transfer provider may charge the sender another transfer fee of US$10 to send the remittance transfer again with the corrected or additional information necessary to complete the transfer.  Insofar as the resend is an entirely new remittance transfer, the provider must provide a prepayment disclosure and receipt or combined disclosure in accordance with, among other provisions, the timing requirements of \u00a7 1005.31(f) and the cancellation provision of \u00a7 1005.34(a).",
             "label":[
                 "1005",
-                "A",
-                "7",
-                "p42"
+                "33",
+                "c",
+                "Interp",
+                "12",
+                "ii"
             ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-A-7-p41":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, [and your account is registered with us,] we will credit your account within 10 business days for the amount you think is in error, so that you will have the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account. [Keep reading to learn more about how to register your card.] .",
-            "label":[
-                "1005",
-                "A",
-                "7",
-                "p41"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-A-7-p40":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days. .",
-            "label":[
-                "1005",
-                "A",
-                "7",
-                "p40"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-A-7-p45":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"If you need more information about our error-resolution procedures, call us at [telephone number] [the telephone number shown above] [or visit [Internet address]].",
-            "label":[
-                "1005",
-                "A",
-                "7",
-                "p45"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-A-7-p44":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"You may ask for copies of the documents that we used in our investigation.",
-            "label":[
-                "1005",
-                "A",
-                "7",
-                "p44"
-            ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -10495,8 +10334,41 @@
         },
         "op":"added"
     },
+    "1005-A-5-b-p6":{
+        "text":[
+            [
+                "insert",
+                0,
+                "If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days. "
+            ],
+            [
+                "insert",
+                585,
+                " For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error."
+            ]
+        ],
+        "op":"modified"
+    },
     "1005-A-34-h4-p88":{
         "op":"deleted"
+    },
+    "1005-19-a-7-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Open account.A prepaid account is an open account if (i) there is an outstanding balance in the account; (ii) the consumer can load more funds to the account even if the account does not currently hold a balance; or (iii) the consumer can access credit from a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61, in connection with a prepaid account. Under this definition, an account that meets any of these criteria is considered to be open even if the account is deemed inactive by the issuer.",
+            "label":[
+                "1005",
+                "19",
+                "a",
+                "7",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-18-c-1-ii":{
         "text":[
@@ -10716,6 +10588,23 @@
     },
     "1005-A-34-h4-p89":{
         "op":"deleted"
+    },
+    "1005-A-7-b-p2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    14,
+                    27
+                ],
+                [
+                    "insert",
+                    14,
+                    "[prepaid"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-A-30d-p1":{
         "node":{
@@ -10951,25 +10840,6 @@
                 "f"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-19-a-2-Interp-2-vi":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Changes to titles, headings, section numbers, or captions.",
-            "label":[
-                "1005",
-                "19",
-                "a",
-                "2",
-                "Interp",
-                "2",
-                "vi"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -12087,22 +11957,6 @@
         },
         "op":"added"
     },
-    "1005-A-7-p36":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"In Case of Errors or Questions About Your Prepaid Account Telephone us at [telephone number] or Write us at [address] [or email us at [email address]] as soon as you can, if you think an error has occurred in your prepaid account. We must allow you to report an error until 60 days after the earlier of the date you electronically access your account, if the error could be viewed in your electronic history, or the date we sent the FIRST written history on which the error appeared. You may request a written history of your transactions at any time by calling us at [telephone number] or writing us at [address]. You will need to tell us:",
-            "label":[
-                "1005",
-                "A",
-                "7",
-                "p36"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-31-b-1-vi-Interp-2":{
         "op":"deleted"
     },
@@ -12186,22 +12040,6 @@
         },
         "op":"added"
     },
-    "1005-A-7-p35":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"[For accounts that are or can be registered:] [If your account is registered with us,] You also have the right to obtain at least 24 months of written history of account transactions by calling [telephone number], or by writing us at [address]. You will not be charged a fee for this information unless you request it more than once per month.",
-            "label":[
-                "1005",
-                "A",
-                "7",
-                "p35"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-12-a-Interp-1-ii-D":{
         "op":"deleted"
     },
@@ -12270,21 +12108,20 @@
     "1005-A-36-p148-p152":{
         "op":"deleted"
     },
-    "1005-15-f-Interp":{
+    "1005-30-g-Interp-3":{
         "node":{
             "tagged_text":null,
-            "title":"15(f)\u2003Disclosure of Fees and Other Information.",
-            "text":"",
+            "title":null,
+            "text":"Non-consumer accounts.A transfer that is requested to be sent from an account that was not established primarily for personal, family, or household purposes, such as an account that was established as a business or commercial account or an account held by a business entity such as a corporation, not-for-profit corporation, professional corporation, limited liability company, partnership, or sole proprietorship, is not requested primarily for personal, family, or household purposes. A consumer requesting a transfer from such an account therefore is not a sender under \u00a7\u20091005.30(g). Additionally, a transfer that is requested to be sent from an account held by a financial institution under a bona fide trust agreement pursuant to \u00a7\u20091005.2(b)(2) is not requested primarily for personal, family, or household purposes, and a consumer requesting a transfer from such an account is therefore not a sender under \u00a7\u20091005.30(g).",
             "label":[
                 "1005",
-                "15",
-                "f",
-                "Interp"
+                "30",
+                "g",
+                "Interp",
+                "3"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1005-15-f-Interp-1"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -12511,17 +12348,19 @@
         ],
         "op":"modified"
     },
-    "1005-15-d-Interp-1":{
+    "1005-19-a-2-Interp-2-vi":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Access to account information.For guidance, see comments 18(c)-1 through -3 and 18(c)-5 through -9.",
+            "text":"Changes to titles, headings, section numbers, or captions.",
             "label":[
                 "1005",
-                "15",
-                "d",
+                "19",
+                "a",
+                "2",
                 "Interp",
-                "1"
+                "2",
+                "vi"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -12638,6 +12477,23 @@
             "child_labels":[
                 "1005-19-a-7-Interp-1"
             ]
+        },
+        "op":"added"
+    },
+    "1005-A-7-c-p1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"It is important to register your prepaid account as soon as possible. Unless you register your account, we may not credit your account in the amount you think is in error until we complete our investigation. To register your account, go to [Internet address] or call us at [telephone number]. We will ask you for identifying information about yourself (including your full name, address, date of birth, and [Social Security Number] [government-issued identification number]), so that we can verify your identity.",
+            "label":[
+                "1005",
+                "A",
+                "7",
+                "c",
+                "p1"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -12783,38 +12639,6 @@
         },
         "op":"added"
     },
-    "1005-A-7-p37":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Your name and [prepaid account] number.",
-            "label":[
-                "1005",
-                "A",
-                "7",
-                "p37"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-A-7-p34":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"You may obtain information about the amount of money you have remaining in your prepaid account by calling [telephone number]. This information, along with a 12-month history of account transactions, is also available online at [Internet address].",
-            "label":[
-                "1005",
-                "A",
-                "7",
-                "p34"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-18-h-2-ii-A":{
         "node":{
             "tagged_text":null,
@@ -12836,35 +12660,21 @@
     "1005-A-31-h2":{
         "op":"deleted"
     },
-    "1005-A-7-p38":{
+    "1005-15-f-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Why you believe there is an error, and the dollar amount involved.",
+            "title":"15(f)\u2003Disclosure of Fees and Other Information.",
+            "text":"",
             "label":[
                 "1005",
-                "A",
-                "7",
-                "p38"
+                "15",
+                "f",
+                "Interp"
             ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-A-7-p39":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Approximately when the error took place.",
-            "label":[
-                "1005",
-                "A",
-                "7",
-                "p39"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1005-15-f-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -14256,6 +14066,9 @@
         },
         "op":"added"
     },
+    "1005-A-35-p114":{
+        "op":"deleted"
+    },
     "1005-3-a":{
         "text":[
             [
@@ -14463,25 +14276,6 @@
                 "1005-18-e-3-ii",
                 "1005-18-e-3-iii"
             ]
-        },
-        "op":"added"
-    },
-    "1005-32-b-1-Interp-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The laws of the recipient country do not permit a remittance transfer provider to determine the exact exchange rate required to be disclosed under \u00a7 1005.31(b)(1)(iv) when, for example, the government of the recipient country, on a daily basis, sets the exchange rate that must, by law, apply to funds received and the funds are made available to the designated recipient in the local currency the day after the remittance transfer provider sends the remittance transfer.",
-            "label":[
-                "1005",
-                "32",
-                "b",
-                "1",
-                "Interp",
-                "2",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -15045,16 +14839,16 @@
     "1005-A-7-a":{
         "text":[
             [
-                "delete",
-                3,
-                135
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Disclosure by financial institutions of information about obtaining account information for prepaid accounts (\u00a71005.18(d)(1)(i))."
+                [
+                    "delete",
+                    96,
+                    135
+                ],
+                [
+                    "insert",
+                    96,
+                    "prepaid accounts (\u00a71005.18(d)(1)(i))."
+                ]
             ]
         ],
         "op":"modified"
@@ -15062,8 +14856,8 @@
     "1005-A-7-c":{
         "node":{
             "tagged_text":null,
-            "title":"Warning regarding unregistered prepaid accounts (\u00a7\u20091005.18(e)(3)).",
-            "text":"c It is important to register your prepaid account as soon as possible. Unless you register your account, we may not credit your account in the amount you think is in error until we complete our investigation. To register your account, go to [Internet address] or call us at [telephone number]. We will ask you for identifying information about yourself (including your full name, address, date of birth, and [Social Security Number] [government-issued identification number]), so that we can verify your identity.",
+            "title":null,
+            "text":"(c) Warning regarding unregistered prepaid accounts (\u00a7\u20091005.18(e)(3)).",
             "label":[
                 "1005",
                 "A",
@@ -15071,36 +14865,57 @@
                 "c"
             ],
             "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1005-A-7-c-p1"
+            ]
         },
         "op":"added"
     },
     "1005-A-7-b":{
-        "node":{
-            "tagged_text":null,
-            "title":"Disclosure of error-resolution procedures for financial institutions that do not provide periodic statements (\u00a7 1005.18(d)(1)(ii) and (d)(2).",
-            "text":"(b)",
-            "label":[
-                "1005",
-                "A",
-                "7",
-                "b"
+        "text":[
+            [
+                "insert",
+                78,
+                "do not "
             ],
-            "node_type":"appendix",
-            "child_labels":[
-                "1005-A-7-p36",
-                "1005-A-7-p37",
-                "1005-A-7-p38",
-                "1005-A-7-p39",
-                "1005-A-7-p40",
-                "1005-A-7-p41",
-                "1005-A-7-p42",
-                "1005-A-7-p43",
-                "1005-A-7-p44",
-                "1005-A-7-p45"
+            [
+                [
+                    "delete",
+                    86,
+                    149
+                ],
+                [
+                    "insert",
+                    86,
+                    "periodic statements"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    153,
+                    170
+                ],
+                [
+                    "insert",
+                    153,
+                    "1005.18(d)(1)(ii)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    175,
+                    183
+                ],
+                [
+                    "insert",
+                    175,
+                    "(d)(2)."
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1005-A-35-p113":{
         "op":"deleted"
@@ -15793,6 +15608,24 @@
         },
         "op":"added"
     },
+    "1005-32-b-1-Interp-5":{
+        "node":{
+            "tagged_text":null,
+            "title":"Safe harbor list.",
+            "text":"If a country is included on a safe harbor list published by the Bureau under \u00a7 1005.32(b)(1)(ii), a remittance transfer provider may provide estimates of the amounts to be disclosed under \u00a7 1005.31(b)(1)(iv) through (b)(1)(vii). If a country does not appear on the Bureau's list, a remittance transfer provider may provide estimates under \u00a7 1005.32(b)(1)(i) if the provider determines that the recipient country does not legally permit or method by which transactions are conducted in that country does not permit the provider to determine exact disclosure amounts.",
+            "label":[
+                "1005",
+                "32",
+                "b",
+                "1",
+                "Interp",
+                "5"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-18-f-1":{
         "node":{
             "tagged_text":null,
@@ -15827,6 +15660,40 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1005-A-5-b-p8":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    16
+                ],
+                [
+                    "insert",
+                    0,
+                    "You may ask for copies of"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    21,
+                    72
+                ],
+                [
+                    "insert",
+                    21,
+                    "documents that we used in"
+                ]
+            ],
+            [
+                "delete",
+                91,
+                244
+            ]
+        ],
+        "op":"modified"
     },
     "1005-33-a-1-iv-B":{
         "text":[
@@ -15867,47 +15734,245 @@
         },
         "op":"added"
     },
-    "1005-30-f-Interp-2-iv":{
-        "node":{
-            "tagged_text":null,
-            "title":"Example of safe harbor and transition period.",
-            "text":"Assume that a person provided 90 remittance transfers in 2012 and 90 such transfers in 2013. The safe harbor will apply to the person's transfers in 2013, as well as the person's first 100 remittance transfers in 2014. However, if the person provides a 101st transfer on September 5, the facts and circumstances determine whether the person provides remittance transfers in the normal course of business and is thus a remittance transfer provider for the 101st and any subsequent remittance transfers that it provides in 2014. Furthermore, the person would not qualify for the safe harbor described in \u00a7 1005.30(f)(2)(i) in 2015 because the person did not provide 100 or fewer remittance transfers in 2014. However, for the 101st remittance transfer provided in 2014, as well as additional remittance transfers provided thereafter in 2014 and 2015, if that person is then providing remittance transfers for a consumer in the normal course of business, the person will have a reasonable period of time, not to exceed six months, to come into compliance with subpart B. Assume that in this case, a reasonable period of time is six months. Thus, compliance with subpart B is not required for remittance transfers made on or before March 5, 2015 (i.e., six months after September 5, 2014). After March 5, 2015, the person is required to comply with subpart B if, based on the facts and circumstances, the person provides remittance transfers in the normal course of business and is thus a remittance transfer provider.",
-            "label":[
-                "1005",
-                "30",
-                "f",
-                "Interp",
-                "2",
-                "iv"
+    "1005-A-5-b-p5":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    117
+                ],
+                [
+                    "insert",
+                    0,
+                    "\u2022 Approximately when the error took place."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1005-A-5-b-p4":{
+        "text":[
+            [
+                [
+                    "delete",
+                    2,
+                    20
+                ],
+                [
+                    "insert",
+                    2,
+                    "Why you believe there is an error, and"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    25,
+                    42
+                ],
+                [
+                    "insert",
+                    25,
+                    "dollar amount involved."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1005-A-5-b-p7":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    84
+                ],
+                [
+                    "insert",
+                    0,
+                    "We will tell you the results within three business days after completing our investigation. If"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    88,
+                    171
+                ],
+                [
+                    "insert",
+                    88,
+                    "decide that there was no error,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    175,
+                    244
+                ],
+                [
+                    "insert",
+                    175,
+                    "will send"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    249,
+                    267
+                ],
+                [
+                    "insert",
+                    249,
+                    "a written explanation."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-18-c-3-i":{
         "op":"deleted"
     },
-    "1005-19-a-7-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Open account.A prepaid account is an open account if (i) there is an outstanding balance in the account; (ii) the consumer can load more funds to the account even if the account does not currently hold a balance; or (iii) the consumer can access credit from a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61, in connection with a prepaid account. Under this definition, an account that meets any of these criteria is considered to be open even if the account is deemed inactive by the issuer.",
-            "label":[
-                "1005",
-                "19",
-                "a",
-                "7",
-                "Interp",
-                "1"
+    "1005-A-5-b-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    110,
+                    126
+                ],
+                [
+                    "insert",
+                    110,
+                    "[address]"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    143,
+                    156
+                ],
+                [
+                    "insert",
+                    143,
+                    "[email"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    230,
+                    244
+                ],
+                [
+                    "insert",
+                    230,
+                    "[agency\u2019s"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    280,
+                    307
+                ],
+                [
+                    "insert",
+                    280,
+                    "allow you to report an error until"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    322,
+                    331
+                ],
+                [
+                    "insert",
+                    322,
+                    "the earlier"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    339,
+                    345
+                ],
+                [
+                    "insert",
+                    339,
+                    "date you electronically access your account, if the error could be viewed in your electronic history, or the date we sent the FIRST written history on which the error appeared."
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    350,
+                    371
+                ],
+                [
+                    "insert",
+                    350,
+                    "may request a written history of your transactions at any time by calling us at [telephone number] or writing us at [address] [optional: or by contacting your caseworker]."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-A-33-h3-p78":{
         "op":"deleted"
+    },
+    "1005-A-5-b-p3":{
+        "text":[
+            [
+                [
+                    "delete",
+                    2,
+                    36
+                ],
+                [
+                    "insert",
+                    2,
+                    "Your name"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    41,
+                    68
+                ],
+                [
+                    "insert",
+                    41,
+                    "[case] [file] number."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1005-A-5-b-p2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    37
+                ],
+                [
+                    "insert",
+                    0,
+                    "You will need to tell us:"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-18-b-9":{
         "node":{

@@ -73,23 +73,27 @@
         },
         "op":"added"
     },
-    "1005-31-g-Interp-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A sender initiates a conversation with a remittance transfer provider with a greeting in English and expresses interest in sending a remittance transfer to Mexico in English. If the remittance transfer provider thereafter communicates with the sender in Spanish and the sender conveys the other information needed to complete the transaction, including the designated recipient's information and the amount and funding source of the transfer, in Spanish, then Spanish is the language primarily used by the sender with the remittance transfer provider to conduct the transaction.",
-            "label":[
-                "1005",
-                "31",
-                "g",
-                "Interp",
-                "2",
-                "i"
+    "1005-A-7-b-p6":{
+        "text":[
+            [
+                [
+                    "delete",
+                    253,
+                    260
+                ],
+                [
+                    "insert",
+                    253,
+                    "[and your account is registered with us,] we will"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                "insert",
+                574,
+                " [Keep reading to learn more about how to register your card.]"
+            ]
+        ],
+        "op":"modified"
     },
     "1005-36-d-4":{
         "node":{
@@ -124,6 +128,35 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1005-A-7-b-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    42,
+                    54
+                ],
+                [
+                    "insert",
+                    42,
+                    "Prepaid"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    219,
+                    231
+                ],
+                [
+                    "insert",
+                    219,
+                    "prepaid"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-18-b-9-i-B-Interp-1":{
         "node":{
@@ -281,21 +314,21 @@
         },
         "op":"added"
     },
-    "1005-18-b-2-ix-B-Interp-1-ii":{
+    "1005-18-b-2-ix-E-3-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"A financial institution has a prepaid account program with four fee types that generate revenue from consumers, but none exceeds the de minimis threshold or otherwise satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A). Pursuant to \u00a7\u20091005.18(b)(2)(ix)(B), the financial institution is not required to make any disclosure, but it may choose to disclose one or two of the fee types that do not meet the criteria in \u00a7\u20091005.18(b)(2)(ix)(A).",
+            "title":"Revised prepaid account programs.",
+            "text":"Section 1005.18(b)(2)(ix)(E)(3) requires that if a financial institution revises the fee schedule for a prepaid account program, it must determine whether it reasonably anticipates that the previously disclosed additional fee types will continue to comply with the requirements of \u00a7\u20091005.18(b)(2)(ix) for the 24 months following implementation of the fee schedule change. A fee schedule change resets the 24-month period for assessment; a financial institution must comply with the requirements of \u00a7\u20091005.18(b)(2)(ix)(E)(2) at the end of the 24-month period following implementation of the fee schedule change. If the financial institution reasonably anticipates that the previously disclosed additional fee types will not comply with the requirements of \u00a7\u20091005.18(b)(2)(ix), it must update the disclosure based on its reasonable anticipation of what those additional fee types will be at the time the fee schedule change goes into effect, except as provided in the update printing exception in \u00a7\u20091005.18(b)(2)(ix)(E)(4). For example, if a financial institution lowers its card replacement fee from $4 to $3 on June 1, 2019 after having first assessed its additional fee types disclosure as of April 1, 2019, the financial institution would assess whether it reasonably anticipates that the existing additional fee types disclosure will continue to reflect the additional fee types that generate the highest revenue from consumers for that prepaid account program for the next 24 months (until June 1, 2021). If the financial institution reasonably anticipates that its additional fee types will remain unchanged over the next 24 months, the financial institution is not required to take any action with regard to the additional fee types disclosure for that prepaid account program. In the same example, if the financial institution reasonably anticipates that the previously disclosed additional fee types will not comply with the requirements of \u00a7\u20091005.18(b)(2)(ix) for the 24 months following implementation of the fee schedule change, the financial institution must update the listing of additional fee types at the time the fee schedule change goes into effect, except as provided in the update printing exception pursuant to \u00a7\u20091005.18(b)(2)(ix)(E)(4).",
             "label":[
                 "1005",
                 "18",
                 "b",
                 "2",
                 "ix",
-                "B",
+                "E",
+                "3",
                 "Interp",
-                "1",
-                "ii"
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -726,6 +759,23 @@
         },
         "op":"added"
     },
+    "1005-A-7-b-p2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    14,
+                    27
+                ],
+                [
+                    "insert",
+                    14,
+                    "[prepaid"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1005-36-b-1":{
         "node":{
             "tagged_text":null,
@@ -939,94 +989,25 @@
         ],
         "op":"modified"
     },
-    "1005-A-5-p21":{
-        "text":[
-            [
-                [
-                    "delete",
-                    110,
-                    126
-                ],
-                [
-                    "insert",
-                    110,
-                    "[address]"
-                ]
+    "1005-18-b-9-i-C-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The financial institution principally uses a foreign language in an online advertisement for a prepaid account. That advertisement includes a website URL through which a consumer can acquire the prepaid account.",
+            "label":[
+                "1005",
+                "18",
+                "b",
+                "9",
+                "i",
+                "C",
+                "Interp",
+                "1"
             ],
-            [
-                [
-                    "delete",
-                    143,
-                    156
-                ],
-                [
-                    "insert",
-                    143,
-                    "[email"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    230,
-                    244
-                ],
-                [
-                    "insert",
-                    230,
-                    "[agency\u2019s"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    280,
-                    307
-                ],
-                [
-                    "insert",
-                    280,
-                    "allow you to report an error until"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    322,
-                    331
-                ],
-                [
-                    "insert",
-                    322,
-                    "the earlier"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    339,
-                    345
-                ],
-                [
-                    "insert",
-                    339,
-                    "date you electronically access your account, if the error could be viewed in your electronic history, or the date we sent the FIRST written history on which the error appeared."
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    350,
-                    371
-                ],
-                [
-                    "insert",
-                    350,
-                    "may request a written history of your transactions at any time by calling us at [telephone number] or writing us at [address] [optional: or by contacting your caseworker]."
-                ]
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-A-10-f-p1":{
         "node":{
@@ -1045,47 +1026,6 @@
         },
         "op":"added"
     },
-    "1005-A-5-p27":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    84
-                ],
-                [
-                    "insert",
-                    0,
-                    "You may ask for copies of the documents that"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    88,
-                    257
-                ],
-                [
-                    "insert",
-                    88,
-                    "used"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    261,
-                    267
-                ],
-                [
-                    "insert",
-                    261,
-                    "our investigation."
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1005-18-f-3":{
         "node":{
             "tagged_text":null,
@@ -1101,16 +1041,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1005-A-5-p25":{
-        "text":[
-            [
-                "insert",
-                117,
-                " We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will credit your account within 10 business days for the amount you think is in error, so that you will have the use of the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account. For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error."
-            ]
-        ],
-        "op":"modified"
     },
     "1005-36-d-2-ii":{
         "node":{
@@ -1146,49 +1076,27 @@
         },
         "op":"added"
     },
-    "1005-A-5-p29":{
-        "op":"deleted"
-    },
-    "1005-A-5-p28":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    12
-                ],
-                [
-                    "insert",
-                    0,
-                    "If"
-                ]
+    "1005-30-e-Interp-3-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The term remittance transfer does not include, for example:",
+            "label":[
+                "1005",
+                "30",
+                "e",
+                "Interp",
+                "3",
+                "ii"
             ],
-            [
-                [
-                    "delete",
-                    17,
-                    72
-                ],
-                [
-                    "insert",
-                    17,
-                    "need more information about"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    77,
-                    244
-                ],
-                [
-                    "insert",
-                    77,
-                    "error resolution procedures, call us at [telephone number][the telephone number shown above]."
-                ]
+            "node_type":"interp",
+            "child_labels":[
+                "1005-30-e-Interp-3-ii-A",
+                "1005-30-e-Interp-3-ii-B",
+                "1005-30-e-Interp-3-ii-C"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1005-30-e-Interp-3":{
         "node":{
@@ -1324,6 +1232,27 @@
                 "f",
                 "Interp",
                 "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-18-b-2-ix-E-4-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Application of the update printing exception to prepaid accounts sold in retail locations.",
+            "text":"Pursuant to \u00a7\u20091005.18(b)(2)(ix)(E)(4), notwithstanding the requirements to update the additional fee types disclosure in \u00a7\u20091005.18(b)(2)(ix)(E), a financial institution is not required to update the listing of additional fee types that are provided on, in, or with prepaid account packaging materials that were manufactured, printed, or otherwise produced prior to a periodic reassessment and update pursuant to \u00a7\u20091005.18(b)(2)(ix)(E)(2) or prior to a fee schedule change pursuant to \u00a7\u20091005.18(b)(2)(ix)(E)(3). For prepaid accounts sold in retail locations, for example, \u00a7\u20091005.18(b)(2)(ix)(E)(4) permits a financial institution to implement any necessary updates to the listing of the additional fee types on the short form disclosure that appear on its physical prepaid account packaging materials at the time the financial institution prints new materials. Section 1005.18(b)(2)(ix)(E)(4) does not require financial institutions to destroy existing inventory in retail locations or elsewhere in the distribution channel, to the extent the disclosures on such packaging materials are otherwise accurate, to comply with this requirement. For example, a financial institution determines that an additional fee type listed on a short form disclosure in a retail location no longer qualifies as an additional fee type pursuant to \u00a7\u20091005.18(b)(2)(ix). The financial institution must update any electronic and oral short form disclosures pursuant to the timing requirements set forth in \u00a7\u20091005.18(b)(2)(ix)(E). Pursuant to \u00a7\u20091005.18(b)(2)(ix)(E)(4), the financial institution may continue selling any previously printed prepaid account packages that contain the prior listing of additional fee types; prepaid account packages printed after that time must contain the updated listing of additional fee types.",
+            "label":[
+                "1005",
+                "18",
+                "b",
+                "2",
+                "ix",
+                "E",
+                "4",
+                "Interp",
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -1587,6 +1516,30 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-18-b-2-ix-A-Interp-5":{
+        "node":{
+            "tagged_text":null,
+            "title":"Exclusions.",
+            "text":"Once the financial institution has calculated the fee revenue data for the prepaid account program or across prepaid account programs that share the same fee schedule during the appropriate time period, it must remove from consideration the categories excluded pursuant to \u00a7\u20091005.18(b)(2)(ix)(A)(1) through (3) before determining the fee types, if any, that generated the highest revenue.",
+            "label":[
+                "1005",
+                "18",
+                "b",
+                "2",
+                "ix",
+                "A",
+                "Interp",
+                "5"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-18-b-2-ix-A-Interp-5-i",
+                "1005-18-b-2-ix-A-Interp-5-ii",
+                "1005-18-b-2-ix-A-Interp-5-iii"
+            ]
         },
         "op":"added"
     },
@@ -2001,27 +1954,6 @@
         },
         "op":"added"
     },
-    "1005-18-b-2-ix-E-3-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Revised prepaid account programs.",
-            "text":"Section 1005.18(b)(2)(ix)(E)(3) requires that if a financial institution revises the fee schedule for a prepaid account program, it must determine whether it reasonably anticipates that the previously disclosed additional fee types will continue to comply with the requirements of \u00a7\u20091005.18(b)(2)(ix) for the 24 months following implementation of the fee schedule change. A fee schedule change resets the 24-month period for assessment; a financial institution must comply with the requirements of \u00a7\u20091005.18(b)(2)(ix)(E)(2) at the end of the 24-month period following implementation of the fee schedule change. If the financial institution reasonably anticipates that the previously disclosed additional fee types will not comply with the requirements of \u00a7\u20091005.18(b)(2)(ix), it must update the disclosure based on its reasonable anticipation of what those additional fee types will be at the time the fee schedule change goes into effect, except as provided in the update printing exception in \u00a7\u20091005.18(b)(2)(ix)(E)(4). For example, if a financial institution lowers its card replacement fee from $4 to $3 on June 1, 2019 after having first assessed its additional fee types disclosure as of April 1, 2019, the financial institution would assess whether it reasonably anticipates that the existing additional fee types disclosure will continue to reflect the additional fee types that generate the highest revenue from consumers for that prepaid account program for the next 24 months (until June 1, 2021). If the financial institution reasonably anticipates that its additional fee types will remain unchanged over the next 24 months, the financial institution is not required to take any action with regard to the additional fee types disclosure for that prepaid account program. In the same example, if the financial institution reasonably anticipates that the previously disclosed additional fee types will not comply with the requirements of \u00a7\u20091005.18(b)(2)(ix) for the 24 months following implementation of the fee schedule change, the financial institution must update the listing of additional fee types at the time the fee schedule change goes into effect, except as provided in the update printing exception pursuant to \u00a7\u20091005.18(b)(2)(ix)(E)(4).",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "2",
-                "ix",
-                "E",
-                "3",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-33-h-4":{
         "node":{
             "tagged_text":null,
@@ -2254,6 +2186,23 @@
                 "Interp",
                 "3",
                 "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-30-b-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Short hours.",
+            "text":"A provider may determine, at its election, whether an abbreviated day is a business day. For example, if a provider engages in substantially all business functions until noon on Saturdays instead of its usual 3 p.m. closing, it may consider Saturday a business day.",
+            "label":[
+                "1005",
+                "30",
+                "b",
+                "Interp",
+                "3"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -5647,24 +5596,6 @@
         ],
         "op":"modified"
     },
-    "1005-33-c-Interp-12-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A sender instructs a remittance transfer provider to send US$100 to a designated recipient in a foreign country, for which the provider charges a transfer fee of US$10 (and thus the sender pays the provider US$110) and an intermediary institution charges a lifting fee of US$5, such that the designated recipient is expected to receive only US$95, as indicated in the receipt.  If an error occurs because the sender provides incorrect or insufficient information that results in non-delivery of the remittance transfer by the date of availability stated in the disclosure provided to the sender for the remittance transfer under \u00a7 1005.31(b)(2) or (3), the provider is required to refund, or reapply if requested and the provider agrees, $105 unless the intermediary institution refunds to the provider the US$5 fee.  If the sender requests to have the transfer amount applied to a new remittance transfer pursuant to \u00a7 1005.33(c)(2)(iii) and provides the corrected or additional information, and the remittance transfer provider agrees to a resend remedy, the remittance transfer provider may charge the sender another transfer fee of US$10 to send the remittance transfer again with the corrected or additional information necessary to complete the transfer.  Insofar as the resend is an entirely new remittance transfer, the provider must provide a prepayment disclosure and receipt or combined disclosure in accordance with, among other provisions, the timing requirements of \u00a7 1005.31(f) and the cancellation provision of \u00a7 1005.34(a).",
-            "label":[
-                "1005",
-                "33",
-                "c",
-                "Interp",
-                "12",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-A-5":{
         "title":[
             [
@@ -7307,52 +7238,6 @@
         },
         "op":"added"
     },
-    "1005-A-5-p19":{
-        "text":[
-            [
-                [
-                    "delete",
-                    212,
-                    218
-                ],
-                [
-                    "insert",
-                    212,
-                    "ATM) (a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    223,
-                    238
-                ],
-                [
-                    "insert",
-                    223,
-                    "terminal)] [when"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    272,
-                    281
-                ],
-                [
-                    "insert",
-                    272,
-                    "ATM] [when"
-                ]
-            ],
-            [
-                "insert",
-                333,
-                " This information, along with a 12-month history of account transactions, is also available online at [Internet address]."
-            ]
-        ],
-        "op":"modified"
-    },
     "1005-31-b-1-viii":{
         "node":{
             "tagged_text":null,
@@ -7401,26 +7286,6 @@
                 "A"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-18-b-9-i-C-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The financial institution principally uses a foreign language in an online advertisement for a prepaid account. That advertisement includes a website URL through which a consumer can acquire the prepaid account.",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "9",
-                "i",
-                "C",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -7500,62 +7365,6 @@
         },
         "op":"added"
     },
-    "1005-A-5-p20":{
-        "text":[
-            [
-                [
-                    "delete",
-                    27,
-                    34
-                ],
-                [
-                    "insert",
-                    27,
-                    "obtain at least 24 months of written history of account transactions by calling [telephone number], or by writing to us at [address]. You will not be charged"
-                ]
-            ],
-            [
-                "insert",
-                37,
-                "fee for this information unless you request it more than once per month. [Optional: Or you may request a "
-            ],
-            [
-                [
-                    "delete",
-                    45,
-                    52
-                ],
-                [
-                    "insert",
-                    45,
-                    "history"
-                ]
-            ],
-            [
-                "insert",
-                56,
-                "account "
-            ],
-            [
-                [
-                    "delete",
-                    69,
-                    94
-                ],
-                [
-                    "insert",
-                    69,
-                    "by contacting"
-                ]
-            ],
-            [
-                "delete",
-                100,
-                200
-            ]
-        ],
-        "op":"modified"
-    },
     "1005-32-b-1-Interp-4-i":{
         "node":{
             "tagged_text":null,
@@ -7626,64 +7435,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1005-A-5-p26":{
-        "text":[
-            [
-                [
-                    "delete",
-                    8,
-                    43
-                ],
-                [
-                    "insert",
-                    8,
-                    "tell you the results"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    51,
-                    53
-                ],
-                [
-                    "insert",
-                    51,
-                    "three"
-                ]
-            ],
-            [
-                "insert",
-                74,
-                "completing our investigation. If "
-            ],
-            [
-                [
-                    "delete",
-                    77,
-                    86
-                ],
-                [
-                    "insert",
-                    77,
-                    "decide that there was no error, we will send"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    91,
-                    585
-                ],
-                [
-                    "insert",
-                    91,
-                    "a written explanation."
-                ]
-            ]
-        ],
-        "op":"modified"
     },
     "1005-19-d-Interp-1":{
         "node":{
@@ -9154,21 +8905,19 @@
         },
         "op":"added"
     },
-    "1005-18-b-2-ix-C-Interp-1-iii":{
+    "1005-18-b-1-ii-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":" Two fee variations with like fee amounts.",
-            "text":"A financial institution offers two methods of check reload for which it charges a fee\u2014depositing checks at an ATM and depositing checks with a teller at the financial institution's branch locations. There is a fee of $0.50 for both methods of check deposit. The financial institution must calculate the total revenue generated from both of these check reload methods during the required time period to determine whether it must disclose this fee type as an additional fee type pursuant to \u00a7\u20091005.18(b)(2)(ix). Because the fee amounts are the same for the two methods of check deposit, if the fee type is required to be disclosed as an additional fee type, the financial institution's options for disclosing this fee type in accordance with \u00a7\u20091005.18(b)(2)(ix)(C) and (b)(3)(iii) include: \u201cCheck reload (ATM or teller check dep)\u201d and the fee amount as \u201c$0.50\u201d or \u201cCheck reload\u201d and the fee amount as \u201c$0.50\u201d.",
+            "title":"Retail locations.",
+            "text":"Section 1005.18(b)(1)(ii) sets forth an alternative timing regime for pre-acquisition disclosures for prepaid accounts acquired in person at retail locations. For purposes of \u00a7\u20091005.18(b)(1)(ii), a retail location is a store or other physical site where a consumer can purchase a prepaid account in person and that is operated by an entity other than the financial institution that issues the prepaid account. A branch of a financial institution that offers its own prepaid accounts is not a retail location with respect to those accounts and, thus, both the short form and the long form disclosure must be provided pre-acquisition pursuant to the timing requirement set forth in \u00a7\u20091005.18(b)(1)(i).",
             "label":[
                 "1005",
                 "18",
                 "b",
-                "2",
-                "ix",
-                "C",
-                "Interp",
                 "1",
-                "iii"
+                "ii",
+                "Interp",
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -10691,29 +10440,32 @@
         },
         "op":"added"
     },
-    "1005-18-b-2-ix-A-Interp-5":{
-        "node":{
-            "tagged_text":null,
-            "title":"Exclusions.",
-            "text":"Once the financial institution has calculated the fee revenue data for the prepaid account program or across prepaid account programs that share the same fee schedule during the appropriate time period, it must remove from consideration the categories excluded pursuant to \u00a7\u20091005.18(b)(2)(ix)(A)(1) through (3) before determining the fee types, if any, that generated the highest revenue.",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "2",
-                "ix",
-                "A",
-                "Interp",
-                "5"
+    "1005-A-7-a-p2":{
+        "text":[
+            [
+                "insert",
+                0,
+                "[For accounts that are or can be registered:] [If your account is registered with us,] "
             ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-18-b-2-ix-A-Interp-5-i",
-                "1005-18-b-2-ix-A-Interp-5-ii",
-                "1005-18-b-2-ix-A-Interp-5-iii"
+            [
+                "insert",
+                34,
+                "at least 24 months of written history of account transactions by calling [telephone number], or by writing us at [address]. You will not be charged "
+            ],
+            [
+                [
+                    "delete",
+                    36,
+                    144
+                ],
+                [
+                    "insert",
+                    36,
+                    "fee for this information unless you request it more than once per month."
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1005-36-d":{
         "node":{
@@ -10735,24 +10487,34 @@
         },
         "op":"added"
     },
-    "1005-18-b-4-ii-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Disclosure of all fees.",
-            "text":"Section 1005.18(b)(4)(ii) requires a financial institution to disclose in the long form all fees that may be imposed in connection with a prepaid account, not just fees for electronic fund transfers or the right to make transfers. The requirement to disclose all fees in the long form includes any finance charges imposed on the prepaid account as described in Regulation Z, 12 CFR 1026.4(b)(11)(ii), in connection with a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in 12 CFR 1026.61 but does not include finance charges imposed on the covered separate credit feature as described in 12 CFR 1026.4(b)(11)(i). See comment 18(b)(7)(i)(B)-2 for guidance on disclosure of finance charges as part of the \u00a7\u20091005.18(b)(4)(ii) fee disclosure in the long form. A financial institution may also be required to include finance charges in the Regulation Z disclosures required pursuant to \u00a7\u20091005.18(b)(4)(vii).",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "4",
-                "ii",
-                "Interp",
-                "1"
+    "1005-A-7-a-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    80,
+                    92
+                ],
+                [
+                    "insert",
+                    80,
+                    "prepaid"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    163,
+                    169
+                ],
+                [
+                    "insert",
+                    163,
+                    "12-month"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-33-g-Interp-1":{
         "node":{
@@ -10836,6 +10598,27 @@
                 "1005-2-b-3-ii-Interp-3",
                 "1005-2-b-3-ii-Interp-4"
             ]
+        },
+        "op":"added"
+    },
+    "1005-18-b-2-ix-C-Interp-1-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":" Two fee variations with like fee amounts.",
+            "text":"A financial institution offers two methods of check reload for which it charges a fee\u2014depositing checks at an ATM and depositing checks with a teller at the financial institution's branch locations. There is a fee of $0.50 for both methods of check deposit. The financial institution must calculate the total revenue generated from both of these check reload methods during the required time period to determine whether it must disclose this fee type as an additional fee type pursuant to \u00a7\u20091005.18(b)(2)(ix). Because the fee amounts are the same for the two methods of check deposit, if the fee type is required to be disclosed as an additional fee type, the financial institution's options for disclosing this fee type in accordance with \u00a7\u20091005.18(b)(2)(ix)(C) and (b)(3)(iii) include: \u201cCheck reload (ATM or teller check dep)\u201d and the fee amount as \u201c$0.50\u201d or \u201cCheck reload\u201d and the fee amount as \u201c$0.50\u201d.",
+            "label":[
+                "1005",
+                "18",
+                "b",
+                "2",
+                "ix",
+                "C",
+                "Interp",
+                "1",
+                "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -10949,6 +10732,24 @@
                 "i"
             ],
             "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-18-b-Interp-3-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Telephone solicitations.",
+            "label":[
+                "1005",
+                "18",
+                "b",
+                "Interp",
+                "3",
+                "iii"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -11969,23 +11770,107 @@
         },
         "op":"added"
     },
-    "1005-18-b-Interp-3-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Telephone solicitations.",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "Interp",
-                "3",
-                "iii"
+    "1005-A-5-a-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    212,
+                    218
+                ],
+                [
+                    "insert",
+                    212,
+                    "ATM) (a"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    223,
+                    238
+                ],
+                [
+                    "insert",
+                    223,
+                    "terminal)] [when"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    272,
+                    281
+                ],
+                [
+                    "insert",
+                    272,
+                    "ATM] [when"
+                ]
+            ],
+            [
+                "insert",
+                333,
+                " This information, along with a 12-month history of account transactions, is also available online at [Internet address]."
+            ]
+        ],
+        "op":"modified"
+    },
+    "1005-A-5-a-p2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    27,
+                    34
+                ],
+                [
+                    "insert",
+                    27,
+                    "obtain at least 24 months of written history of account transactions by calling [telephone number], or by writing to us at [address]. You will not be charged"
+                ]
+            ],
+            [
+                "insert",
+                37,
+                "fee for this information unless you request it more than once per month. [Optional: Or you may request a "
+            ],
+            [
+                [
+                    "delete",
+                    45,
+                    52
+                ],
+                [
+                    "insert",
+                    45,
+                    "history"
+                ]
+            ],
+            [
+                "insert",
+                56,
+                "account "
+            ],
+            [
+                [
+                    "delete",
+                    69,
+                    94
+                ],
+                [
+                    "insert",
+                    69,
+                    "by contacting"
+                ]
+            ],
+            [
+                "delete",
+                100,
+                200
+            ]
+        ],
+        "op":"modified"
     },
     "1005-33-c-Interp-12-iii":{
         "node":{
@@ -12704,15 +12589,17 @@
         },
         "op":"added"
     },
-    "1005-34-b-Interp-1":{
+    "1005-18-b-4-ii-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Form of refund.",
-            "text":"At its discretion, a remittance transfer provider generally may issue a refund either in cash or in the same form of payment that was initially provided by the sender for the remittance transfer. For example, if the sender originally provided a credit card as payment for the transfer, the remittance transfer provider may issue a credit to the sender's credit card account in the amount of the payment. However, if a sender initially provided cash for the remittance transfer, a provider may issue a refund by check. For example, if the sender originally provided cash as payment for the transfer, the provider may mail a check to the sender in the amount of the payment.",
+            "title":"Disclosure of all fees.",
+            "text":"Section 1005.18(b)(4)(ii) requires a financial institution to disclose in the long form all fees that may be imposed in connection with a prepaid account, not just fees for electronic fund transfers or the right to make transfers. The requirement to disclose all fees in the long form includes any finance charges imposed on the prepaid account as described in Regulation Z, 12 CFR 1026.4(b)(11)(ii), in connection with a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in 12 CFR 1026.61 but does not include finance charges imposed on the covered separate credit feature as described in 12 CFR 1026.4(b)(11)(i). See comment 18(b)(7)(i)(B)-2 for guidance on disclosure of finance charges as part of the \u00a7\u20091005.18(b)(4)(ii) fee disclosure in the long form. A financial institution may also be required to include finance charges in the Regulation Z disclosures required pursuant to \u00a7\u20091005.18(b)(4)(vii).",
             "label":[
                 "1005",
-                "34",
+                "18",
                 "b",
+                "4",
+                "ii",
                 "Interp",
                 "1"
             ],
@@ -13477,28 +13364,6 @@
         },
         "op":"added"
     },
-    "1005-30-e-Interp-3-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The term remittance transfer does not include, for example:",
-            "label":[
-                "1005",
-                "30",
-                "e",
-                "Interp",
-                "3",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-30-e-Interp-3-ii-A",
-                "1005-30-e-Interp-3-ii-B",
-                "1005-30-e-Interp-3-ii-C"
-            ]
-        },
-        "op":"added"
-    },
     "1005-34-a-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -13681,24 +13546,6 @@
         },
         "op":"added"
     },
-    "1005-31-d-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"31(d) Estimates.",
-            "text":"",
-            "label":[
-                "1005",
-                "31",
-                "d",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-31-d-Interp-1"
-            ]
-        },
-        "op":"added"
-    },
     "1005-36-a-2":{
         "node":{
             "tagged_text":null,
@@ -13872,17 +13719,42 @@
         },
         "op":"added"
     },
-    "1005-A-7-p43":{
-        "op":"deleted"
+    "1005-31-b-1-vii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"31(b)(1)(vii) Amount Received.",
+            "text":"",
+            "label":[
+                "1005",
+                "31",
+                "b",
+                "1",
+                "vii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-31-b-1-vii-Interp-1"
+            ]
+        },
+        "op":"added"
     },
-    "1005-A-7-p42":{
-        "op":"deleted"
-    },
-    "1005-A-7-p41":{
-        "op":"deleted"
-    },
-    "1005-A-7-p40":{
-        "op":"deleted"
+    "1005-15-d-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Access to account information.For guidance, see comments 18(c)-1 through -3 and 18(c)-5 through -9.",
+            "label":[
+                "1005",
+                "15",
+                "d",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-18-b-2-iv-Interp-1":{
         "node":{
@@ -13903,11 +13775,44 @@
         },
         "op":"added"
     },
-    "1005-A-7-p45":{
-        "op":"deleted"
+    "1005-18-b-2-viii-A-Interp-2-ix":{
+        "node":{
+            "tagged_text":null,
+            "title":"Legal.",
+            "text":"Fees for legal process. Fee variations within this fee type may include fees for garnishments, attachments, levies, and other court or administrative orders against a prepaid account.",
+            "label":[
+                "1005",
+                "18",
+                "b",
+                "2",
+                "viii",
+                "A",
+                "Interp",
+                "2",
+                "ix"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
-    "1005-A-7-p44":{
-        "op":"deleted"
+    "1005-33-c-Interp-12-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A sender instructs a remittance transfer provider to send US$100 to a designated recipient in a foreign country, for which the provider charges a transfer fee of US$10 (and thus the sender pays the provider US$110) and an intermediary institution charges a lifting fee of US$5, such that the designated recipient is expected to receive only US$95, as indicated in the receipt.  If an error occurs because the sender provides incorrect or insufficient information that results in non-delivery of the remittance transfer by the date of availability stated in the disclosure provided to the sender for the remittance transfer under \u00a7 1005.31(b)(2) or (3), the provider is required to refund, or reapply if requested and the provider agrees, $105 unless the intermediary institution refunds to the provider the US$5 fee.  If the sender requests to have the transfer amount applied to a new remittance transfer pursuant to \u00a7 1005.33(c)(2)(iii) and provides the corrected or additional information, and the remittance transfer provider agrees to a resend remedy, the remittance transfer provider may charge the sender another transfer fee of US$10 to send the remittance transfer again with the corrected or additional information necessary to complete the transfer.  Insofar as the resend is an entirely new remittance transfer, the provider must provide a prepayment disclosure and receipt or combined disclosure in accordance with, among other provisions, the timing requirements of \u00a7 1005.31(f) and the cancellation provision of \u00a7 1005.34(a).",
+            "label":[
+                "1005",
+                "33",
+                "c",
+                "Interp",
+                "12",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-33-d-Interp-1":{
         "node":{
@@ -14019,6 +13924,40 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1005-A-5-b-p8":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    16
+                ],
+                [
+                    "insert",
+                    0,
+                    "You may ask for copies of"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    21,
+                    72
+                ],
+                [
+                    "insert",
+                    21,
+                    "documents that we used in"
+                ]
+            ],
+            [
+                "delete",
+                91,
+                244
+            ]
+        ],
+        "op":"modified"
     },
     "1005-18-b-6-i-Interp-1":{
         "node":{
@@ -14307,26 +14246,20 @@
         },
         "op":"added"
     },
-    "1005-18-b-2-ix-E-4-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Application of the update printing exception to prepaid accounts sold in retail locations.",
-            "text":"Pursuant to \u00a7\u20091005.18(b)(2)(ix)(E)(4), notwithstanding the requirements to update the additional fee types disclosure in \u00a7\u20091005.18(b)(2)(ix)(E), a financial institution is not required to update the listing of additional fee types that are provided on, in, or with prepaid account packaging materials that were manufactured, printed, or otherwise produced prior to a periodic reassessment and update pursuant to \u00a7\u20091005.18(b)(2)(ix)(E)(2) or prior to a fee schedule change pursuant to \u00a7\u20091005.18(b)(2)(ix)(E)(3). For prepaid accounts sold in retail locations, for example, \u00a7\u20091005.18(b)(2)(ix)(E)(4) permits a financial institution to implement any necessary updates to the listing of the additional fee types on the short form disclosure that appear on its physical prepaid account packaging materials at the time the financial institution prints new materials. Section 1005.18(b)(2)(ix)(E)(4) does not require financial institutions to destroy existing inventory in retail locations or elsewhere in the distribution channel, to the extent the disclosures on such packaging materials are otherwise accurate, to comply with this requirement. For example, a financial institution determines that an additional fee type listed on a short form disclosure in a retail location no longer qualifies as an additional fee type pursuant to \u00a7\u20091005.18(b)(2)(ix). The financial institution must update any electronic and oral short form disclosures pursuant to the timing requirements set forth in \u00a7\u20091005.18(b)(2)(ix)(E). Pursuant to \u00a7\u20091005.18(b)(2)(ix)(E)(4), the financial institution may continue selling any previously printed prepaid account packages that contain the prior listing of additional fee types; prepaid account packages printed after that time must contain the updated listing of additional fee types.",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "2",
-                "ix",
-                "E",
-                "4",
-                "Interp",
-                "1"
+    "1005-A-5-b-p6":{
+        "text":[
+            [
+                "insert",
+                0,
+                "If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days. "
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                "insert",
+                585,
+                " For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error."
+            ]
+        ],
+        "op":"modified"
     },
     "1005-18-b-6-i-B-Interp-3":{
         "node":{
@@ -14369,16 +14302,16 @@
         },
         "op":"added"
     },
-    "1005-31-a-2-Interp-1":{
+    "1005-19-a-7-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"E-Sign Act requirements.",
-            "text":"If a sender electronically requests the remittance transfer provider to send a remittance transfer, the disclosures required by \u00a7 1005.31(b)(1) may be provided to the sender in electronic form without regard to the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (15 U.S.C. 7001 et seq.). If a sender electronically requests the provider to send a remittance transfer, the disclosures required by \u00a7 1005.31(b)(2) may be provided to the sender in electronic form, subject to compliance with the consumer consent and other applicable provisions of the E-Sign Act. See \u00a7 1005.4(a)(1).",
+            "title":"Open Account.",
+            "text":"A prepaid account is an open account if (i) there is an outstanding balance in the account; (ii) the consumer can load more funds to the account even if the account does not currently hold a balance; or (iii) the consumer can access credit from a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61, in connection with a prepaid account. Under this definition, an account that meets any of these criteria is considered to be open even if the account is deemed inactive by the issuer.",
             "label":[
                 "1005",
-                "31",
+                "19",
                 "a",
-                "2",
+                "7",
                 "Interp",
                 "1"
             ],
@@ -14675,6 +14608,41 @@
                 "Interp",
                 "4",
                 "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1005-A-5-b-p2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    37
+                ],
+                [
+                    "insert",
+                    0,
+                    "You will need to tell us:"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1005-31-g-Interp-2-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A sender initiates a conversation with a remittance transfer provider with a greeting in English and expresses interest in sending a remittance transfer to Mexico in English. If the remittance transfer provider thereafter communicates with the sender in Spanish and the sender conveys the other information needed to complete the transaction, including the designated recipient's information and the amount and funding source of the transfer, in Spanish, then Spanish is the language primarily used by the sender with the remittance transfer provider to conduct the transaction.",
+            "label":[
+                "1005",
+                "31",
+                "g",
+                "Interp",
+                "2",
+                "i"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -15894,32 +15862,6 @@
         },
         "op":"added"
     },
-    "1005-18-b-2-viii-A-Interp-2-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":"Fee types related to withdrawals of funds.",
-            "text":"Fee types for withdrawing funds from a prepaid account. Per purchase fees and ATM withdrawal fees within the United States are fee types required to be disclosed in the short form respectively pursuant to \u00a7\u20091005.18(b)(2)(ii) and (iii) and thus such fees are not counted in the total number of additional fee types or disclosed as an additional fee type pursuant to \u00a7\u20091005.18(b)(2)(ix). Fee types for other methods to withdraw funds, such as Electronic withdrawal, Teller withdrawal, Cash back at point of sale (POS), and Account closure would be counted in the total of additional fee types and may be required to be disclosed as additional fee types pursuant to \u00a7\u20091005.18(b)(2)(ix).",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "2",
-                "viii",
-                "A",
-                "Interp",
-                "2",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-18-b-2-viii-A-Interp-2-ii-A",
-                "1005-18-b-2-viii-A-Interp-2-ii-B",
-                "1005-18-b-2-viii-A-Interp-2-ii-C",
-                "1005-18-b-2-viii-A-Interp-2-ii-D"
-            ]
-        },
-        "op":"added"
-    },
     "1005-36-b-Interp":{
         "node":{
             "tagged_text":null,
@@ -16311,8 +16253,31 @@
         ],
         "op":"modified"
     },
-    "1005-A-7-p36":{
-        "op":"deleted"
+    "1005-18-b-2-viii-A-Interp-2-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":"Fee types related to withdrawals of funds.",
+            "text":"Fee types for withdrawing funds from a prepaid account. Per purchase fees and ATM withdrawal fees within the United States are fee types required to be disclosed in the short form respectively pursuant to \u00a7\u20091005.18(b)(2)(ii) and (iii) and thus such fees are not counted in the total number of additional fee types or disclosed as an additional fee type pursuant to \u00a7\u20091005.18(b)(2)(ix). Fee types for other methods to withdraw funds, such as Electronic withdrawal, Teller withdrawal, Cash back at point of sale (POS), and Account closure would be counted in the total of additional fee types and may be required to be disclosed as additional fee types pursuant to \u00a7\u20091005.18(b)(2)(ix).",
+            "label":[
+                "1005",
+                "18",
+                "b",
+                "2",
+                "viii",
+                "A",
+                "Interp",
+                "2",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-18-b-2-viii-A-Interp-2-ii-A",
+                "1005-18-b-2-viii-A-Interp-2-ii-B",
+                "1005-18-b-2-viii-A-Interp-2-ii-C",
+                "1005-18-b-2-viii-A-Interp-2-ii-D"
+            ]
+        },
+        "op":"added"
     },
     "1005-18-h-2-i":{
         "node":{
@@ -16455,25 +16420,6 @@
         },
         "op":"added"
     },
-    "1005-19-b-2-Interp-2-v":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"If, however, on March 1, 2020, the issuer adds two new employers under the agreement but makes no other changes to the agreement, then as of April 1 there are new relevant parties to the agreement that the issuer has not submitted to the Bureau. The issuer is required, by May 1, 2020, to submit to the Bureau an updated list of names of other relevant parties to that agreement reflecting the two employers it added in March. Because the issuer has not made any other changes to the agreement since it was submitted in January, the issuer is not required to re-submit the agreement itself by May 1, 2020.",
-            "label":[
-                "1005",
-                "19",
-                "b",
-                "2",
-                "Interp",
-                "2",
-                "v"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1005-18-c-Interp-3":{
         "text":[
             [
@@ -16560,8 +16506,23 @@
         },
         "op":"added"
     },
-    "1005-A-7-p35":{
-        "op":"deleted"
+    "1005-31-d-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"31(d) Estimates.",
+            "text":"",
+            "label":[
+                "1005",
+                "31",
+                "d",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-31-d-Interp-1"
+            ]
+        },
+        "op":"added"
     },
     "1005-31-g-Interp-2-ii":{
         "node":{
@@ -16751,21 +16712,24 @@
         },
         "op":"added"
     },
-    "1005-15-f-Interp":{
+    "1005-18-b-2-ix-B-Interp-1-ii":{
         "node":{
             "tagged_text":null,
-            "title":"15(f)\u2003Disclosure of Fees and Other Information.",
-            "text":"",
+            "title":null,
+            "text":"A financial institution has a prepaid account program with four fee types that generate revenue from consumers, but none exceeds the de minimis threshold or otherwise satisfy the criteria in \u00a7\u20091005.18(b)(2)(ix)(A). Pursuant to \u00a7\u20091005.18(b)(2)(ix)(B), the financial institution is not required to make any disclosure, but it may choose to disclose one or two of the fee types that do not meet the criteria in \u00a7\u20091005.18(b)(2)(ix)(A).",
             "label":[
                 "1005",
-                "15",
-                "f",
-                "Interp"
+                "18",
+                "b",
+                "2",
+                "ix",
+                "B",
+                "Interp",
+                "1",
+                "ii"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1005-15-f-Interp-1"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -16987,17 +16951,19 @@
         },
         "op":"added"
     },
-    "1005-15-d-Interp-1":{
+    "1005-19-a-2-Interp-2-vi":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Access to account information.For guidance, see comments 18(c)-1 through -3 and 18(c)-5 through -9.",
+            "text":"Changes to titles, headings, section numbers, or captions.",
             "label":[
                 "1005",
-                "15",
-                "d",
+                "19",
+                "a",
+                "2",
                 "Interp",
-                "1"
+                "2",
+                "vi"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -17205,21 +17171,19 @@
         },
         "op":"added"
     },
-    "1005-19-b-2-Interp-2-i":{
+    "1005-A-7-c-p1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"An issuer first submits to the Bureau a payroll card agreement, along with a list of names of the other relevant parties (i.e., employers) to that agreement, on May 1, 2019. On July 1, 2020, the issuer adds four new employers under the agreement. The issuer is not required to make a submission to the Bureau regarding the addition of other relevant parties to that agreement at that time.",
+            "text":"It is important to register your prepaid account as soon as possible. Until you register your account and we verify your identity, we are not required to research or resolve any errors regarding your account. To register your account, go to [internet address] or call us at [telephone number]. We will ask you for identifying information about yourself (including your full name, address, date of birth, and [Social Security Number] [government-issued identification number]), so that we can verify your identity.",
             "label":[
                 "1005",
-                "19",
-                "b",
-                "2",
-                "Interp",
-                "2",
-                "i"
+                "A",
+                "7",
+                "c",
+                "p1"
             ],
-            "node_type":"interp",
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
@@ -17240,27 +17204,6 @@
             "child_labels":[
                 "1005-12-b-Interp-4-i"
             ]
-        },
-        "op":"added"
-    },
-    "1005-18-b-2-viii-A-Interp-2-ix":{
-        "node":{
-            "tagged_text":null,
-            "title":"Legal.",
-            "text":"Fees for legal process. Fee variations within this fee type may include fees for garnishments, attachments, levies, and other court or administrative orders against a prepaid account.",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "2",
-                "viii",
-                "A",
-                "Interp",
-                "2",
-                "ix"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -17388,11 +17331,24 @@
         },
         "op":"added"
     },
-    "1005-A-7-p37":{
-        "op":"deleted"
-    },
-    "1005-A-7-p34":{
-        "op":"deleted"
+    "1005-19-b-2-Interp-2-v":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"If, however, on March 1, 2020, the issuer adds two new employers under the agreement but makes no other changes to the agreement, then as of April 1 there are new relevant parties to the agreement that the issuer has not submitted to the Bureau. The issuer is required, by May 1, 2020, to submit to the Bureau an updated list of names of other relevant parties to that agreement reflecting the two employers it added in March. Because the issuer has not made any other changes to the agreement since it was submitted in January, the issuer is not required to re-submit the agreement itself by May 1, 2020.",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "2",
+                "Interp",
+                "2",
+                "v"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-18-h-2-ii-A":{
         "node":{
@@ -17433,11 +17389,23 @@
         },
         "op":"added"
     },
-    "1005-A-7-p38":{
-        "op":"deleted"
-    },
-    "1005-A-7-p39":{
-        "op":"deleted"
+    "1005-15-f-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"15(f)\u2003Disclosure of Fees and Other Information.",
+            "text":"",
+            "label":[
+                "1005",
+                "15",
+                "f",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1005-15-f-Interp-1"
+            ]
+        },
+        "op":"added"
     },
     "1005-18-e-1-i-B":{
         "node":{
@@ -17471,25 +17439,6 @@
                 "A"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1005-19-a-2-Interp-2-vi":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Changes to titles, headings, section numbers, or captions.",
-            "label":[
-                "1005",
-                "19",
-                "a",
-                "2",
-                "Interp",
-                "2",
-                "vi"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -18898,6 +18847,25 @@
         ],
         "op":"modified"
     },
+    "1005-19-b-2-Interp-2-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"An issuer first submits to the Bureau a payroll card agreement, along with a list of names of the other relevant parties (i.e., employers) to that agreement, on May 1, 2019. On July 1, 2020, the issuer adds four new employers under the agreement. The issuer is not required to make a submission to the Bureau regarding the addition of other relevant parties to that agreement at that time.",
+            "label":[
+                "1005",
+                "19",
+                "b",
+                "2",
+                "Interp",
+                "2",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1005-18-b-2-ix-B-Interp-1-i":{
         "node":{
             "tagged_text":null,
@@ -19082,19 +19050,19 @@
         },
         "op":"added"
     },
-    "1005-A-5-p21-1":{
+    "1005-34-b-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"You will need to tell us:",
+            "title":"Form of refund.",
+            "text":"At its discretion, a remittance transfer provider generally may issue a refund either in cash or in the same form of payment that was initially provided by the sender for the remittance transfer. For example, if the sender originally provided a credit card as payment for the transfer, the remittance transfer provider may issue a credit to the sender's credit card account in the amount of the payment. However, if a sender initially provided cash for the remittance transfer, a provider may issue a refund by check. For example, if the sender originally provided cash as payment for the transfer, the provider may mail a check to the sender in the amount of the payment.",
             "label":[
                 "1005",
-                "A",
-                "5",
-                "p21",
+                "34",
+                "b",
+                "Interp",
                 "1"
             ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -19954,25 +19922,13 @@
             [
                 [
                     "delete",
-                    3,
-                    4
-                ],
-                [
-                    "insert",
-                    3,
-                    " \n        "
-                ]
-            ],
-            [
-                [
-                    "delete",
                     96,
                     135
                 ],
                 [
                     "insert",
                     96,
-                    "prepaid accounts (\u00a7\u20091005.18(d)(1)(i)).\n        You may obtain information about the amount of money you have remaining in your prepaid account by calling [telephone number]. This information, along with a 12-month history of account transactions, is also available online at [internet address].\n        [For accounts that are or can be registered:] [If your account is registered with us,] You also have the right to obtain at least 24 months of written history of account transactions by calling [telephone number], or by writing us at [address]. You will not be charged a fee for this information unless you request it more than once per month."
+                    "prepaid accounts (\u00a7\u20091005.18(d)(1)(i))."
                 ]
             ]
         ],
@@ -19982,7 +19938,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(c) \n        Warning regarding unverified prepaid accounts (\u00a7\u20091005.18(e)(3)).\n        It is important to register your prepaid account as soon as possible. Until you register your account and we verify your identity, we are not required to research or resolve any errors regarding your account. To register your account, go to [internet address] or call us at [telephone number]. We will ask you for identifying information about yourself (including your full name, address, date of birth, and [Social Security Number] [government-issued identification number]), so that we can verify your identity.",
+            "text":"(c) Warning regarding unverified prepaid accounts (\u00a7\u20091005.18(e)(3)).",
             "label":[
                 "1005",
                 "A",
@@ -19990,12 +19946,45 @@
                 "c"
             ],
             "node_type":"appendix",
-            "child_labels":[]
+            "child_labels":[
+                "1005-A-7-c-p1"
+            ]
         },
         "op":"added"
     },
     "1005-A-7-b":{
-        "op":"deleted"
+        "text":[
+            [
+                "insert",
+                78,
+                "do not "
+            ],
+            [
+                [
+                    "delete",
+                    86,
+                    170
+                ],
+                [
+                    "insert",
+                    86,
+                    "periodic statements (\u00a7\u20091005.18(d)(1)(ii)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    175,
+                    183
+                ],
+                [
+                    "insert",
+                    175,
+                    "(d)(2))."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-18-b-2-ix-B-Interp-1":{
         "node":{
@@ -20016,26 +20005,6 @@
             "child_labels":[
                 "1005-18-b-2-ix-B-Interp-1-i",
                 "1005-18-b-2-ix-B-Interp-1-ii"
-            ]
-        },
-        "op":"added"
-    },
-    "1005-31-b-1-vii-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"31(b)(1)(vii) Amount Received.",
-            "text":"",
-            "label":[
-                "1005",
-                "31",
-                "b",
-                "1",
-                "vii",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1005-31-b-1-vii-Interp-1"
             ]
         },
         "op":"added"
@@ -20906,24 +20875,8 @@
         },
         "op":"added"
     },
-    "1005-18-b-1-ii-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Retail locations.",
-            "text":"Section 1005.18(b)(1)(ii) sets forth an alternative timing regime for pre-acquisition disclosures for prepaid accounts acquired in person at retail locations. For purposes of \u00a7\u20091005.18(b)(1)(ii), a retail location is a store or other physical site where a consumer can purchase a prepaid account in person and that is operated by an entity other than the financial institution that issues the prepaid account. A branch of a financial institution that offers its own prepaid accounts is not a retail location with respect to those accounts and, thus, both the short form and the long form disclosure must be provided pre-acquisition pursuant to the timing requirement set forth in \u00a7\u20091005.18(b)(1)(i).",
-            "label":[
-                "1005",
-                "18",
-                "b",
-                "1",
-                "ii",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1005-12-a-Interp-1-ii":{
+        "op":"deleted"
     },
     "1005-19-b-6-Interp-3":{
         "node":{
@@ -21110,43 +21063,196 @@
         },
         "op":"added"
     },
-    "1005-30-b-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":"Short hours.",
-            "text":"A provider may determine, at its election, whether an abbreviated day is a business day. For example, if a provider engages in substantially all business functions until noon on Saturdays instead of its usual 3 p.m. closing, it may consider Saturday a business day.",
-            "label":[
-                "1005",
-                "30",
-                "b",
-                "Interp",
-                "3"
+    "1005-A-5-b-p5":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    117
+                ],
+                [
+                    "insert",
+                    0,
+                    "\u2022 Approximately when the error took place."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1005-A-5-b-p4":{
+        "text":[
+            [
+                [
+                    "delete",
+                    2,
+                    20
+                ],
+                [
+                    "insert",
+                    2,
+                    "Why you believe there is an error, and"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    25,
+                    42
+                ],
+                [
+                    "insert",
+                    25,
+                    "dollar amount involved."
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1005-A-5-b-p7":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    84
+                ],
+                [
+                    "insert",
+                    0,
+                    "We will tell you the results within three business days after completing our investigation. If"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    88,
+                    171
+                ],
+                [
+                    "insert",
+                    88,
+                    "decide that there was no error,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    175,
+                    244
+                ],
+                [
+                    "insert",
+                    175,
+                    "will send"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    249,
+                    267
+                ],
+                [
+                    "insert",
+                    249,
+                    "a written explanation."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-18-c-3-i":{
         "op":"deleted"
     },
-    "1005-19-a-7-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Open Account.",
-            "text":"A prepaid account is an open account if (i) there is an outstanding balance in the account; (ii) the consumer can load more funds to the account even if the account does not currently hold a balance; or (iii) the consumer can access credit from a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61, in connection with a prepaid account. Under this definition, an account that meets any of these criteria is considered to be open even if the account is deemed inactive by the issuer.",
-            "label":[
-                "1005",
-                "19",
-                "a",
-                "7",
-                "Interp",
-                "1"
+    "1005-A-5-b-p1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    110,
+                    126
+                ],
+                [
+                    "insert",
+                    110,
+                    "[address]"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    143,
+                    156
+                ],
+                [
+                    "insert",
+                    143,
+                    "[email"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    230,
+                    244
+                ],
+                [
+                    "insert",
+                    230,
+                    "[agency\u2019s"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    280,
+                    307
+                ],
+                [
+                    "insert",
+                    280,
+                    "allow you to report an error until"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    322,
+                    331
+                ],
+                [
+                    "insert",
+                    322,
+                    "the earlier"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    339,
+                    345
+                ],
+                [
+                    "insert",
+                    339,
+                    "date you electronically access your account, if the error could be viewed in your electronic history, or the date we sent the FIRST written history on which the error appeared."
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    350,
+                    371
+                ],
+                [
+                    "insert",
+                    350,
+                    "may request a written history of your transactions at any time by calling us at [telephone number] or writing us at [address] [optional: or by contacting your caseworker]."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-32-b-1-Interp-7":{
         "node":{
@@ -21168,6 +21274,35 @@
             ]
         },
         "op":"added"
+    },
+    "1005-A-5-b-p3":{
+        "text":[
+            [
+                [
+                    "delete",
+                    2,
+                    36
+                ],
+                [
+                    "insert",
+                    2,
+                    "Your name"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    41,
+                    68
+                ],
+                [
+                    "insert",
+                    41,
+                    "[case] [file] number."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1005-32-a-1-i":{
         "node":{
@@ -21661,8 +21796,23 @@
         },
         "op":"added"
     },
-    "1005-12-a-Interp-1-ii":{
-        "op":"deleted"
+    "1005-31-a-2-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"E-Sign Act requirements.",
+            "text":"If a sender electronically requests the remittance transfer provider to send a remittance transfer, the disclosures required by \u00a7 1005.31(b)(1) may be provided to the sender in electronic form without regard to the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (15 U.S.C. 7001 et seq.). If a sender electronically requests the provider to send a remittance transfer, the disclosures required by \u00a7 1005.31(b)(2) may be provided to the sender in electronic form, subject to compliance with the consumer consent and other applicable provisions of the E-Sign Act. See \u00a7 1005.4(a)(1).",
+            "label":[
+                "1005",
+                "31",
+                "a",
+                "2",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1005-19-c-4":{
         "node":{
