@@ -7057,7 +7057,21 @@
                 {
                     "children":[
                         {
-                            "children":[],
+                            "children":[
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "1",
+                                        "a",
+                                        "p1"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"[Financial institution may add validation instructions here.]",
+                                    "marker":""
+                                }
+                            ],
                             "label":[
                                 "1005",
                                 "A",
@@ -7069,19 +7083,21 @@
                             "marker":"(a)"
                         },
                         {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "1",
-                                "p1"
+                            "children":[
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "1",
+                                        "b",
+                                        "p1"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"[Financial institution may add validation instructions here.]",
+                                    "marker":""
+                                }
                             ],
-                            "node_type":"appendix",
-                            "text":"[Financial institution may add validation instructions here.]",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
                             "label":[
                                 "1005",
                                 "A",
@@ -7091,18 +7107,6 @@
                             "node_type":"appendix",
                             "text":"(b) Accounts using codes.You cannot use the enclosed code to transfer money into or out of your account until we have validated it. If you do not want to use the code, please (destroy this notice at once).",
                             "marker":"(b)"
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "1",
-                                "p2"
-                            ],
-                            "node_type":"appendix",
-                            "text":"[Financial institution may add validation instructions here.]",
-                            "marker":""
                         }
                     ],
                     "label":[
@@ -7117,7 +7121,47 @@
                 {
                     "children":[
                         {
-                            "children":[],
+                            "children":[
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "2",
+                                        "a",
+                                        "p1"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"(Tell us AT ONCE if you believe your [card] [code] has been lost or stolen, or if you believe that an electronic fund transfer has been made without your permission using information from your check. Telephoning is the best way of keeping your possible losses down. You could lose all the money in your account (plus your maximum overdraft line of credit). If you tell us within 2 business days after you learn of the loss or theft of your [card] [code], you can lose no more than $50 if someone used your [card][code] without your permission.)",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "2",
+                                        "a",
+                                        "p2"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"If you do NOT tell us within 2 business days after you learn of the loss or theft of your [card] [code], and we can prove we could have stopped someone from using your [card] [code] without your permission if you had told us, you could lose as much as $500.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "2",
+                                        "a",
+                                        "p3"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"Also, if your statement shows transfers that you did not make, including those made by card, code or other means, tell us at once. If you do not tell us within 60 days after the statement was mailed to you, you may not get back any money you lost after the 60 days if we can prove that we could have stopped someone from taking the money if you had told us in time. If a good reason (such as a long trip or a hospital stay) kept you from telling us, we will extend the time periods.",
+                                    "marker":""
+                                }
+                            ],
                             "label":[
                                 "1005",
                                 "A",
@@ -7129,43 +7173,21 @@
                             "marker":"(a)"
                         },
                         {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "2",
-                                "p3"
+                            "children":[
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "2",
+                                        "b",
+                                        "p1"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"You should also call the number or write to the address listed above if you believe a transfer has been made using the information from your check without your permission.",
+                                    "marker":""
+                                }
                             ],
-                            "node_type":"appendix",
-                            "text":"(Tell us AT ONCE if you believe your [card] [code] has been lost or stolen, or if you believe that an electronic fund transfer has been made without your permission using information from your check. Telephoning is the best way of keeping your possible losses down. You could lose all the money in your account (plus your maximum overdraft line of credit). If you tell us within 2 business days after you learn of the loss or theft of your [card] [code], you can lose no more than $50 if someone used your [card][code] without your permission.)",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "2",
-                                "p4"
-                            ],
-                            "node_type":"appendix",
-                            "text":"If you do NOT tell us within 2 business days after you learn of the loss or theft of your [card] [code], and we can prove we could have stopped someone from using your [card] [code] without your permission if you had told us, you could lose as much as $500.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "2",
-                                "p5"
-                            ],
-                            "node_type":"appendix",
-                            "text":"Also, if your statement shows transfers that you did not make, including those made by card, code or other means, tell us at once. If you do not tell us within 60 days after the statement was mailed to you, you may not get back any money you lost after the 60 days if we can prove that we could have stopped someone from taking the money if you had told us in time. If a good reason (such as a long trip or a hospital stay) kept you from telling us, we will extend the time periods.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
                             "label":[
                                 "1005",
                                 "A",
@@ -7175,18 +7197,6 @@
                             "node_type":"appendix",
                             "text":"(b) Contact in event of unauthorized transfer (\u00a7 1005.7(b)(2)).If you believe your [card] [code] has been lost or stolen, call: [Telephone number] or write: [Name of person or office to be notified] [Address].",
                             "marker":"(b)"
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "2",
-                                "p6"
-                            ],
-                            "node_type":"appendix",
-                            "text":"You should also call the number or write to the address listed above if you believe a transfer has been made using the information from your check without your permission.",
-                            "marker":""
                         },
                         {
                             "children":[],
@@ -7650,7 +7660,21 @@
                         {
                             "children":[
                                 {
-                                    "children":[],
+                                    "children":[
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1005",
+                                                "A",
+                                                "2",
+                                                "h",
+                                                "p1"
+                                            ],
+                                            "node_type":"appendix",
+                                            "text":"Call us at [insert telephone number], or write us at [insert address], in time for us to receive your request 3 business days or more before the payment is scheduled to be made. If you call, we may also require you to put your request in writing and get it to us within 14 days after you call. (We will charge you [insert amount] for each stop-payment order you give.)",
+                                            "marker":""
+                                        }
+                                    ],
                                     "label":[
                                         "1005",
                                         "A",
@@ -7661,19 +7685,6 @@
                                     "node_type":"appendix",
                                     "text":"(1) Right to stop payment and procedure for doing so. If you have told us in advance to make regular payments out of your account, you can stop any of these payments. Here's how:",
                                     "marker":"(1)"
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1005",
-                                        "A",
-                                        "2",
-                                        "h",
-                                        "p8"
-                                    ],
-                                    "node_type":"appendix",
-                                    "text":"Call us at [insert telephone number], or write us at [insert address], in time for us to receive your request 3 business days or more before the payment is scheduled to be made. If you call, we may also require you to put your request in writing and get it to us within 14 days after you call. (We will charge you [insert amount] for each stop-payment order you give.)",
-                                    "marker":""
                                 },
                                 {
                                     "children":[],
@@ -7828,7 +7839,113 @@
                 {
                     "children":[
                         {
-                            "children":[],
+                            "children":[
+                                {
+                                    "children":[
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1005",
+                                                "A",
+                                                "3",
+                                                "a",
+                                                "p1"
+                                            ],
+                                            "node_type":"appendix",
+                                            "text":"(1) Tell us your name and account number (if any).",
+                                            "marker":"(1)"
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1005",
+                                                "A",
+                                                "3",
+                                                "a",
+                                                "p2"
+                                            ],
+                                            "node_type":"appendix",
+                                            "text":"(2) Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information.",
+                                            "marker":"(2)"
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1005",
+                                                "A",
+                                                "3",
+                                                "a",
+                                                "p3"
+                                            ],
+                                            "node_type":"appendix",
+                                            "text":"(3) Tell us the dollar amount of the suspected error.",
+                                            "marker":"(3)"
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1005",
+                                                "A",
+                                                "3",
+                                                "a",
+                                                "p4"
+                                            ],
+                                            "node_type":"appendix",
+                                            "text":"If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days.",
+                                            "marker":""
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1005",
+                                                "A",
+                                                "3",
+                                                "a",
+                                                "p5"
+                                            ],
+                                            "node_type":"appendix",
+                                            "text":"We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will credit your account within 10 business days for the amount you think is in error, so that you will have the use of the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account.",
+                                            "marker":""
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1005",
+                                                "A",
+                                                "3",
+                                                "a",
+                                                "p6"
+                                            ],
+                                            "node_type":"appendix",
+                                            "text":"For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error.",
+                                            "marker":""
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1005",
+                                                "A",
+                                                "3",
+                                                "a",
+                                                "p7"
+                                            ],
+                                            "node_type":"appendix",
+                                            "text":"We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation. You may ask for copies of the documents that we used in our investigation.",
+                                            "marker":""
+                                        }
+                                    ],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "3",
+                                        "a",
+                                        "p0"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"In Case of Errors or Questions About Your Electronic Transfers Telephone us at [insert telephone number] Write us at [insert address] [or email us at [insert email address]] as soon as you can, if you think your statement or receipt is wrong or if you need more information about a transfer listed on the statement or receipt. We must hear from you no later than 60 days after we sent the FIRST statement on which the problem or error appeared.",
+                                    "marker":""
+                                }
+                            ],
                             "label":[
                                 "1005",
                                 "A",
@@ -7842,109 +7959,72 @@
                         {
                             "children":[
                                 {
-                                    "children":[],
+                                    "children":[
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1005",
+                                                "A",
+                                                "3",
+                                                "b",
+                                                "p1"
+                                            ],
+                                            "node_type":"appendix",
+                                            "text":"(1) Tell us your name and account number (if any).",
+                                            "marker":"(1)"
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1005",
+                                                "A",
+                                                "3",
+                                                "b",
+                                                "p2"
+                                            ],
+                                            "node_type":"appendix",
+                                            "text":"(2) Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information.",
+                                            "marker":"(2)"
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1005",
+                                                "A",
+                                                "3",
+                                                "b",
+                                                "p3"
+                                            ],
+                                            "node_type":"appendix",
+                                            "text":"(3) Tell us the dollar amount of the suspected error.",
+                                            "marker":"(3)"
+                                        },
+                                        {
+                                            "children":[],
+                                            "label":[
+                                                "1005",
+                                                "A",
+                                                "3",
+                                                "b",
+                                                "p4"
+                                            ],
+                                            "node_type":"appendix",
+                                            "text":"We will investigate your complaint and will correct any error promptly. If we take more than 10 business days to do this, we will credit your account for the amount you think is in error, so that you will have the use of the money during the time it takes us to complete our investigation.",
+                                            "marker":""
+                                        }
+                                    ],
                                     "label":[
                                         "1005",
                                         "A",
                                         "3",
-                                        "p9",
-                                        "1"
+                                        "b",
+                                        "p0"
                                     ],
                                     "node_type":"appendix",
-                                    "text":"(1) Tell us your name and account number (if any).",
-                                    "marker":"(1)"
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1005",
-                                        "A",
-                                        "3",
-                                        "p9",
-                                        "2"
-                                    ],
-                                    "node_type":"appendix",
-                                    "text":"(2) Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information.",
-                                    "marker":"(2)"
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1005",
-                                        "A",
-                                        "3",
-                                        "p9",
-                                        "3"
-                                    ],
-                                    "node_type":"appendix",
-                                    "text":"(3) Tell us the dollar amount of the suspected error.",
-                                    "marker":"(3)"
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1005",
-                                        "A",
-                                        "3",
-                                        "p9",
-                                        "p10"
-                                    ],
-                                    "node_type":"appendix",
-                                    "text":"If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days.",
-                                    "marker":""
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1005",
-                                        "A",
-                                        "3",
-                                        "p9",
-                                        "p11"
-                                    ],
-                                    "node_type":"appendix",
-                                    "text":"We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will credit your account within 10 business days for the amount you think is in error, so that you will have the use of the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account.",
-                                    "marker":""
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1005",
-                                        "A",
-                                        "3",
-                                        "p9",
-                                        "p12"
-                                    ],
-                                    "node_type":"appendix",
-                                    "text":"For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error.",
-                                    "marker":""
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1005",
-                                        "A",
-                                        "3",
-                                        "p9",
-                                        "p13"
-                                    ],
-                                    "node_type":"appendix",
-                                    "text":"We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation. You may ask for copies of the documents that we used in our investigation.",
+                                    "text":"In Case of Errors or Questions About Your Electronic Transfers Telephone us at [insert telephone number] or Write us at [insert address] as soon as you can, if you think your statement or receipt is wrong or if you need more information about a transfer on the statement or receipt. We must hear from you no later than 60 days after we sent you the FIRST statement on which the error or problem appeared.",
                                     "marker":""
                                 }
                             ],
-                            "label":[
-                                "1005",
-                                "A",
-                                "3",
-                                "p9"
-                            ],
-                            "node_type":"appendix",
-                            "text":"In Case of Errors or Questions About Your Electronic Transfers Telephone us at [insert telephone number] Write us at [insert address] [or email us at [insert email address]] as soon as you can, if you think your statement or receipt is wrong or if you need more information about a transfer listed on the statement or receipt. We must hear from you no later than 60 days after we sent the FIRST statement on which the problem or error appeared.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
                             "label":[
                                 "1005",
                                 "A",
@@ -7954,71 +8034,6 @@
                             "node_type":"appendix",
                             "text":"(b) Error resolution notice on periodic statements (\u00a7 1005.8(b)).",
                             "marker":"(b)"
-                        },
-                        {
-                            "children":[
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1005",
-                                        "A",
-                                        "3",
-                                        "p14",
-                                        "1"
-                                    ],
-                                    "node_type":"appendix",
-                                    "text":"(1) Tell us your name and account number (if any).",
-                                    "marker":"(1)"
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1005",
-                                        "A",
-                                        "3",
-                                        "p14",
-                                        "2"
-                                    ],
-                                    "node_type":"appendix",
-                                    "text":"(2) Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information.",
-                                    "marker":"(2)"
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1005",
-                                        "A",
-                                        "3",
-                                        "p14",
-                                        "3"
-                                    ],
-                                    "node_type":"appendix",
-                                    "text":"(3) Tell us the dollar amount of the suspected error.",
-                                    "marker":"(3)"
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1005",
-                                        "A",
-                                        "3",
-                                        "p14",
-                                        "p15"
-                                    ],
-                                    "node_type":"appendix",
-                                    "text":"We will investigate your complaint and will correct any error promptly. If we take more than 10 business days to do this, we will credit your account for the amount you think is in error, so that you will have the use of the money during the time it takes us to complete our investigation.",
-                                    "marker":""
-                                }
-                            ],
-                            "label":[
-                                "1005",
-                                "A",
-                                "3",
-                                "p14"
-                            ],
-                            "node_type":"appendix",
-                            "text":"In Case of Errors or Questions About Your Electronic Transfers Telephone us at [insert telephone number] or Write us at [insert address] as soon as you can, if you think your statement or receipt is wrong or if you need more information about a transfer on the statement or receipt. We must hear from you no later than 60 days after we sent you the FIRST statement on which the error or problem appeared.",
-                            "marker":""
                         }
                     ],
                     "label":[
@@ -8038,7 +8053,7 @@
                                 "1005",
                                 "A",
                                 "4",
-                                "p17"
+                                "p2"
                             ],
                             "node_type":"appendix",
                             "text":"We will not send you a periodic statement listing transactions that you make using your [name of card] card. The transactions will appear only on the statement issued by your bank or other financial institution. SAVE THE RECEIPTS YOU ARE GIVEN WHEN YOU USE YOUR [NAME OF CARD] CARD, AND CHECK THEM AGAINST THE ACCOUNT STATEMENT YOU RECEIVE FROM YOUR BANK OR OTHER FINANCIAL INSTITUTION. If you have any questions about one of these transactions, call or write us at [telephone number and address] [the telephone number and address indicated below].",
@@ -8050,7 +8065,7 @@
                                 "1005",
                                 "A",
                                 "4",
-                                "p18"
+                                "p3"
                             ],
                             "node_type":"appendix",
                             "text":"IF YOUR [NAME OF CARD] CARD IS LOST OR STOLEN, NOTIFY US AT ONCE by calling or writing to us at [telephone number and address].",
@@ -8069,7 +8084,34 @@
                 {
                     "children":[
                         {
-                            "children":[],
+                            "children":[
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "5",
+                                        "a",
+                                        "p1"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"You may obtain information about the amount of benefits you have remaining by calling [telephone number]. That information is also available [on the receipt you get when you make a transfer with your card at (an ATM)(a POS terminal)][when you make a balance inquiry at an ATM][when you make a balance inquiry at specified locations].",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "5",
+                                        "a",
+                                        "p2"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"You also have the right to receive a written summary of transactions for the 60 days preceding your request by calling [telephone number]. [Optional: Or you may request the summary by contacting your caseworker.]",
+                                    "marker":""
+                                }
+                            ],
                             "label":[
                                 "1005",
                                 "A",
@@ -8081,31 +8123,125 @@
                             "marker":"(a)"
                         },
                         {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "5",
-                                "p19"
+                            "children":[
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "5",
+                                        "b",
+                                        "p1"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"In Case of Errors or Questions About Your Electronic Transfers Telephone us at [telephone number] Write us at [insert address] [or email us at [insert email address]] as soon as you can, if you think an error has occurred in your [EBT][agency's name for program] account. We must hear from you no later than 60 days after you learn of the error. You will need to tell us:",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "5",
+                                        "b",
+                                        "p2"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"\u2022 Your name and [case] [file] number.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "5",
+                                        "b",
+                                        "p3"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"\u2022 Why you believe there is an error, and the dollar amount involved.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "5",
+                                        "b",
+                                        "p4"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"\u2022 Approximately when the error took place.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "5",
+                                        "b",
+                                        "p5"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "5",
+                                        "b",
+                                        "p6"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will credit your account within 10 business days for the amount you think is in error, so that you will have the use of the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "5",
+                                        "b",
+                                        "p7"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "5",
+                                        "b",
+                                        "p8"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation. You may ask for copies of the documents that we used in our investigation.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "5",
+                                        "b",
+                                        "p9"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"If you need more information about our error resolution procedures, call us at [telephone number][the telephone number shown above].",
+                                    "marker":""
+                                }
                             ],
-                            "node_type":"appendix",
-                            "text":"You may obtain information about the amount of benefits you have remaining by calling [telephone number]. That information is also available [on the receipt you get when you make a transfer with your card at (an ATM)(a POS terminal)][when you make a balance inquiry at an ATM][when you make a balance inquiry at specified locations].",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "5",
-                                "p20"
-                            ],
-                            "node_type":"appendix",
-                            "text":"You also have the right to receive a written summary of transactions for the 60 days preceding your request by calling [telephone number]. [Optional: Or you may request the summary by contacting your caseworker.]",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
                             "label":[
                                 "1005",
                                 "A",
@@ -8115,114 +8251,6 @@
                             "node_type":"appendix",
                             "text":"(b) Disclosure of error resolution procedures for government agencies that do not provide periodic statements (\u00a7 1005.15(d)(1)(iii) and (d)(2)).",
                             "marker":"(b)"
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "5",
-                                "p21"
-                            ],
-                            "node_type":"appendix",
-                            "text":"In Case of Errors or Questions About Your Electronic Transfers Telephone us at [telephone number] Write us at [insert address] [or email us at [insert email address]] as soon as you can, if you think an error has occurred in your [EBT][agency's name for program] account. We must hear from you no later than 60 days after you learn of the error. You will need to tell us:",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "5",
-                                "p22"
-                            ],
-                            "node_type":"appendix",
-                            "text":"\u2022 Your name and [case] [file] number.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "5",
-                                "p23"
-                            ],
-                            "node_type":"appendix",
-                            "text":"\u2022 Why you believe there is an error, and the dollar amount involved.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "5",
-                                "p24"
-                            ],
-                            "node_type":"appendix",
-                            "text":"\u2022 Approximately when the error took place.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "5",
-                                "p25"
-                            ],
-                            "node_type":"appendix",
-                            "text":"If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "5",
-                                "p26"
-                            ],
-                            "node_type":"appendix",
-                            "text":"We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will credit your account within 10 business days for the amount you think is in error, so that you will have the use of the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "5",
-                                "p27"
-                            ],
-                            "node_type":"appendix",
-                            "text":"For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "5",
-                                "p28"
-                            ],
-                            "node_type":"appendix",
-                            "text":"We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation. You may ask for copies of the documents that we used in our investigation.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "5",
-                                "p29"
-                            ],
-                            "node_type":"appendix",
-                            "text":"If you need more information about our error resolution procedures, call us at [telephone number][the telephone number shown above].",
-                            "marker":""
                         }
                     ],
                     "label":[
@@ -8237,7 +8265,21 @@
                 {
                     "children":[
                         {
-                            "children":[],
+                            "children":[
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "6",
+                                        "a",
+                                        "p1"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"When you provide a check as payment, you authorize us either to use information from your check to make a one-time electronic fund transfer from your account or to process the payment as a check transaction.",
+                                    "marker":""
+                                }
+                            ],
                             "label":[
                                 "1005",
                                 "A",
@@ -8249,19 +8291,34 @@
                             "marker":"(a)"
                         },
                         {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "6",
-                                "p30"
+                            "children":[
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "6",
+                                        "b",
+                                        "p1"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"When you provide a check as payment, you authorize us to use information from your check to make a one-time electronic fund transfer from your account. In certain circumstances, such as for technical or processing reasons, we may process your payment as a check transaction.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "6",
+                                        "b",
+                                        "p2"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"[Specify other circumstances (at payee's option).]",
+                                    "marker":""
+                                }
                             ],
-                            "node_type":"appendix",
-                            "text":"When you provide a check as payment, you authorize us either to use information from your check to make a one-time electronic fund transfer from your account or to process the payment as a check transaction.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
                             "label":[
                                 "1005",
                                 "A",
@@ -8273,31 +8330,21 @@
                             "marker":"(b)"
                         },
                         {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "6",
-                                "p31"
+                            "children":[
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "6",
+                                        "c",
+                                        "p1"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"When we use information from your check to make an electronic fund transfer, funds may be withdrawn from your account as soon as the same day [you make] [we receive] your payment[, and you will not receive your check back from your financial institution].",
+                                    "marker":""
+                                }
                             ],
-                            "node_type":"appendix",
-                            "text":"When you provide a check as payment, you authorize us to use information from your check to make a one-time electronic fund transfer from your account. In certain circumstances, such as for technical or processing reasons, we may process your payment as a check transaction.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "6",
-                                "p32"
-                            ],
-                            "node_type":"appendix",
-                            "text":"[Specify other circumstances (at payee's option).]",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
                             "label":[
                                 "1005",
                                 "A",
@@ -8307,18 +8354,6 @@
                             "node_type":"appendix",
                             "text":"(c) Notice For Providing Additional Information About Electronic Check Conversion.",
                             "marker":"(c)"
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "6",
-                                "p33"
-                            ],
-                            "node_type":"appendix",
-                            "text":"When we use information from your check to make an electronic fund transfer, funds may be withdrawn from your account as soon as the same day [you make] [we receive] your payment[, and you will not receive your check back from your financial institution].",
-                            "marker":""
                         }
                     ],
                     "label":[
@@ -8333,7 +8368,34 @@
                 {
                     "children":[
                         {
-                            "children":[],
+                            "children":[
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "7",
+                                        "a",
+                                        "p1"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"You may obtain information about the amount of money you have remaining in your payroll card account by calling [telephone number]. This information, along with a 60-day history of account transactions, is also available online at [internet address].",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "7",
+                                        "a",
+                                        "p2"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"You also have the right to obtain a 60-day written history of account transactions by calling [telephone number], or by writing us at [address].",
+                                    "marker":""
+                                }
+                            ],
                             "label":[
                                 "1005",
                                 "A",
@@ -8345,31 +8407,138 @@
                             "marker":"(a)"
                         },
                         {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "7",
-                                "p34"
+                            "children":[
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "7",
+                                        "b",
+                                        "p1"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"In Case of Errors or Questions About Your Payroll Card Account Telephone us at [telephone number] or Write us at [address] [or email us at [email address]] as soon as you can, if you think an error has occurred in your payroll card account. We must allow you to report an error until 60 days after the earlier of the date you electronically access your account, if the error could be viewed in your electronic history, or the date we sent the FIRST written history on which the error appeared. You may request a written history of your transactions at any time by calling us at [telephone number] or writing us at [address]. You will need to tell us:",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "7",
+                                        "b",
+                                        "p2"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"Your name and [payroll card account] number.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "7",
+                                        "b",
+                                        "p3"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"Why you believe there is an error, and the dollar amount involved.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "7",
+                                        "b",
+                                        "p4"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"Approximately when the error took place.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "7",
+                                        "b",
+                                        "p5"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "7",
+                                        "b",
+                                        "p6"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will credit your account within 10 business days for the amount you think is in error, so that you will have the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "7",
+                                        "b",
+                                        "p7"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "7",
+                                        "b",
+                                        "p8"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "7",
+                                        "b",
+                                        "p9"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"You may ask for copies of the documents that we used in our investigation.",
+                                    "marker":""
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1005",
+                                        "A",
+                                        "7",
+                                        "b",
+                                        "p10"
+                                    ],
+                                    "node_type":"appendix",
+                                    "text":"If you need more information about our error-resolution procedures, call us at [telephone number] [the telephone number shown above] [or visit [internet address]].",
+                                    "marker":""
+                                }
                             ],
-                            "node_type":"appendix",
-                            "text":"You may obtain information about the amount of money you have remaining in your payroll card account by calling [telephone number]. This information, along with a 60-day history of account transactions, is also available online at [internet address].",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "7",
-                                "p35"
-                            ],
-                            "node_type":"appendix",
-                            "text":"You also have the right to obtain a 60-day written history of account transactions by calling [telephone number], or by writing us at [address].",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
                             "label":[
                                 "1005",
                                 "A",
@@ -8379,126 +8548,6 @@
                             "node_type":"appendix",
                             "text":"(b) Disclosure of error-resolution procedures for financial institutions that provide alternative means of obtaining payroll card account information (\u00a7 1005.18(c)(1)(ii) and (c)(2)).",
                             "marker":"(b)"
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "7",
-                                "p36"
-                            ],
-                            "node_type":"appendix",
-                            "text":"In Case of Errors or Questions About Your Payroll Card Account Telephone us at [telephone number] or Write us at [address] [or email us at [email address]] as soon as you can, if you think an error has occurred in your payroll card account. We must allow you to report an error until 60 days after the earlier of the date you electronically access your account, if the error could be viewed in your electronic history, or the date we sent the FIRST written history on which the error appeared. You may request a written history of your transactions at any time by calling us at [telephone number] or writing us at [address]. You will need to tell us:",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "7",
-                                "p37"
-                            ],
-                            "node_type":"appendix",
-                            "text":"Your name and [payroll card account] number.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "7",
-                                "p38"
-                            ],
-                            "node_type":"appendix",
-                            "text":"Why you believe there is an error, and the dollar amount involved.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "7",
-                                "p39"
-                            ],
-                            "node_type":"appendix",
-                            "text":"Approximately when the error took place.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "7",
-                                "p40"
-                            ],
-                            "node_type":"appendix",
-                            "text":"If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "7",
-                                "p41"
-                            ],
-                            "node_type":"appendix",
-                            "text":"We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will credit your account within 10 business days for the amount you think is in error, so that you will have the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "7",
-                                "p42"
-                            ],
-                            "node_type":"appendix",
-                            "text":"For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "7",
-                                "p43"
-                            ],
-                            "node_type":"appendix",
-                            "text":"We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "7",
-                                "p44"
-                            ],
-                            "node_type":"appendix",
-                            "text":"You may ask for copies of the documents that we used in our investigation.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1005",
-                                "A",
-                                "7",
-                                "p45"
-                            ],
-                            "node_type":"appendix",
-                            "text":"If you need more information about our error-resolution procedures, call us at [telephone number] [the telephone number shown above] [or visit [internet address]].",
-                            "marker":""
                         }
                     ],
                     "label":[
@@ -8529,7 +8578,7 @@
                                 "1005",
                                 "A",
                                 "9",
-                                "p47"
+                                "p1"
                             ],
                             "node_type":"appendix",
                             "text":"![](ER27DE11.000-1)",
