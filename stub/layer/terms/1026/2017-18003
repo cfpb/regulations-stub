@@ -853,6 +853,15 @@
         {
             "offsets":[
                 [
+                    22,
+                    32
+                ]
+            ],
+            "ref":"cardholder:1026-2-a-8"
+        },
+        {
+            "offsets":[
+                [
                     44,
                     50
                 ],
@@ -25403,8 +25412,8 @@
         {
             "offsets":[
                 [
-                    36,
-                    51
+                    45,
+                    60
                 ]
             ],
             "ref":"consumer credit:1026-2-a-12"
@@ -25412,8 +25421,8 @@
         {
             "offsets":[
                 [
-                    77,
-                    85
+                    86,
+                    94
                 ]
             ],
             "ref":"consumer:1026-2-a-11"
@@ -25421,8 +25430,8 @@
         {
             "offsets":[
                 [
-                    98,
-                    106
+                    107,
+                    115
                 ]
             ],
             "ref":"dwelling:1026-2-a-19"
@@ -25504,8 +25513,8 @@
         {
             "offsets":[
                 [
-                    36,
-                    51
+                    53,
+                    68
                 ]
             ],
             "ref":"consumer credit:1026-2-a-12"
@@ -25513,8 +25522,8 @@
         {
             "offsets":[
                 [
-                    77,
-                    85
+                    94,
+                    102
                 ]
             ],
             "ref":"consumer:1026-2-a-11"
@@ -25522,11 +25531,22 @@
         {
             "offsets":[
                 [
-                    98,
-                    106
+                    115,
+                    123
                 ]
             ],
             "ref":"dwelling:1026-2-a-19"
+        }
+    ],
+    "1026-36-c-2-i":[
+        {
+            "offsets":[
+                [
+                    66,
+                    74
+                ]
+            ],
+            "ref":"consumer:1026-2-a-11"
         }
     ],
     "1026-36-c-3":[
@@ -32916,6 +32936,17 @@
             "ref":"consumer:1026-2-a-11"
         }
     ],
+    "1026-41-d-8-i":[
+        {
+            "offsets":[
+                [
+                    26,
+                    34
+                ]
+            ],
+            "ref":"consumer:1026-2-a-11"
+        }
+    ],
     "1026-41-d-8-iii":[
         {
             "offsets":[
@@ -33136,6 +33167,35 @@
                 [
                     207,
                     217
+                ]
+            ],
+            "ref":"affiliate:1026-32-b-5"
+        }
+    ],
+    "1026-41-e-4-iii-A":[
+        {
+            "offsets":[
+                [
+                    4,
+                    18
+                ]
+            ],
+            "ref":"mortgage loan:1026-39-a-2"
+        },
+        {
+            "offsets":[
+                [
+                    62,
+                    70
+                ]
+            ],
+            "ref":"creditor:1026-2-a-17"
+        },
+        {
+            "offsets":[
+                [
+                    98,
+                    107
                 ]
             ],
             "ref":"affiliate:1026-32-b-5"
@@ -141508,6 +141568,35 @@
             "ref":"consumer:1026-2-a-11"
         }
     ],
+    "1026-41-a-Interp-1":[
+        {
+            "offsets":[
+                [
+                    41,
+                    50
+                ]
+            ],
+            "ref":"consumer:1026-2-a-11"
+        },
+        {
+            "offsets":[
+                [
+                    109,
+                    124
+                ]
+            ],
+            "ref":"consumer credit:1026-2-a-12"
+        },
+        {
+            "offsets":[
+                [
+                    150,
+                    158
+                ]
+            ],
+            "ref":"dwelling:1026-2-a-19"
+        }
+    ],
     "1026-41-a-Interp-2":[
         {
             "offsets":[
@@ -142169,6 +142258,80 @@
                 ]
             ],
             "ref":"consumer:1026-2-a-11"
+        }
+    ],
+    "1026-41-e-5-Interp-1":[
+        {
+            "offsets":[
+                [
+                    141,
+                    149
+                ]
+            ],
+            "ref":"consumer:1026-2-a-11"
+        }
+    ],
+    "1026-41-e-5-Interp-2-i":[
+        {
+            "offsets":[
+                [
+                    285,
+                    293
+                ],
+                [
+                    363,
+                    371
+                ],
+                [
+                    549,
+                    557
+                ]
+            ],
+            "ref":"consumer:1026-2-a-11"
+        }
+    ],
+    "1026-41-e-5-Interp-2-ii":[
+        {
+            "offsets":[
+                [
+                    159,
+                    167
+                ]
+            ],
+            "ref":"consumer:1026-2-a-11"
+        }
+    ],
+    "1026-41-e-5-Interp-3":[
+        {
+            "offsets":[
+                [
+                    17,
+                    26
+                ],
+                [
+                    212,
+                    221
+                ]
+            ],
+            "ref":"consumer:1026-2-a-11"
+        },
+        {
+            "offsets":[
+                [
+                    85,
+                    100
+                ]
+            ],
+            "ref":"consumer credit:1026-2-a-12"
+        },
+        {
+            "offsets":[
+                [
+                    126,
+                    134
+                ]
+            ],
+            "ref":"dwelling:1026-2-a-19"
         }
     ],
     "1026-42-a-Interp-1":[
@@ -195912,22 +196075,6 @@
             ],
             "reference":"1026-2-a-26",
             "term":"state"
-        },
-        "successor in interest:1026-2-a-27-i":{
-            "position":[
-                4,
-                25
-            ],
-            "reference":"1026-2-a-27-i",
-            "term":"successor in interest"
-        },
-        "confirmed successor in interest:1026-2-a-27-ii":{
-            "position":[
-                5,
-                36
-            ],
-            "reference":"1026-2-a-27-ii",
-            "term":"confirmed successor in interest"
         },
         "grace period:1026-5-b-2-ii-B-3":{
             "position":[
