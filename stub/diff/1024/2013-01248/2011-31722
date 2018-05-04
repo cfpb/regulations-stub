@@ -943,6 +943,9 @@
     "1024-38-b-2-ii-Interp":{
         "op":"deleted"
     },
+    "1024-36-f-1-i":{
+        "op":"deleted"
+    },
     "1024-36-f-1-v":{
         "op":"deleted"
     },
@@ -955,8 +958,37 @@
     "1024-41-d-Interp":{
         "op":"deleted"
     },
-    "1024-36-f-1-i":{
-        "op":"deleted"
+    "1024-2-b-MortgageBroker":{
+        "text":[
+            [
+                [
+                    "delete",
+                    31,
+                    42
+                ],
+                [
+                    "insert",
+                    31,
+                    "(not"
+                ]
+            ],
+            [
+                "insert",
+                68,
+                "or entity "
+            ],
+            [
+                "insert",
+                250,
+                "or entity "
+            ],
+            [
+                "insert",
+                317,
+                " A loan correspondent approved under HUD regulation 24 CFR 202.8 for Federal Housing Administration programs is a mortgage broker for purposes of this part."
+            ]
+        ],
+        "op":"modified"
     },
     "1024-MS-3(A)-p33":{
         "op":"deleted"
@@ -4150,9 +4182,6 @@
     "1024-37-e-4":{
         "op":"deleted"
     },
-    "1024-41-c-2-i-Interp-2":{
-        "op":"deleted"
-    },
     "1024-41-h-1":{
         "op":"deleted"
     },
@@ -4392,39 +4421,8 @@
         },
         "op":"added"
     },
-    "1024-5-b-7":{
-        "text":[
-            [
-                [
-                    "delete",
-                    146,
-                    158
-                ],
-                [
-                    "insert",
-                    146,
-                    "as set forth in section 6 of RESPA (12 U.S.C. 2605) and \u00a7 1024.21. In determining what constitutes a bona fide transfer, the Bureau will consider the real source of funding and the real interest of the funding lender. Mortgage broker transactions that are table-funded are not secondary market transactions. Neither the creation of a dealer loan or dealer consumer credit contract, nor the first assignment of such loan or contract"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    162,
-                    444
-                ],
-                [
-                    "insert",
-                    162,
-                    "a lender, is a"
-                ]
-            ],
-            [
-                "delete",
-                461,
-                634
-            ]
-        ],
-        "op":"modified"
+    "1024-41-c-2-i-Interp-2":{
+        "op":"deleted"
     },
     "1024-34-b-1-Interp-1":{
         "op":"deleted"
@@ -5191,34 +5189,19 @@
     "1024-MS-3(B)-p56":{
         "op":"deleted"
     },
-    "1024-2-b-MortgageBroker":{
+    "1024-4-a-1-i":{
         "text":[
             [
                 [
                     "delete",
-                    31,
-                    42
+                    30,
+                    57
                 ],
                 [
                     "insert",
-                    31,
-                    "(not"
+                    30,
+                    "appendices,"
                 ]
-            ],
-            [
-                "insert",
-                68,
-                "or entity "
-            ],
-            [
-                "insert",
-                250,
-                "or entity "
-            ],
-            [
-                "insert",
-                317,
-                " A loan correspondent approved under HUD regulation 24 CFR 202.8 for Federal Housing Administration programs is a mortgage broker for purposes of this part."
             ]
         ],
         "op":"modified"
@@ -5244,9 +5227,6 @@
     "1024-39-b-2-iv-Interp-1":{
         "op":"deleted"
     },
-    "1024-41-e-2-i":{
-        "op":"deleted"
-    },
     "1024-35-e-3-i-A":{
         "op":"deleted"
     },
@@ -5259,39 +5239,42 @@
     "1024-41-c-2-ii-Interp":{
         "op":"deleted"
     },
-    "1024-4-a-1-i":{
+    "1024-5-b-7":{
         "text":[
             [
                 [
                     "delete",
-                    30,
-                    57
+                    146,
+                    158
                 ],
                 [
                     "insert",
-                    30,
-                    "appendices,"
+                    146,
+                    "as set forth in section 6 of RESPA (12 U.S.C. 2605) and \u00a7 1024.21. In determining what constitutes a bona fide transfer, the Bureau will consider the real source of funding and the real interest of the funding lender. Mortgage broker transactions that are table-funded are not secondary market transactions. Neither the creation of a dealer loan or dealer consumer credit contract, nor the first assignment of such loan or contract"
                 ]
+            ],
+            [
+                [
+                    "delete",
+                    162,
+                    444
+                ],
+                [
+                    "insert",
+                    162,
+                    "a lender, is a"
+                ]
+            ],
+            [
+                "delete",
+                461,
+                634
             ]
         ],
         "op":"modified"
     },
-    "1024-5-b-4":{
-        "text":[
-            [
-                [
-                    "delete",
-                    293,
-                    295
-                ],
-                [
-                    "insert",
-                    293,
-                    " "
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1024-41-e-2-i":{
+        "op":"deleted"
     },
     "1024-31-ServiceProvider":{
         "op":"deleted"
