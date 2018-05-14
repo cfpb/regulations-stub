@@ -5,22 +5,31 @@
     "1024-41-c-2-iii":{
         "op":"deleted"
     },
-    "1024-39-c-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Borrowers in bankruptcy.Section 1024.39 does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, servicers may adapt the requirements of \u00a7 1024.39 in any manner that would permit them to notify borrowers of loss mitigation options.",
-            "label":[
-                "1024",
-                "39",
-                "c",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1024-41-c-4-ii-A":{
+        "op":"deleted"
+    },
+    "1024-39-d-3-i":{
+        "op":"deleted"
+    },
+    "1024-41-c-4-ii-C":{
+        "op":"deleted"
+    },
+    "1024-37-c-2-v":{
+        "text":[
+            [
+                [
+                    "delete",
+                    16,
+                    21
+                ],
+                [
+                    "insert",
+                    16,
+                    "that the borrower's hazard insurance is expiring or has expired, as applicable, and that the servicer does not have evidence that the borrower has hazard insurance coverage past the expiration date, and that, if applicable, identifies the type of hazard insurance for which the servicer lacks evidence of coverage;"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1024-6-d-1-ii-A":{
         "node":{
@@ -40,23 +49,82 @@
         },
         "op":"added"
     },
-    "1024-6-d-1-ii-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(B) In the Avoiding Foreclosure section of the booklet, it is a permissible change to inform homeowners that they may find information on and assistance in avoiding foreclosures at http://www.consumerfinance.gov. The deletion of the reference to the HUD Web page, http://www.hud.gov/foreclosure/, in the Avoiding Foreclosure section of the booklet is not a permissible change.",
-            "label":[
-                "1024",
-                "6",
-                "d",
-                "1",
-                "ii",
-                "B"
+    "1024-37-e-4":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    14
+                ],
+                [
+                    "insert",
+                    4,
+                    "Additional information.As applicable, a servicer may not include any information other than information required by paragraph (e)(2) of this section in"
+                ]
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    19,
+                    59
+                ],
+                [
+                    "insert",
+                    19,
+                    "written notice required by paragraph (e)(1) of this section. However,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    75,
+                    90
+                ],
+                [
+                    "insert",
+                    75,
+                    "provide such additional"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    103,
+                    154
+                ],
+                [
+                    "insert",
+                    103,
+                    "to a borrower on separate pieces"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    158,
+                    170
+                ],
+                [
+                    "insert",
+                    158,
+                    "paper"
+                ]
+            ],
+            [
+                "delete",
+                174,
+                348
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                23
+            ]
+        ],
+        "op":"modified"
     },
     "1024-6-d-1-ii-C":{
         "node":{
@@ -76,189 +144,8 @@
         },
         "op":"added"
     },
-    "1024-C-h2-h5-p21":{
-        "text":[
-            [
-                [
-                    "delete",
-                    868,
-                    871
-                ],
-                [
-                    "insert",
-                    868,
-                    "\u201c0\u201d"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    944,
-                    947
-                ],
-                [
-                    "insert",
-                    944,
-                    "\u201c0\u201d"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    991,
-                    995
-                ],
-                [
-                    "insert",
-                    991,
-                    "\u201c0\u201d."
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
-    "1024-41-d-Interp-1":{
+    "1024-39-c-2-ii-A":{
         "op":"deleted"
-    },
-    "1024-35-c-Interp-2-iv":{
-        "op":"deleted"
-    },
-    "1024-A-h2-p27":{
-        "text":[
-            [
-                "delete",
-                740,
-                834
-            ]
-        ],
-        "op":"modified"
-    },
-    "1024-A-h2-p25":{
-        "text":[
-            [
-                "delete",
-                917,
-                1016
-            ]
-        ],
-        "op":"modified"
-    },
-    "1024-37-c-2-v-A":{
-        "op":"deleted"
-    },
-    "1024-37-c-2-v-B":{
-        "op":"deleted"
-    },
-    "1024-37-c-2-v-C":{
-        "op":"deleted"
-    },
-    "1024-C-h2-h3-p8-p10":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The loan originator must indicate whether the interest rate can rise, and, if it can, must insert the maximum rate to which it can rise over the life of the loan. The loan originator must also indicate the period of time after which the interest rate can first change.",
-            "label":[
-                "1024",
-                "C",
-                "h2",
-                "h3",
-                "p8",
-                "p10"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-C-h2-h3-p8-p11":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The loan originator must indicate whether the loan balance can rise even if the borrower makes payments on time, for example in the case of a loan with negative amortization. If it can, the loan originator must insert the maximum amount to which the loan balance can rise over the life of the loan. For Federal, state, local, or tribal housing programs that provide payment assistance, any repayment of such program assistance should be excluded from consideration in completing this item. If the loan balance will increase only because escrow items are being paid through the loan balance, the loan originator is not required to check the box indicating that the loan balance can rise.",
-            "label":[
-                "1024",
-                "C",
-                "h2",
-                "h3",
-                "p8",
-                "p11"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-C-h2-h3-p8-p12":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The loan originator must indicate whether the monthly amount owed for principal, interest, and any mortgage insurance can rise even if the borrower makes payments on time. If the monthly amount owed can rise even if the borrower makes payments on time, the loan originator must indicate the period of time after which the monthly amount owed can first change, the maximum amount to which the monthly amount owed can rise at the time of the first change, and the maximum amount to which the monthly amount owed can rise over the life of the loan. The amount used for the monthly amount owed must be the greater of: (1) The required monthly payment for principal and interest for that month, plus any monthly mortgage insurance payment; or (2) the accrued interest for that month, plus any monthly mortgage insurance payment.",
-            "label":[
-                "1024",
-                "C",
-                "h2",
-                "h3",
-                "p8",
-                "p12"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-C-h2-h3-p8-p13":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The loan originator must indicate whether the loan includes a prepayment penalty, and, if so, the maximum amount that it could be.",
-            "label":[
-                "1024",
-                "C",
-                "h2",
-                "h3",
-                "p8",
-                "p13"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-C-h2-h3-p8-p14":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The loan originator must indicate whether the loan requires a balloon payment and, if so, the amount of the payment and in how many years it will be due.",
-            "label":[
-                "1024",
-                "C",
-                "h2",
-                "h3",
-                "p8",
-                "p14"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-C-h2-h3-p8-p15":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"\u201cEscrow account information. \u201d\u2014The loan originator must indicate whether the loan includes an escrow account for property taxes and other financial obligations. The amount shown in the \u201cSummary of your loan\u201d section for \u201cYour initial monthly amount owed for principal, interest, and any mortgage insurance\u201d must be entered in the space for the monthly amount owed in this section.",
-            "label":[
-                "1024",
-                "C",
-                "h2",
-                "h3",
-                "p8",
-                "p15"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1024-B-12-p1":{
         "text":[
@@ -281,6 +168,113 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-c-3-ii-C":{
+        "op":"deleted"
+    },
+    "1024-41-c-3-ii-B":{
+        "op":"deleted"
+    },
+    "1024-41-k-2-i":{
+        "op":"deleted"
+    },
+    "1024-41-d-Interp-1":{
+        "op":"deleted"
+    },
+    "1024-41-c-3-i-D-1":{
+        "op":"deleted"
+    },
+    "1024-41-c-3-i-D-2":{
+        "op":"deleted"
+    },
+    "1024-A-h2-p27":{
+        "text":[
+            [
+                "delete",
+                740,
+                834
+            ]
+        ],
+        "op":"modified"
+    },
+    "1024-41-k-1-i":{
+        "op":"deleted"
+    },
+    "1024-A-h2-p25":{
+        "text":[
+            [
+                "delete",
+                917,
+                1016
+            ]
+        ],
+        "op":"modified"
+    },
+    "1024-37-c-2-v-A":{
+        "op":"deleted"
+    },
+    "1024-37-c-2-v-B":{
+        "op":"deleted"
+    },
+    "1024-37-c-2-v-C":{
+        "op":"deleted"
+    },
+    "1024-41-c-3-i-E":{
+        "op":"deleted"
+    },
+    "1024-41-c-3-i-D":{
+        "op":"deleted"
+    },
+    "1024-C-h2-h3-p8-p12":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The loan originator must indicate whether the monthly amount owed for principal, interest, and any mortgage insurance can rise even if the borrower makes payments on time. If the monthly amount owed can rise even if the borrower makes payments on time, the loan originator must indicate the period of time after which the monthly amount owed can first change, the maximum amount to which the monthly amount owed can rise at the time of the first change, and the maximum amount to which the monthly amount owed can rise over the life of the loan. The amount used for the monthly amount owed must be the greater of: (1) The required monthly payment for principal and interest for that month, plus any monthly mortgage insurance payment; or (2) the accrued interest for that month, plus any monthly mortgage insurance payment.",
+            "label":[
+                "1024",
+                "C",
+                "h2",
+                "h3",
+                "p8",
+                "p12"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-c-3-i-F":{
+        "op":"deleted"
+    },
+    "1024-39-c-2-i-A":{
+        "op":"deleted"
+    },
+    "1024-C-h2-h3-p8-p15":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"\u201cEscrow account information. \u201d\u2014The loan originator must indicate whether the loan includes an escrow account for property taxes and other financial obligations. The amount shown in the \u201cSummary of your loan\u201d section for \u201cYour initial monthly amount owed for principal, interest, and any mortgage insurance\u201d must be entered in the space for the monthly amount owed in this section.",
+            "label":[
+                "1024",
+                "C",
+                "h2",
+                "h3",
+                "p8",
+                "p15"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-39-c-2-i-C":{
+        "op":"deleted"
+    },
+    "1024-41-c-3-i-B":{
+        "op":"deleted"
+    },
+    "1024-5-d-1":{
+        "op":"deleted"
     },
     "1024-35-c-Interp-2-ii":{
         "op":"deleted"
@@ -306,7 +300,7 @@
         },
         "op":"added"
     },
-    "1024-39-d-1-Interp-2":{
+    "1024-41-c-3-i":{
         "op":"deleted"
     },
     "1024-C-h2-h3-p9-i":{
@@ -410,17 +404,73 @@
             [
                 [
                     "delete",
-                    177,
-                    183
+                    4,
+                    10
                 ],
                 [
                     "insert",
-                    177,
+                    4,
+                    "Notice required.Except"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    161,
+                    167
+                ],
+                [
+                    "insert",
+                    161,
                     "(a)(2)"
                 ]
+            ],
+            [
+                [
+                    "delete",
+                    184,
+                    186
+                ],
+                [
+                    "insert",
+                    184,
+                    "not"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    229,
+                    259
+                ],
+                [
+                    "insert",
+                    229,
+                    "delinquency. A servicer is not required to provide the written notice more"
+                ]
+            ],
+            [
+                "delete",
+                265,
+                422
+            ],
+            [
+                "delete",
+                453,
+                975
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                16
             ]
         ],
         "op":"modified"
+    },
+    "1024-39-c-1-i":{
+        "op":"deleted"
     },
     "1024-41-f-1":{
         "text":[
@@ -439,25 +489,14 @@
         ],
         "op":"modified"
     },
-    "1024-41-d-1-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Net present value calculation.If a trial or permanent loan modification is denied because of a net present value calculation, the specific reasons in the notice provided to the borrower must include the inputs used in the net present value calculation.",
-            "label":[
-                "1024",
-                "41",
-                "d",
-                "1",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-41-d-1-Interp-2-p1"
-            ]
-        },
-        "op":"added"
+    "1024-38-b-2-vi":{
+        "op":"deleted"
+    },
+    "1024-41-k-1-ii":{
+        "op":"deleted"
+    },
+    "1024-41-c-4-ii-B":{
+        "op":"deleted"
     },
     "1024-41-h-4":{
         "text":[
@@ -559,23 +598,8 @@
         ],
         "op":"modified"
     },
-    "1024-41-d-1-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Investor requirements.If a trial or permanent loan modification option is denied because of a requirement of an owner or assignee of a mortgage loan, the specific reasons in the notice provided to the borrower must identify the owner or assignee of the mortgage loan and the requirement that is the basis of the denial. A statement that the denial of a loan modification option is based on an investor requirement, without additional information specifically identifying the relevant investor or guarantor and the specific applicable requirement, is insufficient. However, where an owner or assignee has established an evaluation criteria that sets an order ranking for evaluation of loan modification options (commonly known as a waterfall) and a borrower has qualified for a particular loan modification option in the ranking established by the owner or assignee, it is sufficient for the servicer to inform the borrower, with respect to other loan modification options ranked below any such option offered to a borrower, that the investor's requirements include the use of such a ranking and that an offer of a loan modification option necessarily results in a denial for any other loan modification options below the option for which the borrower is eligible in the ranking.",
-            "label":[
-                "1024",
-                "41",
-                "d",
-                "1",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1024-41-b-3-Interp-1":{
+        "op":"deleted"
     },
     "1024-41-b-2-ii-Interp-1":{
         "op":"deleted"
@@ -609,10 +633,80 @@
         ],
         "op":"modified"
     },
-    "1024-41-c-2-iv-Interp":{
+    "1024-39-c-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Borrowers in bankruptcy.Section 1024.39 does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, servicers may adapt the requirements of \u00a7 1024.39 in any manner that would permit them to notify borrowers of loss mitigation options.",
+            "label":[
+                "1024",
+                "39",
+                "c",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-i":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    5
+                ],
+                [
+                    "insert",
+                    4,
+                    "Duplicative requests.A"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    15,
+                    19
+                ],
+                [
+                    "insert",
+                    15,
+                    "is only required to"
+                ]
+            ],
+            [
+                "insert",
+                71,
+                "single complete loss mitigation application for a "
+            ],
+            [
+                [
+                    "delete",
+                    82,
+                    360
+                ],
+                [
+                    "insert",
+                    82,
+                    "mortgage loan account."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                21
+            ]
+        ],
+        "op":"modified"
+    },
+    "1024-39-c-2":{
         "op":"deleted"
     },
-    "1024-36-b-Interp-2-iii":{
+    "1024-41-k":{
         "op":"deleted"
     },
     "1024-41-j":{
@@ -703,7 +797,19 @@
     "1024-C-h2-h3-p9":{
         "op":"deleted"
     },
-    "1024-41-c-2-iv":{
+    "1024-41-k-5":{
+        "op":"deleted"
+    },
+    "1024-41-k-4":{
+        "op":"deleted"
+    },
+    "1024-41-k-3":{
+        "op":"deleted"
+    },
+    "1024-41-k-2":{
+        "op":"deleted"
+    },
+    "1024-41-k-1":{
         "op":"deleted"
     },
     "1024-35-g-1-iii-B":{
@@ -748,8 +854,26 @@
         },
         "op":"added"
     },
-    "1024-41-c-2-iv-Interp-2":{
+    "1024-39-d-2":{
         "op":"deleted"
+    },
+    "1024-6-d-1-ii-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(B) In the Avoiding Foreclosure section of the booklet, it is a permissible change to inform homeowners that they may find information on and assistance in avoiding foreclosures at http://www.consumerfinance.gov. The deletion of the reference to the HUD Web page, http://www.hud.gov/foreclosure/, in the Avoiding Foreclosure section of the booklet is not a permissible change.",
+            "label":[
+                "1024",
+                "6",
+                "d",
+                "1",
+                "ii",
+                "B"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-33-a-Interp-1":{
         "text":[
@@ -819,7 +943,10 @@
         ],
         "op":"modified"
     },
-    "1024-41-f-Interp-1-ii":{
+    "1024-41-c-3-ii-A":{
+        "op":"deleted"
+    },
+    "1024-41-c-4-i":{
         "op":"deleted"
     },
     "1024-41-c-2-iii-Interp":{
@@ -859,10 +986,22 @@
         },
         "op":"added"
     },
-    "1024-5-d-1":{
+    "1024-39-c-2-ii-B":{
+        "op":"deleted"
+    },
+    "1024-39-d-3-ii":{
+        "op":"deleted"
+    },
+    "1024-39-c-1-iii":{
+        "op":"deleted"
+    },
+    "1024-41-c-3-ii":{
         "op":"deleted"
     },
     "1024-5-d-2":{
+        "op":"deleted"
+    },
+    "1024-41-c-2-iv":{
         "op":"deleted"
     },
     "1024-A-h5":{
@@ -904,7 +1043,7 @@
     "1024-C-h2-h3-p10":{
         "op":"deleted"
     },
-    "1024-C-h2-h3-p11":{
+    "1024-39-c-2-ii":{
         "op":"deleted"
     },
     "1024-C-h2-h3-p14":{
@@ -913,22 +1052,8 @@
     "1024-C-h2-h3-p15":{
         "op":"deleted"
     },
-    "1024-37-c-2-v":{
-        "text":[
-            [
-                [
-                    "delete",
-                    16,
-                    21
-                ],
-                [
-                    "insert",
-                    16,
-                    "that the borrower's hazard insurance is expiring or has expired, as applicable, and that the servicer does not have evidence that the borrower has hazard insurance coverage past the expiration date, and that, if applicable, identifies the type of hazard insurance for which the servicer lacks evidence of coverage;"
-                ]
-            ]
-        ],
-        "op":"modified"
+    "1024-39-c-1-ii":{
+        "op":"deleted"
     },
     "1024-39-d-1-Interp":{
         "op":"deleted"
@@ -1023,8 +1148,46 @@
     "1024-41-f-Interp-1-iv":{
         "op":"deleted"
     },
+    "1024-41-b-2-ii-Interp-1-i":{
+        "op":"deleted"
+    },
+    "1024-35-c-Interp-2-iv":{
+        "op":"deleted"
+    },
     "1024-31-Delinquency":{
         "op":"deleted"
+    },
+    "1024-36-b-Interp-2-iii":{
+        "op":"deleted"
+    },
+    "1024-41-c-2-iv-Interp-2":{
+        "op":"deleted"
+    },
+    "1024-41-b-2-i-B-Interp":{
+        "op":"deleted"
+    },
+    "1024-39-d-1-Interp-2":{
+        "op":"deleted"
+    },
+    "1024-41-d-1-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Net present value calculation.If a trial or permanent loan modification is denied because of a net present value calculation, the specific reasons in the notice provided to the borrower must include the inputs used in the net present value calculation.",
+            "label":[
+                "1024",
+                "41",
+                "d",
+                "1",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-d-1-Interp-2-p1"
+            ]
+        },
+        "op":"added"
     },
     "1024-17-k-5-ii-Interp":{
         "title":[
@@ -1103,6 +1266,9 @@
         },
         "op":"added"
     },
+    "1024-41-d-Interp-4":{
+        "op":"deleted"
+    },
     "1024-6-d-2":{
         "text":[
             [
@@ -1121,6 +1287,47 @@
                 "insert",
                 360,
                 " References to HUD on the cover of the booklet may be changed to references to the Bureau."
+            ]
+        ],
+        "op":"modified"
+    },
+    "1024-C-h2-h5-p21":{
+        "text":[
+            [
+                [
+                    "delete",
+                    868,
+                    871
+                ],
+                [
+                    "insert",
+                    868,
+                    "\u201c0\u201d"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    944,
+                    947
+                ],
+                [
+                    "insert",
+                    944,
+                    "\u201c0\u201d"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    991,
+                    995
+                ],
+                [
+                    "insert",
+                    991,
+                    "\u201c0\u201d."
+                ]
             ]
         ],
         "op":"modified"
@@ -1169,8 +1376,80 @@
         ],
         "op":"modified"
     },
-    "1024-41-b-3":{
+    "1024-39-c-1-iii-B":{
         "op":"deleted"
+    },
+    "1024-39-c-1-iii-C":{
+        "op":"deleted"
+    },
+    "1024-39-c-1-iii-A":{
+        "op":"deleted"
+    },
+    "1024-33-c-1-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    18,
+                    27
+                ],
+                [
+                    "insert",
+                    18,
+                    "1024.39.1024.39. A"
+                ]
+            ],
+            [
+                "insert",
+                66,
+                "1024.39 during the 60-day period beginning on the effective date of a servicing transfer does not constitute treating a payment as late for purposes of "
+            ],
+            [
+                "delete",
+                68,
+                222
+            ]
+        ],
+        "op":"modified"
+    },
+    "1024-C-h2-h3-p8-p10":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The loan originator must indicate whether the interest rate can rise, and, if it can, must insert the maximum rate to which it can rise over the life of the loan. The loan originator must also indicate the period of time after which the interest rate can first change.",
+            "label":[
+                "1024",
+                "C",
+                "h2",
+                "h3",
+                "p8",
+                "p10"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-c-4-ii-B-1":{
+        "op":"deleted"
+    },
+    "1024-C-h2-h3-p8-p16":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"\u201c Summary of your settlement charges. \u201d\u2014On this line, the loan originator must state the Adjusted Origination Charges from subtotal A of page 2, the Charges for All Other Settlement Services from subtotal B of page 2, and the Total Estimated Settlement Charges from the bottom of page 2.",
+            "label":[
+                "1024",
+                "C",
+                "h2",
+                "h3",
+                "p8",
+                "p16"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-A-h2-p65":{
         "text":[
@@ -1189,8 +1468,29 @@
         ],
         "op":"modified"
     },
+    "1024-41-f-1-i":{
+        "op":"deleted"
+    },
     "1024-35-c-Interp-2-iii":{
         "op":"deleted"
+    },
+    "1024-C-h2-h3-p8-p13":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The loan originator must indicate whether the loan includes a prepayment penalty, and, if so, the maximum amount that it could be.",
+            "label":[
+                "1024",
+                "C",
+                "h2",
+                "h3",
+                "p8",
+                "p13"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-C-h2-h6-p31":{
         "text":[
@@ -1226,32 +1526,8 @@
         ],
         "op":"modified"
     },
-    "1024-33-c-1-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    18,
-                    27
-                ],
-                [
-                    "insert",
-                    18,
-                    "1024.39.1024.39. A"
-                ]
-            ],
-            [
-                "insert",
-                66,
-                "1024.39 during the 60-day period beginning on the effective date of a servicing transfer does not constitute treating a payment as late for purposes of "
-            ],
-            [
-                "delete",
-                68,
-                222
-            ]
-        ],
-        "op":"modified"
+    "1024-41-c-3-i-A":{
+        "op":"deleted"
     },
     "1024-6-d-1-i":{
         "node":{
@@ -1273,21 +1549,11 @@
     "1024-41-b-2-ii-Interp":{
         "op":"deleted"
     },
-    "1024-41-d-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(1) The specific reasons for the servicer's determination for each such trial or permanent loan modification option; and",
-            "label":[
-                "1024",
-                "41",
-                "d",
-                "1"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1024-41-c-4-ii":{
+        "op":"deleted"
+    },
+    "1024-41-b-3":{
+        "op":"deleted"
     },
     "1024-41-d-2":{
         "node":{
@@ -1305,23 +1571,199 @@
         },
         "op":"added"
     },
-    "1024-C-h2-h3-p8-p16":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"\u201c Summary of your settlement charges. \u201d\u2014On this line, the loan originator must state the Adjusted Origination Charges from subtotal A of page 2, the Charges for All Other Settlement Services from subtotal B of page 2, and the Total Estimated Settlement Charges from the bottom of page 2.",
-            "label":[
-                "1024",
-                "C",
-                "h2",
-                "h3",
-                "p8",
-                "p16"
+    "1024-41-c-3-i-C":{
+        "op":"deleted"
+    },
+    "1024-39-c-2-i-B":{
+        "op":"deleted"
+    },
+    "1024-37-d-4":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    14
+                ],
+                [
+                    "insert",
+                    4,
+                    "Additional information.As applicable, a servicer may not include any information other than information required by paragraph (d)(2)(i) or (ii) of this section in"
+                ]
             ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    19,
+                    59
+                ],
+                [
+                    "insert",
+                    19,
+                    "written notice required by paragraph (c)(1)(ii) of this section. However,"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    75,
+                    90
+                ],
+                [
+                    "insert",
+                    75,
+                    "provide such additional"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    103,
+                    165
+                ],
+                [
+                    "insert",
+                    103,
+                    "to a borrower on separate pieces"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    169,
+                    197
+                ],
+                [
+                    "insert",
+                    169,
+                    "paper"
+                ]
+            ],
+            [
+                "delete",
+                205,
+                379
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                23
+            ]
+        ],
+        "op":"modified"
+    },
+    "1024-37-d-3":{
+        "text":[
+            [
+                "insert",
+                4,
+                "Format.A servicer must set the information required by paragraphs (d)(2)(i)(B) and (D) of this section in bold text. "
+            ],
+            [
+                [
+                    "delete",
+                    15,
+                    23
+                ],
+                [
+                    "insert",
+                    15,
+                    "may use form MS-3B in appendix MS-3 of this part to comply with"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    28,
+                    51
+                ],
+                [
+                    "insert",
+                    28,
+                    "requirements of"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    63,
+                    75
+                ],
+                [
+                    "insert",
+                    63,
+                    "(d)(1)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    80,
+                    83
+                ],
+                [
+                    "insert",
+                    80,
+                    "(d)(2)(i)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    92,
+                    99
+                ],
+                [
+                    "insert",
+                    92,
+                    "section. A servicer may use form MS-3C"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    103,
+                    117
+                ],
+                [
+                    "insert",
+                    103,
+                    "appendix MS-3 of this part to comply with the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    134,
+                    150
+                ],
+                [
+                    "insert",
+                    134,
+                    "paragraphs (d)(1) and (d)(2)(ii)"
+                ]
+            ],
+            [
+                "delete",
+                159,
+                235
+            ],
+            [
+                "delete",
+                243,
+                532
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                7
+            ]
+        ],
+        "op":"modified"
     },
     "1024-37-c-4":{
         "text":[
@@ -1490,13 +1932,19 @@
     "1024-39-d-1":{
         "op":"deleted"
     },
-    "1024-41-f-Interp-1":{
+    "1024-39-c-2-i":{
         "op":"deleted"
     },
-    "1024-39-d-2":{
+    "1024-39-d-3":{
+        "op":"deleted"
+    },
+    "1024-41-k-4-i":{
         "op":"deleted"
     },
     "1024-41-b-2-ii-Interp-1-ii":{
+        "op":"deleted"
+    },
+    "1024-41-f-Interp-1-ii":{
         "op":"deleted"
     },
     "1024-41-b-2-i-Interp":{
@@ -1546,16 +1994,44 @@
     "1024-C-h2-h3-p9-iii":{
         "op":"deleted"
     },
-    "1024-41-f-1-i":{
+    "1024-41-c-4-ii-B-4":{
         "op":"deleted"
     },
-    "1024-41-b-2-ii-Interp-1-i":{
+    "1024-41-c-4-ii-B-3":{
+        "op":"deleted"
+    },
+    "1024-41-c-4-ii-B-2":{
+        "op":"deleted"
+    },
+    "1024-39-d-3-iii":{
+        "op":"deleted"
+    },
+    "1024-41-d-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(1) The specific reasons for the servicer's determination for each such trial or permanent loan modification option; and",
+            "label":[
+                "1024",
+                "41",
+                "d",
+                "1"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-C-h2-h3-p11":{
         "op":"deleted"
     },
     "1024-36-b-Interp-2-iv":{
         "op":"deleted"
     },
-    "1024-41-d-Interp-4":{
+    "1024-41-c-4-ii-A-1":{
+        "op":"deleted"
+    },
+    "1024-41-c-4-ii-A-2":{
         "op":"deleted"
     },
     "1024-MS-3(D)":{
@@ -1573,6 +2049,24 @@
     },
     "1024-36-b-Interp-2-ii":{
         "op":"deleted"
+    },
+    "1024-C-h2-h3-p8-p11":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The loan originator must indicate whether the loan balance can rise even if the borrower makes payments on time, for example in the case of a loan with negative amortization. If it can, the loan originator must insert the maximum amount to which the loan balance can rise over the life of the loan. For Federal, state, local, or tribal housing programs that provide payment assistance, any repayment of such program assistance should be excluded from consideration in completing this item. If the loan balance will increase only because escrow items are being paid through the loan balance, the loan originator is not required to check the box indicating that the loan balance can rise.",
+            "label":[
+                "1024",
+                "C",
+                "h2",
+                "h3",
+                "p8",
+                "p11"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-39-d-1-Interp-1":{
         "op":"deleted"
@@ -1638,6 +2132,40 @@
         ],
         "op":"modified"
     },
+    "1024-37-d-2-ii-B":{
+        "text":[
+            [
+                [
+                    "delete",
+                    62,
+                    66
+                ],
+                [
+                    "insert",
+                    62,
+                    "(iv), (x), (xi),"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    71,
+                    88
+                ],
+                [
+                    "insert",
+                    71,
+                    "(d)(2)(i)(B)"
+                ]
+            ],
+            [
+                "delete",
+                93,
+                110
+            ]
+        ],
+        "op":"modified"
+    },
     "1024-17-h-1":{
         "text":[
             [
@@ -1667,8 +2195,120 @@
         ],
         "op":"modified"
     },
+    "1024-41-k-2-ii-B":{
+        "op":"deleted"
+    },
+    "1024-41-k-2-ii-A":{
+        "op":"deleted"
+    },
     "1024-39-d":{
         "op":"deleted"
+    },
+    "1024-39-a":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    49
+                ],
+                [
+                    "insert",
+                    4,
+                    "Live contact.A servicer shall establish or make good faith efforts to establish live contact with"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    52,
+                    116
+                ],
+                [
+                    "insert",
+                    52,
+                    "delinquent borrower not later than the 36th day of the borrower's delinquency and, promptly after establishing"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    122,
+                    147
+                ],
+                [
+                    "insert",
+                    122,
+                    "contact, inform such"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    157,
+                    170
+                ],
+                [
+                    "insert",
+                    157,
+                    "about"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    175,
+                    183
+                ],
+                [
+                    "insert",
+                    175,
+                    "availability"
+                ]
+            ],
+            [
+                "delete",
+                187,
+                439
+            ],
+            [
+                [
+                    "delete",
+                    455,
+                    463
+                ],
+                [
+                    "insert",
+                    455,
+                    "options"
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                13
+            ]
+        ],
+        "op":"modified"
+    },
+    "1024-39-c":{
+        "text":[
+            [
+                "insert",
+                3,
+                " Conflicts with other law.Nothing in this section shall require a servicer to communicate with a borrower in a manner otherwise prohibited by applicable law."
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                23
+            ]
+        ],
+        "op":"modified"
     },
     "1024-41-b-3-Interp-2":{
         "op":"deleted"
@@ -1691,7 +2331,59 @@
         },
         "op":"added"
     },
-    "1024-41-b-3-Interp-1":{
+    "1024-41-c-4":{
+        "op":"deleted"
+    },
+    "1024-41-c-3":{
+        "op":"deleted"
+    },
+    "1024-41-c-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    46
+                ],
+                [
+                    "insert",
+                    4,
+                    "Complete loss mitigation application.If a servicer receives a complete loss mitigation application more than 37 days before a foreclosure sale, then, within 30 days"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    50,
+                    66
+                ],
+                [
+                    "insert",
+                    50,
+                    "receiving"
+                ]
+            ],
+            [
+                "insert",
+                69,
+                "borrower's complete loss mitigation application, a "
+            ],
+            [
+                "delete",
+                78,
+                258
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                37
+            ]
+        ],
+        "op":"modified"
+    },
+    "1024-39-c-1":{
         "op":"deleted"
     },
     "1024-41-b-2-ii":{
@@ -1726,6 +2418,27 @@
     "1024-41-f-Interp-1-i":{
         "op":"deleted"
     },
+    "1024-41-c-2-iv-Interp":{
+        "op":"deleted"
+    },
+    "1024-41-d-1-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Investor requirements.If a trial or permanent loan modification option is denied because of a requirement of an owner or assignee of a mortgage loan, the specific reasons in the notice provided to the borrower must identify the owner or assignee of the mortgage loan and the requirement that is the basis of the denial. A statement that the denial of a loan modification option is based on an investor requirement, without additional information specifically identifying the relevant investor or guarantor and the specific applicable requirement, is insufficient. However, where an owner or assignee has established an evaluation criteria that sets an order ranking for evaluation of loan modification options (commonly known as a waterfall) and a borrower has qualified for a particular loan modification option in the ranking established by the owner or assignee, it is sufficient for the servicer to inform the borrower, with respect to other loan modification options ranked below any such option offered to a borrower, that the investor's requirements include the use of such a ranking and that an offer of a loan modification option necessarily results in a denial for any other loan modification options below the option for which the borrower is eligible in the ranking.",
+            "label":[
+                "1024",
+                "41",
+                "d",
+                "1",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-33-a":{
         "text":[
             [
@@ -1755,7 +2468,13 @@
         ],
         "op":"modified"
     },
-    "1024-41-b-2-i-B-Interp":{
+    "1024-41-k-4-ii":{
+        "op":"deleted"
+    },
+    "1024-41-f-Interp-1":{
+        "op":"deleted"
+    },
+    "1024-41-k-2-ii":{
         "op":"deleted"
     },
     "1024-9-a-5":{
@@ -1807,6 +2526,24 @@
     },
     "1024-36-b-Interp-2-i":{
         "op":"deleted"
+    },
+    "1024-C-h2-h3-p8-p14":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The loan originator must indicate whether the loan requires a balloon payment and, if so, the amount of the payment and in how many years it will be due.",
+            "label":[
+                "1024",
+                "C",
+                "h2",
+                "h3",
+                "p8",
+                "p14"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-5-d":{
         "op":"deleted"
