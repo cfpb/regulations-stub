@@ -3,7 +3,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The insurance we buy:",
+            "text":"\u2022 [Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.",
             "label":[
                 "1024",
                 "MS",
@@ -19,7 +19,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The policy that we bought [expired] [is scheduled to expire]. Because [hazard][Insurance Type] insurance] is required on your property, we intend to maintain insurance on your property by renewing or replacing the insurance we bought.",
+            "text":"The insurance we buy:",
             "label":[
                 "1024",
                 "MS",
@@ -501,7 +501,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"[Date of Notice]",
+            "text":"[Borrower's Name]",
             "label":[
                 "1024",
                 "MS",
@@ -790,7 +790,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Because we did not have evidence that you had [hazard] [Insurance Type] insurance on the property listed above, we bought insurance on your property and added the cost to your mortgage loan account.",
+            "text":"The policy that we bought [expired] [is scheduled to expire]. Because [hazard][Insurance Type] insurance] is required on your property, we intend to maintain insurance on your property by renewing or replacing the insurance we bought.",
             "label":[
                 "1024",
                 "MS",
@@ -1770,8 +1770,7 @@
                 "1024-MS-3(A)-p39",
                 "1024-MS-3(A)-p40",
                 "1024-MS-3(A)-p41",
-                "1024-MS-3(A)-p42",
-                "1024-MS-3(A)-p43"
+                "1024-MS-3(A)-p42"
             ]
         },
         "op":"added"
@@ -2322,20 +2321,18 @@
         },
         "op":"added"
     },
-    "1024-38-c-2-Interp-1":{
+    "1024-MS-3(C)-p57":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Timing.A servicer complies with \u00a7 1024.38(c)(2) if it maintains information in a manner that facilitates compliance with \u00a7 1024.38(c)(2) beginning on or after January 10, 2014. A servicer is not required to comply with \u00a7 1024.38(c)(2) with respect to information created prior to January 10, 2014. For example, if a mortgage loan was originated on January 1, 2013, a servicer is not required by \u00a7 1024.38(c)(2) to maintain information regarding transactions credited or debited to that mortgage loan account in any particular manner for payments made prior to January 10, 2014. However, for payments made on or after January 10, 2014, a servicer must maintain such information in a manner that facilitates compiling such information into a servicing file within five days.",
+            "text":"[Date of Notice]",
             "label":[
                 "1024",
-                "38",
-                "c",
-                "2",
-                "Interp",
-                "1"
+                "MS",
+                "3(C)",
+                "p57"
             ],
-            "node_type":"interp",
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
@@ -2518,22 +2515,6 @@
                 "1024-41-c-2-iii-Interp",
                 "1024-41-c-2-iv-Interp"
             ]
-        },
-        "op":"added"
-    },
-    "1024-MS-3(C)-p70":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]",
-            "label":[
-                "1024",
-                "MS",
-                "3(C)",
-                "p70"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -3430,7 +3411,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Address]",
+            "text":"Dear [Borrower's Name]:",
             "label":[
                 "1024",
                 "MS",
@@ -3538,7 +3519,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"\u2022 [Refinance your loan with us or another lender;]",
+            "text":"\u2022 [Modify your loan terms with us;]",
             "label":[
                 "1024",
                 "MS",
@@ -3554,7 +3535,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"\u2022 [Modify your loan terms with us;]",
+            "text":"\u2022 [Payment forbearance temporarily gives you more time to pay your monthly payment;] [or]",
             "label":[
                 "1024",
                 "MS",
@@ -3570,7 +3551,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"\u2022 [Payment forbearance temporarily gives you more time to pay your monthly payment;] [or]",
+            "text":"\u2022 [If you are not able to continue paying your mortgage, your best option may be to find more affordable housing. As an alternative to foreclosure, you may be able to sell your home and use the proceeds to pay off your current loan.]",
             "label":[
                 "1024",
                 "MS",
@@ -4141,7 +4122,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Dear [Borrower's Name]:",
+            "text":"This is your second and final notice that our records show that your [hazard] [Insurance Type] insurance [is expiring] [expired], and we do not have evidence that you have obtained new coverage. Because [hazard] [Insurance Type] insurance is required on your property, [we bought insurance for your property] [we plan to buy insurance for your property]. You must pay us for any period during which the insurance we buy is in effect but you do not have insurance.",
             "label":[
                 "1024",
                 "MS",
@@ -4388,9 +4369,6 @@
         },
         "op":"added"
     },
-    "1024-MS2-h1-h2-p16":{
-        "op":"deleted"
-    },
     "1024-37-b-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -4529,6 +4507,7 @@
             ],
             "node_type":"appendix",
             "child_labels":[
+                "1024-MS-3(B)-p44",
                 "1024-MS-3(B)-p45",
                 "1024-MS-3(B)-p46",
                 "1024-MS-3(B)-p47",
@@ -4539,8 +4518,7 @@
                 "1024-MS-3(B)-p52",
                 "1024-MS-3(B)-p53",
                 "1024-MS-3(B)-p54",
-                "1024-MS-3(B)-p55",
-                "1024-MS-3(B)-p56"
+                "1024-MS-3(B)-p55"
             ]
         },
         "op":"added"
@@ -4617,27 +4595,11 @@
         },
         "op":"added"
     },
-    "1024-MS-3(A)-p43":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]",
-            "label":[
-                "1024",
-                "MS",
-                "3(A)",
-                "p43"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-MS-3(A)-p42":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"If you have any questions, please contact us at [telephone number].",
+            "text":"[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]",
             "label":[
                 "1024",
                 "MS",
@@ -4653,7 +4615,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"\u2022 May not provide as much coverage as an insurance policy you buy yourself.",
+            "text":"If you have any questions, please contact us at [telephone number].",
             "label":[
                 "1024",
                 "MS",
@@ -4669,7 +4631,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"\u2022 May be more expensive than the insurance you can buy yourself.",
+            "text":"\u2022 May not provide as much coverage as an insurance policy you buy yourself.",
             "label":[
                 "1024",
                 "MS",
@@ -5101,10 +5063,10 @@
             ],
             "node_type":"appendix",
             "child_labels":[
+                "1024-MS-4(B)-p91",
                 "1024-MS-4(B)-p92",
                 "1024-MS-4(B)-p93",
-                "1024-MS-4(B)-p94",
-                "1024-MS-4(B)-p95"
+                "1024-MS-4(B)-p94"
             ]
         },
         "op":"added"
@@ -5517,19 +5479,18 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-2-2":{
+    "1024-MS-4(B)-p91":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Available through the servicer.A loss mitigation option available through the servicer refers to an option for which a borrower may apply, even if the borrower ultimately does not qualify for such option.",
+            "text":"\u2022 [Refinance your loan with us or another lender;]",
             "label":[
                 "1024",
-                "31",
-                "Interp",
-                "2",
-                "2"
+                "MS",
+                "4(B)",
+                "p91"
             ],
-            "node_type":"interp",
+            "node_type":"appendix",
             "child_labels":[]
         },
         "op":"added"
@@ -5674,19 +5635,23 @@
         },
         "op":"added"
     },
-    "1024-MS-4(B)-p95":{
+    "1024-35-e-1-ii-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"\u2022 [If you are not able to continue paying your mortgage, your best option may be to find more affordable housing. As an alternative to foreclosure, you may be able to sell your home and use the proceeds to pay off your current loan.]",
+            "title":"Paragraph 35(e)(1)(ii).",
+            "text":"",
             "label":[
                 "1024",
-                "MS",
-                "4(B)",
-                "p95"
+                "35",
+                "e",
+                "1",
+                "ii",
+                "Interp"
             ],
-            "node_type":"appendix",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1024-35-e-1-ii-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -6392,7 +6357,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"[Servicer Address]",
+            "text":"[Servicer Telephone Number]",
             "label":[
                 "1024",
                 "MS",
@@ -6804,7 +6769,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"If you have any questions, please contact us at [telephone number].",
+            "text":"[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]",
             "label":[
                 "1024",
                 "MS",
@@ -6820,7 +6785,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"\u2022 May not provide as much coverage as an insurance policy you buy yourself.",
+            "text":"If you have any questions, please contact us at [telephone number].",
             "label":[
                 "1024",
                 "MS",
@@ -6853,7 +6818,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The insurance we [bought] [buy]:",
+            "text":"\u2022 Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.",
             "label":[
                 "1024",
                 "MS",
@@ -6869,7 +6834,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"We will charge you for insurance we [bought] [plan to buy] for [Date Range] unless we can verify that you have insurance coverage for [Date Range].",
+            "text":"The insurance we [bought] [buy]:",
             "label":[
                 "1024",
                 "MS",
@@ -6885,7 +6850,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Please provide us with insurance information for [Date Range] immediately.",
+            "text":"We will charge you for insurance we [bought] [plan to buy] for [Date Range] unless we can verify that you have insurance coverage for [Date Range].",
             "label":[
                 "1024",
                 "MS",
@@ -6901,7 +6866,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"We received the insurance information you provided, but we are unable to verify coverage from [Date Range].",
+            "text":"Please provide us with insurance information for [Date Range] immediately.",
             "label":[
                 "1024",
                 "MS",
@@ -6917,7 +6882,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Dear [Borrower's Name]:",
+            "text":"We received the insurance information you provided, but we are unable to verify coverage from [Date Range].",
             "label":[
                 "1024",
                 "MS",
@@ -6933,7 +6898,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Subject: Second and final notice\u2014please provide insurance information for [Property Address]",
+            "text":"Dear [Borrower's Name]:",
             "label":[
                 "1024",
                 "MS",
@@ -6949,7 +6914,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"[Borrower's Mailing Address]",
+            "text":"Subject: Second and final notice\u2014please provide insurance information for [Property Address]",
             "label":[
                 "1024",
                 "MS",
@@ -7981,10 +7946,10 @@
             ],
             "node_type":"appendix",
             "child_labels":[
+                "1024-MS-4(A)-p86",
                 "1024-MS-4(A)-p87",
                 "1024-MS-4(A)-p88",
-                "1024-MS-4(A)-p89",
-                "1024-MS-4(A)-p90"
+                "1024-MS-4(A)-p89"
             ]
         },
         "op":"added"
@@ -8337,7 +8302,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"[Servicer Telephone Number]",
+            "text":"[For more information, visit [Servicer Web site] [and][or] [Email Address]].",
             "label":[
                 "1024",
                 "MS",
@@ -8349,11 +8314,27 @@
         },
         "op":"added"
     },
-    "1024-MS-4(A)-p87":{
+    "1024-MS-4(A)-p86":{
         "node":{
             "tagged_text":null,
             "title":null,
             "text":"[Servicer Name]",
+            "label":[
+                "1024",
+                "MS",
+                "4(A)",
+                "p86"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-MS-4(A)-p87":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"[Servicer Address]",
             "label":[
                 "1024",
                 "MS",
@@ -8647,7 +8628,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Subject: Second and final notice\u2014please provide insurance information for [Property Address]",
+            "text":"Dear [Borrower's Name]:",
             "label":[
                 "1024",
                 "MS",
@@ -8680,7 +8661,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"[Borrower's Name]",
+            "text":"[Borrower's Mailing Address]",
             "label":[
                 "1024",
                 "MS",
@@ -8696,7 +8677,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"[Borrower's Mailing Address]",
+            "text":"Subject: Second and final notice\u2014please provide insurance information for [Property Address]",
             "label":[
                 "1024",
                 "MS",
@@ -8708,11 +8689,27 @@
         },
         "op":"added"
     },
-    "1024-MS-3(B)-p45":{
+    "1024-MS-3(B)-p44":{
         "node":{
             "tagged_text":null,
             "title":null,
             "text":"[Date of Notice]",
+            "label":[
+                "1024",
+                "MS",
+                "3(B)",
+                "p44"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-MS-3(B)-p45":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"[Borrower's Name]",
             "label":[
                 "1024",
                 "MS",
@@ -9009,6 +9006,7 @@
             ],
             "node_type":"appendix",
             "child_labels":[
+                "1024-MS-3(C)-p57",
                 "1024-MS-3(C)-p58",
                 "1024-MS-3(C)-p59",
                 "1024-MS-3(C)-p60",
@@ -9020,8 +9018,7 @@
                 "1024-MS-3(C)-p66",
                 "1024-MS-3(C)-p67",
                 "1024-MS-3(C)-p68",
-                "1024-MS-3(C)-p69",
-                "1024-MS-3(C)-p70"
+                "1024-MS-3(C)-p69"
             ]
         },
         "op":"added"
@@ -9106,26 +9103,6 @@
         },
         "op":"added"
     },
-    "1024-35-e-1-ii-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Paragraph 35(e)(1)(ii).",
-            "text":"",
-            "label":[
-                "1024",
-                "35",
-                "e",
-                "1",
-                "ii",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-35-e-1-ii-Interp-1"
-            ]
-        },
-        "op":"added"
-    },
     "1024-21-d-2-iii":{
         "op":"deleted"
     },
@@ -9152,28 +9129,12 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"If you have any questions, please contact us at [telephone number].",
-            "label":[
-                "1024",
-                "MS",
-                "3(D)",
-                "p84"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-MS-3(D)-p85":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
             "text":"[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]",
             "label":[
                 "1024",
                 "MS",
                 "3(D)",
-                "p85"
+                "p84"
             ],
             "node_type":"appendix",
             "child_labels":[]
@@ -9201,7 +9162,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"\u2022 [Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.",
+            "text":"\u2022 May not provide as much coverage as an insurance policy you buy yourself.",
             "label":[
                 "1024",
                 "MS",
@@ -9217,7 +9178,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"\u2022 May not provide as much coverage as an insurance policy you buy yourself.",
+            "text":"If you buy [hazard] [Insurance Type] insurance, you should immediately provide us with your insurance information.",
             "label":[
                 "1024",
                 "MS",
@@ -9233,7 +9194,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"If you buy [hazard] [Insurance Type] insurance, you should immediately provide us with your insurance information.",
+            "text":"[Describe the insurance information the borrower must provide]. [The information must be provided in writing.]",
             "label":[
                 "1024",
                 "MS",
@@ -9249,7 +9210,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"[Describe the insurance information the borrower must provide]. [The information must be provided in writing.]",
+            "text":"If you have any questions, please contact us at [telephone number].",
             "label":[
                 "1024",
                 "MS",
@@ -9531,7 +9492,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Dear [Borrower's Name]:",
+            "text":"Because we did not have evidence that you had [hazard] [Insurance Type] insurance on the property listed above, we bought insurance on your property and added the cost to your mortgage loan account.",
             "label":[
                 "1024",
                 "MS",
@@ -9668,7 +9629,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"\u2022 Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.",
+            "text":"\u2022 May not provide as much coverage as an insurance policy you buy yourself.",
             "label":[
                 "1024",
                 "MS",
@@ -10106,7 +10067,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"If you have any questions, please contact us at [telephone number].",
+            "text":"[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]",
             "label":[
                 "1024",
                 "MS",
@@ -10654,6 +10615,7 @@
             ],
             "node_type":"appendix",
             "child_labels":[
+                "1024-MS-3(D)-p71",
                 "1024-MS-3(D)-p72",
                 "1024-MS-3(D)-p73",
                 "1024-MS-3(D)-p74",
@@ -10666,8 +10628,7 @@
                 "1024-MS-3(D)-p81",
                 "1024-MS-3(D)-p82",
                 "1024-MS-3(D)-p83",
-                "1024-MS-3(D)-p84",
-                "1024-MS-3(D)-p85"
+                "1024-MS-3(D)-p84"
             ]
         },
         "op":"added"
@@ -10822,6 +10783,22 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-MS-3(D)-p71":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"[Date of Notice]",
+            "label":[
+                "1024",
+                "MS",
+                "3(D)",
+                "p71"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-41-f-1-ii":{
         "node":{
@@ -11014,7 +10991,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"[Date of Notice]",
+            "text":"[Borrower's Name]",
             "label":[
                 "1024",
                 "MS",
@@ -11030,7 +11007,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"[Borrower's Name]",
+            "text":"[Borrower's Mailing Address]",
             "label":[
                 "1024",
                 "MS",
@@ -11134,7 +11111,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"You should immediately provide us with your insurance information. [Describe the insurance information the borrower must provide]. [The information must be provided in writing.]",
+            "text":"The insurance we [bought] [buy]:",
             "label":[
                 "1024",
                 "MS",
@@ -11150,7 +11127,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The insurance we [bought] [buy]:",
+            "text":"\u2022 May be more expensive than the insurance you can buy yourself.",
             "label":[
                 "1024",
                 "MS",
@@ -11258,7 +11235,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Dear [Borrower's Name]:",
+            "text":"Our records show that your [hazard] [Insurance Type] insurance [is expiring] [expired], and we do not have evidence that you have obtained new coverage. Because [hazard] [Insurance Type] insurance is required on your property, [we bought insurance for your property] [we plan to buy insurance for your property]. You must pay us for any period during which the insurance we buy is in effect but you do not have insurance.",
             "label":[
                 "1024",
                 "MS",
@@ -11274,7 +11251,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Our records show that your [hazard] [Insurance Type] insurance [is expiring] [expired], and we do not have evidence that you have obtained new coverage. Because [hazard] [Insurance Type] insurance is required on your property, [we bought insurance for your property] [we plan to buy insurance for your property]. You must pay us for any period during which the insurance we buy is in effect but you do not have insurance.",
+            "text":"You should immediately provide us with your insurance information. [Describe the insurance information the borrower must provide]. [The information must be provided in writing.]",
             "label":[
                 "1024",
                 "MS",
@@ -11290,7 +11267,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Subject: Please provide insurance information for [Property",
+            "text":"Subject: Please provide insurance information for [Property Address]",
             "label":[
                 "1024",
                 "MS",
@@ -11502,7 +11479,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"[Borrower's Name]",
+            "text":"[Borrower's Mailing Address]",
             "label":[
                 "1024",
                 "MS",
@@ -11828,7 +11805,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Subject: Please update insurance information for [Property Address]",
+            "text":"Dear [Borrower's Name]:",
             "label":[
                 "1024",
                 "MS",
@@ -12070,7 +12047,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"[Borrower's Mailing Address]",
+            "text":"Subject: Please update insurance information for [Property Address]",
             "label":[
                 "1024",
                 "MS",
@@ -12398,21 +12375,8 @@
         },
         "op":"added"
     },
-    "1024-MS-4(A)-p90":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"[For more information, visit [Servicer Web site] [and][or] [Email Address]].",
-            "label":[
-                "1024",
-                "MS",
-                "4(A)",
-                "p90"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1024-MS2-h1-h2-p16":{
+        "op":"deleted"
     },
     "1024-31-TransferorServicer":{
         "node":{
@@ -13472,6 +13436,24 @@
     "1024-MS2-h1-h2":{
         "op":"deleted"
     },
+    "1024-38-c-2-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Timing.A servicer complies with \u00a7 1024.38(c)(2) if it maintains information in a manner that facilitates compliance with \u00a7 1024.38(c)(2) beginning on or after January 10, 2014. A servicer is not required to comply with \u00a7 1024.38(c)(2) with respect to information created prior to January 10, 2014. For example, if a mortgage loan was originated on January 1, 2013, a servicer is not required by \u00a7 1024.38(c)(2) to maintain information regarding transactions credited or debited to that mortgage loan account in any particular manner for payments made prior to January 10, 2014. However, for payments made on or after January 10, 2014, a servicer must maintain such information in a manner that facilitates compiling such information into a servicing file within five days.",
+            "label":[
+                "1024",
+                "38",
+                "c",
+                "2",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-34-b-2-ii":{
         "node":{
             "tagged_text":null,
@@ -13687,7 +13669,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"You should immediately provide us with your insurance information. [Describe the insurance information the borrower must provide]. [The information must be provided in writing.]",
+            "text":"The insurance we [bought] [buy]:",
             "label":[
                 "1024",
                 "MS",
@@ -13703,7 +13685,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"This is your second and final notice that our records show that your [hazard] [Insurance Type] insurance [is expiring] [expired], and we do not have evidence that you have obtained new coverage. Because [hazard] [Insurance Type] insurance is required on your property, [we bought insurance for your property] [we plan to buy insurance for your property]. You must pay us for any period during which the insurance we buy is in effect but you do not have insurance.",
+            "text":"You should immediately provide us with your insurance information. [Describe the insurance information the borrower must provide]. [The information must be provided in writing.]",
             "label":[
                 "1024",
                 "MS",
@@ -13719,7 +13701,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"\u2022 [Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.",
+            "text":"\u2022 May not provide as much coverage as an insurance policy you buy yourself.",
             "label":[
                 "1024",
                 "MS",
@@ -13735,7 +13717,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The insurance we [bought] [buy]:",
+            "text":"\u2022 [Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.",
             "label":[
                 "1024",
                 "MS",
@@ -13771,7 +13753,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"\u2022 May not provide as much coverage as an insurance policy you buy yourself.",
+            "text":"If you have any questions, please contact us at [telephone number].",
             "label":[
                 "1024",
                 "MS",
@@ -15576,18 +15558,19 @@
     "1024-21-d-1-i":{
         "op":"deleted"
     },
-    "1024-MS-3(B)-p56":{
+    "1024-31-Interp-2-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]",
+            "text":"Available through the servicer.A loss mitigation option available through the servicer refers to an option for which a borrower may apply, even if the borrower ultimately does not qualify for such option.",
             "label":[
                 "1024",
-                "MS",
-                "3(B)",
-                "p56"
+                "31",
+                "Interp",
+                "2",
+                "2"
             ],
-            "node_type":"appendix",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
