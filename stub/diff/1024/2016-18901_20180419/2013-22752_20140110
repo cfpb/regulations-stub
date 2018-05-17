@@ -23,7 +23,7 @@
     "1024-38-b-1-vi-B":{
         "op":"deleted"
     },
-    "1024-36-i-Interp-1":{
+    "1024-30-d-Interp-3":{
         "op":"deleted"
     },
     "1024-41-c-2-iii":{
@@ -118,6 +118,9 @@
         ],
         "op":"modified"
     },
+    "1024-41-k-1-i-Interp-1-ii":{
+        "op":"deleted"
+    },
     "1024-MS-3(B)-p49":{
         "text":[
             [
@@ -171,22 +174,82 @@
         ],
         "op":"modified"
     },
-    "1024-39-c-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Borrowers in bankruptcy.Section 1024.39 does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, servicers may adapt the requirements of \u00a7 1024.39 in any manner that would permit them to notify borrowers of loss mitigation options.",
-            "label":[
-                "1024",
-                "39",
-                "c",
-                "Interp",
-                "1"
+    "1024-39-b-1-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    1
+                ],
+                [
+                    "insert",
+                    0,
+                    "Frequency of the written notice.A"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    53,
+                    65
+                ],
+                [
+                    "insert",
+                    53,
+                    "\u00a7 1024.39(a)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    168,
+                    169
+                ],
+                [
+                    "insert",
+                    168,
+                    "For example, a borrower has a payment due on March 1. The amount due is not fully paid during the 45 days after March 1 and the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    179,
+                    183
+                ],
+                [
+                    "insert",
+                    179,
+                    "provides the written notice within 45 days after March 1\u2014 i.e., by April 15. If the borrower subsequently fails to make a payment due April 1 and the amount due is not fully paid during the 45 days after April 1, the servicer need not"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    211,
+                    556
+                ],
+                [
+                    "insert",
+                    211,
+                    "again during the 180-day period beginning on April"
+                ]
+            ],
+            [
+                "delete",
+                560,
+                914
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                32
+            ]
+        ],
+        "op":"modified"
     },
     "1024-31-SuccessorInInterest-4":{
         "op":"deleted"
@@ -302,9 +365,6 @@
     "1024-41-c-3-i-D-2":{
         "op":"deleted"
     },
-    "1024-39-d-2-Interp-1":{
-        "op":"deleted"
-    },
     "1024-A-h2-p27":{
         "text":[
             [
@@ -394,8 +454,24 @@
     "1024-32-c-1-i":{
         "op":"deleted"
     },
-    "1024-41-b-2-ii-Interp-2":{
-        "op":"deleted"
+    "1024-41-b-1-Interp-3-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A borrower calls to ask about loss mitigation options and servicer personnel explain the loss mitigation options available to the borrower and the criteria for determining the borrower's eligibility for any such loss mitigation option. The borrower does not, however, provide any information that a servicer would consider for evaluating a loss mitigation application.",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "1",
+                "Interp",
+                "3",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-39-c-2-i":{
         "op":"deleted"
@@ -419,7 +495,7 @@
         ],
         "op":"modified"
     },
-    "1024-36-a-Interp-2-ii-B":{
+    "1024-36-i-Interp-1":{
         "op":"deleted"
     },
     "1024-36-a-Interp-2-ii-C":{
@@ -519,6 +595,29 @@
     "1024-41-c-2-iii-Interp-6":{
         "op":"deleted"
     },
+    "1024-41-k-3-Interp-2":{
+        "op":"deleted"
+    },
+    "1024-41-b-2-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(b)(2) Review of loss mitigation application submission.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "2",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-b-2-i-Interp",
+                "1024-41-b-2-ii-Interp"
+            ]
+        },
+        "op":"added"
+    },
     "1024-36-a-Interp-2":{
         "text":[
             [
@@ -535,6 +634,29 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-b-1-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(b)(1) Complete loss mitigation application.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "1",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-b-1-Interp-1",
+                "1024-41-b-1-Interp-2",
+                "1024-41-b-1-Interp-3",
+                "1024-41-b-1-Interp-4",
+                "1024-41-b-1-Interp-5"
+            ]
+        },
+        "op":"added"
     },
     "1024-A-h2-p19":{
         "text":[
@@ -565,164 +687,119 @@
         ],
         "op":"modified"
     },
-    "1024-41-b-2-ii-Interp-1":{
-        "text":[
-            [
-                "insert",
-                0,
-                "Reasonable date.Section 1024.41(b)(2)(ii) requires that a notice informing a borrower that a loss mitigation application is incomplete must include a reasonable date by which the borrower should submit the documents and information necessary to make the loss mitigation application complete. "
+    "1024-41-b-3-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Foreclosure sale not scheduled.If no foreclosure sale has been scheduled as of the date that a complete loss mitigation application is received, the application is considered to have been received more than 90 days before any foreclosure sale.",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "3",
+                "Interp",
+                "1"
             ],
-            [
-                [
-                    "delete",
-                    3,
-                    10
-                ],
-                [
-                    "insert",
-                    3,
-                    "determining a reasonable date, a servicer should select the deadline that preserves the maximum borrower rights under \u00a7 1024.41 based on the milestones listed below, except when doing so would be impracticable to permit the borrower sufficient time to obtain"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    15,
-                    52
-                ],
-                [
-                    "insert",
-                    15,
-                    "submit the type of documentation needed. Generally, it would be impracticable for a borrower to obtain and submit documents"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    56,
-                    89
-                ],
-                [
-                    "insert",
-                    56,
-                    "less than seven days. In setting a date, the following milestones should be considered (if the date of a foreclosure sale is not known, a"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    99,
-                    141
-                ],
-                [
-                    "insert",
-                    99,
-                    "may use a"
-                ]
-            ],
-            [
-                "insert",
-                153,
-                "estimate of the "
-            ],
-            [
-                [
-                    "delete",
-                    158,
-                    309
-                ],
-                [
-                    "insert",
-                    158,
-                    "for which a foreclosure sale may be scheduled):"
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                36
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
-    "1024-41-b-2-ii-Interp-3":{
+    "1024-41-b-2-ii-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Reasonable date.Section 1024.41(b)(2)(ii) requires that a notice informing a borrower that a loss mitigation application is incomplete must include a reasonable date by which the borrower should submit the documents and information necessary to make the loss mitigation application complete. In determining a reasonable date, a servicer should select the deadline that preserves the maximum borrower rights under \u00a7 1024.41 based on the milestones listed below, except when doing so would be impracticable to permit the borrower sufficient time to obtain and submit the type of documentation needed. Generally, it would be impracticable for a borrower to obtain and submit documents in less than seven days. In setting a date, the following milestones should be considered (if the date of a foreclosure sale is not known, a servicer may use a reasonable estimate of the date for which a foreclosure sale may be scheduled):",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "2",
+                "ii",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-b-2-ii-Interp-1-i",
+                "1024-41-b-2-ii-Interp-1-ii",
+                "1024-41-b-2-ii-Interp-1-iii",
+                "1024-41-b-2-ii-Interp-1-iv"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-41-k-2-ii-Interp-3":{
         "op":"deleted"
     },
-    "1024-39-b-1-Interp-2":{
+    "1024-39-c-Interp-1":{
         "text":[
             [
                 [
                     "delete",
                     0,
-                    1
+                    2
                 ],
                 [
                     "insert",
                     0,
-                    "Frequency of the written notice.A"
+                    "Borrowers in bankruptcy.Section 1024.39 does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To"
                 ]
             ],
             [
                 [
                     "delete",
-                    53,
-                    65
+                    7,
+                    30
                 ],
                 [
                     "insert",
-                    53,
-                    "\u00a7 1024.39(a)"
+                    7,
+                    "extent permitted"
                 ]
             ],
             [
                 [
                     "delete",
-                    168,
-                    169
+                    34,
+                    56
                 ],
                 [
                     "insert",
-                    168,
-                    "For example, a borrower has a payment due on March 1. The amount due is not fully paid during the 45 days after March 1 and the"
+                    34,
+                    "such law or court order, servicers may adapt"
                 ]
             ],
             [
                 [
                     "delete",
-                    179,
-                    183
+                    61,
+                    69
                 ],
                 [
                     "insert",
-                    179,
-                    "provides the written notice within 45 days after March 1\u2014 i.e., by April 15. If the borrower subsequently fails to make a payment due April 1 and the amount due is not fully paid during the 45 days after April 1, the servicer need not"
+                    61,
+                    "requirements of \u00a7 1024.39 in any manner that would permit them"
                 ]
             ],
             [
                 [
                     "delete",
-                    211,
-                    556
+                    73,
+                    624
                 ],
                 [
                     "insert",
-                    211,
-                    "again during the 180-day period beginning on April"
+                    73,
+                    "notify borrowers of loss mitigation options."
                 ]
-            ],
-            [
-                "delete",
-                560,
-                914
             ]
         ],
         "title":[
             [
                 "delete",
                 0,
-                32
+                26
             ]
         ],
         "op":"modified"
@@ -954,7 +1031,7 @@
     "1024-41-k-1":{
         "op":"deleted"
     },
-    "1024-41-b-2-ii-Interp-2-ii":{
+    "1024-39-c-2-Interp-1":{
         "op":"deleted"
     },
     "1024-31-ConfirmedSuccessorInInterest":{
@@ -1098,6 +1175,9 @@
         ],
         "op":"modified"
     },
+    "1024-38-b-1-vi-Interp-3-ii":{
+        "op":"deleted"
+    },
     "1024-39-a-Interp-3-ii":{
         "node":{
             "tagged_text":null,
@@ -1115,6 +1195,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1024-41-k-1-i-Interp-1-iii":{
+        "op":"deleted"
     },
     "1024-6-d-1-ii-C":{
         "node":{
@@ -1134,16 +1217,22 @@
         },
         "op":"added"
     },
+    "1024-41-k-1-i-Interp-1-i":{
+        "op":"deleted"
+    },
     "1024-36-d-3-i":{
         "op":"deleted"
     },
     "1024-41-c-4-i":{
         "op":"deleted"
     },
-    "1024-41-b-1-Interp-1-i":{
+    "1024-39-c-1-ii-Interp-2-ii":{
         "op":"deleted"
     },
-    "1024-41-b-Interp-1":{
+    "1024-38-b-3-iii-Interp":{
+        "op":"deleted"
+    },
+    "1024-41-k-5-Interp-1":{
         "op":"deleted"
     },
     "1024-A-h5-p92":{
@@ -1152,8 +1241,25 @@
     "1024-41-k-Interp-1":{
         "op":"deleted"
     },
-    "1024-39-d-1-Interp-2":{
-        "op":"deleted"
+    "1024-41-b-2-i-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(b)(2)(i) Requirements.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "2",
+                "i",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-b-2-i-B-Interp"
+            ]
+        },
+        "op":"added"
     },
     "1024-39-a-Interp-4-i-B":{
         "op":"deleted"
@@ -1171,7 +1277,13 @@
         ],
         "op":"modified"
     },
+    "1024-39-c-1-iii-Interp-1":{
+        "op":"deleted"
+    },
     "1024-32-c-1-v":{
+        "op":"deleted"
+    },
+    "1024-38-b-1-vi-Interp-4":{
         "op":"deleted"
     },
     "1024-39-d-3-ii":{
@@ -1181,6 +1293,9 @@
         "op":"deleted"
     },
     "1024-5-d-1":{
+        "op":"deleted"
+    },
+    "1024-38-b-1-vi-Interp-3-i":{
         "op":"deleted"
     },
     "1024-37-c-2-v":{
@@ -1339,9 +1454,6 @@
         "op":"modified"
     },
     "1024-41-g-Interp-5":{
-        "op":"deleted"
-    },
-    "1024-39-d-1-Interp-2-i":{
         "op":"deleted"
     },
     "1024-C-h2-h3-p12":{
@@ -1577,11 +1689,34 @@
         ],
         "op":"modified"
     },
+    "1024-41-k-2-ii-Interp-1-ii":{
+        "op":"deleted"
+    },
     "1024-41-c-3-i-D-1":{
         "op":"deleted"
     },
     "1024-32-c-1-iii":{
         "op":"deleted"
+    },
+    "1024-41-b-3-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(b)(3) Determining Protections.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "3",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-b-3-Interp-1",
+                "1024-41-b-3-Interp-2"
+            ]
+        },
+        "op":"added"
     },
     "1024-MS-3(B)-p53":{
         "text":[
@@ -1639,7 +1774,16 @@
     "1024-30-d-Interp-1":{
         "op":"deleted"
     },
-    "1024-41-c-4-i-Interp-1-ii":{
+    "1024-39-c-1-ii-Interp-2-i":{
+        "op":"deleted"
+    },
+    "1024-41-k-4-Interp-1":{
+        "op":"deleted"
+    },
+    "1024-41-k-4-Interp-2":{
+        "op":"deleted"
+    },
+    "1024-41-k-1-i-Interp-3":{
         "op":"deleted"
     },
     "1024-41-k-4":{
@@ -1663,9 +1807,6 @@
         },
         "op":"added"
     },
-    "1024-39-d-1-Interp":{
-        "op":"deleted"
-    },
     "1024-31-Interp-10-1":{
         "op":"deleted"
     },
@@ -1680,6 +1821,27 @@
     },
     "1024-36-i-1":{
         "op":"deleted"
+    },
+    "1024-41-b-2-i-B-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 41(b)(2)(i)(B).",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "2",
+                "i",
+                "B",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-b-2-i-B-Interp-1"
+            ]
+        },
+        "op":"added"
     },
     "1024-6-d-1-ii":{
         "node":{
@@ -1702,6 +1864,9 @@
         },
         "op":"added"
     },
+    "1024-30-c-2-Interp":{
+        "op":"deleted"
+    },
     "1024-6-d-2":{
         "text":[
             [
@@ -1723,6 +1888,9 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-k-1-i-Interp-2":{
+        "op":"deleted"
     },
     "1024-C-h2-h5-p21":{
         "text":[
@@ -1794,36 +1962,19 @@
         },
         "op":"added"
     },
-    "1024-41-b-1-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    1
-                ],
-                [
-                    "insert",
-                    0,
-                    "In general.A"
-                ]
-            ],
-            [
-                "delete",
-                190,
-                1208
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                11
-            ]
-        ],
-        "op":"modified"
+    "1024-41-c-2-iii-Interp-5":{
+        "op":"deleted"
+    },
+    "1024-31-Interp-9":{
+        "op":"deleted"
+    },
+    "1024-39-c-1-Interp-1":{
+        "op":"deleted"
     },
     "1024-37-d-5-Interp-1":{
+        "op":"deleted"
+    },
+    "1024-31-Interp-10-2":{
         "op":"deleted"
     },
     "1024-41-c-3-ii-A":{
@@ -1847,6 +1998,25 @@
     "1024-39-a-Interp-6":{
         "op":"deleted"
     },
+    "1024-41-b-1-Interp-4-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A servicer requires additional information from the applicant, such as an address or a telephone number to verify employment; the servicer contacts the applicant promptly to obtain such information after receiving a loss mitigation application; ",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "1",
+                "Interp",
+                "4",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-C-h2-h3-p8-p10":{
         "node":{
             "tagged_text":null,
@@ -1864,6 +2034,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1024-30-d-Interp-2":{
+        "op":"deleted"
     },
     "1024-41-c-4-ii-B-1":{
         "op":"deleted"
@@ -1906,7 +2079,13 @@
     "1024-39-d-Interp-1":{
         "op":"deleted"
     },
+    "1024-41-c-4-i-Interp-1-ii":{
+        "op":"deleted"
+    },
     "1024-38-b-3-iii-Interp-1":{
+        "op":"deleted"
+    },
+    "1024-39-c-Interp-2":{
         "op":"deleted"
     },
     "1024-C-h2-h3-p8-p13":{
@@ -1968,38 +2147,26 @@
         "op":"deleted"
     },
     "1024-41-b-1-Interp-4":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    8
-                ],
-                [
-                    "insert",
-                    0,
-                    "Diligence requirements.Although"
-                ]
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Diligence requirements.Although a servicer has flexibility to establish its own requirements regarding the documents and information necessary for a loss mitigation application, the servicer must act with reasonable diligence to collect information needed to complete the application. Further, a servicer must request information necessary to make a loss mitigation application complete promptly after receiving the loss mitigation application. Reasonable diligence includes, without limitation, the following actions:",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "1",
+                "Interp",
+                "4"
             ],
-            [
-                [
-                    "delete",
-                    262,
-                    263
-                ],
-                [
-                    "insert",
-                    262,
-                    "Further, a"
-                ]
-            ],
-            [
-                "delete",
-                434,
-                466
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-b-1-Interp-4-i",
+                "1024-41-b-1-Interp-4-ii",
+                "1024-41-b-1-Interp-4-iii"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1024-41-c-3-i-A":{
         "op":"deleted"
@@ -2021,11 +2188,67 @@
         },
         "op":"added"
     },
+    "1024-41-b-2-ii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(b)(2)(ii) Time period disclosure.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "2",
+                "ii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-b-2-ii-Interp-1"
+            ]
+        },
+        "op":"added"
+    },
     "1024-41-c-4-ii":{
         "op":"deleted"
     },
-    "1024-41-b-1-Interp-1-ii":{
-        "op":"deleted"
+    "1024-41-b-1-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"When an inquiry or prequalification request becomes an application.A servicer is encouraged to provide borrowers with information about loss mitigation programs. If in giving information to the borrower, the borrower expresses an interest in applying for a loss mitigation option and provides information the servicer would evaluate in connection with a loss mitigation application, the borrower's inquiry or prequalification request has become a loss mitigation application. A loss mitigation application is considered expansively and includes any \u201cprequalification\u201d for a loss mitigation option. For example, if a borrower requests that a servicer determine if the borrower is \u201cprequalified\u201d for a loss mitigation program by evaluating the borrower against preliminary criteria to determine eligibility for a loss mitigation option, the request constitutes a loss mitigation application.",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "1",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-b-1-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Examples of inquiries that are not applications.The following examples illustrate situations in which only an inquiry has taken place and no loss mitigation application has been submitted:",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "1",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-b-1-Interp-3-i",
+                "1024-41-b-1-Interp-3-ii"
+            ]
+        },
+        "op":"added"
     },
     "1024-41-c-3-i-C":{
         "op":"deleted"
@@ -2239,6 +2462,76 @@
         },
         "op":"added"
     },
+    "1024-41-i-Interp-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    19
+                ],
+                [
+                    "insert",
+                    0,
+                    "Servicing transfers.A transferee servicer is required to comply with the requirements of \u00a7 1024.41 regardless of whether"
+                ]
+            ],
+            [
+                "insert",
+                22,
+                "borrower received an evaluation of a complete loss mitigation application from a transferor servicer. Documents and information transferred from a transferor "
+            ],
+            [
+                [
+                    "delete",
+                    31,
+                    35
+                ],
+                [
+                    "insert",
+                    31,
+                    "to a transferee servicer may constitute a loss mitigation application to the transferee servicer and may cause a transferee servicer to be required to"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    48,
+                    57
+                ],
+                [
+                    "insert",
+                    48,
+                    "the requirements of \u00a7 1024.41"
+                ]
+            ],
+            [
+                "delete",
+                76,
+                1077
+            ],
+            [
+                [
+                    "delete",
+                    1088,
+                    1320
+                ],
+                [
+                    "insert",
+                    1088,
+                    "mortgage loan account."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                45
+            ]
+        ],
+        "op":"modified"
+    },
     "1024-37-c-4":{
         "text":[
             [
@@ -2316,6 +2609,9 @@
         ],
         "op":"modified"
     },
+    "1024-36-i-Interp-2":{
+        "op":"deleted"
+    },
     "1024-30-c-1":{
         "text":[
             [
@@ -2338,8 +2634,23 @@
         ],
         "op":"modified"
     },
-    "1024-41-c-2-iii-Interp-5-ii":{
-        "op":"deleted"
+    "1024-41-b-1-Interp-5":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Information not in the borrower's control.A loss mitigation application is complete when a borrower provides all information required from the borrower notwithstanding that additional information may be required by a servicer that is not in the control of a borrower. For example, if a servicer requires a consumer report for a loss mitigation evaluation, a loss mitigation application is considered complete if a borrower has submitted all information required from the borrower without regard to whether a servicer has obtained a consumer report that a servicer has requested from a consumer reporting agency.",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "1",
+                "Interp",
+                "5"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-9-c":{
         "text":[
@@ -2393,6 +2704,12 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-b-Interp-1-i":{
+        "op":"deleted"
+    },
+    "1024-41-k-3-Interp-1":{
+        "op":"deleted"
     },
     "1024-39-a-Interp-3-i-A":{
         "node":{
@@ -2652,13 +2969,16 @@
         ],
         "op":"modified"
     },
-    "1024-41-b-2-i-Interp-1":{
+    "1024-39-c-1-ii-Interp-2":{
+        "op":"deleted"
+    },
+    "1024-41-k-2-ii-Interp-1-i":{
         "op":"deleted"
     },
     "1024-41-c-2-iii-Interp-4":{
         "op":"deleted"
     },
-    "1024-41-c-2-iii-Interp-5":{
+    "1024-39-c-1-ii-Interp-1":{
         "op":"deleted"
     },
     "1024-39-d-1":{
@@ -2709,6 +3029,9 @@
         ],
         "op":"modified"
     },
+    "1024-41-b-Interp-1":{
+        "op":"deleted"
+    },
     "1024-39-a-Interp-4-i":{
         "op":"deleted"
     },
@@ -2749,7 +3072,7 @@
         ],
         "op":"modified"
     },
-    "1024-41-b-2-ii-Interp-2-iv":{
+    "1024-41-k-1-ii-Interp-1":{
         "op":"deleted"
     },
     "1024-MS-3(C)-p67":{
@@ -2778,24 +3101,29 @@
         "op":"modified"
     },
     "1024-39-c-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"39(c) Conflicts with other law.",
-            "text":"",
-            "label":[
-                "1024",
-                "39",
-                "c",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-39-c-Interp-1"
+        "title":[
+            [
+                [
+                    "delete",
+                    6,
+                    30
+                ],
+                [
+                    "insert",
+                    6,
+                    "Conflicts with other law."
+                ]
             ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1024-C-h2-h3-p9-iii":{
+        "op":"deleted"
+    },
+    "1024-36-i-Interp":{
+        "op":"deleted"
+    },
+    "1024-31-Interp-9-3":{
         "op":"deleted"
     },
     "1024-35-e-5-i":{
@@ -2946,6 +3274,9 @@
         },
         "op":"added"
     },
+    "1024-31-Interp-9-4":{
+        "op":"deleted"
+    },
     "1024-MS-3(A)-p39":{
         "text":[
             [
@@ -2960,6 +3291,9 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-31-Interp-9-2":{
+        "op":"deleted"
     },
     "1024-C-h2-h3-p8-p11":{
         "node":{
@@ -2982,29 +3316,7 @@
     "1024-31-Interp-9-1":{
         "op":"deleted"
     },
-    "1024-39-d-1-Interp-1":{
-        "op":"deleted"
-    },
-    "1024-41-b-1-Interp-4-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A servicer requires additional information from the applicant, such as an address or a telephone number to verify employment; the servicer contacts the applicant promptly to obtain such information after receiving a loss mitigation application; ",
-            "label":[
-                "1024",
-                "41",
-                "b",
-                "1",
-                "Interp",
-                "4",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-39-d-1-Interp-3":{
+    "1024-36-a-Interp-2-ii-B":{
         "op":"deleted"
     },
     "1024-37-d-2-ii":{
@@ -3053,7 +3365,33 @@
         ],
         "op":"modified"
     },
-    "1024-39-d-1-Interp-2-ii":{
+    "1024-41-c-2-iii-Interp-5-ii":{
+        "op":"deleted"
+    },
+    "1024-38-b-1-vi-Interp-3-iii":{
+        "op":"deleted"
+    },
+    "1024-41-b-2-i-B-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Later discovery of additional information required to evaluate application.Even if a servicer has informed a borrower that an application is complete (or notified the borrower of specific information necessary to complete an incomplete application), if the servicer determines, in the course of evaluating the loss mitigation application submitted by the borrower, that additional information or a corrected version of a previously submitted document is required, the servicer must promptly request the additional information or corrected document from the borrower pursuant to the reasonable diligence obligation in \u00a7 1024.41(b)(1). See \u00a7 1024.41(c)(2)(iv) addressing facially complete applications.",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "2",
+                "i",
+                "B",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-38-b-1-vi-Interp":{
         "op":"deleted"
     },
     "1024-38-b-1-vi-Interp-1":{
@@ -3142,7 +3480,28 @@
         ],
         "op":"modified"
     },
+    "1024-41-b-1-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"In general.A servicer has flexibility to establish its own application requirements and to decide the type and amount of information it will require from borrowers applying for loss mitigation options.",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "1",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-39-b-1-Interp-5":{
+        "op":"deleted"
+    },
+    "1024-30-d-Interp":{
         "op":"deleted"
     },
     "1024-41-k-2-ii-B":{
@@ -3294,13 +3653,50 @@
         ],
         "op":"modified"
     },
+    "1024-41-b-3-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Foreclosure sale re-scheduled.The protections under \u00a7 1024.41 that have been determined to apply to a borrower pursuant to \u00a7 1024.41(b)(3) remain in effect thereafter, even if a foreclosure sale is later scheduled or rescheduled.",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "3",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-b-1-Interp-3-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A borrower calls to ask about the process for applying for a loss mitigation option but the borrower does not provide any information that a servicer would consider for evaluating a loss mitigation application.",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "1",
+                "Interp",
+                "3",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-41-c-4":{
         "op":"deleted"
     },
     "1024-39-c-2":{
         "op":"deleted"
     },
-    "1024-41-b-Interp-1-i":{
+    "1024-41-k-1-i-Interp-1":{
         "op":"deleted"
     },
     "1024-41-c-1":{
@@ -3365,10 +3761,13 @@
     "1024-35-e-5-ii":{
         "op":"deleted"
     },
-    "1024-41-b-2-ii-Interp-2-i":{
+    "1024-41-k-2-ii-Interp-1":{
         "op":"deleted"
     },
-    "1024-41-b-2-ii-Interp-2-iii":{
+    "1024-41-k-2-ii-Interp-2":{
+        "op":"deleted"
+    },
+    "1024-38-b-1-vi-Interp-3-iv":{
         "op":"deleted"
     },
     "1024-41-i-Interp-2":{
@@ -3505,6 +3904,12 @@
     "1024-41-k-4-ii":{
         "op":"deleted"
     },
+    "1024-41-k-Interp":{
+        "op":"deleted"
+    },
+    "1024-31-Interp-10":{
+        "op":"deleted"
+    },
     "1024-38-b-1-vi":{
         "text":[
             [
@@ -3612,6 +4017,9 @@
         ],
         "op":"modified"
     },
+    "1024-37-d-5-Interp":{
+        "op":"deleted"
+    },
     "1024-41-k-2-ii":{
         "op":"deleted"
     },
@@ -3706,75 +4114,14 @@
     "1024-5-d":{
         "op":"deleted"
     },
-    "1024-41-i-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    19
-                ],
-                [
-                    "insert",
-                    0,
-                    "Servicing transfers.A transferee servicer is required to comply with the requirements of \u00a7 1024.41 regardless of whether"
-                ]
-            ],
-            [
-                "insert",
-                22,
-                "borrower received an evaluation of a complete loss mitigation application from a transferor servicer. Documents and information transferred from a transferor "
-            ],
-            [
-                [
-                    "delete",
-                    31,
-                    35
-                ],
-                [
-                    "insert",
-                    31,
-                    "to a transferee servicer may constitute a loss mitigation application to the transferee servicer and may cause a transferee servicer to be required to"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    48,
-                    57
-                ],
-                [
-                    "insert",
-                    48,
-                    "the requirements of \u00a7 1024.41"
-                ]
-            ],
-            [
-                "delete",
-                76,
-                1077
-            ],
-            [
-                [
-                    "delete",
-                    1088,
-                    1320
-                ],
-                [
-                    "insert",
-                    1088,
-                    "mortgage loan account."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                45
-            ]
-        ],
-        "op":"modified"
+    "1024-38-b-1-vi-Interp-3":{
+        "op":"deleted"
+    },
+    "1024-38-b-1-vi-Interp-2":{
+        "op":"deleted"
+    },
+    "1024-38-b-1-vi-Interp-5":{
+        "op":"deleted"
     },
     "1024-5-a":{
         "text":[
@@ -3819,6 +4166,9 @@
         "op":"deleted"
     },
     "1024-39-d-Interp":{
+        "op":"deleted"
+    },
+    "1024-36-i-Interp-3":{
         "op":"deleted"
     },
     "1024-41-c-4-ii-B":{

@@ -123,6 +123,44 @@
         ],
         "op":"modified"
     },
+    "1024-41-k-1-i-Interp-1-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A transferee servicer must, in accordance with \u00a7\u20091024.41(b)(1), exercise reasonable diligence to complete a loss mitigation application, including a facially complete application, received as a result of a transfer. In the transfer context, reasonable diligence includes ensuring that a borrower is informed of any changes to the application process, such as a change in the address to which the borrower should submit documents and information to complete the application, as well as ensuring that the borrower is informed about which documents and information are necessary to complete the application.",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "i",
+                "Interp",
+                "1",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-k-3-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Additional information or corrections to a previously submitted document.",
+            "text":"If a transferee servicer acquires the servicing of a mortgage loan for which a complete loss mitigation application is pending as of the transfer date and the transferee servicer determines that additional information or a correction to a previously submitted document is required based upon its criteria for evaluating loss mitigation applications, the application is considered facially complete under \u00a7\u20091024.41(c)(2)(iv) as of the date it was first facially complete or complete, as applicable, with respect to the transferor servicer. Once the transferee servicer receives the information or corrections necessary to complete the application, \u00a7\u20091024.41(c)(3) requires the transferee servicer to provide a notice of complete application.",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "3",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-41-c-4-ii-A":{
         "node":{
             "tagged_text":null,
@@ -219,6 +257,41 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-39-c-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Adapting requirements in bankruptcy.",
+            "text":"Section 1024.39(c) does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. If necessary to comply with such law or court order, a servicer may adapt the requirements of \u00a7\u20091024.39 as appropriate.",
+            "label":[
+                "1024",
+                "39",
+                "c",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-39-c-2-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Bankruptcy case revived.",
+            "text":"If the borrower's bankruptcy case is revived, for example if the court reinstates a previously dismissed case or reopens the case, \u00a7\u20091024.39(c)(1) once again applies. However, \u00a7\u20091024.39(c)(1)(iii)(C) provides that a servicer is not required to provide the written notice more than once during a single bankruptcy case. For example, assume a borrower's bankruptcy case commences on June 1, the servicer provides the written notice on July 10 in compliance with \u00a7\u20091024.39(b) as modified by \u00a7\u20091024.39(c)(1)(iii), and the bankruptcy case is dismissed on August 1. If the court subsequently reopens or reinstates the borrower's bankruptcy case and the servicer does not provide a second written notice for that bankruptcy case, the servicer has complied with \u00a7\u20091024.39(b) and (c)(1)(iii).",
+            "label":[
+                "1024",
+                "39",
+                "c",
+                "2",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-6-d-1-ii-A":{
         "op":"deleted"
@@ -423,24 +496,6 @@
                 "2"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-39-d-2-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Borrowers in bankruptcy.",
-            "text":"To the extent the Fair Debt Collection Practices Act (FDCPA) (15 U.S.C. 1692 et seq.) applies to a servicer's communications with a borrower and the borrower has provided a notification pursuant to FDCPA section 805(c) notifying the servicer that the borrower refuses to pay a debt or that the borrower wishes the servicer to cease further communications, with regard to that mortgage loan, \u00a7\u20091024.39(d)(2) exempts a servicer from providing the written notice required by \u00a7\u20091024.39(b) while any borrower on the mortgage loan is also a debtor in bankruptcy under title 11 of the United States Code. For an example, see comment 39(c)(1)(ii)-1.ii.",
-            "label":[
-                "1024",
-                "39",
-                "d",
-                "2",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -673,29 +728,8 @@
         },
         "op":"added"
     },
-    "1024-41-b-2-ii-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"No later than the next milestone.",
-            "text":"For purposes of \u00a7\u20091024.41(b)(2)(ii), subject to the restriction described in comment 41(b)(2)(ii)-3, the reasonable date must be no later than the earliest of:",
-            "label":[
-                "1024",
-                "41",
-                "b",
-                "2",
-                "ii",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-41-b-2-ii-Interp-2-i",
-                "1024-41-b-2-ii-Interp-2-ii",
-                "1024-41-b-2-ii-Interp-2-iii",
-                "1024-41-b-2-ii-Interp-2-iv"
-            ]
-        },
-        "op":"added"
+    "1024-41-b-1-Interp-3-i":{
+        "op":"deleted"
     },
     "1024-41-c-3-i":{
         "node":{
@@ -951,24 +985,77 @@
         },
         "op":"added"
     },
-    "1024-41-b-1-Interp-1-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Assume a particular loss mitigation option is only available for borrowers whose mortgage loans were originated before a specific date. Once a servicer receives documents or information confirming that a mortgage loan was originated after that date, the servicer may stop collecting documents or information from the borrower that the servicer would use to evaluate the borrower for that loss mitigation option, but the servicer must continue its efforts to obtain documents and information from the borrower that the servicer requires to evaluate the borrower for all other available loss mitigation options.",
-            "label":[
-                "1024",
-                "41",
-                "b",
-                "1",
-                "Interp",
-                "1",
-                "i"
+    "1024-41-i-Interp-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    41
+                ],
+                [
+                    "insert",
+                    0,
+                    "Under \u00a7\u20091024.41(i), a servicer must comply with \u00a7\u20091024.41 with respect to a loss mitigation application unless the servicer has previously done so for a complete loss mitigation application submitted by the borrower and the borrower has been delinquent at all times since submitting the prior complete application. Thus, for example, if the borrower has previously submitted a complete loss mitigation application and the servicer complied fully with \u00a7\u20091024.41 for that application, but the borrower then ceased to be delinquent and later became delinquent again, the servicer again must comply with \u00a7\u20091024.41 for any subsequent loss mitigation application submitted by the borrower. When a servicer"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    89,
+                    440
+                ],
+                [
+                    "insert",
+                    89,
+                    "\u00a7\u20091024.41 for such a subsequent loss mitigation application, the servicer must"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    453,
+                    456
+                ],
+                [
+                    "insert",
+                    453,
+                    "all applicable"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    473,
+                    500
+                ],
+                [
+                    "insert",
+                    473,
+                    "\u00a7\u20091024.41. For example, in such a case, the servicer's provision of the notice of determination of which loss mitigation options, if any, it will offer to the borrower under \u00a7\u20091024.41(c)(1)(ii) regarding the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    512,
+                    534
+                ],
+                [
+                    "insert",
+                    512,
+                    "prior complete loss mitigation application does not affect the servicer's obligations to provide a new notice of complete application under \u00a7\u20091024.41(c)(3)(i) regarding the borrower's subsequent complete loss mitigation application."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Applicability of loss mitigation protections."
+            ]
+        ],
+        "op":"modified"
     },
     "1024-38-b-2-vi":{
         "node":{
@@ -1085,6 +1172,27 @@
         },
         "op":"added"
     },
+    "1024-41-k-3-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Applications first complete upon transfer.",
+            "text":"If the borrower's loss mitigation application was incomplete based on the transferor servicer's criteria prior to transfer but is complete based upon the transferee servicer's criteria, the application is considered a pending loss mitigation application complete as of the transfer date for purposes of \u00a7\u20091024.41(k)(3). Consequently, the transferee servicer must comply with the applicable requirements of \u00a7\u20091024.41(c)(1) and (4) within 30 days of the transfer date. For purposes of \u00a7\u20091024.41(c) through (h), the application is complete as of the date the transferor servicer received the documents and information constituting the complete application. See comment 41(k)(1)(i)-2. In such circumstances, \u00a7\u20091024.41(c)(3) requires the transferee servicer to provide a notice of complete application that discloses the date the transferor servicer received the documents and information constituting the complete application.",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "3",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-b-2-Interp":{
+        "op":"deleted"
+    },
     "1024-36-a-Interp-2":{
         "text":[
             [
@@ -1131,64 +1239,116 @@
         ],
         "op":"modified"
     },
+    "1024-41-b-3-Interp-1":{
+        "op":"deleted"
+    },
     "1024-41-b-2-ii-Interp-1":{
+        "op":"deleted"
+    },
+    "1024-41-b-1-Interp":{
+        "op":"deleted"
+    },
+    "1024-39-b-1-Interp-2":{
         "text":[
             [
                 [
                     "delete",
                     0,
-                    50
+                    33
                 ],
                 [
                     "insert",
                     0,
-                    "In general and subject to the restrictions described in comments 41(b)(2)(ii)-2 and -3, a servicer complies with the requirement to include a reasonable date in the written notice required under \u00a7\u20091024.41(b)(2)(i)(B) by including a date"
-                ]
-            ],
-            [
-                "delete",
-                56,
-                121
-            ],
-            [
-                [
-                    "delete",
-                    124,
-                    160
-                ],
-                [
-                    "insert",
-                    124,
-                    "30 days after the"
-                ]
-            ],
-            [
-                "delete",
-                166,
-                175
-            ],
-            [
-                [
-                    "delete",
-                    179,
-                    201
-                ],
-                [
-                    "insert",
-                    179,
-                    "servicer provides"
+                    "A"
                 ]
             ],
             [
                 [
                     "delete",
-                    206,
-                    921
+                    85,
+                    97
                 ],
                 [
                     "insert",
-                    206,
-                    "written notice."
+                    85,
+                    "\u00a7\u20091024.39(b)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    200,
+                    212
+                ],
+                [
+                    "insert",
+                    200,
+                    "A servicer must provide the written notice under \u00a7\u20091024.39(b) at least once every 180 days to"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    224,
+                    227
+                ],
+                [
+                    "insert",
+                    224,
+                    "who is 45 days or more delinquent. This provision is illustrated as follows: Assume"
+                ]
+            ],
+            [
+                "insert",
+                230,
+                "borrower becomes delinquent on March 1, the amount due is not fully paid during the 45 days after March 1, and the servicer provides the written notice on the 45th day after March 1, which is April 15. Assume the borrower also fails to make the "
+            ],
+            [
+                [
+                    "delete",
+                    245,
+                    250
+                ],
+                [
+                    "insert",
+                    245,
+                    "April 1 and the amount due is not fully paid during the 45 days after April"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    258,
+                    271
+                ],
+                [
+                    "insert",
+                    258,
+                    "servicer need"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    276,
+                    297
+                ],
+                [
+                    "insert",
+                    276,
+                    "provide the written notice again until after the 180-day period beginning on April 15\u2014i.e., no sooner than on October 12\u2014and then only if the borrower is at that time"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    306,
+                    653
+                ],
+                [
+                    "insert",
+                    306,
+                    "or more delinquent."
                 ]
             ]
         ],
@@ -1196,32 +1356,10 @@
             [
                 "insert",
                 0,
-                "Thirty days is generally reasonable."
+                "Frequency of the written notice."
             ]
         ],
         "op":"modified"
-    },
-    "1024-41-b-2-ii-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":"Seven-day minimum.",
-            "text":"A reasonable date for purposes of \u00a7\u20091024.41(b)(2)(ii) must never be less than seven days from the date on which the servicer provides the written notice pursuant to \u00a7\u20091024.41(b)(2)(i)(B).",
-            "label":[
-                "1024",
-                "41",
-                "b",
-                "2",
-                "ii",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-39-c-Interp-1":{
-        "op":"deleted"
     },
     "1024-41-i":{
         "text":[
@@ -1663,26 +1801,6 @@
         },
         "op":"added"
     },
-    "1024-41-b-2-ii-Interp-2-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The date that is the 120th day of the borrower's delinquency;",
-            "label":[
-                "1024",
-                "41",
-                "b",
-                "2",
-                "ii",
-                "Interp",
-                "2",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-41-c-1-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -1771,8 +1889,48 @@
     "1024-6-d-1-ii-B":{
         "op":"deleted"
     },
+    "1024-38-b-1-vi-Interp-3-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":"Affidavits of heirship.",
+            "text":"Assume that a potential successor in interest indicates that an ownership interest in the property transferred to the potential successor in interest upon the death of the transferor borrower through intestate succession and offers an affidavit of heirship as confirmation. Assume further that, upon the death of the transferor borrower, the applicable law of the relevant jurisdiction does not require a probate proceeding to establish that the potential successor in interest has an interest in the property but requires only an appropriate affidavit of heirship. Under these circumstances, it would be reasonable for the servicer to require the potential successor in interest to provide the affidavit of heirship and the death certificate of the transferor borrower. Because a probate proceeding is not required under the applicable law of the relevant jurisdiction to recognize the transfer of title, it generally would not be reasonable for the servicer to require documentation of a probate proceeding.",
+            "label":[
+                "1024",
+                "38",
+                "b",
+                "1",
+                "vi",
+                "Interp",
+                "3",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-39-a-Interp-3-ii":{
         "op":"deleted"
+    },
+    "1024-41-k-1-i-Interp-1-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A borrower may provide documents and information necessary to complete an application to a transferor servicer after the transfer date. Consistent with policies and procedures maintained pursuant to \u00a7\u20091024.38(b)(4), the transferor servicer must timely transfer, and the transferee servicer must obtain, such documents and information.",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "i",
+                "Interp",
+                "1",
+                "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-39-c-2-ii-A":{
         "node":{
@@ -1809,23 +1967,61 @@
         },
         "op":"added"
     },
-    "1024-41-b-Interp-1":{
+    "1024-39-c-1-ii-Interp-2-ii":{
         "node":{
             "tagged_text":null,
-            "title":"Successors in interest.",
+            "title":"Example.",
+            "text":"For example, assume that two spouses jointly own a home and are both primarily liable on the mortgage loan. Further assume that the servicer is subject to the FDCPA with respect to that mortgage loan. One spouse is a debtor in bankruptcy under title 11 of the United States Code subject to \u00a7\u20091024.39(c). The other spouse provided the servicer a notification pursuant to FDCPA section 805(c). Section 1024.39(c)(1)(ii) exempts the servicer from providing the written notice required by \u00a7\u20091024.39(b) with respect to that mortgage loan.",
+            "label":[
+                "1024",
+                "39",
+                "c",
+                "1",
+                "ii",
+                "Interp",
+                "2",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-38-b-3-iii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 38(b)(3)(iii).",
             "text":"",
             "label":[
                 "1024",
-                "41",
+                "38",
                 "b",
+                "3",
+                "iii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-38-b-3-iii-Interp-1"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-41-k-5-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Obtaining evidence of borrower acceptance.",
+            "text":"A borrower may provide an acceptance or rejection of a pending loss mitigation offer to a transferor servicer after the transfer date. Consistent with policies and procedures maintained pursuant to \u00a7\u20091024.38(b)(4), the transferor servicer must timely transfer, and the transferee servicer must obtain, documents and information regarding such acceptances and rejections, and the transferee servicer must provide the borrower with any timely accepted loss mitigation option, even if the borrower submitted the acceptance to the transferor servicer.",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "5",
                 "Interp",
                 "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-41-b-Interp-1-i",
-                "1024-41-b-Interp-1-ii"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -1865,6 +2061,9 @@
         },
         "op":"added"
     },
+    "1024-41-b-2-i-Interp":{
+        "op":"deleted"
+    },
     "1024-39-c-2-ii-B":{
         "node":{
             "tagged_text":null,
@@ -1893,20 +2092,57 @@
         ],
         "op":"modified"
     },
-    "1024-41-b-2-ii-Interp-2-iii":{
+    "1024-39-c-1-iii-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"The date that is 90 days before a foreclosure sale;",
+            "title":"Joint obligors.",
+            "text":"When two or more borrowers are joint obligors with primary liability on a mortgage loan subject to \u00a7\u20091024.39, if any of the borrowers is a debtor in bankruptcy, a servicer may provide the written notice required by \u00a7\u20091024.39(b), as modified by \u00a7\u20091024.39(c)(1)(iii), to any borrower.",
+            "label":[
+                "1024",
+                "39",
+                "c",
+                "1",
+                "iii",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-k-2-ii-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Reasonable date when no milestones remain.",
+            "text":"Generally, a servicer does not provide the notice required under \u00a7\u20091024.41(b)(2)(i)(B) after the date that is 38 days before a foreclosure sale, so at least one milestone specified in comment 41(b)(ii)-1 always remains applicable. When \u00a7\u20091024.41(k)(2)(i) applies, however, the transferee servicer may sometimes provide the notice after the date that is 38 days before a foreclosure sale. When this occurs, the transferee servicer must determine the reasonable date when none of the four specified milestones remain. The other requirements of \u00a7\u20091024.41(b)(2)(ii) continue to apply. In this circumstance, a reasonable date may occur less than 30 days, but not less than seven days, after the date the transferee servicer provides the written notice pursuant to \u00a7\u20091024.41(b)(2)(i)(B).",
             "label":[
                 "1024",
                 "41",
-                "b",
+                "k",
                 "2",
                 "ii",
                 "Interp",
-                "2",
-                "iii"
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-38-b-1-vi-Interp-4":{
+        "node":{
+            "tagged_text":null,
+            "title":"Additional documentation required for confirmation determination.",
+            "text":"Section 1024.38(b)(1)(vi)(C) requires a servicer to maintain policies and procedures reasonably designed to ensure that, upon receipt of the documents identified by the servicer, the servicer promptly notifies a potential successor in interest that, as applicable, the servicer has confirmed the potential successor in interest's status, has determined that additional documents are required, or has determined that the potential successor in interest is not a successor in interest. If a servicer reasonably determines that it cannot make a determination of the potential successor in interest's status based on the documentation provided, it must specify what additional documentation is required. For example, if there is pending litigation involving the potential successor in interest and other claimants regarding who has title to the property at issue, a servicer may specify that documentation of a court determination or other resolution of the litigation is required.",
+            "label":[
+                "1024",
+                "38",
+                "b",
+                "1",
+                "vi",
+                "Interp",
+                "4"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -1963,6 +2199,26 @@
                 "1"
             ],
             "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-38-b-1-vi-Interp-3-i":{
+        "node":{
+            "tagged_text":null,
+            "title":"Tenancy by the entirety or joint tenancy.",
+            "text":"Assume that a servicer knows that the potential successor in interest and the transferor borrower owned the property as tenants by the entirety or joint tenants and that the transferor borrower has died. Assume further that, upon the death of the transferor borrower, the applicable law of the relevant jurisdiction does not require a probate proceeding to establish that the potential successor in interest has sole interest in the property but requires only that there be a prior recorded deed listing both the potential successor in interest and the transferor borrower as tenants by the entirety (e.g., married grantees) or joint tenants. Under these circumstances, it would be reasonable for the servicer to require the potential successor in interest to provide documentation of the recorded instrument, if the servicer does not already have it, and the death certificate of the transferor borrower. Because in this situation a probate proceeding is not required under the applicable law of the relevant jurisdiction, it generally would not be reasonable for the servicer to require documentation of a probate proceeding.",
+            "label":[
+                "1024",
+                "38",
+                "b",
+                "1",
+                "vi",
+                "Interp",
+                "3",
+                "i"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -2213,25 +2469,6 @@
         },
         "op":"added"
     },
-    "1024-39-d-1-Interp-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"With respect to any portion of the mortgage debt that is not discharged, a servicer must resume compliance with \u00a7 1024.39 after the first delinquency that follows the earliest of any of three potential outcomes in the borrower's bankruptcy case: the case is dismissed, the case is closed, or the borrower receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume compliance with \u00a7 1024.39 does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of \u00a7 1024.39 in any manner believed necessary.",
-            "label":[
-                "1024",
-                "39",
-                "d",
-                "1",
-                "Interp",
-                "2",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-C-h2-h3-p12":{
         "node":{
             "tagged_text":null,
@@ -2390,27 +2627,6 @@
         },
         "op":"added"
     },
-    "1024-39-d-1-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"39(d)(1) Borrowers in bankruptcy.",
-            "text":"",
-            "label":[
-                "1024",
-                "39",
-                "d",
-                "1",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-39-d-1-Interp-1",
-                "1024-39-d-1-Interp-2",
-                "1024-39-d-1-Interp-3"
-            ]
-        },
-        "op":"added"
-    },
     "1024-A-h3-h4-p88":{
         "text":[
             [
@@ -2498,6 +2714,43 @@
         ],
         "op":"modified"
     },
+    "1024-41-k-2-ii-Interp-1-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"If the transferor servicer receives the borrower's initial loss mitigation application 55 days before the foreclosure sale, the date that the transferee servicer provides the notice required by \u00a7\u20091024.41(b)(2)(i)(B), October 23, is 33 days before the foreclosure sale. Pursuant to \u00a7\u20091024.41(k)(2)(ii)(B), the transferee servicer must comply with \u00a7\u20091024.41(c), (d), and (g) if the borrower submits a complete loss mitigation application on or before November 22, the reasonable date disclosed under \u00a7\u20091024.41(b)(2)(ii).",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "2",
+                "ii",
+                "Interp",
+                "1",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-30-d-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Treatment of transferor borrowers.",
+            "text":"Even after a servicer's confirmation of a successor in interest, the servicer is still required to comply with all applicable requirements of this subpart with respect to the transferor borrower.",
+            "label":[
+                "1024",
+                "30",
+                "d",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-MS-3(B)-p53":{
         "text":[
             [
@@ -2561,29 +2814,83 @@
         },
         "op":"added"
     },
-    "1024-39-a-Interp-1-ii":{
-        "op":"deleted"
-    },
-    "1024-39-d-1-Interp-2":{
+    "1024-39-c-1-ii-Interp-2-i":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Obligation to resume early intervention requirements.",
+            "title":"Exemption.",
+            "text":"To the extent the Fair Debt Collection Practices Act (FDCPA) (15 U.S.C. 1692 et seq.) applies to a servicer's communications with a borrower in bankruptcy and any borrower on the mortgage loan has provided a notification pursuant to FDCPA section 805(c) notifying the servicer that the borrower refuses to pay a debt or that the borrower wishes the servicer to cease further communications, with regard to that mortgage loan, \u00a7\u20091024.39(c)(1)(ii) exempts a servicer from providing the written notice required by \u00a7\u20091024.39(b).",
             "label":[
                 "1024",
                 "39",
-                "d",
+                "c",
                 "1",
+                "ii",
+                "Interp",
+                "2",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-k-4-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Obtaining appeal.",
+            "text":"A borrower may submit an appeal of a transferor servicer's determination pursuant to \u00a7\u20091024.41(h) to the transferor servicer after the transfer date. Consistent with policies and procedures maintained pursuant to \u00a7\u20091024.38(b)(4), the transferor servicer must timely transfer, and the transferee servicer must obtain, documents and information regarding such appeals.",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "4",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-k-4-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Servicer unable to determine appeal.",
+            "text":"A transferee servicer may be unable to make a determination on an appeal when, for example, the transferor servicer denied a borrower for a loan modification option that the transferee servicer does not offer or when the transferee servicer receives the mortgage loan through an involuntary transfer and the transferor servicer failed to maintain proper records such that the transferee servicer lacks sufficient information to review the appeal. In that circumstance, the transferee servicer is required to treat the appeal as a pending complete application, and it must permit the borrower to accept or reject any loss mitigation options offered by the transferor servicer, even if it does not offer the loss mitigation options offered by the transferor servicer, in addition to the loss mitigation options, if any, that the transferee servicer determines to offer the borrower based on its own evaluation of the borrower's complete loss mitigation application. For example, assume a transferor servicer denied a borrower for all loan modification options but offered the borrower a short sale option, and assume that the borrower's appeal of the loan modification denial was pending as of the transfer date. If the transferee servicer is unable to determine the borrower's appeal, the transferee servicer must evaluate the borrower for all available loss mitigation options in accordance with \u00a7\u20091024.41(c) and (k)(3). At the conclusion of such evaluation, the transferee servicer must permit the borrower to accept the short sale option offered by the transferor servicer, even if the transferee servicer does not offer the short sale option, in addition to any loss mitigation options the transferee servicer determines to offer the borrower based upon its own evaluation.",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "4",
                 "Interp",
                 "2"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-39-d-1-Interp-2-i",
-                "1024-39-d-1-Interp-2-ii"
-            ]
+            "child_labels":[]
         },
         "op":"added"
+    },
+    "1024-41-k-1-i-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Duplicative notices not required.",
+            "text":"A transferee servicer is not required to provide notices under \u00a7\u20091024.41 with respect to a particular loss mitigation application that the transferor servicer provided prior to the transfer. For example, if the transferor servicer provided the notice required by \u00a7\u20091024.41(b)(2)(i)(B) prior to the transfer, the transferee servicer is not required to provide the notice again for that application.",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "i",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-39-a-Interp-1-ii":{
+        "op":"deleted"
     },
     "1024-41-k-Interp-1":{
         "node":{
@@ -2602,8 +2909,30 @@
         },
         "op":"added"
     },
+    "1024-41-b-2-i-B-Interp":{
+        "op":"deleted"
+    },
     "1024-6-d-1-ii":{
         "op":"deleted"
+    },
+    "1024-30-c-2-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 30(c)(2).",
+            "text":"",
+            "label":[
+                "1024",
+                "30",
+                "c",
+                "2",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-30-c-2-Interp-1"
+            ]
+        },
+        "op":"added"
     },
     "1024-6-d-2":{
         "text":[
@@ -2626,6 +2955,25 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-k-1-i-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Determination of rights and protections.",
+            "text":"For purposes of \u00a7\u20091024.41(c) through (h), a transferee servicer must consider documents and information that constitute a complete loss mitigation application for the transferee servicer to have been received as of the date such documents and information were received by the transferor servicer, even if such documents and information were received by the transferor servicer after the transfer date. See comment 41(k)(1)(i)-1.iii. An application that was facially complete under \u00a7\u20091024.41(c)(2)(iv) with respect to the transferor servicer remains facially complete under \u00a7\u20091024.41(c)(2)(iv) with respect to the transferee servicer as of the date it was facially complete with respect to the transferor servicer. If an application was complete with respect to the transferor servicer, but is not complete with respect to the transferee servicer, the transferee servicer must treat the application as facially complete under \u00a7\u20091024.41(c)(2)(iv) as of the date the application was complete with respect to the transferor servicer.",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "i",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-C-h2-h5-p21":{
         "text":[
@@ -2681,70 +3029,66 @@
     "1024-41-b-1-Interp-4-ii":{
         "op":"deleted"
     },
-    "1024-41-b-1-Interp-1":{
-        "text":[
-            [
-                "insert",
-                0,
-                "A servicer has flexibility to establish its own application requirements and to decide the type and amount of information it will require from borrowers applying for loss mitigation options. "
+    "1024-41-c-2-iii-Interp-5":{
+        "node":{
+            "tagged_text":null,
+            "title":"Specific payment terms and duration.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iii",
+                "Interp",
+                "5"
             ],
-            [
-                [
-                    "delete",
-                    3,
-                    70
-                ],
-                [
-                    "insert",
-                    3,
-                    "the course of gathering documents and information from a borrower to complete a loss mitigation application, a servicer may stop collecting documents and information for a particular loss mitigation option after receiving information confirming that, pursuant to any"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    84,
-                    117
-                ],
-                [
-                    "insert",
-                    84,
-                    "established by the owner or assignee"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    121,
-                    148
-                ],
-                [
-                    "insert",
-                    121,
-                    "the borrower's mortgage loan, the borrower is ineligible for that option. A servicer may not stop collecting documents and information for any loss mitigation option based solely upon the borrower's stated preference but may stop collecting documents and information for any loss mitigation option based on the borrower's stated preference in conjunction with other information, as prescribed by any requirements established by the owner or assignee. A servicer must continue to exercise reasonable diligence to obtain documents and information"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    154,
-                    201
-                ],
-                [
-                    "insert",
-                    154,
-                    "the borrower that the servicer requires to evaluate the borrower as to all other loss mitigation options available to the borrower. For example:"
-                ]
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-c-2-iii-Interp-5-i",
+                "1024-41-c-2-iii-Interp-5-ii"
             ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "In general."
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-9":{
+        "node":{
+            "tagged_text":null,
+            "title":"Delinquency.",
+            "text":"",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "9"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-31-Interp-9-1",
+                "1024-31-Interp-9-2",
+                "1024-31-Interp-9-3",
+                "1024-31-Interp-9-4"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
+    },
+    "1024-39-c-1-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Commencing a case.",
+            "text":"Section 1024.39(c)(1) applies once a petition is filed under title 11 of the United States Code, commencing a case in which the borrower is a debtor in bankruptcy.",
+            "label":[
+                "1024",
+                "39",
+                "c",
+                "1",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-37-d-5-Interp-1":{
         "node":{
@@ -2764,107 +3108,105 @@
         },
         "op":"added"
     },
-    "1024-39-b-1-Interp-2":{
+    "1024-31-Interp-10-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Beneficiaries of inter vivos trusts.",
+            "text":"In the event of a transfer into an inter vivos trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property, the beneficiaries of the inter vivos trust rather than the inter vivos trust itself are considered to be the successors in interest for purposes of \u00a7\u20091024.31. For example, assume Borrower A transfers her home into such an inter vivos trust for the benefit of her spouse and herself. As of the transfer date, Borrower A and her spouse would be considered successors in interest and, upon confirmation, would be borrowers for purposes of certain provisions of Regulation X. If the lender has not released Borrower A from the loan obligation, Borrower A would also remain a borrower more generally for purposes of Regulation X.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "10",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-39-c-Interp-1":{
         "text":[
             [
                 [
                     "delete",
                     0,
-                    33
+                    56
                 ],
                 [
                     "insert",
                     0,
-                    "A"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    85,
-                    97
-                ],
-                [
-                    "insert",
-                    85,
-                    "\u00a7\u20091024.39(b)"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    200,
-                    212
-                ],
-                [
-                    "insert",
-                    200,
-                    "A servicer must provide the written notice under \u00a7\u20091024.39(b) at least once every 180 days to"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    224,
-                    227
-                ],
-                [
-                    "insert",
-                    224,
-                    "who is 45 days or more delinquent. This provision is illustrated as follows: Assume"
+                    "If the borrower is represented by"
                 ]
             ],
             [
                 "insert",
-                230,
-                "borrower becomes delinquent on March 1, the amount due is not fully paid during the 45 days after March 1, and the servicer provides the written notice on the 45th day after March 1, which is April 15. Assume the borrower also fails to make the "
+                59,
+                "person authorized by the borrower to communicate with the "
+            ],
+            [
+                "insert",
+                68,
+                "on the borrower's behalf, the servicer may provide the written notice required by \u00a7\u20091024.39(b), as modified by \u00a7\u20091024.39(c)(1)(iii), "
             ],
             [
                 [
                     "delete",
-                    245,
-                    250
+                    71,
+                    110
                 ],
                 [
                     "insert",
-                    245,
-                    "April 1 and the amount due is not fully paid during the 45 days after April"
+                    71,
+                    "the borrower's representative. See comment 39(a)-5. In general, bankruptcy counsel is the borrower's representative. A servicer's procedures for determining whether counsel is the borrower's representative are generally considered reasonable if they are limited to, for example, confirming"
                 ]
             ],
             [
                 [
                     "delete",
-                    258,
-                    271
+                    116,
+                    153
                 ],
                 [
                     "insert",
-                    258,
-                    "servicer need"
+                    116,
+                    "the attorney's name is listed on the borrower's"
                 ]
             ],
             [
                 [
                     "delete",
-                    276,
-                    297
+                    165,
+                    168
                 ],
                 [
                     "insert",
-                    276,
-                    "provide the written notice again until after the 180-day period beginning on April 15\u2014i.e., no sooner than on October 12\u2014and then only if the borrower is at that time"
+                    165,
+                    "petition"
                 ]
             ],
             [
                 [
                     "delete",
-                    306,
-                    653
+                    172,
+                    173
                 ],
                 [
                     "insert",
-                    306,
-                    "or more delinquent."
+                    172,
+                    "other"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    180,
+                    394
+                ],
+                [
+                    "insert",
+                    180,
+                    "filing."
                 ]
             ]
         ],
@@ -2872,7 +3214,7 @@
             [
                 "insert",
                 0,
-                "Frequency of the written notice."
+                "Borrower's representative."
             ]
         ],
         "op":"modified"
@@ -2972,6 +3314,23 @@
     },
     "1024-C-h2-h3-p8-p10":{
         "op":"deleted"
+    },
+    "1024-30-d-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Assumption of the mortgage loan obligation.",
+            "text":"A servicer may not require a confirmed successor in interest to assume the mortgage loan obligation under State law to be considered a borrower for purposes of \u00a7\u20091024.17 and this subpart. If a successor in interest assumes a mortgage loan obligation under State law or is otherwise liable on the mortgage loan obligation, the protections that the successor in interest enjoys under this part are not limited to the protections that apply under \u00a7\u20091024.30(d) to a confirmed successor in interest.",
+            "label":[
+                "1024",
+                "30",
+                "d",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-41-c-4-ii-B-1":{
         "node":{
@@ -3084,43 +3443,7 @@
         "op":"added"
     },
     "1024-41-b-1-Interp-4":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    31
-                ],
-                [
-                    "insert",
-                    0,
-                    "Although"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    285,
-                    293
-                ],
-                [
-                    "insert",
-                    285,
-                    "A servicer must request information necessary to make"
-                ]
-            ],
-            [
-                "delete",
-                296,
-                350
-            ],
-            [
-                "insert",
-                466,
-                "for purposes of \u00a7\u20091024.41(b)(1) "
-            ]
-        ],
-        "op":"modified"
+        "op":"deleted"
     },
     "1024-41-c-3-i-A":{
         "node":{
@@ -3141,6 +3464,9 @@
         "op":"added"
     },
     "1024-6-d-1-i":{
+        "op":"deleted"
+    },
+    "1024-41-b-2-ii-Interp":{
         "op":"deleted"
     },
     "1024-41-c-4-ii":{
@@ -3164,24 +3490,11 @@
         },
         "op":"added"
     },
-    "1024-41-b-1-Interp-1-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Assume applicable requirements established by the owner or assignee of the mortgage loan provide that a borrower is ineligible for home retention loss mitigation options if the borrower states a preference for a short sale and provides evidence of another applicable hardship, such as military Permanent Change of Station orders or an employment transfer more than 50 miles away. If the borrower indicates a preference for a short sale or, more generally, not to retain the property, the servicer may not stop collecting documents and information from the borrower pertaining to available home retention options solely because the borrower has indicated such a preference, but the servicer may stop collecting such documents and information once the servicer receives information confirming that the borrower has an applicable hardship under requirements established by the owner or assignee, such as military Permanent Change of Station orders or employment transfer.",
-            "label":[
-                "1024",
-                "41",
-                "b",
-                "1",
-                "Interp",
-                "1",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1024-41-b-1-Interp-2":{
+        "op":"deleted"
+    },
+    "1024-41-b-1-Interp-3":{
+        "op":"deleted"
     },
     "1024-41-c-3-i-C":{
         "node":{
@@ -3375,6 +3688,23 @@
         ],
         "op":"modified"
     },
+    "1024-36-i-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Time limits.",
+            "text":"A servicer must respond to a request under \u00a7\u20091024.36(i) not later than the time limits set forth in \u00a7\u20091024.36(d)(2). Servicers subject to \u00a7\u20091024.38(b)(1)(vi)(B) must also maintain policies and procedures reasonably designed to ensure that, upon receiving notice of the existence of a potential successor in interest, the servicer can promptly determine the documents the servicer reasonably requires to confirm that person's identity and ownership interest in the property and promptly provide to the potential successor in interest a description of those documents and how the person may submit a written request under \u00a7\u20091024.36(i) (including the appropriate address). Depending on the facts and circumstances of the request, responding promptly may require a servicer to respond more quickly than the time limits established in \u00a7\u20091024.36(d)(2).",
+            "label":[
+                "1024",
+                "36",
+                "i",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-30-c-1":{
         "text":[
             [
@@ -3397,25 +3727,8 @@
         ],
         "op":"modified"
     },
-    "1024-41-c-2-iii-Interp-5-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":"Disclosure of payment amounts that may change.",
-            "text":"At the time a servicer provides the written notice pursuant to \u00a7\u20091024.41(c)(2)(iii), if the servicer lacks information necessary to determine the amount of a specific payment due during the program or plan (for example, because the borrower's interest rate will change to an unknown rate based on an index or because an escrow account computation year as defined in \u00a7\u20091024.17(b) will end and the borrower's escrow payment might change), the servicer complies with the requirement to disclose the specific payment terms and duration of a short-term payment forbearance program or short-term repayment plan if the disclosures are based on the best information reasonably available to the servicer at the time the notice is provided and the written notice identifies which payment amounts may change, states that such payment amounts are estimates, and states the general reason that such payment amounts might change. For example, if an escrow account computation year as defined in \u00a7\u20091024.17(b) will end during a borrower's short-term repayment plan, the written notice complies with \u00a7\u20091024.41(c)(2)(iii) if it identifies the payment amounts that may change, states that those payment amounts are estimates, and states that the affected payments might change because the borrower's escrow payment might change.",
-            "label":[
-                "1024",
-                "41",
-                "c",
-                "2",
-                "iii",
-                "Interp",
-                "5",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1024-41-b-1-Interp-5":{
+        "op":"deleted"
     },
     "1024-9-c":{
         "text":[
@@ -3464,6 +3777,27 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-b-Interp-1-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"If a servicer receives a loss mitigation application from a potential successor in interest before confirming that person's identity and ownership interest in the property, the servicer may, but need not, review and evaluate the loss mitigation application in accordance with the procedures set forth in \u00a7\u20091024.41. If a servicer complies with the requirements of \u00a7\u20091024.41 for a complete loss mitigation application submitted by a potential successor in interest before confirming that person's identity and ownership interest in the property, \u00a7\u20091024.41(i)'s limitation on duplicative requests applies to that person, provided the servicer's evaluation of loss mitigation options available to the person would not have resulted in a different determination due to the person's confirmation as a successor in interest if it had been conducted after the servicer confirmed the person's status as a successor in interest.",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "Interp",
+                "1",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-b-3-Interp":{
+        "op":"deleted"
     },
     "1024-41-c-2-iii-Interp-2":{
         "text":[
@@ -3690,19 +4024,42 @@
         ],
         "op":"modified"
     },
-    "1024-41-b-2-i-Interp-1":{
+    "1024-39-c-1-ii-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":"Foreclosure sale not scheduled.",
-            "text":"For purposes of \u00a7\u20091024.41(b)(2)(i), if no foreclosure sale has been scheduled as of the date a servicer receives a loss mitigation application, the servicer must treat the application as having been received 45 days or more before any foreclosure sale.",
+            "title":"Fair Debt Collections Practices Act.",
+            "text":"",
+            "label":[
+                "1024",
+                "39",
+                "c",
+                "1",
+                "ii",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-39-c-1-ii-Interp-2-i",
+                "1024-39-c-1-ii-Interp-2-ii"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-41-k-1-i-Interp-1-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"In connection with a transfer, a transferor servicer must timely transfer, and a transferee servicer must obtain from the transferor servicer, documents and information submitted by a borrower in connection with a loss mitigation application, consistent with policies and procedures adopted pursuant to \u00a7\u20091024.38(b)(4). A transferee servicer must comply with the applicable requirements of \u00a7\u20091024.41 with respect to a loss mitigation application received as a result of a transfer, even if the transferor servicer was not required to comply with \u00a7\u20091024.41 with respect to that application (for example, because \u00a7\u20091024.41(i) precluded applicability of \u00a7\u20091024.41 with respect to the transferor servicer). If an application was not subject to \u00a7\u20091024.41 prior to a transfer, then for purposes of \u00a7\u20091024.41(b) and (c), a transferee servicer is considered to have received the loss mitigation application on the transfer date. Any such application is subject to the timeframes for compliance set forth in \u00a7\u20091024.41(k).",
             "label":[
                 "1024",
                 "41",
-                "b",
-                "2",
+                "k",
+                "1",
                 "i",
                 "Interp",
-                "1"
+                "1",
+                "i"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -3728,25 +4085,22 @@
         },
         "op":"added"
     },
-    "1024-41-c-2-iii-Interp-5":{
+    "1024-39-c-1-ii-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Specific payment terms and duration.",
-            "text":"",
+            "title":"Availability of loss mitigation options.",
+            "text":"In part, \u00a7\u20091024.39(c)(1)(ii) exempts a servicer from the requirements of \u00a7\u20091024.39(b) if no loss mitigation option is available. A loss mitigation option is available if the owner or assignee of a mortgage loan offers an alternative to foreclosure that is made available through the servicer and for which a borrower may apply, even if the borrower ultimately does not qualify for such option.",
             "label":[
                 "1024",
-                "41",
+                "39",
                 "c",
-                "2",
-                "iii",
+                "1",
+                "ii",
                 "Interp",
-                "5"
+                "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-41-c-2-iii-Interp-5-i",
-                "1024-41-c-2-iii-Interp-5-ii"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -3844,6 +4198,26 @@
         ],
         "op":"modified"
     },
+    "1024-41-b-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Successors in interest.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-b-Interp-1-i",
+                "1024-41-b-Interp-1-ii"
+            ]
+        },
+        "op":"added"
+    },
     "1024-39-a-Interp-4-i":{
         "node":{
             "tagged_text":null,
@@ -3885,20 +4259,39 @@
         ],
         "op":"modified"
     },
-    "1024-41-b-2-ii-Interp-2-iv":{
+    "1024-41-k-2-ii-Interp-1-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"The date that is 38 days before a foreclosure sale.",
+            "text":"If the transferor servicer receives the borrower's initial loss mitigation application when the borrower's mortgage loan is 101 days delinquent, the borrower's mortgage loan would be 123 days delinquent on October 23, the date the transferee servicer provides the notice required by \u00a7\u20091024.41(b)(2)(i)(B). Pursuant to \u00a7\u20091024.41(k)(2)(ii)(A), the transferee servicer cannot make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process until after November 22, the reasonable date disclosed under \u00a7\u20091024.41(b)(2)(ii), and then only if the borrower has not submitted a complete application by that date.",
             "label":[
                 "1024",
                 "41",
-                "b",
+                "k",
                 "2",
                 "ii",
                 "Interp",
-                "2",
-                "iv"
+                "1",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-k-1-ii-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Transfer date.",
+            "text":"Section 1024.41(k)(1)(ii) provides that the transfer date is the date on which the transferee servicer will begin accepting payments relating to the mortgage loan, as disclosed on the notice of transfer of loan servicing pursuant to \u00a7\u20091024.33(b)(4)(iv). The transfer date is the same date as that on which the transfer of the servicing responsibilities from the transferor servicer to the transferee servicer occurs. The transfer date is not necessarily the same date as either the effective date of the transfer of servicing as disclosed on the notice of transfer of loan servicing pursuant to \u00a7\u20091024.33(b)(4)(i) or the sale date identified in a servicing transfer agreement.",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "ii",
+                "Interp",
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -3931,7 +4324,21 @@
         "op":"modified"
     },
     "1024-39-c-Interp":{
-        "op":"deleted"
+        "title":[
+            [
+                [
+                    "delete",
+                    6,
+                    31
+                ],
+                [
+                    "insert",
+                    6,
+                    "Borrowers in bankruptcy."
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1024-C-h2-h3-p9-iii":{
         "node":{
@@ -3947,6 +4354,43 @@
                 "iii"
             ],
             "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-36-i-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"36(i) Potential successors in interest.",
+            "text":"",
+            "label":[
+                "1024",
+                "36",
+                "i",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-36-i-Interp-1",
+                "1024-36-i-Interp-2",
+                "1024-36-i-Interp-3"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-9-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Payment tolerance.",
+            "text":"For any given billing cycle for which a borrower's payment is less than the periodic payment due, if a servicer chooses not to treat a borrower as delinquent for purposes of any section of this subpart, that borrower is not delinquent as defined in \u00a7\u20091024.31.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "9",
+                "3"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -4134,6 +4578,23 @@
     "1024-41-b-2-ii-Interp-1-iii":{
         "op":"deleted"
     },
+    "1024-31-Interp-9-4":{
+        "node":{
+            "tagged_text":null,
+            "title":"Creditor's contract rights.",
+            "text":"This subpart does not prevent a creditor from exercising a right provided by a mortgage loan contract to accelerate payment for a breach of that contract. Failure to pay the amount due after the creditor accelerates the mortgage loan obligation in accordance with the mortgage loan contract would begin or continue delinquency.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "9",
+                "4"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-MS-3(A)-p39":{
         "text":[
             [
@@ -4148,6 +4609,23 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-31-Interp-9-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Application of funds.",
+            "text":"If a servicer applies payments to the oldest outstanding periodic payment, a payment by a delinquent borrower advances the date the borrower's delinquency began. For example, assume a borrower's mortgage loan obligation provides that a periodic payment sufficient to cover principal, interest, and escrow is due on the first of each month. The borrower fails to make a payment on January 1 or on any day in January, and on January 31 the borrower is 30 days delinquent. On February 3, the borrower makes a periodic payment. The servicer applies the payment it received on February 3 to the outstanding January payment. On February 4, the borrower is three days delinquent.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "9",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-C-h2-h3-p8-p11":{
         "op":"deleted"
@@ -4169,44 +4647,8 @@
         },
         "op":"added"
     },
-    "1024-39-d-1-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Commencing a case.The requirements of \u00a7 1024.39 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the borrower is a debtor.",
-            "label":[
-                "1024",
-                "39",
-                "d",
-                "1",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-41-b-1-Interp-4-i":{
         "op":"deleted"
-    },
-    "1024-39-d-1-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Joint obligors.When two or more borrowers are joint obligors with primary liability on a mortgage loan subject to \u00a7 1024.39, the exemption in \u00a7 1024.39(d)(1) applies if any of the borrowers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from complying with \u00a7 1024.39 as to both the husband and the wife.",
-            "label":[
-                "1024",
-                "39",
-                "d",
-                "1",
-                "Interp",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1024-37-d-2-ii":{
         "text":[
@@ -4278,22 +4720,70 @@
         ],
         "op":"modified"
     },
-    "1024-39-d-1-Interp-2-ii":{
+    "1024-41-c-2-iii-Interp-5-ii":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Compliance with \u00a7 1024.39 is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the borrower's bankruptcy case is revived for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge the servicer is again exempt from the requirement in \u00a7 1024.39.",
+            "title":"Disclosure of payment amounts that may change.",
+            "text":"At the time a servicer provides the written notice pursuant to \u00a7\u20091024.41(c)(2)(iii), if the servicer lacks information necessary to determine the amount of a specific payment due during the program or plan (for example, because the borrower's interest rate will change to an unknown rate based on an index or because an escrow account computation year as defined in \u00a7\u20091024.17(b) will end and the borrower's escrow payment might change), the servicer complies with the requirement to disclose the specific payment terms and duration of a short-term payment forbearance program or short-term repayment plan if the disclosures are based on the best information reasonably available to the servicer at the time the notice is provided and the written notice identifies which payment amounts may change, states that such payment amounts are estimates, and states the general reason that such payment amounts might change. For example, if an escrow account computation year as defined in \u00a7\u20091024.17(b) will end during a borrower's short-term repayment plan, the written notice complies with \u00a7\u20091024.41(c)(2)(iii) if it identifies the payment amounts that may change, states that those payment amounts are estimates, and states that the affected payments might change because the borrower's escrow payment might change.",
             "label":[
                 "1024",
-                "39",
-                "d",
-                "1",
-                "Interp",
+                "41",
+                "c",
                 "2",
+                "iii",
+                "Interp",
+                "5",
                 "ii"
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-38-b-1-vi-Interp-3-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":"Divorce or legal separation.",
+            "text":"Assume that a potential successor in interest indicates that an ownership interest in the property transferred to the potential successor in interest from a spouse who is a borrower as a result of a property agreement incident to a divorce proceeding. Assume further that the applicable law of the relevant jurisdiction does not require a deed conveying the interest in the property but accepts a final divorce decree and accompanying separation agreement executed by both spouses to evidence transfer of title. Under these circumstances, it would be reasonable for the servicer to require the potential successor in interest to provide documentation of the final divorce decree and an executed separation agreement. Because the applicable law of the relevant jurisdiction does not require a deed, it generally would not be reasonable for the servicer to require a deed.",
+            "label":[
+                "1024",
+                "38",
+                "b",
+                "1",
+                "vi",
+                "Interp",
+                "3",
+                "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-b-2-i-B-Interp-1":{
+        "op":"deleted"
+    },
+    "1024-38-b-1-vi-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 38(b)(1)(vi).",
+            "text":"",
+            "label":[
+                "1024",
+                "38",
+                "b",
+                "1",
+                "vi",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-38-b-1-vi-Interp-1",
+                "1024-38-b-1-vi-Interp-2",
+                "1024-38-b-1-vi-Interp-3",
+                "1024-38-b-1-vi-Interp-4",
+                "1024-38-b-1-vi-Interp-5"
+            ]
         },
         "op":"added"
     },
@@ -4393,6 +4883,9 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-b-1-Interp-1":{
+        "op":"deleted"
     },
     "1024-39-b-1-Interp-5":{
         "node":{
@@ -4626,6 +5119,12 @@
         ],
         "op":"modified"
     },
+    "1024-41-b-3-Interp-2":{
+        "op":"deleted"
+    },
+    "1024-41-b-1-Interp-3-ii":{
+        "op":"deleted"
+    },
     "1024-41-c-4":{
         "node":{
             "tagged_text":null,
@@ -4664,21 +5163,26 @@
         },
         "op":"added"
     },
-    "1024-41-b-Interp-1-i":{
+    "1024-41-k-1-i-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"If a servicer receives a loss mitigation application from a potential successor in interest before confirming that person's identity and ownership interest in the property, the servicer may, but need not, review and evaluate the loss mitigation application in accordance with the procedures set forth in \u00a7\u20091024.41. If a servicer complies with the requirements of \u00a7\u20091024.41 for a complete loss mitigation application submitted by a potential successor in interest before confirming that person's identity and ownership interest in the property, \u00a7\u20091024.41(i)'s limitation on duplicative requests applies to that person, provided the servicer's evaluation of loss mitigation options available to the person would not have resulted in a different determination due to the person's confirmation as a successor in interest if it had been conducted after the servicer confirmed the person's status as a successor in interest.",
+            "title":"Obtaining loss mitigation documents and information.",
+            "text":"",
             "label":[
                 "1024",
                 "41",
-                "b",
-                "Interp",
+                "k",
                 "1",
-                "i"
+                "i",
+                "Interp",
+                "1"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1024-41-k-1-i-Interp-1-i",
+                "1024-41-k-1-i-Interp-1-ii",
+                "1024-41-k-1-i-Interp-1-iii"
+            ]
         },
         "op":"added"
     },
@@ -4769,20 +5273,61 @@
         },
         "op":"added"
     },
-    "1024-41-b-2-ii-Interp-2-i":{
+    "1024-41-k-2-ii-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"The date by which any document or information submitted by a borrower will be considered stale or invalid pursuant to any requirements applicable to any loss mitigation option available to the borrower;",
+            "title":"Examples of prohibitions.",
+            "text":"Section 1024.41(k)(2)(ii)(A) and (B) adjusts the timeframes for certain borrower rights and foreclosure protections where \u00a7\u20091024.41(k)(2)(i) applies. These provisions are illustrated as follows: Assume a transferor servicer receives a borrower's initial loss mitigation application on October 1, and the loan is transferred five days (excluding legal public holidays, Saturdays, or Sundays) later, on October 8. Assume that Columbus Day, a legal public holiday, occurs on October 14, and the transferee servicer provides the notice required by \u00a7\u20091024.41(b)(2)(i)(B) 10 days (excluding legal public holidays, Saturdays, or Sundays) after the transfer date, on October 23. Assume the transferee servicer discloses a 30-day reasonable date, November 22, under \u00a7\u20091024.41(b)(2)(ii).",
             "label":[
                 "1024",
                 "41",
-                "b",
+                "k",
                 "2",
                 "ii",
                 "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-2-ii-Interp-1-i",
+                "1024-41-k-2-ii-Interp-1-ii"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-41-k-2-ii-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Applicability of loss mitigation provisions.",
+            "text":"Section 1024.41(k)(2)(ii)(A) prohibits a servicer from making the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process until a date that is after the reasonable date disclosed to the borrower pursuant to \u00a7\u20091024.41(b)(2)(ii), notwithstanding \u00a7\u20091024.41(f)(1). Section 1024.41(k)(2)(ii)(B) requires a servicer to comply with \u00a7\u20091024.41(c), (d), and (g) if a borrower submits a complete loss mitigation application on or before the reasonable date disclosed in the notice required by \u00a7\u20091024.41(b)(2)(i)(B), even if the servicer would otherwise not be required to comply with \u00a7\u20091024.41(c), (d), and (g) because the application is submitted 37 days or fewer before a foreclosure sale. Section 1024.41(k)(2)(ii) provides additional protections for borrowers but does not remove any protections. Servicers remain subject to the requirements of \u00a7\u20091024.41 as applicable and so, for example, must comply with \u00a7\u20091024.41(h) if the servicer receives a complete loss mitigation application 90 days or more before a foreclosure sale. Similarly, a servicer is prohibited from making the first notice or filing before the borrower's mortgage loan obligation is more than 120 days delinquent, even if that is after the reasonable date disclosed to the borrower pursuant to \u00a7\u20091024.41(b)(2)(ii).",
+            "label":[
+                "1024",
+                "41",
+                "k",
                 "2",
-                "i"
+                "ii",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-38-b-1-vi-Interp-3-iv":{
+        "node":{
+            "tagged_text":null,
+            "title":"Living spouses or parents.",
+            "text":"Assume that a potential successor in interest indicates that an ownership interest in the property transferred to the potential successor in interest from a living spouse or parent who is a borrower by quitclaim deed or act of donation. Under these circumstances, it would be reasonable for the servicer to require the potential successor in interest to provide the quitclaim deed or act of donation. It generally would not be reasonable, however, for the servicer to require additional documents.",
+            "label":[
+                "1024",
+                "38",
+                "b",
+                "1",
+                "vi",
+                "Interp",
+                "3",
+                "iv"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -4963,6 +5508,55 @@
         },
         "op":"added"
     },
+    "1024-41-k-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k) Servicing transfers.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-Interp-1",
+                "1024-41-k-1-i-Interp-1",
+                "1024-41-k-1-i-Interp-2",
+                "1024-41-k-1-i-Interp-3",
+                "1024-41-k-1-ii-Interp-1",
+                "1024-41-k-2-ii-Interp-1",
+                "1024-41-k-2-ii-Interp-2",
+                "1024-41-k-2-ii-Interp-3",
+                "1024-41-k-3-Interp-1",
+                "1024-41-k-3-Interp-2",
+                "1024-41-k-4-Interp-1",
+                "1024-41-k-4-Interp-2",
+                "1024-41-k-5-Interp-1"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-10":{
+        "node":{
+            "tagged_text":null,
+            "title":"Successor in interest.",
+            "text":"",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "10"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-31-Interp-10-1",
+                "1024-31-Interp-10-2"
+            ]
+        },
+        "op":"added"
+    },
     "1024-39-d-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -5025,6 +5619,25 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-37-d-5-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"37(d)(5) Updating notice with borrower information.",
+            "text":"",
+            "label":[
+                "1024",
+                "37",
+                "d",
+                "5",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-37-d-5-Interp-1"
+            ]
+        },
+        "op":"added"
     },
     "1024-41-k-2-ii":{
         "node":{
@@ -5160,77 +5773,67 @@
         },
         "op":"added"
     },
-    "1024-41-i-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    41
-                ],
-                [
-                    "insert",
-                    0,
-                    "Under \u00a7\u20091024.41(i), a servicer must comply with \u00a7\u20091024.41 with respect to a loss mitigation application unless the servicer has previously done so for a complete loss mitigation application submitted by the borrower and the borrower has been delinquent at all times since submitting the prior complete application. Thus, for example, if the borrower has previously submitted a complete loss mitigation application and the servicer complied fully with \u00a7\u20091024.41 for that application, but the borrower then ceased to be delinquent and later became delinquent again, the servicer again must comply with \u00a7\u20091024.41 for any subsequent loss mitigation application submitted by the borrower. When a servicer"
-                ]
+    "1024-38-b-1-vi-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Examples of reasonable requirements.",
+            "text":"Because the relevant law governing each situation may vary from State to State, the following examples are illustrative only. The examples illustrate what documents it would generally be reasonable for a servicer to require to confirm a potential successor in interest's identity and ownership interest in the property under the specific circumstances described.",
+            "label":[
+                "1024",
+                "38",
+                "b",
+                "1",
+                "vi",
+                "Interp",
+                "3"
             ],
-            [
-                [
-                    "delete",
-                    89,
-                    440
-                ],
-                [
-                    "insert",
-                    89,
-                    "\u00a7\u20091024.41 for such a subsequent loss mitigation application, the servicer must"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    453,
-                    456
-                ],
-                [
-                    "insert",
-                    453,
-                    "all applicable"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    473,
-                    500
-                ],
-                [
-                    "insert",
-                    473,
-                    "\u00a7\u20091024.41. For example, in such a case, the servicer's provision of the notice of determination of which loss mitigation options, if any, it will offer to the borrower under \u00a7\u20091024.41(c)(1)(ii) regarding the"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    512,
-                    534
-                ],
-                [
-                    "insert",
-                    512,
-                    "prior complete loss mitigation application does not affect the servicer's obligations to provide a new notice of complete application under \u00a7\u20091024.41(c)(3)(i) regarding the borrower's subsequent complete loss mitigation application."
-                ]
+            "node_type":"interp",
+            "child_labels":[
+                "1024-38-b-1-vi-Interp-3-i",
+                "1024-38-b-1-vi-Interp-3-ii",
+                "1024-38-b-1-vi-Interp-3-iii",
+                "1024-38-b-1-vi-Interp-3-iv"
             ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Applicability of loss mitigation protections."
-            ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
+    },
+    "1024-38-b-1-vi-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Documents reasonably required.",
+            "text":"The documents a servicer requires to confirm a potential successor in interest's identity and ownership interest in the property must be reasonable in light of the laws of the relevant jurisdiction, the specific situation of the potential successor in interest, and the documents already in the servicer's possession. The required documents may, where appropriate, include, for example, a death certificate, an executed will, or a court order. The required documents may also include documents that the servicer reasonably believes are necessary to prevent fraud or other criminal activity (for example, if a servicer has reason to believe that documents presented are forged).",
+            "label":[
+                "1024",
+                "38",
+                "b",
+                "1",
+                "vi",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-38-b-1-vi-Interp-5":{
+        "node":{
+            "tagged_text":null,
+            "title":"Prompt confirmation and loss mitigation.",
+            "text":"A servicer's policies and procedures must be reasonably designed to ensure that the servicer can promptly notify the potential successor in interest that the servicer has confirmed the potential successor in interest's status. Notification is not prompt for purposes of this requirement if it unreasonably interferes with a successor in interest's ability to apply for loss mitigation options according to the procedures provided in \u00a7\u20091024.41.",
+            "label":[
+                "1024",
+                "38",
+                "b",
+                "1",
+                "vi",
+                "Interp",
+                "5"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-5-a":{
         "text":[
@@ -5292,7 +5895,7 @@
     "1024-39-d-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
+            "title":"39(d) Fair Debt Collection Practices Act\u2014partial exemption.",
             "text":"",
             "label":[
                 "1024",
@@ -5302,11 +5905,26 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-39-d-1-Interp",
-                "1024-39-d-2-Interp-1",
                 "1024-39-d-Interp-1",
                 "1024-39-d-Interp-2"
             ]
+        },
+        "op":"added"
+    },
+    "1024-36-i-Interp-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Potential successor in interest's representative.",
+            "text":"An information request pursuant to \u00a7\u20091024.36(i) is submitted by a potential successor in interest if the information request is submitted by an agent of the potential successor in interest. A servicer may undertake reasonable procedures to determine if a person that claims to be an agent of a potential successor in interest has authority from the potential successor in interest to act on the potential successor in interest's behalf, for example, by requiring that a person that claims to be an agent of the potential successor in interest provide documentation from the potential successor in interest stating that the purported agent is acting on the potential successor in interest's behalf. Upon receipt of such documentation, the servicer shall treat the request for information as having been submitted by the potential successor in interest.",
+            "label":[
+                "1024",
+                "36",
+                "i",
+                "Interp",
+                "3"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -5326,6 +5944,26 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-30-d-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"30(d) Successors in interest.",
+            "text":"",
+            "label":[
+                "1024",
+                "30",
+                "d",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-30-d-Interp-1",
+                "1024-30-d-Interp-2",
+                "1024-30-d-Interp-3"
+            ]
         },
         "op":"added"
     },
