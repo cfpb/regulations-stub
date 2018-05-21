@@ -243,6 +243,47 @@
         },
         "op":"added"
     },
+    "1024-41-k-1-i-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(1)(i) Timing of compliance.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "i",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-1-i-Interp-1",
+                "1024-41-k-1-i-Interp-2",
+                "1024-41-k-1-i-Interp-3"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-41-k-1-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(1) In general.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-1-i-Interp"
+            ]
+        },
+        "op":"added"
+    },
     "1024-32-c-2-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -585,6 +626,26 @@
         },
         "op":"added"
     },
+    "1024-41-k-3-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(3) Complete loss mitigation applications pending at transfer.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "3",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-3-Interp-1",
+                "1024-41-k-3-Interp-2"
+            ]
+        },
+        "op":"added"
+    },
     "1024-37-c-2-v":{
         "text":[
             [
@@ -672,16 +733,6 @@
         },
         "op":"added"
     },
-    "1024-6-d-1":{
-        "text":[
-            [
-                "insert",
-                3,
-                " No changes to, deletions from, or additions to the special information booklet currently prescribed by the Bureau shall be made other than the permissible changes specified in paragraphs (d)(2) and (3) of this section or changes as otherwise approved in writing by the Bureau in accordance with the procedures described in this paragraph (d). A request to the Bureau for approval of any changes other than the permissible changes specified in paragraphs (d)(2) and (3) of this section shall be submitted in writing to the address indicated in the definition of Public Guidance Documents in \u00a7\u20091024.2, stating the reasons why the applicant believes such changes, deletions, or additions are necessary."
-            ]
-        ],
-        "op":"modified"
-    },
     "1024-C-h2-h5-p21":{
         "text":[
             [
@@ -722,6 +773,25 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-k-2-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(2) Acknowledgment notices.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "2",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-2-ii-Interp"
+            ]
+        },
+        "op":"added"
     },
     "1024-39-c-Interp-1":{
         "text":[
@@ -1296,18 +1366,12 @@
             "node_type":"interp",
             "child_labels":[
                 "1024-41-k-Interp-1",
-                "1024-41-k-1-i-Interp-1",
-                "1024-41-k-1-i-Interp-2",
-                "1024-41-k-1-i-Interp-3",
-                "1024-41-k-1-ii-Interp-1",
-                "1024-41-k-2-ii-Interp-1",
-                "1024-41-k-2-ii-Interp-2",
-                "1024-41-k-2-ii-Interp-3",
-                "1024-41-k-3-Interp-1",
-                "1024-41-k-3-Interp-2",
-                "1024-41-k-4-Interp-1",
-                "1024-41-k-4-Interp-2",
-                "1024-41-k-5-Interp-1"
+                "1024-41-k-1-Interp",
+                "1024-41-k-1-ii-Interp",
+                "1024-41-k-2-Interp",
+                "1024-41-k-3-Interp",
+                "1024-41-k-4-Interp",
+                "1024-41-k-5-Interp"
             ]
         },
         "op":"added"
@@ -1427,6 +1491,28 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-k-2-ii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(2)(ii) Prohibitions.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "2",
+                "ii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-2-ii-Interp-1",
+                "1024-41-k-2-ii-Interp-2",
+                "1024-41-k-2-ii-Interp-3"
+            ]
+        },
+        "op":"added"
     },
     "1024-41-c-4-i-Interp":{
         "node":{
@@ -2154,6 +2240,25 @@
             ],
             "node_type":"regtext",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-k-5-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(5) Pending loss mitigation offers.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "5",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-5-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -2932,6 +3037,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1024-41-d-1-Interp-2-p1":{
+        "op":"deleted"
     },
     "1024-31-SuccessorInInterest":{
         "node":{
@@ -3775,24 +3883,77 @@
     "1024-41-b-3-Interp-2":{
         "op":"deleted"
     },
-    "1024-38-b-1-vi-Interp-5":{
-        "node":{
-            "tagged_text":null,
-            "title":"Prompt confirmation and loss mitigation.",
-            "text":"A servicer's policies and procedures must be reasonably designed to ensure that the servicer can promptly notify the potential successor in interest that the servicer has confirmed the potential successor in interest's status. Notification is not prompt for purposes of this requirement if it unreasonably interferes with a successor in interest's ability to apply for loss mitigation options according to the procedures provided in \u00a7\u20091024.41.",
-            "label":[
-                "1024",
-                "38",
-                "b",
-                "1",
-                "vi",
-                "Interp",
-                "5"
+    "1024-41-i-Interp-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    41
+                ],
+                [
+                    "insert",
+                    0,
+                    "Under \u00a7\u20091024.41(i), a servicer must comply with \u00a7\u20091024.41 with respect to a loss mitigation application unless the servicer has previously done so for a complete loss mitigation application submitted by the borrower and the borrower has been delinquent at all times since submitting the prior complete application. Thus, for example, if the borrower has previously submitted a complete loss mitigation application and the servicer complied fully with \u00a7\u20091024.41 for that application, but the borrower then ceased to be delinquent and later became delinquent again, the servicer again must comply with \u00a7\u20091024.41 for any subsequent loss mitigation application submitted by the borrower. When a servicer"
+                ]
             ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+            [
+                [
+                    "delete",
+                    89,
+                    440
+                ],
+                [
+                    "insert",
+                    89,
+                    "\u00a7\u20091024.41 for such a subsequent loss mitigation application, the servicer must"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    453,
+                    456
+                ],
+                [
+                    "insert",
+                    453,
+                    "all applicable"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    473,
+                    500
+                ],
+                [
+                    "insert",
+                    473,
+                    "\u00a7\u20091024.41. For example, in such a case, the servicer's provision of the notice of determination of which loss mitigation options, if any, it will offer to the borrower under \u00a7\u20091024.41(c)(1)(ii) regarding the"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    512,
+                    534
+                ],
+                [
+                    "insert",
+                    512,
+                    "prior complete loss mitigation application does not affect the servicer's obligations to provide a new notice of complete application under \u00a7\u20091024.41(c)(3)(i) regarding the borrower's subsequent complete loss mitigation application."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Applicability of loss mitigation protections."
+            ]
+        ],
+        "op":"modified"
     },
     "1024-41-b-3-Interp-1":{
         "op":"deleted"
@@ -4920,8 +5081,15 @@
         ],
         "op":"modified"
     },
-    "1024-41-d-1-Interp-2-p1":{
-        "op":"deleted"
+    "1024-6-d-1":{
+        "text":[
+            [
+                "insert",
+                3,
+                " No changes to, deletions from, or additions to the special information booklet currently prescribed by the Bureau shall be made other than the permissible changes specified in paragraphs (d)(2) and (3) of this section or changes as otherwise approved in writing by the Bureau in accordance with the procedures described in this paragraph (d). A request to the Bureau for approval of any changes other than the permissible changes specified in paragraphs (d)(2) and (3) of this section shall be submitted in writing to the address indicated in the definition of Public Guidance Documents in \u00a7\u20091024.2, stating the reasons why the applicant believes such changes, deletions, or additions are necessary."
+            ]
+        ],
+        "op":"modified"
     },
     "1024-31-Interp-9":{
         "node":{
@@ -5807,77 +5975,24 @@
         },
         "op":"added"
     },
-    "1024-41-i-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    41
-                ],
-                [
-                    "insert",
-                    0,
-                    "Under \u00a7\u20091024.41(i), a servicer must comply with \u00a7\u20091024.41 with respect to a loss mitigation application unless the servicer has previously done so for a complete loss mitigation application submitted by the borrower and the borrower has been delinquent at all times since submitting the prior complete application. Thus, for example, if the borrower has previously submitted a complete loss mitigation application and the servicer complied fully with \u00a7\u20091024.41 for that application, but the borrower then ceased to be delinquent and later became delinquent again, the servicer again must comply with \u00a7\u20091024.41 for any subsequent loss mitigation application submitted by the borrower. When a servicer"
-                ]
+    "1024-38-b-1-vi-Interp-5":{
+        "node":{
+            "tagged_text":null,
+            "title":"Prompt confirmation and loss mitigation.",
+            "text":"A servicer's policies and procedures must be reasonably designed to ensure that the servicer can promptly notify the potential successor in interest that the servicer has confirmed the potential successor in interest's status. Notification is not prompt for purposes of this requirement if it unreasonably interferes with a successor in interest's ability to apply for loss mitigation options according to the procedures provided in \u00a7\u20091024.41.",
+            "label":[
+                "1024",
+                "38",
+                "b",
+                "1",
+                "vi",
+                "Interp",
+                "5"
             ],
-            [
-                [
-                    "delete",
-                    89,
-                    440
-                ],
-                [
-                    "insert",
-                    89,
-                    "\u00a7\u20091024.41 for such a subsequent loss mitigation application, the servicer must"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    453,
-                    456
-                ],
-                [
-                    "insert",
-                    453,
-                    "all applicable"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    473,
-                    500
-                ],
-                [
-                    "insert",
-                    473,
-                    "\u00a7\u20091024.41. For example, in such a case, the servicer's provision of the notice of determination of which loss mitigation options, if any, it will offer to the borrower under \u00a7\u20091024.41(c)(1)(ii) regarding the"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    512,
-                    534
-                ],
-                [
-                    "insert",
-                    512,
-                    "prior complete loss mitigation application does not affect the servicer's obligations to provide a new notice of complete application under \u00a7\u20091024.41(c)(3)(i) regarding the borrower's subsequent complete loss mitigation application."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Applicability of loss mitigation protections."
-            ]
-        ],
-        "op":"modified"
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-38-b-1-vi-Interp-4":{
         "node":{
@@ -6585,6 +6700,26 @@
         },
         "op":"added"
     },
+    "1024-41-k-4-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(4) Applications subject to appeal process.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "4",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-4-Interp-1",
+                "1024-41-k-4-Interp-2"
+            ]
+        },
+        "op":"added"
+    },
     "1024-5-d-2":{
         "node":{
             "tagged_text":null,
@@ -6598,6 +6733,26 @@
             ],
             "node_type":"regtext",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-k-1-ii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(1)(ii) Transfer date defined.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "ii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-1-ii-Interp-1"
+            ]
         },
         "op":"added"
     },

@@ -124,6 +124,12 @@
     "1024-38-b-3-iii-Interp":{
         "op":"deleted"
     },
+    "1024-41-k-1-i-Interp":{
+        "op":"deleted"
+    },
+    "1024-41-k-1-Interp":{
+        "op":"deleted"
+    },
     "1024-32-c-2-Interp-1":{
         "op":"deleted"
     },
@@ -266,6 +272,9 @@
     "1024-41-k-2-ii-Interp-1-i":{
         "op":"deleted"
     },
+    "1024-41-k-3-Interp":{
+        "op":"deleted"
+    },
     "1024-37-c-2-v":{
         "text":[
             [
@@ -294,16 +303,6 @@
     },
     "1024-41-k-4-Interp-2":{
         "op":"deleted"
-    },
-    "1024-6-d-1":{
-        "text":[
-            [
-                "delete",
-                3,
-                703
-            ]
-        ],
-        "op":"modified"
     },
     "1024-C-h2-h5-p21":{
         "text":[
@@ -345,6 +344,9 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-k-2-Interp":{
+        "op":"deleted"
     },
     "1024-39-c-Interp-1":{
         "text":[
@@ -644,6 +646,9 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-k-2-ii-Interp":{
+        "op":"deleted"
     },
     "1024-41-c-4-i-Interp":{
         "op":"deleted"
@@ -1021,6 +1026,9 @@
     "1024-39-c-2-i-B":{
         "op":"deleted"
     },
+    "1024-41-k-5-Interp":{
+        "op":"deleted"
+    },
     "1024-39-c-2-i":{
         "op":"deleted"
     },
@@ -1298,6 +1306,25 @@
     },
     "1024-39-c-1-ii-Interp-2-i":{
         "op":"deleted"
+    },
+    "1024-41-d-1-Interp-2-p1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(c)(1)(4) Other notices.A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002 et seq.) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to \u00a7 1024.41(d), unless otherwise prohibited by applicable law.",
+            "label":[
+                "1024",
+                "41",
+                "d",
+                "1",
+                "Interp",
+                "2",
+                "p1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-31-SuccessorInInterest":{
         "op":"deleted"
@@ -1964,8 +1991,75 @@
         },
         "op":"added"
     },
-    "1024-38-b-1-vi-Interp-5":{
-        "op":"deleted"
+    "1024-41-i-Interp-1":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    19
+                ],
+                [
+                    "insert",
+                    0,
+                    "Servicing transfers.A transferee servicer is required to comply with the requirements of \u00a7 1024.41 regardless of whether"
+                ]
+            ],
+            [
+                "insert",
+                22,
+                "borrower received an evaluation of a complete loss mitigation application from a transferor servicer. Documents and information transferred from a transferor "
+            ],
+            [
+                [
+                    "delete",
+                    31,
+                    35
+                ],
+                [
+                    "insert",
+                    31,
+                    "to a transferee servicer may constitute a loss mitigation application to the transferee servicer and may cause a transferee servicer to be required to"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    48,
+                    57
+                ],
+                [
+                    "insert",
+                    48,
+                    "the requirements of \u00a7 1024.41"
+                ]
+            ],
+            [
+                "delete",
+                76,
+                1077
+            ],
+            [
+                [
+                    "delete",
+                    1088,
+                    1320
+                ],
+                [
+                    "insert",
+                    1088,
+                    "mortgage loan account."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "delete",
+                0,
+                45
+            ]
+        ],
+        "op":"modified"
     },
     "1024-41-b-3-Interp-1":{
         "node":{
@@ -2663,8 +2757,24 @@
         },
         "op":"added"
     },
-    "1024-41-k-1-i-Interp-1-i":{
-        "op":"deleted"
+    "1024-39-a-Interp-3-i-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A servicer does not provide information about the availability of loss mitigation options to a borrower who has missed a January 1 payment and notified the servicer that full late payment will be transmitted to the servicer by February 15.",
+            "label":[
+                "1024",
+                "39",
+                "a",
+                "Interp",
+                "3",
+                "i",
+                "B"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-6-d-1-ii":{
         "node":{
@@ -2709,24 +2819,15 @@
         ],
         "op":"modified"
     },
-    "1024-41-d-1-Interp-2-p1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(c)(1)(4) Other notices.A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002 et seq.) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to \u00a7 1024.41(d), unless otherwise prohibited by applicable law.",
-            "label":[
-                "1024",
-                "41",
-                "d",
-                "1",
-                "Interp",
-                "2",
-                "p1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1024-6-d-1":{
+        "text":[
+            [
+                "delete",
+                3,
+                703
+            ]
+        ],
+        "op":"modified"
     },
     "1024-31-Interp-9":{
         "op":"deleted"
@@ -2958,24 +3059,8 @@
     "1024-41-b-2-i-Interp-1":{
         "op":"deleted"
     },
-    "1024-39-a-Interp-3-i-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A servicer does not provide information about the availability of loss mitigation options to a borrower who has missed a January 1 payment and notified the servicer that full late payment will be transmitted to the servicer by February 15.",
-            "label":[
-                "1024",
-                "39",
-                "a",
-                "Interp",
-                "3",
-                "i",
-                "B"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1024-41-k-1-i-Interp-1-i":{
+        "op":"deleted"
     },
     "1024-41-b-2-ii-Interp-2-ii":{
         "op":"deleted"
@@ -3212,75 +3297,8 @@
     "1024-38-b-1-vi-Interp-2":{
         "op":"deleted"
     },
-    "1024-41-i-Interp-1":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    19
-                ],
-                [
-                    "insert",
-                    0,
-                    "Servicing transfers.A transferee servicer is required to comply with the requirements of \u00a7 1024.41 regardless of whether"
-                ]
-            ],
-            [
-                "insert",
-                22,
-                "borrower received an evaluation of a complete loss mitigation application from a transferor servicer. Documents and information transferred from a transferor "
-            ],
-            [
-                [
-                    "delete",
-                    31,
-                    35
-                ],
-                [
-                    "insert",
-                    31,
-                    "to a transferee servicer may constitute a loss mitigation application to the transferee servicer and may cause a transferee servicer to be required to"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    48,
-                    57
-                ],
-                [
-                    "insert",
-                    48,
-                    "the requirements of \u00a7 1024.41"
-                ]
-            ],
-            [
-                "delete",
-                76,
-                1077
-            ],
-            [
-                [
-                    "delete",
-                    1088,
-                    1320
-                ],
-                [
-                    "insert",
-                    1088,
-                    "mortgage loan account."
-                ]
-            ]
-        ],
-        "title":[
-            [
-                "delete",
-                0,
-                45
-            ]
-        ],
-        "op":"modified"
+    "1024-38-b-1-vi-Interp-5":{
+        "op":"deleted"
     },
     "1024-38-b-1-vi-Interp-4":{
         "op":"deleted"
@@ -3581,7 +3599,13 @@
     "1024-5-d-1":{
         "op":"deleted"
     },
+    "1024-41-k-4-Interp":{
+        "op":"deleted"
+    },
     "1024-5-d-2":{
+        "op":"deleted"
+    },
+    "1024-41-k-1-ii-Interp":{
         "op":"deleted"
     },
     "1024-41-k-2-ii-Interp-1-ii":{

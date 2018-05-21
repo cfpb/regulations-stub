@@ -264,6 +264,28 @@
         ],
         "op":"modified"
     },
+    "1024-41-k-1-i-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(1)(i) Timing of compliance.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "i",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-1-i-Interp-1",
+                "1024-41-k-1-i-Interp-2",
+                "1024-41-k-1-i-Interp-3"
+            ]
+        },
+        "op":"added"
+    },
     "1024-35-c-Interp-2-ii":{
         "node":{
             "tagged_text":null,
@@ -279,6 +301,25 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-k-1-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(1) In general.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-1-i-Interp"
+            ]
         },
         "op":"added"
     },
@@ -822,6 +863,26 @@
         },
         "op":"added"
     },
+    "1024-41-k-3-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(3) Complete loss mitigation applications pending at transfer.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "3",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-3-Interp-1",
+                "1024-41-k-3-Interp-2"
+            ]
+        },
+        "op":"added"
+    },
     "1024-37-c-2-v":{
         "text":[
             [
@@ -988,6 +1049,25 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-k-2-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(2) Acknowledgment notices.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "2",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-2-ii-Interp"
+            ]
+        },
+        "op":"added"
     },
     "1024-39-c-1-iii-B":{
         "node":{
@@ -1563,18 +1643,12 @@
             "node_type":"interp",
             "child_labels":[
                 "1024-41-k-Interp-1",
-                "1024-41-k-1-i-Interp-1",
-                "1024-41-k-1-i-Interp-2",
-                "1024-41-k-1-i-Interp-3",
-                "1024-41-k-1-ii-Interp-1",
-                "1024-41-k-2-ii-Interp-1",
-                "1024-41-k-2-ii-Interp-2",
-                "1024-41-k-2-ii-Interp-3",
-                "1024-41-k-3-Interp-1",
-                "1024-41-k-3-Interp-2",
-                "1024-41-k-4-Interp-1",
-                "1024-41-k-4-Interp-2",
-                "1024-41-k-5-Interp-1"
+                "1024-41-k-1-Interp",
+                "1024-41-k-1-ii-Interp",
+                "1024-41-k-2-Interp",
+                "1024-41-k-3-Interp",
+                "1024-41-k-4-Interp",
+                "1024-41-k-5-Interp"
             ]
         },
         "op":"added"
@@ -1714,6 +1788,23 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-38-b-2-vi":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(vi) Promptly identify and obtain documents or information not in the borrower's control that the servicer requires to determine which loss mitigation options, if any, to offer the borrower in accordance with the requirements of \u00a7\u20091024.41(c)(4).",
+            "label":[
+                "1024",
+                "38",
+                "b",
+                "2",
+                "vi"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-41-c-4-ii-Interp-1":{
         "node":{
@@ -2392,6 +2483,25 @@
             ],
             "node_type":"regtext",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-k-5-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(5) Pending loss mitigation offers.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "5",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-5-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -4358,20 +4468,25 @@
     "1024-39-a-Interp-1-ii":{
         "op":"deleted"
     },
-    "1024-38-b-2-vi":{
+    "1024-41-k-2-ii-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(vi) Promptly identify and obtain documents or information not in the borrower's control that the servicer requires to determine which loss mitigation options, if any, to offer the borrower in accordance with the requirements of \u00a7\u20091024.41(c)(4).",
+            "title":"41(k)(2)(ii) Prohibitions.",
+            "text":"",
             "label":[
                 "1024",
-                "38",
-                "b",
+                "41",
+                "k",
                 "2",
-                "vi"
+                "ii",
+                "Interp"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-2-ii-Interp-1",
+                "1024-41-k-2-ii-Interp-2",
+                "1024-41-k-2-ii-Interp-3"
+            ]
         },
         "op":"added"
     },
@@ -7253,6 +7368,26 @@
         },
         "op":"added"
     },
+    "1024-41-k-4-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(4) Applications subject to appeal process.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "4",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-4-Interp-1",
+                "1024-41-k-4-Interp-2"
+            ]
+        },
+        "op":"added"
+    },
     "1024-5-d-2":{
         "node":{
             "tagged_text":null,
@@ -7285,6 +7420,26 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-k-1-ii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(1)(ii) Transfer date defined.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "ii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-1-ii-Interp-1"
+            ]
+        },
+        "op":"added"
     },
     "1024-41-k-2-ii-Interp-1-ii":{
         "node":{

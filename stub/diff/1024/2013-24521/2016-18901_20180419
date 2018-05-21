@@ -14,25 +14,6 @@
         ],
         "op":"modified"
     },
-    "1024-41-c-3-i-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"First notice or filing.",
-            "text":"Section 1024.41(c)(3)(i)(D)(1) and (2) sets forth different requirements depending on whether the servicer has made the first notice or filing under applicable law for any judicial or non-judicial foreclosure process at the time the borrower submits a complete loss mitigation application. See comment 41(f)-1 for a description of whether a document is considered the first notice or filing under applicable law.",
-            "label":[
-                "1024",
-                "41",
-                "c",
-                "3",
-                "i",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-32-c-1-ii":{
         "node":{
             "tagged_text":null,
@@ -239,6 +220,47 @@
             "node_type":"interp",
             "child_labels":[
                 "1024-38-b-3-iii-Interp-1"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-41-k-1-i-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(1)(i) Timing of compliance.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "i",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-1-i-Interp-1",
+                "1024-41-k-1-i-Interp-2",
+                "1024-41-k-1-i-Interp-3"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-41-k-1-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(1) In general.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-1-i-Interp"
             ]
         },
         "op":"added"
@@ -565,6 +587,26 @@
         ],
         "op":"modified"
     },
+    "1024-41-c-2-iii-Interp-5-i":{
+        "node":{
+            "tagged_text":null,
+            "title":"General requirement.",
+            "text":"Section 1024.41(c)(2)(iii) requires a servicer to provide the borrower a written notice stating, among other things, the specific payment terms and duration of a short-term payment forbearance program or a short-term repayment plan offered based on an evaluation of an incomplete application. Generally, a servicer complies with these requirements if the written notice states the amount of each payment due during the program or plan, the date by which the borrower must make each payment, and whether the mortgage loan will be current at the end of the program or plan if the borrower complies with the program or plan.",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iii",
+                "Interp",
+                "5",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-41-k-2-ii-Interp-1-i":{
         "node":{
             "tagged_text":null,
@@ -582,6 +624,26 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-k-3-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(3) Complete loss mitigation applications pending at transfer.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "3",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-3-Interp-1",
+                "1024-41-k-3-Interp-2"
+            ]
         },
         "op":"added"
     },
@@ -712,6 +774,25 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-k-2-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(2) Acknowledgment notices.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "2",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-2-ii-Interp"
+            ]
+        },
+        "op":"added"
     },
     "1024-39-b-1-Interp-2":{
         "text":[
@@ -1124,20 +1205,19 @@
         },
         "op":"added"
     },
-    "1024-41-c-2-iii-Interp-5-i":{
+    "1024-41-c-3-i-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":"General requirement.",
-            "text":"Section 1024.41(c)(2)(iii) requires a servicer to provide the borrower a written notice stating, among other things, the specific payment terms and duration of a short-term payment forbearance program or a short-term repayment plan offered based on an evaluation of an incomplete application. Generally, a servicer complies with these requirements if the written notice states the amount of each payment due during the program or plan, the date by which the borrower must make each payment, and whether the mortgage loan will be current at the end of the program or plan if the borrower complies with the program or plan.",
+            "title":"First notice or filing.",
+            "text":"Section 1024.41(c)(3)(i)(D)(1) and (2) sets forth different requirements depending on whether the servicer has made the first notice or filing under applicable law for any judicial or non-judicial foreclosure process at the time the borrower submits a complete loss mitigation application. See comment 41(f)-1 for a description of whether a document is considered the first notice or filing under applicable law.",
             "label":[
                 "1024",
                 "41",
                 "c",
-                "2",
-                "iii",
+                "3",
+                "i",
                 "Interp",
-                "5",
-                "i"
+                "2"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -1314,18 +1394,12 @@
             "node_type":"interp",
             "child_labels":[
                 "1024-41-k-Interp-1",
-                "1024-41-k-1-i-Interp-1",
-                "1024-41-k-1-i-Interp-2",
-                "1024-41-k-1-i-Interp-3",
-                "1024-41-k-1-ii-Interp-1",
-                "1024-41-k-2-ii-Interp-1",
-                "1024-41-k-2-ii-Interp-2",
-                "1024-41-k-2-ii-Interp-3",
-                "1024-41-k-3-Interp-1",
-                "1024-41-k-3-Interp-2",
-                "1024-41-k-4-Interp-1",
-                "1024-41-k-4-Interp-2",
-                "1024-41-k-5-Interp-1"
+                "1024-41-k-1-Interp",
+                "1024-41-k-1-ii-Interp",
+                "1024-41-k-2-Interp",
+                "1024-41-k-3-Interp",
+                "1024-41-k-4-Interp",
+                "1024-41-k-5-Interp"
             ]
         },
         "op":"added"
@@ -1445,6 +1519,28 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-k-2-ii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(2)(ii) Prohibitions.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "2",
+                "ii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-2-ii-Interp-1",
+                "1024-41-k-2-ii-Interp-2",
+                "1024-41-k-2-ii-Interp-3"
+            ]
+        },
+        "op":"added"
     },
     "1024-41-c-4-i-Interp":{
         "node":{
@@ -2076,6 +2172,25 @@
             ],
             "node_type":"regtext",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-k-5-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(5) Pending loss mitigation offers.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "5",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-5-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -6578,6 +6693,26 @@
         },
         "op":"added"
     },
+    "1024-41-k-4-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(4) Applications subject to appeal process.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "4",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-4-Interp-1",
+                "1024-41-k-4-Interp-2"
+            ]
+        },
+        "op":"added"
+    },
     "1024-5-d-2":{
         "node":{
             "tagged_text":null,
@@ -6591,6 +6726,26 @@
             ],
             "node_type":"regtext",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-k-1-ii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(1)(ii) Transfer date defined.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "ii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-1-ii-Interp-1"
+            ]
         },
         "op":"added"
     },
