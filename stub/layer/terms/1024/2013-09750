@@ -1,0 +1,708 @@
+{
+    "referenced":{
+        "application:1024-2-b-Application":{
+            "position":[
+                0,
+                11
+            ],
+            "reference":"1024-2-b-Application",
+            "term":"application"
+        },
+        "balloon payment:1024-2-b-def0":{
+            "position":[
+                0,
+                15
+            ],
+            "reference":"1024-2-b-def0",
+            "term":"balloon payment"
+        },
+        "bureau:1024-2-b-Bureau":{
+            "position":[
+                0,
+                6
+            ],
+            "reference":"1024-2-b-Bureau",
+            "term":"bureau"
+        },
+        "business day:1024-2-b-BusinessDay":{
+            "position":[
+                0,
+                12
+            ],
+            "reference":"1024-2-b-BusinessDay",
+            "term":"business day"
+        },
+        "changed circumstance:1024-2-b-ChangedCircumstances":{
+            "position":[
+                0,
+                21
+            ],
+            "reference":"1024-2-b-ChangedCircumstances",
+            "term":"changed circumstances"
+        },
+        "dealer:1024-2-b-Dealer":{
+            "position":[
+                0,
+                6
+            ],
+            "reference":"1024-2-b-Dealer",
+            "term":"dealer"
+        },
+        "dealer loan:1024-2-b-DealerLoanOrDealerConsumerCreditContract":{
+            "position":[
+                0,
+                11
+            ],
+            "reference":"1024-2-b-DealerLoanOrDealerConsumerCreditContract",
+            "term":"dealer loan"
+        },
+        "dealer consumer credit contract:1024-2-b-DealerLoanOrDealerConsumerCreditContract":{
+            "position":[
+                15,
+                46
+            ],
+            "reference":"1024-2-b-DealerLoanOrDealerConsumerCreditContract",
+            "term":"dealer consumer credit contract"
+        },
+        "creditor:1024-2-b-DealerLoanOrDealerConsumerCreditContract":{
+            "position":[
+                415,
+                423
+            ],
+            "reference":"1024-2-b-DealerLoanOrDealerConsumerCreditContract",
+            "term":"creditor"
+        },
+        "effective date of transfer:1024-2-b-def1":{
+            "position":[
+                0,
+                26
+            ],
+            "reference":"1024-2-b-def1",
+            "term":"effective date of transfer"
+        },
+        "federally related mortgage loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan":{
+            "position":[
+                0,
+                31
+            ],
+            "reference":"1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan",
+            "term":"federally related mortgage loan"
+        },
+        "mortgage loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan":{
+            "position":[
+                18,
+                31
+            ],
+            "reference":"1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan",
+            "term":"mortgage loan"
+        },
+        "residential real estate loan:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-D":{
+            "position":[
+                363,
+                391
+            ],
+            "reference":"1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-D",
+            "term":"residential real estate loan"
+        },
+        "reverse mortgage:1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F":{
+            "position":[
+                83,
+                99
+            ],
+            "reference":"1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F",
+            "term":"reverse mortgage"
+        },
+        "good faith estimate:1024-2-b-GoodFaithEstimateOrGFE":{
+            "position":[
+                0,
+                19
+            ],
+            "reference":"1024-2-b-GoodFaithEstimateOrGFE",
+            "term":"good faith estimate"
+        },
+        "gfe:1024-2-b-GoodFaithEstimateOrGFE":{
+            "position":[
+                23,
+                26
+            ],
+            "reference":"1024-2-b-GoodFaithEstimateOrGFE",
+            "term":"gfe"
+        },
+        "hud:1024-2-b-HUD":{
+            "position":[
+                0,
+                3
+            ],
+            "reference":"1024-2-b-HUD",
+            "term":"hud"
+        },
+        "hud-1 or hud-1a settlement statement:1024-2-b-HUD1orHUD1ASettlementStatement":{
+            "position":[
+                0,
+                36
+            ],
+            "reference":"1024-2-b-HUD1orHUD1ASettlementStatement",
+            "term":"hud-1 or hud-1a settlement statement"
+        },
+        "hud-1:1024-2-b-HUD1orHUD1ASettlementStatement":{
+            "position":[
+                0,
+                5
+            ],
+            "reference":"1024-2-b-HUD1orHUD1ASettlementStatement",
+            "term":"hud-1"
+        },
+        "hud-1a:1024-2-b-HUD1orHUD1ASettlementStatement":{
+            "position":[
+                9,
+                15
+            ],
+            "reference":"1024-2-b-HUD1orHUD1ASettlementStatement",
+            "term":"hud-1a"
+        },
+        "lender:1024-2-b-Lender":{
+            "position":[
+                0,
+                6
+            ],
+            "reference":"1024-2-b-Lender",
+            "term":"lender"
+        },
+        "loan originator:1024-2-b-LoanOriginator":{
+            "position":[
+                0,
+                15
+            ],
+            "reference":"1024-2-b-LoanOriginator",
+            "term":"loan originator"
+        },
+        "manufactured home:1024-2-b-def2":{
+            "position":[
+                0,
+                17
+            ],
+            "reference":"1024-2-b-def2",
+            "term":"manufactured home"
+        },
+        "mortgage broker:1024-2-b-MortgageBroker":{
+            "position":[
+                0,
+                15
+            ],
+            "reference":"1024-2-b-MortgageBroker",
+            "term":"mortgage broker"
+        },
+        "mortgaged property:1024-2-b-MortgagedProperty":{
+            "position":[
+                0,
+                18
+            ],
+            "reference":"1024-2-b-MortgagedProperty",
+            "term":"mortgaged property"
+        },
+        "origination service:1024-2-b-OriginationService":{
+            "position":[
+                0,
+                19
+            ],
+            "reference":"1024-2-b-OriginationService",
+            "term":"origination service"
+        },
+        "person:1024-2-b-def3":{
+            "position":[
+                0,
+                6
+            ],
+            "reference":"1024-2-b-def3",
+            "term":"person"
+        },
+        "prepayment penalty:1024-2-b-def4":{
+            "position":[
+                0,
+                18
+            ],
+            "reference":"1024-2-b-def4",
+            "term":"prepayment penalty"
+        },
+        "public guidance document:1024-2-b-PublicGuidanceDocuments":{
+            "position":[
+                0,
+                25
+            ],
+            "reference":"1024-2-b-PublicGuidanceDocuments",
+            "term":"public guidance document"
+        },
+        "refinancing:1024-2-b-Refinancing":{
+            "position":[
+                0,
+                11
+            ],
+            "reference":"1024-2-b-Refinancing",
+            "term":"refinancing"
+        },
+        "regulation z:1024-2-b-RegulationZ":{
+            "position":[
+                0,
+                12
+            ],
+            "reference":"1024-2-b-RegulationZ",
+            "term":"regulation z"
+        },
+        "required use:1024-2-b-RequiredUse":{
+            "position":[
+                0,
+                12
+            ],
+            "reference":"1024-2-b-RequiredUse",
+            "term":"required use"
+        },
+        "respa:1024-2-b-RESPA":{
+            "position":[
+                0,
+                5
+            ],
+            "reference":"1024-2-b-RESPA",
+            "term":"respa"
+        },
+        "servicer:1024-2-b-Servicer":{
+            "position":[
+                0,
+                8
+            ],
+            "reference":"1024-2-b-Servicer",
+            "term":"servicer"
+        },
+        "servicing:1024-2-b-Servicing":{
+            "position":[
+                0,
+                9
+            ],
+            "reference":"1024-2-b-Servicing",
+            "term":"servicing"
+        },
+        "settlement:1024-2-b-Settlement":{
+            "position":[
+                0,
+                10
+            ],
+            "reference":"1024-2-b-Settlement",
+            "term":"settlement"
+        },
+        "closing:1024-2-b-Settlement":{
+            "position":[
+                184,
+                191
+            ],
+            "reference":"1024-2-b-Settlement",
+            "term":"closing"
+        },
+        "escrow:1024-2-b-Settlement":{
+            "position":[
+                197,
+                203
+            ],
+            "reference":"1024-2-b-Settlement",
+            "term":"escrow"
+        },
+        "settlement service:1024-2-b-SettlementService":{
+            "position":[
+                0,
+                18
+            ],
+            "reference":"1024-2-b-SettlementService",
+            "term":"settlement service"
+        },
+        "special information booklet:1024-2-b-SpecialInformationBooklet":{
+            "position":[
+                0,
+                27
+            ],
+            "reference":"1024-2-b-SpecialInformationBooklet",
+            "term":"special information booklet"
+        },
+        "state:1024-2-b-State":{
+            "position":[
+                0,
+                5
+            ],
+            "reference":"1024-2-b-State",
+            "term":"state"
+        },
+        "table funding:1024-2-b-TableFunding":{
+            "position":[
+                0,
+                13
+            ],
+            "reference":"1024-2-b-TableFunding",
+            "term":"table funding"
+        },
+        "third party:1024-2-b-ThirdParty":{
+            "position":[
+                0,
+                11
+            ],
+            "reference":"1024-2-b-ThirdParty",
+            "term":"third party"
+        },
+        "title company:1024-2-b-TitleCompany":{
+            "position":[
+                0,
+                13
+            ],
+            "reference":"1024-2-b-TitleCompany",
+            "term":"title company"
+        },
+        "title service:1024-2-b-TitleService":{
+            "position":[
+                0,
+                13
+            ],
+            "reference":"1024-2-b-TitleService",
+            "term":"title service"
+        },
+        "tolerance:1024-2-b-Tolerance":{
+            "position":[
+                0,
+                9
+            ],
+            "reference":"1024-2-b-Tolerance",
+            "term":"tolerance"
+        },
+        "associate:1024-15-c-def0":{
+            "position":[
+                0,
+                9
+            ],
+            "reference":"1024-15-c-def0",
+            "term":"associate"
+        },
+        "affiliate relationship:1024-15-c-AffiliateRelationship":{
+            "position":[
+                0,
+                22
+            ],
+            "reference":"1024-15-c-AffiliateRelationship",
+            "term":"affiliate relationship"
+        },
+        "beneficial ownership:1024-15-c-BeneficialOwnership":{
+            "position":[
+                0,
+                20
+            ],
+            "reference":"1024-15-c-BeneficialOwnership",
+            "term":"beneficial ownership"
+        },
+        "control:1024-15-c-Control":{
+            "position":[
+                0,
+                7
+            ],
+            "reference":"1024-15-c-Control",
+            "term":"control"
+        },
+        "direct ownership:1024-15-c-DirectOwnership":{
+            "position":[
+                0,
+                16
+            ],
+            "reference":"1024-15-c-DirectOwnership",
+            "term":"direct ownership"
+        },
+        "franchise:1024-15-c-def1":{
+            "position":[
+                0,
+                9
+            ],
+            "reference":"1024-15-c-def1",
+            "term":"franchise"
+        },
+        "franchisor:1024-15-c-def2":{
+            "position":[
+                0,
+                10
+            ],
+            "reference":"1024-15-c-def2",
+            "term":"franchisor"
+        },
+        "franchisee:1024-15-c-def3":{
+            "position":[
+                0,
+                10
+            ],
+            "reference":"1024-15-c-def3",
+            "term":"franchisee"
+        },
+        "ftc:1024-15-c-FTC":{
+            "position":[
+                0,
+                3
+            ],
+            "reference":"1024-15-c-FTC",
+            "term":"ftc"
+        },
+        "person who i in a position to refer settlement service business:1024-15-c-PersonWhoIsInAPositionToReferSettlementServiceBusiness":{
+            "position":[
+                0,
+                64
+            ],
+            "reference":"1024-15-c-PersonWhoIsInAPositionToReferSettlementServiceBusiness",
+            "term":"person who is in a position to refer settlement service business"
+        },
+        "aggregate analysi:1024-17-b-AggregateCompositeAnalysis":{
+            "position":[
+                0,
+                33
+            ],
+            "reference":"1024-17-b-AggregateCompositeAnalysis",
+            "term":"aggregate analysis"
+        },
+        "annual escrow account statement:1024-17-b-AnnualEscrowAccountStatement":{
+            "position":[
+                0,
+                31
+            ],
+            "reference":"1024-17-b-AnnualEscrowAccountStatement",
+            "term":"annual escrow account statement"
+        },
+        "cushion:1024-17-b-CushionOrReserve":{
+            "position":[
+                0,
+                7
+            ],
+            "reference":"1024-17-b-CushionOrReserve",
+            "term":"cushion"
+        },
+        "deficiency:1024-17-b-def0":{
+            "position":[
+                0,
+                10
+            ],
+            "reference":"1024-17-b-def0",
+            "term":"deficiency"
+        },
+        "delivery:1024-17-b-Delivery":{
+            "position":[
+                0,
+                8
+            ],
+            "reference":"1024-17-b-Delivery",
+            "term":"delivery"
+        },
+        "disbursement date:1024-17-b-DisbursementDate":{
+            "position":[
+                0,
+                17
+            ],
+            "reference":"1024-17-b-DisbursementDate",
+            "term":"disbursement date"
+        },
+        "escrow account:1024-17-b-EscrowAccount":{
+            "position":[
+                0,
+                14
+            ],
+            "reference":"1024-17-b-EscrowAccount",
+            "term":"escrow account"
+        },
+        "reserve account:1024-17-b-EscrowAccount":{
+            "position":[
+                441,
+                456
+            ],
+            "reference":"1024-17-b-EscrowAccount",
+            "term":"reserve account"
+        },
+        "escrow account analysis:1024-17-b-EscrowAccountAnalysis":{
+            "position":[
+                0,
+                23
+            ],
+            "reference":"1024-17-b-EscrowAccountAnalysis",
+            "term":"escrow account analysis"
+        },
+        "escrow account computation year:1024-17-b-def1":{
+            "position":[
+                0,
+                31
+            ],
+            "reference":"1024-17-b-def1",
+            "term":"escrow account computation year"
+        },
+        "escrow account item:1024-17-b-EscrowAccountItemOrSeparateItem":{
+            "position":[
+                0,
+                19
+            ],
+            "reference":"1024-17-b-EscrowAccountItemOrSeparateItem",
+            "term":"escrow account item"
+        },
+        "tax:1024-17-b-EscrowAccountItemOrSeparateItem":{
+            "position":[
+                87,
+                92
+            ],
+            "reference":"1024-17-b-EscrowAccountItemOrSeparateItem",
+            "term":"tax"
+        },
+        "insurance:1024-17-b-EscrowAccountItemOrSeparateItem":{
+            "position":[
+                98,
+                107
+            ],
+            "reference":"1024-17-b-EscrowAccountItemOrSeparateItem",
+            "term":"insurance"
+        },
+        "initial escrow account statement:1024-17-b-InitialEscrowAccountStatement":{
+            "position":[
+                0,
+                32
+            ],
+            "reference":"1024-17-b-InitialEscrowAccountStatement",
+            "term":"initial escrow account statement"
+        },
+        "installment payment:1024-17-b-InstallmentPayment":{
+            "position":[
+                0,
+                19
+            ],
+            "reference":"1024-17-b-InstallmentPayment",
+            "term":"installment payment"
+        },
+        "payment due date:1024-17-b-PaymentDueDate":{
+            "position":[
+                0,
+                16
+            ],
+            "reference":"1024-17-b-PaymentDueDate",
+            "term":"payment due date"
+        },
+        "penalty:1024-17-b-Penalty":{
+            "position":[
+                0,
+                7
+            ],
+            "reference":"1024-17-b-Penalty",
+            "term":"penalty"
+        },
+        "pre-accrual:1024-17-b-def2":{
+            "position":[
+                0,
+                11
+            ],
+            "reference":"1024-17-b-def2",
+            "term":"pre-accrual"
+        },
+        "shortage:1024-17-b-Shortage":{
+            "position":[
+                0,
+                8
+            ],
+            "reference":"1024-17-b-Shortage",
+            "term":"shortage"
+        },
+        "single-item analysi:1024-17-b-Single-itemAnalysis":{
+            "position":[
+                0,
+                20
+            ],
+            "reference":"1024-17-b-Single-itemAnalysis",
+            "term":"single-item analysis"
+        },
+        "submission:1024-17-b-Submission":{
+            "position":[
+                0,
+                10
+            ],
+            "reference":"1024-17-b-Submission",
+            "term":"submission"
+        },
+        "surplus:1024-17-b-Surplus":{
+            "position":[
+                0,
+                7
+            ],
+            "reference":"1024-17-b-Surplus",
+            "term":"surplus"
+        },
+        "system of recordkeeping:1024-17-b-SystemOfRecordkeeping":{
+            "position":[
+                0,
+                23
+            ],
+            "reference":"1024-17-b-SystemOfRecordkeeping",
+            "term":"system of recordkeeping"
+        },
+        "target balance:1024-17-b-TargetBalance":{
+            "position":[
+                0,
+                14
+            ],
+            "reference":"1024-17-b-TargetBalance",
+            "term":"target balance"
+        },
+        "trial running balance:1024-17-b-TrialRunningBalance":{
+            "position":[
+                0,
+                21
+            ],
+            "reference":"1024-17-b-TrialRunningBalance",
+            "term":"trial running balance"
+        },
+        "master servicer:1024-21-a-MasterServicer":{
+            "position":[
+                0,
+                15
+            ],
+            "reference":"1024-21-a-MasterServicer",
+            "term":"master servicer"
+        },
+        "mortgage servicing loan:1024-21-a-MortgageServicingLoan":{
+            "position":[
+                0,
+                23
+            ],
+            "reference":"1024-21-a-MortgageServicingLoan",
+            "term":"mortgage servicing loan"
+        },
+        "qualified written request:1024-21-a-QualifiedWrittenRequest":{
+            "position":[
+                0,
+                25
+            ],
+            "reference":"1024-21-a-QualifiedWrittenRequest",
+            "term":"qualified written request"
+        },
+        "subservicer:1024-21-a-Subservicer":{
+            "position":[
+                0,
+                11
+            ],
+            "reference":"1024-21-a-Subservicer",
+            "term":"subservicer"
+        },
+        "transferee servicer:1024-21-a-TransfereeServicer":{
+            "position":[
+                0,
+                19
+            ],
+            "reference":"1024-21-a-TransfereeServicer",
+            "term":"transferee servicer"
+        },
+        "transferor servicer:1024-21-a-TransferorServicer":{
+            "position":[
+                0,
+                19
+            ],
+            "reference":"1024-21-a-TransferorServicer",
+            "term":"transferor servicer"
+        },
+        "a qualified written request:1024-21-e-2-i":{
+            "position":[
+                51,
+                78
+            ],
+            "reference":"1024-21-e-2-i",
+            "term":"a qualified written request"
+        }
+    }
+}
