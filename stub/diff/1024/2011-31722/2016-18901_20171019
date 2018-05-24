@@ -286,25 +286,6 @@
     "1024-MS1":{
         "op":"deleted"
     },
-    "1024-41-c-2-i-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Offer of a loss mitigation option without an evaluation of a loss mitigation application.Nothing in \u00a7 1024.41(c)(2)(i) prohibits a servicer from offering loss mitigation options to a borrower who has not submitted a loss mitigation application. Further, nothing in \u00a7 1024.41(c)(2)(i) prohibits a servicer from offering a loss mitigation option to a borrower who has submitted an incomplete loss mitigation application where the offer of the loss mitigation option is not based on any evaluation of information submitted by the borrower in connection with such loss mitigation application. For example, if a servicer offers trial loan modification programs to all borrowers who become 150 days delinquent without an application or consideration of any information provided by a borrower in connection with a loss mitigation application, the servicer's offer of any such program does not violate \u00a7 1024.41(c)(2)(i), and a servicer is not required to comply with \u00a7 1024.41 with respect to any such program, because the offer of the loss mitigation option is not based on an evaluation of a loss mitigation application.",
-            "label":[
-                "1024",
-                "41",
-                "c",
-                "2",
-                "i",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-21-h":{
         "op":"deleted"
     },
@@ -501,8 +482,8 @@
     "1024-33-c-1-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Compliance with \u00a7 1024.39.A transferee servicer's compliance with \u00a7 1024.39 during the 60-day period beginning on the effective date of a servicing transfer does not constitute treating a payment as late for purposes of \u00a7 1024.33(c)(1).",
+            "title":"Compliance with \u00a7\u20091024.39.",
+            "text":"A transferee servicer's compliance with \u00a7\u20091024.39 during the 60-day period beginning on the effective date of a servicing transfer does not constitute treating a payment as late for purposes of \u00a7\u20091024.33(c)(1).",
             "label":[
                 "1024",
                 "33",
@@ -551,6 +532,26 @@
                 "p24"
             ],
             "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-c-2-iv-Interp-1-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The servicer notifies the borrower in the \u00a7\u20091024.41(b)(2)(i)(B) notice that the servicer has determined the application is incomplete and identifies information and documentation necessary to complete the application, and the borrower provides all the documents and information that were listed as missing in that notice within a reasonable time. The borrower would have a reasonable expectation that the application was complete as of the date the borrower submitted all the documents and information that were listed as missing.",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iv",
+                "Interp",
+                "1",
+                "ii"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -868,8 +869,8 @@
     "1024-41-f-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(1) Pre-foreclosure review period.A servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless:",
+            "title":"Pre-foreclosure review period.",
+            "text":"(1) A servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless:",
             "label":[
                 "1024",
                 "41",
@@ -1686,7 +1687,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(ii) Provide the borrower with a notice in writing stating the servicer's determination of which loss mitigation options, if any, it will offer to the borrower on behalf of the owner or assignee of the mortgage loan. The servicer shall include in this notice the amount of time the borrower has to accept or reject an offer of a loss mitigation program as provided for in paragraph (e) of this section, if applicable, and a notification, if applicable, that the borrower has the right to appeal the denial of any loan modification option as well as the amount of time the borrower has to file such an appeal and any requirements for making an appeal, as provided for in paragraph (h) of this section.",
+            "text":"(ii) Provide the borrower with a notice in writing stating the servicer's determination of which loss mitigation options, if any, it will offer to the borrower on behalf of the owner or assignee of the mortgage. The servicer shall include in this notice the amount of time the borrower has to accept or reject an offer of a loss mitigation program as provided for in paragraph (e) of this section, if applicable, and a notification, if applicable, that the borrower has the right to appeal the denial of any loan modification option as well as the amount of time the borrower has to file such an appeal and any requirements for making an appeal as provided for in paragraph (h) of this section.",
             "label":[
                 "1024",
                 "41",
@@ -2682,8 +2683,8 @@
     "1024-36-b-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Notice of an exclusive address.A notice establishing an address that a borrower must use to request information may be included with a different disclosure, such as a notice of transfer. The notice is subject to the clear and conspicuous requirement in \u00a7 1024.32(a)(1). If a servicer establishes an address that a borrower must use to request information, a servicer must provide that address to the borrower in the following contexts:",
+            "title":"Notice of an exclusive address.",
+            "text":"A notice establishing an address that a borrower must use to request information may be included with a different disclosure, such as on a notice of transfer, periodic statement, or coupon book. The notice is subject to the clear and conspicuous requirement in \u00a7\u20091024.32(a)(1). If a servicer establishes an address that a borrower must use to request information, a servicer must provide that address to the borrower in any communication in which the servicer provides the borrower with an address for assistance from the servicer.",
             "label":[
                 "1024",
                 "36",
@@ -2692,12 +2693,7 @@
                 "2"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-36-b-Interp-2-i",
-                "1024-36-b-Interp-2-ii",
-                "1024-36-b-Interp-2-iii",
-                "1024-36-b-Interp-2-iv"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -2750,23 +2746,6 @@
                 "iii",
                 "Interp",
                 "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-36-b-Interp-4":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Internet intake of information requests.A servicer may, but need not, establish a process for receiving information requests through email, Web site form, or other online intake methods. Any such online intake process shall be in addition to, and not in lieu of, any process for receiving information requests by mail. The process or processes established by the servicer for receiving information requests through an online intake method shall be the exclusive online intake process or processes for receiving information requests. A servicer is not required to provide a separate notice to a borrower to establish a specific online intake process as an exclusive online process for receiving information requests.",
-            "label":[
-                "1024",
-                "36",
-                "b",
-                "Interp",
-                "4"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -3908,8 +3887,8 @@
     "1024-41-f-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Prohibited activities.Section 1024.41(f) prohibits a servicer from making the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process under certain circumstances. Whether a document is considered the first notice or filing is determined on the basis of foreclosure procedure under the applicable State law.",
+            "title":"Prohibited activities.",
+            "text":"Section 1024.41(f) prohibits a servicer from making the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process under certain circumstances. Whether a document is considered the first notice or filing is determined under applicable State law. Specifically, a document is considered the first notice or filing if it would be used by the servicer as evidence of compliance with foreclosure practices required pursuant to State law, but is not considered the first notice or filing if it is used solely for other purposes. Thus, a servicer is not prohibited from attempting to collect payments, sending periodic statements, sending breach letters, or engaging in any other activity during the pre-foreclosure review period, so long as such documents or activity would not be used as evidence of complying with requirements applicable pursuant to State law in connection with a foreclosure process, and are not banned by other applicable law (e.g., the Fair Debt Collection Practices Act or bankruptcy law).",
             "label":[
                 "1024",
                 "41",
@@ -3918,12 +3897,7 @@
                 "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-41-f-Interp-1-i",
-                "1024-41-f-Interp-1-ii",
-                "1024-41-f-Interp-1-iii",
-                "1024-41-f-Interp-1-iv"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -4148,7 +4122,7 @@
     "1024-41-f-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"41(f) Prohibition on foreclosure referral.",
+            "title":"41(f)\u2003Prohibition on foreclosure referral.",
             "text":"",
             "label":[
                 "1024",
@@ -4445,7 +4419,7 @@
     "1024-41-c-2-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"41(c)(2) Incomplete loss mitigation application evaluation.",
+            "title":"41(c)(2)\u2003Incomplete loss mitigation application evaluation.",
             "text":"",
             "label":[
                 "1024",
@@ -4456,8 +4430,6 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-41-c-2-i-Interp",
-                "1024-41-c-2-ii-Interp",
                 "1024-41-c-2-iii-Interp",
                 "1024-41-c-2-iv-Interp"
             ]
@@ -4487,7 +4459,7 @@
     "1024-36-b-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"36(b) Contact information for borrowers to request information.",
+            "title":"36(b)\u2003Contact information for borrowers to request information.",
             "text":"",
             "label":[
                 "1024",
@@ -4497,10 +4469,7 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-36-b-Interp-1",
-                "1024-36-b-Interp-2",
-                "1024-36-b-Interp-3",
-                "1024-36-b-Interp-4"
+                "1024-36-b-Interp-2"
             ]
         },
         "op":"added"
@@ -4565,8 +4534,8 @@
     "1024-41-b-2-ii":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(ii) Time period disclosure.The notice required pursuant to paragraph (b)(2)(i)(B) of this section must include a reasonable date by which the borrower should submit the documents and information necessary to make the loss mitigation application complete.",
+            "title":"Time period disclosure.",
+            "text":"(ii) The notice required pursuant to paragraph (b)(2)(i)(B) of this section must include a reasonable date by which the borrower should submit the documents and information necessary to make the loss mitigation application complete.",
             "label":[
                 "1024",
                 "41",
@@ -5409,7 +5378,6 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-33-c-1-Interp-1",
                 "1024-33-c-1-Interp-2"
             ]
         },
@@ -5472,7 +5440,11 @@
                 "iii"
             ],
             "node_type":"regtext",
-            "child_labels":[]
+            "child_labels":[
+                "1024-41-c-2-iii-A",
+                "1024-41-c-2-iii-B",
+                "1024-41-c-2-iii-C"
+            ]
         },
         "op":"added"
     },
@@ -6496,25 +6468,6 @@
         },
         "op":"added"
     },
-    "1024-41-c-2-ii-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Significant period of time.A significant period of time under the circumstances may include consideration of the timing of the foreclosure process. For example, if a borrower is less than 50 days before a foreclosure sale, an application remaining incomplete for 15 days may be a more significant period of time under the circumstances than if the borrower is still less than 120 days delinquent on a mortgage loan obligation.",
-            "label":[
-                "1024",
-                "41",
-                "c",
-                "2",
-                "ii",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-35-g-1-iii-A":{
         "node":{
             "tagged_text":null,
@@ -7073,24 +7026,6 @@
         },
         "op":"added"
     },
-    "1024-36-b-Interp-2-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Any Web site the servicer maintains in connection with the servicing of the loan. ",
-            "label":[
-                "1024",
-                "36",
-                "b",
-                "Interp",
-                "2",
-                "iii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-MS-4-Interp-3":{
         "node":{
             "tagged_text":null,
@@ -7145,18 +7080,17 @@
         },
         "op":"added"
     },
-    "1024-41-f-Interp-1-ii":{
+    "1024-MS-4-Interp-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Where foreclosure procedure does not require an action or court proceeding, such as under a power of sale, a document is considered the first notice or filing if it is the earliest document required to be recorded or published to initiate the foreclosure process.",
+            "text":"Model MS-4(B).These model clauses illustrate how the servicer may inform the borrower of loss mitigation options that may be available, as required by \u00a7 1024.39(b)(2)(iii), if applicable. A servicer may include clauses describing particular loss mitigation options to the extent such options are available. Model MS-4(B) does not contain sample clauses for all loss mitigation options that may be available. The language in the model clauses contained in square brackets is optional; a servicer may comply with the disclosure requirements of \u00a7 1024.39(b)(2)(iii) by using language substantially similar to the language in the model clauses, providing additional detail about the options, or by adding or substituting applicable loss mitigation options for options not represented in these model clauses, provided the information disclosed is accurate and clear and conspicuous.",
             "label":[
                 "1024",
-                "41",
-                "f",
+                "MS",
+                "4",
                 "Interp",
-                "1",
-                "ii"
+                "2"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -7530,24 +7464,6 @@
         ],
         "op":"modified"
     },
-    "1024-41-f-Interp-1-iv":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A document provided to the borrower but not initially required to be filed, recorded, or published is not considered the first notice or filing on the sole basis that the document must later be included as an attachment accompanying another document that is required to be filed, recorded, or published to carry out a foreclosure.",
-            "label":[
-                "1024",
-                "41",
-                "f",
-                "Interp",
-                "1",
-                "iv"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-21-d-3-iii":{
         "op":"deleted"
     },
@@ -7831,9 +7747,6 @@
         },
         "op":"added"
     },
-    "1024-MS1-h1-h2":{
-        "op":"deleted"
-    },
     "1024-21-a-MortgageServicingLoan":{
         "op":"deleted"
     },
@@ -7875,8 +7788,8 @@
     "1024-41-c-2-i":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(i) In general.Except as set forth in paragraphs (c)(2)(ii) and (iii) of this section, a servicer shall not evade the requirement to evaluate a complete loss mitigation application for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation application.",
+            "title":"In general.",
+            "text":"(i) Except as set forth in paragraphs (c)(2)(ii) and (iii) of this section, a servicer shall not evade the requirement to evaluate a complete loss mitigation application for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation application.",
             "label":[
                 "1024",
                 "41",
@@ -7991,7 +7904,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(B) The mortgage loan balance was paid in full.",
+            "text":"(B) The mortgage loan is discharged.",
             "label":[
                 "1024",
                 "36",
@@ -8808,7 +8721,7 @@
     "1024-41-c-2-iii-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"41(c)(2)(iii) Payment forbearance.",
+            "title":"41(c)(2)(iii)\u2003Payment forbearance.",
             "text":"",
             "label":[
                 "1024",
@@ -9390,24 +9303,6 @@
     "1024-19-b":{
         "op":"deleted"
     },
-    "1024-41-f-Interp-1-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Where foreclosure procedure requires a court action or proceeding, a document is considered the first notice or filing if it is the earliest document required to be filed with a court or other judicial body to commence the action or proceeding (e.g., a complaint, petition, order to docket, or notice of hearing).",
-            "label":[
-                "1024",
-                "41",
-                "f",
-                "Interp",
-                "1",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-19-a":{
         "op":"deleted"
     },
@@ -9487,8 +9382,8 @@
     "1024-30-a":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(a) In general.Except as provided in paragraphs (b) and (c) of this section, this subpart applies to any mortgage loan, as that term is defined in \u00a7 1024.31.",
+            "title":"In general.",
+            "text":"(a) Except as provided in paragraphs (b) and (c) of this section, this subpart applies to any mortgage loan, as that term is defined in \u00a7\u20091024.31.",
             "label":[
                 "1024",
                 "30",
@@ -9924,26 +9819,6 @@
     "1024-C-h2-h3-p8-p9":{
         "op":"deleted"
     },
-    "1024-36-d-1-ii-Interp-1-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The information cannot be retrieved in the ordinary course of business through reasonable efforts.",
-            "label":[
-                "1024",
-                "36",
-                "d",
-                "1",
-                "ii",
-                "Interp",
-                "1",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-37-c-2":{
         "node":{
             "tagged_text":null,
@@ -10293,11 +10168,65 @@
         },
         "op":"added"
     },
+    "1024-41-c-2-iii-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(A) The servicer has received an incomplete loss mitigation application, and on the basis of that application the servicer is offering a payment forbearance program;",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iii",
+                "A"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-MS1-p2":{
         "op":"deleted"
     },
     "1024-MS1-p1":{
         "op":"deleted"
+    },
+    "1024-41-c-2-iii-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(B) Absent further action by the borrower, the servicer will not review the incomplete application for other loss mitigation options; and",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iii",
+                "B"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-c-2-iii-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(C) If the borrower would like to be considered for other loss mitigation options, the borrower must notify the servicer and submit the missing documents and information required to complete the loss mitigation application.",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iii",
+                "C"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-38-b-1-iv":{
         "node":{
@@ -10651,23 +10580,6 @@
                 "Interp",
                 "3",
                 "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-35-c-Interp-3":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Multiple offices.A servicer may designate multiple office addresses for receiving notices of errors. However, a servicer is required to comply with the requirements of \u00a7 1024.35 with respect to a notice of error received at any such designated address regardless of whether that specific address was provided to a specific borrower asserting an error. For example, a servicer may designate an address to receive notices of error for borrowers located in California and a separate address to receive notices of errors for borrowers located in Texas. If a borrower located in California asserts an error through the address used by the servicer for borrowers located in Texas, the servicer is still considered to have received a notice of error and must comply with the requirements of \u00a7 1024.35.",
-            "label":[
-                "1024",
-                "35",
-                "c",
-                "Interp",
-                "3"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -11229,8 +11141,8 @@
     "1024-41-c-2-iv-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Reasonable opportunity.Section 1024.41(c)(2)(iv) requires a servicer to treat a facially complete application as complete for the purposes of paragraphs (f)(2) and (g) until the borrower has been given a reasonable opportunity to complete the application. A reasonable opportunity requires the servicer to notify the borrower of what additional information or corrected documents are required, and to afford the borrower sufficient time to gather the information and documentation necessary to complete the application and submit it to the servicer. The amount of time that is sufficient for this purpose will depend on the facts and circumstances.",
+            "title":"Reasonable expectation.",
+            "text":"A servicer creates a reasonable expectation that a loss mitigation application is complete when:",
             "label":[
                 "1024",
                 "41",
@@ -11241,7 +11153,11 @@
                 "1"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1024-41-c-2-iv-Interp-1-i",
+                "1024-41-c-2-iv-Interp-1-ii",
+                "1024-41-c-2-iv-Interp-1-iii"
+            ]
         },
         "op":"added"
     },
@@ -11267,8 +11183,8 @@
     "1024-41-c-2-iv-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Borrower fails to complete the application.If the borrower fails to complete the application within the timeframe provided under \u00a7 1024.41(c)(2)(iv), the application shall be considered incomplete.",
+            "title":"Reasonable opportunity.",
+            "text":"Section 1024.41(c)(2)(iv) requires a servicer to treat as complete an application that the servicer has created a reasonable expectation is complete until a borrower has been given a reasonable opportunity to complete the loss mitigation application. A reasonable opportunity requires the servicer to notify the borrower of what information and documentation is missing, and afford the borrower sufficient time to gather the information and/or documentation necessary to complete the application and submit it to the servicer. The amount of time that is sufficient for this purpose will depend on the facts and circumstances.",
             "label":[
                 "1024",
                 "41",
@@ -11542,15 +11458,23 @@
     "1024-6-d-1-ii-B":{
         "op":"deleted"
     },
-    "1024-41-f-Interp-1-iii":{
+    "1024-6-d-1-ii-C":{
+        "op":"deleted"
+    },
+    "1024-MS2-h1-h2-p29":{
+        "op":"deleted"
+    },
+    "1024-41-c-2-iv-Interp-1-iii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Where foreclosure procedure does not require any court filing or proceeding, and also does not require any document to be recorded or published, a document is considered the first notice or filing if it is the earliest document that establishes, sets, or schedules a date for the foreclosure sale.",
+            "text":"",
             "label":[
                 "1024",
                 "41",
-                "f",
+                "c",
+                "2",
+                "iv",
                 "Interp",
                 "1",
                 "iii"
@@ -11559,12 +11483,6 @@
             "child_labels":[]
         },
         "op":"added"
-    },
-    "1024-6-d-1-ii-C":{
-        "op":"deleted"
-    },
-    "1024-MS2-h1-h2-p29":{
-        "op":"deleted"
     },
     "1024-38-b-1-iv-Interp":{
         "node":{
@@ -13344,6 +13262,26 @@
         },
         "op":"added"
     },
+    "1024-41-c-2-iv-Interp-1-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The servicer notifies the borrower in the \u00a7\u20091024.41(b)(2)(i)(B) notice that the servicer has determined the application is complete. The borrower would have a reasonable expectation upon receipt of the notice that the application was complete as of the date the application was submitted.",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iv",
+                "Interp",
+                "1",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-39-c-2-i-C":{
         "node":{
             "tagged_text":null,
@@ -13813,7 +13751,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(ii) The foreclosure is based on a borrower\u2019s violation of a due-on-sale clause; or",
+            "text":"(ii) The foreclosure is based on a borrower's violation of a due-on-sale clause; or",
             "label":[
                 "1024",
                 "41",
@@ -14129,24 +14067,6 @@
         },
         "op":"added"
     },
-    "1024-36-b-Interp-2-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Any periodic statement or coupon book required pursuant to 12 CFR 1026.41.",
-            "label":[
-                "1024",
-                "36",
-                "b",
-                "Interp",
-                "2",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-36-a-Interp":{
         "node":{
             "tagged_text":null,
@@ -14455,8 +14375,8 @@
     "1024-39-b-3":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(3) Model clauses.Model clauses MS-4(A), MS-4(B), and MS-4(C), in appendix MS-4 to this part may be used to comply with the requirements of this paragraph (b) of this section.",
+            "title":"Model clauses.",
+            "text":"(3) Model clauses MS-4(A), MS-4(B), and MS-4(C), in appendix MS-4 to this part may be used to comply with the requirements of this paragraph (b).",
             "label":[
                 "1024",
                 "39",
@@ -14650,8 +14570,8 @@
     "1024-41-c-2-iv-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"41(c)(2)(iv) Facially complete application.",
+            "title":"41(c)(2)(iv)\u2003Servicer creates reasonable expectation that a loss mitigation application is complete.",
+            "text":"",
             "label":[
                 "1024",
                 "41",
@@ -14897,23 +14817,6 @@
                 "1024-33-c-1",
                 "1024-33-c-2"
             ]
-        },
-        "op":"added"
-    },
-    "1024-36-b-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Exclusive address not required.A servicer is not required to designate a specific address that a borrower must use to request information. If a servicer does not designate a specific address that a borrower must use to request information, a servicer must respond to an information request received by any office of the servicer.",
-            "label":[
-                "1024",
-                "36",
-                "b",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -15187,17 +15090,20 @@
         },
         "op":"added"
     },
-    "1024-36-b-Interp-3":{
+    "1024-36-d-1-ii-Interp-1-ii":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Multiple offices.A servicer may designate multiple office addresses for receiving information requests. However, a servicer is required to comply with the requirements of \u00a7 1024.36 with respect to an information request received at any such address regardless of whether that specific address was provided to a specific borrower requesting information. For example, a servicer may designate an address to receive information requests for borrowers located in California and a separate address to receive information requests for borrowers located in Texas. If a borrower located in California requests information through the address used by the servicer for borrowers located in Texas, the servicer is still considered to have received an information request and must comply with the requirements of \u00a7 1024.36.",
+            "text":"The information cannot be retrieved in the ordinary course of business through reasonable efforts.",
             "label":[
                 "1024",
                 "36",
-                "b",
+                "d",
+                "1",
+                "ii",
                 "Interp",
-                "3"
+                "1",
+                "ii"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -15931,8 +15837,8 @@
     "1024-41-h-4":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(4) Appeal determination.Within 30 days of a borrower making an appeal, the servicer shall provide a notice to the borrower stating the servicer's determination of whether the servicer will offer the borrower a loss mitigation option based upon the appeal and, if applicable, how long the borrower has to accept or reject such an offer or a prior offer of a loss mitigation option. A servicer may require that a borrower accept or reject an offer of a loss mitigation option after an appeal no earlier than 14 days after the servicer provides the notice to a borrower. A servicer's determination under this paragraph is not subject to any further appeal.",
+            "title":"Appeal determination.",
+            "text":"(4) Within 30 days of a borrower making an appeal, the servicer shall provide a notice to the borrower stating the servicer's determination of whether the servicer will offer the borrower a loss mitigation option based upon the appeal, and, if applicable, how long the borrower has to accept or reject such an offer or a prior offer of a loss mitigation option, as provided for in this paragraph. A servicer may require that a borrower accept or reject an offer of a loss mitigation option after an appeal no earlier than 14 days after the servicer provides the notice to a borrower. A servicer's determination under this paragraph is not subject to any further appeal.",
             "label":[
                 "1024",
                 "41",
@@ -15959,25 +15865,6 @@
                 "4"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-41-c-2-i-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Servicer discretion. Although a review of a borrower's incomplete loss mitigation application is within a servicer's discretion, and is not required by \u00a7 1024.41, a servicer may be required separately, in accordance with policies and procedures maintained pursuant to \u00a7 1024.38(b)(2)(v), to properly evaluate a borrower who submits an application for a loss mitigation option for all loss mitigation options available to the borrower pursuant to any requirements established by the owner or assignee of the borrower's mortgage loan. Such evaluation may be subject to requirements applicable to loss mitigation applications otherwise considered incomplete pursuant to \u00a7 1024.41.",
-            "label":[
-                "1024",
-                "41",
-                "c",
-                "2",
-                "i",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -16017,8 +15904,8 @@
     "1024-41-d":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(d) Denial of loan modification options.If a borrower\u2019s complete loss mitigation application is denied for any trial or permanent loan modification option available to the borrower pursuant to paragraph (c) of this section, a servicer shall state in the notice sent to the borrower pursuant to paragraph (c)(1)(ii) of this section the specific reason or reasons for the servicer\u2019s determination for each such trial or permanent loan modification option and, if applicable, that the borrower was not evaluated on other criteria.",
+            "title":"Denial of loan modification options.",
+            "text":"(d) If a borrower's complete loss mitigation application is denied for any trial or permanent loan modification option available to the borrower pursuant to paragraph (c) of this section, a servicer shall state in the notice sent to the borrower pursuant to paragraph (c)(1)(ii) of this section the specific reason or reasons for the servicer's determination for each such trial or permanent loan modification option, and a notification that the borrower was not evaluated on other criteria (if applicable).",
             "label":[
                 "1024",
                 "41",
@@ -16467,8 +16354,8 @@
     "1024-41-j":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(j) Small servicer requirements.A small servicer shall be subject to the prohibition on foreclosure referral in paragraph (f)(1) of this section. A small servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of an agreement on a loss mitigation option.",
+            "title":"Small servicer requirements.",
+            "text":"(j) A small servicer shall be subject to the prohibition on foreclosure referral in paragraph (f)(1) of this section. A small servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of an agreement on a loss mitigation option.",
             "label":[
                 "1024",
                 "41",
@@ -17611,9 +17498,7 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-33-a-Interp-1",
-                "1024-33-a-Interp-2",
-                "1024-33-a-Interp-3"
+                "1024-33-a-Interp-1"
             ]
         },
         "op":"added"
@@ -17890,22 +17775,8 @@
         },
         "op":"added"
     },
-    "1024-MS-4-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Model MS-4(B).These model clauses illustrate how the servicer may inform the borrower of loss mitigation options that may be available, as required by \u00a7 1024.39(b)(2)(iii), if applicable. A servicer may include clauses describing particular loss mitigation options to the extent such options are available. Model MS-4(B) does not contain sample clauses for all loss mitigation options that may be available. The language in the model clauses contained in square brackets is optional; a servicer may comply with the disclosure requirements of \u00a7 1024.39(b)(2)(iii) by using language substantially similar to the language in the model clauses, providing additional detail about the options, or by adding or substituting applicable loss mitigation options for options not represented in these model clauses, provided the information disclosed is accurate and clear and conspicuous.",
-            "label":[
-                "1024",
-                "MS",
-                "4",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1024-MS1-h1-h2":{
+        "op":"deleted"
     },
     "1024-35-e-4-Interp-1":{
         "node":{
@@ -17947,8 +17818,8 @@
     "1024-33-a-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Terminology.Although the servicing disclosure statement must be clear and conspicuous pursuant to \u00a7 1024.32(a), \u00a7 1024.33(a) does not set forth any specific rules for the format of the statement, and the specific language of the servicing disclosure statement in appendix MS-1 is not required to be used. The model format may be supplemented with additional information that clarifies or enhances the model language.",
+            "title":"Terminology.",
+            "text":"Although the servicing disclosure statement must be clear and conspicuous pursuant to \u00a7\u20091024.32(a), \u00a7\u20091024.33(a) does not set forth any specific rules for the format of the statement, and the specific language of the servicing disclosure statement in appendix MS-1 is not required to be used. The model format may be supplemented with additional information that clarifies or enhances the model language.",
             "label":[
                 "1024",
                 "33",
@@ -18046,24 +17917,6 @@
         },
         "op":"added"
     },
-    "1024-36-b-Interp-2-iv":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Any notice required pursuant to \u00a7\u00a7 1024.39 or .41 that includes contact information for assistance.",
-            "label":[
-                "1024",
-                "36",
-                "b",
-                "Interp",
-                "2",
-                "iv"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-41-b-2":{
         "node":{
             "tagged_text":null,
@@ -18086,8 +17939,8 @@
     "1024-41-b-3":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(3) Determining Protections.To the extent a determination of whether protections under this section apply to a borrower is made on the basis of the number of days between when a complete loss mitigation application is received and when a foreclosure sale occurs, such determination shall be made as of the date a complete loss mitigation application is received.",
+            "title":"Timelines.",
+            "text":"(3) For purposes of this section, timelines based on the proximity of a foreclosure sale to the receipt of a complete loss mitigation application will be determined as of the date a complete loss mitigation application is received.",
             "label":[
                 "1024",
                 "41",
@@ -18406,15 +18259,15 @@
     "1024-21-a-TransfereeServicer":{
         "op":"deleted"
     },
-    "1024-33-a-Interp-3":{
+    "1024-35-c-Interp-3":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Lender servicing.If the lender, mortgage broker who anticipates using table funding, or dealer in a first lien dealer loan knows at the time of making the disclosure whether it will service the mortgage loan for which the applicant has applied, the disclosure must, as applicable, state that such entity will service such loan and does not intend to sell, transfer, or assign the servicing of the loan, or that such entity intends to assign, sell, or transfer servicing of such mortgage loan before the first payment is due. In all other instances, a disclosure that states that the servicing of the loan may be assigned, sold, or transferred while the loan is outstanding complies with \u00a7 1024.33(a).",
+            "text":"Multiple offices.A servicer may designate multiple office addresses for receiving notices of errors. However, a servicer is required to comply with the requirements of \u00a7 1024.35 with respect to a notice of error received at any such designated address regardless of whether that specific address was provided to a specific borrower asserting an error. For example, a servicer may designate an address to receive notices of error for borrowers located in California and a separate address to receive notices of errors for borrowers located in Texas. If a borrower located in California asserts an error through the address used by the servicer for borrowers located in Texas, the servicer is still considered to have received a notice of error and must comply with the requirements of \u00a7 1024.35.",
             "label":[
                 "1024",
-                "33",
-                "a",
+                "35",
+                "c",
                 "Interp",
                 "3"
             ],
@@ -18703,24 +18556,6 @@
         },
         "op":"added"
     },
-    "1024-33-c-1-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Late fees prohibited.The prohibition in \u00a7 1024.33(c)(1) on treating a payment as late for any purpose would prohibit a late fee from being imposed on the borrower with respect to any payment on the mortgage loan. See RESPA section 6(d) (12 U.S.C. 2605(d)).",
-            "label":[
-                "1024",
-                "33",
-                "c",
-                "1",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-39-b-2-v":{
         "node":{
             "tagged_text":null,
@@ -18838,7 +18673,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) A borrower\u2019s mortgage loan obligation is more than 120 days delinquent;",
+            "text":"(i) A borrower's mortgage loan obligation is more than 120 days delinquent;",
             "label":[
                 "1024",
                 "41",
@@ -19035,8 +18870,8 @@
     "1024-41-d-Interp-4":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Reasons listed.A servicer is required to disclose the actual reason or reasons for the denial. If a servicer\u2019s systems establish a hierarchy of eligibility criteria and reach the first criterion that causes a denial but do not evaluate the borrower based on additional criteria, a servicer complies with the rule by providing only the reason or reasons with respect to which the borrower was actually evaluated and rejected as well as notification that the borrower was not evaluated on other criteria. A servicer is not required to determine or disclose whether a borrower would have been denied on the basis of additional criteria if such criteria were not actually considered.",
+            "title":"Reasons listed.",
+            "text":"A servicer is required to disclose the actual reason or reasons for the denial. If a servicer's systems establish a hierarchy of eligibility criteria and reach the first criterion that causes a denial but do not evaluate the borrower based on additional criteria, a servicer complies with the rule by providing only the reason or reasons with respect to which the borrower was actually evaluated as well as notification that the borrower was not evaluated on other criteria. A servicer is not required to determine or disclose whether a borrower would have been denied on the basis of additional criteria if such criteria were not actually considered.",
             "label":[
                 "1024",
                 "41",
@@ -19522,23 +19357,6 @@
         },
         "op":"added"
     },
-    "1024-33-a-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Delivery to co-applicants.If co-applicants indicate the same address on their application, one copy delivered to that address is sufficient. If different addresses are shown by co-applicants on the application, a copy must be delivered to each of the co-applicants.",
-            "label":[
-                "1024",
-                "33",
-                "a",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-36-f-1-Interp":{
         "node":{
             "tagged_text":null,
@@ -19768,27 +19586,6 @@
         },
         "op":"added"
     },
-    "1024-41-c-2-i-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"41(c)(2)(i) In general.",
-            "text":"",
-            "label":[
-                "1024",
-                "41",
-                "c",
-                "2",
-                "i",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-41-c-2-i-Interp-1",
-                "1024-41-c-2-i-Interp-2"
-            ]
-        },
-        "op":"added"
-    },
     "1024-38-c-1-Interp":{
         "node":{
             "tagged_text":null,
@@ -19924,24 +19721,6 @@
         },
         "op":"added"
     },
-    "1024-36-b-Interp-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The written notice designating the specific address, required pursuant to \u00a7 1024.35(c) and \u00a7 1024.36(b).",
-            "label":[
-                "1024",
-                "36",
-                "b",
-                "Interp",
-                "2",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-36-a-Interp-2-i":{
         "node":{
             "tagged_text":null,
@@ -19995,26 +19774,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1024-41-c-2-ii-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"41(c)(2)(ii) Reasonable time.",
-            "text":"",
-            "label":[
-                "1024",
-                "41",
-                "c",
-                "2",
-                "ii",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-41-c-2-ii-Interp-1"
-            ]
-        },
-        "op":"added"
     },
     "1024-37-d-2-i-D":{
         "node":{

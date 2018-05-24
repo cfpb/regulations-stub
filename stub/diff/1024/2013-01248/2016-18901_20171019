@@ -209,19 +209,45 @@
             [
                 [
                     "delete",
-                    18,
-                    36
+                    0,
+                    10
                 ],
                 [
                     "insert",
-                    18,
-                    "1024.39.A"
+                    0,
+                    "A transferee servicer's compliance"
                 ]
             ],
             [
+                [
+                    "delete",
+                    16,
+                    82
+                ],
+                [
+                    "insert",
+                    16,
+                    "\u00a7\u20091024.39"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    227,
+                    243
+                ],
+                [
+                    "insert",
+                    227,
+                    "\u00a7\u20091024.33(c)(1)."
+                ]
+            ]
+        ],
+        "title":[
+            [
                 "insert",
-                75,
-                "\u00a7 "
+                0,
+                "Compliance with \u00a7\u20091024.39."
             ]
         ],
         "op":"modified"
@@ -245,6 +271,29 @@
                 "1024-41-k-1-i-Interp-2",
                 "1024-41-k-1-i-Interp-3"
             ]
+        },
+        "op":"added"
+    },
+    "1024-33-c-1-Interp-1":{
+        "op":"deleted"
+    },
+    "1024-41-c-2-iv-Interp-1-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The servicer notifies the borrower in the \u00a7\u20091024.41(b)(2)(i)(B) notice that the servicer has determined the application is incomplete and identifies information and documentation necessary to complete the application, and the borrower provides all the documents and information that were listed as missing in that notice within a reasonable time. The borrower would have a reasonable expectation that the application was complete as of the date the borrower submitted all the documents and information that were listed as missing.",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iv",
+                "Interp",
+                "1",
+                "ii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -398,6 +447,18 @@
             [
                 [
                     "delete",
+                    4,
+                    35
+                ],
+                [
+                    "insert",
+                    4,
+                    "A"
+                ]
+            ],
+            [
+                [
+                    "delete",
                     167,
                     245
                 ],
@@ -406,6 +467,13 @@
                     167,
                     "unless:"
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Pre-foreclosure review period."
             ]
         ],
         "op":"modified"
@@ -611,28 +679,10 @@
         },
         "op":"added"
     },
-    "1024-41-f-Interp-1-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Where foreclosure procedure does not require an action or court proceeding, such as under a power of sale, a document is considered the first notice or filing if it is the earliest document required to be recorded or published to initiate the foreclosure process.",
-            "label":[
-                "1024",
-                "41",
-                "f",
-                "Interp",
-                "1",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-41-c-2-iii-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"41(c)(2)(iii) Payment forbearance.",
+            "title":"41(c)(2)(iii)\u2003Payment forbearance.",
             "text":"",
             "label":[
                 "1024",
@@ -657,9 +707,16 @@
     "1024-41-c-1-ii":{
         "text":[
             [
-                "insert",
-                216,
-                " The servicer shall include in this notice the amount of time the borrower has to accept or reject an offer of a loss mitigation program as provided for in paragraph (e) of this section, if applicable, and a notification, if applicable, that the borrower has the right to appeal the denial of any loan modification option as well as the amount of time the borrower has to file such an appeal and any requirements for making an appeal, as provided for in paragraph (h) of this section."
+                [
+                    "delete",
+                    202,
+                    216
+                ],
+                [
+                    "insert",
+                    202,
+                    "mortgage. The servicer shall include in this notice the amount of time the borrower has to accept or reject an offer of a loss mitigation program as provided for in paragraph (e) of this section, if applicable, and a notification, if applicable, that the borrower has the right to appeal the denial of any loan modification option as well as the amount of time the borrower has to file such an appeal and any requirements for making an appeal as provided for in paragraph (h) of this section."
+                ]
             ]
         ],
         "op":"modified"
@@ -735,6 +792,60 @@
                 "3",
                 "ii",
                 "B"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-c-2-iii-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(A) The servicer has received an incomplete loss mitigation application, and on the basis of that application the servicer is offering a payment forbearance program;",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iii",
+                "A"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-c-2-iii-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(B) Absent further action by the borrower, the servicer will not review the incomplete application for other loss mitigation options; and",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iii",
+                "B"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-c-2-iii-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(C) If the borrower would like to be considered for other loss mitigation options, the borrower must notify the servicer and submit the missing documents and information required to complete the loss mitigation application.",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iii",
+                "C"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -901,41 +1012,66 @@
     "1024-36-b-Interp-2":{
         "text":[
             [
-                "delete",
-                165,
-                168
+                [
+                    "delete",
+                    0,
+                    6
+                ],
+                [
+                    "insert",
+                    0,
+                    "A notice establishing an address that a borrower must use to request information may be included with a different disclosure, such as on a notice"
+                ]
+            ],
+            [
+                "insert",
+                10,
+                "transfer, periodic statement, or coupon book. The notice is subject to the clear and conspicuous requirement in \u00a7\u20091024.32(a)(1). If a servicer establishes "
             ],
             [
                 [
                     "delete",
-                    180,
-                    225
+                    13,
+                    52
                 ],
                 [
                     "insert",
-                    180,
-                    "transfer."
+                    13,
+                    "address that a borrower must use to request information, a servicer must provide that address to the borrower in any communication in which the servicer provides the borrower with"
                 ]
-            ],
-            [
-                "delete",
-                451,
-                478
             ],
             [
                 [
                     "delete",
-                    482,
-                    571
+                    64,
+                    250
                 ],
                 [
                     "insert",
-                    482,
-                    "following contexts:"
+                    64,
+                    "for assistance from"
                 ]
+            ],
+            [
+                "delete",
+                255,
+                562
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Notice of an exclusive address."
             ]
         ],
         "op":"modified"
+    },
+    "1024-36-b-Interp-3":{
+        "op":"deleted"
+    },
+    "1024-36-b-Interp-1":{
+        "op":"deleted"
     },
     "1024-C-h2-h5-p21":{
         "text":[
@@ -977,6 +1113,9 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-36-b-Interp-4":{
+        "op":"deleted"
     },
     "1024-41-k-2-Interp":{
         "node":{
@@ -1404,22 +1543,41 @@
         },
         "op":"added"
     },
-    "1024-41-f-1-iii":{
+    "1024-41-c-3-i-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(iii) The servicer is joining the foreclosure action of a superior or subordinate lienholder.",
+            "title":"First notice or filing.",
+            "text":"Section 1024.41(c)(3)(i)(D)(1) and (2) sets forth different requirements depending on whether the servicer has made the first notice or filing under applicable law for any judicial or non-judicial foreclosure process at the time the borrower submits a complete loss mitigation application. See comment 41(f)-1 for a description of whether a document is considered the first notice or filing under applicable law.",
             "label":[
                 "1024",
                 "41",
-                "f",
-                "1",
-                "iii"
+                "c",
+                "3",
+                "i",
+                "Interp",
+                "2"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1024-41-f-Interp":{
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    17
+                ],
+                [
+                    "insert",
+                    0,
+                    "41(f)\u2003Prohibition"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1024-5-Interp":{
         "node":{
@@ -1590,6 +1748,18 @@
             [
                 [
                     "delete",
+                    5,
+                    31
+                ],
+                [
+                    "insert",
+                    5,
+                    "The"
+                ]
+            ],
+            [
+                [
+                    "delete",
                     104,
                     114
                 ],
@@ -1610,6 +1780,13 @@
                     222,
                     "complete."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Time period disclosure."
             ]
         ],
         "op":"modified"
@@ -1661,6 +1838,12 @@
         "op":"deleted"
     },
     "1024-13-b-1":{
+        "op":"deleted"
+    },
+    "1024-41-c-2-i-Interp-2":{
+        "op":"deleted"
+    },
+    "1024-41-c-2-i-Interp-1":{
         "op":"deleted"
     },
     "1024-9-a-5":{
@@ -1959,7 +2142,11 @@
                 "iii"
             ],
             "node_type":"regtext",
-            "child_labels":[]
+            "child_labels":[
+                "1024-41-c-2-iii-A",
+                "1024-41-c-2-iii-B",
+                "1024-41-c-2-iii-C"
+            ]
         },
         "op":"added"
     },
@@ -2514,6 +2701,23 @@
         },
         "op":"added"
     },
+    "1024-36-b-Interp":{
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    13
+                ],
+                [
+                    "insert",
+                    0,
+                    "36(b)\u2003Contact"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
     "1024-41-k-1-ii-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -2824,29 +3028,11 @@
         },
         "op":"added"
     },
-    "1024-41-f-Interp-1-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Where foreclosure procedure does not require any court filing or proceeding, and also does not require any document to be recorded or published, a document is considered the first notice or filing if it is the earliest document that establishes, sets, or schedules a date for the foreclosure sale.",
-            "label":[
-                "1024",
-                "41",
-                "f",
-                "Interp",
-                "1",
-                "iii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-41-c-2-iv-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Borrower fails to complete the application.If the borrower fails to complete the application within the timeframe provided under \u00a7 1024.41(c)(2)(iv), the application shall be considered incomplete.",
+            "title":"Reasonable opportunity.",
+            "text":"Section 1024.41(c)(2)(iv) requires a servicer to treat as complete an application that the servicer has created a reasonable expectation is complete until a borrower has been given a reasonable opportunity to complete the loss mitigation application. A reasonable opportunity requires the servicer to notify the borrower of what information and documentation is missing, and afford the borrower sufficient time to gather the information and/or documentation necessary to complete the application and submit it to the servicer. The amount of time that is sufficient for this purpose will depend on the facts and circumstances.",
             "label":[
                 "1024",
                 "41",
@@ -2897,6 +3083,9 @@
     "1024-41-f-1-Interp-1":{
         "op":"deleted"
     },
+    "1024-41-c-2-ii-Interp":{
+        "op":"deleted"
+    },
     "1024-38-b-1-vi-Interp-3-i":{
         "node":{
             "tagged_text":null,
@@ -2930,24 +3119,6 @@
                 "i"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-36-b-Interp-2-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Any Web site the servicer maintains in connection with the servicing of the loan. ",
-            "label":[
-                "1024",
-                "36",
-                "b",
-                "Interp",
-                "2",
-                "iii"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -3071,24 +3242,6 @@
         },
         "op":"added"
     },
-    "1024-41-f-Interp-1-iv":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A document provided to the borrower but not initially required to be filed, recorded, or published is not considered the first notice or filing on the sole basis that the document must later be included as an attachment accompanying another document that is required to be filed, recorded, or published to carry out a foreclosure.",
-            "label":[
-                "1024",
-                "41",
-                "f",
-                "Interp",
-                "1",
-                "iv"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-32-c-Interp":{
         "node":{
             "tagged_text":null,
@@ -3137,6 +3290,18 @@
             [
                 [
                     "delete",
+                    4,
+                    21
+                ],
+                [
+                    "insert",
+                    4,
+                    "Except"
+                ]
+            ],
+            [
+                [
+                    "delete",
                     38,
                     47
                 ],
@@ -3172,6 +3337,47 @@
                 "delete",
                 189,
                 376
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "In general."
+            ]
+        ],
+        "op":"modified"
+    },
+    "1024-41-c-2-Interp":{
+        "title":[
+            [
+                [
+                    "delete",
+                    0,
+                    19
+                ],
+                [
+                    "insert",
+                    0,
+                    "41(c)(2)\u2003Incomplete"
+                ]
+            ]
+        ],
+        "op":"modified"
+    },
+    "1024-36-f-1-v-B":{
+        "text":[
+            [
+                [
+                    "delete",
+                    22,
+                    47
+                ],
+                [
+                    "insert",
+                    22,
+                    "is discharged."
+                ]
             ]
         ],
         "op":"modified"
@@ -3793,24 +3999,6 @@
     "1024-41-d-1-Interp-1":{
         "op":"deleted"
     },
-    "1024-41-f-Interp-1-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Where foreclosure procedure requires a court action or proceeding, a document is considered the first notice or filing if it is the earliest document required to be filed with a court or other judicial body to commence the action or proceeding (e.g., a complaint, petition, order to docket, or notice of hearing).",
-            "label":[
-                "1024",
-                "41",
-                "f",
-                "Interp",
-                "1",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-41-k-2-ii-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -3870,6 +4058,42 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1024-30-a":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    21
+                ],
+                [
+                    "insert",
+                    4,
+                    "Except"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    147,
+                    157
+                ],
+                [
+                    "insert",
+                    147,
+                    "\u00a7\u20091024.31."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "In general."
+            ]
+        ],
+        "op":"modified"
     },
     "1024-41-k-5-Interp-1":{
         "node":{
@@ -4215,8 +4439,8 @@
     "1024-41-f-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Prohibited activities.Section 1024.41(f) prohibits a servicer from making the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process under certain circumstances. Whether a document is considered the first notice or filing is determined on the basis of foreclosure procedure under the applicable State law.",
+            "title":"Prohibited activities.",
+            "text":"Section 1024.41(f) prohibits a servicer from making the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process under certain circumstances. Whether a document is considered the first notice or filing is determined under applicable State law. Specifically, a document is considered the first notice or filing if it would be used by the servicer as evidence of compliance with foreclosure practices required pursuant to State law, but is not considered the first notice or filing if it is used solely for other purposes. Thus, a servicer is not prohibited from attempting to collect payments, sending periodic statements, sending breach letters, or engaging in any other activity during the pre-foreclosure review period, so long as such documents or activity would not be used as evidence of complying with requirements applicable pursuant to State law in connection with a foreclosure process, and are not banned by other applicable law (e.g., the Fair Debt Collection Practices Act or bankruptcy law).",
             "label":[
                 "1024",
                 "41",
@@ -4225,12 +4449,7 @@
                 "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-41-f-Interp-1-i",
-                "1024-41-f-Interp-1-ii",
-                "1024-41-f-Interp-1-iii",
-                "1024-41-f-Interp-1-iv"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -4253,21 +4472,19 @@
         },
         "op":"added"
     },
-    "1024-41-c-3-i-Interp-2":{
+    "1024-41-f-1-iii":{
         "node":{
             "tagged_text":null,
-            "title":"First notice or filing.",
-            "text":"Section 1024.41(c)(3)(i)(D)(1) and (2) sets forth different requirements depending on whether the servicer has made the first notice or filing under applicable law for any judicial or non-judicial foreclosure process at the time the borrower submits a complete loss mitigation application. See comment 41(f)-1 for a description of whether a document is considered the first notice or filing under applicable law.",
+            "title":null,
+            "text":"(iii) The servicer is joining the foreclosure action of a superior or subordinate lienholder.",
             "label":[
                 "1024",
                 "41",
-                "c",
-                "3",
-                "i",
-                "Interp",
-                "2"
+                "f",
+                "1",
+                "iii"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -4419,8 +4636,8 @@
     "1024-41-c-2-iv-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Reasonable opportunity.Section 1024.41(c)(2)(iv) requires a servicer to treat a facially complete application as complete for the purposes of paragraphs (f)(2) and (g) until the borrower has been given a reasonable opportunity to complete the application. A reasonable opportunity requires the servicer to notify the borrower of what additional information or corrected documents are required, and to afford the borrower sufficient time to gather the information and documentation necessary to complete the application and submit it to the servicer. The amount of time that is sufficient for this purpose will depend on the facts and circumstances.",
+            "title":"Reasonable expectation.",
+            "text":"A servicer creates a reasonable expectation that a loss mitigation application is complete when:",
             "label":[
                 "1024",
                 "41",
@@ -4431,7 +4648,11 @@
                 "1"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1024-41-c-2-iv-Interp-1-i",
+                "1024-41-c-2-iv-Interp-1-ii",
+                "1024-41-c-2-iv-Interp-1-iii"
+            ]
         },
         "op":"added"
     },
@@ -4523,6 +4744,26 @@
                 "1",
                 "Interp",
                 "5"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-c-2-iv-Interp-1-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iv",
+                "Interp",
+                "1",
+                "iii"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -5312,6 +5553,26 @@
         },
         "op":"added"
     },
+    "1024-41-c-2-iv-Interp-1-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The servicer notifies the borrower in the \u00a7\u20091024.41(b)(2)(i)(B) notice that the servicer has determined the application is complete. The borrower would have a reasonable expectation upon receipt of the notice that the application was complete as of the date the application was submitted.",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iv",
+                "Interp",
+                "1",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-C-h2-h3-p8-p16":{
         "op":"deleted"
     },
@@ -5602,7 +5863,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(ii) The foreclosure is based on a borrower\u2019s violation of a due-on-sale clause; or",
+            "text":"(ii) The foreclosure is based on a borrower's violation of a due-on-sale clause; or",
             "label":[
                 "1024",
                 "41",
@@ -5632,24 +5893,6 @@
         },
         "op":"added"
     },
-    "1024-36-b-Interp-2-iv":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Any notice required pursuant to \u00a7\u00a7 1024.39 or .41 that includes contact information for assistance.",
-            "label":[
-                "1024",
-                "36",
-                "b",
-                "Interp",
-                "2",
-                "iv"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-MS-3(A)-p39":{
         "text":[
             [
@@ -5664,24 +5907,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1024-36-b-Interp-2-ii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Any periodic statement or coupon book required pursuant to 12 CFR 1026.41.",
-            "label":[
-                "1024",
-                "36",
-                "b",
-                "Interp",
-                "2",
-                "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1024-36-a-Interp-2-ii-B":{
         "node":{
@@ -5810,6 +6035,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1024-41-c-2-ii-Interp-1":{
+        "op":"deleted"
     },
     "1024-41-d-Interp-3":{
         "node":{
@@ -6176,6 +6404,11 @@
     "1024-39-b-3":{
         "text":[
             [
+                "delete",
+                10,
+                24
+            ],
+            [
                 "insert",
                 140,
                 "this "
@@ -6184,13 +6417,20 @@
                 [
                     "delete",
                     150,
-                    153
+                    170
                 ],
                 [
                     "insert",
                     150,
-                    "(b)"
+                    "(b)."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Model clauses."
             ]
         ],
         "op":"modified"
@@ -6290,14 +6530,33 @@
     "1024-41-h-4":{
         "text":[
             [
+                [
+                    "delete",
+                    4,
+                    31
+                ],
+                [
+                    "insert",
+                    4,
+                    "Within"
+                ]
+            ],
+            [
                 "insert",
                 248,
-                " appeal and, if applicable, how long the borrower has to accept or reject such an offer or a prior offer of a loss mitigation option. A servicer may require that a borrower accept or reject an offer of a loss mitigation option after an appeal no earlier than 14 days after the servicer provides the notice to a borrower. A servicer's determination under this paragraph is not subject to any further"
+                " appeal, and, if applicable, how long the borrower has to accept or reject such an offer or a prior offer of a loss mitigation option, as provided for in this paragraph. A servicer may require that a borrower accept or reject an offer of a loss mitigation option after an appeal no earlier than 14 days after the servicer provides the notice to a borrower. A servicer's determination under this paragraph is not subject to any further"
             ],
             [
                 "delete",
                 256,
                 529
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Appeal determination."
             ]
         ],
         "op":"modified"
@@ -6307,26 +6566,62 @@
             [
                 [
                     "delete",
-                    45,
-                    55
+                    4,
+                    10
                 ],
                 [
                     "insert",
-                    45,
-                    "borrower\u2019s"
+                    4,
+                    "If a borrower's complete loss mitigation application is denied for any trial or permanent loan modification option available to the borrower pursuant to paragraph (c)"
+                ]
+            ],
+            [
+                "insert",
+                14,
+                "this section, a servicer shall state in the notice sent to the borrower pursuant to paragraph (c)(1)(ii) of this section the specific reason or reasons for the servicer's determination for each such trial or permanent "
+            ],
+            [
+                [
+                    "delete",
+                    32,
+                    42
+                ],
+                [
+                    "insert",
+                    32,
+                    "option, and"
                 ]
             ],
             [
                 [
                     "delete",
-                    323,
+                    45,
+                    167
+                ],
+                [
+                    "insert",
+                    45,
+                    "notification that"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    181,
                     331
                 ],
                 [
                     "insert",
-                    323,
-                    "section the specific reason or reasons for the servicer\u2019s determination for each such trial or permanent loan modification option and, if applicable, that the borrower was not evaluated on other criteria."
+                    181,
+                    "was not evaluated on other criteria (if applicable)."
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Denial of loan modification options."
             ]
         ],
         "op":"modified"
@@ -6451,9 +6746,28 @@
     "1024-41-j":{
         "text":[
             [
-                "insert",
-                55,
-                "be subject to the prohibition on foreclosure referral in paragraph (f)(1) of this section. A small servicer shall "
+                [
+                    "delete",
+                    4,
+                    9
+                ],
+                [
+                    "insert",
+                    4,
+                    "A small"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    19,
+                    33
+                ],
+                [
+                    "insert",
+                    19,
+                    "shall be subject to the prohibition on foreclosure referral in paragraph (f)(1) of this section. A"
+                ]
             ],
             [
                 [
@@ -6521,6 +6835,13 @@
                 553
             ]
         ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Small servicer requirements."
+            ]
+        ],
         "op":"modified"
     },
     "1024-41-Interp":{
@@ -6543,8 +6864,8 @@
     "1024-41-c-2-iv-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"41(c)(2)(iv) Facially complete application.",
+            "title":"41(c)(2)(iv)\u2003Servicer creates reasonable expectation that a loss mitigation application is complete.",
+            "text":"",
             "label":[
                 "1024",
                 "41",
@@ -6740,26 +7061,33 @@
             [
                 [
                     "delete",
-                    100,
-                    114
+                    0,
+                    20
                 ],
                 [
                     "insert",
-                    100,
-                    "1024.32(a),"
+                    0,
+                    "Although"
                 ]
             ],
             [
                 [
                     "delete",
-                    117,
+                    98,
                     130
                 ],
                 [
                     "insert",
-                    117,
-                    "1024.33(a)"
+                    98,
+                    "\u00a7\u20091024.32(a), \u00a7\u20091024.33(a)"
                 ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Terminology."
             ]
         ],
         "op":"modified"
@@ -6803,24 +7131,8 @@
         ],
         "op":"modified"
     },
-    "1024-32-c-4-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"32(c)(4) Multiple notices unnecessary.",
-            "text":"",
-            "label":[
-                "1024",
-                "32",
-                "c",
-                "4",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-32-c-4-Interp-1"
-            ]
-        },
-        "op":"added"
+    "1024-33-a-Interp-3":{
+        "op":"deleted"
     },
     "1024-41-k-Interp-1":{
         "node":{
@@ -6943,6 +7255,9 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-41-c-2-i-Interp":{
+        "op":"deleted"
     },
     "1024-41-k-1-ii-Interp":{
         "node":{
@@ -7163,8 +7478,8 @@
     "1024-41-b-3":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(3) Determining Protections.To the extent a determination of whether protections under this section apply to a borrower is made on the basis of the number of days between when a complete loss mitigation application is received and when a foreclosure sale occurs, such determination shall be made as of the date a complete loss mitigation application is received.",
+            "title":"Timelines.",
+            "text":"(3) For purposes of this section, timelines based on the proximity of a foreclosure sale to the receipt of a complete loss mitigation application will be determined as of the date a complete loss mitigation application is received.",
             "label":[
                 "1024",
                 "41",
@@ -7355,6 +7670,25 @@
     "1024-41-b-1-Interp-5":{
         "op":"deleted"
     },
+    "1024-32-c-4-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"32(c)(4) Multiple notices unnecessary.",
+            "text":"",
+            "label":[
+                "1024",
+                "32",
+                "c",
+                "4",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-32-c-4-Interp-1"
+            ]
+        },
+        "op":"added"
+    },
     "1024-39-d-1":{
         "node":{
             "tagged_text":null,
@@ -7436,7 +7770,7 @@
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(i) A borrower\u2019s mortgage loan obligation is more than 120 days delinquent;",
+            "text":"(i) A borrower's mortgage loan obligation is more than 120 days delinquent;",
             "label":[
                 "1024",
                 "41",
@@ -7467,8 +7801,8 @@
     "1024-41-d-Interp-4":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Reasons listed.A servicer is required to disclose the actual reason or reasons for the denial. If a servicer\u2019s systems establish a hierarchy of eligibility criteria and reach the first criterion that causes a denial but do not evaluate the borrower based on additional criteria, a servicer complies with the rule by providing only the reason or reasons with respect to which the borrower was actually evaluated and rejected as well as notification that the borrower was not evaluated on other criteria. A servicer is not required to determine or disclose whether a borrower would have been denied on the basis of additional criteria if such criteria were not actually considered.",
+            "title":"Reasons listed.",
+            "text":"A servicer is required to disclose the actual reason or reasons for the denial. If a servicer's systems establish a hierarchy of eligibility criteria and reach the first criterion that causes a denial but do not evaluate the borrower based on additional criteria, a servicer complies with the rule by providing only the reason or reasons with respect to which the borrower was actually evaluated as well as notification that the borrower was not evaluated on other criteria. A servicer is not required to determine or disclose whether a borrower would have been denied on the basis of additional criteria if such criteria were not actually considered.",
             "label":[
                 "1024",
                 "41",
@@ -7702,6 +8036,9 @@
         },
         "op":"added"
     },
+    "1024-33-a-Interp-2":{
+        "op":"deleted"
+    },
     "1024-39-a-Interp-4-ii":{
         "node":{
             "tagged_text":null,
@@ -7770,24 +8107,6 @@
             "child_labels":[
                 "1024-37-d-5-Interp-1"
             ]
-        },
-        "op":"added"
-    },
-    "1024-36-b-Interp-2-i":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The written notice designating the specific address, required pursuant to \u00a7 1024.35(c) and \u00a7 1024.36(b).",
-            "label":[
-                "1024",
-                "36",
-                "b",
-                "Interp",
-                "2",
-                "i"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
         },
         "op":"added"
     },
