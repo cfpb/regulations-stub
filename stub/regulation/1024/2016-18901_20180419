@@ -5126,78 +5126,6 @@
                 {
                     "children":[
                         {
-                            "children":[
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1024",
-                                        "31",
-                                        "SuccessorInInterest",
-                                        "1"
-                                    ],
-                                    "node_type":"regtext",
-                                    "text":"(1) A transfer by devise, descent, or operation of law on the death of a joint tenant or tenant by the entirety;",
-                                    "marker":"(1)"
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1024",
-                                        "31",
-                                        "SuccessorInInterest",
-                                        "2"
-                                    ],
-                                    "node_type":"regtext",
-                                    "text":"(2) A transfer to a relative resulting from the death of a borrower;",
-                                    "marker":"(2)"
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1024",
-                                        "31",
-                                        "SuccessorInInterest",
-                                        "3"
-                                    ],
-                                    "node_type":"regtext",
-                                    "text":"(3) A transfer where the spouse or children of the borrower become an owner of the property;",
-                                    "marker":"(3)"
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1024",
-                                        "31",
-                                        "SuccessorInInterest",
-                                        "4"
-                                    ],
-                                    "node_type":"regtext",
-                                    "text":"(4) A transfer resulting from a decree of a dissolution of marriage, legal separation agreement, or from an incidental property settlement agreement, by which the spouse of the borrower becomes an owner of the property; or",
-                                    "marker":"(4)"
-                                },
-                                {
-                                    "children":[],
-                                    "label":[
-                                        "1024",
-                                        "31",
-                                        "SuccessorInInterest",
-                                        "5"
-                                    ],
-                                    "node_type":"regtext",
-                                    "text":"(5) A transfer into an inter vivos trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property.",
-                                    "marker":"(5)"
-                                }
-                            ],
-                            "label":[
-                                "1024",
-                                "31",
-                                "SuccessorInInterest"
-                            ],
-                            "node_type":"regtext",
-                            "text":"Successor in interest means a person to whom an ownership interest in a property securing a mortgage loan subject to this subpart is transferred from a borrower, provided that the transfer is:",
-                            "marker":""
-                        },
-                        {
                             "children":[],
                             "label":[
                                 "1024",
@@ -5206,17 +5134,6 @@
                             ],
                             "node_type":"regtext",
                             "text":"Confirmed successor in interest means a successor in interest once a servicer has confirmed the successor in interest's identity and ownership interest in a property that secures a mortgage loan subject to this subpart.",
-                            "marker":""
-                        },
-                        {
-                            "children":[],
-                            "label":[
-                                "1024",
-                                "31",
-                                "Delinquency"
-                            ],
-                            "node_type":"regtext",
-                            "text":"Delinquency means a period of time during which a borrower and a borrower's mortgage loan obligation are delinquent. A borrower and a borrower's mortgage loan obligation are delinquent beginning on the date a periodic payment sufficient to cover principal, interest, and, if applicable, escrow becomes due and unpaid, until such time as no periodic payment is due and unpaid.",
                             "marker":""
                         },
                         {
@@ -5239,6 +5156,17 @@
                             ],
                             "node_type":"regtext",
                             "text":"Day means calendar day.",
+                            "marker":""
+                        },
+                        {
+                            "children":[],
+                            "label":[
+                                "1024",
+                                "31",
+                                "Delinquency"
+                            ],
+                            "node_type":"regtext",
+                            "text":"Delinquency means a period of time during which a borrower and a borrower's mortgage loan obligation are delinquent. A borrower and a borrower's mortgage loan obligation are delinquent beginning on the date a periodic payment sufficient to cover principal, interest, and, if applicable, escrow becomes due and unpaid, until such time as no periodic payment is due and unpaid.",
                             "marker":""
                         },
                         {
@@ -5363,6 +5291,78 @@
                             ],
                             "node_type":"regtext",
                             "text":"Subservicer means a servicer that does not own the right to perform servicing, but that performs servicing on behalf of the master servicer.",
+                            "marker":""
+                        },
+                        {
+                            "children":[
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1024",
+                                        "31",
+                                        "SuccessorInInterest",
+                                        "1"
+                                    ],
+                                    "node_type":"regtext",
+                                    "text":"(1) A transfer by devise, descent, or operation of law on the death of a joint tenant or tenant by the entirety;",
+                                    "marker":"(1)"
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1024",
+                                        "31",
+                                        "SuccessorInInterest",
+                                        "2"
+                                    ],
+                                    "node_type":"regtext",
+                                    "text":"(2) A transfer to a relative resulting from the death of a borrower;",
+                                    "marker":"(2)"
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1024",
+                                        "31",
+                                        "SuccessorInInterest",
+                                        "3"
+                                    ],
+                                    "node_type":"regtext",
+                                    "text":"(3) A transfer where the spouse or children of the borrower become an owner of the property;",
+                                    "marker":"(3)"
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1024",
+                                        "31",
+                                        "SuccessorInInterest",
+                                        "4"
+                                    ],
+                                    "node_type":"regtext",
+                                    "text":"(4) A transfer resulting from a decree of a dissolution of marriage, legal separation agreement, or from an incidental property settlement agreement, by which the spouse of the borrower becomes an owner of the property; or",
+                                    "marker":"(4)"
+                                },
+                                {
+                                    "children":[],
+                                    "label":[
+                                        "1024",
+                                        "31",
+                                        "SuccessorInInterest",
+                                        "5"
+                                    ],
+                                    "node_type":"regtext",
+                                    "text":"(5) A transfer into an inter vivos trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property.",
+                                    "marker":"(5)"
+                                }
+                            ],
+                            "label":[
+                                "1024",
+                                "31",
+                                "SuccessorInInterest"
+                            ],
+                            "node_type":"regtext",
+                            "text":"Successor in interest means a person to whom an ownership interest in a property securing a mortgage loan subject to this subpart is transferred from a borrower, provided that the transfer is:",
                             "marker":""
                         },
                         {
