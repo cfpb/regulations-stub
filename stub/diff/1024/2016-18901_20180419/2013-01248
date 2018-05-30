@@ -879,9 +879,6 @@
     "1024-41-k-Interp":{
         "op":"deleted"
     },
-    "1024-31-Interp-10":{
-        "op":"deleted"
-    },
     "1024-13-b-2":{
         "node":{
             "tagged_text":null,
@@ -990,44 +987,8 @@
     "1024-5-d":{
         "op":"deleted"
     },
-    "1024-5-a":{
-        "text":[
-            [
-                "insert",
-                47,
-                "all "
-            ],
-            [
-                [
-                    "delete",
-                    88,
-                    90
-                ],
-                [
-                    "insert",
-                    88,
-                    "for the exemptions"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    103,
-                    113
-                ],
-                [
-                    "insert",
-                    103,
-                    "paragraph"
-                ]
-            ],
-            [
-                "delete",
-                118,
-                126
-            ]
-        ],
-        "op":"modified"
+    "1024-31-Interp-SuccessorInInterest":{
+        "op":"deleted"
     },
     "1024-5-c":{
         "op":"deleted"
@@ -1815,7 +1776,19 @@
     "1024-41-b-2-ii-Interp-2-iii":{
         "op":"deleted"
     },
+    "1024-31-Interp-Delinquency-4":{
+        "op":"deleted"
+    },
     "1024-39-a-Interp-4-i":{
+        "op":"deleted"
+    },
+    "1024-31-Interp-Delinquency-1":{
+        "op":"deleted"
+    },
+    "1024-31-Interp-Delinquency-2":{
+        "op":"deleted"
+    },
+    "1024-31-Interp-Delinquency-3":{
         "op":"deleted"
     },
     "1024-MS-3(C)-p67":{
@@ -1946,17 +1919,23 @@
         ],
         "op":"modified"
     },
-    "1024-31-Interp-9-4":{
-        "op":"deleted"
-    },
-    "1024-31-Interp-9-2":{
-        "op":"deleted"
-    },
-    "1024-31-Interp-9-3":{
-        "op":"deleted"
-    },
-    "1024-31-Interp-9-1":{
-        "op":"deleted"
+    "1024-C-h2-h3-p8-p11":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"The loan originator must indicate whether the loan balance can rise even if the borrower makes payments on time, for example in the case of a loan with negative amortization. If it can, the loan originator must insert the maximum amount to which the loan balance can rise over the life of the loan. For Federal, state, local, or tribal housing programs that provide payment assistance, any repayment of such program assistance should be excluded from consideration in completing this item. If the loan balance will increase only because escrow items are being paid through the loan balance, the loan originator is not required to check the box indicating that the loan balance can rise.",
+            "label":[
+                "1024",
+                "C",
+                "h2",
+                "h3",
+                "p8",
+                "p11"
+            ],
+            "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-A-h2-p43":{
         "text":[
@@ -2180,6 +2159,45 @@
         },
         "op":"added"
     },
+    "1024-5-a":{
+        "text":[
+            [
+                "insert",
+                47,
+                "all "
+            ],
+            [
+                [
+                    "delete",
+                    88,
+                    90
+                ],
+                [
+                    "insert",
+                    88,
+                    "for the exemptions"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    103,
+                    113
+                ],
+                [
+                    "insert",
+                    103,
+                    "paragraph"
+                ]
+            ],
+            [
+                "delete",
+                118,
+                126
+            ]
+        ],
+        "op":"modified"
+    },
     "1024-41-k-2-ii-Interp-1":{
         "op":"deleted"
     },
@@ -2309,6 +2327,9 @@
         "op":"deleted"
     },
     "1024-5-c-Interp":{
+        "op":"deleted"
+    },
+    "1024-31-Interp-Delinquency":{
         "op":"deleted"
     },
     "1024-30-c-2-Interp":{
@@ -2870,17 +2891,21 @@
     "1024-32-c-1-iii":{
         "op":"deleted"
     },
-    "1024-13-a":{
+    "1024-39-a-Interp-3-i-A":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"(a) State laws that are inconsistent with RESPA or this part are preempted to the extent of the inconsistency. However, RESPA and these regulations do not annul, alter, affect, or exempt any person subject to their provisions from complying with the laws of any state with respect to settlement practices, except to the extent of the inconsistency.",
+            "text":"A servicer provides information about the availability of loss mitigation options to a borrower who notifies a servicer during live contact of a material adverse change in the borrower's financial circumstances that is likely to cause the borrower to experience a long-term delinquency for which loss mitigation options may be available.",
             "label":[
                 "1024",
-                "13",
-                "a"
+                "39",
+                "a",
+                "Interp",
+                "3",
+                "i",
+                "A"
             ],
-            "node_type":"regtext",
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -2955,9 +2980,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1024-31-Interp-9":{
-        "op":"deleted"
     },
     "1024-39-c-1-Interp-1":{
         "op":"deleted"
@@ -3228,21 +3250,17 @@
     "1024-36-i-Interp-1":{
         "op":"deleted"
     },
-    "1024-39-a-Interp-3-i-A":{
+    "1024-13-a":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"A servicer provides information about the availability of loss mitigation options to a borrower who notifies a servicer during live contact of a material adverse change in the borrower's financial circumstances that is likely to cause the borrower to experience a long-term delinquency for which loss mitigation options may be available.",
+            "text":"(a) State laws that are inconsistent with RESPA or this part are preempted to the extent of the inconsistency. However, RESPA and these regulations do not annul, alter, affect, or exempt any person subject to their provisions from complying with the laws of any state with respect to settlement practices, except to the extent of the inconsistency.",
             "label":[
                 "1024",
-                "39",
-                "a",
-                "Interp",
-                "3",
-                "i",
-                "A"
+                "13",
+                "a"
             ],
-            "node_type":"interp",
+            "node_type":"regtext",
             "child_labels":[]
         },
         "op":"added"
@@ -3613,23 +3631,11 @@
         ],
         "op":"modified"
     },
-    "1024-C-h2-h3-p8-p11":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"The loan originator must indicate whether the loan balance can rise even if the borrower makes payments on time, for example in the case of a loan with negative amortization. If it can, the loan originator must insert the maximum amount to which the loan balance can rise over the life of the loan. For Federal, state, local, or tribal housing programs that provide payment assistance, any repayment of such program assistance should be excluded from consideration in completing this item. If the loan balance will increase only because escrow items are being paid through the loan balance, the loan originator is not required to check the box indicating that the loan balance can rise.",
-            "label":[
-                "1024",
-                "C",
-                "h2",
-                "h3",
-                "p8",
-                "p11"
-            ],
-            "node_type":"appendix",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1024-31-Interp-SuccessorInInterest-1":{
+        "op":"deleted"
+    },
+    "1024-31-Interp-SuccessorInInterest-2":{
+        "op":"deleted"
     },
     "1024-41-b-2-ii-Interp-2":{
         "op":"deleted"
@@ -4107,12 +4113,6 @@
         "op":"deleted"
     },
     "1024-31-ConfirmedSuccessorInInterest":{
-        "op":"deleted"
-    },
-    "1024-31-Interp-10-1":{
-        "op":"deleted"
-    },
-    "1024-31-Interp-10-2":{
         "op":"deleted"
     },
     "1024-5-c-2":{

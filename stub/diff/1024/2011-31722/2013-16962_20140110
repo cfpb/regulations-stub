@@ -408,24 +408,6 @@
     "1024-21-d-3-vi":{
         "op":"deleted"
     },
-    "1024-31-Interp-None":{
-        "node":{
-            "tagged_text":null,
-            "title":"Loss mitigation application.",
-            "text":"",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "None"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-31-Interp-None-1"
-            ]
-        },
-        "op":"added"
-    },
     "1024-38-b-3-i":{
         "node":{
             "tagged_text":null,
@@ -1765,6 +1747,23 @@
         },
         "op":"added"
     },
+    "1024-31-Interp-LossMitigationOption-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Types of loss mitigation options.Loss mitigation options include temporary and long-term relief, including options that allow borrowers who are behind on their mortgage payments to remain in their homes or to leave their homes without a foreclosure, such as, without limitation, refinancing, trial or permanent modification, repayment of the amount owed over an extended period of time, forbearance of future payments, short-sale, deed-in-lieu of foreclosure, and loss mitigation programs sponsored by a locality, a State, or the Federal government.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "LossMitigationOption",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-35-e-3-i":{
         "node":{
             "tagged_text":null,
@@ -1935,6 +1934,23 @@
                 "p7"
             ],
             "node_type":"appendix",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-LossMitigationApplication-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Borrower's representative.A loss mitigation application is deemed to be submitted by a borrower if the loss mitigation application is submitted by an agent of the borrower. Servicers may undertake reasonable procedures to determine if a person that claims to be an agent of a borrower has authority from the borrower to act on the borrower's behalf.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "LossMitigationApplication",
+                "1"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -2942,6 +2958,24 @@
         },
         "op":"added"
     },
+    "1024-31-Interp-LossMitigationApplication":{
+        "node":{
+            "tagged_text":null,
+            "title":"Loss mitigation application.",
+            "text":"",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "LossMitigationApplication"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-31-Interp-LossMitigationApplication-1"
+            ]
+        },
+        "op":"added"
+    },
     "1024-41-d-Interp":{
         "node":{
             "tagged_text":null,
@@ -3702,6 +3736,24 @@
     },
     "1024-17-l-4":{
         "op":"deleted"
+    },
+    "1024-41-b-1-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"When an inquiry or prequalification request becomes an application.A servicer is encouraged to provide borrowers with information about loss mitigation programs. If in giving information to the borrower, the borrower expresses an interest in applying for a loss mitigation option and provides information the servicer would evaluate in connection with a loss mitigation application, the borrower's inquiry or prequalification request has become a loss mitigation application. A loss mitigation application is considered expansively and includes any \u201cprequalification\u201d for a loss mitigation option. For example, if a borrower requests that a servicer determine if the borrower is \u201cprequalified\u201d for a loss mitigation program by evaluating the borrower against preliminary criteria to determine eligibility for a loss mitigation option, the request constitutes a loss mitigation application.",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "1",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-17-l-1":{
         "op":"deleted"
@@ -4929,6 +4981,25 @@
         },
         "op":"added"
     },
+    "1024-31-Interp-LossMitigationOption":{
+        "node":{
+            "tagged_text":null,
+            "title":"Loss mitigation option.",
+            "text":"",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "LossMitigationOption"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-31-Interp-LossMitigationOption-1",
+                "1024-31-Interp-LossMitigationOption-2"
+            ]
+        },
+        "op":"added"
+    },
     "1024-38-a":{
         "node":{
             "tagged_text":null,
@@ -5243,23 +5314,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1024-31-Interp-2-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Types of loss mitigation options.Loss mitigation options include temporary and long-term relief, including options that allow borrowers who are behind on their mortgage payments to remain in their homes or to leave their homes without a foreclosure, such as, without limitation, refinancing, trial or permanent modification, repayment of the amount owed over an extended period of time, forbearance of future payments, short-sale, deed-in-lieu of foreclosure, and loss mitigation programs sponsored by a locality, a State, or the Federal government.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "2",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1024-MS-4(B)-p91":{
         "node":{
@@ -5759,6 +5813,23 @@
         },
         "op":"added"
     },
+    "1024-31-Interp-LossMitigationOption-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Available through the servicer.A loss mitigation option available through the servicer refers to an option for which a borrower may apply, even if the borrower ultimately does not qualify for such option.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "LossMitigationOption",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-35-g-1-ii-Interp-1-iii":{
         "node":{
             "tagged_text":null,
@@ -5850,25 +5921,6 @@
             "child_labels":[
                 "1024-36-f-1-i-Interp-1"
             ]
-        },
-        "op":"added"
-    },
-    "1024-41-d-1-Interp-2-p1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(c)(1)(4) Other notices.A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002 et seq.) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to \u00a7 1024.41(d), unless otherwise prohibited by applicable law.",
-            "label":[
-                "1024",
-                "41",
-                "d",
-                "1",
-                "Interp",
-                "2",
-                "p1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -6073,6 +6125,23 @@
     "1024-MS1-h1-h2-p9":{
         "op":"deleted"
     },
+    "1024-31-Interp-ServiceProvider-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Service providers may include attorneys retained to represent a servicer or an owner or assignee of a mortgage loan in a foreclosure proceeding, as well as other professionals retained to provide appraisals or inspections of properties.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "ServiceProvider",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-39-a-Interp-1":{
         "node":{
             "tagged_text":null,
@@ -6261,6 +6330,25 @@
         },
         "op":"added"
     },
+    "1024-31-Interp-QualifiedWrittenRequest":{
+        "node":{
+            "tagged_text":null,
+            "title":"Qualified written request.",
+            "text":"",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "QualifiedWrittenRequest"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-31-Interp-QualifiedWrittenRequest-1",
+                "1024-31-Interp-QualifiedWrittenRequest-2"
+            ]
+        },
+        "op":"added"
+    },
     "1024-41-b-2-i-A":{
         "node":{
             "tagged_text":null,
@@ -6350,40 +6438,6 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-5-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A qualified written request is just one form that a written notice of error or information request may take. Thus, the error resolution and information request requirements in \u00a7\u00a7 1024.35 and 1024.36 apply as set forth in those sections irrespective of whether the servicer receives a qualified written request.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "5",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-31-Interp-5-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A qualified written request is a written notice a borrower provides to request a servicer either correct an error relating to the servicing of a mortgage loan or to request information relating to the servicing of the mortgage loan. A qualified written request is not required to include both types of requests. For example, a qualified written request may request information relating to the servicing of a mortgage loan but not assert that an error relating to the servicing of a loan has occurred.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "5",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-41-d-1-Interp":{
         "node":{
             "tagged_text":null,
@@ -6439,6 +6493,40 @@
                 "ii"
             ],
             "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-QualifiedWrittenRequest-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A qualified written request is just one form that a written notice of error or information request may take. Thus, the error resolution and information request requirements in \u00a7\u00a7 1024.35 and 1024.36 apply as set forth in those sections irrespective of whether the servicer receives a qualified written request.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "QualifiedWrittenRequest",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-QualifiedWrittenRequest-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A qualified written request is a written notice a borrower provides to request a servicer either correct an error relating to the servicing of a mortgage loan or to request information relating to the servicing of the mortgage loan. A qualified written request is not required to include both types of requests. For example, a qualified written request may request information relating to the servicing of a mortgage loan but not assert that an error relating to the servicing of a loan has occurred.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "QualifiedWrittenRequest",
+                "1"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -8167,10 +8255,10 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-31-Interp-None",
-                "1024-31-Interp-2",
-                "1024-31-Interp-5",
-                "1024-31-Interp-8"
+                "1024-31-Interp-LossMitigationApplication",
+                "1024-31-Interp-LossMitigationOption",
+                "1024-31-Interp-QualifiedWrittenRequest",
+                "1024-31-Interp-ServiceProvider"
             ]
         },
         "op":"added"
@@ -8187,23 +8275,6 @@
                 "Interp",
                 "1",
                 "ii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-31-Interp-8-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Service providers may include attorneys retained to represent a servicer or an owner or assignee of a mortgage loan in a foreclosure proceeding, as well as other professionals retained to provide appraisals or inspections of properties.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "8",
-                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -9558,25 +9629,6 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Loss mitigation option.",
-            "text":"",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-31-Interp-2-1",
-                "1024-31-Interp-2-2"
-            ]
-        },
-        "op":"added"
-    },
     "1024-31-Subservicer":{
         "node":{
             "tagged_text":null,
@@ -9592,22 +9644,22 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-5":{
+    "1024-41-d-1-Interp-2-p1":{
         "node":{
             "tagged_text":null,
-            "title":"Qualified written request.",
-            "text":"",
+            "title":null,
+            "text":"(c)(1)(4) Other notices.A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002 et seq.) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to \u00a7 1024.41(d), unless otherwise prohibited by applicable law.",
             "label":[
                 "1024",
-                "31",
+                "41",
+                "d",
+                "1",
                 "Interp",
-                "5"
+                "2",
+                "p1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-31-Interp-5-1",
-                "1024-31-Interp-5-2"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -9627,24 +9679,6 @@
             ],
             "node_type":"interp",
             "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-31-Interp-8":{
-        "node":{
-            "tagged_text":null,
-            "title":"Service provider.",
-            "text":"",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "8"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-31-Interp-8-1"
-            ]
         },
         "op":"added"
     },
@@ -10061,21 +10095,21 @@
         },
         "op":"added"
     },
-    "1024-41-b-1-Interp-2":{
+    "1024-31-Interp-ServiceProvider":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"When an inquiry or prequalification request becomes an application.A servicer is encouraged to provide borrowers with information about loss mitigation programs. If in giving information to the borrower, the borrower expresses an interest in applying for a loss mitigation option and provides information the servicer would evaluate in connection with a loss mitigation application, the borrower's inquiry or prequalification request has become a loss mitigation application. A loss mitigation application is considered expansively and includes any \u201cprequalification\u201d for a loss mitigation option. For example, if a borrower requests that a servicer determine if the borrower is \u201cprequalified\u201d for a loss mitigation program by evaluating the borrower against preliminary criteria to determine eligibility for a loss mitigation option, the request constitutes a loss mitigation application.",
+            "title":"Service provider.",
+            "text":"",
             "label":[
                 "1024",
-                "41",
-                "b",
-                "1",
+                "31",
                 "Interp",
-                "2"
+                "ServiceProvider"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1024-31-Interp-ServiceProvider-1"
+            ]
         },
         "op":"added"
     },
@@ -14403,23 +14437,6 @@
     "1024-21-f-1-i":{
         "op":"deleted"
     },
-    "1024-31-Interp-None-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Borrower's representative.A loss mitigation application is deemed to be submitted by a borrower if the loss mitigation application is submitted by an agent of the borrower. Servicers may undertake reasonable procedures to determine if a person that claims to be an agent of a borrower has authority from the borrower to act on the borrower's behalf.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "None",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-Interp-h1":{
         "node":{
             "tagged_text":null,
@@ -14950,23 +14967,6 @@
     },
     "1024-21-d-1-i":{
         "op":"deleted"
-    },
-    "1024-31-Interp-2-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Available through the servicer.A loss mitigation option available through the servicer refers to an option for which a borrower may apply, even if the borrower ultimately does not qualify for such option.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "2",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1024-4-a-1-i":{
         "text":[

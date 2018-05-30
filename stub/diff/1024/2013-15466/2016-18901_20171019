@@ -445,6 +445,26 @@
         },
         "op":"added"
     },
+    "1024-41-b-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Successors in interest.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-b-Interp-1-i",
+                "1024-41-b-Interp-1-ii"
+            ]
+        },
+        "op":"added"
+    },
     "1024-39-a-Interp-1-i-A":{
         "node":{
             "tagged_text":null,
@@ -1841,23 +1861,6 @@
         ],
         "op":"modified"
     },
-    "1024-31-Interp-10-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Joint tenants and tenants by the entirety.",
-            "text":"If a borrower who has an ownership interest as a joint tenant or tenant by the entirety in a property securing a mortgage loan subject to this subpart dies, a surviving joint tenant or tenant by the entirety with a right of survivorship in the property is a successor in interest as defined in \u00a7\u20091024.31.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "10",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-41-c-2-iii-Interp-1-iii":{
         "op":"deleted"
     },
@@ -2336,6 +2339,27 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-Delinquency":{
+        "node":{
+            "tagged_text":null,
+            "title":"Delinquency.",
+            "text":"",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "Delinquency"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-31-Interp-Delinquency-1",
+                "1024-31-Interp-Delinquency-2",
+                "1024-31-Interp-Delinquency-3",
+                "1024-31-Interp-Delinquency-4"
+            ]
         },
         "op":"added"
     },
@@ -3312,24 +3336,39 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-9":{
+    "1024-41-k-2-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"Delinquency.",
+            "title":"41(k)(2) Acknowledgment notices.",
             "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "2",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-2-ii-Interp"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-SuccessorInInterest-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Joint tenants and tenants by the entirety.",
+            "text":"If a borrower who has an ownership interest as a joint tenant or tenant by the entirety in a property securing a mortgage loan subject to this subpart dies, a surviving joint tenant or tenant by the entirety with a right of survivorship in the property is a successor in interest as defined in \u00a7\u20091024.31.",
             "label":[
                 "1024",
                 "31",
                 "Interp",
-                "9"
+                "SuccessorInInterest",
+                "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-31-Interp-9-1",
-                "1024-31-Interp-9-2",
-                "1024-31-Interp-9-3",
-                "1024-31-Interp-9-4"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -3363,23 +3402,6 @@
                 "5",
                 "Interp",
                 "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-31-Interp-10-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Beneficiaries of inter vivos trusts.",
-            "text":"In the event of a transfer into an inter vivos trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property, the beneficiaries of the inter vivos trust rather than the inter vivos trust itself are considered to be the successors in interest for purposes of \u00a7\u20091024.31. For example, assume Borrower A transfers her home into such an inter vivos trust for the benefit of her spouse and herself. As of the transfer date, Borrower A and her spouse would be considered successors in interest and, upon confirmation, would be borrowers for purposes of certain provisions of Regulation X. If the lender has not released Borrower A from the loan obligation, Borrower A would also remain a borrower more generally for purposes of Regulation X.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "10",
-                "2"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -3498,6 +3520,23 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-31-Interp-SuccessorInInterest-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Beneficiaries of inter vivos trusts.",
+            "text":"In the event of a transfer into an inter vivos trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property, the beneficiaries of the inter vivos trust rather than the inter vivos trust itself are considered to be the successors in interest for purposes of \u00a7\u20091024.31. For example, assume Borrower A transfers her home into such an inter vivos trust for the benefit of her spouse and herself. As of the transfer date, Borrower A and her spouse would be considered successors in interest and, upon confirmation, would be borrowers for purposes of certain provisions of Regulation X. If the lender has not released Borrower A from the loan obligation, Borrower A would also remain a borrower more generally for purposes of Regulation X.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "SuccessorInInterest",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-39-b-1-Interp-2-i":{
         "node":{
@@ -3635,6 +3674,25 @@
     "1024-C-h2-h3-p8-p10":{
         "op":"deleted"
     },
+    "1024-31-Interp-SuccessorInInterest":{
+        "node":{
+            "tagged_text":null,
+            "title":"Successor in interest.",
+            "text":"",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "SuccessorInInterest"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-31-Interp-SuccessorInInterest-1",
+                "1024-31-Interp-SuccessorInInterest-2"
+            ]
+        },
+        "op":"added"
+    },
     "1024-30-d-Interp-2":{
         "node":{
             "tagged_text":null,
@@ -3690,25 +3748,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1024-41-k-2-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"41(k)(2) Acknowledgment notices.",
-            "text":"",
-            "label":[
-                "1024",
-                "41",
-                "k",
-                "2",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-41-k-2-ii-Interp"
-            ]
-        },
-        "op":"added"
     },
     "1024-32-c-1-Interp-1":{
         "node":{
@@ -4823,6 +4862,26 @@
         ],
         "op":"modified"
     },
+    "1024-41-k-2-ii-Interp-1-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"If the transferor servicer receives the borrower's initial loss mitigation application when the borrower's mortgage loan is 101 days delinquent, the borrower's mortgage loan would be 123 days delinquent on October 23, the date the transferee servicer provides the notice required by \u00a7\u20091024.41(b)(2)(i)(B). Pursuant to \u00a7\u20091024.41(k)(2)(ii)(A), the transferee servicer cannot make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process until after November 22, the reasonable date disclosed under \u00a7\u20091024.41(b)(2)(ii), and then only if the borrower has not submitted a complete application by that date.",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "2",
+                "ii",
+                "Interp",
+                "1",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-MS-3(B)":{
         "title":[
             [
@@ -4840,23 +4899,20 @@
         ],
         "op":"modified"
     },
-    "1024-41-b-Interp-1":{
+    "1024-31-Interp-Delinquency-4":{
         "node":{
             "tagged_text":null,
-            "title":"Successors in interest.",
-            "text":"",
+            "title":"Creditor's contract rights.",
+            "text":"This subpart does not prevent a creditor from exercising a right provided by a mortgage loan contract to accelerate payment for a breach of that contract. Failure to pay the amount due after the creditor accelerates the mortgage loan obligation in accordance with the mortgage loan contract would begin or continue delinquency.",
             "label":[
                 "1024",
-                "41",
-                "b",
+                "31",
                 "Interp",
-                "1"
+                "Delinquency",
+                "4"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-41-b-Interp-1-i",
-                "1024-41-b-Interp-1-ii"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -4901,39 +4957,51 @@
         ],
         "op":"modified"
     },
-    "1024-41-k-2-ii-Interp-1-i":{
+    "1024-31-Interp-Delinquency-1":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"If the transferor servicer receives the borrower's initial loss mitigation application when the borrower's mortgage loan is 101 days delinquent, the borrower's mortgage loan would be 123 days delinquent on October 23, the date the transferee servicer provides the notice required by \u00a7\u20091024.41(b)(2)(i)(B). Pursuant to \u00a7\u20091024.41(k)(2)(ii)(A), the transferee servicer cannot make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process until after November 22, the reasonable date disclosed under \u00a7\u20091024.41(b)(2)(ii), and then only if the borrower has not submitted a complete application by that date.",
+            "title":"Length of delinquency.",
+            "text":"A borrower's delinquency begins on the date an amount sufficient to cover a periodic payment of principal, interest, and, if applicable, escrow becomes due and unpaid, and lasts until such time as no periodic payment is due and unpaid, even if the borrower is afforded a period after the due date to pay before the servicer assesses a late fee.",
             "label":[
                 "1024",
-                "41",
-                "k",
-                "2",
-                "ii",
+                "31",
                 "Interp",
-                "1",
-                "i"
+                "Delinquency",
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
     },
-    "1024-41-k-1-ii-Interp-1":{
+    "1024-31-Interp-Delinquency-2":{
         "node":{
             "tagged_text":null,
-            "title":"Transfer date.",
-            "text":"Section 1024.41(k)(1)(ii) provides that the transfer date is the date on which the transferee servicer will begin accepting payments relating to the mortgage loan, as disclosed on the notice of transfer of loan servicing pursuant to \u00a7\u20091024.33(b)(4)(iv). The transfer date is the same date as that on which the transfer of the servicing responsibilities from the transferor servicer to the transferee servicer occurs. The transfer date is not necessarily the same date as either the effective date of the transfer of servicing as disclosed on the notice of transfer of loan servicing pursuant to \u00a7\u20091024.33(b)(4)(i) or the sale date identified in a servicing transfer agreement.",
+            "title":"Application of funds.",
+            "text":"If a servicer applies payments to the oldest outstanding periodic payment, a payment by a delinquent borrower advances the date the borrower's delinquency began. For example, assume a borrower's mortgage loan obligation provides that a periodic payment sufficient to cover principal, interest, and escrow is due on the first of each month. The borrower fails to make a payment on January 1 or on any day in January, and on January 31 the borrower is 30 days delinquent. On February 3, the borrower makes a periodic payment. The servicer applies the payment it received on February 3 to the outstanding January payment. On February 4, the borrower is three days delinquent.",
             "label":[
                 "1024",
-                "41",
-                "k",
-                "1",
-                "ii",
+                "31",
                 "Interp",
-                "1"
+                "Delinquency",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-Delinquency-3":{
+        "node":{
+            "tagged_text":null,
+            "title":"Payment tolerance.",
+            "text":"For any given billing cycle for which a borrower's payment is less than the periodic payment due, if a servicer chooses not to treat a borrower as delinquent for purposes of any section of this subpart, that borrower is not delinquent as defined in \u00a7\u20091024.31.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "Delinquency",
+                "3"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -5048,23 +5116,6 @@
                 "1024-36-i-Interp-2",
                 "1024-36-i-Interp-3"
             ]
-        },
-        "op":"added"
-    },
-    "1024-31-Interp-9-3":{
-        "node":{
-            "tagged_text":null,
-            "title":"Payment tolerance.",
-            "text":"For any given billing cycle for which a borrower's payment is less than the periodic payment due, if a servicer chooses not to treat a borrower as delinquent for purposes of any section of this subpart, that borrower is not delinquent as defined in \u00a7\u20091024.31.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "9",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -5309,23 +5360,6 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-9-4":{
-        "node":{
-            "tagged_text":null,
-            "title":"Creditor's contract rights.",
-            "text":"This subpart does not prevent a creditor from exercising a right provided by a mortgage loan contract to accelerate payment for a breach of that contract. Failure to pay the amount due after the creditor accelerates the mortgage loan obligation in accordance with the mortgage loan contract would begin or continue delinquency.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "9",
-                "4"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-MS-3(A)-p39":{
         "text":[
             [
@@ -5341,42 +5375,8 @@
         ],
         "op":"modified"
     },
-    "1024-31-Interp-9-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Application of funds.",
-            "text":"If a servicer applies payments to the oldest outstanding periodic payment, a payment by a delinquent borrower advances the date the borrower's delinquency began. For example, assume a borrower's mortgage loan obligation provides that a periodic payment sufficient to cover principal, interest, and escrow is due on the first of each month. The borrower fails to make a payment on January 1 or on any day in January, and on January 31 the borrower is 30 days delinquent. On February 3, the borrower makes a periodic payment. The servicer applies the payment it received on February 3 to the outstanding January payment. On February 4, the borrower is three days delinquent.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "9",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-C-h2-h3-p8-p11":{
         "op":"deleted"
-    },
-    "1024-31-Interp-9-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Length of delinquency.",
-            "text":"A borrower's delinquency begins on the date an amount sufficient to cover a periodic payment of principal, interest, and, if applicable, escrow becomes due and unpaid, and lasts until such time as no periodic payment is due and unpaid, even if the borrower is afforded a period after the due date to pay before the servicer assesses a late fee.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "9",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1024-39-d-1-Interp-1":{
         "op":"deleted"
@@ -6462,25 +6462,6 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-10":{
-        "node":{
-            "tagged_text":null,
-            "title":"Successor in interest.",
-            "text":"",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "10"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-31-Interp-10-1",
-                "1024-31-Interp-10-2"
-            ]
-        },
-        "op":"added"
-    },
     "1024-41-c-2-iii-Interp-6":{
         "node":{
             "tagged_text":null,
@@ -6727,6 +6708,25 @@
                 "1024-41-k-2-ii-Interp-2",
                 "1024-41-k-2-ii-Interp-3"
             ]
+        },
+        "op":"added"
+    },
+    "1024-41-k-1-ii-Interp-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Transfer date.",
+            "text":"Section 1024.41(k)(1)(ii) provides that the transfer date is the date on which the transferee servicer will begin accepting payments relating to the mortgage loan, as disclosed on the notice of transfer of loan servicing pursuant to \u00a7\u20091024.33(b)(4)(iv). The transfer date is the same date as that on which the transfer of the servicing responsibilities from the transferor servicer to the transferee servicer occurs. The transfer date is not necessarily the same date as either the effective date of the transfer of servicing as disclosed on the notice of transfer of loan servicing pursuant to \u00a7\u20091024.33(b)(4)(i) or the sale date identified in a servicing transfer agreement.",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "1",
+                "ii",
+                "Interp",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },

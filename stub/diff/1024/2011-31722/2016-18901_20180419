@@ -556,43 +556,32 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-2-1":{
+    "1024-41-b-2-ii-Interp-2":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Types of loss mitigation options.Loss mitigation options include temporary and long-term relief, including options that allow borrowers who are behind on their mortgage payments to remain in their homes or to leave their homes without a foreclosure, such as, without limitation, refinancing, trial or permanent modification, repayment of the amount owed over an extended period of time, forbearance of future payments, short-sale, deed-in-lieu of foreclosure, and loss mitigation programs sponsored by a locality, a State, or the Federal government.",
+            "title":"No later than the next milestone.",
+            "text":"For purposes of \u00a7\u20091024.41(b)(2)(ii), subject to the restriction described in comment 41(b)(2)(ii)-3, the reasonable date must be no later than the earliest of:",
             "label":[
                 "1024",
-                "31",
-                "Interp",
+                "41",
+                "b",
                 "2",
-                "1"
+                "ii",
+                "Interp",
+                "2"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1024-41-b-2-ii-Interp-2-i",
+                "1024-41-b-2-ii-Interp-2-ii",
+                "1024-41-b-2-ii-Interp-2-iii",
+                "1024-41-b-2-ii-Interp-2-iv"
+            ]
         },
         "op":"added"
     },
     "1024-21-d-3-vi":{
         "op":"deleted"
-    },
-    "1024-31-Interp-None":{
-        "node":{
-            "tagged_text":null,
-            "title":"Loss mitigation application.",
-            "text":"",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "None"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-31-Interp-None-1"
-            ]
-        },
-        "op":"added"
     },
     "1024-38-b-3-i":{
         "node":{
@@ -989,23 +978,6 @@
                 "1024-36-f-Interp",
                 "1024-36-i-Interp"
             ]
-        },
-        "op":"added"
-    },
-    "1024-31-Interp-9-3":{
-        "node":{
-            "tagged_text":null,
-            "title":"Payment tolerance.",
-            "text":"For any given billing cycle for which a borrower's payment is less than the periodic payment due, if a servicer chooses not to treat a borrower as delinquent for purposes of any section of this subpart, that borrower is not delinquent as defined in \u00a7\u20091024.31.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "9",
-                "3"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -1875,6 +1847,24 @@
         },
         "op":"added"
     },
+    "1024-41-b-1-Interp-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"When an inquiry or prequalification request becomes an application.",
+            "text":"A servicer is encouraged to provide borrowers with information about loss mitigation programs. If in giving information to the borrower, the borrower expresses an interest in applying for a loss mitigation option and provides information the servicer would evaluate in connection with a loss mitigation application, the borrower's inquiry or prequalification request has become a loss mitigation application. A loss mitigation application is considered expansively and includes any \u201cprequalification\u201d for a loss mitigation option. For example, if a borrower requests that a servicer determine if the borrower is \u201cprequalified\u201d for a loss mitigation program by evaluating the borrower against preliminary criteria to determine eligibility for a loss mitigation option, the request constitutes a loss mitigation application.",
+            "label":[
+                "1024",
+                "41",
+                "b",
+                "1",
+                "Interp",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-30":{
         "node":{
             "tagged_text":null,
@@ -2161,6 +2151,26 @@
         },
         "op":"added"
     },
+    "1024-38-b-1-vi-Interp-3-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":"Divorce or legal separation.",
+            "text":"Assume that a potential successor in interest indicates that an ownership interest in the property transferred to the potential successor in interest from a spouse who is a borrower as a result of a property agreement incident to a divorce proceeding. Assume further that the applicable law of the relevant jurisdiction does not require a deed conveying the interest in the property but accepts a final divorce decree and accompanying separation agreement executed by both spouses to evidence transfer of title. Under these circumstances, it would be reasonable for the servicer to require the potential successor in interest to provide documentation of the final divorce decree and an executed separation agreement. Because the applicable law of the relevant jurisdiction does not require a deed, it generally would not be reasonable for the servicer to require a deed.",
+            "label":[
+                "1024",
+                "38",
+                "b",
+                "1",
+                "vi",
+                "Interp",
+                "3",
+                "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-30-b-1":{
         "node":{
             "tagged_text":null,
@@ -2321,6 +2331,23 @@
                 "1024-37-c-2-v-B",
                 "1024-37-c-2-v-C"
             ]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-LossMitigationOption-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Types of loss mitigation options.Loss mitigation options include temporary and long-term relief, including options that allow borrowers who are behind on their mortgage payments to remain in their homes or to leave their homes without a foreclosure, such as, without limitation, refinancing, trial or permanent modification, repayment of the amount owed over an extended period of time, forbearance of future payments, short-sale, deed-in-lieu of foreclosure, and loss mitigation programs sponsored by a locality, a State, or the Federal government.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "LossMitigationOption",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -2590,6 +2617,23 @@
         },
         "op":"added"
     },
+    "1024-31-Interp-LossMitigationApplication-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Borrower's representative.A loss mitigation application is deemed to be submitted by a borrower if the loss mitigation application is submitted by an agent of the borrower. Servicers may undertake reasonable procedures to determine if a person that claims to be an agent of a borrower has authority from the borrower to act on the borrower's behalf.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "LossMitigationApplication",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-37-d":{
         "node":{
             "tagged_text":null,
@@ -2665,23 +2709,6 @@
                 "1024-37-e-4",
                 "1024-37-e-5"
             ]
-        },
-        "op":"added"
-    },
-    "1024-31-Interp-10-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Joint tenants and tenants by the entirety.",
-            "text":"If a borrower who has an ownership interest as a joint tenant or tenant by the entirety in a property securing a mortgage loan subject to this subpart dies, a surviving joint tenant or tenant by the entirety with a right of survivorship in the property is a successor in interest as defined in \u00a7\u20091024.31.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "10",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
         },
         "op":"added"
     },
@@ -3534,23 +3561,6 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-10-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Beneficiaries of inter vivos trusts.",
-            "text":"In the event of a transfer into an inter vivos trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property, the beneficiaries of the inter vivos trust rather than the inter vivos trust itself are considered to be the successors in interest for purposes of \u00a7\u20091024.31. For example, assume Borrower A transfers her home into such an inter vivos trust for the benefit of her spouse and herself. As of the transfer date, Borrower A and her spouse would be considered successors in interest and, upon confirmation, would be borrowers for purposes of certain provisions of Regulation X. If the lender has not released Borrower A from the loan obligation, Borrower A would also remain a borrower more generally for purposes of Regulation X.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "10",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-35-c-Interp-2-i":{
         "node":{
             "tagged_text":null,
@@ -3860,23 +3870,43 @@
         },
         "op":"added"
     },
-    "1024-37-d-2-i-D-Interp-1":{
+    "1024-41-k-2-ii-Interp-1-i":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Reasonable estimate of the cost of force-placed insurance.Differences between the amount of the estimated cost disclosed under \u00a7 1024.37(d)(2)(i)(D) and the actual cost later assessed to the borrower are permissible, so long as the estimated cost is based on the information reasonably available to the servicer at the time the disclosure is provided. For example, a mortgage investor's requirements may provide that the amount of coverage for force-placed insurance depends on the borrower's delinquency status (the number of days the borrower's mortgage payment is past due). The amount of coverage affects the cost of force-placed insurance. A servicer that provides an estimate of the cost of force-placed insurance based on the borrower's delinquency status at the time the disclosure is made complies with \u00a7 1024.37(d)(2)(i)(D).",
+            "text":"If the transferor servicer receives the borrower's initial loss mitigation application when the borrower's mortgage loan is 101 days delinquent, the borrower's mortgage loan would be 123 days delinquent on October 23, the date the transferee servicer provides the notice required by \u00a7\u20091024.41(b)(2)(i)(B). Pursuant to \u00a7\u20091024.41(k)(2)(ii)(A), the transferee servicer cannot make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process until after November 22, the reasonable date disclosed under \u00a7\u20091024.41(b)(2)(ii), and then only if the borrower has not submitted a complete application by that date.",
             "label":[
                 "1024",
-                "37",
-                "d",
+                "41",
+                "k",
                 "2",
-                "i",
-                "D",
+                "ii",
                 "Interp",
-                "1"
+                "1",
+                "i"
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-38-b-2-ii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 38(b)(2)(ii).",
+            "text":"",
+            "label":[
+                "1024",
+                "38",
+                "b",
+                "2",
+                "ii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-38-b-2-ii-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -4883,21 +4913,20 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-10":{
+    "1024-33-b-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"Successor in interest.",
+            "title":"33(b) Notices of transfer of loan servicing.",
             "text":"",
             "label":[
                 "1024",
-                "31",
-                "Interp",
-                "10"
+                "33",
+                "b",
+                "Interp"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-31-Interp-10-1",
-                "1024-31-Interp-10-2"
+                "1024-33-b-3-Interp"
             ]
         },
         "op":"added"
@@ -6465,30 +6494,6 @@
         },
         "op":"added"
     },
-    "1024-41-b-2-ii-Interp-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"No later than the next milestone.",
-            "text":"For purposes of \u00a7\u20091024.41(b)(2)(ii), subject to the restriction described in comment 41(b)(2)(ii)-3, the reasonable date must be no later than the earliest of:",
-            "label":[
-                "1024",
-                "41",
-                "b",
-                "2",
-                "ii",
-                "Interp",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-41-b-2-ii-Interp-2-i",
-                "1024-41-b-2-ii-Interp-2-ii",
-                "1024-41-b-2-ii-Interp-2-iii",
-                "1024-41-b-2-ii-Interp-2-iv"
-            ]
-        },
-        "op":"added"
-    },
     "1024-39-a-Interp-6":{
         "node":{
             "tagged_text":null,
@@ -6877,6 +6882,25 @@
                 "1024-MS-3-TOC-p2",
                 "1024-MS-3-TOC-p3",
                 "1024-MS-3-TOC-p4"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-LossMitigationOption":{
+        "node":{
+            "tagged_text":null,
+            "title":"Loss mitigation option.",
+            "text":"",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "LossMitigationOption"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-31-Interp-LossMitigationOption-1",
+                "1024-31-Interp-LossMitigationOption-2"
             ]
         },
         "op":"added"
@@ -7698,25 +7722,6 @@
         },
         "op":"added"
     },
-    "1024-39-b-2-iii-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Number of examples.Section 1024.39(b)(2)(iii) does not require that a specific number of examples be disclosed, but borrowers are likely to benefit from examples of options that would permit them to retain ownership of their home and examples of options that may require borrowers to end their ownership to avoid foreclosure. The servicer may include a generic list of loss mitigation options that it offers to borrowers. The servicer may include a statement that not all borrowers will qualify for the listed options.",
-            "label":[
-                "1024",
-                "39",
-                "b",
-                "2",
-                "iii",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-35-h-Interp":{
         "node":{
             "tagged_text":null,
@@ -7776,25 +7781,8 @@
         },
         "op":"added"
     },
-    "1024-38-b-2-ii-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"Paragraph 38(b)(2)(ii).",
-            "text":"",
-            "label":[
-                "1024",
-                "38",
-                "b",
-                "2",
-                "ii",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-38-b-2-ii-Interp-1"
-            ]
-        },
-        "op":"added"
+    "1024-MS2-h1-h2-p2":{
+        "op":"deleted"
     },
     "1024-MS-2-h4-p23":{
         "node":{
@@ -7865,6 +7853,23 @@
             "child_labels":[
                 "1024-17-k-5-Interp"
             ]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-LossMitigationOption-2":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Available through the servicer.A loss mitigation option available through the servicer refers to an option for which a borrower may apply, even if the borrower ultimately does not qualify for such option.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "LossMitigationOption",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -8098,21 +8103,23 @@
         },
         "op":"added"
     },
-    "1024-33-b-Interp":{
+    "1024-37-d-2-i-D-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"33(b) Notices of transfer of loan servicing.",
-            "text":"",
+            "title":null,
+            "text":"Reasonable estimate of the cost of force-placed insurance.Differences between the amount of the estimated cost disclosed under \u00a7 1024.37(d)(2)(i)(D) and the actual cost later assessed to the borrower are permissible, so long as the estimated cost is based on the information reasonably available to the servicer at the time the disclosure is provided. For example, a mortgage investor's requirements may provide that the amount of coverage for force-placed insurance depends on the borrower's delinquency status (the number of days the borrower's mortgage payment is past due). The amount of coverage affects the cost of force-placed insurance. A servicer that provides an estimate of the cost of force-placed insurance based on the borrower's delinquency status at the time the disclosure is made complies with \u00a7 1024.37(d)(2)(i)(D).",
             "label":[
                 "1024",
-                "33",
-                "b",
-                "Interp"
+                "37",
+                "d",
+                "2",
+                "i",
+                "D",
+                "Interp",
+                "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-33-b-3-Interp"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -8230,6 +8237,23 @@
     },
     "1024-MS1-h1-h2-p9":{
         "op":"deleted"
+    },
+    "1024-31-Interp-ServiceProvider-1":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Service providers may include attorneys retained to represent a servicer or an owner or assignee of a mortgage loan in a foreclosure proceeding, as well as other professionals retained to provide appraisals or inspections of properties.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "ServiceProvider",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-31-SuccessorInInterest":{
         "node":{
@@ -8462,6 +8486,25 @@
         },
         "op":"added"
     },
+    "1024-31-Interp-QualifiedWrittenRequest":{
+        "node":{
+            "tagged_text":null,
+            "title":"Qualified written request.",
+            "text":"",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "QualifiedWrittenRequest"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-31-Interp-QualifiedWrittenRequest-1",
+                "1024-31-Interp-QualifiedWrittenRequest-2"
+            ]
+        },
+        "op":"added"
+    },
     "1024-41-b-2-i-A":{
         "node":{
             "tagged_text":null,
@@ -8569,40 +8612,6 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-5-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A qualified written request is just one form that a written notice of error or information request may take. Thus, the error resolution and information request requirements in \u00a7\u00a7 1024.35 and 1024.36 apply as set forth in those sections irrespective of whether the servicer receives a qualified written request.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "5",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-31-Interp-5-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A qualified written request is a written notice a borrower provides to request a servicer either correct an error relating to the servicing of a mortgage loan or to request information relating to the servicing of the mortgage loan. A qualified written request is not required to include both types of requests. For example, a qualified written request may request information relating to the servicing of a mortgage loan but not assert that an error relating to the servicing of a loan has occurred.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "5",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-21-d-2-i-A":{
         "op":"deleted"
     },
@@ -8660,46 +8669,37 @@
         },
         "op":"added"
     },
-    "1024-41-k-2-ii-Interp-1-i":{
+    "1024-31-Interp-QualifiedWrittenRequest-2":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"If the transferor servicer receives the borrower's initial loss mitigation application when the borrower's mortgage loan is 101 days delinquent, the borrower's mortgage loan would be 123 days delinquent on October 23, the date the transferee servicer provides the notice required by \u00a7\u20091024.41(b)(2)(i)(B). Pursuant to \u00a7\u20091024.41(k)(2)(ii)(A), the transferee servicer cannot make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process until after November 22, the reasonable date disclosed under \u00a7\u20091024.41(b)(2)(ii), and then only if the borrower has not submitted a complete application by that date.",
+            "text":"A qualified written request is just one form that a written notice of error or information request may take. Thus, the error resolution and information request requirements in \u00a7\u00a7 1024.35 and 1024.36 apply as set forth in those sections irrespective of whether the servicer receives a qualified written request.",
             "label":[
                 "1024",
-                "41",
-                "k",
-                "2",
-                "ii",
+                "31",
                 "Interp",
-                "1",
-                "i"
+                "QualifiedWrittenRequest",
+                "2"
             ],
             "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
     },
-    "1024-35-g-1-ii-Interp-1":{
+    "1024-31-Interp-QualifiedWrittenRequest-1":{
         "node":{
             "tagged_text":null,
             "title":null,
-            "text":"Examples of overbroad notices of error.The following are examples of notices of error that are overbroad:",
+            "text":"A qualified written request is a written notice a borrower provides to request a servicer either correct an error relating to the servicing of a mortgage loan or to request information relating to the servicing of the mortgage loan. A qualified written request is not required to include both types of requests. For example, a qualified written request may request information relating to the servicing of a mortgage loan but not assert that an error relating to the servicing of a loan has occurred.",
             "label":[
                 "1024",
-                "35",
-                "g",
-                "1",
-                "ii",
+                "31",
                 "Interp",
+                "QualifiedWrittenRequest",
                 "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-35-g-1-ii-Interp-1-i",
-                "1024-35-g-1-ii-Interp-1-ii",
-                "1024-35-g-1-ii-Interp-1-iii"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -8786,8 +8786,47 @@
         },
         "op":"added"
     },
+    "1024-41-k-2-ii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(2)(ii) Prohibitions.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "2",
+                "ii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-2-ii-Interp-1",
+                "1024-41-k-2-ii-Interp-2",
+                "1024-41-k-2-ii-Interp-3"
+            ]
+        },
+        "op":"added"
+    },
     "1024-MS1-h1-h2-p5":{
         "op":"deleted"
+    },
+    "1024-31-Interp-Delinquency-4":{
+        "node":{
+            "tagged_text":null,
+            "title":"Creditor's contract rights.",
+            "text":"This subpart does not prevent a creditor from exercising a right provided by a mortgage loan contract to accelerate payment for a breach of that contract. Failure to pay the amount due after the creditor accelerates the mortgage loan obligation in accordance with the mortgage loan contract would begin or continue delinquency.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "Delinquency",
+                "4"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-39-a-Interp-4-i":{
         "node":{
@@ -8810,8 +8849,22 @@
         },
         "op":"added"
     },
-    "1024-MS1-h1-h2-p6":{
-        "op":"deleted"
+    "1024-31-Interp-Delinquency-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Length of delinquency.",
+            "text":"A borrower's delinquency begins on the date an amount sufficient to cover a periodic payment of principal, interest, and, if applicable, escrow becomes due and unpaid, and lasts until such time as no periodic payment is due and unpaid, even if the borrower is afforded a period after the due date to pay before the servicer assesses a late fee.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "Delinquency",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-MS-3(C)-p69":{
         "node":{
@@ -9039,9 +9092,6 @@
         },
         "op":"added"
     },
-    "1024-MS2-h1-h2-p2":{
-        "op":"deleted"
-    },
     "1024-37-d-Interp":{
         "node":{
             "tagged_text":null,
@@ -9086,23 +9136,6 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-9-4":{
-        "node":{
-            "tagged_text":null,
-            "title":"Creditor's contract rights.",
-            "text":"This subpart does not prevent a creditor from exercising a right provided by a mortgage loan contract to accelerate payment for a breach of that contract. Failure to pay the amount due after the creditor accelerates the mortgage loan obligation in accordance with the mortgage loan contract would begin or continue delinquency.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "9",
-                "4"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-41-b-1":{
         "node":{
             "tagged_text":null,
@@ -9115,23 +9148,6 @@
                 "1"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-31-Interp-9-2":{
-        "node":{
-            "tagged_text":null,
-            "title":"Application of funds.",
-            "text":"If a servicer applies payments to the oldest outstanding periodic payment, a payment by a delinquent borrower advances the date the borrower's delinquency began. For example, assume a borrower's mortgage loan obligation provides that a periodic payment sufficient to cover principal, interest, and escrow is due on the first of each month. The borrower fails to make a payment on January 1 or on any day in January, and on January 31 the borrower is 30 days delinquent. On February 3, the borrower makes a periodic payment. The servicer applies the payment it received on February 3 to the outstanding January payment. On February 4, the borrower is three days delinquent.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "9",
-                "2"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -9149,23 +9165,6 @@
                 "viii"
             ],
             "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-31-Interp-9-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Length of delinquency.",
-            "text":"A borrower's delinquency begins on the date an amount sufficient to cover a periodic payment of principal, interest, and, if applicable, escrow becomes due and unpaid, and lasts until such time as no periodic payment is due and unpaid, even if the borrower is afforded a period after the due date to pay before the servicer assesses a late fee.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "9",
-                "1"
-            ],
-            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -9601,6 +9600,25 @@
             "child_labels":[
                 "1024-35-a-Interp-1",
                 "1024-35-a-Interp-2"
+            ]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-SuccessorInInterest":{
+        "node":{
+            "tagged_text":null,
+            "title":"Successor in interest.",
+            "text":"",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "SuccessorInInterest"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-31-Interp-SuccessorInInterest-1",
+                "1024-31-Interp-SuccessorInInterest-2"
             ]
         },
         "op":"added"
@@ -11131,12 +11149,12 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-31-Interp-None",
-                "1024-31-Interp-2",
-                "1024-31-Interp-5",
-                "1024-31-Interp-8",
-                "1024-31-Interp-9",
-                "1024-31-Interp-10"
+                "1024-31-Interp-LossMitigationApplication",
+                "1024-31-Interp-LossMitigationOption",
+                "1024-31-Interp-QualifiedWrittenRequest",
+                "1024-31-Interp-ServiceProvider",
+                "1024-31-Interp-Delinquency",
+                "1024-31-Interp-SuccessorInInterest"
             ]
         },
         "op":"added"
@@ -11152,23 +11170,6 @@
                 "k",
                 "3",
                 "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-31-Interp-8-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Service providers may include attorneys retained to represent a servicer or an owner or assignee of a mortgage loan in a foreclosure proceeding, as well as other professionals retained to provide appraisals or inspections of properties.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "8",
                 "1"
             ],
             "node_type":"interp",
@@ -11802,6 +11803,9 @@
         },
         "op":"added"
     },
+    "1024-C-h2-h3-p8-p14":{
+        "op":"deleted"
+    },
     "1024-41-k-4-i":{
         "node":{
             "tagged_text":null,
@@ -12373,8 +12377,22 @@
         },
         "op":"added"
     },
-    "1024-C-h2-h3-p8-p14":{
-        "op":"deleted"
+    "1024-31-Interp-Delinquency-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Application of funds.",
+            "text":"If a servicer applies payments to the oldest outstanding periodic payment, a payment by a delinquent borrower advances the date the borrower's delinquency began. For example, assume a borrower's mortgage loan obligation provides that a periodic payment sufficient to cover principal, interest, and escrow is due on the first of each month. The borrower fails to make a payment on January 1 or on any day in January, and on January 31 the borrower is 30 days delinquent. On February 3, the borrower makes a periodic payment. The servicer applies the payment it received on February 3 to the outstanding January payment. On February 4, the borrower is three days delinquent.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "Delinquency",
+                "2"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-MS-3(D)-p76":{
         "node":{
@@ -12691,23 +12709,6 @@
         },
         "op":"added"
     },
-    "1024-A-h3-h4-p88":{
-        "text":[
-            [
-                [
-                    "delete",
-                    40,
-                    45
-                ],
-                [
-                    "insert",
-                    40,
-                    "10%.\u201d"
-                ]
-            ]
-        ],
-        "op":"modified"
-    },
     "1024-MS-1-h3-p5":{
         "node":{
             "tagged_text":null,
@@ -12928,27 +12929,26 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-2":{
+    "1024-6-d-1-ii":{
+        "op":"deleted"
+    },
+    "1024-31-Interp-LossMitigationApplication":{
         "node":{
             "tagged_text":null,
-            "title":"Loss mitigation option.",
+            "title":"Loss mitigation application.",
             "text":"",
             "label":[
                 "1024",
                 "31",
                 "Interp",
-                "2"
+                "LossMitigationApplication"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-31-Interp-2-1",
-                "1024-31-Interp-2-2"
+                "1024-31-Interp-LossMitigationApplication-1"
             ]
         },
         "op":"added"
-    },
-    "1024-6-d-1-ii":{
-        "op":"deleted"
     },
     "1024-A-h2-p25":{
         "text":[
@@ -13026,44 +13026,22 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-8":{
-        "node":{
-            "tagged_text":null,
-            "title":"Service provider.",
-            "text":"",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "8"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-31-Interp-8-1"
+    "1024-A-h3-h4-p88":{
+        "text":[
+            [
+                [
+                    "delete",
+                    40,
+                    45
+                ],
+                [
+                    "insert",
+                    40,
+                    "10%.\u201d"
+                ]
             ]
-        },
-        "op":"added"
-    },
-    "1024-31-Interp-9":{
-        "node":{
-            "tagged_text":null,
-            "title":"Delinquency.",
-            "text":"",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "9"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-31-Interp-9-1",
-                "1024-31-Interp-9-2",
-                "1024-31-Interp-9-3",
-                "1024-31-Interp-9-4"
-            ]
-        },
-        "op":"added"
+        ],
+        "op":"modified"
     },
     "1024-38-b-4-i-Interp-2":{
         "node":{
@@ -13364,24 +13342,23 @@
         },
         "op":"added"
     },
-    "1024-41-k-2-ii-Interp":{
+    "1024-31-Interp-Delinquency":{
         "node":{
             "tagged_text":null,
-            "title":"41(k)(2)(ii) Prohibitions.",
+            "title":"Delinquency.",
             "text":"",
             "label":[
                 "1024",
-                "41",
-                "k",
-                "2",
-                "ii",
-                "Interp"
+                "31",
+                "Interp",
+                "Delinquency"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-41-k-2-ii-Interp-1",
-                "1024-41-k-2-ii-Interp-2",
-                "1024-41-k-2-ii-Interp-3"
+                "1024-31-Interp-Delinquency-1",
+                "1024-31-Interp-Delinquency-2",
+                "1024-31-Interp-Delinquency-3",
+                "1024-31-Interp-Delinquency-4"
             ]
         },
         "op":"added"
@@ -13642,21 +13619,21 @@
         },
         "op":"added"
     },
-    "1024-41-b-1-Interp-2":{
+    "1024-31-Interp-ServiceProvider":{
         "node":{
             "tagged_text":null,
-            "title":"When an inquiry or prequalification request becomes an application.",
-            "text":"A servicer is encouraged to provide borrowers with information about loss mitigation programs. If in giving information to the borrower, the borrower expresses an interest in applying for a loss mitigation option and provides information the servicer would evaluate in connection with a loss mitigation application, the borrower's inquiry or prequalification request has become a loss mitigation application. A loss mitigation application is considered expansively and includes any \u201cprequalification\u201d for a loss mitigation option. For example, if a borrower requests that a servicer determine if the borrower is \u201cprequalified\u201d for a loss mitigation program by evaluating the borrower against preliminary criteria to determine eligibility for a loss mitigation option, the request constitutes a loss mitigation application.",
+            "title":"Service provider.",
+            "text":"",
             "label":[
                 "1024",
-                "41",
-                "b",
-                "1",
+                "31",
                 "Interp",
-                "2"
+                "ServiceProvider"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1024-31-Interp-ServiceProvider-1"
+            ]
         },
         "op":"added"
     },
@@ -14874,20 +14851,17 @@
         },
         "op":"added"
     },
-    "1024-38-b-1-vi-Interp-3-iii":{
+    "1024-31-Interp-Delinquency-3":{
         "node":{
             "tagged_text":null,
-            "title":"Divorce or legal separation.",
-            "text":"Assume that a potential successor in interest indicates that an ownership interest in the property transferred to the potential successor in interest from a spouse who is a borrower as a result of a property agreement incident to a divorce proceeding. Assume further that the applicable law of the relevant jurisdiction does not require a deed conveying the interest in the property but accepts a final divorce decree and accompanying separation agreement executed by both spouses to evidence transfer of title. Under these circumstances, it would be reasonable for the servicer to require the potential successor in interest to provide documentation of the final divorce decree and an executed separation agreement. Because the applicable law of the relevant jurisdiction does not require a deed, it generally would not be reasonable for the servicer to require a deed.",
+            "title":"Payment tolerance.",
+            "text":"For any given billing cycle for which a borrower's payment is less than the periodic payment due, if a servicer chooses not to treat a borrower as delinquent for purposes of any section of this subpart, that borrower is not delinquent as defined in \u00a7\u20091024.31.",
             "label":[
                 "1024",
-                "38",
-                "b",
-                "1",
-                "vi",
+                "31",
                 "Interp",
-                "3",
-                "iii"
+                "Delinquency",
+                "3"
             ],
             "node_type":"interp",
             "child_labels":[]
@@ -15225,6 +15199,9 @@
         },
         "op":"added"
     },
+    "1024-MS1-h1-h2-p6":{
+        "op":"deleted"
+    },
     "1024-41-c-2-iii-Interp-6":{
         "node":{
             "tagged_text":null,
@@ -15282,6 +15259,23 @@
                 "1024-33-c-1",
                 "1024-33-c-2"
             ]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-SuccessorInInterest-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"Joint tenants and tenants by the entirety.",
+            "text":"If a borrower who has an ownership interest as a joint tenant or tenant by the entirety in a property securing a mortgage loan subject to this subpart dies, a surviving joint tenant or tenant by the entirety with a right of survivorship in the property is a successor in interest as defined in \u00a7\u20091024.31.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "SuccessorInInterest",
+                "1"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -15718,6 +15712,25 @@
         },
         "op":"added"
     },
+    "1024-37-d-4-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"37(d)(4) Updating notice with borrower information.",
+            "text":"",
+            "label":[
+                "1024",
+                "37",
+                "d",
+                "4",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-37-d-4-Interp-1"
+            ]
+        },
+        "op":"added"
+    },
     "1024-41-c-2-iii-Interp-4":{
         "node":{
             "tagged_text":null,
@@ -15884,22 +15897,22 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-5":{
+    "1024-39-b-2-iii-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"Qualified written request.",
-            "text":"",
+            "title":null,
+            "text":"Number of examples.Section 1024.39(b)(2)(iii) does not require that a specific number of examples be disclosed, but borrowers are likely to benefit from examples of options that would permit them to retain ownership of their home and examples of options that may require borrowers to end their ownership to avoid foreclosure. The servicer may include a generic list of loss mitigation options that it offers to borrowers. The servicer may include a statement that not all borrowers will qualify for the listed options.",
             "label":[
                 "1024",
-                "31",
+                "39",
+                "b",
+                "2",
+                "iii",
                 "Interp",
-                "5"
+                "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-31-Interp-5-1",
-                "1024-31-Interp-5-2"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -15934,6 +15947,23 @@
                 "i"
             ],
             "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-31-Interp-SuccessorInInterest-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Beneficiaries of inter vivos trusts.",
+            "text":"In the event of a transfer into an inter vivos trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property, the beneficiaries of the inter vivos trust rather than the inter vivos trust itself are considered to be the successors in interest for purposes of \u00a7\u20091024.31. For example, assume Borrower A transfers her home into such an inter vivos trust for the benefit of her spouse and herself. As of the transfer date, Borrower A and her spouse would be considered successors in interest and, upon confirmation, would be borrowers for purposes of certain provisions of Regulation X. If the lender has not released Borrower A from the loan obligation, Borrower A would also remain a borrower more generally for purposes of Regulation X.",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "SuccessorInInterest",
+                "2"
+            ],
+            "node_type":"interp",
             "child_labels":[]
         },
         "op":"added"
@@ -17250,21 +17280,25 @@
         },
         "op":"added"
     },
-    "1024-37-d-4-Interp":{
+    "1024-35-g-1-ii-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"37(d)(4) Updating notice with borrower information.",
-            "text":"",
+            "title":null,
+            "text":"Examples of overbroad notices of error.The following are examples of notices of error that are overbroad:",
             "label":[
                 "1024",
-                "37",
-                "d",
-                "4",
-                "Interp"
+                "35",
+                "g",
+                "1",
+                "ii",
+                "Interp",
+                "1"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-37-d-4-Interp-1"
+                "1024-35-g-1-ii-Interp-1-i",
+                "1024-35-g-1-ii-Interp-1-ii",
+                "1024-35-g-1-ii-Interp-1-iii"
             ]
         },
         "op":"added"
@@ -19135,23 +19169,6 @@
     "1024-21-f-1-i":{
         "op":"deleted"
     },
-    "1024-31-Interp-None-1":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Borrower's representative.A loss mitigation application is deemed to be submitted by a borrower if the loss mitigation application is submitted by an agent of the borrower. Servicers may undertake reasonable procedures to determine if a person that claims to be an agent of a borrower has authority from the borrower to act on the borrower's behalf.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "None",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
     "1024-Interp-h1":{
         "node":{
             "tagged_text":null,
@@ -19970,23 +19987,6 @@
     },
     "1024-21-d-1-i":{
         "op":"deleted"
-    },
-    "1024-31-Interp-2-2":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"Available through the servicer.A loss mitigation option available through the servicer refers to an option for which a borrower may apply, even if the borrower ultimately does not qualify for such option.",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "2",
-                "2"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
     },
     "1024-39-a-Interp-4-ii":{
         "node":{
