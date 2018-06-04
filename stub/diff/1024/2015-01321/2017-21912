@@ -2027,123 +2027,27 @@
     "1024-6-d-1-ii-B":{
         "op":"deleted"
     },
-    "1024-39-a-Interp-2":{
-        "text":[
-            [
-                [
-                    "delete",
-                    0,
-                    12
-                ],
-                [
-                    "insert",
-                    0,
-                    "Live contact provides servicers an opportunity to discuss the circumstances of a borrower's delinquency. Live contact with a borrower includes speaking on the telephone or conducting an in-person meeting with the borrower but not leaving a recorded phone message. A servicer may rely on"
-                ]
+    "1024-39-c-1-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"39(c)(1) Borrowers in bankruptcy\u2014Partial exemption.",
+            "text":"",
+            "label":[
+                "1024",
+                "39",
+                "c",
+                "1",
+                "Interp"
             ],
-            [
-                "delete",
-                18,
-                31
-            ],
-            [
-                [
-                    "delete",
-                    39,
-                    72
-                ],
-                [
-                    "insert",
-                    39,
-                    "established at the borrower's initiative"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    76,
-                    83
-                ],
-                [
-                    "insert",
-                    76,
-                    "satisfy"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    88,
-                    135
-                ],
-                [
-                    "insert",
-                    88,
-                    "live"
-                ]
-            ],
-            [
-                "insert",
-                144,
-                "requirement in \u00a7\u20091024.39(a). Servicers may also combine contacts made pursuant to \u00a7\u20091024.39(a) "
-            ],
-            [
-                [
-                    "delete",
-                    149,
-                    215
-                ],
-                [
-                    "insert",
-                    149,
-                    "contacts made"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    221,
-                    311
-                ],
-                [
-                    "insert",
-                    221,
-                    "borrowers for other reasons, for instance, by telling borrowers"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    315,
-                    546
-                ],
-                [
-                    "insert",
-                    315,
-                    "collection calls that loss mitigation options"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    551,
-                    726
-                ],
-                [
-                    "insert",
-                    551,
-                    "be available."
-                ]
+            "node_type":"interp",
+            "child_labels":[
+                "1024-39-c-1-Interp-1",
+                "1024-39-c-1-ii-Interp-1",
+                "1024-39-c-1-ii-Interp-2",
+                "1024-39-c-1-iii-Interp-1"
             ]
-        ],
-        "title":[
-            [
-                "insert",
-                0,
-                "Establishing live contact."
-            ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1024-41-k-1-i-Interp-1-iii":{
         "node":{
@@ -2747,6 +2651,124 @@
     },
     "1024-39-d-1-Interp-2-i":{
         "op":"deleted"
+    },
+    "1024-39-a-Interp-2":{
+        "text":[
+            [
+                [
+                    "delete",
+                    0,
+                    12
+                ],
+                [
+                    "insert",
+                    0,
+                    "Live contact provides servicers an opportunity to discuss the circumstances of a borrower's delinquency. Live contact with a borrower includes speaking on the telephone or conducting an in-person meeting with the borrower but not leaving a recorded phone message. A servicer may rely on"
+                ]
+            ],
+            [
+                "delete",
+                18,
+                31
+            ],
+            [
+                [
+                    "delete",
+                    39,
+                    72
+                ],
+                [
+                    "insert",
+                    39,
+                    "established at the borrower's initiative"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    76,
+                    83
+                ],
+                [
+                    "insert",
+                    76,
+                    "satisfy"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    88,
+                    135
+                ],
+                [
+                    "insert",
+                    88,
+                    "live"
+                ]
+            ],
+            [
+                "insert",
+                144,
+                "requirement in \u00a7\u20091024.39(a). Servicers may also combine contacts made pursuant to \u00a7\u20091024.39(a) "
+            ],
+            [
+                [
+                    "delete",
+                    149,
+                    215
+                ],
+                [
+                    "insert",
+                    149,
+                    "contacts made"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    221,
+                    311
+                ],
+                [
+                    "insert",
+                    221,
+                    "borrowers for other reasons, for instance, by telling borrowers"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    315,
+                    546
+                ],
+                [
+                    "insert",
+                    315,
+                    "collection calls that loss mitigation options"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    551,
+                    726
+                ],
+                [
+                    "insert",
+                    551,
+                    "be available."
+                ]
+            ]
+        ],
+        "title":[
+            [
+                "insert",
+                0,
+                "Establishing live contact."
+            ]
+        ],
+        "op":"modified"
     },
     "1024-41-c-2-iii-Interp-5-i":{
         "node":{
@@ -3913,6 +3935,25 @@
         },
         "op":"added"
     },
+    "1024-41-c-3-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(c)(3) Notice of complete application.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "3",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-c-3-i-Interp"
+            ]
+        },
+        "op":"added"
+    },
     "1024-41-c-4-i-Interp":{
         "node":{
             "tagged_text":null,
@@ -5067,11 +5108,8 @@
             "child_labels":[
                 "1024-39-c-Interp-1",
                 "1024-39-c-Interp-2",
-                "1024-39-c-1-Interp-1",
-                "1024-39-c-1-ii-Interp-1",
-                "1024-39-c-1-ii-Interp-2",
-                "1024-39-c-1-iii-Interp-1",
-                "1024-39-c-2-Interp-1"
+                "1024-39-c-1-Interp",
+                "1024-39-c-2-Interp"
             ]
         },
         "op":"added"
@@ -5877,7 +5915,7 @@
             [
                 "insert",
                 0,
-                "Borrowers in bankruptcy"
+                "Borrowers in bankruptcy."
             ]
         ],
         "op":"modified"
@@ -6420,21 +6458,21 @@
         },
         "op":"added"
     },
-    "1024-41-c-3-Interp":{
+    "1024-39-c-2-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"41(c)(3) Notice of complete application.",
+            "title":"39(c)(2) Resuming compliance.",
             "text":"",
             "label":[
                 "1024",
-                "41",
+                "39",
                 "c",
-                "3",
+                "2",
                 "Interp"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-41-c-3-i-Interp"
+                "1024-39-c-2-Interp-1"
             ]
         },
         "op":"added"

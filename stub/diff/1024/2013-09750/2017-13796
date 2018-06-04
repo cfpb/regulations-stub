@@ -2948,6 +2948,23 @@
         },
         "op":"added"
     },
+    "1024-MS-Interp-2-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"Use of \u201cborrower\u201d and \u201cservicer\u201d instead of pronouns.",
+            "label":[
+                "1024",
+                "MS",
+                "Interp",
+                "2",
+                "i"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
     "1024-39-c-1-iii-B":{
         "node":{
             "tagged_text":null,
@@ -6825,6 +6842,28 @@
         },
         "op":"added"
     },
+    "1024-39-c-1-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"39(c)(1) Borrowers in bankruptcy\u2014Partial exemption.",
+            "text":"",
+            "label":[
+                "1024",
+                "39",
+                "c",
+                "1",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-39-c-1-Interp-1",
+                "1024-39-c-1-ii-Interp-1",
+                "1024-39-c-1-ii-Interp-2",
+                "1024-39-c-1-iii-Interp-1"
+            ]
+        },
+        "op":"added"
+    },
     "1024-41-c-3":{
         "node":{
             "tagged_text":null,
@@ -7578,20 +7617,22 @@
         },
         "op":"added"
     },
-    "1024-MS-Interp-2-i":{
+    "1024-41-c-3-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"Use of \u201cborrower\u201d and \u201cservicer\u201d instead of pronouns.",
+            "title":"41(c)(3) Notice of complete application.",
+            "text":"",
             "label":[
                 "1024",
-                "MS",
-                "Interp",
-                "2",
-                "i"
+                "41",
+                "c",
+                "3",
+                "Interp"
             ],
             "node_type":"interp",
-            "child_labels":[]
+            "child_labels":[
+                "1024-41-c-3-i-Interp"
+            ]
         },
         "op":"added"
     },
@@ -9493,7 +9534,7 @@
     "1024-39-c":{
         "node":{
             "tagged_text":null,
-            "title":"Borrowers in bankruptcy",
+            "title":"Borrowers in bankruptcy.",
             "text":"(c)",
             "label":[
                 "1024",
@@ -10035,21 +10076,21 @@
         },
         "op":"added"
     },
-    "1024-41-c-3-Interp":{
+    "1024-39-c-2-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"41(c)(3) Notice of complete application.",
+            "title":"39(c)(2) Resuming compliance.",
             "text":"",
             "label":[
                 "1024",
-                "41",
+                "39",
                 "c",
-                "3",
+                "2",
                 "Interp"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-41-c-3-i-Interp"
+                "1024-39-c-2-Interp-1"
             ]
         },
         "op":"added"
@@ -11449,11 +11490,8 @@
             "child_labels":[
                 "1024-39-c-Interp-1",
                 "1024-39-c-Interp-2",
-                "1024-39-c-1-Interp-1",
-                "1024-39-c-1-ii-Interp-1",
-                "1024-39-c-1-ii-Interp-2",
-                "1024-39-c-1-iii-Interp-1",
-                "1024-39-c-2-Interp-1"
+                "1024-39-c-1-Interp",
+                "1024-39-c-2-Interp"
             ]
         },
         "op":"added"

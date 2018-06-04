@@ -1951,20 +1951,25 @@
         ],
         "op":"modified"
     },
-    "1024-38-b-2-vi":{
+    "1024-41-k-2-ii-Interp":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(vi) Promptly identify and obtain documents or information not in the borrower's control that the servicer requires to determine which loss mitigation options, if any, to offer the borrower in accordance with the requirements of \u00a7\u20091024.41(c)(4).",
+            "title":"41(k)(2)(ii) Prohibitions.",
+            "text":"",
             "label":[
                 "1024",
-                "38",
-                "b",
+                "41",
+                "k",
                 "2",
-                "vi"
+                "ii",
+                "Interp"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-2-ii-Interp-1",
+                "1024-41-k-2-ii-Interp-2",
+                "1024-41-k-2-ii-Interp-3"
+            ]
         },
         "op":"added"
     },
@@ -2806,6 +2811,25 @@
         },
         "op":"added"
     },
+    "1024-41-c-3-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(c)(3) Notice of complete application.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "3",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-c-3-i-Interp"
+            ]
+        },
+        "op":"added"
+    },
     "1024-39-a-Interp-6":{
         "node":{
             "tagged_text":null,
@@ -3103,6 +3127,28 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-39-c-1-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"39(c)(1) Borrowers in bankruptcy\u2014Partial exemption.",
+            "text":"",
+            "label":[
+                "1024",
+                "39",
+                "c",
+                "1",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-39-c-1-Interp-1",
+                "1024-39-c-1-ii-Interp-1",
+                "1024-39-c-1-ii-Interp-2",
+                "1024-39-c-1-iii-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -4132,7 +4178,7 @@
             [
                 "insert",
                 0,
-                "Borrowers in bankruptcy"
+                "Borrowers in bankruptcy."
             ]
         ],
         "op":"modified"
@@ -4358,21 +4404,21 @@
         },
         "op":"added"
     },
-    "1024-41-c-3-Interp":{
+    "1024-39-c-2-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"41(c)(3) Notice of complete application.",
+            "title":"39(c)(2) Resuming compliance.",
             "text":"",
             "label":[
                 "1024",
-                "41",
+                "39",
                 "c",
-                "3",
+                "2",
                 "Interp"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-41-c-3-i-Interp"
+                "1024-39-c-2-Interp-1"
             ]
         },
         "op":"added"
@@ -4696,25 +4742,20 @@
     "1024-39-a-Interp-1-ii":{
         "op":"deleted"
     },
-    "1024-41-k-2-ii-Interp":{
+    "1024-38-b-2-vi":{
         "node":{
             "tagged_text":null,
-            "title":"41(k)(2)(ii) Prohibitions.",
-            "text":"",
+            "title":null,
+            "text":"(vi) Promptly identify and obtain documents or information not in the borrower's control that the servicer requires to determine which loss mitigation options, if any, to offer the borrower in accordance with the requirements of \u00a7\u20091024.41(c)(4).",
             "label":[
                 "1024",
-                "41",
-                "k",
+                "38",
+                "b",
                 "2",
-                "ii",
-                "Interp"
+                "vi"
             ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-41-k-2-ii-Interp-1",
-                "1024-41-k-2-ii-Interp-2",
-                "1024-41-k-2-ii-Interp-3"
-            ]
+            "node_type":"regtext",
+            "child_labels":[]
         },
         "op":"added"
     },
