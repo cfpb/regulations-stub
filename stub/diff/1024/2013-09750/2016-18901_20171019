@@ -6601,10 +6601,7 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-39-c-1-Interp-1",
-                "1024-39-c-1-ii-Interp-1",
-                "1024-39-c-1-ii-Interp-2",
-                "1024-39-c-1-iii-Interp-1"
+                "1024-39-c-1-Interp-1"
             ]
         },
         "op":"added"
@@ -11085,6 +11082,7 @@
                 "1024-39-c-Interp-1",
                 "1024-39-c-Interp-2",
                 "1024-39-c-1-Interp",
+                "1024-39-c-1-ii-Interp",
                 "1024-39-c-2-Interp"
             ]
         },
@@ -13078,6 +13076,59 @@
     },
     "1024-C-h2-h3-p8-p13":{
         "op":"deleted"
+    },
+    "1024-A-h3-h4-p86":{
+        "text":[
+            [
+                [
+                    "delete",
+                    4,
+                    12
+                ],
+                [
+                    "insert",
+                    4,
+                    "HUD-1/1-A"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    710,
+                    720
+                ],
+                [
+                    "insert",
+                    710,
+                    "Increase,\u201d"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    761,
+                    770
+                ],
+                [
+                    "insert",
+                    761,
+                    "10%,\u201d and"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    789,
+                    797
+                ],
+                [
+                    "insert",
+                    789,
+                    "Change.\u201d"
+                ]
+            ]
+        ],
+        "op":"modified"
     },
     "1024-MS-4(D)":{
         "node":{
@@ -18673,58 +18724,27 @@
         },
         "op":"added"
     },
-    "1024-A-h3-h4-p86":{
-        "text":[
-            [
-                [
-                    "delete",
-                    4,
-                    12
-                ],
-                [
-                    "insert",
-                    4,
-                    "HUD-1/1-A"
-                ]
+    "1024-39-c-1-ii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 39(c)(1)(ii)",
+            "text":"",
+            "label":[
+                "1024",
+                "39",
+                "c",
+                "1",
+                "ii",
+                "Interp"
             ],
-            [
-                [
-                    "delete",
-                    710,
-                    720
-                ],
-                [
-                    "insert",
-                    710,
-                    "Increase,\u201d"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    761,
-                    770
-                ],
-                [
-                    "insert",
-                    761,
-                    "10%,\u201d and"
-                ]
-            ],
-            [
-                [
-                    "delete",
-                    789,
-                    797
-                ],
-                [
-                    "insert",
-                    789,
-                    "Change.\u201d"
-                ]
+            "node_type":"interp",
+            "child_labels":[
+                "1024-39-c-1-ii-Interp-1",
+                "1024-39-c-1-ii-Interp-2",
+                "1024-39-c-1-iii-Interp-1"
             ]
-        ],
-        "op":"modified"
+        },
+        "op":"added"
     },
     "1024-33-b-2-ii":{
         "node":{

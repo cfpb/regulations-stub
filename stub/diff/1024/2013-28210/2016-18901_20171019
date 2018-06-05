@@ -1921,10 +1921,7 @@
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-39-c-1-Interp-1",
-                "1024-39-c-1-ii-Interp-1",
-                "1024-39-c-1-ii-Interp-2",
-                "1024-39-c-1-iii-Interp-1"
+                "1024-39-c-1-Interp-1"
             ]
         },
         "op":"added"
@@ -2000,6 +1997,28 @@
             ],
             "node_type":"regtext",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-39-c-1-ii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"Paragraph 39(c)(1)(ii)",
+            "text":"",
+            "label":[
+                "1024",
+                "39",
+                "c",
+                "1",
+                "ii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-39-c-1-ii-Interp-1",
+                "1024-39-c-1-ii-Interp-2",
+                "1024-39-c-1-iii-Interp-1"
+            ]
         },
         "op":"added"
     },
@@ -4577,6 +4596,7 @@
                 "1024-39-c-Interp-1",
                 "1024-39-c-Interp-2",
                 "1024-39-c-1-Interp",
+                "1024-39-c-1-ii-Interp",
                 "1024-39-c-2-Interp"
             ]
         },
