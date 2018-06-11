@@ -76,6 +76,18 @@
             [
                 [
                     "delete",
+                    0,
+                    5
+                ],
+                [
+                    "insert",
+                    0,
+                    "iii."
+                ]
+            ],
+            [
+                [
+                    "delete",
                     121,
                     134
                 ],
@@ -2341,6 +2353,25 @@
         },
         "op":"added"
     },
+    "1024-41-c-3-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(c)(3) Notice of complete application.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "3",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-c-3-i-Interp"
+            ]
+        },
+        "op":"added"
+    },
     "1024-32-c-1-v":{
         "node":{
             "tagged_text":null,
@@ -2377,26 +2408,8 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-Delinquency":{
-        "node":{
-            "tagged_text":null,
-            "title":"Delinquency.",
-            "text":"",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "Delinquency"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-31-Interp-Delinquency-1",
-                "1024-31-Interp-Delinquency-2",
-                "1024-31-Interp-Delinquency-3",
-                "1024-31-Interp-Delinquency-4"
-            ]
-        },
-        "op":"added"
+    "1024-41-c-2-iii-A":{
+        "op":"deleted"
     },
     "1024-39-d-3-ii":{
         "node":{
@@ -2414,6 +2427,9 @@
             "child_labels":[]
         },
         "op":"added"
+    },
+    "1024-41-c-2-iii-C":{
+        "op":"deleted"
     },
     "1024-36-d-3-ii":{
         "node":{
@@ -2584,9 +2600,16 @@
     "1024-41-c-2-iv":{
         "text":[
             [
-                "insert",
-                5,
-                "A loss mitigation application shall be considered facially complete when a borrower submits all the missing documents and information as stated in the notice required under paragraph (b)(2)(i)(B) of this section, when no additional information is requested in such notice, or once the servicer is required to provide the borrower a written notice pursuant to paragraph (c)(3)(i) of this section. "
+                [
+                    "delete",
+                    0,
+                    4
+                ],
+                [
+                    "insert",
+                    0,
+                    "iv. A loss mitigation application shall be considered facially complete when a borrower submits all the missing documents and information as stated in the notice required under paragraph (b)(2)(i)(B) of this section, when no additional information is requested in such notice, or once the servicer is required to provide the borrower a written notice pursuant to paragraph (c)(3)(i) of this section."
+                ]
             ],
             [
                 "insert",
@@ -2902,6 +2925,28 @@
             ],
             "node_type":"interp",
             "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1024-41-k-2-ii-Interp":{
+        "node":{
+            "tagged_text":null,
+            "title":"41(k)(2)(ii) Prohibitions.",
+            "text":"",
+            "label":[
+                "1024",
+                "41",
+                "k",
+                "2",
+                "ii",
+                "Interp"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-41-k-2-ii-Interp-1",
+                "1024-41-k-2-ii-Interp-2",
+                "1024-41-k-2-ii-Interp-3"
+            ]
         },
         "op":"added"
     },
@@ -3666,24 +3711,23 @@
         },
         "op":"added"
     },
-    "1024-41-k-2-ii-Interp":{
+    "1024-31-Interp-Delinquency":{
         "node":{
             "tagged_text":null,
-            "title":"41(k)(2)(ii) Prohibitions.",
+            "title":"Delinquency.",
             "text":"",
             "label":[
                 "1024",
-                "41",
-                "k",
-                "2",
-                "ii",
-                "Interp"
+                "31",
+                "Interp",
+                "Delinquency"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-41-k-2-ii-Interp-1",
-                "1024-41-k-2-ii-Interp-2",
-                "1024-41-k-2-ii-Interp-3"
+                "1024-31-Interp-Delinquency-1",
+                "1024-31-Interp-Delinquency-2",
+                "1024-31-Interp-Delinquency-3",
+                "1024-31-Interp-Delinquency-4"
             ]
         },
         "op":"added"
@@ -3740,24 +3784,8 @@
         },
         "op":"added"
     },
-    "1024-38-b-3-iii-Interp-1":{
-        "node":{
-            "tagged_text":null,
-            "title":"Sharing information with service provider personnel handling foreclosure proceedings.",
-            "text":"A servicer's policies and procedures must be reasonably designed to ensure that servicer personnel promptly inform service provider personnel handling foreclosure proceedings that the servicer has received a complete loss mitigation application and promptly instruct foreclosure counsel to take any step required by \u00a7\u20091024.41(g) sufficiently timely to avoid violating the prohibition against moving for judgment or order of sale, or conducting a foreclosure sale.",
-            "label":[
-                "1024",
-                "38",
-                "b",
-                "3",
-                "iii",
-                "Interp",
-                "1"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1024-41-c-2-iii-B":{
+        "op":"deleted"
     },
     "1024-38-b-3-iii-Interp":{
         "node":{
@@ -4019,22 +4047,22 @@
         },
         "op":"added"
     },
-    "1024-41-c-3-Interp":{
+    "1024-38-b-3-iii-Interp-1":{
         "node":{
             "tagged_text":null,
-            "title":"41(c)(3) Notice of complete application.",
-            "text":"",
+            "title":"Sharing information with service provider personnel handling foreclosure proceedings.",
+            "text":"A servicer's policies and procedures must be reasonably designed to ensure that servicer personnel promptly inform service provider personnel handling foreclosure proceedings that the servicer has received a complete loss mitigation application and promptly instruct foreclosure counsel to take any step required by \u00a7\u20091024.41(g) sufficiently timely to avoid violating the prohibition against moving for judgment or order of sale, or conducting a foreclosure sale.",
             "label":[
                 "1024",
-                "41",
-                "c",
+                "38",
+                "b",
                 "3",
-                "Interp"
+                "iii",
+                "Interp",
+                "1"
             ],
             "node_type":"interp",
-            "child_labels":[
-                "1024-41-c-3-i-Interp"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },

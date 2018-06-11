@@ -5566,7 +5566,7 @@
         "node":{
             "tagged_text":null,
             "title":"Short-term loss mitigation options.",
-            "text":"(iii) Notwithstanding paragraph (c)(2)(i) of this section, a servicer may offer a short-term payment forbearance program or a short-term repayment plan to a borrower based upon an evaluation of an incomplete loss mitigation application. Promptly after offering a payment forbearance program or a repayment plan under this paragraph (c)(2)(iii), unless the borrower has rejected the offer, the servicer must provide the borrower a written notice stating the specific payment terms and duration of the program or plan, that the servicer offered the program or plan based on an evaluation of an incomplete application, that other loss mitigation options may be available, and that the borrower has the option to submit a complete loss mitigation application to receive an evaluation for all loss mitigation options available to the borrower regardless of whether the borrower accepts the program or plan. A servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process, and shall not move for foreclosure judgment or order of sale or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of a payment forbearance program or repayment plan offered pursuant to this paragraph (c)(2)(iii). A servicer may offer a short-term payment forbearance program in conjunction with a short-term repayment plan pursuant to this paragraph (c)(2)(iii).",
+            "text":"iii. Notwithstanding paragraph (c)(2)(i) of this section, a servicer may offer a short-term payment forbearance program or a short-term repayment plan to a borrower based upon an evaluation of an incomplete loss mitigation application. Promptly after offering a payment forbearance program or a repayment plan under this paragraph (c)(2)(iii), unless the borrower has rejected the offer, the servicer must provide the borrower a written notice stating the specific payment terms and duration of the program or plan, that the servicer offered the program or plan based on an evaluation of an incomplete application, that other loss mitigation options may be available, and that the borrower has the option to submit a complete loss mitigation application to receive an evaluation for all loss mitigation options available to the borrower regardless of whether the borrower accepts the program or plan. A servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process, and shall not move for foreclosure judgment or order of sale or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of a payment forbearance program or repayment plan offered pursuant to this paragraph (c)(2)(iii). A servicer may offer a short-term payment forbearance program in conjunction with a short-term repayment plan pursuant to this paragraph (c)(2)(iii).",
             "label":[
                 "1024",
                 "41",
@@ -5575,11 +5575,7 @@
                 "iii"
             ],
             "node_type":"regtext",
-            "child_labels":[
-                "1024-41-c-2-iii-A",
-                "1024-41-c-2-iii-B",
-                "1024-41-c-2-iii-C"
-            ]
+            "child_labels":[]
         },
         "op":"added"
     },
@@ -6638,7 +6634,7 @@
         "node":{
             "tagged_text":null,
             "title":"Facially complete application.",
-            "text":"(iv) A loss mitigation application shall be considered facially complete when a borrower submits all the missing documents and information as stated in the notice required under paragraph (b)(2)(i)(B) of this section, when no additional information is requested in such notice, or once the servicer is required to provide the borrower a written notice pursuant to paragraph (c)(3)(i) of this section. If the servicer later discovers that additional information or corrections to a previously submitted document are required to complete the application, the servicer must promptly request the missing information or corrected documents and treat the application as complete for the purposes of paragraphs (f)(2) and (g) of this section until the borrower is given a reasonable opportunity to complete the application. If the borrower completes the application within this period, the application shall be considered complete as of the date it first became facially complete, for the purposes of paragraphs (d), (e), (f)(2), (g), and (h) of this section, and as of the date the application was actually complete for the purposes of this paragraph (c). A servicer that complies with this paragraph (c)(2)(iv) will be deemed to have fulfilled its obligation to provide an accurate notice under paragraph (b)(2)(i)(B) of this section.",
+            "text":"iv. A loss mitigation application shall be considered facially complete when a borrower submits all the missing documents and information as stated in the notice required under paragraph (b)(2)(i)(B) of this section, when no additional information is requested in such notice, or once the servicer is required to provide the borrower a written notice pursuant to paragraph (c)(3)(i) of this section. If the servicer later discovers that additional information or corrections to a previously submitted document are required to complete the application, the servicer must promptly request the missing information or corrected documents and treat the application as complete for the purposes of paragraphs (f)(2) and (g) of this section until the borrower is given a reasonable opportunity to complete the application. If the borrower completes the application within this period, the application shall be considered complete as of the date it first became facially complete, for the purposes of paragraphs (d), (e), (f)(2), (g), and (h) of this section, and as of the date the application was actually complete for the purposes of this paragraph (c). A servicer that complies with this paragraph (c)(2)(iv) will be deemed to have fulfilled its obligation to provide an accurate notice under paragraph (b)(2)(i)(B) of this section.",
             "label":[
                 "1024",
                 "41",
@@ -8804,28 +8800,6 @@
         },
         "op":"added"
     },
-    "1024-41-k-2-ii-Interp":{
-        "node":{
-            "tagged_text":null,
-            "title":"41(k)(2)(ii) Prohibitions.",
-            "text":"",
-            "label":[
-                "1024",
-                "41",
-                "k",
-                "2",
-                "ii",
-                "Interp"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-41-k-2-ii-Interp-1",
-                "1024-41-k-2-ii-Interp-2",
-                "1024-41-k-2-ii-Interp-3"
-            ]
-        },
-        "op":"added"
-    },
     "1024-MS1-h1-h2-p5":{
         "op":"deleted"
     },
@@ -10540,21 +10514,24 @@
         },
         "op":"added"
     },
-    "1024-41-c-2-iii-A":{
+    "1024-31-Interp-Delinquency":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(A) The servicer has received an incomplete loss mitigation application, and on the basis of that application the servicer is offering a payment forbearance program;",
+            "title":"Delinquency.",
+            "text":"",
             "label":[
                 "1024",
-                "41",
-                "c",
-                "2",
-                "iii",
-                "A"
+                "31",
+                "Interp",
+                "Delinquency"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1024-31-Interp-Delinquency-1",
+                "1024-31-Interp-Delinquency-2",
+                "1024-31-Interp-Delinquency-3",
+                "1024-31-Interp-Delinquency-4"
+            ]
         },
         "op":"added"
     },
@@ -10576,42 +10553,6 @@
                 "1",
                 "vi",
                 "B"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-41-c-2-iii-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(B) Absent further action by the borrower, the servicer will not review the incomplete application for other loss mitigation options; and",
-            "label":[
-                "1024",
-                "41",
-                "c",
-                "2",
-                "iii",
-                "B"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-41-c-2-iii-C":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(C) If the borrower would like to be considered for other loss mitigation options, the borrower must notify the servicer and submit the missing documents and information required to complete the loss mitigation application.",
-            "label":[
-                "1024",
-                "41",
-                "c",
-                "2",
-                "iii",
-                "C"
             ],
             "node_type":"regtext",
             "child_labels":[]
@@ -13308,23 +13249,24 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-Delinquency":{
+    "1024-41-k-2-ii-Interp":{
         "node":{
             "tagged_text":null,
-            "title":"Delinquency.",
+            "title":"41(k)(2)(ii) Prohibitions.",
             "text":"",
             "label":[
                 "1024",
-                "31",
-                "Interp",
-                "Delinquency"
+                "41",
+                "k",
+                "2",
+                "ii",
+                "Interp"
             ],
             "node_type":"interp",
             "child_labels":[
-                "1024-31-Interp-Delinquency-1",
-                "1024-31-Interp-Delinquency-2",
-                "1024-31-Interp-Delinquency-3",
-                "1024-31-Interp-Delinquency-4"
+                "1024-41-k-2-ii-Interp-1",
+                "1024-41-k-2-ii-Interp-2",
+                "1024-41-k-2-ii-Interp-3"
             ]
         },
         "op":"added"

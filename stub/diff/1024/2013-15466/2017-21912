@@ -596,26 +596,14 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-Delinquency":{
-        "node":{
-            "tagged_text":null,
-            "title":"Delinquency.",
-            "text":"",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "Delinquency"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-31-Interp-Delinquency-1",
-                "1024-31-Interp-Delinquency-2",
-                "1024-31-Interp-Delinquency-3",
-                "1024-31-Interp-Delinquency-4"
-            ]
-        },
-        "op":"added"
+    "1024-41-c-2-iii-A":{
+        "op":"deleted"
+    },
+    "1024-41-c-2-iii-B":{
+        "op":"deleted"
+    },
+    "1024-41-c-2-iii-C":{
+        "op":"deleted"
     },
     "1024-A-h5":{
         "text":[
@@ -1685,6 +1673,18 @@
             [
                 [
                     "delete",
+                    0,
+                    5
+                ],
+                [
+                    "insert",
+                    0,
+                    "iii."
+                ]
+            ],
+            [
+                [
+                    "delete",
                     121,
                     134
                 ],
@@ -2556,9 +2556,16 @@
     "1024-41-c-2-iv":{
         "text":[
             [
-                "insert",
-                5,
-                "A loss mitigation application shall be considered facially complete when a borrower submits all the missing documents and information as stated in the notice required under paragraph (b)(2)(i)(B) of this section, when no additional information is requested in such notice, or once the servicer is required to provide the borrower a written notice pursuant to paragraph (c)(3)(i) of this section. "
+                [
+                    "delete",
+                    0,
+                    4
+                ],
+                [
+                    "insert",
+                    0,
+                    "iv. A loss mitigation application shall be considered facially complete when a borrower submits all the missing documents and information as stated in the notice required under paragraph (b)(2)(i)(B) of this section, when no additional information is requested in such notice, or once the servicer is required to provide the borrower a written notice pursuant to paragraph (c)(3)(i) of this section."
+                ]
             ],
             [
                 "insert",
@@ -4103,6 +4110,27 @@
             ]
         ],
         "op":"modified"
+    },
+    "1024-31-Interp-Delinquency":{
+        "node":{
+            "tagged_text":null,
+            "title":"Delinquency.",
+            "text":"",
+            "label":[
+                "1024",
+                "31",
+                "Interp",
+                "Delinquency"
+            ],
+            "node_type":"interp",
+            "child_labels":[
+                "1024-31-Interp-Delinquency-1",
+                "1024-31-Interp-Delinquency-2",
+                "1024-31-Interp-Delinquency-3",
+                "1024-31-Interp-Delinquency-4"
+            ]
+        },
+        "op":"added"
     },
     "1024-41-c-2-iii-Interp-1-i":{
         "op":"deleted"

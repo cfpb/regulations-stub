@@ -743,57 +743,24 @@
         },
         "op":"added"
     },
-    "1024-41-c-2-iii-A":{
+    "1024-31-Interp-Delinquency":{
         "node":{
             "tagged_text":null,
-            "title":null,
-            "text":"(A) The servicer has received an incomplete loss mitigation application, and on the basis of that application the servicer is offering a payment forbearance program;",
+            "title":"Delinquency.",
+            "text":"",
             "label":[
                 "1024",
-                "41",
-                "c",
-                "2",
-                "iii",
-                "A"
+                "31",
+                "Interp",
+                "Delinquency"
             ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-41-c-2-iii-B":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(B) Absent further action by the borrower, the servicer will not review the incomplete application for other loss mitigation options; and",
-            "label":[
-                "1024",
-                "41",
-                "c",
-                "2",
-                "iii",
-                "B"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
-        },
-        "op":"added"
-    },
-    "1024-41-c-2-iii-C":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"(C) If the borrower would like to be considered for other loss mitigation options, the borrower must notify the servicer and submit the missing documents and information required to complete the loss mitigation application.",
-            "label":[
-                "1024",
-                "41",
-                "c",
-                "2",
-                "iii",
-                "C"
-            ],
-            "node_type":"regtext",
-            "child_labels":[]
+            "node_type":"interp",
+            "child_labels":[
+                "1024-31-Interp-Delinquency-1",
+                "1024-31-Interp-Delinquency-2",
+                "1024-31-Interp-Delinquency-3",
+                "1024-31-Interp-Delinquency-4"
+            ]
         },
         "op":"added"
     },
@@ -1873,13 +1840,13 @@
             [
                 [
                     "delete",
-                    6,
+                    0,
                     41
                 ],
                 [
                     "insert",
-                    6,
-                    "Notwithstanding"
+                    0,
+                    "iii. Notwithstanding"
                 ]
             ],
             [
@@ -2797,13 +2764,13 @@
             [
                 [
                     "delete",
-                    5,
+                    0,
                     37
                 ],
                 [
                     "insert",
-                    5,
-                    "A loss mitigation application shall be considered facially complete when"
+                    0,
+                    "iv. A loss mitigation application shall be considered facially complete when"
                 ]
             ],
             [
@@ -4610,27 +4577,6 @@
             ]
         ],
         "op":"modified"
-    },
-    "1024-31-Interp-Delinquency":{
-        "node":{
-            "tagged_text":null,
-            "title":"Delinquency.",
-            "text":"",
-            "label":[
-                "1024",
-                "31",
-                "Interp",
-                "Delinquency"
-            ],
-            "node_type":"interp",
-            "child_labels":[
-                "1024-31-Interp-Delinquency-1",
-                "1024-31-Interp-Delinquency-2",
-                "1024-31-Interp-Delinquency-3",
-                "1024-31-Interp-Delinquency-4"
-            ]
-        },
-        "op":"added"
     },
     "1024-30-c-2-Interp":{
         "node":{

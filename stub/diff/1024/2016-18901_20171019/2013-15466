@@ -25,77 +25,89 @@
             [
                 [
                     "delete",
-                    121,
-                    123
+                    0,
+                    4
                 ],
                 [
                     "insert",
-                    121,
+                    0,
+                    "(iii)"
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    120,
+                    122
+                ],
+                [
+                    "insert",
+                    120,
                     "to"
                 ]
             ],
             [
                 [
                     "delete",
-                    126,
-                    151
+                    125,
+                    150
                 ],
                 [
                     "insert",
-                    126,
+                    125,
                     "borrower based upon an evaluation of an incomplete loss mitigation application. A servicer offering such a program"
                 ]
             ],
             [
                 [
                     "delete",
-                    166,
-                    176
+                    165,
+                    175
                 ],
                 [
                     "insert",
-                    166,
+                    165,
                     "who has submitted"
                 ]
             ],
             [
                 [
                     "delete",
-                    180,
-                    190
+                    179,
+                    189
                 ],
                 [
                     "insert",
-                    180,
+                    179,
                     "incomplete loss mitigation application must include in the notice"
                 ]
             ],
             [
                 "delete",
-                194,
-                197
+                193,
+                196
             ],
             [
                 [
                     "delete",
-                    208,
-                    260
+                    207,
+                    259
                 ],
                 [
                     "insert",
-                    208,
+                    207,
                     "application required pursuant to paragraph (b)(2)(i)(B) of this section"
                 ]
             ],
             [
                 [
                     "delete",
-                    263,
-                    1426
+                    262,
+                    1425
                 ],
                 [
                     "insert",
-                    263,
+                    262,
                     "statement that:"
                 ]
             ]
@@ -790,6 +802,9 @@
         ],
         "op":"modified"
     },
+    "1024-41-c-3-Interp":{
+        "op":"deleted"
+    },
     "1024-41-b-2-ii-Interp-3":{
         "op":"deleted"
     },
@@ -1001,25 +1016,8 @@
         ],
         "op":"modified"
     },
-    "1024-41-c-2-iii-Interp-1-iii":{
-        "node":{
-            "tagged_text":null,
-            "title":null,
-            "text":"A servicer allows a borrower to forgo payment for January and February. These payments are spread over the next six months, and the borrower will make larger payments for March through August. This is a two-month forbearance program, and thus would be considered short-term.",
-            "label":[
-                "1024",
-                "41",
-                "c",
-                "2",
-                "iii",
-                "Interp",
-                "1",
-                "iii"
-            ],
-            "node_type":"interp",
-            "child_labels":[]
-        },
-        "op":"added"
+    "1024-31-Interp-SuccessorInInterest":{
+        "op":"deleted"
     },
     "1024-39-d-2":{
         "text":[
@@ -1172,11 +1170,44 @@
     "1024-38-b-1-vi-Interp-4":{
         "op":"deleted"
     },
-    "1024-31-Interp-Delinquency":{
-        "op":"deleted"
+    "1024-41-c-2-iii-A":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(A) The servicer has received an incomplete loss mitigation application, and on the basis of that application the servicer is offering a payment forbearance program;",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iii",
+                "A"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-39-d-3-ii":{
         "op":"deleted"
+    },
+    "1024-41-c-2-iii-C":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(C) If the borrower would like to be considered for other loss mitigation options, the borrower must notify the servicer and submit the missing documents and information required to complete the loss mitigation application.",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iii",
+                "C"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-39-c-1-iii":{
         "op":"deleted"
@@ -1268,72 +1299,72 @@
             [
                 [
                     "delete",
-                    5,
-                    6
+                    0,
+                    5
                 ],
                 [
                     "insert",
-                    5,
-                    "If a servicer creates a reasonable expectation that a"
+                    0,
+                    "(iv) If a servicer creates a reasonable expectation that a"
                 ]
             ],
             [
                 "insert",
-                35,
+                34,
                 "is complete but the servicer later discovers that the application is incomplete, the servicer "
             ],
             [
                 [
                     "delete",
-                    41,
-                    63
+                    40,
+                    62
                 ],
                 [
                     "insert",
-                    41,
+                    40,
                     "treat the application as"
                 ]
             ],
             [
                 [
                     "delete",
-                    73,
-                    77
+                    72,
+                    76
                 ],
                 [
                     "insert",
-                    73,
+                    72,
                     "as of the date the borrower had reason to believe the application was complete for purposes of paragraphs (f)(2) and (g) of this section until the borrower has been given"
                 ]
             ],
             [
                 [
                     "delete",
-                    80,
-                    100
+                    79,
+                    99
                 ],
                 [
                     "insert",
-                    80,
+                    79,
                     "reasonable opportunity to complete"
                 ]
             ],
             [
                 [
                     "delete",
-                    105,
-                    803
+                    104,
+                    802
                 ],
                 [
                     "insert",
-                    105,
+                    104,
                     "loss mitigation"
                 ]
             ],
             [
                 "delete",
-                816,
-                1329
+                815,
+                1328
             ]
         ],
         "title":[
@@ -2023,7 +2054,7 @@
         },
         "op":"added"
     },
-    "1024-31-Interp-SuccessorInInterest":{
+    "1024-31-Interp-Delinquency":{
         "op":"deleted"
     },
     "1024-30-d-Interp-2":{
@@ -2070,8 +2101,23 @@
     "1024-32-c-1-Interp-1":{
         "op":"deleted"
     },
-    "1024-38-b-3-iii-Interp-1":{
-        "op":"deleted"
+    "1024-41-c-2-iii-B":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(B) Absent further action by the borrower, the servicer will not review the incomplete application for other loss mitigation options; and",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iii",
+                "B"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-C-h2-h3-p8-p13":{
         "node":{
@@ -2273,7 +2319,7 @@
     "1024-41-b-1-Interp-1-ii":{
         "op":"deleted"
     },
-    "1024-41-c-3-Interp":{
+    "1024-38-b-3-iii-Interp-1":{
         "op":"deleted"
     },
     "1024-41-c-3-i-C":{
@@ -3930,6 +3976,26 @@
     },
     "1024-39-c-1":{
         "op":"deleted"
+    },
+    "1024-41-c-2-iii-Interp-1-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"A servicer allows a borrower to forgo payment for January and February. These payments are spread over the next six months, and the borrower will make larger payments for March through August. This is a two-month forbearance program, and thus would be considered short-term.",
+            "label":[
+                "1024",
+                "41",
+                "c",
+                "2",
+                "iii",
+                "Interp",
+                "1",
+                "iii"
+            ],
+            "node_type":"interp",
+            "child_labels":[]
+        },
+        "op":"added"
     },
     "1024-MS-3(A)-p40":{
         "text":[
