@@ -1,0 +1,130 @@
+{
+    "1081-110-a-2":[
+        {
+            "offsets":[
+                [
+                    66,
+                    88
+                ]
+            ],
+            "ref":"ex parte communication:1081-110-a-1"
+        }
+    ],
+    "1081-110-b":[
+        {
+            "offsets":[
+                [
+                    4,
+                    27
+                ]
+            ],
+            "ref":"ex parte communication:1081-110-a-1"
+        },
+        {
+            "offsets":[
+                [
+                    40,
+                    78
+                ]
+            ],
+            "ref":"pendency of an adjudication proceeding:1081-110-a-3"
+        }
+    ],
+    "1081-110-b-1":[
+        {
+            "offsets":[
+                [
+                    171,
+                    193
+                ]
+            ],
+            "ref":"ex parte communication:1081-110-a-1"
+        }
+    ],
+    "1081-110-b-2":[
+        {
+            "offsets":[
+                [
+                    167,
+                    189
+                ]
+            ],
+            "ref":"ex parte communication:1081-110-a-1"
+        }
+    ],
+    "1081-110-c":[
+        {
+            "offsets":[
+                [
+                    4,
+                    26
+                ],
+                [
+                    34,
+                    56
+                ],
+                [
+                    507,
+                    529
+                ]
+            ],
+            "ref":"ex parte communication:1081-110-a-1"
+        }
+    ],
+    "1081-110-d-1":[
+        {
+            "offsets":[
+                [
+                    23,
+                    45
+                ]
+            ],
+            "ref":"ex parte communication:1081-110-a-1"
+        }
+    ],
+    "1081-110-d-2":[
+        {
+            "offsets":[
+                [
+                    199,
+                    221
+                ]
+            ],
+            "ref":"ex parte communication:1081-110-a-1"
+        }
+    ],
+    "referenced":{
+        "dodd-frank act:1081-103-p1":{
+            "position":[
+                73,
+                87
+            ],
+            "reference":"1081-103-p1",
+            "term":"dodd-frank act"
+        },
+        "ex parte communication:1081-110-a-1":{
+            "position":[
+                34,
+                56
+            ],
+            "reference":"1081-110-a-1",
+            "term":"ex parte communication"
+        },
+        "pendency of an adjudication proceeding:1081-110-a-3":{
+            "position":[
+                4,
+                42
+            ],
+            "reference":"1081-110-a-3",
+            "term":"pendency of an adjudication proceeding"
+        },
+        "sensitive personal information:1081-112-e":{
+            "position":[
+                4,
+                34
+            ],
+            "reference":"1081-112-e",
+            "term":"sensitive personal information"
+        }
+    }
+}
