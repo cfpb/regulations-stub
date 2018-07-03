@@ -1,0 +1,186 @@
+{
+    "1016-5-e-1-i":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(i) Provide nonpublic personal information to nonaffiliated third parties only in accordance with the provisions of \u00a7\u20091016.13, \u00a7\u20091016.14, or \u00a7\u20091016.15; and",
+            "label":[
+                "1016",
+                "5",
+                "e",
+                "1",
+                "i"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1016-5-e-2":{
+        "node":{
+            "tagged_text":null,
+            "title":"Delivery of annual privacy notice after financial institution no longer meets requirements for exception.",
+            "text":"(2) If you have been excepted from delivering an annual privacy notice pursuant to paragraph (e)(1) of this section and change your policies or practices in such a way that you no longer meet the requirements for that exception, you must comply with paragraph (e)(2)(i) or (e)(2)(ii) of this section, as applicable.",
+            "label":[
+                "1016",
+                "5",
+                "e",
+                "2"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1016-5-e-2-i",
+                "1016-5-e-2-ii",
+                "1016-5-e-2-iii"
+            ]
+        },
+        "op":"added"
+    },
+    "1016-5-e-1":{
+        "node":{
+            "tagged_text":null,
+            "title":"When exception available.",
+            "text":"(1) You are not required to deliver an annual privacy notice if you:",
+            "label":[
+                "1016",
+                "5",
+                "e",
+                "1"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1016-5-e-1-i",
+                "1016-5-e-1-ii"
+            ]
+        },
+        "op":"added"
+    },
+    "1016-5-e-2-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":"Changes not preceded by a revised privacy notice.",
+            "text":"(ii) If you no longer meet the requirements of paragraph (e)(1) of this section because you change your policies or practices in such a way that \u00a7\u20091016.8 does not require you to provide a revised privacy notice, you must provide an annual privacy notice within 60 days of the change in your policies or practices that causes you to no longer meet the requirements of paragraph (e)(1).",
+            "label":[
+                "1016",
+                "5",
+                "e",
+                "2",
+                "ii"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1016-5-e-1-ii":{
+        "node":{
+            "tagged_text":null,
+            "title":null,
+            "text":"(ii) Have not changed your policies and practices with regard to disclosing nonpublic personal information from the policies and practices that were disclosed to the customer under \u00a7\u20091016.6(a)(2) through (5) and (9) in the most recent privacy notice provided pursuant to this part.",
+            "label":[
+                "1016",
+                "5",
+                "e",
+                "1",
+                "ii"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1016-5-e-2-iii":{
+        "node":{
+            "tagged_text":null,
+            "title":"Example.",
+            "text":"(iii) You change your policies and practices in such a way that you no longer meet the requirements of paragraph (e)(1) of this section effective April 1 of year 1. Assuming you define the 12-consecutive-month period pursuant to paragraph (a) of this section as a calendar year, if you were required to provide a revised privacy notice under \u00a7\u20091016.8 and you provided that notice on March 1 of year 1, you must provide an annual privacy notice by December 31 of year 2. If you were not required to provide a revised privacy notice under \u00a7\u20091016.8, you must provide an annual privacy notice by May 30 of year 1.",
+            "label":[
+                "1016",
+                "5",
+                "e",
+                "2",
+                "iii"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1016-5-a-1":{
+        "text":[
+            [
+                "insert",
+                4,
+                "Except as provided by paragraph (e) of this section, you must provide a clear and conspicuous notice to customers that accurately reflects your privacy policies and practices not less than annually during the continuation of the customer relationship. Annually means at least once in any period of 12 consecutive months during which that relationship exists. "
+            ],
+            [
+                "insert",
+                8,
+                "may define the 12-consecutive-month period, but you "
+            ],
+            [
+                [
+                    "delete",
+                    13,
+                    20
+                ],
+                [
+                    "insert",
+                    13,
+                    "apply it to the customer on"
+                ]
+            ],
+            [
+                "delete",
+                23,
+                401
+            ]
+        ],
+        "op":"modified"
+    },
+    "1016-5-e-2-i":{
+        "node":{
+            "tagged_text":null,
+            "title":"Changes preceded by a revised privacy notice.",
+            "text":"(i) If you no longer meet the requirements of paragraph (e)(1) of this section because you change your policies or practices in such a way that \u00a7\u20091016.8 requires you to provide a revised privacy notice, you must provide an annual privacy notice in accordance with the timing requirements in paragraph (a) of this section, treating the revised privacy notice as an initial privacy notice.",
+            "label":[
+                "1016",
+                "5",
+                "e",
+                "2",
+                "i"
+            ],
+            "node_type":"regtext",
+            "child_labels":[]
+        },
+        "op":"added"
+    },
+    "1016-5-e":{
+        "node":{
+            "tagged_text":null,
+            "title":"Exception to annual privacy notice requirement.",
+            "text":"(e)",
+            "label":[
+                "1016",
+                "5",
+                "e"
+            ],
+            "node_type":"regtext",
+            "child_labels":[
+                "1016-5-e-1",
+                "1016-5-e-2"
+            ]
+        },
+        "op":"added"
+    },
+    "1016-3-s-1":{
+        "text":[
+            [
+                "delete",
+                38,
+                54
+            ]
+        ],
+        "op":"modified"
+    }
+}
